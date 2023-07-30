@@ -1,0 +1,27 @@
+### Footprint positions - created on Sun Jul 30 09:10:00 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                                                 PosX       PosY       Rot  Side
+D1        DIODE        D_DO-15_P15.24mm_Horizontal                         124.9680   -44.7040  180.0000  top
+J1        ToArduino    PinSocket_1x02_P2.54mm_Vertical                      61.4680   -45.0850    0.0000  top
+J2        FromArduino  PinSocket_1x02_P2.54mm_Vertical                      61.3410   -68.0720  180.0000  top
+J3        Power12V     BarrelJack_CUI_PJ-063AH_Horizontal                   71.1200   -54.2290  180.0000  top
+J4        A0_Sensor    PinSocket_1x01_P2.54mm_Vertical                     104.7750   -68.3260    0.0000  top
+J5        D12          PinSocket_1x01_P2.54mm_Vertical                      92.7100   -68.3260    0.0000  top
+J6        D4_-_Heat    PinSocket_1x01_P2.54mm_Vertical                      80.7720   -53.9750    0.0000  top
+J7        D11          PinSocket_1x01_P2.54mm_Vertical                      77.3430   -68.3260    0.0000  top
+J8        D5-Fan       PinSocket_1x01_P2.54mm_Vertical                     103.2510   -54.3560    0.0000  top
+Q1        IRF-Heat     TO-220-3_Vertical                                    87.7570   -45.9740    0.0000  top
+Q2        IRF-Fan      TO-220-3_Vertical                                   110.9980   -51.4350    0.0000  top
+R1        Heat-R       R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal    85.8520   -53.9750    0.0000  top
+R2        Sensor       PinSocket_1x02_P2.54mm_Vertical                     110.7440   -68.3260   90.0000  top
+R3        Temp_R       R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal    86.1060   -62.2300    0.0000  top
+R4        Pull-D12     R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal   107.3150   -63.3730    0.0000  top
+R5        Heating      PinSocket_1x02_P2.54mm_Vertical                      81.1530   -44.3230    0.0000  top
+R6        Pull-D11     R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal    79.8830   -60.7060  180.0000  top
+R7        Fan-R        R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal   108.7120   -57.9120    0.0000  top
+R8        Fan          PinSocket_1x02_P2.54mm_Vertical                     102.9970   -47.2440  180.0000  top
+SW1       Button_+     PinSocket_1x02_P2.54mm_Vertical                      85.9790   -68.3260  -90.0000  top
+SW2       Button_-     PinSocket_1x02_P2.54mm_Vertical                      70.9930   -68.3260  -90.0000  top
+## End
