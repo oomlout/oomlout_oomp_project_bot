@@ -1,0 +1,61 @@
+### Footprint positions - created on Mon Jul 31 04:25:32 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                         Package                                  PosX       PosY       Rot  Side
+C3        100nF                       C_0805                                52.5000   -97.2500  -90.0000  top
+C4        100nF                       C_0805                                46.0000   -72.0000  180.0000  top
+CONN1     MICRO_SD                    _Molex-microSD-502570-0893            36.7250   -18.1500    0.0000  top
+CONN3     UART                        Molex-PicoBlade-4                     16.0000   -78.7500  -90.0000  top
+CONN4     I2C                         Molex-PicoBlade-4                     24.0000   -78.7500  -90.0000  top
+CONN5     SPI                         Molex-PicoBlade-6                     32.0000   -76.0000  -90.0000  top
+CONN6     CAN                         _Molex-PicoBlade-SMD-4                60.0000   -65.0000    0.0000  top
+CONN8     CAN                         _Molex-PicoBlade-SMD-4                57.0000  -115.0000    0.0000  top
+CONN9     CAN                         _Molex-PicoBlade-SMD-4                60.0000   -81.0000    0.0000  top
+CONN10    CAN                         _Molex-PicoBlade-SMD-4                60.0000   -73.0000    0.0000  top
+CONN11    CAN                         _Molex-PicoBlade-SMD-4                60.0000   -57.0000    0.0000  top
+CONN12    CAN                         _Molex-PicoBlade-SMD-4                60.0000   -49.0000    0.0000  top
+CONN13    CAN                         _Molex-PicoBlade-SMD-4                46.0000   -57.0000    0.0000  top
+CONN14    CAN                         _Molex-PicoBlade-SMD-4                46.0000   -49.0000    0.0000  top
+CONN15    SERVO                       Pin_Header_Straight_1x03              22.9600   -34.7800  -90.0000  top
+CONN16    SERVO                       Pin_Header_Straight_1x03              22.9600   -44.9400  -90.0000  top
+CONN17    SERVO                       Pin_Header_Straight_1x03              22.9600   -55.1000  -90.0000  top
+CONN18    SERVO                       Pin_Header_Straight_1x03              22.9600   -65.2600  -90.0000  top
+CONN19    SERVO                       Pin_Header_Straight_1x03              22.9600   -37.3200  -90.0000  top
+CONN20    SERVO                       Pin_Header_Straight_1x03              22.9600   -47.4800  -90.0000  top
+CONN21    SERVO                       Pin_Header_Straight_1x03              22.9600   -57.6400  -90.0000  top
+CONN22    SERVO                       Pin_Header_Straight_1x03              22.9600   -67.8000  -90.0000  top
+CONN23    SERVO                       Pin_Header_Straight_1x03              22.9600   -39.8600  -90.0000  top
+CONN24    SERVO                       Pin_Header_Straight_1x03              22.9600   -50.0200  -90.0000  top
+CONN25    SERVO                       Pin_Header_Straight_1x03              22.9600   -60.1800  -90.0000  top
+CONN26    SERVO                       Pin_Header_Straight_1x03              22.9600   -70.3400  -90.0000  top
+CONN27    SERVO                       Pin_Header_Straight_1x03              22.9600   -42.4000  -90.0000  top
+CONN28    SERVO                       Pin_Header_Straight_1x03              22.9600   -52.5600  -90.0000  top
+CONN29    SERVO                       Pin_Header_Straight_1x03              22.9600   -62.7200  -90.0000  top
+CONN30    SERVO                       Pin_Header_Straight_1x03              22.9600   -72.8800  -90.0000  top
+D1        SD                          LED_0805                              30.0000   -16.0000  -90.0000  top
+G***      LOGO                        CVRA-logo                             33.0000   -46.5000   90.0000  top
+J1        E5V_Conn                    TerminalBlock_Pheonix_MKDS1.5-2pol    57.0000   -29.0000  180.0000  top
+J2        V_SERVO_CONN                TerminalBlock_Pheonix_MKDS1.5-2pol    21.0000   -22.0000  180.0000  top
+P1        ROBOT_SELECT                Pin_Header_Straight_1x03              31.9600   -99.7500   90.0000  top
+P2        CONN_02X10                  IDC_Header_Straight_20pins            22.1400  -114.0000    0.0000  top
+P3        ENCODER_TRANS               Molex-PicoBlade-5                     43.5000   -95.0000    0.0000  top
+P4        ENCODER_RIGHT               Molex-PicoBlade-5                     43.5000   -79.0000    0.0000  top
+P5        ENCODER_LEFT                Molex-PicoBlade-5                     43.5000   -87.0000    0.0000  top
+P6        5V_CAN_SELECT               Pin_Header_Straight_2x02              54.5400   -40.0000  -90.0000  top
+P7        GPIO                        Pin_Header_Straight_2x05              26.0800   -96.4600  -90.0000  top
+Q1        Q_PMOS_GSD                  SOT-23_Handsoldering                  40.5000   -35.5000   90.0000  top
+R1        10k                         R_0805                                40.5000   -40.0000  180.0000  top
+R2        4.7k                        R_0805                                35.5000   -60.0000  180.0000  top
+R3        4.7k                        R_0805                                35.5000   -62.0000  180.0000  top
+R4        4.7k                        R_0805                                35.5000   -70.0000  180.0000  top
+R5        4.7k                        R_0805                                35.5000   -68.0000  180.0000  top
+R6        10k                         R_0805                                35.5000   -64.0000  180.0000  top
+R7        1k                          R_0805                                28.0000   -16.0500   90.0000  top
+U1        ST_Nucleo144_F429ZI_Morpho  ST_Nucleo144_F429ZI_Morpho            40.0000   -59.0000    0.0000  top
+U2        SN65HVD256                  SOIC-8_3.9x4.9mm_Pitch1.27mm          58.0000   -96.0000   90.0000  top
+U3        SN65HVD256                  SOIC-8_3.9x4.9mm_Pitch1.27mm          46.0000   -66.0000   90.0000  top
+U4        PCA9685                     TSSOP-28_4.4x9.7mm_Pitch0.65mm        31.0000   -54.0000  -90.0000  top
+_M2       VAL**                       _M2                                   62.8600   -88.2100    0.0000  top
+_M2       VAL**                       _M2                                   17.1400   -88.2100    0.0000  top
+## End
