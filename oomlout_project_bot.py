@@ -19,17 +19,22 @@ def copy_data():
 
 
 def go_through_directories():
-    # go through all directories in footprints
+    # go through all directories in projects
     for root, dirs, files in os.walk("projects"):
-        #for each directory
-        for name in dirs:
-            #go through the files in this directory just one level
-            for file in os.listdir(os.path.join(root, name)):
-                #if kicad_mod file
+        #go through all files
+        for file in files:
+            #check for a brd file
+            
+            filename = os.path.join(root, file)
+            filter = ["sparkfun","adafruit","omerk"]
+            filter = ["omerk"]
+            #if any of filter is in filename
+            if any(x in filename for x in filter):
+                if file.endswith(".brd"):
+                    oom_kicad.eagle_to_kicad(filename=filename)
                 if file.endswith(".kicad_pcb"):
-                    filename = os.path.join(root, name, file)
-
                     oom_kicad.generate_outputs(filename=filename)
+    
             
 
 
