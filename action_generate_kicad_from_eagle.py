@@ -21,6 +21,8 @@ def go_through_directories():
 
 
 
+
+
 if __name__ == '__main__':
     go_through_directories()
 
