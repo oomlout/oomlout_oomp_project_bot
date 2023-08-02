@@ -9,12 +9,16 @@ def go_through_directories():
             #check for a brd file
             
             filename = os.path.join(root, file)
-            filter = ["sparkfun","adafruit","omerk"]
-            filter = ["omerk"]
+            filter = ["electrolama","sparkfun","adafruit","omerk"]
+            #filter = ["omerk","electrolama"]
             #if any of filter is in filename
-            if any(x in filename for x in filter):
+            if any(x
+             in filename for x in filter):                
                 if file.endswith(".brd"):
+                    print(f"working on {filename}")
+
                     oom_kicad.eagle_to_kicad(filename=filename)
+
 
 
 if __name__ == '__main__':
