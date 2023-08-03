@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="24" Component_Count="33 (0 SMD/ 0 THT)" Fitted_Components="33 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="33" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0603_NO" References="C4 C5" Value="22pF" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0603_NO" References="C21 C22" Value="10nF" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0603_NO" References="C26" Value="0.1µF" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC0603_NO" References="C3 C8 C19" Value="1uF" Footprint="0603-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C20" Value="10µF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="CAP_CERAMIC_0805MP" References="C6" Value="10µF" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="CPOL-USC" References="C1 C2" Value="220uF" Footprint="PANASONIC_C" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="MICROSD" References="CN1" Value="2908-05WB-M6" Footprint="MICROSD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="FERRITE-0805NO" References="FB1 FB2" Value="FERITTE" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="HEADER-1X12" References="JP1" Value="HEADER-1X12" Footprint="1X12_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="HEADER-1X13" References="JP3" Value="HEADER-1X13" Footprint="1X13_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="HEADER-1X1ROUND" References="JP5" Value="HEADER-1X1ROUND" Footprint="1X01_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="HEADER-1X2ROUND" References="JP2 JP4" Value="HEADER-1X2ROUND" Footprint="1X02_ROUND" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="FEATHERWING_NODIM" References="MS1" Value="FEATHERWING_NODIM" Footprint="FEATHERWING_NODIM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="RESISTOR_0603_NOOUT" References="R3 R4" Value="22" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="RESISTOR_0603_NOOUT" References="R6 R7" Value="100" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="RESISTOR_4PACK" References="R16" Value="100K" Footprint="RESPACK_4X0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="RESISTOR_0603_NOOUT" References="R2" Value="100K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="RESISTOR_0603_NOOUT" References="R1" Value="1M" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="SWITCH_TACT_SMT4.6X2.8" References="SW1" Value="KMR2" Footprint="BTN_KMR2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="VREG_SOT23-6_DUALAP7312" References="U2" Value="AP7312-1833W6-7" Footprint="SOT23-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="VS1053B" References="U1" Value="VS1053B" Footprint="LQFP48" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="AUDIO_3.5MMJACK_4POL" References="X1" Value="AUDIO_3.5MMJACK_4POL" Footprint="4UCONN_18510" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="CRYSTAL3.2X2.5" References="Y1" Value="ABM8G-12.288MHZ-4Y-T3" Footprint="CRYSTAL_3.2X2.5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

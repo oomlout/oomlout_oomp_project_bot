@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="22" Component_Count="36 (0 SMD/ 0 THT)" Fitted_Components="33 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="33" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP-0402" References="C6 C7" Value="12p" Footprint="_PKG_C_0402" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP-0402" References="C1 C2 C5 C11 C12 C13 C15 C17 C18" Value="100n" Footprint="_PKG_C_0402" Quantity_Per_PCB="9" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP-0402" References="C8" Value="1u" Footprint="_PKG_C_0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP-0805" References="C3 C4 C14 C16" Value="22u" Footprint="_PKG_C_0805" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="DIODE-TVS-PRTR5V0U2F{dblquote}" References="D1" Value="PRTR5V0U2F,115" Footprint="_PKG_SOT886_JEDEC-MO-252" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="BALUN_LFB182G45BG5D920" References="FL1" Value="BALUN_LFB182G45BG5D920" Footprint="LFB182G45BG5D920" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="WMCU-CC2652R1FRGZ" References="IC3" Value="CC2652R1FRGZ" Footprint="QFN50P700X700X100-49N" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="INTERFACE-CH340E" References="IC1" Value="CH340E" Footprint="_PKG_MSOP10_TI-DGS10" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="POWER-LDO-ME6211C33R5G" References="IC2" Value="ME6211C33R5G" Footprint="SOT65P212X110-5N" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="INDUCTOR-0402" References="L3" Value="0" Footprint="_PKG_L_0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="INDUCTOR-0603" References="L1" Value="BLM18HE152SN1" Footprint="_PKG_L_0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="INDUCTOR-0805" References="L2" Value="MLZ2012N6R8LT000" Footprint="_PKG_C_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="LED-0603" References="LED1" Value="LED-0603" Footprint="_PKG_LED_0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="ZZH_MODULE" References="MOD1" Value="ZZH_MODULE" Footprint="ZZH_MODULE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="RES-0402" References="R2" Value="100" Footprint="_PKG_C_0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="RES-0402" References="R1 R3" Value="100K" Footprint="_PKG_C_0402" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="PUSHBUTTON-K2-1177SW-D4DW-06" References="SW1" Value="K2-1177SW-D4DW-06" Footprint="K2-1177SW-D4DW-06" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="LOGO-ELECTROLAMA" References="U$5" Value="LOGO-ELECTROLAMA" Footprint="ELECTROLAMA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="32.768KHZ_Q13FC1350000400" References="Y2" Value="32.768KHz" Footprint="XTAL-2P-3215" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="48.000MHZ_CX2016DB48000C0FPLC1" References="Y1" Value="Q22FA12800150" Footprint="XTAL-4P-2016" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

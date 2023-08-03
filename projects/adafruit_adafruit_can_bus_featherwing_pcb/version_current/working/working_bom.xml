@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="19" Component_Count="27 (0 SMD/ 0 THT)" Fitted_Components="27 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="27" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0603_NO" References="C7 C8" Value="15pF" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0603_NO" References="C5 C6" Value="47pF" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0603_NO" References="C10 C11 C22" Value="0.1uF" Footprint="0603-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C3" Value="1uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C2 C12 C14" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="PESD1CAN" References="D1" Value="PESD1CAN" Footprint="SOT23" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="MCP2515/SO" References="IC2" Value="MCP2515/SO" Footprint="SOIC18WIDE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="CAN_TRANSCIEVER_TCAN1051V" References="IC1" Value="TJA1051T/3" Footprint="SOIC8_150MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="HEADER-1X12" References="JP2" Value="HEADER-1X12" Footprint="1X12_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="HEADER-1X16ROUND" References="JP1" Value="HEADER-1X16ROUND" Footprint="1X16_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="HEADER-1X4ROUND" References="JP4" Value="HEADER-1X4ROUND" Footprint="1X04_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="FEATHERWING_NODIM" References="MS1" Value="FEATHERWING_NODIM" Footprint="FEATHERWING_NODIM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="TERMBLOCK_1X3" References="NEOPIX1" Value="3.5mm" Footprint="TERMBLOCK_1X3-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="RESISTOR_0603_NOOUT" References="R4" Value="120" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R2" Value="10K" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="SWITCH_TACT_SMT_RKB2" References="SW1" Value="RKB2" Footprint="BTN_RKB2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="AP3602" References="U1" Value="AP3602" Footprint="SOT23-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="M09D" References="X2" Value="DE-9" Footprint="M09D" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="CRYSTAL3.2X2.5" References="Y1" Value="16MHz 9pF" Footprint="CRYSTAL_3.2X2.5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

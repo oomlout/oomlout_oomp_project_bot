@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="14" Component_Count="27 (0 SMD/ 0 THT)" Fitted_Components="27 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="27" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2 C3" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C4 C5" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="DIODESOD-323F" References="D1" Value="1N4148" Footprint="SOD-323F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="AXP083-SAG" References="IC5" Value="AXP803" Footprint="SOT23" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LP298XS" References="IC4" Value="LP298XS" Footprint="SOT23-5L" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="MOSFET-NWIDE" References="Q2 Q3 Q4" Value="BSS138" Footprint="SOT23-WIDE" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R2 R3 R4" Value="68" Footprint="0805-NO" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR0805_NOOUTLINE" References="R9" Value="2.2K" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR0805_NOOUTLINE" References="R6 R8 R13 R14 R15 R16" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="SPST_TACT-EVQQ2" References="SW1" Value="SPST_TACT-EVQQ2" Footprint="EVQ-Q2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="74HC4050D" References="U3" Value="74HC4050" Footprint="SOIC16" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="DISP_LCD_CTP28_SAMPLE" References="U$2" Value="2.8&quot; TFT + CTP" Footprint="TFT_2.83IN_240X320_50PIN" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="ARDUINO_R3_ICSPSMT" References="U$17" Value="ARDUINO_R3_ICSPSMT" Footprint="ARDUINOR3_ICSP_SMT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="MICROSD" References="U$3" Value="MICROSD" Footprint="MICROSD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="16" Component_Count="31 (0 SMD/ 0 THT)" Fitted_Components="31 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="31" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="JST_2PIN-SMT-RA" References="BATT0 SYSOUT0" Value="JST 2PH" Footprint="JST-PH-2-SMT-RA" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C2 C3 C4 C5 C6 C9" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="7" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="LED0603" References="D1" Value="GREEN" Footprint="CHIPLED_0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="LED0603" References="D3" Value="RED" Footprint="CHIPLED_0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="DIODE-SCHOTTKYSMA" References="D2 D4" Value="SK34A" Footprint="SMADIODE" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X1" References="JP2 JP4" Value="HEADER-1X1" Footprint="1X01_OVAL" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HEADER-1X1176MIL" References="JP3" Value="HEADER-1X1176MIL" Footprint="1X11_ROUND_76" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="HEADER-1X2ROUND" References="JP1" Value="HEADER-1X2ROUND" Footprint="1X02_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR_0603_NOOUT" References="R3" Value="590" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R9" Value="1K" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RESISTOR_0603_NOOUT" References="R5" Value="2K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR_0603_NOOUT" References="R4 R6" Value="5.1K" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="RESISTOR_0603_NOOUT" References="R2 R7 R8 R10 R11" Value="10K" Footprint="0603-NO" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="DCBARRELSMT" References="X3" Value="2.1mm DC" Footprint="DCJACK_2MM_SMT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="BQ24074" References="X4" Value="BQ24074" Footprint="QFN16_3MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="USB_C" References="X2" Value="USB Type C" Footprint="USB_C_CUSB31-CFM2AX-01-X" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

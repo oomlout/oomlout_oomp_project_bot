@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="11" Component_Count="20 (0 SMD/ 0 THT)" Fitted_Components="20 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="20" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-59" encoding="utf-8">
+	<group Row="1" Description="" Part="C-EUC0805" References="C1 C2 C3 C4 C5 C6" Value="C-EUC0805" Footprint="C0805" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CON-RJ45-HR911105A" References="CN3 CN4" Value="CON-RJ45-HR911105A" Footprint="HR911105A" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CON-USB-A-FEMALE-TH" References="CN1" Value="host" Footprint="USB-A-FEMALE-TH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CON-USB-MICRO-FEMALE-SMD" References="CN2" Value="micro" Footprint="USB-MOLEX-47346-0001" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="EJTAG_MIPS" References="J2" Value="EJTAG_MIPS" Footprint="M2X7" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="M023.5MM" References="J1" Value="M023.5MM" Footprint="SCREWTERMINAL-3.5MM-2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="M03PTH" References="J4" Value="M03PTH" Footprint="1X03" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="M12X2" References="J3" Value="M12X2" Footprint="M2X12" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="VOCORE_V10A" References="MOD1" Value="VOCORE_V10A" Footprint="VOCORE_V10A" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="SJ" References="SJ1 SJ2 SJ3 SJ4" Value="SJ" Footprint="SJ" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="LDO1117-SOT223" References="U1" Value="LDO1117-SOT223" Footprint="SOT223-3L" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

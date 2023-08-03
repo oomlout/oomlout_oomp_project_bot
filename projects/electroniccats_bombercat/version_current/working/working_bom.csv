@@ -1,44 +1,57 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"Y1";"Crystal_SMD_2016-4Pin_2.0x1.6mm";1;"27.12Mhz";;;
-2;"R2,R1,R20,R17";"R_0603_1608Metric";4;"10K";;;
-3;"C2,C1";"C_0603_1608Metric";2;"27pF";;;
-4;"R10,R9";"R_0603_1608Metric";2;"27";;;
-5;"R14,R7,R6,R22,R21";"R_0603_1608Metric";5;"100K";;;
-6;"C9,C12,C13,C7,C20,C16,C21,C33,C19,C32,C15,C17,C18";"C_0603_1608Metric";13;"100nF";;;
-7;"C8,C14,C5,C10,C6";"C_0603_1608Metric";5;"1uF";;;
-8;"R16,R15";"R_0603_1608Metric";2;"2k2";;;
-9;"U3";"SOT-23-5";1;"MCP73831-3-OT";;;
-10;"C24,C23";"C_0603_1608Metric";2;"1nF/16V";;;
-11;"U4";"SOT-23-5";1;"AP2112K-3.3";;;
-12;"F1";"Fuse_0805_2012Metric";1;"0.5A";;;
-13;"D2,D1,D3";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";3;"LED";;;
-14;"C3,C4";"C_0603_1608Metric";2;"10pF";;;
-15;"L2,L1";"L_0603_1608Metric_Pad1.05x0.95mm_HandSolder";2;"160nH";;;
-16;"C29,C22,C11";"C_0603_1608Metric";3;"10uF";;;
-17;"R13,R12,R3,R11";"R_0603_1608Metric";4;"1K";;;
-18;"H4,H1,H3,H2";"MountingHole_2.2mm_M2";4;"MountingHole";;;
-19;"Q1";"SOT-23";1;"DMG3415U-7";;;
-20;"C34";"C_0603_1608Metric";1;"10uf";;;
-21;"C26,C25";"C_0603_1608Metric";2;"680pF";;;
-22;"C31,C30";"C_0603_1608Metric";2;"120pF";;;
-23;"R18,R19";"R_0603_1608Metric";2;"3.24R";;;
-24;"R4,R5";"R_0603_1608Metric";2;"5k1";;;
-25;"J1";"PinHeader_1x02_P2.54mm_Vertical";1;"Battery";;;
-26;"U1";"QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm";1;"PN7150B0HN_C11002E-PN7150B0HN_C11002E";;;
-27;"J3";"PinHeader_1x02_P2.54mm_Vertical";1;"MAGSPOOF";;;
-28;"C28,C27";"C_0603_1608Metric";2;"100pF/50V";;;
-29;"Y2";"Crystal_SMD_5032-2Pin_5.0x3.2mm";1;"12Mhz";;;
-30;"L3";"MOLEX_1661";1;"L";;;
-31;"R8";"R_0603_1608Metric";1;"2K";;;
-32;"SW4";"JS202011CQN";1;"SOURCE MAG";;;
-33;"SW3";"JS102011SAQN";1;"ON";;;
-34;"SW2";"SW_SPST_TL3342";1;"GPIO";;;
-35;"SW1";"SW_SPST_TL3342";1;"RESET";;;
-36;"U2";"RP2040-QFN-56";1;"RP2040";;;
-37;"D4";"D_SOD-123F";1;"MBR120";;;
-38;"P1";"C393939";1;"USB_C_Plug_USB2.0";;;
-39;"U6";"W25Q16JVUUIQ";1;"W25Q16JV";;;
-40;"U7";"SOIC-8_3.9x4.9mm_P1.27mm";1;"TC4424";;;
-41;"G***";"electronic_cats_logo_8x6";1;"LOGO";;;
-42;"U5";"ESP32-WROOM-32";1;"ESP32-WROOM-32D";;;
-43;"JP1";"SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm";1;"BOOT";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC#,manf#,provedor
+1,"Unpolarized capacitor, small symbol",C_Small,C3 C4,10pF,C_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/1912111437_CCTC-TCC0603COG100J500CT_C376764.pdf,C106245,CC0603JRNPO9BN100,LCSC
+2,"Unpolarized capacitor, small symbol",C_Small,C1 C2,27pF,C_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/2001132237_Chinocera-HGC0402G0220J500NTEJ_C482483.pdf,C92670,,LCSC
+3,"Unpolarized capacitor, small symbol",C_Small,C30 C31,120pF,C_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/2006011904_Darfon-Elec-C1608NP0121JGTS_C561174.pdf,C561174,C0603C121J5GAC,LCSC
+4,"Unpolarized capacitor, small symbol",C_Small,C25 C26,680pF,C_0603_1608Metric,2, ,~,,885012206107,MOUSER
+5,"Unpolarized capacitor, small symbol",C_Small,C7 C9 C12 C13 C15 C16 C17 C18 C19 C20 C21 C32 C33,100nF,C_0603_1608Metric,13, ,https://datasheet.lcsc.com/lcsc/1811101032_PSA-Prosperity-Dielectrics-FN18X104K500PBG_C235731.pdf,C282519,,LCSC
+6,"Unpolarized capacitor, small symbol",C_Small,C5 C6 C8 C10 C14,1uF,C_0603_1608Metric,5, ,https://datasheet.lcsc.com/lcsc/1810261812_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.pdf,C15849,,LCSC
+7,"Unpolarized capacitor, small symbol",C_Small,C11 C22 C29 C34,10uF,C_0603_1608Metric,4, ,~https://datasheet.lcsc.com/lcsc/1811021421_Samsung-Electro-Mechanics-CL10A106MP8NNNC_C85713.pdf,C85713 C466781,C0603X5R106M160NT,LCSC
+8,"Unpolarized capacitor, small symbol",C_Small,C27 C28,100pF/50V,C_0603_1608Metric,2, ,~,,06035A101JAT4A,MOUSER
+9,"Unpolarized capacitor, small symbol",C_Small,C23 C24,1nF/16V,C_0603_1608Metric,2, ,~,C519403,,MOUSER
+10,Light emitting diode,LED,D1 D2 D3,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,3, ,https://datasheet.lcsc.com/lcsc/2101201032_XINGLIGHT-XL-2012UGC_C965815.pdf,C965815,XL-2012UGC,LCSC
+11,"40V 3A Schottky Barrier Rectifier Diode, DO-201AD",MBR340,D4,MBR120,D_SOD-123F,1, ,http://www.onsemi.com/pub_link/Collateral/MBR340-D.PDF,C130880,MBR120LSF,LCSC
+12,"Fuse, small symbol",Fuse_Small,F1,0.5A,Fuse_0805_2012Metric,1, ,~,-,MFU0805FF00500P100,MOUSER
+13,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Screw_Terminal_01x02,J1,Battery,PinHeader_1x02_P2.54mm_Vertical,1, ,~,-,-,-
+14,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J3,MAGSPOOF,PinHeader_1x02_P2.54mm_Vertical,1, ,~,,,
+15,"Jumper, 2-pole, open",Jumper_2_Open,JP1,BOOT,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,1, ,~,,,
+16,"Inductor, small symbol",L_Small,L1 L2,160nH,L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2, ,https://datasheet.lcsc.com/lcsc/1912111437_TDK-MLJ1608WR16JT000_C434822.pdf,C434822,MLJ1608WR16JT000,LCSC
+17,Inductor,L,L3,L,MOLEX_1661,1, ,~,-,CONUFL001-SMD,Mouser
+18,,USB_C_Plug_USB2.0-Connector,P1,USB_C_Plug_USB2.0,C393939,1, ,https://datasheet.lcsc.com/lcsc/2108132030_Korean-Hroparts-Elec-TYPE-C-31-M-31_C2760486.pdf,C2987386,TYPE-C-31-M-31,LCSC
+19,"P-MOSFET transistor, gate/source/drain",Q_PMOS_GSD,Q1,DMG3415U-7,SOT-23,1, ,https://www.mouser.mx/datasheet/2/115/ds31735-64958.pdf,C96616,DMG3415U-7,LCSC
+20,"Resistor, small symbol",R_Small,R18 R19,3.24R,R_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/2007151233_YAGEO-RC0603FR-073R4L_C482832.pdf,C482832,RC0603FR-073R4,LCSC
+21,"Resistor, small symbol",R_Small,R9 R10,27,R_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/1912111437_PANASONIC-ERJ3GEYJ270V_C403464.pdf,C403464,ERJ3GEYJ270V,LCSC
+22,"Resistor, small symbol",R_Small,R3 R11 R12 R13,1K,R_0603_1608Metric,4, ,https://datasheet.lcsc.com/lcsc/1811151132_Walsin-Tech-Corp-WR06X1001FTL_C112433.pdf,C112433,WR06X1001FTL,LCSC
+23,"Resistor, small symbol",R_Small,R15 R16,2k2,R_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/1811082117_YAGEO-RC0603JR-072K2L_C113303.pdf,C113303,RC0603JR-072K2L,LCSC
+24,"Resistor, small symbol",R_Small,R4 R5 R8,5k1,R_0603_1608Metric,3, ,https://datasheet.lcsc.com/lcsc/1810170519_PANASONIC-ERJ3RBD5101V_C191782.pdf,C191782 C73801,ERJ3RBD5101V RS-03K512KT,LCSC
+25,"Resistor, small symbol",R_Small,R1 R2 R17 R20,10K,R_0603_1608Metric,4, ,https://datasheet.lcsc.com/lcsc/1811082013_PANASONIC-ERJ3GEYJ103V_C169849.pdf,C169849,ERJ3GEYJ103V,LCSC
+26,"Resistor, small symbol",R_Small,R6 R7 R14 R21 R22,100K,R_0603_1608Metric,5, ,https://datasheet.lcsc.com/lcsc/1811151133_Walsin-Tech-Corp-WR06X104JTL_C163843.pdf,C15458,WR06X104JTL,LCSC
+27,"Push button switch, generic, two pins",SW_Push,SW2,GPIO,SW_SPST_TL3342,1, ,https://datasheet.lcsc.com/lcsc/2205161616_E-Switch-TL3342F450QG_C2886897.pdf,C2886897,,LCSC
+28,Single Pole Single Throw (SPST) switch,SW_SPST,SW3,ON,JS102011SAQN,1, ,https://www.mouser.mx/datasheet/2/60/js-1841892.pdf,-,JS102011SAQN,MOUSER
+29,"Push button switch, generic, two pins",SW_Push,SW1,RESET,SW_SPST_TL3342,1, ,https://datasheet.lcsc.com/lcsc/2205161616_E-Switch-TL3342F450QG_C2886897.pdf,C2886897,,LCSC
+30,"Switch, dual pole double throw, separate symbols",SW_DPDT_x2,SW4,SOURCE MAG,JS202011CQN,1, ,https://www.mouser.mx/datasheet/2/60/js-1841892.pdf,,JS202011CQN,MOUSER
+31,,AP2112K-3.3-Regulator_Linear,U4,AP2112K-3.3,SOT-23-5,1, ,https://www.diodes.com/assets/Datasheets/AP2112.pdf,-,AP7365-33WG-7,MOUSER
+32,"RF Module, ESP32-D0WD SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD",ESP32-WROOM-32D,U5,ESP32-WROOM-32D,ESP32-WROOM-32,1, ,https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf,C473012,ESP32-WROOM-32D,LCSC
+33,"Single cell, Li-Ion/Li-Po charge management controller, 4.35V, Tri-State Status Output, in SOT23-5 package",MCP73831-3-OT,U3,MCP73831-3-OT,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf,-,MCP73831-3-OT,MOUSER
+34,,PN7150B0HN_C11002E-PN7150B0HN_C11002E,U1,PN7150B0HN_C11002E-PN7150B0HN_C11002E,QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm,1, ,https://www.mouser.mx/datasheet/2/302/PN7150-1386066.pdf,C11002,PN7150B0HN,MOUSER
+35,,RP2040-MCU_RaspberryPi_and_Boards-PicoWAN-rescue-PicoWAN-rescue,U2,RP2040,RP2040-QFN-56,1, ,https://datasheet.lcsc.com/lcsc/2201101600_Raspberry-Pi-RP2040_C2040.pdf,C2040,RP2040,LCSC
+36,,TC4424-MagSpoofTC-cache,U7,TC4424,SOIC-8_3.9x4.9mm_P1.27mm,1, ,https://lcsc.com/product-detail/Gate-Drive-ICs_Microchip-Tech-TC4424AVOA_C636876.html,C636876,TC4424AVOA,
+37,"32Mb Serial Flash Memory, Standard/Dual/Quad SPI, DFN-8",W25Q32JVZP,U6,W25Q16JV,W25Q16JVUUIQ,1, ,https://www.mouser.mx/ProductDetail/Winbond/W25Q16JVUXIQ-TR/?qs=%2Fha2pyFaduiS2uR9HYi5HkA%252B2tQKEnSsT8O6AY%252BoxISO7oyUQiPPXw%3D%3D,,W25Q16JVUUIQ,MOUSER
+38,"Two pin crystal, small symbol",Crystal_Small,Y2,12Mhz,Crystal_SMD_5032-2Pin_5.0x3.2mm,1, ,https://datasheet.lcsc.com/lcsc/2206171645_Shenzhen-SCTF-Elec-SX5A12-000F2010F30_C3035208.pdf,,445I23D12M00000,MOUSER
+39,"Four pin crystal, GND on pins 2 and 4, small symbol",Crystal_GND24_Small,Y1,27.12Mhz,Crystal_SMD_2016-4Pin_2.0x1.6mm,1, ,https://www.mouser.mx/datasheet/2/122/ecx_1637-12794.pdf,C910048,520-271.2-6-37-JTNT,LCSC
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,1.2
+Date:,2023-01-06
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,39
+Component Count:,82 (76 SMD/ 5 THT)
+Fitted Components:,82 (76 SMD/ 5 THT)
+Number of PCBs:,1
+Total Components:,82

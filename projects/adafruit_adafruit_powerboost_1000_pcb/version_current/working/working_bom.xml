@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="21" Component_Count="26 (0 SMD/ 0 THT)" Fitted_Components="26 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="26" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="BATTERY" References="B1" Value="1.8-5V" Footprint="JSTPH2" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C4" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2" Value="2.2uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="5" Description="" Part="C-USC1210" References="C3 C6" Value="100uF" Footprint="C1210" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="6" Description="" Part="USB_TYPEAPTHFML" References="CN1" Value="USBA_FEMALE" Footprint="USB_HOST-PTH" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="7" Description="" Part="PINHD-1X6CB" References="JP1" Value="PINHD-1X6CB" Footprint="1X06-CLEANBIG" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="8" Description="" Part="INDUCTOR-8X8" References="L1" Value="6.8uH" Footprint="INDUCTOR_8X8MM" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="9" Description="" Part="LED0805_NOOUTLINE" References="LED2" Value="GREEN" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="10" Description="" Part="LED0805_NOOUTLINE" References="LED1" Value="RED" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="11" Description="" Part="RESISTOR0805_NOOUTLINE" References="R5 R20" Value="1K" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="12" Description="" Part="RESISTOR0805_NOOUTLINE" References="R9" Value="43K 1%" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="13" Description="" Part="RESISTOR0805_NOOUTLINE" References="R10 R12" Value="49.9K 1%" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="14" Description="" Part="RESISTOR0805_NOOUTLINE" References="R11" Value="75K 1%" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="15" Description="" Part="RESISTOR0805_NOOUTLINE" References="R4 R13" Value="200K" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="16" Description="" Part="RESISTOR_0805MP" References="R2" Value="340K" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="17" Description="" Part="RESISTOR_0805MP" References="R1 R3" Value="1.87M" Footprint="_0805MP" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="18" Description="" Part="-PNP_DRIVER-SC59-BEC" References="T1" Value="MMUN2133LT1G" Footprint="SC59-BEC" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="19" Description="" Part="VREG_TPS6103X" References="U1" Value="TPS61030RSAR" Footprint="PVQFN-16" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="20" Description="" Part="TERMBLOCK_1X2" References="X2" Value="3.5mm" Footprint="TERMBLOCK_1X2-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="21" Description="" Part="TERMBLOCK_1X2" References="X1" Value="TERMBLOCK_1X2" Footprint="TERMBLOCK_1X2-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+</KiCad_BOM>
