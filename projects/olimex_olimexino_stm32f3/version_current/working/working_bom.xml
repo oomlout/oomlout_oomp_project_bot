@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="55" Component_Count="102 (99 SMD/ 2 THT)" Fitted_Components="102 (99 SMD/ 2 THT)" Number_of_PCBs="1" Total_Components="102" Schematic_Source="working" Schematic_Revision="C1" Schematic_Date="2022-03-16" encoding="utf-8">
+	<group Row="1" Description="" Part="BAT_CON" References="BAT_CON1" Value="BAT_CON" Footprint="LIPO_BAT-CON2DW02R" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="Battery" References="BAT_HOLDER1" Value="CR2016_32" Footprint="CR2032-PTH-PLASTIC" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="C" References="C21 C22" Value="12pF" Footprint="C_0402_5MIL_DWS" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="C" References="C23 C24" Value="22pF" Footprint="C_0402_5MIL_DWS" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="C" References="C5" Value="47pF" Footprint="C_0402_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="C" References="C4 C6 C13 C14 C16 C19 C20 C25" Value="100nF" Footprint="C_0402_5MIL_DWS" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="C" References="C2" Value="100nF_50V" Footprint="C_0805_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="CP" References="C1" Value="4.7uF_50V" Footprint="CPOL-RM2mm_5x9mm_PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="C" References="C7 C8 C9 C10 C11 C12 C17 C18" Value="10uF_6.3V" Footprint="C_0603_5MIL_DWS" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="C" References="C3" Value="1uF_6.3V" Footprint="C_0603_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="CON3" References="CON1" Value="CANBUS" Footprint="TB3-3.5mm" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="BH10S" References="CON3" Value="SWD" Footprint="GPH127SMT-02X05(PA-V16X-2X5-LF)" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="BH10S" References="CON2" Value="UEXT" Footprint="UEXT_BH10R" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="CON2" References="CON4" Value="WAKE" Footprint="HN1x2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="D_Schottky" References="D1 D3 D4 D5" Value="SS14" Footprint="SMA-KA" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="D_Schottky" References="D2" Value="SS310" Footprint="SMA-KA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="FB0805-lz1ddd" References="FB1" Value="FB0603" Footprint="L_0603_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="P-MOS+DIOD" References="FET1 FET2 FET3" Value="WPM2015" Footprint="SOT23" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="BH16S-OLIMEX_Connectors" References="GPIO1" Value="BH16S" Footprint="BH16S" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="Ind_Small" References="L1" Value="4.7uH" Footprint="CD43" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="LED_Small" References="LED2" Value="green" Footprint="LED_0603_KA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="LED_Small" References="LED1" Value="red" Footprint="LED_0603_KA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="LED_Small" References="LED3" Value="yellow" Footprint="LED_0603_KA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="MICRO_SD(TFC-WPAPR-08)" References="MICRO_SD1" Value="MICRO_SD(TFC-WPAPR-08)" Footprint="MICRO_SD(TFC-WXCP11-08-LF)" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="STM32-MAPPLE_Platform(2xPN1x8+2xPN1x6)-lz1ddd" References="PLATFORM1" Value="STM32-MAPPLE_Platform(2xPN1x8+2xPN1x6)" Footprint="ARDUINO-STM32-PLATFORM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="PWR-JAKPWR_JACK_UNI_MILLING-OLIMEX_Connectors" References="PWR1" Value="PWR-JACK-UNI-MILLING" Footprint="PWR_JACK_UNI_MILLING" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="Crystal_Small" References="Q1" Value="32768_1206_12.5pF" Footprint="L_1206_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="Crystal_Small" References="Q2" Value="8M_HS49S_20pF" Footprint="Q_49U3HMS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="R_Small" References="R6 R17 R28 R29" Value="22R" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="R_Small" References="R4" Value="120R" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="31" Description="" Part="R_Small" References="R14 R19 R20 R26" Value="1K" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="32" Description="" Part="R_Small" References="R2 R32" Value="1.5K" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="33" Description="" Part="R_Small" References="R1 R33 R34" Value="2K" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="34" Description="" Part="R_Small" References="R18 R22" Value="4.7K" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="35" Description="" Part="R_Small" References="R12 R15 R16 R31 R35" Value="10K" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="36" Description="" Part="R_Small" References="R30" Value="20K" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="37" Description="" Part="R_Small" References="R9 R10 R11 R21 R27" Value="100K" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="38" Description="" Part="R_Small" References="R36" Value="470K" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="39" Description="" Part="R_Small" References="R13 R25" Value="1M" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="40" Description="" Part="R_Small" References="R5" Value="124K_1%" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="41" Description="" Part="R" References="R23" Value="1M_1%_0603" Footprint="R_0603_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="42" Description="" Part="R_Small" References="R3" Value="20k/1%/0402" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="43" Description="" Part="R_Small" References="R7" Value="330R/0402" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="44" Description="" Part="R" References="R24" Value="3M_1%_0603" Footprint="R_0603_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="45" Description="" Part="R_Small" References="R8" Value="680R/0402" Footprint="R_0402_5MIL_DWS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="46" Description="" Part="SJ2W_Closed(1-2)" References="SJ2 SJ4" Value="SJ2W_Closed(1-2)" Footprint="SJ_2_SMALL_12_TIED" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="47" Description="" Part="SJ_Closed" References="SJ1 SJ6 SJ7 SJ9" Value="closed" Footprint="SJ_Closed" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="48" Description="" Part="SJ" References="SJ3 SJ5 SJ8" Value="open" Footprint="SJ" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="49" Description="" Part="SIDE_WTCM-TR(3x4)" References="SW1 SW2" Value="SIDE_WTCM-TR(3x4)" Footprint="TSW34-W16PR-220" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="50" Description="" Part="BL4054B-42TPRN(SOT23-5)" References="U2" Value="BL4054B-42TPRN(SOT23-5)" Footprint="SOT-23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="51" Description="" Part="BL9342-lz1ddd" References="U1" Value="BL9342" Footprint="SOT23-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="52" Description="" Part="ME6210-SOT89-lz1ddd" References="U4" Value="ME6210-SOT89" Footprint="SOT89" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.diodes.com/datasheets/AP1117.pdf"/>
+	<group Row="53" Description="" Part="SIT1050T-lz1ddd" References="U3" Value="SIT1050T" Footprint="SO-8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="54" Description="" Part="STM32F303RCT6-lz1ddd" References="U5" Value="STM32F303RCT6" Footprint="LQFP64_Pitch-0.5mm_12.00x12.00x1.60mm" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="55" Description="" Part="USB-MINI" References="USB1" Value="uiCRO" Footprint="USB-MICRO_MISB-SWMM-5B_LF" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

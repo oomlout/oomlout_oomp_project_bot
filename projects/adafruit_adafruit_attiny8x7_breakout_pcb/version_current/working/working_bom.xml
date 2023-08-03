@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="11" Component_Count="13 (0 SMD/ 0 THT)" Fitted_Components="13 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="13" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0603_NO" References="C5" Value="0.1uF" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805_10MGAP" References="C1" Value="10uF" Footprint="0805_10MGAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C3" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="STEMMA_I2C_QT" References="CONN3 CONN4" Value="STEMMA_I2C_QT" Footprint="JST_SH4" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED0603_NOOUTLINE" References="D3" Value="GREEN" Footprint="CHIPLED_0603_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LED0603_NOOUTLINE" References="D4" Value="red" Footprint="CHIPLED_0603_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="ATTINY8X7-MU" References="IC2" Value="ATTINY8X7-MU" Footprint="QFN24_4MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="HEADER-1X1276MIL" References="JP1 JP3" Value="HEADER-1X1276MIL" Footprint="1X12_ROUND_76MIL" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR_0603_NOOUT" References="R1" Value="10k" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR_4PACK" References="R6" Value="10K" Footprint="RESPACK_4X0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="VREG_SOT23-5" References="U1" Value="ap2112" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

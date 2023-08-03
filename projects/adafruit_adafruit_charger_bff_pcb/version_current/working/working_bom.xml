@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="9" Component_Count="13 (0 SMD/ 0 THT)" Fitted_Components="13 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="13" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C20" Value="10µF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="LED0603_NOOUTLINE" References="CHG0" Value="ORANGE" Footprint="CHIPLED_0603_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="DIODE_SOD-123FL" References="D2" Value="MBR120" Footprint="SOD-123FL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="HEADER-1X7_CASTEL" References="JP1 JP3" Value="HEADER-1X7_CASTEL" Footprint="1X07_CASTEL" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="RESISTOR_0603_NOOUT" References="R2 R8" Value="5.1K" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R3" Value="100K" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="SWITCH_DPDTEG1390" References="SW2" Value="SWITCH_DPDTEG1390" Footprint="EG1390" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="MCP73831/2" References="U3" Value="MCP73831T-2ACI/OT" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="CON_JST_PH_2PIN_MT_BATT" References="X1" Value="CON_JST_PH_2PIN_MT_BATT" Footprint="JSTPH2_BATT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
