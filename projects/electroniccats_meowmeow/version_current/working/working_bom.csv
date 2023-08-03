@@ -1,0 +1,46 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Part#,manf#,LCSC#,Supplier ,DNP
+1,,C_Small-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,C2 C7,0.1uF,C_0603_1608Metric,2, ,,,CC0603KRX7R9BB104,C14663,LCSC,
+2,,C_Small-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,C5,0.1uF,C_0805_HandSoldering,1, ,,,FM21X104K101ECG,C148241,LCSC,
+3,,C_Small-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,C1,1uF,C_0603_1608Metric,1, ,,,CL10A105KO8NNNC,C1592,LCSC,
+4,,C_Small-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,C4 C6,10uF,C_0805_HandSoldering,2, ,,,GRM21BC81C106KA73L,C90543,LCSC,
+5,,LED-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,D2,LED,LED_0805_HandSoldering,1, ,,,D-R080508L3-KS2,C130114,LCSC,
+6,,LED-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,D1,POWER,LED_0805_HandSoldering,1, ,,,D-R080508L3-KS2,C130114,LCSC,
+7,"Fuse, small symbol",Fuse_Small,F1,0.5A,R_1812_HandSoldering,1, ,,,0ZCG0030FF2C,,Mouser,
+8,"Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x16,J1,Conn_Left,PinSocket_1x16_P2.54mm_Vertical_SMD_Pin1Right,1, ,~,,610306243021,,Wurth,
+9,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x12,J2,Conn_Right,PinSocket_1x12_P2.54mm_Vertical_SMD_Pin1Right,1, ,~,,610306243021,,Wurth,
+10,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,J3,SWD,Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical,1, ,~,---,---,,,
+11,Inductor,L,L1,50Ω at 20MHz and 220Ω at 100MHz,L_0805_2012Metric,1, ,~,,BLM21PG221SN1D,C85840,Mouser,
+12,,CONN_01X01_FEMALE-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,P10,A,SEWALLI_renew,1, ,,---,---,,,
+13,,CONN_01X01_FEMALE-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,P6,D,SEWALLI_renew,1, ,,---,---,,,
+14,,CONN_01X01_FEMALE-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,P2,KEY_DOWN_ARROW,SEWALLI_renew,1, ,,---,---,,,
+15,,CONN_01X01_FEMALE-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,P5,KEY_LEFT_ARROW,SEWALLI_renew,1, ,,---,---,,,
+16,,CONN_01X01_FEMALE-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,P3,KEY_RIGHT_ARROW,SEWALLI_renew,1, ,,---,---,,,
+17,,CONN_01X01_FEMALE-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,P12,KEY_UP_ARROW,SEWALLI_renew,1, ,,---,---,,,
+18,,CONN_01X01_FEMALE-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,P8,MOUSE_LEFT,SEWALLI_renew,1, ,,---,---,,,
+19,,CONN_01X01_FEMALE-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,P7,S,SEWALLI_renew,1, ,,---,---,,,
+20,,CONN_01X01_FEMALE-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,P1,SPACE,SEWALLI_renew,1, ,,---,---,,,
+21,USB 2.0-only Type-C Plug connector,USB_C_Plug_USB2.0,P4,USB_C_Plug_USB2.0,C393939,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,TYPE-C-2.0-16PIN-SMT-3,C2987386,LCSC,
+22,,CONN_01X01_FEMALE-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,P11,W,SEWALLI_renew,1, ,,---,---,,,
+23,,R_Small-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,R2 R3,1K,R_0805_2012Metric,2, ,,,0805W8J0102T5E,C25623,LCSC,
+24,,R_Small-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,R1 R4,5.1K,R_0805_2012Metric,2, ,,,CR0805-FX-5101ELF,,Mouser,
+25,,SW_Push-MeowMeow-Meow-Meow-rescue-Meow-Meow-rescue-Meow-Meow-rescue,SW1,RESET,SW_SPST_TL3342,1, ,,,TS-1187A-C-C-B,C318889,LCSC,
+26,,AP2114-HA,U2,AP2114-HA,SOT-223,1, ,,,AP2114HA3.3TRG1,,Mouser,
+27,"SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, TQFP48",ATSAML21G18B-AUT,U3,ATSAML21G18B-AUT,TQFP-48_7x7mm_P0.5mm,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf,,ATSAML21G18B-AUT,,Mouser,
+28,"SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 256K Flash, 32K SRAM, QFN48",ATSAML21G18B-MUT,U1,ATSAML21G18B-MUT,QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf,,ATSAML21G18B-MUT,,Mouser,Yes
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,3.1
+Date:,2022-05-30
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,28
+Component Count:,32 (20 SMD/ 11 THT)
+Fitted Components:,32 (20 SMD/ 11 THT)
+Number of PCBs:,1
+Total Components:,32

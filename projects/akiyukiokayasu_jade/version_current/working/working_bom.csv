@@ -1,2 +1,35 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"H2,H1";"MountingHole_3.4mm";2;"MountingHole_Pad";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,"Unpolarized capacitor, small symbol",C_Small,C3 C4,0.1u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,2, ,~
+2,"Unpolarized capacitor, small symbol",C_Small,C1 C2,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2, ,~
+3,"Diode, small symbol",D_Small,D1 D2 D3 D4,1N4148W,D_SOD-123,4, ,~
+4,"Diode, small symbol",D_Small,D5,1N5819HW,D_SOD-123,1, ,~
+5,"Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x05_Odd_Even,J5,Conn_02x05_Odd_Even,PinHeader_2x05_P2.54mm_Horizontal,1, ,~
+6,2-pin audio jack receptable (mono/TS connector) with switching contact,PJ302M,J1 J2 J3 J4 J6 J7,PJ302M,PJ302M,6, ,~
+7,"Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x03_Odd_Even,J8,monome ii,PinHeader_2x03_P2.54mm_Horizontal,1, ,~
+8,"Digital NPN Transistor, 10k/10k, SOT-23",DTC114E,Q?,DTC114E,,1, ,
+9,"Resistor, small symbol",R_Small,R7 R8,2k2,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,2, ,~
+10,"Resistor, small symbol",R_Small,R5 R6,47k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,2, ,~
+11,"Resistor, small symbol",R_Small,R1 R2 R3 R4,100k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,4, ,~
+12,"2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol",SW_DIP_x02,SW1,SW_DIP_x02,OTAX_KHS_2,1, ,~
+13,I2C isolator,ADuM1250,U6,ADuM1250,SOIC-8_3.9x4.9mm_P1.27mm,1, ,
+14,Linear Voltage Regulator IC 1 Output 1A SOT-223-3,MIC39100,U3,MIC39100,SOT-223-3_TabPin2,1, ,
+15,,SeeeduinoXIAO_NonBottomPad,U2,SeeeduinoXIAO,Seeeduino_XIAO_NonBottomPad,1, ,
+16,"DC Optocoupler, Vce 80V, CTR 50-100%, SOP4",TLP291,U4 U5,TLP291,SOIC-4_4.55x2.6mm_P1.27mm,2, ,https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291
+17,"Quad DC Optocoupler, Vce 80V, CTR 50-100%, SOP16",TLP291-4,U1,TLP293-4,SOIC-16_4.55x10.3mm_P1.27mm,1, ,https://toshiba.semicon-storage.com/info/docget.jsp?did=12858&prodName=TLP291-4
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,C
+Date:,2021-05-08
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,17
+Component Count:,33 (0 SMD/ 0 THT)
+Fitted Components:,33 (0 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,33

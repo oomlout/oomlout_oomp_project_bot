@@ -1,0 +1,27 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,manf#,LCSC#,Proveedor
+1,"Unpolarized capacitor, small symbol",C_Small,C2,0.1uF,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,https://www.mouser.mx/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf,0603F104Z160CT,,MOUSER
+2,"Unpolarized capacitor, small symbol",C_Small,C1,10uF,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,https://lcsc.com/product-detail/Others_YAGEO-CC0603KRX5R6BB106_C326057.html,CC0603KRX5R6BB106,C326057,LCSC
+3,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Screw_Terminal_01x02,J3,Screw_Terminal_01x02,TerminalBlock_bornier-2_P5.08mm,1, ,https://lcsc.com/product-detail/Pluggable-System-Terminal-Block_Ningbo-Kangnex-Elec-WJ500V-5-08-2P-14-00A_C8465.html,WJ500V-5.08-2P,C8465,LCSC
+4,"Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x16,J1,feather long,TerminalBlock_Altech_AK300-2_P5.00mm,1, ,~,,,
+5,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x12,J2,feather short,PinHeader_1x12_P2.54mm_Vertical,1, ,,,,
+6,"Resistor, small symbol",R_Small,R6,120,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_120R-121-5_C103256.html,RTT03121JTP,C103256,LCSC
+7,"Resistor, small symbol",R_Small,R1 R2 R3 R4,10K,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,4, ,https://www.mouser.mx/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf,RC0603JR-0710KL,,MOUSER
+8,"Resistor, small symbol",R_Small,R5 R7,20K,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2, ,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAJ0203T5E_C25586.html,0603WAJ0203T5E,C25586,LCSC
+9,"Industrial 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, SOIC-8",SP3485EN,U1,SP3485EN,SOIC-8_3.9x4.9mm_P1.27mm,1, ,https://www.mouser.mx/datasheet/2/146/sp3485-1816391.pdf,SP3485EN-L/TR,,MOUSER
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,1.0
+Date:,2020-11-03
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,9
+Component Count:,13 (10 SMD/ 3 THT)
+Fitted Components:,13 (10 SMD/ 3 THT)
+Number of PCBs:,1
+Total Components:,13

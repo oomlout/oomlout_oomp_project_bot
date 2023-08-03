@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="9" Component_Count="14 (0 SMD/ 0 THT)" Fitted_Components="14 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="14" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC_0805" References="C2" Value="0.1uF" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC_0805" References="C4" Value="0.22µF" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC_0805" References="C3" Value="4.70µF" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC_0805" References="C1 C5" Value="10µF" Footprint="_0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="HEADER-1X876MIL" References="JP1" Value="HEADER-1X876MIL" Footprint="1X08_ROUND_76" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="MOSFET-NWIDE" References="Q1 Q2" Value="BSS138" Footprint="SOT23-WIDE" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RESISTOR_0805" References="R1 R2 R3 R4" Value="10K" Footprint="_0805" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LSM303DLHC" References="U1" Value="LSM303DLHC" Footprint="LGA14" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="VREG_SOT23-5" References="U2" Value="RT9193" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

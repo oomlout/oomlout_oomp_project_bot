@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="30" Component_Count="69 (0 SMD/ 0 THT)" Fitted_Components="69 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="69" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-50-21" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC_0402NO" References="C2 C3" Value="22pF" Footprint="_0402NO" Quantity_Per_PCB="2" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC_0402NO" References="C6 C7 C9 C12 C13 C14 C18" Value="0.1uF" Footprint="_0402NO" Quantity_Per_PCB="7" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C4 C5 C16 C19 C20 C27 C28" Value="10uF/16V" Footprint="0805-NO" Quantity_Per_PCB="8" Status=" " Datasheet="" JLC_ROTATION="" REV="A"/>
+	<group Row="4" Description="" Part="CAP_CERAMIC_0402NO" References="C8 C10 C11 C15 C17 C21 C22 C23 C24 C25 C26 C29" Value="1uF/25V" Footprint="_0402NO" Quantity_Per_PCB="12" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="5" Description="" Part="LED0603_NOOUTLINE" References="CHG0" Value="ORANGE" Footprint="CHIPLED_0603_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="6" Description="" Part="STEMMA_I2C_QTRA" References="CONN1" Value="STEMMA_I2C_QTRA" Footprint="JST_SH4_RA" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="7" Description="" Part="DIODE_SOD323MINI" References="D1 D2 D3 D5" Value="1N5819" Footprint="SOD-323_MINI" Quantity_Per_PCB="4" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="8" Description="" Part="DIODESOD-323F" References="D4" Value="PMEG2020AEA" Footprint="SOD-323F" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="9" Description="" Part="TPB1,27" References="D+1 D-1" Value="TPB1,27" Footprint="B1,27" Quantity_Per_PCB="2" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="10" Description="" Part="EINK_24PIN_CONNECTOR" References="EINK2" Value="EINK_24PIN_CONNECTOR" Footprint="EINK_24PIN" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="11" Description="" Part="RP2040_QFN56" References="IC1" Value="RP2040_QFN56" Footprint="QFN56_7MM_REDUCEDEPAD" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="12" Description="" Part="HEADER-1X12" References="JP3" Value="HEADER-1X12" Footprint="1X12_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="13" Description="" Part="HEADER-1X16ROUND" References="JP1" Value="HEADER-1X16ROUND" Footprint="1X16_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="14" Description="" Part="INDUCTORNR401" References="L1" Value="10uH" Footprint="INDUCTOR_4X4MM_NR401" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="15" Description="" Part="LED0603_NOOUTLINE" References="L0" Value="RED" Footprint="CHIPLED_0603_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="16" Description="" Part="WS2812B_SK6805_1515" References="LED1" Value="WS2812B_SK6805_1515" Footprint="SK6805_1515" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="17" Description="" Part="MOSFET-P_DFN2015" References="Q3" Value="DMG3415UFY" Footprint="DFN2015-3" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="18" Description="" Part="MOSFET-NWIDE" References="Q5" Value="IRLML0100" Footprint="SOT23-WIDE" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="19" Description="" Part="RESISTOR_0603_NOOUT" References="R14" Value="0.47ohm" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="20" Description="" Part="RESISTOR_0402NO" References="R9 R10" Value="22 ohm" Footprint="_0402NO" Quantity_Per_PCB="2" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="21" Description="" Part="RESISTOR_0402NO" References="R6 R11" Value="1K" Footprint="_0402NO" Quantity_Per_PCB="2" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="22" Description="" Part="RESISTOR_0402NO" References="R8 R12 R13" Value="5.1K" Footprint="_0402NO" Quantity_Per_PCB="3" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="23" Description="" Part="RESISTOR_0402NO" References="R1 R2 R3 R4 R5 R7" Value="10K" Footprint="_0402NO" Quantity_Per_PCB="6" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="24" Description="" Part="SWITCH_TACT_SMT_RKB2" References="SW1 SW2" Value="RKB2" Footprint="BTN_RKB2_4.6X2.8" Quantity_Per_PCB="2" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="25" Description="" Part="SPIFLASH_8PIN_4X4" References="U1" Value="8MB QSPI" Footprint="USON8_4X4" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="26" Description="" Part="MCP73831/2" References="U3" Value="MCP73831T-2ACI/OT" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="27" Description="" Part="VREG_SOT23-5" References="U2" Value="RT9080-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="0" REV=""/>
+	<group Row="28" Description="" Part="CON_JST_PH_2PIN_MT_BATT" References="X1" Value="CON_JST_PH_2PIN_MT_BATT" Footprint="JSTPH2_BATT" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="29" Description="" Part="USB_C" References="X6" Value="USB Type C" Footprint="USB_C_CUSB31-CFM2AX-01-X" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+	<group Row="30" Description="" Part="CRYSTAL2.5X2.0" References="Y1" Value="12MHz/12pF" Footprint="CRYSTAL_2.5X2" Quantity_Per_PCB="1" Status=" " Datasheet="" JLC_ROTATION="" REV=""/>
+</KiCad_BOM>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="25" Component_Count="48 (0 SMD/ 0 THT)" Fitted_Components="48 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="48" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0603_NO" References="C5 C10 C11 C14 C15" Value="0.1uF" Footprint="0603-NO" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0603_NO" References="C17 C21 C24" Value="1uF" Footprint="0603-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2 C3 C4 C7 C18 C19 C20 C22 C23" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="9" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="STEMMA_I2C_QT" References="CONN1" Value="STEMMA_I2C_QT" Footprint="JST_SH4" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="DIODE-ZENERSOD323" References="D2" Value="3.6V" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="SWITCH_SPST_MNT_TACT_RA" References="DOWN0 RST0 UP0" Value="TL3330AF260QG" Footprint="SPST_TACTILE_RA" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HEADER-2X10SMT_FEMALE" References="JP3" Value="2x10_SMT_F" Footprint="2X10_SMT_FEMALE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="HEADER-2X8_SHROUDEDSMT" References="JP2" Value="2x8_SMT_IDC" Footprint="2X08_SHROUDEDSMT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="HEADER-1X11" References="JP1" Value="HEADER-1X11" Footprint="1X11_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="LED0603_NOOUTLINE" References="L0" Value="RED" Footprint="CHIPLED_0603_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="WS2812B_3535FULL" References="LED1" Value="WS2812B_3535FULL" Footprint="LED3535_FULLPADS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="CAP_ELECTROLYTICPANASONIC_D" References="PC2" Value="100uF/6.3V" Footprint="PANASONIC_D" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="RESISTOR_0603_NOOUT" References="R9" Value="1K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="RESISTOR_4PACK" References="R10" Value="5.1K Pack" Footprint="RESPACK_4X0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R2 R3 R6 R7 R16" Value="10K" Footprint="0603-NO" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="RESISTOR_0603_NOOUT" References="R17" Value="1Meg" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="CON_JST_PH_3PIN" References="SENSE0" Value="JST PH 3" Footprint="JSTPH3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="SWITCH_TACT_SMT_RKB2" References="SW1" Value="KMR2" Footprint="BTN_RKB2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="74LCX245_TSSOP20" References="U1 U5" Value="74AHCT245" Footprint="TSSOP20" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="PHOTOTRANSISTOR_PT19-315C" References="U6" Value="ALS-PT19" Footprint="ALS-PT19-315C" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="ESP32-S3-WROOM" References="U3" Value="ESP32-S3-WROOM" Footprint="S3-WROOM32" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="ACCEL_LIS3DHTR" References="U4" Value="LIS3DHTR" Footprint="LGA16_3X3MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="LP2985-XXDBVR" References="U2" Value="LP2985-XXDBVR" Footprint="SOT23-DBV" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="LED0603_NOOUTLINE" References="UNK3VON0 UNK5VON0" Value="GREEN" Footprint="CHIPLED_0603_NOOUTLINE" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="USB_C" References="X5" Value="USB TYPE C" Footprint="USB_C_CUSB31-CFM2AX-01-X" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

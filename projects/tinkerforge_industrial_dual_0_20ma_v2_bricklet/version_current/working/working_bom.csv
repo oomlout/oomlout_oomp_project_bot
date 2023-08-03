@@ -1,0 +1,40 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,C,C3,220pF,C0402F,1, ,
+2,,C,C4 C5 C6 C8,100nF,C0603F,4, ,
+3,,C,C2 C7,1µF,C0603F,2, ,
+4,,C,C1,10uF,C0805,1, ,
+5,Diode zener,ZENER,D1,Z12V,MiniMelf,1, ,
+6,,LED,D2 D3 D4,blue,D0603F,3, ,
+7,,INDUCT,FB1 FB2,FB,C0603F,2, ,
+8,Connector 01x02,CONN_01X02,P3,BOOT,SolderJumper,1, ,
+9,,CON-SENSOR2,P1,CON-SENSOR2,CON-SENSOR2,1, ,
+10,Connector 01x01,CONN_01X01,P2,DEBUG,DEBUG_PAD,1, ,
+11,Connector 01x08,CONN_01X08,P4,P-PWR-8GN,OQ_8P,1, ,
+12,"Transistor P-MOSFET, collector connected to mounting plane (general)",MOSFET_N_CH,Q1,FDN5630,SOT23GDS,1, ,
+13,,R,R6 R7,91/25ppm,R0805,2, ,
+14,,R,R1 R4 R5,1k,R0603F,3, ,
+15,,R,R2,6k8,R0603F,1, ,
+16,,R,R8,100k,R0603F,1, ,
+17,4 resistors Pack,R_PACK4,RP2,1k,4X0603,1, ,
+18,4 resistors Pack,R_PACK4,RP101,2k2,4X0603,1, ,
+19,4 resistors Pack,R_PACK4,RP1,82,4X0402,1, ,
+20,,DRILL,U4 U5 U6 U7,DRILL,DRILL_NP,4, ,
+21,,MCP3423,U3,MCP3423,MSOP10-0.5,1, ,
+22,,XMC1XXX24,U1,XMC1100,QFN24-4x4mm-0.5mm,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,2.0
+Date:,2023-01-27
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,22
+Component Count:,35 (23 SMD/ 12 THT)
+Fitted Components:,35 (23 SMD/ 12 THT)
+Number of PCBs:,1
+Total Components:,35
