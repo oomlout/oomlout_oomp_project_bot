@@ -1,7 +1,7 @@
 import oom_kicad
 import os
 
-def go_through_directories():
+def go_through_directories():   
     # go through all directories in projects
     for root, dirs, files in os.walk("projects"):
         #go through all files
