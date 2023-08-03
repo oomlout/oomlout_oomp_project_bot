@@ -53,8 +53,14 @@ def go_through_directories(**kwargs):
                             
                             count += 1
                             #print a dot every 100 times through#
-                            if count % 100 == 0:
-                                print(".", end="", flush=True)
+                            if count % 1 == 0:
+                                #push to github
+                                
+                                subprocess.run(["git", "add", "*"])
+                                subprocess.run(["git", "commit", "-m", f"comitting after {count} generations"])
+                                subprocess.run(["git", "push"])
+
+                            
         
     print()
     print(f'yaml file for {count} projects created')
