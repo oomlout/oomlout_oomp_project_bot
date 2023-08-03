@@ -12,8 +12,7 @@ def go_through_directories():
             filter = ["electrolama","sparkfun","adafruit","omerk"]
             #filter = ["omerk","electrolama"]
             #if any of filter is in filename
-            if any(x
-             in filename for x in filter):                
+            if any(x in filename for x in filter):                
                 if file.endswith(".brd"):
                     print(f"working on {filename}")
 
