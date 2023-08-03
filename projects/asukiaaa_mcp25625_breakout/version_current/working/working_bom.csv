@@ -1,9 +1,26 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"C1,C2";"C_0402_1005Metric";2;"0.1u";;;
-2;"J1";"PinHeader_1x11_P2.54mm_Vertical_witout_silk";1;"Conn_01x11";;;
-3;"R1";"R_0402_1005Metric";1;"120";;;
-4;"U1";"SSOP-28_5.3x10.2mm_P0.65mm";1;"MCP25625-x-SS";;;
-5;"SW1";"slide_switch_smd";1;"SW_Slide_with_cover";;;
-6;"C4,C3";"C_0402_1005Metric";2;"22pf";;;
-7;"Y1";"Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm";1;"Crystal_GND24_16MHz";;;
-8;"R2";"R_0402_1005Metric";1;"10k";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,Unpolarized capacitor,C,C3 C4,22pf,C_0402_1005Metric,2, ,~
+2,Unpolarized capacitor,C,C1 C2,0.1u,C_0402_1005Metric,2, ,~
+3,"Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x11,J1,Conn_01x11,PinHeader_1x11_P2.54mm_Vertical_witout_silk,1, ,~
+4,Resistor,R,R1,120,R_0402_1005Metric,1, ,~
+5,Resistor,R,R2,10k,R_0402_1005Metric,1, ,~
+6,"Switch, single pole double throw",SW_Slide_with_cover,SW1,SW_Slide_with_cover,slide_switch_smd,1, ,~
+7,"Stand-Alone CAN Controller with SPI Interface and integated Transceiver, SSOP-28",MCP25625-x-SS,U1,MCP25625-x-SS,SSOP-28_5.3x10.2mm_P0.65mm,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/20005282B.pdf
+8,"Four pin crystal, GND on pins 2 and 4",Crystal_GND24,Y1,Crystal_GND24_16MHz,Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm,1, ,~
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-42
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,8
+Component Count:,10 (8 SMD/ 2 THT)
+Fitted Components:,10 (8 SMD/ 2 THT)
+Number of PCBs:,1
+Total Components:,10

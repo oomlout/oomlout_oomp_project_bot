@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="8" Component_Count="10 (8 SMD/ 2 THT)" Fitted_Components="10 (8 SMD/ 2 THT)" Number_of_PCBs="1" Total_Components="10" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-42" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor" Part="C" References="C3 C4" Value="22pf" Footprint="C_0402_1005Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="2" Description="Unpolarized capacitor" Part="C" References="C1 C2" Value="0.1u" Footprint="C_0402_1005Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="3" Description="Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x11" References="J1" Value="Conn_01x11" Footprint="PinHeader_1x11_P2.54mm_Vertical_witout_silk" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="4" Description="Resistor" Part="R" References="R1" Value="120" Footprint="R_0402_1005Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="5" Description="Resistor" Part="R" References="R2" Value="10k" Footprint="R_0402_1005Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="6" Description="Switch, single pole double throw" Part="SW_Slide_with_cover" References="SW1" Value="SW_Slide_with_cover" Footprint="slide_switch_smd" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="7" Description="Stand-Alone CAN Controller with SPI Interface and integated Transceiver, SSOP-28" Part="MCP25625-x-SS" References="U1" Value="MCP25625-x-SS" Footprint="SSOP-28_5.3x10.2mm_P0.65mm" Quantity_Per_PCB="1" Status=" " Datasheet="http://ww1.microchip.com/downloads/en/DeviceDoc/20005282B.pdf"/>
+	<group Row="8" Description="Four pin crystal, GND on pins 2 and 4" Part="Crystal_GND24" References="Y1" Value="Crystal_GND24_16MHz" Footprint="Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+</KiCad_BOM>

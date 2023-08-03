@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="7" Component_Count="7 (0 SMD/ 0 THT)" Fitted_Components="7 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="7" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-33" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1" Value="0.1uF/50V" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_ELECTROLYTICPANASONIC_D" References="C2" Value="22uF/63V" Footprint="PANASONIC_D" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="HEADER-1X476MIL" References="JP2" Value="HEADER-1X476MIL" Footprint="1X04_ROUND_76" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="FLIPFLOP-RES" References="R1" Value="30K" Footprint="0805-THM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="DRV8871" References="U1" Value="DRV8871" Footprint="HSOP8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="TERMBLOCK_1X2" References="X1" Value="DCMOTOR" Footprint="TERMBLOCK_1X2-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="TERMBLOCK_1X2" References="X2" Value="POWER" Footprint="TERMBLOCK_1X2-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
