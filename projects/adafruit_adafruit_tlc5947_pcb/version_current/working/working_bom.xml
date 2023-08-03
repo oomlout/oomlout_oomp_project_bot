@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="14" Component_Count="22 (0 SMD/ 0 THT)" Fitted_Components="22 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="22" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805" References="C1 C3" Value="10uF/16V" Footprint="0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805" References="C2" Value="1uF/50V" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CPOL-USE3.5-8" References="C4" Value="~1000uF" Footprint="E3,5-8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="LM2936?DT" References="IC2" Value="LM2936?DT" Footprint="TO252" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="TLC5947-DAP" References="IC1" Value="TLC5947-DAP" Footprint="HTSSOP32DAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="1X2-3.5MM" References="J1" Value="1X2-3.5MM" Footprint="1X2-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HEADER-2X3" References="JP2 JP3 JP4 JP5 JP6 JP7 JP8 JP9" Value="HEADER-2X3" Footprint="2X03_ROUND_70MIL" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="PINHD-1X6CB" References="JP1" Value="INPUT" Footprint="1X06-CLEANBIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="PINHD-1X6CB" References="JP10" Value="OUTPUT" Footprint="1X06-CLEANBIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="PINHD-1X1CB" References="JP11" Value="PINHD-1X1CB" Footprint="1X01-CLEANBIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="LEDCHIP-LED0805" References="LED1" Value="Green" Footprint="CHIP-LED0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR0805" References="R2" Value="470 ohm" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="FLIPFLOP-RES" References="R1" Value="3.3K" Footprint="0805-THM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="RESISTOR0805" References="R3" Value="10K" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

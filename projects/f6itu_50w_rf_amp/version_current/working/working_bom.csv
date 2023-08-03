@@ -1,0 +1,50 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C4 C6,10n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4, ,~
+2,"Unpolarized capacitor, small symbol",C_Small,C3 C5 C7 C11,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4, ,~
+3,"Unpolarized capacitor, small symbol",C_Small,C12 C13,100n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,2, ,~
+4,"Unpolarized capacitor, small symbol",C_Small,C14 C15 C16 C17 C18 C19 C20 C21 C22 C23 C24 C25 C26 C27 C28 C29,100n,C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,16, ,~
+5,"Unpolarized capacitor, small symbol",C_Small,C30,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,~
+6,"Polarized capacitor, small symbol",C_Polarized_Small,C8,15u,CP_EIA-6032-28_Kemet-C_Pad2.25x2.35mm_HandSolder,1, ,~
+7,"Polarized capacitor, small symbol",C_Polarized_Small,C9 C10,100u,CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder,2, ,~
+8,"Diode, small symbol",D_Small,D1,1N7002,D_2114_3652Metric_Pad1.85x3.75mm_HandSolder,1, ,~
+9,"Diode, small symbol",D_Small,D2,SS11,D_1812_4532Metric_Pad1.30x3.40mm_HandSolder,1, ,~
+10,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Male,J2 J3,PTT_In,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,2, ,~
+11,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J1 J4,RF_In,SMA_PINS,2, ,~
+12,"800mA Ic, 50V Vce, NPN Transistor, TO-39",2N2219,Q3,2N5109,TO-39-3,1, ,http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF
+13,"N-MOSFET transistor, gate/source/drain",Q_NMOS_GSD,Q1,2N7002,SOT-23_Handsoldering,1, ,~
+14,"1A Ic, 80V Vce, NPN Medium Power Transistor, SOT-89",BCX56,Q5,2SC5551A,SOT-89-3,1, ,http://cache.nxp.com/documents/data_sheet/BCP56_BCX56_BC56PA.pdf?pspll=1
+15,"Dual_N-MOSFET transistor, drain/gate/source",AFP05MP075N,Q4,AFT05MP075N,AFT05MP075N,1, ,~
+16,"P-MOSFET transistor, gate/drain/source",Q_PMOS_GDS,Q2,FDD6685,TO-252-2,1, ,~
+17,"Resistor, small symbol",R_Small,R8,4R7,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~
+18,"Resistor, small symbol",R_Small,R5,8.2R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~
+19,"Resistor, small symbol",R_Small,R10 R12 R13,10R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,3, ,~
+20,"Resistor, small symbol",R_Small,R16,10R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,~
+21,"Resistor, small symbol",R_Small,R14 R15,220,R_2816_7142Metric_Pad3.20x4.45mm_HandSolder,2, ,~
+22,"Resistor, small symbol",R_Small,R7,220,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~
+23,"Resistor, small symbol",R_Small,R9,270R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~
+24,"Resistor, small symbol",R_Small,R11,330,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~
+25,"Resistor, small symbol",R_Small,R6,1K3,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~
+26,"Resistor, small symbol",R_Small,R1 R2 R3 R4,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4, ,~
+27,Potentiometer,R_Potentiometer_Small,RV1,1K,Potentiometer_Bourns_TC33X_Vertical,1, ,~
+28,"Transformer, split",Autotransfo,T2,1:1,BN-61-202,1, ,~
+29,"Transformer, single primary, single secondary",Transformer_1P_1S,T3,1:9,Dual_FB-61-4852,1, ,~
+30,"Transformer, split",Autotransfo,T1,4:1,BN-43-2402,1, ,~
+31,"0.3-300MHz 1:1 RF Transformer, Unbalanced to Balanced Center Tap at Primary/Secondary, CD542",ADTT1-1,TR1,4:1,BN-43-1502,1, ,https://www.minicircuits.com/pdfs/ADTT1-1+.pdf
+32,"Positive 500mA 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)",LM78M05_TO252,U1,LM78M05_TO252,TO-252-2,1, ,https://www.onsemi.com/pub/Collateral/MC78M00-D.PDF
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-57
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,32
+Component Count:,63 (58 SMD/ 5 THT)
+Fitted Components:,63 (58 SMD/ 5 THT)
+Number of PCBs:,1
+Total Components:,63

@@ -1,0 +1,33 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,C,C4,220pF,C0402F,1, ,
+2,,C,C5 C6,10nF,C0603F,2, ,
+3,,C,C3,100nF,C0603F,1, ,
+4,,C,C2,1uF,C0603F,1, ,
+5,,C,C1,10uF,C0805E,1, ,
+6,,LED,D1,blue,D0603F,1, ,
+7,Connector 01x02,CONN_01X02,P2,BOOT,SolderJumper,1, ,
+8,,CON-SENSOR2,P1,CON-SENSOR2,CON-SENSOR2,1, ,
+9,Connector 01x01,CONN_01X01,P3,DEBUG,DEBUG_PAD,1, ,
+10,,R,R1,1k,R0603F,1, ,
+11,4 resistors Pack,R_PACK4,RP2,10k,4X0603,1, ,
+12,4 resistors Pack,R_PACK4,RP1,82,4X0402,1, ,
+13,,DRILL,U3 U4 U5 U6,DRILL,DRILL_NP,4, ,
+14,,ROTARY_ENCODER,U2,ROTARY_ENCODER,ROTARY_ENCODER,1, ,~
+15,,XMC1XXX24,U1,XMC110024,QFN24-4x4mm-0.5mm,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,2.0
+Date:,2023-01-26
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,15
+Component Count:,19 (9 SMD/ 10 THT)
+Fitted Components:,19 (9 SMD/ 10 THT)
+Number of PCBs:,1
+Total Components:,19
