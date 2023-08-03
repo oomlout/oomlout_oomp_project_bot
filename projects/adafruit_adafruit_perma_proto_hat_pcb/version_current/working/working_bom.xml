@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="4" Component_Count="6 (0 SMD/ 0 THT)" Fitted_Components="6 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="6" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="HEADER-1X25" References="CONN1" Value="HEADER-1X25" Footprint="1X25_ROUND_70MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R2 R3" Value="3.9K" Footprint="0805-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="RASPBERRYPI_BPLUS_HATNOSLOTS" References="RPI1" Value="RASPBERRYPI_BPLUS_HATNOSLOTS" Footprint="PI_HAT_NOSLOTS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="EEPROM_I2C_SOIC8_GENERIC" References="U1" Value="CAT24C32" Footprint="SOIC8_150MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="12" Component_Count="14 (0 SMD/ 0 THT)" Fitted_Components="14 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="14" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C6 C7" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="LP298XS" References="IC2" Value="LP298XS" Footprint="SOT23-5L" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="HEADER-1X12" References="JP1" Value="HEADER-1X12" Footprint="1X12_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="HEADER-1X16ROUND" References="JP4" Value="HEADER-1X16ROUND" Footprint="1X16_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="HEADER-1X870MIL" References="JP2 JP3" Value="HEADER-1X870MIL" Footprint="1X08_ROUND_70" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-2X8_SHROUDED" References="JP15" Value="Shrouded 2x8" Footprint="2X08_SHROUDED" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="FEATHERWING" References="MS1" Value="FEATHERWING" Footprint="FEATHERWING" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="MOSFET-P-POWERDI3333" References="Q2" Value="AON7401" Footprint="POWERDI3333" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR_0603_NOOUT" References="R1" Value="100K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="SWITCH_TACT_SMT4.6X2.8" References="SW1" Value="KMR2" Footprint="BTN_KMR2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="DCBARRELPTH" References="X1" Value="DCBARRELPTH" Footprint="DCJACK_2MM_PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="TERMBLOCK_1X2_5.08MM" References="X2" Value="TERMBLOCK_1X2_5.08MM" Footprint="TERMBLOCK_508_1X2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

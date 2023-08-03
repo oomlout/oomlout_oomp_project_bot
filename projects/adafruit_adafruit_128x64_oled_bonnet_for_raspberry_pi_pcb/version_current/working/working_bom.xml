@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="9" Component_Count="15 (0 SMD/ 0 THT)" Fitted_Components="15 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="15" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-31" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C3 C4 C6 C7 C8" Value="2.2uF" Footprint="0805-NO" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2 C5" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="AXP083-SAG" References="IC1" Value="APX803" Footprint="SOT23" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="RESISTOR0805_NOOUTLINE" References="R3" Value="390K" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="RASPBERRYPI_BPLUS_BONNET_THMSMT" References="RPI1" Value="RASPBERRYPI_BPLUS_BONNET_THMSMT" Footprint="PI_BONNET_THMSMT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="SWITCH_TACT_SMT_EVQQ2_SMALL" References="SW1 SW2" Value="EVQQ" Footprint="EVQ-Q2_SMALLER" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="NAVSWITCHSKQUABAUE010" References="SW3" Value="NAVSWITCHSKQUABAUE010" Footprint="SKQUBAE010" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="DISP_OLED_UG-2864HSWEG01" References="U1" Value="UG-2864HSWEG01" Footprint="UG-2864HSWEG01_1.3_WRAPAROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

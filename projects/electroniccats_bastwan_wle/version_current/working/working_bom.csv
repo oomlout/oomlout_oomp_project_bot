@@ -1,28 +1,44 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"J2";"PinSocket_1x12_P2.54mm_Vertical";1;"Conn_Right";;;
-2;"J3";"PinSocket_1x16_P2.54mm_Vertical";1;"Conn_Left";;;
-3;"D1";"L_0402_1005Metric";1;"PGB1010402KR";;;
-4;"C3,C4,C7,C5";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";4;"10uF";;;
-5;"R4";"R_0603_1608Metric";1;"1.5M";;;
-6;"R9,R8";"R_0603_1608Metric";2;"330";;;
-7;"U5";"SOT-23-5";1;"MCP73831";;;
-8;"U1";"RAK3172";1;"RAK3172";;;
-9;"AE1";"SMA_EDGE";1;"Antenna";;;
-10;"J4";"JST_S2B-PH-SM4-TB(LF)(SN)";1;"Conn_Battery";;;
-11;"C1,C6,C8";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";3;"0.1uF";;;
-12;"C2";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"47pF";;;
-13;"R3";"R_0603_1608Metric";1;"1M";;;
-14;"Q1";"SOT-23";1;"DMG3415U-7";;;
-15;"R2";"R_0603_1608Metric";1;"100K";;;
-16;"D2";"D_SOD-123";1;"MBR120";;;
-17;"R6";"R_0603_1608Metric";1;"1K";;;
-18;"SW1";"C455281";1;"RST";;;
-19;"C9";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"4.7uF";;;
-20;"U3";"QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm";1;"CP2104";;;
-21;"R1,R5";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"5.1K";;;
-22;"D5";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"D13";;;
-23;"U2";"DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm";1;"MCP1700_DFN6";;;
-24;"J1";"C393939";1;"USB_C";;;
-25;"D4";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"CHR";;;
-26;"J5";"Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical";1;"SWD";;;
-27;"G***";"bast_8x8";1;"LOGO";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,manf#,#LCSC,Proveedor,#Mouser
+1,Antenna with extra pin for shielding,Antenna_Shield,AE1,Antenna,SMA_EDGE,1, ,https://datasheet.lcsc.com/lcsc/2012241212_HJ-Tech-HJ-SMA023_C1509219.pdf,HJ-SMA023,C1509219,LCSC,
+2,"Unpolarized capacitor, small symbol",C_Small,C2,47pF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,https://datasheet.lcsc.com/lcsc/2006011835_YAGEO-CC0603FRNPO9BN470_C519486.pdf,CC0603FRNPO9BN470,C519486,LCSC,
+3,"Unpolarized capacitor, small symbol",C_Small,C1 C6 C8,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3, ,https://datasheet.lcsc.com/lcsc/1809301912_YAGEO-CC0603KRX7R9BB104_C14663.pdf,CC0603KRX7R9BB104,C14663,LCSC,
+4,"Unpolarized capacitor, small symbol",C_Small,C9,4.7uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,https://datasheet.lcsc.com/lcsc/1811031143_YAGEO-CC0603KRX5R6BB106_C326057.pdf,CC0603KRX5R6BB106,C326057,LCSC,
+5,"Unpolarized capacitor, small symbol",C_Small,C3 C4 C5 C7,10uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,4, ,https://datasheet.lcsc.com/lcsc/1811031143_YAGEO-CC0603KRX5R6BB106_C326057.pdf,CL05A106MQ5NUNC CC0603KRX5R6BB106,C326057,LCSC,
+6,Light emitting diode,LED,D4,CHR,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-G36G_C205443.html,ORH-G36G,C205443,LCSC,
+7,Light emitting diode,LED,D5,D13,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_ARKLED-Wuxi-ARK-Tech-Elec-D-060306R1-SS2-L_C118330.html,D-060306R1/SS2/L,C118330,LCSC,
+8,"40V 3A Schottky Barrier Rectifier Diode, DO-201AD",MBR340,D2,MBR120,D_SOD-123,1, ,http://www.onsemi.com/pub_link/Collateral/MBR340-D.PDF,MBR120LSF,C130880,LCSC,
+9,,D_TVS_ALT,D1,PGB1010402KR,L_0402_1005Metric,1, ,https://datasheet.lcsc.com/lcsc/1809192016_Littelfuse-PGB1010402KR_C10676.pdf,PGB1010402KR,C10676,LCSC,
+10,"Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x01,J4,Conn_Battery,JST_S2B-PH-SM4-TB(LF)(SN),1, ,https://datasheet.lcsc.com/lcsc/2102031704_JST-Sales-America-S2B-PH-SM4-TB-LF-SN_C295747.pdf,S2B-PH-SM4-TB(LF)(SN),C295747,LCSC,
+11,"Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x16,J3,Conn_Left,PinSocket_1x16_P2.54mm_Vertical,1, ,~,-,,,
+12,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x12,J2,Conn_Right,PinSocket_1x12_P2.54mm_Vertical,1, ,~,-,,,
+13,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06_Female,J5,SWD,Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical,1, ,~,,,,
+14,USB 2.0-only Type-C Plug connector,USB_C_Plug_USB2.0,J1,USB_C,C393939,1, ,https://datasheet.lcsc.com/lcsc/1912111437_SHOU-HAN-TYPE-C16PIN_C393939.pdf,TYPE-C16PIN,C393939,LCSC,
+15,,DMG2301L-Transistor_FET-Bast_WAN-rescue,Q1,DMG3415U-7,SOT-23,1, ,https://www.diodes.com/assets/Datasheets/DMG2301L.pdf,DMG3415UQ-7,C459537,LCSC,
+16,"Resistor, small symbol",R_Small,R8 R9,330,R_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/1810170116_RALEC-RTT033300FTP_C103542.pdfhttps://datasheet.lcsc.com/lcsc/1810170116_RALEC-RTT033300FTP_C103542.pdf,RTT033300FTP,C103542,LCSC,
+17,"Resistor, small symbol",R_Small,R6,2K,R_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAJ0202T5E_C25590.pdf,WR06X1001FTL,C25590,LCSC,
+18,"Resistor, small symbol",R_Small,R1 R5,5.1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,https://datasheet.lcsc.com/lcsc/1811031511_KOA-Speer-Elec-RK73B1JTTD512J_C131715.pdf,RK73B1JTTD512J,C131715,LCSC,
+19,"Resistor, small symbol",R_Small,R2,100K,R_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/2110251730_UNI-ROYAL-Uniroyal-Elec-0603WAJ0104T5E_C15458.pdf,0603WAJ0104T5E,C15458,LCSC,
+20,"Resistor, small symbol",R_Small,R3,1M,R_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/1811061728_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K105JT_C304688.pdf,RS-03K105JT,C304688,LCSC,
+21,"Resistor, small symbol",R_Small,R4,1.5M,R_0603_1608Metric,1, ,https://www.mouser.mx/datasheet/2/315/AOA0000C334-1314047.pdf,ERJ-U03J155V,,Mouser,667-ERJ-U03J155V
+22,"Push button switch, generic, two pins",SW_Push,SW1,RST,C455281,1, ,https://datasheet.lcsc.com/lcsc/1912111437_XUNPU-TS-1088R-02526_C455281.pdf,TS-1088R-02526,C455281,LCSC,
+23,"Single-Chip USB-to-UART Bridge, USB 2.0 Full-Speed, 2Mbps UART, QFN-24",CP2104,U3,CP2104,QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,1, ,https://datasheet.lcsc.com/lcsc/1809191938_SILICON-LABS-CP2104-F03-GMR_C47742.pdf,CP2104-F03-GMR,C47742,LCSC,
+24,,MCP1700_DFN6-Regulator,U2,MCP1700_DFN6,DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,1, ,https://www.mouser.mx/datasheet/2/268/MCP1700_Data_Sheet_20001826F-737536.pdf,MCP1700T3302EMAY,,Mouser,579-MCP1700T3302EMAY
+25,"Single cell, Li-Ion/Li-Po charge management controller, 4.35V, Tri-State Status Output, in SOT23-5 package",MCP73831-3-OT,U5,MCP73831,SOT-23-5,1, ,https://datasheet.lcsc.com/lcsc/1912111437_Microchip-Tech-MCP73831T-2ACI-OT_C424093.pdf,MCP73831T-2ACI/OT,C424093,LCSC,
+26,,RAK3172-Electronic_Cats,U1,RAK3172,RAK3172,1, ,,,,RAK,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,1.0
+Date:,2021-07-13
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,26
+Component Count:,33 (25 SMD/ 7 THT)
+Fitted Components:,33 (25 SMD/ 7 THT)
+Number of PCBs:,1
+Total Components:,33

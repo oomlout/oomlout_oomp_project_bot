@@ -53,9 +53,10 @@ def go_through_directories(**kwargs):
                             
                             count += 1
                             #print a dot every 100 times through#
-                            if count % 1 == 0:
+                            if count % 30 == 0:
                                 #push to github
-                                
+                                print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
+                                print("%%%%%%  pushing to github")
                                 subprocess.run(["git", "add", "*"])
                                 subprocess.run(["git", "commit", "-m", f"comitting after {count} generations"])
                                 subprocess.run(["git", "push"])
