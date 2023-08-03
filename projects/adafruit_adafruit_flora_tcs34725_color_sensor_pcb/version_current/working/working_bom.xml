@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="5" Component_Count="7 (0 SMD/ 0 THT)" Fitted_Components="7 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="7" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-33" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC_0805" References="C1" Value="0.1µF" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="LEDEV45-21" References="LED1" Value="45-21/LK2C-B38452C4CB2/2T" Footprint="EVERLIGHT_45-21" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="MOSFET-NWIDE" References="Q3" Value="BSS138" Footprint="SOT23-WIDE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="RESISTOR_0805" References="R1 R2 R6" Value="10K" Footprint="_0805" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LIGHT_TCS3472" References="U1" Value="TCS34725" Footprint="TCS3472_FN6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

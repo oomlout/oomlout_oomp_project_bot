@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="23" Component_Count="36 (0 SMD/ 0 THT)" Fitted_Components="36 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="36" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-33" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C3" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC_0805MP" References="C2" Value="1uF" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C8" Value="1uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C4 C5 C7" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="DIODESOD-323" References="D3" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="DIODESOD-123" References="D2" Value="MBR0540" Footprint="SOD-123" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="DIODESMA" References="D1" Value="MM3Z24VT1G" Footprint="SMADIODE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="FERRITE_0805MP" References="FB4" Value="FERITE" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="FERRITE_0805MP" References="FB1 FB2 FB3" Value="FERRITE" Footprint="_0805MP" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="AR1100_SSOP" References="IC1" Value="AR1100_SSOP" Footprint="TSSOP20-5.3MMBODY" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="40PINFPC4-1734839-0" References="J1" Value="40PINFPC4-1734839-0" Footprint="4-1734839-0" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="INDUCTORNR5040" References="L1" Value="6.8uH power L CID 2276" Footprint="INDUCTOR_5X5MM_NR5040_NOTHERMALS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="LED0805_NOOUTLINE" References="LED1" Value="RED" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="RESISTOR0805_NOOUTLINE" References="R2" Value="6Ω" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="RESISTOR0805_NOOUTLINE" References="R3 R4 R7" Value="12Ω" Footprint="0805-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="RESISTOR_4PACK" References="R6 R8 R9 R10 R11 R12" Value="33" Footprint="RESPACK_4X0603" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="RESISTOR0805_NOOUTLINE" References="R13" Value="470" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R14" Value="20K" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="RESISTOR_0805MP" References="R5" Value="20K" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="RASPBERRYPI_BPLUS-SMT+SLOTS" References="RPI1" Value="RASPBERRYPI_BPLUS-SMT+SLOTS" Footprint="PI_HAT_SMT_SLOTS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="FAN5331" References="U3" Value="FAN5333BSX" Footprint="SOT23-5@1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="USBMICRO_20329" References="X1" Value="MicroUSB" Footprint="4UCONN_20329" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="RESONATORSMD" References="Y1" Value="RESONATORSMD" Footprint="RESONATOR-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/oom/gh/oomlout_oomp_project_bot/projects/gigahawk_pipod_hw/version_current/working/working.kicad_sch")
-    (date "Thu 03 Aug 2023 18:30:13 BST")
+    (date "Thu 03 Aug 2023 19:26:03 BST")
     (tool "Eeschema 7.0.6-7.0.6~ubuntu22.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -236,9 +236,9 @@
         (pin (num "10") (name "S") (type "input")))))
   (libraries
     (library (logical "Connector")
-      (uri "/usr/share/kicad/symbols//Connector.kicad_sym"))
+      (uri "/usr/share/kicad/symbols/Connector.kicad_sym"))
     (library (logical "Device")
-      (uri "/usr/share/kicad/symbols//Device.kicad_sym")))
+      (uri "/usr/share/kicad/symbols/Device.kicad_sym")))
   (nets
     (net (code "1") (name "+3V3")
       (node (ref "C23") (pin "1") (pintype "passive"))

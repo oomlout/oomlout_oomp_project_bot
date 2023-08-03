@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="18" Component_Count="24 (16 SMD/ 8 THT)" Fitted_Components="24 (16 SMD/ 8 THT)" Number_of_PCBs="1" Total_Components="24" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-59" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor, small symbol" Part="C_Small" References="C2 C3 C4 C5" Value="1uF" Footprint="C_0603_1608Metric" Quantity_Per_PCB="4" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="2" Description="Unpolarized capacitor, small symbol" Part="C_Small" References="C1" Value="4.7uF" Footprint="C_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="3" Description="RGB LED, green/blue/anode/red" Part="LED_GBAR" References="D1" Value="LED_BAGR" Footprint="LED_RGBA_0606" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C375569"/>
+	<group Row="4" Description="OLED display 128x64" Part="OLED-128O064D" References="DS1" Value="OLED-128O064D" Footprint="OLED-128O064D" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.vishay.com/docs/37902/oled128o064dbpp3n00000.pdf" LCSC=""/>
+	<group Row="5" Description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x04" References="J2" Value="Conn_Qwiic" Footprint="JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C145956"/>
+	<group Row="6" Description="USB 2.0-only Type-C Receptacle connector" Part="USB_C_Receptacle_USB2.0" References="J1" Value="USB_C_Receptacle_USB2.0" Footprint="USB_C_Receptacle_HRO_TYPE-C-31-M-12" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.usb.org/sites/default/files/documents/usb_type-c.zip" LCSC="C165948"/>
+	<group Row="7" Description="Speaker" Part="Speaker" References="LS1" Value="Speaker" Footprint="CMT-5023S" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C94598"/>
+	<group Row="8" Description="Resistor, small symbol" Part="R_Small" References="R1 R2 R3" Value="2K" Footprint="R_0603_1608Metric" Quantity_Per_PCB="3" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="9" Description="Resistor, small symbol" Part="R_Small" References="R4 R5" Value="5.1K" Footprint="R_0603_1608Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="10" Description="Resistor, small symbol" Part="R_Small" References="R6" Value="390K" Footprint="R_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="11" Description="Single Pole Single Throw (SPST) switch" Part="SW_SPST" References="SW5" Value="SW_A" Footprint="RMT-CZ66" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C128939"/>
+	<group Row="12" Description="Single Pole Single Throw (SPST) switch" Part="SW_SPST" References="SW6" Value="SW_B" Footprint="RMT-CZ66" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C128939"/>
+	<group Row="13" Description="Single Pole Single Throw (SPST) switch" Part="SW_SPST" References="SW2" Value="SW_DOWN" Footprint="RMT-CZ66" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C128939"/>
+	<group Row="14" Description="Single Pole Single Throw (SPST) switch" Part="SW_SPST" References="SW3" Value="SW_LEFT" Footprint="RMT-CZ66" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C128939"/>
+	<group Row="15" Description="Switch, single pole double throw" Part="SW_SPDT" References="SW7" Value="SW_POWER" Footprint="SW_SPDT_PCM12" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C319020"/>
+	<group Row="16" Description="Single Pole Single Throw (SPST) switch" Part="SW_SPST" References="SW4" Value="SW_RIGHT" Footprint="RMT-CZ66" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C128939"/>
+	<group Row="17" Description="Single Pole Single Throw (SPST) switch" Part="SW_SPST" References="SW1" Value="SW_UP" Footprint="RMT-CZ66" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C128939"/>
+	<group Row="18" Description="" Part="RP2040_Stamp" References="U1" Value="RP2040_Stamp" Footprint="RP2040_Stamp_SMD" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+</KiCad_BOM>

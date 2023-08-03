@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="12" Component_Count="18 (0 SMD/ 0 THT)" Fitted_Components="18 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="18" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C8" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="ATTINY85S" References="IC3" Value="ATTINY85S" Footprint="SOIC8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="PINHD-1X1CB" References="JP1" Value="PINHD-1X1CB" Footprint="1X01-CLEANBIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="PINHD-1X6CB" References="JP2" Value="PINHD-1X6CB" Footprint="1X06-CLEANBIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED0805_NOOUTLINE" References="L1 L2 L3 L5 L6" Value="Blue" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LED0805_NOOUTLINE" References="L4" Value="Green" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R3 R6" Value="470" Footprint="0805-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR0805_NOOUTLINE" References="R2" Value="10K 1%" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR0805_NOOUTLINE" References="RSHUNT0" Value="0.1/1% 0.1W+" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="INA169" References="U2" Value="INA169" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="USB_TYPEAPTHFML" References="X3" Value="USB_TYPEAPTHFML" Footprint="USB_HOST-PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="USB_TYPEA_CLIENTTHM" References="X2" Value="USB_TYPEA_CLIENTTHM" Footprint="USB_A-THM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
