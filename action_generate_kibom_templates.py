@@ -22,7 +22,8 @@ def go_through_directories():
             
             if any(x in filename for x in filter):
                 if file.endswith(".kicad_pcb"):
-                    
+                    print(f"##############################################")
+                    print(f"###### kibot for {filename}")
                     ###### copy template across
                     
                     filename_directory = os.path.dirname(filename)
