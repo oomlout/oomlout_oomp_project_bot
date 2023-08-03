@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="16" Component_Count="28 (23 SMD/ 3 THT)" Fitted_Components="28 (23 SMD/ 3 THT)" Number_of_PCBs="1" Total_Components="28" Schematic_Source="working" Schematic_Revision="draft" Schematic_Date="2019-12-20" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor" Part="C" References="C104" Value="10n" Footprint="C_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="2" Description="Unpolarized capacitor" Part="C" References="C108 C109" Value="100n" Footprint="C_0603_1608Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="3" Description="Unpolarized capacitor" Part="C" References="C101 C102 C103 C107 C112 C113 C114" Value="4u7" Footprint="C_0603_1608Metric" Quantity_Per_PCB="7" Status=" " Datasheet="~"/>
+	<group Row="4" Description="Unpolarized capacitor" Part="C" References="C105 C106 C115" Value="C" Footprint="C_0603_1608Metric" Quantity_Per_PCB="3" Status=" " Datasheet="~"/>
+	<group Row="5" Description="Diode" Part="D" References="D101 D103" Value="D" Footprint="D_SOD-323F" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="6" Description="" Part="S597x-aw" References="D102" Value="S597x" Footprint="TO-18-3" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.osram-os.com/Graphics/XPic5/00215016_0.pdf/BP%20104%20FS.pdf"/>
+	<group Row="7" Description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x03" References="J102" Value="Conn_01x03" Footprint="PinHeader_1x03_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="8" Description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)" Part="Conn_Coaxial" References="J101" Value="Conn_Coaxial" Footprint="MMCX_Molex_73415-1471_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="9" Description="Inductor" Part="L" References="L101" Value="100u" Footprint="L_0805_2012Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="10" Description="Resistor" Part="R" References="R104 RF101" Value="R" Footprint="R_0603_1608Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="11" Description="Resistor" Part="R" References="R106" Value="49R9" Footprint="R_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="12" Description="Resistor" Part="R" References="R102" Value="300R" Footprint="R_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="13" Description="Resistor" Part="R" References="R101 R107" Value="49k9" Footprint="R_0603_1608Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="14" Description="200mA, Adjustable, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator, MSOP-10" Part="LT3042xMSE" References="U101" Value="LT3042xMSE" Footprint="MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.analog.com/media/en/technical-documentation/data-sheets/3042fb.pdf"/>
+	<group Row="15" Description="" Part="LT3093xMSE-aw" References="U102" Value="LT3093xMSE" Footprint="MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="Single Low-Power, 3.9GHz, Wideband, Ultra-Low Noise, Voltage-Feedback Operational Amplifier with Disable, SOT-23-6" Part="OPA847xDBV" References="U103" Value="OPA847xDBV" Footprint="SOT-23-6" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.ti.com/lit/ds/symlink/opa847.pdf"/>
+</KiCad_BOM>

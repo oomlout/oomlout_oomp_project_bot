@@ -1,20 +1,34 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"C109,C106,C105,C108";"C_0603_1608Metric";4;"100n";;;
-2;"U104";"SOT-23-5";1;"BUF602xDBV";;;
-3;"U103";"WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm";1;"OPA859xDSG";;;
-4;"R1";"R_0603_1608Metric";1;"10R";;;
-5;"C115";"C_0603_1608Metric";1;"C";;;
-6;"D103,D101";"D_SOD-323F";2;"D";;;
-7;"J101";"MMCX_Molex_73415-1471_Vertical";1;"Conn_Coaxial";;;
-8;"R107,R101";"R_0603_1608Metric";2;"25k";;;
-9;"R106";"R_0603_1608Metric";1;"49R9";;;
-10;"RF101";"R_0603_1608Metric";1;"R";;;
-11;"R103";"R_0603_1608Metric";1;"0R";;;
-12;"R102";"R_0603_1608Metric";1;"300R";;;
-13;"L101";"L_0805_2012Metric";1;"100u";;;
-14;"J102";"PinHeader_1x03_P2.54mm_Vertical";1;"Conn_01x03";;;
-15;"C114,C113,C112,C107,C103,C102,C101";"C_0603_1608Metric";7;"4u7";;;
-16;"C104";"C_0603_1608Metric";1;"10n";;;
-17;"U102";"MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm";1;"LT3093xMSE";;;
-18;"U101";"MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm";1;"LT3042xMSE";;;
-19;"D102";"TO-18-3";1;"S597x";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,Unpolarized capacitor,C,C104,10n,C_0603_1608Metric,1, ,~
+2,Unpolarized capacitor,C,C108 C109,100n,C_0603_1608Metric,2, ,~
+3,Unpolarized capacitor,C,C101 C102 C103 C107 C112 C113 C114,4u7,C_0603_1608Metric,7, ,~
+4,Unpolarized capacitor,C,C105 C106 C115,C,C_0603_1608Metric,3, ,~
+5,Diode,D,D101 D103,D,D_SOD-323F,2, ,~
+6,,S597x-aw,D102,S597x,TO-18-3,1, ,http://www.osram-os.com/Graphics/XPic5/00215016_0.pdf/BP%20104%20FS.pdf
+7,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J102,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,1, ,~
+8,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J101,Conn_Coaxial,MMCX_Molex_73415-1471_Vertical,1, ,~
+9,Inductor,L,L101,100u,L_0805_2012Metric,1, ,~
+10,Resistor,R,R104 RF101,R,R_0603_1608Metric,2, ,~
+11,Resistor,R,R106,49R9,R_0603_1608Metric,1, ,~
+12,Resistor,R,R102,300R,R_0603_1608Metric,1, ,~
+13,Resistor,R,R101 R107,49k9,R_0603_1608Metric,2, ,~
+14,"200mA, Adjustable, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator, MSOP-10",LT3042xMSE,U101,LT3042xMSE,MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm,1, ,https://www.analog.com/media/en/technical-documentation/data-sheets/3042fb.pdf
+15,,LT3093xMSE-aw,U102,LT3093xMSE,MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm,1, ,
+16,"Single Low-Power, 3.9GHz, Wideband, Ultra-Low Noise, Voltage-Feedback Operational Amplifier with Disable, SOT-23-6",OPA847xDBV,U103,OPA847xDBV,SOT-23-6,1, ,http://www.ti.com/lit/ds/symlink/opa847.pdf
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,draft
+Date:,2019-12-20
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,16
+Component Count:,28 (23 SMD/ 3 THT)
+Fitted Components:,28 (23 SMD/ 3 THT)
+Number of PCBs:,1
+Total Components:,28

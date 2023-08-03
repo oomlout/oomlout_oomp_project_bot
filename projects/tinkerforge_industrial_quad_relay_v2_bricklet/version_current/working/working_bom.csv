@@ -1,0 +1,33 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,C,C2,220pF,C0402F,1, ,
+2,,C,C1 C4,100nF,C0603F,2, ,
+3,,C,C3,10uF,C0805,1, ,
+4,,LED,D1 D2 D3 D4 D5,blue,D0603F,5, ,
+5,Connector 01x02,CONN_01X02,P4,Boot,SolderJumper,1, ,
+6,,CON-SENSOR2,P1,CON-SENSOR,CON-SENSOR2,1, ,
+7,Connector 01x01,CONN_01X01,P3,Debug,DEBUG_PAD,1, ,
+8,,CONN_8,P2,Digital Output,OQ_8P,1, ,
+9,,R,R5,1k,R0603F,1, ,
+10,,Varistor,R1 R2 R3 R4,VJ13PC0300KBA,R1210,4, ,
+11,4 resistors Pack,R_PACK4,RP1 RP3,1k,0603X4,2, ,
+12,4 resistors Pack,R_PACK4,RP2,82,4X0402,1, ,
+13,,OPTO-TRANSISTOR_MOSFET,U2 U3 U4 U5,CPC1002N,SOP4-WIDE,4, ,
+14,,DRILL,U6 U7 U8 U9,DRILL,DRILL_NP,4, ,
+15,,XMC1XXX24,U1,XMC1100,QFN24-4x4mm-0.5mm,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,2.1
+Date:,2021-12-03
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,15
+Component Count:,30 (17 SMD/ 13 THT)
+Fitted Components:,30 (17 SMD/ 13 THT)
+Number of PCBs:,1
+Total Components:,30

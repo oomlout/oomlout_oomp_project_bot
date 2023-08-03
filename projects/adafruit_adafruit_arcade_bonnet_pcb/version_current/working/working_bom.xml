@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="18" Component_Count="30 (0 SMD/ 0 THT)" Fitted_Components="30 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="30" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CON_JST_XH_2PIN-SM4" References="B0 B1 B2 B3 B4 B5" Value="CON_JST_XH_2PIN-SM4" Footprint="JST-XH-2-SM4" Quantity_Per_PCB="6" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0603_NO" References="C1" Value="0.1uF" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="4" Description="" Part="HEADER-1X25" References="CONN1" Value="HEADER-1X25" Footprint="1X25_ROUND_70MIL" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="5" Description="" Part="LED0805_NOOUTLINE" References="D1" Value="red" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="6" Description="" Part="LM339P" References="IC2" Value="LM339P" Footprint="TSSOP14" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="7" Description="" Part="MCP23017ML" References="IC1" Value="MCP23017ML" Footprint="QFN28-ML_6X6MM" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="MCP23017-E/SS" OC_FARNELL="1467674" OC_NEWARK="31K2960"/>
+	<group Row="8" Description="" Part="HEADER-1X5" References="JOY1" Value="HEADER-1X5" Footprint="1X05_OVAL" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="9" Description="" Part="HEADER-1X2" References="JP4 JP6 JP7 JP8 JP9 JP10" Value="HEADER-1X2" Footprint="1X02_OVAL" Quantity_Per_PCB="6" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="10" Description="" Part="HEADER-1X3ROUND" References="JP2 JP3" Value="HEADER-1X3ROUND" Footprint="1X03_ROUND" Quantity_Per_PCB="2" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="11" Description="" Part="HEADER-1X4" References="JP1" Value="HEADER-1X4" Footprint="1X04_OVAL" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="12" Description="" Part="RESISTOR_0603_NOOUT" References="R5" Value="1K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="13" Description="" Part="RESISTOR0805_10MGAP" References="R1" Value="10K" Footprint="0805_10MGAP" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="14" Description="" Part="RESISTOR0805_NOOUTLINE" References="R2 R3" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="15" Description="" Part="RESISTOR_0603_NOOUT" References="R4" Value="1M" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="16" Description="" Part="RASPBERRYPI_BPLUS_PHAT" References="RPI1" Value="RASPBERRYPI_BPLUS_PHAT" Footprint="PI_BONNET" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="17" Description="" Part="TERMBLOCK_1X2" References="SPKR0" Value="3.5mm" Footprint="TERMBLOCK_1X2-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+	<group Row="18" Description="" Part="AUDIOAMP_MAX98357" References="U1" Value="MAX98357A" Footprint="QFN16_3MM" Quantity_Per_PCB="1" Status=" " Datasheet="" MPN="" OC_FARNELL="" OC_NEWARK=""/>
+</KiCad_BOM>

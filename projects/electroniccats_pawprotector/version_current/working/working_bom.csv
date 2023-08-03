@@ -1,19 +1,34 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"R7";"R_0402_1005Metric";1;"1K";;;
-2;"U2";"SOT-553";1;"TPD2E001";;;
-3;"R5";"R_0402_1005Metric";1;"20K";;;
-4;"U3";"VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias";1;"TPS2561";;;
-5;"C3,C5,C6";"C_0402_1005Metric";3;"0.1uF";;;
-6;"R6";"R_0402_1005Metric";1;"100K";;;
-7;"J1";"C46394";1;"USB_A";;;
-8;"R3";"R_0402_1005Metric";1;"75K";;;
-9;"D1";"LED_0402_1005Metric";1;"ON";;;
-10;"C4";"C_0805_2012Metric";1;"10uF";;;
-11;"U1";"SOT-23-6";1;"TPS2514A";;;
-12;"R2,R4";"R_0402_1005Metric";2;"49.9K";;;
-13;"R1";"R_0402_1005Metric";1;"43.2K";;;
-14;"G***";"electronic_cats_logo_4x3";1;"LOGO";;;
-15;"C2";"C_0402_1005Metric";1;"0.22uF";;;
-16;"J2";"875832010BLF";1;"USB_A";;;
-17;"C1";"CP_Elec_6.3x5.4";1;"150uF";;;
-18;"G***";"electronic_cats_logo_8x6";1;"LOGO";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC#,manf#
+1,Unpolarized capacitor,C,C3 C5 C6,0.1uF,C_0402_1005Metric,3, ,~,C392963,
+2,Unpolarized capacitor,C,C2,0.22uF,C_0402_1005Metric,1, ,~,C2903665,
+3,Unpolarized capacitor,C,C4,10uF,C_0805_2012Metric,1, ,~,C3015160,
+4,"Polarized capacitor, US symbol",C_Polarized_US,C1,150uF,CP_Elec_6.3x5.4,1, ,~,C2895744,
+5,Light emitting diode,LED,D1,ON,LED_0402_1005Metric,1, ,~,C965790,
+6,USB Type A connector,USB_A,J1,USB_A,C46394,1, ,~,C46394,
+7,USB Type A connector,USB_A,J2,USB_A,875832010BLF,1, ,~,C599118,
+8,Resistor,R,R7,1K,R_0402_1005Metric,1, ,~,C3152067,
+9,Resistor,R,R5,20K,R_0402_1005Metric,1, ,~,C100292,
+10,Resistor,R,R1,43.2K,R_0402_1005Metric,1, ,~,C5356145,
+11,Resistor,R,R2 R4,49.9K,R_0402_1005Metric,2, ,~,C2906873,
+12,Resistor,R,R3,75K,R_0402_1005Metric,1, ,~,C3152096,
+13,Resistor,R,R6,100K,R_0402_1005Metric,1, ,~,C3152099,
+14,Low-Capacitance 2-Channel +/-15kV ESD Protection Array for High-Speed Data Interfaces,TPD2E001DRLR,U2,TPD2E001,SOT-553,1, ,http://www.ti.com/lit/ds/symlink/tpd2e001.pdf,C150526,TPD2E001DRLR
+15,USB Dedicated Charging Port Controller,TPS2514A,U1,TPS2514A,SOT-23-6,1, ,http://www.ti.com/lit/ds/symlink/tps2513.pdf,C157567,TPS2514ADBVR
+16,Dual channel precision adjustable current-limited power switches,TPS2561,U3,TPS2561,VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias,1, ,http://www.ti.com/lit/ds/symlink/tps2561.pdf,,TPS2561ADRCR
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-57
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,16
+Component Count:,19 (17 SMD/ 2 THT)
+Fitted Components:,19 (17 SMD/ 2 THT)
+Number of PCBs:,1
+Total Components:,19

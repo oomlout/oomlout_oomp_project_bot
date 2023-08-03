@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="5" Component_Count="53 (51 SMD/ 2 THT)" Fitted_Components="53 (51 SMD/ 2 THT)" Number_of_PCBs="1" Total_Components="53" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-45" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor" Part="C" References="C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12 C13 C14 C15 C16 C17 C18 C19 C20 C21 C22 C23 C24" Value="100nF" Footprint="C_0402_1005Metric" Quantity_Per_PCB="24" Status=" " Datasheet="~" LCSC="C307331"/>
+	<group Row="2" Description="Unpolarized capacitor" Part="C" References="C25" Value="22uF" Footprint="C_0805_2012Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C45783"/>
+	<group Row="3" Description="RGB LED with integrated controller" Part="XINGLIGHT-XL-1010RGBC-WS2812B" References="D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24" Value="XL-1010RGBC-WS2812B" Footprint="XINGLIGHT-XL-1010RGBC-WS2812B" Quantity_Per_PCB="24" Status=" " Datasheet="https://datasheet.lcsc.com/lcsc/2301111010_XINGLIGHT-XL-1010RGBC-WS2812B_C5349953.pdf" LCSC="C5349953"/>
+	<group Row="4" Description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x03" References="J1 J2" Value="Conn_01x03" Footprint="PinHeader_1x03_P2.54mm_Vertical" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="5" Description="Resistor" Part="R" References="R1 R2" Value="560" Footprint="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC="C23204"/>
+</KiCad_BOM>

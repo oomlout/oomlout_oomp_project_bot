@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="16" Component_Count="19 (17 SMD/ 2 THT)" Fitted_Components="19 (17 SMD/ 2 THT)" Number_of_PCBs="1" Total_Components="19" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-57" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor" Part="C" References="C3 C5 C6" Value="0.1uF" Footprint="C_0402_1005Metric" Quantity_Per_PCB="3" Status=" " Datasheet="~" LCSC_num="C392963" manf_num=""/>
+	<group Row="2" Description="Unpolarized capacitor" Part="C" References="C2" Value="0.22uF" Footprint="C_0402_1005Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C2903665" manf_num=""/>
+	<group Row="3" Description="Unpolarized capacitor" Part="C" References="C4" Value="10uF" Footprint="C_0805_2012Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C3015160" manf_num=""/>
+	<group Row="4" Description="Polarized capacitor, US symbol" Part="C_Polarized_US" References="C1" Value="150uF" Footprint="CP_Elec_6.3x5.4" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C2895744" manf_num=""/>
+	<group Row="5" Description="Light emitting diode" Part="LED" References="D1" Value="ON" Footprint="LED_0402_1005Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C965790" manf_num=""/>
+	<group Row="6" Description="USB Type A connector" Part="USB_A" References="J1" Value="USB_A" Footprint="C46394" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C46394" manf_num=""/>
+	<group Row="7" Description="USB Type A connector" Part="USB_A" References="J2" Value="USB_A" Footprint="875832010BLF" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C599118" manf_num=""/>
+	<group Row="8" Description="Resistor" Part="R" References="R7" Value="1K" Footprint="R_0402_1005Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C3152067" manf_num=""/>
+	<group Row="9" Description="Resistor" Part="R" References="R5" Value="20K" Footprint="R_0402_1005Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C100292" manf_num=""/>
+	<group Row="10" Description="Resistor" Part="R" References="R1" Value="43.2K" Footprint="R_0402_1005Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C5356145" manf_num=""/>
+	<group Row="11" Description="Resistor" Part="R" References="R2 R4" Value="49.9K" Footprint="R_0402_1005Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC_num="C2906873" manf_num=""/>
+	<group Row="12" Description="Resistor" Part="R" References="R3" Value="75K" Footprint="R_0402_1005Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C3152096" manf_num=""/>
+	<group Row="13" Description="Resistor" Part="R" References="R6" Value="100K" Footprint="R_0402_1005Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="C3152099" manf_num=""/>
+	<group Row="14" Description="Low-Capacitance 2-Channel +/-15kV ESD Protection Array for High-Speed Data Interfaces" Part="TPD2E001DRLR" References="U2" Value="TPD2E001" Footprint="SOT-553" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.ti.com/lit/ds/symlink/tpd2e001.pdf" LCSC_num="C150526" manf_num="TPD2E001DRLR"/>
+	<group Row="15" Description="USB Dedicated Charging Port Controller" Part="TPS2514A" References="U1" Value="TPS2514A" Footprint="SOT-23-6" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.ti.com/lit/ds/symlink/tps2513.pdf" LCSC_num="C157567" manf_num="TPS2514ADBVR"/>
+	<group Row="16" Description="Dual channel precision adjustable current-limited power switches" Part="TPS2561" References="U3" Value="TPS2561" Footprint="VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.ti.com/lit/ds/symlink/tps2561.pdf" LCSC_num="" manf_num="TPS2561ADRCR"/>
+</KiCad_BOM>

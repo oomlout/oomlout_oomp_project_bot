@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="11" Component_Count="19 (0 SMD/ 0 THT)" Fitted_Components="19 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="19" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C6" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2" Value="1uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C3" Value="2.2uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C4 C5" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="HEADER-1X670MIL" References="JP1 JP2" Value="HEADER-1X670MIL" Footprint="1X06_ROUND_70" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="MOSFET-NWIDE" References="Q1 Q2" Value="BSS138" Footprint="SOT23-WIDE" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RESISTOR0805_NOOUTLINE" References="R2" Value="22" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R3 R4 R5" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR0805_10MGAP" References="R6 R7" Value="10K" Footprint="0805_10MGAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="AMG8833" References="U1" Value="AMG8833" Footprint="AMG8833" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="VREG_SOT23-5" References="U2" Value="mic5225-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

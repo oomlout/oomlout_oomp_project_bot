@@ -1,32 +1,48 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"U3";"TSSOP-14";1;"MAX31856";;;
-2;"J2,J1,J5";"TB-1776275-2";3;"TERMINAL-BLOCK-1x2";;;
-3;"Q2,Q1,Q3";"SOT-23";3;"2N3904";;;
-4;"R2,R3";"R_0603";2;"100R";;;
-5;"R10,R9,R4,R5";"R_0603";4;"10K";;;
-6;"R8,R12";"R_0603";2;"53K6";;;
-7;"R7";"R_0603";1;"27K";;;
-8;"J3";"MICRO-USB";1;"MICRO-USB";;;
-9;"LOGO1";"LOGO-ROCKET-SCREAM_Without_Text_XXXSmall";1;"LOGO-ROCKET-SCREAM";;;
-10;"L1";"I_0603";1;"BLM18KG221SN1D";;;
-11;"SW2,SW1";"IT-1102W";2;"IT-1109S";;;
-12;"LS1";"HYG9605B";1;"HYG9605B";;;
-13;"C2,C1";"C_0603";2;"10nF";;;
-14;"C9,C8,C7,C6,C4,C3,C13,C14,C18,C17,C11,C19";"C_0603";12;"100nF";;;
-15;"C5,C12,C10";"C_0603";3;"10uF 16V X5R";;;
-16;"D3";"SOD-323";1;"1N4148WS";;;
-17;"R11,R1,R6";"R_0603";3;"2K2";;;
-18;"U1";"QFN-32_5x5mm_Pitch0.5mm";1;"ATMEGA328P-MU";;;
-19;"U4";"MSOP-10";1;"CH340E";;;
-20;"F1";"MF-FSMF";1;"FUSE";;;
-21;"L2";"I_0603";1;"LBMF1608T100K";;;
-22;"C16,C15";"C_0603";2;"10pF";;;
-23;"D1";"LED_0603";1;"Red";;;
-24;"U2";"SOT-23";1;"MCP1700T-3302E-TT";;;
-25;"J9,J7,J8,J6";"PinHeader_1x02_P2.54mm_Vertical";4;"1x2";;;
-26;"Y1";"Crystal_SMD_5032-2Pin_5.0x3.2mm";1;"NX3225GD";;;
-27;"H1,H2,H4,H3";"MountingHole_2.2mm_M2";4;"M2";;;
-28;"J10";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04";;;
-29;"J4";"HDR_2x3_Pitch2.54mm";1;"2.54mm 2x3";;;
-30;"LOGO2";"LOGO-KICAD_XSmall";1;"LOGO-KICAD";;;
-31;"LOGO3";"LOGO-ROCKET-SCREAM_Vertical_Small";1;"LOGO-ROCKET-SCREAM";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,CAPACITOR-CERAMIC-RocketScreamKiCadLib,C15 C16,10pF,C_0603,2, ,
+2,,CAPACITOR-CERAMIC-RocketScreamKiCadLib,C1 C2,10nF,C_0603,2, ,
+3,,CAPACITOR-CERAMIC-RocketScreamKiCadLib,C3 C4 C6 C7 C8 C9 C11 C13 C14 C17 C18 C19,100nF,C_0603,12, ,
+4,,CAPACITOR-CERAMIC-RocketScreamKiCadLib,C5 C10 C12,10uF 16V X5R,C_0603,3, ,
+5,,DIODE-RocketScreamKiCadLib,D3,1N4148WS,SOD-323,1, ,
+6,,LED-SINGLE-RocketScreamKiCadLib,D1,Red,LED_0603,1, ,
+7,,FUSE-RocketScreamKiCadLib,F1,FUSE,MF-FSMF,1, ,https://www.bourns.com/docs/Product-Datasheets/mffsmf.pdf
+8,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J6 J7 J8 J9,1x2,PinHeader_1x02_P2.54mm_Vertical,4, ,~
+9,,CONN-HDR-2x3-RocketScreamKiCadLib,J4,2.54mm 2x3,HDR_2x3_Pitch2.54mm,1, ,
+10,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J10,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,1, ,~
+11,,MICRO-USB-RocketScreamKiCadLib,J3,MICRO-USB,MICRO-USB,1, ,
+12,,TERMINAL-BLOCK-1x2-RocketScreamKiCadLib,J1 J2 J5,TERMINAL-BLOCK-1x2,TB-1776275-2,3, ,
+13,,INDUCTOR-RocketScreamKiCadLib,L1,BLM18KG221SN1D,I_0603,1, ,
+14,,INDUCTOR-RocketScreamKiCadLib,L2,LBMF1608T100K,I_0603,1, ,
+15,,LOGO-KICAD-RocketScreamKiCadLib,LOGO2,LOGO-KICAD,LOGO-KICAD_XSmall,1, ,
+16,,LOGO-ROCKET-SCREAM-WITHOUT-TEXT-RocketScreamKiCadLib,LOGO1,LOGO-ROCKET-SCREAM,LOGO-ROCKET-SCREAM_Without_Text_XXXSmall,1, ,
+17,,LOGO-ROCKET-SCREAM-WITHOUT-TEXT-RocketScreamKiCadLib,LOGO3,LOGO-ROCKET-SCREAM,LOGO-ROCKET-SCREAM_Vertical_Small,1, ,
+18,,BUZZER-RocketScreamKiCadLib,LS1,HYG9605B,HYG9605B,1, ,
+19,,BJT-NPN-RocketScreamKiCadLib,Q1 Q2 Q3,2N3904,SOT-23,3, ,
+20,,RESISTOR-RocketScreamKiCadLib,R2 R3,100R,R_0603,2, ,
+21,,RESISTOR-RocketScreamKiCadLib,R1 R6 R11,2K2,R_0603,3, ,
+22,,RESISTOR-RocketScreamKiCadLib,R4 R5 R9 R10,10K,R_0603,4, ,
+23,,RESISTOR-RocketScreamKiCadLib,R7,27K,R_0603,1, ,
+24,,RESISTOR-RocketScreamKiCadLib,R8 R12,53K6,R_0603,2, ,
+25,,TACT-SWITCH_4Pins-RocketScreamKiCadLib,SW1 SW2,IT-1109S,IT-1102W,2, ,
+26,,ATMEGA328P-MU-RocketScreamKiCadLib,U1,ATMEGA328P-MU,QFN-32_5x5mm_Pitch0.5mm,1, ,http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+27,,CH340E-RocketScreamKiCadLib,U4,CH340E,MSOP-10,1, ,http://www.wch.cn/download/CH340DS1_PDF.html
+28,,MAX31856-RocketScreamKiCadLib,U3,MAX31856,TSSOP-14,1, ,
+29,,MCP1700T-XXX2E-TT-RocketScreamKiCadLib,U2,MCP1700T-3302E-TT,SOT-23,1, ,
+30,,CRYSTAL-RocketScreamKiCadLib,Y1,NX3225GD,Crystal_SMD_5032-2Pin_5.0x3.2mm,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,2.00
+Date:,2018-12-25
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,30
+Component Count:,60 (47 SMD/ 13 THT)
+Fitted Components:,60 (47 SMD/ 13 THT)
+Number of PCBs:,1
+Total Components:,60

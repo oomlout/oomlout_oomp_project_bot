@@ -1,11 +1,28 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"R301";"R_0603_1608Metric";1;"330";;;
-2;"C303,C304,C302,C305";"C_0603_1608Metric";4;"0.1uF";;;
-3;"U301";"LGA-28_5.2x3.8mm_P0.5mm";1;"BNO085";;;
-4;"J301";"JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal";1;"External Motion";;;
-5;"R303,R304,R305,R302,R310";"R_0603_1608Metric";5;"10K";;;
-6;"D302";"LED_0603_1608Metric";1;"Green";;;
-7;"R306,R309,R307,R308";"R_0603_1608Metric";4;"2.2K";;;
-8;"D301";"D_SOD-123F";1;"DSS12UTR";;;
-9;"C301";"C_0603_1608Metric";1;"10uF 10V";;;
-10;"Y301";"OSC_OM-7604-C7";1;"OM-7604-C7";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,MFR,MPN,SPR,SPN,SPURL,DESC,MANUFACTURER,STANDARD,MAXIMUM_PACKAGE_HEIGHT,PARTREV
+1,Unpolarized capacitor,C,C302 C303 C304 C305,0.1uF,C_0603_1608Metric,4, ,~,KEMET,C0603C104M3RAC7867,Digikey,399-C0603C104M3RAC7867CT-ND,https://www.digikey.com/en/products/detail/kemet/C0603C104M3RAC7867/416046,0.1 µF ±20% 25V Ceramic Capacitor X7R 0603 (1608 Metric),KEMET,,,
+2,Unpolarized capacitor,C,C301,10uF 10V,C_0603_1608Metric,1, ,~,Samsung Electro-Mechanics,CL10A106MP8NNNC,Digikey,1276-1871-1-ND,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MP8NNNC/3887529,10 µF ±20% 10V Ceramic Capacitor X5R 0603 (1608 Metric),Samsung Electro-Mechanics,,,
+3,Schottky diode,D_Schottky,D301,DSS12UTR,D_SOD-123F,1, ,~,SMC Diode Solutions,DSS12UTR,Digikey,1655-1925-1-ND,https://www.digikey.com/en/products/detail/smc-diode-solutions/DSS12UTR/8341857,Diode Schottky 20 V 1A Surface Mount SOD-123FL,,,,
+4,Light emitting diode,LED,D302,Green,LED_0603_1608Metric,1, ,~,Würth Elektronik,150060VS55040,Digikey,732-12017-1-ND,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060VS55040/8557182,Green 573nm LED Indication - Discrete 2V 0603 (1608 Metric),Würth Elektronik,,,
+5,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05_Male,J301,External Motion,JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal,1, ,~,JST Sales America Inc.,B5B-PH-SM4-TBT(LF)(SN),Digikey,455-3362-1-ND,https://www.digikey.com/en/products/detail/jst-sales-america-inc/B5B-PH-SM4-TBT-LF-SN/9918859,"Connector Header Surface Mount 5 position 0.079"" (2.00mm)",JST Sales America Inc.,,,
+6,Resistor,R,R301,330,R_0603_1608Metric,1, ,~,YAGEO,RC0603FR-07330RL,Digikey,311-330HRCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603FR-07330RL/727162,"330 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film",YAGEO,,,
+7,Resistor,R,R306 R307 R308 R309,2.2K,R_0603_1608Metric,4, ,~,Yageo,RC0603FR-074K7L,Digikey,311-4.70KHRCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K7L/727212,"0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film",YAGEO,,,
+8,Resistor,R,R302 R303 R304 R305 R310,10K,R_0603_1608Metric,5, ,~,Yageo,RC0402FR-070RL,Digikey,311-0.0LRCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0402FR-070RL/2827570,"10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film",YAGEO,,,
+9,"Intelligent 9-axis absolute orientation sensor, LGA-28",BNO080,U?,BNO085,LGA-28_5.2x3.8mm_P0.5mm,1, ,https://www.ceva-dsp.com/wp-content/uploads/2019/10/BNO080_085-Datasheet.pdf,"CEVA Technologies, Inc.",BNO085,Digikey,1888-1006-1-ND,https://www.digikey.com/en/products/detail/ceva-technologies-inc/BNO085/9445940,"Accelerometer, Gyroscope, Magnetometer, 9 Axis Sensor I²C, SPI, UART Output","CEVA Technologies, Inc.",,,
+10,,OM-7604-C7,Y301,OM-7604-C7,OSC_OM-7604-C7,1, ,"32.768 kHz XO (Standard) CMOS Oscillator 1.2V ~ 5.5V Enable/Disable 4-SMD, No Lead",Micro Crystal AG,OM-7604-C7-32.768KHZ-20PPM-TA-QC,Digikey,2195-OM-7604-C7-32.768KHZ-20PPM-TA-QCCT-ND,https://www.digikey.com/en/products/detail/micro-crystal-ag/OM-7604-C7-32-768KHZ-20PPM-TA-QC/10431069,"32.768 kHz XO (Standard) CMOS Oscillator 1.2V ~ 5.5V Enable/Disable 4-SMD, No Lead",MICRO CRYSTAL,Manufacturer Recommendations,0.7 mm,4.2/06.2019
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,1.0
+Date:,2022-03-03
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,10
+Component Count:,20 (17 SMD/ 2 THT)
+Fitted Components:,20 (17 SMD/ 2 THT)
+Number of PCBs:,1
+Total Components:,20

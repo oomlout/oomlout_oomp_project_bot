@@ -1,0 +1,29 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Digikey
+1,Unpolarized capacitor,C,C1 C2 C3,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,3, ,~,
+2,,STP240320_0200B,DISP1,STP240320_0200B,Molex_SlimStack_54722-0164_2x08_P0.50mm_Vertical,1, ,,
+3,"Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x11,J2,Conn_01x11,PinHeader_1x11_P2.54mm_Vertical,1, ,~,
+4,Micro SD Card Socket with card detection pins,Micro_SD_Card_Det_Hirose_DM3AT,J1,Micro_SD_Card_Det_Hirose_DM3AT,microSD_HC_Hirose_DM3AT-SF-PEJM5,1, ,https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1,
+5,"Open Hardware logo, small",Logo_Open_Hardware_Small,LOGO1,Logo_Open_Hardware_Small,OSHW-Symbol_6.7x6mm_SilkScreen,1, ,~,
+6,"50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23",BSS138,Q1,BSS138,SOT-23,1, ,https://www.onsemi.com/pub/Collateral/BSS138-D.PDF,
+7,Resistor,R,R2,10R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,
+8,Resistor,R,R1 R3 R4 R5,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4, ,~,
+9,,74HC4050D,U1,74HC4050D,SOIC-16_3.9x9.9mm_P1.27mm,1, ,,
+10,"600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5",AP2112K-3.3,U2,AP2112K-3.3,SOT-23-5,1, ,https://www.diodes.com/assets/Datasheets/AP2112.pdf,
+11,"Microprocessor Reset (active-low) Circuit, SOT-23",LM809,U3,LM809M3X-2.93,SOT-23,1, ,http://www.ti.com/lit/ds/symlink/lm809.pdf,https://www.digikey.com/en/products/detail/texas-instruments/LM809M3X-2-93-NOPB/3527298
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,${TAG} (${REVISION})
+Date:,${DATE}
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,11
+Component Count:,16 (14 SMD/ 1 THT)
+Fitted Components:,16 (14 SMD/ 1 THT)
+Number of PCBs:,1
+Total Components:,16

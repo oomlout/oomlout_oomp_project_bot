@@ -1,0 +1,23 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Height,Manufacturer_Name,Manufacturer_Part_Number,Mouser Part Number,Mouser Price/Stock,qr_version,qr_size,qr_ecc,qr_mask,qr_text
+1,"Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x08_Odd_Even,J5,Conn_02x08_Odd_Even,PinHeader_2x08_P2.54mm_Vertical,1, ,~,,,,,,,,,,
+2,"Generic connector, double row, 02x14, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x14_Odd_Even,J6,Conn_02x14_Odd_Even,PinHeader_2x14_P2.54mm_Vertical,1, ,~,,,,,,,,,,
+3,FFC & FPC Connectors FFC/FPC CONN,SFV14R-2STE1HLF,J2 J4,SFV14R-2STE1HLF,SFV14R2STE1HLF,2, ,https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10112793.pdf,2,Amphenol,SFV14R-2STE1HLF,,,,,,,
+4,FFC & FPC Connectors FFC/FPC CONN,SFV8R-2STE1HLF,J1 J3,SFV8R-2STE1HLF,SFV8R2STE1HLF,2, ,https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10112793.pdf,2,Amphenol,SFV8R-2STE1HLF,649-SFV8R-2STE1HLF,https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/SFV8R-2STE1HLF?qs=SqJKR5Mmryfw9HHOb%2F1Fzg%3D%3D,,,,,
+5,USB 2.0-only Type-C Receptacle connector,USB_C_Receptacle_USB2.0,J7,USB_C_Receptacle_USB2.0,USB_C_Receptacle_GCT_USB4085,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,,,,,,,,,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,${REVISION}
+Date:,${DATE}
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,5
+Component Count:,7 (4 SMD/ 3 THT)
+Fitted Components:,7 (4 SMD/ 3 THT)
+Number of PCBs:,1
+Total Components:,7

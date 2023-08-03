@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="30" Component_Count="60 (47 SMD/ 13 THT)" Fitted_Components="60 (47 SMD/ 13 THT)" Number_of_PCBs="1" Total_Components="60" Schematic_Source="working" Schematic_Revision="2.00" Schematic_Date="2018-12-25" encoding="utf-8">
+	<group Row="1" Description="" Part="CAPACITOR-CERAMIC-RocketScreamKiCadLib" References="C15 C16" Value="10pF" Footprint="C_0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAPACITOR-CERAMIC-RocketScreamKiCadLib" References="C1 C2" Value="10nF" Footprint="C_0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAPACITOR-CERAMIC-RocketScreamKiCadLib" References="C3 C4 C6 C7 C8 C9 C11 C13 C14 C17 C18 C19" Value="100nF" Footprint="C_0603" Quantity_Per_PCB="12" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAPACITOR-CERAMIC-RocketScreamKiCadLib" References="C5 C10 C12" Value="10uF 16V X5R" Footprint="C_0603" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="DIODE-RocketScreamKiCadLib" References="D3" Value="1N4148WS" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LED-SINGLE-RocketScreamKiCadLib" References="D1" Value="Red" Footprint="LED_0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="FUSE-RocketScreamKiCadLib" References="F1" Value="FUSE" Footprint="MF-FSMF" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.bourns.com/docs/Product-Datasheets/mffsmf.pdf"/>
+	<group Row="8" Description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x02" References="J6 J7 J8 J9" Value="1x2" Footprint="PinHeader_1x02_P2.54mm_Vertical" Quantity_Per_PCB="4" Status=" " Datasheet="~"/>
+	<group Row="9" Description="" Part="CONN-HDR-2x3-RocketScreamKiCadLib" References="J4" Value="2.54mm 2x3" Footprint="HDR_2x3_Pitch2.54mm" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x04" References="J10" Value="Conn_01x04" Footprint="PinHeader_1x04_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="11" Description="" Part="MICRO-USB-RocketScreamKiCadLib" References="J3" Value="MICRO-USB" Footprint="MICRO-USB" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="TERMINAL-BLOCK-1x2-RocketScreamKiCadLib" References="J1 J2 J5" Value="TERMINAL-BLOCK-1x2" Footprint="TB-1776275-2" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="INDUCTOR-RocketScreamKiCadLib" References="L1" Value="BLM18KG221SN1D" Footprint="I_0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="INDUCTOR-RocketScreamKiCadLib" References="L2" Value="LBMF1608T100K" Footprint="I_0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="LOGO-KICAD-RocketScreamKiCadLib" References="LOGO2" Value="LOGO-KICAD" Footprint="LOGO-KICAD_XSmall" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="LOGO-ROCKET-SCREAM-WITHOUT-TEXT-RocketScreamKiCadLib" References="LOGO1" Value="LOGO-ROCKET-SCREAM" Footprint="LOGO-ROCKET-SCREAM_Without_Text_XXXSmall" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="LOGO-ROCKET-SCREAM-WITHOUT-TEXT-RocketScreamKiCadLib" References="LOGO3" Value="LOGO-ROCKET-SCREAM" Footprint="LOGO-ROCKET-SCREAM_Vertical_Small" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="BUZZER-RocketScreamKiCadLib" References="LS1" Value="HYG9605B" Footprint="HYG9605B" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="BJT-NPN-RocketScreamKiCadLib" References="Q1 Q2 Q3" Value="2N3904" Footprint="SOT-23" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="RESISTOR-RocketScreamKiCadLib" References="R2 R3" Value="100R" Footprint="R_0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="RESISTOR-RocketScreamKiCadLib" References="R1 R6 R11" Value="2K2" Footprint="R_0603" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="RESISTOR-RocketScreamKiCadLib" References="R4 R5 R9 R10" Value="10K" Footprint="R_0603" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="RESISTOR-RocketScreamKiCadLib" References="R7" Value="27K" Footprint="R_0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="RESISTOR-RocketScreamKiCadLib" References="R8 R12" Value="53K6" Footprint="R_0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="TACT-SWITCH_4Pins-RocketScreamKiCadLib" References="SW1 SW2" Value="IT-1109S" Footprint="IT-1102W" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="ATMEGA328P-MU-RocketScreamKiCadLib" References="U1" Value="ATMEGA328P-MU" Footprint="QFN-32_5x5mm_Pitch0.5mm" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf"/>
+	<group Row="27" Description="" Part="CH340E-RocketScreamKiCadLib" References="U4" Value="CH340E" Footprint="MSOP-10" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.wch.cn/download/CH340DS1_PDF.html"/>
+	<group Row="28" Description="" Part="MAX31856-RocketScreamKiCadLib" References="U3" Value="MAX31856" Footprint="TSSOP-14" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="MCP1700T-XXX2E-TT-RocketScreamKiCadLib" References="U2" Value="MCP1700T-3302E-TT" Footprint="SOT-23" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="CRYSTAL-RocketScreamKiCadLib" References="Y1" Value="NX3225GD" Footprint="Crystal_SMD_5032-2Pin_5.0x3.2mm" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

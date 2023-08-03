@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="19" Component_Count="29 (0 SMD/ 0 THT)" Fitted_Components="29 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="29" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2" Value="1.0uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C3" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="DIODESOD-323" References="D3" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="LED0805_NOOUTLINE" References="D2" Value="BLUE" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED0805_NOOUTLINE" References="D1" Value="RED" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="74LVC2G34DBVR" References="IC1" Value="74LVC2G34DBVR" Footprint="SOT23-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="LP298XS" References="IC4" Value="LP298XS" Footprint="SOT23-5L" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="HEADER-1X1070MIL" References="JP5" Value="HEADER-1X1070MIL" Footprint="1X10_ROUND70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="HEADER-1X1ROUND" References="JP1 JP6 JP7 JP9 JP10 JP11" Value="HEADER-1X1ROUND" Footprint="1X01_ROUND" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="HEADER-1X670MIL" References="JP4" Value="HEADER-1X670MIL" Footprint="1X06_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="HEADER-1X870MIL" References="JP2 JP3" Value="HEADER-1X870MIL" Footprint="1X08_ROUND_70" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="HEADER-1X376MIL" References="JP8" Value="SWDIO" Footprint="1X03_ROUND_76" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="ARDUINO_R3_ICSP_NODIM" References="M1" Value="ARDUINO_R3_ICSP_NODIM" Footprint="ARDUINOR3_ICSP_NODIM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="MOSFET-NWIDE" References="Q1" Value="BSS138" Footprint="SOT23-WIDE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R10" Value="2K" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="RESISTOR0805_NOOUTLINE" References="R3 R4 R5" Value="100K" Footprint="0805-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="SWITCH_TACT_SMT4.6X2.8" References="SW1" Value="KMR2" Footprint="BTN_KMR2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="SWITCH_TACT_SMT" References="SW2" Value="Tactile" Footprint="EVQ-Q2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="NRF51822_MODULE_MDBT40" References="U1" Value="MBT40" Footprint="BLE_MODULE_RAYTAC_MDBT40" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
