@@ -42,7 +42,7 @@ def go_through_directories():
                         #launch using subprocess kibot -c {template} with the base directory being filename_directory
                         #print(f"working on {filename}")
                         import subprocess
-                        subprocess.run(["kibot", "-c", template], cwd=filename_directory)
+                        subprocess.run(["kibot", "-e", "kicad_sch", "-b", "working.kicad_pcb", "-c", template], cwd=filename_directory)
 
                         
                         
