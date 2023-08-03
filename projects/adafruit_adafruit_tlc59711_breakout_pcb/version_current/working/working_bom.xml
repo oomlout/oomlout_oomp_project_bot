@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="10" Component_Count="13 (0 SMD/ 0 THT)" Fitted_Components="13 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="13" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805" References="C1" Value="10uF/16V" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805" References="C2" Value="1uF/50V" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CPOL-USE2.5-7" References="C4" Value="220uF+" Footprint="E2,5-7" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="TLC59711" References="IC1" Value="TLC59711" Footprint="HTSSOP20DAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="HEADER-2X3" References="JP2 JP3 JP5 JP8" Value="HEADER-2X3" Footprint="2X03_ROUND_70MIL" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X570MIL" References="JP4" Value="INPUT" Footprint="1X05_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HEADER-1X570MIL" References="JP1" Value="OUTPUT" Footprint="1X05_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LEDCHIP-LED0805" References="LED1" Value="Green" Footprint="CHIP-LED0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR0805" References="R2" Value="470" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="R-US_FLIPFLOP7" References="R3" Value="3.3K" Footprint="0805-THM-7" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

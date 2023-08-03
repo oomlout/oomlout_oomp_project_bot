@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="33" Component_Count="50 (0 SMD/ 0 THT)" Fitted_Components="50 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="50" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC_0805" References="C3" Value="4.7nF" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC_0805" References="C11" Value="22nF" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC_0805" References="C14 C15" Value="0.1uF" Footprint="_0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC_0805" References="C1 C12 C13" Value="10uF" Footprint="_0805" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="CAP_ELECTROLYTICPANASONIC_C" References="C16" Value="47uF 25V" Footprint="PANASONIC_C" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="CAP_CERAMIC_0805" References="C9 C10" Value="10uF/16V" Footprint="_0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="CAP_CERAMIC_0805" References="C2 C4 C5 C6 C7 C8" Value="4.7uF/50V" Footprint="_0805" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="DIODESOD-323" References="D2" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="DIODEPOWERDI" References="D1" Value="PDS560-13" Footprint="POWERDI-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="ATTINY85S" References="IC1" Value="ATTINY85S" Footprint="SOIC8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="AVRISP-6" References="ISP1" Value="AVRISP-6" Footprint="AVRISP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="PINHD-1X1CB" References="JP1" Value="PINHD-1X1CB" Footprint="1X01-CLEANBIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="INDUCTORCDRH5D28" References="L1" Value="22uH" Footprint="INDUCTOR_6X6MM_SUMIDA_CDRH5D28" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="INDUCTORTDK_VLC5045" References="L2" Value="4.7uH (445-6526-1-ND)" Footprint="INDUCTOR_5X5MM_TDK_VLC5045" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="LED0805" References="LED1" Value="green" Footprint="CHIPLED_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="DPDT-EG1390" References="ON/OFF0" Value="EG1390" Footprint="EG1390" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="MOSFET-NDPAK" References="Q1" Value="IRLR024NTRPBF" Footprint="DPAK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="RESISTOR2512" References="R13" Value="0.058" Footprint="2512" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="RESISTOR_0805" References="R1" Value="470" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="RESISTOR_0805" References="R12" Value="7.5K" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="RESISTOR_0805" References="R11" Value="15K" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="RESISTOR_0805" References="R4 R9 R14" Value="20K" Footprint="_0805" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="RESISTOR_0805MP" References="R6 R7" Value="20K" Footprint="_0805MP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="RESISTOR_0805" References="R5" Value="27K" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="RESISTOR_0805" References="R8 R10" Value="47K" Footprint="_0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="RESISTOR_0805" References="R2 R3" Value="100K" Footprint="_0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="SPST_TACT-EVQQ2" References="SW1 SW2 SW3" Value="SPST_TACT-EVQQ2" Footprint="EVQ-Q2" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="PMOSSOT23" References="T1 T2" Value="IRLML2246" Footprint="SOT-23" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="VREG_LT3754" References="U1" Value="LT3754" Footprint="QFN32_5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="VREG_MCP16321/2" References="U2" Value="MCP16321T-330E/NG" Footprint="QFN16_3MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="31" Description="" Part="DISPLAYPORTSINKSIDE" References="X1" Value="0472720001" Footprint="DISPLAYPORT_0472720001" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="32" Description="" Part="DCBARRELSMT_CORRECT" References="X3" Value="2.1mm" Footprint="DCJACK_2MM_SMT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="33" Description="" Part="DISP_DISPLAYPORT_LP097QX1-SPA1HANDSOLDERING" References="X2" Value="502250-5191" Footprint="FPC_51PIN_502250-5191_EXT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

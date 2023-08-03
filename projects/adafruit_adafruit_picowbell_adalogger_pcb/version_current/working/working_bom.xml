@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="11" Component_Count="15 (0 SMD/ 0 THT)" Fitted_Components="15 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="15" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="BATTERYCR1220_2" References="B1" Value="CR1220" Footprint="CR1220-2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C2" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="PICOWBELL_THM" References="CB1" Value="PICOWBELL_THM" Footprint="PICOWBELL_THM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="STEMMA_I2C_QT" References="CONN1" Value="STEMMA_I2C_QT" Footprint="JST_SH4" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="RTC_PCF8523/T" References="IC1" Value="RTC_PCF8523/T" Footprint="SOIC8_150MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X15" References="JP3 JP4" Value="HEADER-1X15" Footprint="1X15_ROUND_70" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="CRYSTAL_3215" References="Q1" Value="32.768" Footprint="XTAL3215" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR_0603_NOOUT" References="R3" Value="1K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R2 R4" Value="10K" Footprint="0603-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="SWITCH_TACT_SMT_RKB2" References="SW2" Value="tact" Footprint="BTN_RKB2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="MICROSD104031-0811" References="X1" Value="MICROSD" Footprint="MOLEX_104031-0811" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,9 +1,37 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"MIX,MIX,MIX,MIX,MIX,MIX,MIX,MIX,MIX";"Alpha_9mm_pot_hole";9;"Alpha_9mm_pot_hole";;;
-2;"Ref**,Ref**,Ref**,Ref**";"Oval_Mounting_Hole";4;"Oval_Mounting_Hole";;;
-3;"TYPE,TYPE,TYPE,TYPE";"Sub_Miniature_Switch_MountingHole_5mm";4;"Subminiature_Switch";;;
-4;"Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**";"Thonkiconn_Socket_MountingHole_6mm";15;"Thonkiconn_Socket_MountingHole_6mm";;;
-5;"Ref**,LED_L,LED_L";"LED_Hole_3mm";3;"LED_Hole_3mm";;;
-6;"LED_L";"LED_Hole_3mm";1;"Subminiature_Switch";;;
-7;"REF**";"Fiducial_0.5mm_Mask1.5mm";1;"Placeholder_Controls";;;
-8;"REF**";"Fiducial_0.5mm_Mask1.5mm";1;"Placeholder_Components";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,"Switch, single pole double throw, center OFF position",SW_SPDT_MSM,E1_MODE1 E2_MODE1 E3_MODE1 E4_MODE1,SW_SPDT_MSM,SPDT_SubMiniature_Aligned,4, ,~
+2,Potentiometer,R_POT,EnvA_A_POT1 EnvA_D_POT1 EnvA_R_POT1 EnvA_S_POT1 EnvB_A_POT1 EnvB_D_POT1 EnvB_R_POT1 EnvB_S_POT1 LFO_POT1,R_POT,Alpha_9mm_Potentiometer_Aligned,9, ,~
+3,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J9,Audio1_In,THONKICONN_hole,1, ,~
+4,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J13,Audio1_Out,THONKICONN_hole,1, ,~
+5,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J10,Audio2_In,THONKICONN_hole,1, ,~
+6,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J14,Audio2_Out,THONKICONN_hole,1, ,~
+7,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J11,Audio3_In,THONKICONN_hole,1, ,~
+8,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J15,Audio3_Out,THONKICONN_hole,1, ,~
+9,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J12,Audio4_In,THONKICONN_hole,1, ,~
+10,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J16,Audio4_Out,THONKICONN_hole,1, ,~
+11,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J17,Clock_In,THONKICONN_hole,1, ,~
+12,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x12_Male,J1 J2 J3 J4,Conn_01x12_Male,PinHeader_1x12_P2.54mm_Vertical,4, ,~
+13,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J18,Env1_Out,THONKICONN_hole,1, ,~
+14,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J19,Env3_Out,THONKICONN_hole,1, ,~
+15,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J5,Gate1_In,THONKICONN_hole,1, ,~
+16,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J6,Gate2_In,THONKICONN_hole,1, ,~
+17,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J7,Gate3_In,THONKICONN_hole,1, ,~
+18,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J8,Gate4_In,THONKICONN_hole,1, ,~
+19,Light emitting diode,LED,LED1 LED2 LED3 LED4,LED,LED_D3.0mm,4, ,~
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-50
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,19
+Component Count:,36 (0 SMD/ 0 THT)
+Fitted Components:,36 (0 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,36

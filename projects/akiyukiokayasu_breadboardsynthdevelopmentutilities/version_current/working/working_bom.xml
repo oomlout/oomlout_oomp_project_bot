@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="3" Component_Count="3 (0 SMD/ 3 THT)" Fitted_Components="3 (0 SMD/ 3 THT)" Number_of_PCBs="1" Total_Components="3" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-40" encoding="utf-8">
+	<group Row="1" Description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x04" References="J2" Value="Conn_01x04" Footprint="PinHeader_1x04_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="2" Description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_02x02_Odd_Even" References="J1" Value="Conn_02x02_Odd_Even" Footprint="PinHeader_2x02_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="3" Description="Pot" Part="ALPS_RK09D" References="RV1" Value="ALPS_RK09D" Footprint="ALPS_RK09D117000B" Quantity_Per_PCB="1" Status=" " Datasheet="https://akizukidenshi.com/catalog/g/gP-14827/"/>
+</KiCad_BOM>

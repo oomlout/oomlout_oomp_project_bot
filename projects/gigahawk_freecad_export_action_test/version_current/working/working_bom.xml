@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="4" Component_Count="5 (2 SMD/ 3 THT)" Fitted_Components="5 (2 SMD/ 3 THT)" Number_of_PCBs="1" Total_Components="5" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-58" encoding="utf-8">
+	<group Row="1" Description="USB Mini Type B connector" Part="USB_B_Mini" References="J1" Value="USB_B_Mini" Footprint="USB_Mini-B_Lumberg_2486_01_Horizontal" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="2" Description="Resistor" Part="R" References="R1" Value="R" Footprint="R_0805_2012Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="3" Description="Resistor" Part="R" References="R2 R3" Value="R" Footprint="R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="4" Description="8-Bit Microprocessing unit 1.5MHz, DIP-40" Part="MC68A00" References="U1" Value="MC68A00" Footprint="DIP-40_W15.24mm" Quantity_Per_PCB="1" Status=" " Datasheet="http://pdf.datasheetcatalog.com/datasheet/motorola/MC68A00L.pdf"/>
+</KiCad_BOM>

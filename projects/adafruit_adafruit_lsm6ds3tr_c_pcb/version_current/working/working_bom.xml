@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="11" Component_Count="14 (0 SMD/ 0 THT)" Fitted_Components="14 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="14" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0603_NO" References="C1" Value="0.1uF" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2 C3" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="STEMMA_I2C_QT" References="CONN3 CONN4" Value="STEMMA_I2C_QT" Footprint="JST_SH4" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="DIODESOD-323" References="D2" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED0603_NOOUTLINE" References="D1" Value="GREEN" Footprint="CHIPLED_0603_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X570MIL" References="JP2" Value="HEADER-1X570MIL" Footprint="1X05_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HEADER-1X970MIL" References="JP1" Value="HEADER-1X970MIL" Footprint="1X09_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="MOSFET-N_DUAL" References="Q2" Value="BSS138" Footprint="SOT363" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR_4PACK" References="R2 R3" Value="10K" Footprint="RESPACK_4X0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="VREG_SOT23-5" References="U2" Value="AP2112K-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="LSM6DS3" References="U1" Value="LSM6DS3" Footprint="LGA-14L" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="16" Component_Count="23 (0 SMD/ 0 THT)" Fitted_Components="23 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="23" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="PINHD-1X8BIG" References="BLUE0 GREEN0 RED0" Value="PINHD-1X8BIG" Footprint="1X08-BIG" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC_0805MP" References="C1" Value="0.1uF" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC_0805MP" References="C2 C8" Value="1uF" Footprint="_0805MP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC_0805MP" References="C6 C7" Value="10uF" Footprint="_0805MP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="PINHD-1X6B" References="CONTROL0 JP1" Value="PINHD-1X6B" Footprint="1X06-BIG" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="DIODESOD-123" References="D2" Value="MBR0540" Footprint="SOD-123" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="DIODESMA" References="D1" Value="MM3Z24VT1G" Footprint="SMADIODE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="40PINFPC4-1734839-0" References="J1" Value="40PINFPC4-1734839-0" Footprint="4-1734839-0" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="INDUCTORNR5040" References="L1" Value="6.8uH power L CID 2276" Footprint="INDUCTOR_5X5MM_NR5040_NOTHERMALS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR_0805MP" References="R2" Value="6Ω" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RESISTOR_0805MP" References="R3 R4 R7" Value="12Ω" Footprint="_0805MP" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR_0805MP" References="R5" Value="22" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="RESISTOR_0805MP" References="R1" Value="10K" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="1X4-BIG" References="TOUCH0" Value="1X4-BIG" Footprint="1X04-BIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="FAN5331" References="U3" Value="FAN5333BSX" Footprint="SOT23-5@1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="VREG_SOT23-5" References="U2" Value="MIC5225-3.3v" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

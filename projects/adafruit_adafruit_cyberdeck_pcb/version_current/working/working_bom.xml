@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="7" Component_Count="12 (0 SMD/ 0 THT)" Fitted_Components="12 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="12" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-33" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C34" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="STEMMA_I2C_QT" References="CONN1 CONN3" Value="STEMMA_I2C_QT" Footprint="JST_SH4" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="DIODE-ZENERSOD323" References="D1 D2" Value="3.6V" Footprint="SOD-323" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CON_JST_PH_3PIN" References="NEOPIX0 SENSE0" Value="JST PH 3" Footprint="JSTPH3" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="RESISTOR_0603_NOOUT" References="R7 R8" Value="1K" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="RASPBERRYPI_BPLUS_2X20_THMSMT_TOP" References="RPI3" Value="RASPBERRYPI_BPLUS_2X20_THMSMT_TOP" Footprint="RASPI_2X20_THMSMT_TOP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RASPBERRYPI_BPLUS_IDC" References="RPI1" Value="RASPBERRYPI_BPLUS_IDC" Footprint="2X20" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
