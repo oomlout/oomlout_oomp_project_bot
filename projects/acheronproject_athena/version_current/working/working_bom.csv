@@ -1,0 +1,66 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC Part Number,Manufacturer,Manufacturer Part Number,Package,Vendor Part Number,Specification,Keycode
+1,"Unpolarized capacitor, small symbol",C_Small,C10 C11,15p,C_0402_1005Metric,2, ,~,,Guangdong Fenghua Advanced Tech,0402CG150J500NT,C0402,LCSC C1548,50V 15pF C0G ±5% 0402 MLCC,
+2,"Unpolarized capacitor, small symbol",C_Small,C12 C14,10n,C_0402_1005Metric,2, ,~,,Samsung,CL05B103KB5NNNC,C0402,LCSC C15195,50V 10nF X7R ±10% 0402 MLCC,
+3,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C3 C4 C7 C15 C16 C18 C19,100n,C_0402_1005Metric,9, ,~,,Samsung,CL05B104KB54PNC,C0402,LCSC C307331,50V 100nF X7R ±10% 0402  MLCC,
+4,"Unpolarized capacitor, small symbol",C_Small,C21 C22 C23 C24 C25 C26 C27 C28 C29 C30 C31 C32 C33 C34 C35 C36 C37 C38 C39 C40 C41 C42 C43 C44 C45 C46 C47 C48 C49 C50 C51 C52 C53,100n,C_0805_2012Metric,33, ,~,,Samsung,CL21B104KCFNNNE,C0805,LCSC C28233,100V 100nF X7R ±10% 0805 MLCC,
+5,Unpolarized capacitor,C,C8 C9 C20,1u,C_0805_2012Metric,3, ,~,,Guangdong Fenghua Advanced Tech,0805B105K500NT,C0805,LCSC C215803,50V 1uF X7R ±10% 0805 MLCC,
+6,"Unpolarized capacitor, small symbol",C_Small,C13 C17,4.7u,C_0402_1005Metric,2, ,~,,Samsung,CL05A475MP5NRNC,C0402,LCSC C23733,10V 4.7uF X5R ±20% 0402 MLCC,
+7,"Unpolarized capacitor, small symbol",C_Small,C5,10u,C_0402_1005Metric,1, ,~,,Samsung,CL05A106MQ5NUNC,C0402,LCSC C15525,6.3V 10uF X5R ±20% 0402 MLCC,
+8,"Polarized capacitor, US symbol",CP1,C6,10u,CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder,1, ,~,,AVX,TAJA106K016RNJ,C3216 (CASE A),LCSC C7171,16V 10uF Tantallum,
+9,Diode,D,D1 D37 D38 D39 D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50 D51 D52 D53 D54 D55 D56 D57 D58 D59 D60 D61 D62 D63 D64 D65 D66 D67 D68 D69 D70 D71 D72 D73 D74 D75 D76 D77 D78 D79 D80 D81 D82 D83 D84 D85 D86 D87 D88 D89 D90 D91 D92 D93 D94 D95 D96 D97 D98 D99 D100 D101 D102 D103 D104 D105 D106 D107 D108 D109 D110 D111 D112 D113 D114 D115 D116 D117 D118 D119 D120 D121 D122 D123 D124 D125 D126 D127 D128,1N4148W,D_SOD-123,93, ,~,,Semtech,1N4148W,SOD-123,LCSC C81598,Small-signal switching diodes,
+10,Schottky diode,D_Schottky,D2,B5819W-SL,D_SOD-123,1, ,~,,Changjiang Electronics Tech,B5819W-SL,SOD-123,LCSC C8598,1A SOD-123 Schottky Barrier Diodes,
+11,Schottky diode,D_Schottky,D3,SMF6.0A,D_SOD-123,1, ,~,,SUNMATE Elec,SMF6.0A,SOD-123FL,LCSC C399281,Unidirectional TVS 6.0V,
+12,"Intelligent control RGB LED integrated light source, 3.5x3.5mm package",WS2812B-2020,D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D31 D32 D33 D34 D35 D36,WS2812C-2020,LED_WS2812_2020,23, ,http://www.world-semi.com/DownLoadFile/112,,Worldsemi,WS2812C-2020,2020,LCSC C965556,Integrated controller serial RGB LED 2020 package,
+13,"Intelligent control RGB LED integrated light source, 3.5x3.5mm package",WS2812B-2020,D21 D22 D23 D24 D25 D26 D27 D28 D29 D30,WS2812C-2020,LED_WS2812_2020_uparrow,10, ,http://www.world-semi.com/DownLoadFile/112,,Worldsemi,WS2812C-2020,2020,LCSC C965556,Integrated controller serial RGB LED 2020 package,
+14,Fuse,Fuse,F1,nSMD100-16V,Fuse_1206_3216Metric,1, ,~,,TECHFUSE,nSMD100-16V,F1206,LCSC C70082,"1A hold, 1.8A trip PTC resettable fuse",
+15,"Ferrite bead, small symbol",Ferrite_Bead_Small,FB1 FB2,GZ2012D601TF,L_0805_2012Metric,2, ,~,,Sunlord,GZ2012D601TF,L0805,LCSC C1017,600R @ 100MHz ferrite bead,
+16,"Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_MountingPin,J2 J3,A1001WR-S-04P,SM04B-SRSS-TB(LF)(SN)_mounting-reliefs,2, ,~,,Joint Tech Elec JST,A1001WR-S-04P SM04B-SRSS-TB(LF)(SN),,LCSC C160404,Surface-mounted 4-pin wire-to-board female connector,
+17,16-pin USB type C (USB 2.0) connector,USB_C_16_pin,J1,TYPE-C-31-M-12,TYPE-C-31-M-12,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,Korean Hroparts,TYPE-C-31-M-12,8.94x7.3mm,LCSC C165948,16-pin USB 2.0 type C connector,
+18,"0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23",2N7002,Q1 Q2 Q4 Q5,2N7002,SOT-23,4, ,https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF,,Changjiang Electronics Tech,2N7002,SOT-23,LCSC C8545,N-channel signal MOSFET transistor,
+19,"-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23",AO3401A,Q3,AO3401A,SOT-23,1, ,http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf,,AO3401A,Alpha & Omega Semicon,SOT-23,LCSC C15127,P-channel power MOSFET transistor,
+20,"Resistor, small symbol",R_Small,R7 R8 R9 R18 R19,100R,R_0402_1005Metric,5, ,~,,Uniroyal,0402WGF1000TCE,R0402,LCSC C25076,±1% 1/16W Thick Film Resistors 50V 0402,
+21,"Resistor, small symbol",R_Small,R88,100R,R_0805_2012Metric,1, ,~,,Uniroyal,0805W8F1000T5E,R0805,LCSC C17408,±1% 125mW Thick Film Resistors 150V 0805,
+22,"Resistor, small symbol",R_Small,R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R34 R35 R36 R37 R38 R39 R40 R41 R42 R43 R44 R45 R46 R47 R48 R49 R50 R51 R52 R53 R54 R55 R56 R57 R58 R59 R60 R61 R62 R63 R64 R65 R66 R67 R68 R69 R70 R71 R72 R73 R74 R75 R76 R77 R78 R79 R80 R81 R82 R83 R84 R85 R86 R87 R89 R90 R91 R93 R94 R95 R96 R97 R98 R99 R100 R101 R102 R103 R104 R105 R106 R107 R108 R109 R110 R111 R112 R113 R114 R115 R116 R117,1k,R_0805_2012Metric,95, ,~,,Uniroyal,0805W8F1001T5E,R0805,LCSC C17513,±1% 125mW Thick Film Resistors 150V 0805,
+23,"Resistor, small symbol",R_Small,R3,1.5k,R_0402_1005Metric,1, ,~,,Uniroyal,0402WGF1501TCE,R0402,LCSC C25867,±1% 1/16W Thick Film Resistors 50V 0402,
+24,"Resistor, small symbol",R_Small,R1 R2,4.7k,R_0402_1005Metric,2, ,~,,Uniroyal,0402WGF4701TCE,R0402,LCSC C25900,±1% 1/16W Thick Film Resistors 50V 0402,
+25,"Resistor, small symbol",R_Small,R10 R14,5.1k,R_0402_1005Metric,2, ,~,,Uniroyal,0402WGF5101TCE,R0402,LCSC C25905,±1% 1/16W Thick Film Resistors 50V 0805,
+26,"Resistor, small symbol",R_Small,R6 R13 R16 R17 R33,10k,R_0402_1005Metric,5, ,~,,Uniroyal,0402WGF1002TCE,R0402,LCSC C25744,±1% 1/16W Thick Film Resistors 50V 0402,
+27,"Resistor, small symbol",R_Small,R15 R92,10k,R_0805_2012Metric,2, ,~,,Uniroyal,0805W8F1002T5E,R0805 R0402,LCSC C17414,±1% 125mW Thick Film Resistors 50V 0805,
+28,Resistor,R,R11 R12,100k,R_0805_2012Metric,2, ,~,,Uniroyal,0805W8F1003T5E,R0805,LCSC C149504,±1% 125mW Thick Film R0805 Resistors,
+29,"Resistor, small symbol",R_Small,R4,330k,R_0402_1005Metric,1, ,~,,Uniroyal,0402WGF3303TCE,R0402,LCSC C25778,±1% 1/16W Thick Film Resistors 50V 0402,
+30,"Resistor, small symbol",R_Small,R5,1M,R_0402_1005Metric,1, ,~,,Uniroyal,0402WGF1004TCE,R0402,LCSC C26083,±1% 1/16W Thick Film Resistors 50V 0402,
+31,Single Pole Single Throw (SPST) switch,SW_SPST,SW1,K2-1187SQ-A4SW-06,K2-1187SQ-A4SW-06,1, ,~,,Korean Hroparts,K2-1187SQ-A4SW-06,5.0x5.0mm,LCSC C92584,5.2mm 1.5mm Round Button SPST,
+32,Keyboard mechanical switch,Mechanical_Switch,SW2 SW3 SW4 SW5 SW6 SW7 SW8 SW9 SW10 SW11 SW12 SW13 SW14 SW15 SW16 SW17 SW18 SW19 SW20 SW21 SW22 SW23 SW24 SW25 SW26 SW27 SW28 SW29 SW30 SW31 SW32 SW33 SW34 SW35 SW36 SW37 SW38 SW39 SW41 SW42 SW43 SW44 SW46 SW47 SW48 SW49 SW50 SW51 SW52 SW53 SW54 SW55 SW56 SW57 SW59 SW60 SW61 SW63 SW64 SW65 SW66 SW67 SW68 SW69 SW70 SW71 SW72 SW73 SW74 SW76 SW80 SW81 SW82 SW83 SW84 SW85 SW86 SW87 SW88 SW89 SW90 SW92 SW93 SW104 SW105 SW106 SW108 SW112,MX Switch,MX100,88, ,,,,,,,MX-style mechanical keyboard switch,ESC F1 (88) F1 (87) F2 (87) F3 (87) F4 (87) F5 (87) F6 (87) F7 (87) F8 (87) F9 (87) F10 (87) F11 (87) F12 (87) PRTSCR SCROLL PAUSE F2 (88) F3 (88) F4 (88) F5 (88) F9 (88) F10 (88) F11 (88) F12 (88) GRV MINUS EQUAL RBSPC HOME PGUP LBSPC W Y LBRKT RBRKT INS END PGDN J COLON QUOTE NUSH DEL |\ Z X COMMA DOT SLSH 100 FN LEFT DOWN RIGHT 100 LGUI 100 RGUI
+33,Keyboard mechanical switch,Mechanical_Switch,SW77 SW95 SW96 SW97 SW98 SW100 SW101 SW102 SW103,MX Switch,MX125,9, ,,,,,,,MX-style mechanical keyboard switch,STEPPED CAPS 1.25 LSFT 125 LCTRL 125 LGUI 125 LALT 125 RALT RGUI FN 125 RCTRL
+34,Keyboard mechanical switch,Mechanical_Switch,SW45 SW58 SW107 SW109 SW111 SW113,MX Switch,MX150,6, ,,,,,,,MX-style mechanical keyboard switch,TAB BSLS 150 LCTRL 150 LALT 150 RALT 150 RCTRL
+35,Keyboard mechanical switch,Mechanical_Switch,SW110,MX Switch,MX700R,1, ,,,,,,,MX-style mechanical keyboard switch,700 SPACE
+36,Keyboard mechanical switch,Mechanical_Switch,SW40,MX Switch,MX200,1, ,,,,,,,MX-style mechanical keyboard switch,200 BSPC
+37,Keyboard mechanical switch,Mechanical_Switch,SW62 SW94,MX Switch,MX175,2, ,,,,,,,MX-style mechanical keyboard switch,FULL CAPS 175 RSFT
+38,Keyboard mechanical switch,Mechanical_Switch,SW75,MX Switch,MX225R,1, ,,,,,,,MX-style mechanical keyboard switch,ANSI ENTER
+39,Keyboard mechanical switch,Mechanical_Switch,SW78,MX Switch,MX_ISOEnter_Horizontal,1, ,,,,,,,MX-style mechanical keyboard switch,ISO ENTER
+40,Keyboard mechanical switch,Mechanical_Switch,SW79,MX Switch,MX225,1, ,,,,,,,MX-style mechanical keyboard switch,2.25 LSFT
+41,Keyboard mechanical switch,Mechanical_Switch,SW91,MX Switch,MX275,1, ,,,,,,,MX-style mechanical keyboard switch,275 RSFT
+42,Keyboard mechanical switch,Mechanical_Switch,SW99,MX Switch,MX625R,1, ,,,,,,,MX-style mechanical keyboard switch,625 SPACE
+43,"I2C Serial EEPROM, 256Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8",24LC256,U2,AT24C256C-SSHL-T,SOIC-8,1, ,https://datasheet.lcsc.com/lcsc/1809151932_Microchip-Tech-AT24C256C-SSHL-T_C6482.pdf,,Microchip,AT24C256C-SSHL-T,SOIC-8,LCSC C6482,SOIC-8 non-volatile 256Kb (32K x 8) I2C EEPROM,
+44,"300mA, Low Power, Low Dropout Linear Regulators",SGM2036,U4,SGM2007-3.3XN5/TR,SOT-23-5,1, ,https://datasheet.lcsc.com/lcsc/1810010521_SGMICRO-SGM2036-3-3YN5G-TR_C92402.pdf,,SGMICRO,SGM2007-3.3XN5/TR,SOT-23-5,LCSC C193687,Fixed 5.5V 3.3V 300mV @ 300mA SOT-23-5 Low Dropout Regulator,
+45,32-bit 256kBytes flash ARM Cortex-M4  microcontroller,STM32F401-LQFP64,U3,STM32F401RCT6,LQFP-64_10x10mm_P0.5mm,1, ,https://www.st.com/content/ccc/resource/technical/document/datasheet/9e/50/b1/5a/5f/ae/4d/c1/DM00086815.pdf/files/DM00086815.pdf/jcr:content/translations/en.DM00086815.pdf,,STMicroelectronics,STM32F401RCT6,"LQFP-64, 10x10mm 0.5mm pitch",LCSC C74524,32-bit flash ARM Cortex-M4 84MHz LQFP-64_10x10x05P STMicroelectronics,
+46,1-bit bidirectional level shifting voltage level translator,TXS0101,U5,TXS0101DRLR,SOT-563,1, ,,,Texas Instruments,TXS0101DRLR,SOT-563,LCSC C131928,1-bit bidirectional logic voltage level translator,
+47,"Very low capacitance ESD protection diode, 2 data-line, SOT-23-6",USBLC6-2SC6,U1,USBLC6-2SC6,SOT-23-6,1, ,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,,STMicroelectronics,USBLC6-2SC6,SOT-23-6,LCSC C7519,Unidirectional ESD TVS diode,
+48,"Four pin crystal, GND on pins 2 and 4",Crystal_GND24,Y1,TAXM8M4RFDCET2T,Crystal_SMD_3225-4Pin_3.2x2.5mm,1, ,~,,TAE,TAXM8M4RFDCET2T,Y3225_4P,LCSC C403948,8MHz 3225-4P oscillator crystal,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,V2.1.8
+Date:,2022-04-10
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,48
+Component Count:,428 (315 SMD/ 1 THT)
+Fitted Components:,428 (315 SMD/ 1 THT)
+Number of PCBs:,1
+Total Components:,428

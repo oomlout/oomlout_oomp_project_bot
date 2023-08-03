@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="13" Component_Count="15 (0 SMD/ 0 THT)" Fitted_Components="15 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="15" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="DIODESOD-323" References="D1" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="LED0805_NOOUTLINE" References="D2" Value="RED" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="HEADER-1X11" References="JP4" Value="HEADER-1X11" Footprint="1X11_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="HEADER-1X16ROUND" References="JP1" Value="HEADER-1X16ROUND" Footprint="1X16_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X1ROUND" References="JP2 JP3" Value="HEADER-1X1ROUND" Footprint="1X01_ROUND" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="MICROSHIELD" References="MS1" Value="MICROSHIELD" Footprint="MICROSHIELD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="TRANSISTOR_NPN" References="Q1" Value="MMBT2222" Footprint="SOT23-R" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R3" Value="1K" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR0805_NOOUTLINE" References="R2" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="SWITCH_TACT_SMT4.6X2.8" References="SW1" Value="kmr2" Footprint="BTN_KMR2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RELAY_NONLATCHING-EE2NUH" References="X1" Value="RELAY_NONLATCHING-EE2NUH" Footprint="RELAY_EE2_NOLATCH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="TERMBLOCK_1X3" References="X2" Value="TERMBLOCK_1X3" Footprint="TERMBLOCK_1X3-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

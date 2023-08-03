@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="8" Component_Count="13 (0 SMD/ 0 THT)" Fitted_Components="13 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="13" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C3" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="DIODESOD-323" References="D2" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="HEADER-1X770MIL" References="JP2" Value="HEADER-1X770MIL" Footprint="1X07_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="MOSFET-NWIDE" References="Q3 Q4" Value="BSS138" Footprint="SOT23-WIDE" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R2 R7 R8" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="RESISTOR_0805MP" References="R4" Value="10K" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="BME280" References="U1" Value="BME280" Footprint="BME280" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="VREG_SOT23-5" References="U2" Value="MIC5225-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

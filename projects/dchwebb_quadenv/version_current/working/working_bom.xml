@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="9" Component_Count="14 (0 SMD/ 0 THT)" Fitted_Components="14 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="14" Schematic_Source="working" Schematic_Revision="1.0" Schematic_Date="2023-03-10" encoding="utf-8">
+	<group Row="1" Description="Light emitting diode" Part="LED" References="D1 D2 D3 D4" Value="LED" Footprint="LED_D3.0mm" Quantity_Per_PCB="4" Status=" " Datasheet="~"/>
+	<group Row="2" Description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x06_Male" References="J1" Value="Conn_01x04_Male" Footprint="PinHeader_1x06_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="3" Description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x04_Male" References="J3 J4" Value="Conn_01x04_Male" Footprint="PinHeader_1x04_P2.54mm_Vertical" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="4" Description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x05_Male" References="J2" Value="Conn_01x05_Male" Footprint="PinHeader_1x05_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="5" Description="RJ connector, 8P8C (8 positions 8 connected)" Part="RJ45" References="J5 J6" Value="Gate_In" Footprint="RJ45_Amphenol_RJHSE-3080" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="6" Description="Potentiometer" Part="R_Potentiometer" References="RV1" Value="AttackPot" Footprint="Alpha_9mm_Potentiometer_Aligned" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="7" Description="Potentiometer" Part="R_Potentiometer" References="RV2" Value="DecayPot" Footprint="Alpha_9mm_Potentiometer_Aligned" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="8" Description="Potentiometer" Part="R_Potentiometer" References="RV4" Value="ReleasePot" Footprint="Alpha_9mm_Potentiometer_Aligned" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="9" Description="Potentiometer" Part="R_Potentiometer" References="RV3" Value="SustainPot" Footprint="Alpha_9mm_Potentiometer_Aligned" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+</KiCad_BOM>

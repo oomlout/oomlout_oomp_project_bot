@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="18" Component_Count="36 (0 SMD/ 0 THT)" Fitted_Components="36 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="36" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C2 C3 C4 C5 C6 C7 C8 C9" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="9" Status=" " Datasheet="" LCSC=""/>
+	<group Row="2" Description="" Part="PICOWBELL_DUALSMT" References="CB1" Value="PICOWBELL_DUALSMT" Footprint="PICOWBELL_DUALSMT" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="3" Description="" Part="STEMMA_I2C_QT" References="CONN1" Value="STEMMA_I2C_QT" Footprint="JST_SH4" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="4" Description="" Part="WS2811-SOP8" References="IC1" Value="WS2811-SOP8" Footprint="SO08-SKINNYPADS" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="5" Description="" Part="PINHD-2X20_SMT" References="JP1" Value="16x2 LCD" Footprint="2X20_SMT_MALE" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="6" Description="" Part="HEADER-1X12OVAL" References="JP8" Value="HEADER-1X12OVAL" Footprint="1X12_OVAL" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="7" Description="" Part="MOSFET-NWIDE" References="Q3 Q4 Q5" Value="BSS138" Footprint="SOT23-WIDE" Quantity_Per_PCB="3" Status=" " Datasheet="" LCSC=""/>
+	<group Row="8" Description="" Part="MOSFET-PWIDE" References="Q1 Q2" Value="DMG34x5" Footprint="SOT23-WIDE" Quantity_Per_PCB="2" Status=" " Datasheet="" LCSC=""/>
+	<group Row="9" Description="" Part="RESISTOR_0603_NOOUT" References="R6 R7 R8 R9" Value="27" Footprint="0603-NO" Quantity_Per_PCB="4" Status=" " Datasheet="" LCSC="C25190"/>
+	<group Row="10" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R2 R3 R4 R5" Value="10K" Footprint="0603-NO" Quantity_Per_PCB="5" Status=" " Datasheet="" LCSC=""/>
+	<group Row="11" Description="" Part="SPEAKER/PS12" References="SP1" Value="SPEAKER/PS12" Footprint="PS12" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="12" Description="" Part="SWITCH_TACT_SMT_12MM" References="SW1" Value="12mm SMT" Footprint="B3F-40XX-SMT" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="13" Description="" Part="SWITCH_DPDTEG1390" References="SW2" Value="DPDT SLIDE" Footprint="EG1390" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC="C318999"/>
+	<group Row="14" Description="" Part="DISP_LCD_ST7789_1.9IN_SS" References="TFT1" Value="DISP_LCD_ST7789_1.9IN_SS" Footprint="TFT_1.9IN_170X320_30P_SS" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="15" Description="" Part="TRIMPOTTC33X-2" References="VR1" Value="10K Trimmer" Footprint="TRIMPOT_BOURNS_TC33X-2" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="16" Description="" Part="MICROSD" References="X2" Value="MicroSD" Footprint="MICROSD" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="17" Description="" Part="TESTER_PROGCABLE_FLIP" References="X3" Value="TESTER_PROGCABLE_FLIP" Footprint="FPC_0.5MM_18PIN" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+	<group Row="18" Description="" Part="USB_TYPEA_SMT" References="X1" Value="USB A" Footprint="USB_HOST-SMT" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+</KiCad_BOM>
