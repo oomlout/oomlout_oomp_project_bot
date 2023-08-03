@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="5" Component_Count="6 (5 SMD/ 0 THT)" Fitted_Components="6 (5 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="6" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-59" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor" Part="C" References="C3" Value="100nf" Footprint="C_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="2" Description="Unpolarized capacitor" Part="C" References="C1 C2" Value="10uf" Footprint="C_0805_2012Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="3" Description="3-Axis MEMS Accelerometer, 2/4/8/16g range, I2C/SPI, LGA-14" Part="ADXL343" References="U2" Value="ADXL343" Footprint="LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf"/>
+	<group Row="4" Description="600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5" Part="AP2112K-3.3" References="U1" Value="AP2112K-3.3" Footprint="SOT-23-5" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.diodes.com/assets/Datasheets/AP2112.pdf"/>
+	<group Row="5" Description="" Part="MODULE-CONN-BRBO-IBBC-SZ01" References="U3" Value="MODULE-CONN-BRBO-IBBC-SZ01" Footprint="MODULE-CONN-BRBO-IBBC-SZ01" Quantity_Per_PCB="1" Status=" " Datasheet="oom.lt/MCBI1"/>
+</KiCad_BOM>

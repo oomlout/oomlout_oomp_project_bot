@@ -1,0 +1,57 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Keycode,Manufacturer,Specification,Package,Manufacturer Part Number,Vendor Part Number,LCSC Part Number
+1,"Unpolarized capacitor, small symbol",C_Small,C11 C12,15p,C_0402_1005Metric,2, ,~,,Guangdong Fenghua Advanced Tech,50V 15pF C0G ±5% 0402 MLCC,C0402,0402CG150J500NT,LCSC C1548,
+2,"Unpolarized capacitor, small symbol",C_Small,C6 C14,10n,C_0402_1005Metric,2, ,~,,Samsung,50V 10nF X7R ±10% 0402 MLCC,C0402,CL05B103KB5NNNC,LCSC C15195,
+3,"Unpolarized capacitor, small symbol",C_Small,C1 C3 C7 C8 C9 C15 C16,100n,C_0402_1005Metric,7, ,~,,Samsung,50V 100nF X7R ±10% 0402  MLCC,C0402,CL05B104KB54PNC,LCSC C307331,
+4,Unpolarized capacitor,C,C4 C5,1u,C_0805_2012Metric,2, ,~,,Guangdong Fenghua Advanced Tech,50V 1uF X7R ±10% 0805 MLCC,C0805,0805B105K500NT,LCSC C215803,
+5,"Unpolarized capacitor, small symbol",C_Small,C13 C17,4.7u,C_0402_1005Metric,2, ,~,,Samsung,10V 4.7uF X5R ±20% 0402 MLCC,C0402,CL05A475MP5NRNC,LCSC C23733,
+6,"Polarized capacitor, US symbol",CP1,C10,10u,CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder,1, ,~,,AVX,16V 10uF Tantallum,C3216 (CASE A),TAJA106K016RNJ,LCSC C7171,
+7,"Unpolarized capacitor, small symbol",C_Small,C2,10u,C_0402_1005Metric,1, ,~,,Samsung,6.3V 10uF X5R ±20% 0402 MLCC,C0402,CL05A106MQ5NUNC,LCSC C15525,
+8,Diode,D,D1 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 D34 D35 D36 D37 D38 D39 D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50 D51 D52 D53 D54 D55 D56 D57 D58 D59 D60 D61 D62 D63 D64 D65 D66 D67 D68 D69 D70 D71 D72 D73 D74 D75 D76 D77 D78 D79 D80 D81 D82 D83 D84 D85 D86 D87 D88 D89 D90 D91 D92 D93,1N4148W,D_SOD-123,92, ,~,,Semtech,400mW 1μA@75V 150mA SOD-123 small-signal witching diode Small-signal switching diodes,SOD-123,1N4148W,LCSC C81598,
+9,Schottky diode,D_Schottky,D2,B5819W-SL,D_SOD-123,1, ,~,,Changjiang Electronics Tech,1A SOD-123 Schottky Barrier Diodes,SOD-123,B5819W-SL,LCSC C8598,
+10,"Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_MountingPin,J1 J2,A1001WR-S-04P,SM04B-SRSS-TB(LF)(SN)_mounting-reliefs,2, ,~,,Joint Tech Elec,Surface-mounted 4-pin wire-to-board female connector,,A1001WR-S-04P,LCSC C160404,
+11,"0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23",2N7002,Q2,2N7002,SOT-23,1, ,https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF,,Changjiang Electronics Tech,N-channel signal MOSFET transistor,SOT-23,2N7002,LCSC C8545,
+12,"-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23",AO3401A,Q1,AO3401A,SOT-23,1, ,http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf,,AO3401A,P-channel power MOSFET transistor,SOT-23,Alpha & Omega Semicon,LCSC C15127,
+13,NPN - Pre-Biased 200mW 100mA 50V SOT-23(SOT-23-3) Digital Transistors,DTC123J,Q3 Q4 Q5 Q6,DTC123JKAT146,SOT-23,4, ,,,ROHM Semicon,,SOT-23-3,DTC123JKAT146,LCSC C111724,
+14,"Resistor, small symbol",R_Small,R16 R17,0R,R_0805_2012Metric,2, ,~,,Uniroyal,±1% 1/16W Thick Film Resistors 50V 0402,R0805,0805W8F0000T5E,LCSC C17477,
+15,"Resistor, small symbol",R_Small,R2 R4 R9 R14 R15,100,R_0402_1005Metric,5, ,~,,Uniroyal,±1% 1/16W Thick Film Resistors 50V 0402,R0402,0402WGF1000TCE,LCSC C25076,
+16,"Resistor, small symbol",R_Small,R10 R11 R12 R13,1k,R_0402_1005Metric,4, ,~,,Uniroyal,±1% 1/16W Thick Film Resistors 50V 0402,R0402,0402WGF1001TCE,LCSC C11702,
+17,"Resistor, small symbol",R_Small,R24,1.5k,R_0402_1005Metric,1, ,~,,Uniroyal,±1% 1/16W Thick Film Resistors 50V 0402,R0402,0402WGF1501TCE,LCSC C25867,
+18,"Resistor, small symbol",R_Small,R22 R23,4.7k,R_0402_1005Metric,2, ,~,,Uniroyal,±1% 1/16W Thick Film Resistors 50V 0402,R0402,0402WGF4701TCE,LCSC C25900,
+19,"Resistor, small symbol",R_Small,R1 R6 R7 R8 R18 R21,10k,R_0402_1005Metric,6, ,~,,Uniroyal,±1% 1/16W Thick Film Resistors 50V 0402,R0402,0402WGF1002TCE,LCSC C25744,
+20,Resistor,R,R19 R20,100k,R_0805_2012Metric,2, ,~,,Uniroyal,±1% 125mW Thick Film R0805 Resistors,R0805,0805W8F1003T5E,LCSC C149504,
+21,"Resistor, small symbol",R_Small,R3,330k,R_0402_1005Metric,1, ,~,,Uniroyal,±1% 1/16W Thick Film Resistors 50V 0402,R0402,0402WGF3303TCE,LCSC C25778,
+22,"Resistor, small symbol",R_Small,R5,1M,R_0402_1005Metric,1, ,~,,Uniroyal,±1% 1/16W Thick Film Resistors 50V 0402,R0402,0402WGF1004TCE,LCSC C26083,
+23,Single Pole Single Throw (SPST) switch,SW_SPST,SW1,K2-1187SQ-A4SW-06,K2-1187SQ-A4SW-06,1, ,~,,Korean Hroparts,5.2mm 1.5mm Round Button SPST,5.0x5.0mm,K2-1187SQ-A4SW-06,LCSC C92584,
+24,Keyboard mechanical switch,Mechanical_Switch,SW2 SW3 SW4 SW5 SW6 SW7 SW8 SW9 SW10 SW11 SW12 SW13 SW14 SW15 SW16 SW17 SW18 SW19 SW20 SW21 SW22 SW23 SW24 SW25 SW26 SW27 SW28 SW29 SW30 SW31 SW33 SW34 SW35 SW36 SW38 SW39 SW40 SW41 SW42 SW43 SW44 SW45 SW46 SW47 SW48 SW49 SW51 SW52 SW53 SW55 SW56 SW57 SW58 SW59 SW60 SW61 SW62 SW63 SW64 SW65 SW66 SW71 SW72 SW73 SW74 SW75 SW76 SW77 SW78 SW79 SW80 SW81 SW83 SW84 SW95 SW96 SW97 SW99 SW103,MX Switch,MX100,79, ,,ESC F1 (87) F2 (87) F3 (87) F4 (87) F5 (87) F6 (87) F7 (87) F8 (87) F9 (87) F10 (87) F11 (87) F12 (87) RBSPC PRTSCR SCROLL PAUSE GRV MINUS EQUAL INS HOME PGUP LBSPC W Y LBRKT RBRKT DEL END PGDN J COLON QUOTE NUSH |\ Z X COMMA DOT SLSH 100 FN LEFT DOWN RIGHT 100 LGUI 100 RGUI,,MX-style mechanical keyboard switch,,,,
+25,Keyboard mechanical switch,Mechanical_Switch,SW37 SW50 SW98 SW100 SW102 SW104,MX Switch,MX150,6, ,,TAB BSLS 150 LCTRL 150 LALT 150 RALT 150 RCTRL,,MX-style mechanical keyboard switch,,,,
+26,Keyboard mechanical switch,Mechanical_Switch,SW101,MX Switch,MX700R,1, ,,700 SPACE,,MX-style mechanical keyboard switch,,,,
+27,Keyboard mechanical switch,Mechanical_Switch,SW32,MX Switch,MX200,1, ,,200 BSPC,,MX-style mechanical keyboard switch,,,,
+28,Keyboard mechanical switch,Mechanical_Switch,SW54 SW85,MX Switch,MX175,2, ,,FULL CAPS 175 RSFT,,MX-style mechanical keyboard switch,,,,
+29,Keyboard mechanical switch,Mechanical_Switch,SW67,MX Switch,MX225R,1, ,,ANSI ENTER,,MX-style mechanical keyboard switch,,,,
+30,Keyboard mechanical switch,Mechanical_Switch,SW68 SW86 SW87 SW88 SW89 SW91 SW92 SW93 SW94,MX Switch,MX125,9, ,,STEPPED CAPS 1.25 LSFT 125 LCTRL 125 LGUI 125 LALT 125 RALT RGUI FN 125 RCTRL,,MX-style mechanical keyboard switch,,,,
+31,Keyboard mechanical switch,Mechanical_Switch,SW69,MX Switch,MX_ISOEnter,1, ,,ISO ENTER,,MX-style mechanical keyboard switch,,,,
+32,Keyboard mechanical switch,Mechanical_Switch,SW70,MX Switch,MX225,1, ,,2.25 LSFT,,MX-style mechanical keyboard switch,,,,
+33,Keyboard mechanical switch,Mechanical_Switch,SW82,MX Switch,MX275,1, ,,275 RSFT,,MX-style mechanical keyboard switch,,,,
+34,Keyboard mechanical switch,Mechanical_Switch,SW90,MX Switch,MX625R,1, ,,625 SPACE,,MX-style mechanical keyboard switch,,,,
+35,Dual N-channel enhancement mode MOSFET,2N7002DW,U2,2N7002DW,SOT-363_SC-70-6,1, ,,,Yangzhou Yangjie Elec Tech,Dual N-channel enhancement mode MOSFET,SOT-363,2N7002DW,LCSC C699281,
+36,"I2C Serial EEPROM, 256Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8",24LC256,U1,AT24C256C-SSHL-T,SOIC-8,1, ,https://datasheet.lcsc.com/lcsc/1809151932_Microchip-Tech-AT24C256C-SSHL-T_C6482.pdf,,Microchip,SOIC-8 non-volatile 256Kb (32K x 8) I2C EEPROM,SOIC-8,AT24C256C-SSHL-T,LCSC C6482,
+37,"300mA, Low Power, Low Dropout Linear Regulators",SGM2036,U3,SGM2007-3.3XN5/TR,SOT-23-5,1, ,https://datasheet.lcsc.com/lcsc/1810010521_SGMICRO-SGM2036-3-3YN5G-TR_C92402.pdf,,SGMICRO,Fixed 5.5V 3.3V 300mV @ 300mA SOT-23-5 Low Dropout Regulator,SOT-23-5,SGM2007-3.3XN5/TR,LCSC C193687,
+38,32-bit 256kBytes flash ARM Cortex-M4  microcontroller,STM32F401-LQFP64,U4,STM32F401RCT6,LQFP-64_10x10mm_P0.5mm,1, ,https://www.st.com/content/ccc/resource/technical/document/datasheet/9e/50/b1/5a/5f/ae/4d/c1/DM00086815.pdf/files/DM00086815.pdf/jcr:content/translations/en.DM00086815.pdf,,STMicroelectronics,32-bit flash ARM Cortex-M4 84MHz LQFP-64_10x10x05P STMicroelectronics,"LQFP-64, 10x10mm 0.5mm pitch",STM32F401RCT6,LCSC C74524,
+39,"Four pin crystal, GND on pins 2 and 4",Crystal_GND24,Y1,TAXM8M4RFDCET2T,Crystal_SMD_3225-4Pin_3.2x2.5mm,1, ,~,,TAE,8MHz 3225-4P oscillator crystal,Y3225_4P,TAXM8M4RFDCET2T,LCSC C403948,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,v1.0.4
+Date:,2022-05-23
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,39
+Component Count:,251 (148 SMD/ 1 THT)
+Fitted Components:,251 (148 SMD/ 1 THT)
+Number of PCBs:,1
+Total Components:,251

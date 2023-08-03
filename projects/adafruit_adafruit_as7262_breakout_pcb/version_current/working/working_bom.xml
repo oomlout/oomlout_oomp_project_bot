@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="15" Component_Count="18 (0 SMD/ 0 THT)" Fitted_Components="18 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="18" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0603_NO" References="C4 C5" Value="0.1uF" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="RESISTOR0805_NOOUTLINE" References="C1" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2 C3" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="LED0805_NOOUTLINE" References="D2" Value="GREEN" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="DIODESOD-323" References="D3" Value="IN4148" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LEDEV45-21" References="D1" Value="L130-5780001400001" Footprint="EVERLIGHT_45-21" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HEADER-1X2ROUND" References="EXT_LED0" Value="HEADER-1X2ROUND" Footprint="1X02_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="HEADER-1X7ROUND" References="FTDI1 JP2" Value="HEADER-1X7ROUND" Footprint="1X07_ROUND" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="MOSFET-N_DUAL" References="Q3" Value="BSS138" Footprint="SOT363" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR0805_NOOUTLINE" References="R2" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="microbuilder_09_Nov_2015_RESISTOR_0603_NOOUT" References="R7" Value="10K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR_4PACK_NO" References="R8" Value="10k" Footprint="RESPACK_4X0603_NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="AS726X_SPECTRAL" References="U2" Value="AS7262-BLGT" Footprint="AS726X_LGA20" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="SPIFLASH_SOIC8" References="U1" Value="AT25SF041-SSHD-B" Footprint="SOIC8_150MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="VREG_SOT23-5" References="U3" Value="MIC5225-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
