@@ -1,5 +1,6 @@
-import oom_kicad
+
 import os
+import shutil
 
 def go_through_directories():
 
@@ -22,7 +23,16 @@ def go_through_directories():
             if any(x in filename for x in filter):
                 if file.endswith(".kicad_pcb"):
                     
-                    oom_kicad.copy_kibom_template(filename=filename, template_file=template_file)
+                    ###### copy template across
+                    
+                    filename_directory = os.path.dirname(filename)
+                    output_template = f'{filename_directory}/working_kibot_template.yaml'
+                    #copy and overwrite the template file if it exists
+                    shutil.copyfile(template_file, output_template)
+                    
+
+                    ###### generate
+
                     filename_directory = os.path.dirname(filename)
                     template = "working_kibot_template.yaml"
                     #launch using subprocess kibot -c {template} with the base directory being filename_directory
