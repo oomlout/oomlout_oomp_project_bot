@@ -1,0 +1,30 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,CAP_CERAMIC0805,C3,100pF,0805,1, ,
+2,,CAP_CERAMIC0805,C2,0.01uF,0805,1, ,
+3,,CAP_CERAMIC0805,C1,0.1µF,0805,1, ,
+4,,CAP_CERAMIC0805,C4,10uF,0805,1, ,
+5,,FERRITE0805,FB1 FB2,FERRITE,0805,2, ,
+6,,HEADER-1X376MIL,JP1,HEADER-1X376MIL,1X03_ROUND_76,1, ,
+7,,ELECTRET,Q1,CMA-4544PF-W,ELECTRET_9.7,1, ,
+8,,RESISTOR0805,R1 R2 R5,1K,0805,3, ,
+9,,RESISTOR0805,R7,22K,0805,1, ,
+10,,RESISTOR0805,R3 R4,1M,0805,2, ,
+11,,MAX4466{dblquote}{dblquote},U1,MAX4466EXK+T,SC70-5,1, ,
+12,,TRIMPOTTC33X-2,VR1,TC33X-2-104E (100K),TRIMPOT_BOURNS_TC33X-2,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-03_17-21-22
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,12
+Component Count:,16 (0 SMD/ 0 THT)
+Fitted Components:,16 (0 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,16

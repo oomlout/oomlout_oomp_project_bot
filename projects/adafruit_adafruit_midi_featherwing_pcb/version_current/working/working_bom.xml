@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="11" Component_Count="15 (0 SMD/ 0 THT)" Fitted_Components="15 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="15" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="DIODESOD-323" References="D1" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="LED0603" References="D2 D3" Value="BLUE" Footprint="CHIPLED_0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="DIN_5" References="MIDIIN0 MIDIOUT0" Value="DIN_5" Footprint="CP-2350" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="FEATHERWING_NODIM" References="MS1" Value="FEATHERWING_NODIM" Footprint="FEATHERWING_NODIM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="H11LMS" References="OK2" Value="H11LMS" Footprint="DIL6-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="RESISTOR_0603_NOOUT" References="R4" Value="10" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RESISTOR_0603_NOOUT" References="R1" Value="33" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR_0603_NOOUT" References="R2" Value="220" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR_0603_NOOUT" References="R3" Value="470" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR_0603_NOOUT" References="R5 R6" Value="2.2K" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="AUDIO_STEREOJACK" References="X1 X2" Value="3.5mm" Footprint="STX3100" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+</KiCad_BOM>

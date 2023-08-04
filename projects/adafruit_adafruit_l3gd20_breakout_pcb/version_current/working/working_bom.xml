@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="9" Component_Count="16 (0 SMD/ 0 THT)" Fitted_Components="16 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="16" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C4" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C3 C5" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="DIODESOD-323F" References="D1" Value="1N4148" Footprint="SOD-323F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="GYRO_L3GD20H" References="IC2" Value="LGD20H" Footprint="L3GD20H_LGA16L" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LP298XS" References="IC1" Value="LP298XS" Footprint="SOT23-5L" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X976MIL" References="JP1" Value="HEADER-1X976MIL" Footprint="1X09_ROUND_76" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="MOSFET-NREFLOW" References="Q1 Q2" Value="BSS138" Footprint="SOT23" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR0805_NOOUTLINE" References="R2 R4 R5 R7" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR_0805MP" References="R3 R6" Value="10K" Footprint="_0805MP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+</KiCad_BOM>

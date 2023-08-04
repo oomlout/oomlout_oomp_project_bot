@@ -1,0 +1,27 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,CAP_CERAMIC_0805,C1,0.1µF,_0805,1, ,
+2,,CAP_CERAMIC_0805,C2 C3,1µF,_0805,2, ,
+3,,CAP_CERAMIC_0805,C4 C5,10µF,_0805,2, ,
+4,,FERRITE_0805,FB1 FB2,FERRITE_0805,_0805,2, ,
+5,,SHARP_MEMORYLCD_10PIN,IC1,LS013B4DN04,FPC_10PIN_52892-1095,1, ,
+6,,HEADER-1X970MIL,JP1,HEADER-1X970MIL,1X09_ROUND_70,1, ,
+7,,RESISTOR_0805,R1 R2 R3,10K,_0805,3, ,
+8,,74HC4050D,U1,74HC4050D,SOIC16,1, ,
+9,,VREG_SOT23-5,U2,MCP1824T-3302E/OT,SOT23-5,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-03_17-21-23
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,9
+Component Count:,14 (0 SMD/ 0 THT)
+Fitted Components:,14 (0 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,14

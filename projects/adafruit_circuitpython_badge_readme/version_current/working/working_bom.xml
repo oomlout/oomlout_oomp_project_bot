@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="14" Component_Count="23 (0 SMD/ 0 THT)" Fitted_Components="23 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="23" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="SEWTAP-ALLIGATOR" References="B0 B1 B2 GND0 UNK3V3 VBAT0" Value="SEWTAP-ALLIGATOR" Footprint="SEWALLI" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0603_NO" References="C2 C3" Value="1uF" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C8" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CON_JST_PH_2PIN" References="CN1" Value="JST-PH" Footprint="JSTPH2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="DIODE_SOD-123FL" References="D1 D2" Value="SCHOTTKY" Footprint="SOD-123FL" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="ATSAMD21E" References="IC1" Value="ATSAMD21E" Footprint="QFN32_5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="APA1022020" References="LED1" Value="AP102-2020" Footprint="APA102_2020" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LED0603_NOOUTLINE" References="PWR0" Value="red" Footprint="CHIPLED_0603_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="SWITCH_TACT_SMT4.6X2.8" References="Q1" Value="reset" Footprint="BTN_KMR2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR_0603_NOOUT" References="R5" Value="1K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="SWITCH_DPDTEG1390" References="SW1" Value="EG1218" Footprint="EG1390" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="TPTP15R" References="SWC0 SWD0" Value="TPTP15R" Footprint="TP15R" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="VREG_SOT23-5" References="U1" Value="AP2112K-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="USB_MICRO_20329_V2" References="X2" Value="MicroUSB" Footprint="4UCONN_20329_V2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

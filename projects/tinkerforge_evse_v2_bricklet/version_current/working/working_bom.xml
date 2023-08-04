@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="75" Component_Count="139 (79 SMD/ 60 THT)" Fitted_Components="136 (78 SMD/ 58 THT)" Number_of_PCBs="1" Total_Components="136" Schematic_Source="working" Schematic_Revision="2.0.6" Schematic_Date="2023-01-20" encoding="utf-8">
+	<group Row="1" Description="" Part="DRILL" References="A101 A102 A103 A104" Value="DRILL" Footprint="DRILL_NP_35" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="DRILL" References="A105 A106" Value="Rail" Footprint="din-rail-mount" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="C" References="C128 C129" Value="10pF" Footprint="C0603F" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="C" References="C101" Value="220pF" Footprint="C0402F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="C" References="C102 C127 C130" Value="100nF" Footprint="C0603F" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="C" References="C132" Value="100nF" Footprint="C0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="C" References="C131" Value="220nF" Footprint="C0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="C" References="C103 C106 C107 C124 C125 C126" Value="1uF" Footprint="C0603F" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="C" References="C110" Value="2.2uF" Footprint="C0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="C" References="C114" Value="10uF" Footprint="C1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="C" References="C111" Value="100uF" Footprint="C1210" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="C" References="C112 C113 C116 C117 C118 C119" Value="100nF/30V" Footprint="C0603F" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="C" References="C104 C105 C108 C109" Value="4.7uF/50V" Footprint="C1206" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="DIODE" References="D115 D116" Value="1N4007" Footprint="DO-41" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="DIODESCH" References="D112" Value="B0520LW-7" Footprint="SOD-123" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="TVS" References="D106 D111" Value="SMAJ24CA" Footprint="DO-214AC" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="TVS" References="D105 D108 D109" Value="SMF4L13CA" Footprint="SOD-123FL" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="LED" References="D103" Value="blue" Footprint="D0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="TVS" References="D101 D102 D104 D107 D110 D113 D114" Value="‎PESD3V3L1BA" Footprint="SOD-323" Quantity_Per_PCB="7" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="FUSE" References="F101 F102" Value="FUSE" Footprint="Fuse-Holder-5x20" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="21" Description="Connector 01x02" Part="CONN_01X02" References="J101" Value="Boot" Footprint="SolderJumper" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="INDUCTs" References="L101 L103" Value="FB" Footprint="R0603F" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="INDUCTOR" References="L102" Value="NR3015T6R8M" Footprint="NR3030" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="WE-SL" References="L104" Value="WE-SL" Footprint="WE-SL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="CON-SENSOR2" References="P101" Value="CON-SENSOR2" Footprint="CON-SENSOR2_180" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="CONN_4" References="P105" Value="CP/PP/PE" Footprint="OQ_4P_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="CON-SENSOR2-BLANK" References="P112" Value="DC-Protect" Footprint="CON-SENSOR2_180" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="CONN_1" References="P111" Value="Debug" Footprint="DEBUG_PAD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="CONN_3" References="P109" Value="Enable" Footprint="JST-PH-3-THT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="CONN_4" References="P113" Value="GP" Footprint="JST-PH-4-THT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="31" Description="" Part="CONN_2" References="P103 P104" Value="L'+PE" Footprint="wm_2491620000" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="32" Description="Connector 01x04" Part="CONN_01X04" References="P110" Value="MODBUS" Footprint="JST-PH-4-THT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="33" Description="" Part="CONN_4" References="P107" Value="Motor" Footprint="JST-PH-4-THT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="34" Description="Connector 01x03" Part="CONN_01X03" References="P106" Value="Power" Footprint="JST-PH-3-THT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="35" Description="" Part="CONN_2" References="P102" Value="Relay" Footprint="LSF-SMT-500-02-135" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="36" Description="" Part="CONN_5" References="P108" Value="Switch_LED" Footprint="JST-PH-5-THT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="37" Description="" Part="PTC" References="PTC101" Value="PTC 0.45A" Footprint="C1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="38" Description="Transistor P-MOSFET, collector connected to mounting plane (general)" Part="MOSFET_N_CH" References="Q101 Q103 Q104" Value="2N7002P" Footprint="SOT23GDS" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="39" Description="Transistor P-MOSFET (general)" Part="MOSFET_P_CH" References="Q102" Value="SI2305CDS-T1-GE3" Footprint="SOT23GDS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="40" Description="Transistor P-MOSFET (general)" Part="MOSFET_P_CH" References="Q105" Value="SSM3J355R,LF" Footprint="SOT23GDS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="41" Description="" Part="R" References="R1" Value="0" Footprint="R1210" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="42" Description="" Part="R" References="R101" Value="100" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="43" Description="" Part="R" References="R114" Value="120" Footprint="R0805E" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="44" Description="" Part="R" References="R137" Value="120" Footprint="R0805E" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="45" Description="" Part="R" References="R134 R136" Value="750" Footprint="R0603F" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="46" Description="" Part="R" References="R107" Value="910" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="47" Description="" Part="R" References="R111 R115 R117 R120 R123 R124 R131 R138" Value="1k" Footprint="R0603F" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="48" Description="" Part="R" References="R141" Value="2k" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="49" Description="" Part="R" References="R103 R112 R119 R121 R132 R139 R140" Value="10k" Footprint="R0603F" Quantity_Per_PCB="7" Status=" " Datasheet=""/>
+	<group Row="50" Description="" Part="R" References="R133" Value="47k" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="51" Description="" Part="R" References="R102 R110 R125" Value="75k" Footprint="R0603F" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="52" Description="" Part="R" References="R105 R106 R109 R122 R127 R130" Value="100k" Footprint="R0603F" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="53" Description="" Part="R" References="R104 R108 R126 R129" Value="300k" Footprint="R0603F" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="54" Description="" Part="Varistor" References="R113 R128" Value="MOV-10D391KTR" Footprint="VAR_10mm" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="55" Description="" Part="R" References="R116 R118" Value="RNF12FTD249K" Footprint="RNF12-2" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="56" Description="" Part="AGQ2X0" References="REL101" Value="AGQ200S12Z" Footprint="AGQ2X0" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="57" Description="4 resistors Pack" Part="R_PACK4" References="RP102" Value="10k" Footprint="0603X4" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="58" Description="4 resistors Pack" Part="R_PACK4" References="RP105" Value="10k" Footprint="4X0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="59" Description="4 resistors Pack" Part="R_PACK4" References="RP103 RP104" Value="1k" Footprint="4X0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="60" Description="4 resistors Pack" Part="R_PACK4" References="RP101" Value="82" Footprint="4X0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="61" Description="" Part="OS103011MS8QP1" References="SW101 SW102" Value="OS103011MS8QP1" Footprint="OS103011MS8QP1" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="62" Description="" Part="A5950GLP" References="U106" Value="A5950GLP" Footprint="TSSOP16_EP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="63" Description="" Part="AQ-H" References="U108" Value="AQH3213AX" Footprint="AQ-H" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="64" Description="" Part="DMMT5401" References="U103" Value="DMMT5401" Footprint="SOT26" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="65" Description="" Part="HCPL-2731-000E" References="U109" Value="HCPL2731" Footprint="DIP-8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="66" Description="" Part="IRM" References="U111" Value="IRM02-12" Footprint="IRM02" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="67" Description="" Part="OPA344" References="U105" Value="OPA171AIDBV" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="68" Description="" Part="PEM1-S12-D12-S" References="U102" Value="PEM1-S12-D12-S" Footprint="PEM1S" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="69" Description="" Part="SP3491" References="U113" Value="SP3491" Footprint="SOIC-14_3.9x8.7mm_Pitch1.27mm" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="70" Description="" Part="TPS709" References="U110" Value="TPS70933DBVR" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="71" Description="" Part="WPMDL110" References="U112" Value="WPMDL110" Footprint="WPMDL110" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="72" Description="" Part="XMC1XXX48" References="U101" Value="XMC1404" Footprint="QFN48-EP2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="73" Description="" Part="CRYSTAL_3225" References="X101" Value="16MHz" Footprint="CRYSTAL_3225" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="10" Component_Count="29 (0 SMD/ 0 THT)" Fitted_Components="29 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="29" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC_0805" References="C5" Value="10uF" Footprint="_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC_0805" References="C1 C2 C3 C4" Value="CAP_CERAMIC_0805" Footprint="_0805" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="DIODESOD-323" References="D1 D2 D5 D6 D7 D8 D9 D10 D11 D12 D13" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="11" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="DIODESOD-323F" References="D4" Value="1N4148" Footprint="SOD-323F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="HEADER-1X5EDGESMT" References="JP1 JP2 JP3 JP4" Value="HEADER-1X5EDGESMT" Footprint="1X5_SMT" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LED-3MM-4X4GRID-3MM" References="LED1" Value="TBD" Footprint="LED3MM-4X4GRID" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RESISTOR_0805" References="R1 R2" Value="10K" Footprint="_0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="R-US_R0805" References="R3 R4 R5" Value="47K" Footprint="R0805" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="SWITCH-SILICON-4X4GRID-10MM-5.4MM" References="SW1" Value="SWITCH-SILICON-4X4GRID-10MM-5.4MM" Footprint="ELAST_PAD_SQUARE_10MM_5.4MM_4X4GRID" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="HT16K33_SOP28" References="U1" Value="HT16K33 28SOP" Footprint="SOP28_300MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

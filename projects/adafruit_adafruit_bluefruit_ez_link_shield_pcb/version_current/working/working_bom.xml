@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="23" Component_Count="29 (0 SMD/ 0 THT)" Fitted_Components="29 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="29" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2" Value="2.2uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C4" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="741G07DBV" References="IC2" Value="741G07DBV" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="74LVC2G34DBVR" References="IC1" Value="74LVC2G34DBVR" Footprint="SOT23-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="HEADER-1X570MIL" References="JP1" Value="HEADER-1X570MIL" Footprint="1X05_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-2X3" References="JP5" Value="HEADER-2X3" Footprint="2X03_ROUND_70MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="PINHD-1X6B" References="JP6" Value="PINHD-1X6B" Footprint="1X06-BIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="PINHD-1X8BIG" References="JP3 JP4" Value="PINHD-1X8BIG" Footprint="1X08-BIG" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="LED0805_NOOUTLINE" References="LED3 LED4" Value="Blue" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="LED0805_NOOUTLINE" References="LED1" Value="RED" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RESISTOR0805_NOOUTLINE" References="R7" Value="47 ohm" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR0805_NOOUTLINE" References="R8 R10" Value="220" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="RESISTOR0805_NOOUTLINE" References="R2" Value="1K" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="RESISTOR0805_NOOUTLINE" References="R5" Value="2.2K" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R4" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="RESISTOR_0805MP" References="R3 R6" Value="10K" Footprint="_0805MP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="DPDT-EG1390" References="SW2" Value="DPDT-EG1390" Footprint="EG1390" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="SPST_TACT-EVQQ2" References="SW3" Value="SPST_TACT-EVQQ2" Footprint="EVQ-Q2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="SPST_TACT-KMR2" References="SW1" Value="SPST_TACT-KMR2" Footprint="KMR2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="BLUETOOTH_MODULE" References="U1" Value="BlueFruit" Footprint="BLUETOOTH_MODULE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="VREG_SOT23-5" References="U2" Value="MIC5225-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="ARDUINO_R3_ICSP" References="U$5" Value="ARDUINO_R3_ICSP" Footprint="ARDUINOR3_ICSP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="PINHD-1X10" References="U$6" Value="PINHD-1X10" Footprint="1X10-BIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

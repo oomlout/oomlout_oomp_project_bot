@@ -1,25 +1,41 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"D0";"D_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"LED0";;;
-2;"D1";"D_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"LED1";;;
-3;"D2";"D_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"LED2";;;
-4;"J3,J6";"NS-Tech_Grove_1x04_P2mm_Horizontal";2;"Conn_01x04";;;
-5;"J4";"TerminalBlock_bornier-4_P5.08mm";1;"Conn_01x04";;;
-6;"BL0,BL1,BR0,BR1";"SW_Center_PUSH-12mm";4;"SW_Push";;;
-7;"U3";"AQM0802A-RN-GBW";1;"AQM0802";;;
-8;"JP0,JP1,JP2,JP3,JP4,JP5";"SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm";6;"NO";;;
-9;"JP6,JP7,JP8,JP9,JP10";"SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm";5;"NC";;;
-10;"J1";"PS4tJoystick";1;"JoystickL";;;
-11;"J5";"PS4tJoystick";1;"JoystickR";;;
-12;"Encoder0,Encoder1";"RoteryEncoderWithPowerLabel";2;"R_POT_US";;;
-13;"Slide0,Slide1";"SlideSwitch_SS12D01G4_2posi_1line";2;"SlideSwitch";;;
-14;"D3";"D_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"LED3";;;
-15;"SW6";"SW_PUSH_6mm";1;"SW_Push";;;
-16;"C1,C4,C5,C6";"C_0402_1005Metric";4;"0.1u";;;
-17;"C2";"C_0603_1608Metric";1;"10n";;;
-18;"C3";"C_0402_1005Metric";1;"0.47u";;;
-19;"J2";"2x03_P2.54mm_Pads";1;"Conn_01x06";;;
-20;"R1,R2,R3,R4";"R_0603_1608Metric";4;"10k";;;
-21;"U2";"QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm";1;"ATmega328PB-MU";;;
-22;"U1";"SOT-23-5";1;"NJM12888F33";;;
-23;"D4,D5,D6";"SC-74-5_1.6x2.9mm_P0.95mm";3;"1SS309";;;
-24;"U4";"TQFP-32_7x7mm_P0.8mm_short_inner";1;"ATmega328PB-A";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,"Push button switch, generic, two pins",SW_Push,BL0 BL1 BR0 BR1,SW_Push,SW_Center_PUSH-12mm,4, ,~
+2,Unpolarized capacitor,C,C2,10n,C_0603_1608Metric,1, ,~
+3,Unpolarized capacitor,C,C1 C4 C5 C6,0.1u,C_0402_1005Metric,4, ,~
+4,Unpolarized capacitor,C,C3,0.47u,C_0402_1005Metric,1, ,~
+5,,Diode_4array_1SS309,D4 D5 D6,1SS309,SC-74-5_1.6x2.9mm_P0.95mm,3, ,https://toshiba.semicon-storage.com/info/docget.jsp?did=3305&prodName=1SS309
+6,Light emitting diode,LED,D0,LED0,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~
+7,Light emitting diode,LED,D1,LED1,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~
+8,Light emitting diode,LED,D2,LED2,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~
+9,Light emitting diode,LED,D3,LED3,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~
+10,,R_POT_US-Device,Encoder0 Encoder1,R_POT_US,RoteryEncoderWithPowerLabel,2, ,~
+11,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J3 J6,Conn_01x04,NS-Tech_Grove_1x04_P2mm_Horizontal,2, ,~
+12,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J4,Conn_01x04,TerminalBlock_bornier-4_P5.08mm,1, ,~
+13,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,J2,Conn_01x06,2x03_P2.54mm_Pads,1, ,~
+14,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,J1 J5,JoystickL,PS4tJoystick,2, ,~
+15,,Jumper_NC_Small-Device,JP6 JP7 JP8 JP9 JP10,NC,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,5, ,~
+16,,Jumper_NO_Small-Device,JP0 JP1 JP2 JP3 JP4 JP5,NO,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,6, ,~
+17,Resistor,R,R1 R2 R3 R4,10k,R_0603_1608Metric,4, ,~
+18,"Push button switch, generic, two pins",SW_Push,SW6,SW_Push,SW_PUSH_6mm,1, ,~
+19,"Switch, single pole double throw",SW_SPDT,Slide0 Slide1,SlideSwitch,SlideSwitch_SS12D01G4_2posi_1line,2, ,~
+20,,AQM0802,U3,AQM0802,AQM0802A-RN-GBW,1, ,
+21,"20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, TQFP-32",ATmega328PB-A,U4,ATmega328PB-A,TQFP-32_7x7mm_P0.8mm_short_inner,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf
+22,,ATmega328PB-MU-MCU_Microchip_ATmega,U2,ATmega328PB-MU,QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf
+23,http://akizukidenshi.com/catalog/g/gI-10675/,NJM12888F33,U1,NJM12888F33,SOT-23-5,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-42
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,23
+Component Count:,47 (21 SMD/ 15 THT)
+Fitted Components:,47 (21 SMD/ 15 THT)
+Number of PCBs:,1
+Total Components:,47
