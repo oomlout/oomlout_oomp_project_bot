@@ -53,7 +53,7 @@ def go_through_directories(**kwargs):
                             
                             count += 1
                             #print a dot every 100 times through#
-                            if count % 1 == 0:
+                            if count % 50 == 0:
                                 #push to github
                                 print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
                                 print("%%%%%%  pushing to github")
