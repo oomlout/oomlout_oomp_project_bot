@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="18" Component_Count="36 (36 SMD/ 0 THT)" Fitted_Components="36 (36 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="36" Schematic_Source="working" Schematic_Revision="2" Schematic_Date="2023-08-02_17-09-07" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor" Part="C" References="C3 C4" Value="15p" Footprint="C_0402_1005Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC="C1548" LCSC2=""/>
+	<group Row="2" Description="Unpolarized capacitor" Part="C" References="C7 C8 C9 C10 C11 C12 C13 C14" Value="100n" Footprint="C_0402_1005Metric" Quantity_Per_PCB="8" Status=" " Datasheet="~" LCSC="C1525" LCSC2=""/>
+	<group Row="3" Description="Unpolarized capacitor" Part="C" References="C1 C2" Value="1µ" Footprint="C_0603_1608Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC="C19666" LCSC2=""/>
+	<group Row="4" Description="Unpolarized capacitor" Part="C" References="C5 C6" Value="1µ" Footprint="C_0402_1005Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC="C52923" LCSC2=""/>
+	<group Row="5" Description="Schottky diode" Part="D_Schottky" References="D2" Value="B5817" Footprint="D_SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C123899" LCSC2=""/>
+	<group Row="6" Description="Light emitting diode" Part="LED" References="D1" Value="LED" Footprint="LED_0402_1005Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C130719" LCSC2=""/>
+	<group Row="7" Description="Resettable fuse, polymeric positive temperature coefficient" Part="Polyfuse" References="F1" Value="Polyfuse" Footprint="Fuse_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C69679" LCSC2=""/>
+	<group Row="8" Description="Ferrite bead, small symbol" Part="FerriteBead_Small" References="FB1" Value="FerriteBead_Small" Footprint="L_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C98288" LCSC2=""/>
+	<group Row="9" Description="USB 2.0-only Type-C Receptacle connector" Part="USB_C_Receptacle_USB2.0" References="J1" Value="USB_C_Receptacle_USB2.0" Footprint="USB_C_Receptacle_HRO_TYPE-C-31-M-13B" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.usb.org/sites/default/files/documents/usb_type-c.zip" LCSC="C2848619" LCSC2=""/>
+	<group Row="10" Description="Resistor" Part="R" References="R6 R7" Value="27" Footprint="R_0402_1005Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC="C25100" LCSC2=""/>
+	<group Row="11" Description="Resistor" Part="R" References="R1 R3 R8" Value="1k" Footprint="R_0402_1005Metric" Quantity_Per_PCB="3" Status=" " Datasheet="~" LCSC="C11702" LCSC2=""/>
+	<group Row="12" Description="Resistor" Part="R" References="R4 R5 R10" Value="5.1k" Footprint="R_0402_1005Metric" Quantity_Per_PCB="3" Status=" " Datasheet="~" LCSC="C25905" LCSC2=""/>
+	<group Row="13" Description="Resistor" Part="R" References="R2 R9 R11" Value="10k" Footprint="R_0402_1005Metric" Quantity_Per_PCB="3" Status=" " Datasheet="~" LCSC="C25744" LCSC2=""/>
+	<group Row="14" Description="Push button switch, generic, two pins" Part="SW_Push" References="SW1 SW2" Value="SW_Push" Footprint="SW_SPST_CK_KXT3" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC="C319433" LCSC2=""/>
+	<group Row="15" Description="32Mb Serial Flash Memory, Standard/Dual/Quad SPI, DFN-8" Part="W25Q32JVZP" References="U2" Value="GD25Q80CEIGR" Footprint="USON-8-1EP_3x2mm_P0.5mm_EP0.25x1.65mm" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC="C395484" LCSC2=""/>
+	<group Row="16" Description="" Part="RP2040" References="U1" Value="RP2040" Footprint="QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC="C2040" LCSC2=""/>
+	<group Row="17" Description="300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 3.3V fixed positive output, SOT-23-5" Part="AP2127K-3.3" References="U3" Value="XC6210B332MR-G" Footprint="SOT-23-5" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC="C82942" LCSC2="C47719"/>
+	<group Row="18" Description="Four pin crystal, GND on pins 2 and 4" Part="Crystal_GND24" References="Y1" Value="Crystal_GND24" Footprint="Crystal_SMD_2520-4Pin_2.5x2.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C2149204" LCSC2=""/>
+</KiCad_BOM>
