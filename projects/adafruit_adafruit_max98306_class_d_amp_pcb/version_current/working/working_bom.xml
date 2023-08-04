@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="10" Component_Count="15 (0 SMD/ 0 THT)" Fitted_Components="15 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="15" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805" References="C1" Value="0.1µF" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805" References="C2 C3 C4 C5" Value="1µF" Footprint="0805" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805" References="C6" Value="10µF" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="TERMBLOCK_1X2" References="J1" Value="OUTL" Footprint="TERMBLOCK_1X2-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="TERMBLOCK_1X2" References="J2" Value="OUTR" Footprint="TERMBLOCK_1X2-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X970MIL" References="JP3" Value="HEADER-1X970MIL" Footprint="1X09_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="PINHD-2X4" References="JP1" Value="PINHD-2X4" Footprint="2X04" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR0805" References="R5" Value="10K" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR0805" References="R1 R3 R4" Value="100K" Footprint="0805" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="AUDIOAMP_MAX98306" References="U1" Value="MAX98306ETD+T" Footprint="TDFN14_3X3MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

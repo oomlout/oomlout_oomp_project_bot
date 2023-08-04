@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="18" Component_Count="34 (0 SMD/ 0 THT)" Fitted_Components="34 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="34" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="BATTERYCR1220_SMT" References="B1" Value="CR1220" Footprint="CR1220" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="HEADER-1X25" References="CONN1" Value="HEADER-1X25" Footprint="1X25_ROUND_70MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="DIODESOD-123" References="D1" Value="MBR120" Footprint="SOD-123" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="LED0805_NOOUTLINE" References="D2" Value="green" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="MAX486X/SOT" References="IC3" Value="MAX486X/SOT" Footprint="SOT23-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-2X8_SHROUDED" References="JP15" Value="HEADER-2X8_SHROUDED" Footprint="2X08_SHROUDED" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="PINHD-1X1" References="JP2 JP3 JP4 JP5 JP6 JP7 JP8 JP9 JP10 JP11 JP12 JP13 JP14" Value="PINHD-1X1" Footprint="1X01" Quantity_Per_PCB="13" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="PINHEAD" References="MATRIX_PWR0" Value="PINHEAD" Footprint="TERMBLOCK508" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="MOSFET-N_TO252" References="Q1" Value="AOD514" Footprint="TO252" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="IRF?5305R" References="Q2" Value="IRF?5305R" Footprint="D-PAK_TO252AA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RESISTOR0805_NOOUTLINE" References="R4 R13" Value="1K" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R2 R3" Value="3.9K" Footprint="0805-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="RASPBERRYPI_BPLUS_HATSLOTS" References="RPI1" Value="RASPBERRYPI_BPLUS_HATSLOTS" Footprint="PI_HAT_SLOTS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="2.1MMJACKSMT" References="U2" Value="2.1MMJACKSMT" Footprint="DCJACK_2MM_SMT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="74LCX245" References="U3 U5" Value="74AHCT245" Footprint="TSSOP20" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="EEPROM_I2C_SOIC8_GENERIC" References="U1" Value="CAT24C32" Footprint="SOIC8_150MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="RTC_DS1307" References="U4" Value="DS1307" Footprint="SOIC8_150MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="CRYSTAL8.0X3.8" References="Y1" Value="32.768kHz" Footprint="CRYSTAL_8X3.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

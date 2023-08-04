@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="13" Component_Count="29 (0 SMD/ 0 THT)" Fitted_Components="29 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="29" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP-0402" References="C101 C102" Value="12p" Footprint="_PKG_C_0402" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP-0402" References="C1" Value="10n" Footprint="_PKG_C_0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP-0402" References="C2 C4 C104 C105 C107 C108 C109 C110 C111 C112 C113 C114" Value="100n" Footprint="_PKG_C_0402" Quantity_Per_PCB="12" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP-0402" References="C103 C106" Value="1u" Footprint="_PKG_C_0402" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="CAP-0402" References="C3" Value="10u" Footprint="_PKG_C_0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="MEMORY-W25Q16FWUXIE" References="IC102" Value="MEMORY-W25Q16FWUXIE" Footprint="SON50P300X200X60-9N" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RP2040" References="IC101" Value="RP2040" Footprint="QFN-56" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="INDUCTOR-0402" References="L1" Value="INDUCTOR-0402" Footprint="_PKG_L_0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="WS2812B-2020" References="LED1" Value="WS2812B-2020" Footprint="WS2812B-2020" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RES-0402" References="R102 R103" Value="27" Footprint="_PKG_R_0402" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RES-0402" References="R104 R106" Value="1k" Footprint="_PKG_R_0402" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RES-0402" References="R101 R105" Value="10k" Footprint="_PKG_R_0402" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="XTAL-4P-3225" References="XT101" Value="12MHz" Footprint="XTAL-4P-3225" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

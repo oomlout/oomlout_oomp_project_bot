@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="23" Component_Count="43 (0 SMD/ 0 THT)" Fitted_Components="43 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="43" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2 C3" Value="20pF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C4 C5 C6 C7 C8 C9 C10 C11 C12" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="10" Status=" " Datasheet="" BOM=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC_0805MP" References="C18" Value="0.1uF" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC_0805MP" References="C17 C20" Value="1uF" Footprint="_0805MP" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="5" Description="" Part="CAP_CERAMIC_0805MP" References="C16 C19 C21 C22" Value="10uF" Footprint="_0805MP" Quantity_Per_PCB="4" Status=" " Datasheet="" BOM=""/>
+	<group Row="6" Description="" Part="DIODESOD-323F" References="D3 D4" Value="1N4148" Footprint="SOD-323F" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="7" Description="" Part="DIODESOD-123" References="D2" Value="MBR0540" Footprint="SOD-123" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="8" Description="" Part="DIODESMA" References="D1" Value="MM3Z24VT1G" Footprint="SMADIODE" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="9" Description="" Part="FERRITE_0805MP" References="FB2" Value="Ferrite" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="10" Description="" Part="40PINFPC4-1734839-0" References="J1" Value="40PINFPC4-1734839-0" Footprint="4-1734839-0" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="11" Description="" Part="PINHD-1X15-CB" References="JP1" Value="Breakout" Footprint="1X15-CB" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="12" Description="" Part="INDUCTORNR5040" References="L1" Value="6.8uH large inductor" Footprint="INDUCTOR_5X5MM_NR5040_NOTHERMALS" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="13" Description="" Part="RESISTOR_0805MP" References="R1" Value="3Ω" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="14" Description="" Part="RESISTOR_0805MP" References="R9 R10" Value="12Ω" Footprint="_0805MP" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="15" Description="" Part="RESISTOR_4PACK_US" References="R4 R5 R6 R7 R8" Value="33" Footprint="RESPACK_4X0603" Quantity_Per_PCB="5" Status=" " Datasheet="" BOM=""/>
+	<group Row="16" Description="" Part="RESISTOR_0805MP" References="R11" Value="10K" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="17" Description="" Part="RESISTOR0805_NOOUTLINE" References="R12" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="18" Description="" Part="RESISTOR0805_NOOUTLINE" References="R3" Value="1M" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="19" Description="" Part="74HC4050D" References="U5" Value="74HC4050" Footprint="SOIC16" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="20" Description="" Part="FAN5331" References="U3" Value="FAN5333BSX" Footprint="SOT23-5@1" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="21" Description="" Part="VREG_SOT23-5" References="U4" Value="MIC5225-3.3v" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="22" Description="" Part="RA8875" References="U1" Value="RA8875" Footprint="LQFP100" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="23" Description="" Part="CRYSTAL3.2X2.5" References="Y1" Value="20MHz" Footprint="CRYSTAL_3.2X2.5" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+</KiCad_BOM>

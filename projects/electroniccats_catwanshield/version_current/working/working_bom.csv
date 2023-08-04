@@ -1,22 +1,31 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"P1";"Socket_Strip_Arduino_1x08";1;"Power";;;
-2;"P2";"Socket_Strip_Arduino_1x06";1;"Analog";;;
-3;"P3";"Socket_Strip_Arduino_1x10";1;"Digital";;;
-4;"P4";"Socket_Strip_Arduino_1x08";1;"Digital";;;
-5;"P5,P6,P7,P8";"Arduino_1pin";4;"CONN_01X01";;;
-6;"G***";"electronic_cats_logo_8x6";1;"LOGO";;;
-7;"A1";"SMA_EDGELAUNCH_UFL";1;"ANT";;;
-8;"C1,C3";"C_0805_HandSoldering";2;"10uF";;;
-9;"C2";"C_0805_HandSoldering";1;"0.1uF";;;
-10;"J1";"Pin_Header_Straight_1x02_Pitch2.54mm";1;"DIO1";;;
-11;"J3";"SolderWirePad_single_0-8mmDrill";1;"CONN_01X01";;;
-12;"U1";"RFM95W";1;"RFM95";;;
-13;"U2";"SOIC-16_3.9x9.9mm_Pitch1.27mm";1;"74HC4050D";;;
-14;"U3";"AP2112K-3.3";1;"AP2112K-3.3";;;
-15;"J2";"Pin_Header_Straight_1x02_Pitch2.54mm";1;"DIO4";;;
-16;"J4";"Pin_Header_Straight_1x02_Pitch2.54mm";1;"DIO3";;;
-17;"J5";"Pin_Header_Straight_1x02_Pitch2.54mm";1;"DIO5";;;
-18;"J6";"Pin_Header_Straight_1x02_Pitch2.54mm";1;"DIO2";;;
-19;"R1";"R_0805_HandSoldering";1;"100K";;;
-20;"R3,R2";"R_0805_HandSoldering";2;"100k";;;
-21;"svg2mod";"titule_electronic_med";1;"electronic";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,MP,Package,Availability,MF,#manf
+1,,ANT-RESCUE-ArduinoShieldLoRa,A1,ANT,SMA_EDGELAUNCH_UFL,1, ,,,,,,
+2,Unpolarized capacitor,C,C2,0.1uF,C_0805_HandSoldering,1, ,~,,,,,0201ZD104KAT2A
+3,Unpolarized capacitor,C,C1 C3,10uF,C_0805_HandSoldering,2, ,~,,,,,GRM188C80G106KE47J
+4,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J3,CONN_01X01,SolderWirePad_single_0-8mmDrill,1, ,~,,,,,
+5,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J1 J2 J4 J5 J6,DIO1,Pin_Header_Straight_1x02_Pitch2.54mm,5, ,~,,,,,
+6,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,P2,Analog,Socket_Strip_Arduino_1x06,1, ,~,,,,,
+7,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,P5 P6 P7 P8,CONN_01X01,Arduino_1pin,4, ,~,,,,,
+8,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10,P3,Digital,Socket_Strip_Arduino_1x10,1, ,~,,,,,
+9,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,P1 P4,Power,Socket_Strip_Arduino_1x08,2, ,~,,,,,
+10,Resistor,R,R1 R2 R3,100K,R_0805_HandSoldering,3, ,~,,,,,RCA0603100KJNEC
+11,Hex high-to-low level shifter 74HC4050D,74HC4050D,U2,74HC4050D,SO16,1, ,0.45 USD,74HC4050D,SOIC-16 NXP Semiconductors,Good,NXP Semiconductors,"74HC4050D,653"
+12,"600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5",AP2112K-3.3,U3,AP2112K-3.3,SOT-23-5,1, ,https://www.diodes.com/assets/Datasheets/AP2112.pdf,,,,,AP2112K-3.3TRG1
+13,,RFM95-RESCUE-ArduinoShieldLoRa,U1,RFM95,RFM95W,1, ,,,,,,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,v1.0
+Date:,2018-07-24
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,13
+Component Count:,24 (8 SMD/ 16 THT)
+Fitted Components:,24 (8 SMD/ 16 THT)
+Number of PCBs:,1
+Total Components:,24

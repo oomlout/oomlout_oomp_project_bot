@@ -1,0 +1,55 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Champ4,Sim.Device,Sim.Pins
+1,"Unpolarized capacitor, small symbol",C_Small,C65 C66,47p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2, ,~,,,
+2,"Unpolarized capacitor, small symbol",C_Small,C51 C52,82p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2, ,~,,,
+3,"Unpolarized capacitor, small symbol",C_Small,C81 C82 C83 C84 C85 C86,100p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,6, ,~,,,
+4,"Unpolarized capacitor, small symbol",C_Small,C37 C38,180p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2, ,~,,,
+5,"Unpolarized capacitor, small symbol",C_Small,C5 C6 C7 C8 C67 C68 C69 C70,220p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,8, ,~,,,
+6,"Unpolarized capacitor, small symbol",C_Small,C53 C54 C55 C56,270p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4, ,~,,,
+7,"Unpolarized capacitor, small symbol",C_Small,C10 C13,390p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2, ,~,,,
+8,"Unpolarized capacitor, small symbol",C_Small,C9 C11 C12 C14 C39 C40 C41 C42,470p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,8, ,~,,,
+9,"Unpolarized capacitor, small symbol",C_Small,C23 C24,680p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2, ,~,,,
+10,"Unpolarized capacitor, small symbol",C_Small,C25 C26 C27 C28,1n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4, ,~,,,
+11,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C3 C4 C15 C16 C17 C18 C19 C20 C21 C22 C29 C30 C31 C32 C33 C34 C35 C36 C43 C44 C45 C46 C47 C48 C49 C50 C57 C58 C59 C60 C61 C62 C63 C64 C71 C72 C73 C74 C77 C78 C79 C80 C89 C90 C91 C92 C97 C98 C99 C100 C101 C102 C103 C104 C105 C106 C107 C108,10n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,60, ,~,,,
+12,"Unpolarized capacitor, small symbol",C_Small,C75 C76 C87 C88 C93 C94 C95 C96,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,8, ,~,,,
+13,"Diode, small symbol",D_Small,D1 D2,SS36,D_SMB,2, ,~,,D,1=K 2=A
+14,"Ferrite bead, small symbol",FerriteBead_Small,FB1 FB2 FB3 FB4 FB5 FB6 FB7 FB8 FB9 FB10 FB11 FB12 FB13 FB14 FB15 FB16 FB17 FB18 FB19 FB20 FB21 FB22 FB23 FB24 FB25 FB26 FB27 FB28 FB29 FB30 FB31 FB32 FB33 FB34 FB35 FB36 FB37 FB38 FB39 FB40 FB41 FB42 FB43 FB44 FB45 FB46 FB47 FB48 FB49 FB50 FB51 FB52 FB53 FB54 FB55 FB56 FB57 FB58 FB59 FB60,Ferrite,L_0805_2012Metric,60, ,~,,,
+15,"Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x05_Odd_Even,J1 J2,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,2, ,~,,,
+16,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J3 J4 J5 J6,Conn_Coaxial,SMA_PINS,4, ,~,,,
+17,"General purpose signal relay, Kemet EC2 Series, DPDT (2 Form C), non-latching, through hole, 60W/125VA, 220VDC/250VAC, 2A, 12V DC coil",EC2-12NU,K1 K2 K3 K4 K5 K6 K7 K8 K9 K10 K11 K12 K13 K14 K15 K16 K17 K18 K19 K20 K21 K22 K23 K24 K25 K26 K27 K28 K29 K30,EC2-12NU,Relay_DPDT_Kemet_EC2,30, ,https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf,,,
+18,"Inductor, small symbol",L_Small,L27 L28,150n,T50_V_THT_1812_merge,2, ,~,,,
+19,"Inductor, small symbol",L_Small,L29 L30,150n,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,2, ,~,,,
+20,"Inductor, small symbol",L_Small,L21 L22 L31 L32,330n,T50_V_THT_1812_merge,4, ,~,,,
+21,"Inductor, small symbol",L_Small,L23 L24 L33 L34,330n,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,4, ,~,,,
+22,"Inductor, small symbol",L_Small,L15 L16 L25,680n,T50_V_THT_1812_merge,3, ,~,,,
+23,"Inductor, small symbol",L_Small,L17 L18 L26,680n,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,3, ,~,,,
+24,"Inductor, small symbol",L_Small,L19,1u,T50_V_THT_1812_merge,1, ,~,,,
+25,"Inductor, small symbol",L_Small,L20,1u,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,1, ,~,,,
+26,"Inductor, small symbol",L_Small,L9 L10 L13,1.8u,T50_V_THT_1812_merge,3, ,~,,,
+27,"Inductor, small symbol",L_Small,L11 L12 L14,1.8u,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,3, ,~,,,
+28,"Inductor, small symbol",L_Small,L7,2.7u,T50_V_THT_1812_merge,1, ,~,,,
+29,"Inductor, small symbol",L_Small,L8,2.7u,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,1, ,~,,,
+30,"Inductor, small symbol",L_Small,L1 L2 L5,10u,T50_V_THT_1812_merge,3, ,~,,,
+31,"Inductor, small symbol",L_Small,L3 L4 L6,10u,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,3, ,~,,,
+32,"-27A Id, -60V Vds, QFET P-Channel MOSFET, TO-220",FQP27P06,Q1 Q2,BSP250 /ZVP2106,SOT-223-3_TabPin2,2, ,https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF,,,
+33,"Resistor, small symbol",R_Small,R2 R5,30R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2, ,~,,,
+34,"Resistor, small symbol",R_Small,R7 R8 R9 R10 R11 R12,62R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,6, ,~,,,
+35,"Resistor, small symbol",R_Small,R1 R3 R4 R6 R15 R16 R17 R18,100R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,8, ,~,,,
+36,"Resistor, small symbol",R_Small,R13 R14,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2, ,~,,,
+37,"50-4000MHz +11dB Low Noise Amplifier, SOT-89",PGA-103,U1 U2,PGA-103,SOT-89-3,2, ,https://www.minicircuits.com/pdfs/PGA-103+.pdf,,,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-58
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,37
+Component Count:,262 (2 SMD/ 0 THT)
+Fitted Components:,262 (2 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,262

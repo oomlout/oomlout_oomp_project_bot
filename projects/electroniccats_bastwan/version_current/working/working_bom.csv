@@ -1,27 +1,43 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"D4";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"CHR";;;
-2;"G***";"electronic_cats_logo_4x3";1;"LOGO";;;
-3;"G***";"rak";1;"LOGO";;;
-4;"G***";"bast_8x8";1;"LOGO";;;
-5;"J4";"JST_S2B-PH-SM4-TB(LF)(SN)";1;"Conn_Battery";;;
-6;"C2";"C_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"47pF";;;
-7;"U3";"DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm";1;"ATECC608A-TNGLORA";;;
-8;"J1";"U254051N4BH806";1;"USB_B_Micro";;;
-9;"U1";"RAK4260-footprint_w_solder_paste";1;"RAK4260";;;
-10;"J5";"PinHeader_1x04_P2.54mm_Vertical";1;"SWD";;;
-11;"D1";"L_0402_1005Metric";1;"PGB1010402KR";;;
-12;"D5";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"D13";;;
-13;"Q1";"SOT-23";1;"DMG3415U-7";;;
-14;"U5";"SOT-23-5";1;"MCP73831-3-OT";;;
-15;"U2";"TSOT-23-5";1;"AP2112K-3.3TRG1";;;
-16;"R11,R10";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";2;"3K3";;;
-17;"R9,R8";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";2;"330";;;
-18;"R6";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"1K";;;
-19;"R4,R3,R2,R1";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";4;"100K";;;
-20;"C5,C4,C3";"C_0603_1608Metric_Pad1.05x0.95mm_HandSolder";3;"10uF";;;
-21;"C1";"C_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"0.1uF";;;
-22;"SW1";"SW_SPST_TL3342";1;"RST";;;
-23;"D2";"D_SOD-123";1;"MBR120";;;
-24;"AE1";"SMA_EDGE";1;"Antenna";;;
-25;"J2";"PinSocket_1x12_P2.54mm_Vertical";1;"Conn_Right";;;
-26;"J3";"PinSocket_1x16_P2.54mm_Vertical";1;"Conn_Left";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,manf#
+1,Antenna with extra pin for shielding,Antenna_Shield,AE1,Antenna,SMA_EDGE,1, ,~,-
+2,"Unpolarized capacitor, small symbol",C_Small,C2,47pF,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~,0603CG470J500NT
+3,"Unpolarized capacitor, small symbol",C_Small,C1,0.1uF,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~,0603YG104ZAT2A
+4,"Unpolarized capacitor, small symbol",C_Small,C3 C4 C5,10uF,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,3, ,~,GRM188R61C106MA73D
+5,Light emitting diode,LED,D4,CHR,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,~,NCD0805G1
+6,Light emitting diode,LED,D5,D13,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,~,BL-HB335A-TRE
+7,"40V 3A Schottky Barrier Rectifier Diode, DO-201AD",MBR340,D2,MBR120,D_SOD-123,1, ,http://www.onsemi.com/pub_link/Collateral/MBR340-D.PDF,MBR120LSF
+8,,D_TVS_ALT-Device,D1,PGB1010402KR,L_0402_1005Metric,1, ,~,PGB1010402KR
+9,"Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x01,J4,Conn_Battery,JST_S2B-PH-SM4-TB(LF)(SN),1, ,~,-
+10,"Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x16,J3,Conn_Left,PinSocket_1x16_P2.54mm_Vertical,1, ,~,-
+11,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x12,J2,Conn_Right,PinSocket_1x12_P2.54mm_Vertical,1, ,~,-
+12,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Male,J5,SWD,PinHeader_1x04_P2.54mm_Vertical,1, ,~,
+13,USB Micro Type B connector,USB_B_Micro,J1,USB_B_Micro,U254051N4BH806,1, ,~,U254-051N-4BH806
+14,,DMG2301L-Transistor_FET,Q1,DMG3415U-7,SOT-23,1, ,https://www.diodes.com/assets/Datasheets/DMG2301L.pdf,DMG3415UQ-7
+15,"Resistor, small symbol",R_Small,R8 R9,330,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2, ,~,RC0603FR-07330RL
+16,"Resistor, small symbol",R_Small,R6,4.7K,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~,RS-03K4701FT
+17,"Resistor, small symbol",R_Small,R10 R11,10K,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2, ,~,RC0603JR-0710KL
+18,"Resistor, small symbol",R_Small,R1 R2,100K,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2, ,~,RC0603FR-07100KL
+19,"Resistor, small symbol",R_Small,R3,1M,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~,RC0603JR-071ML
+20,"Resistor, small symbol",R_Small,R4,1.5M,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~,RC0603JR-071M5L
+21,"Push button switch, generic, two pins",SW_Push,SW1,RST,SW_SPST_TL3342,1, ,~,TS-1187A-C-C-B
+22,,AP2112K-3.3TRG1-electroniccats,U2,AP2112K-3.3TRG1,TSOT-23-5,1, ,SOT-753 Diodes Inc.,AP2112K-3.3TRG1
+23,,ATECC608A-SSHDA-Security,U3,ATECC608A-TNGLORA,DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-CryptoAuthentication-Device-Summary-Data-Sheet-DS40001977B.pdf,ATECC608A-MAHCZ-T
+24,"Single cell, Li-Ion/Li-Po charge management controller, 4.35V, Tri-State Status Output, in SOT23-5 package",MCP73831-3-OT,U5,MCP73831-3-OT,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf,MCP73831T-5ACI/OT
+25,,RAK4260-electroniccats,U1,RAK4260,RAK4260-footprint_w_solder_paste,1, ,,-
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,2.0v
+Date:,2020-09-11
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,25
+Component Count:,30 (26 SMD/ 4 THT)
+Fitted Components:,30 (26 SMD/ 4 THT)
+Number of PCBs:,1
+Total Components:,30

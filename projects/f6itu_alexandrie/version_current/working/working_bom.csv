@@ -1,0 +1,35 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,C,C1 C2 C3 C4 C6 C7 C16 C18 C20,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,9, ,
+2,,CP_Small,C17 C19,10u,CP_Tantalum_Case-C_EIA-6032-28_Hand,2, ,
+3,,D,D9,D,D_SMB_Handsoldering,1, ,
+4,,LED,D1 D3 D4 D5,LED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,4, ,
+5,,CONN_01X02,J5,CONN_01X02,kk100_22-23-2021,1, ,
+6,,CONN_01X03,J11,CONN_01X03,kk100_22-23-2031,1, ,
+7,,CONN_01X06,J4,CONN_01X06,kk100_22-23-2061,1, ,
+8,,CONN_01X13,J6,CONN_01X13,kk100_22-23-2131,1, ,
+9,,Conn_01x07,J7,Conn_01x07,Molex_KK-6410-07_07x2.54mm_Straight,1, ,
+10,,CONN_01X10,J1 J8,kk_10,kk100_22-23-2101,2, ,
+11,,CONN_01X05,J2 J3,kk_5,kk100_22-23-2051,2, ,
+12,,R,R8 R10 R11 R12,1k2,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4, ,
+13,,R,R7,4k7,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,
+14,,R,R1 R2 R3 R4 R5 R6,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,6, ,
+15,,74HCT04,U1 U2,74HCT04,SO-14_3.9x8.65mm_P1.27mm,2, ,
+16,Linear Regulator +5V,7805D-Pack,U12,78M05 Dpak,TO-263-3_TabPin4,1, ,
+17, 8-Bit Shift Register,TPIC6B595,U3 U4 U6 U7,TPIC6B595,SO-20_12.8x7.5mm_P1.27mm,4, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-57
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,17
+Component Count:,43 (34 SMD/ 9 THT)
+Fitted Components:,43 (34 SMD/ 9 THT)
+Number of PCBs:,1
+Total Components:,43

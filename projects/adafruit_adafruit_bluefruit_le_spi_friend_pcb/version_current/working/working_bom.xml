@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="15" Component_Count="17 (0 SMD/ 0 THT)" Fitted_Components="17 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="17" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805_10MGAP" References="C1" Value="1uF" Footprint="0805_10MGAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C3" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805_10MGAP" References="C4" Value="10uF" Footprint="0805_10MGAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="DIODESOD-323" References="D3" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED0805_NOOUTLINE" References="D2" Value="BLUE" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LED0805_NOOUTLINE" References="D1" Value="RED" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="74LVC2G34DBVR" References="IC1" Value="74LVC2G34DBVR" Footprint="SOT23-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="HEADER-1X970MIL" References="JP2" Value="HEADER-1X970MIL" Footprint="1X09_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="MOSFET-NWIDE" References="Q1" Value="BSS138" Footprint="SOT23-WIDE@1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR_0805MP" References="R1 R2" Value="2K" Footprint="_0805MP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RESISTOR0805_NOOUTLINE" References="R3 R4" Value="100K" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR_0805MP" References="R5" Value="100K" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="NRF51822_MODULE_MDBT40" References="U1" Value="32KB NRF51822" Footprint="BLE_MODULE_RAYTAC_MDBT40" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="VREG_SOT23-5" References="U2" Value="MIC5225-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="CRYSTAL2.0X6.0_32.768" References="Y1" Value="32.768kHz (535-9166-2-ND)" Footprint="CRYSTAL_CYL_2X6MM_SMT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

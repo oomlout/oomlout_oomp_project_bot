@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="22" Component_Count="47 (0 SMD/ 0 THT)" Fitted_Components="47 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="47" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-33" encoding="utf-8">
+	<group Row="1" Description="" Part="JST_2PIN-SMT-RA" References="BATT0" Value="3-9VDC" Footprint="JST-PH-2-SMT-RA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="SPST_TACT-KMR2" References="BOOT0" Value="SPST_TACT-KMR2" Footprint="KMR2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="C-USC0805K" References="C2 C3" Value="18pF" Footprint="C0805K" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="C-USC0805K" References="C4 C5 C6 C7 C8 C9" Value="10uF" Footprint="C0805K" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="USBMINIBLARGE" References="CN1" Value="MiniB USB" Footprint="USB-MINIB_LARGER" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="DIODESOD-123" References="D1 D2" Value="SCHOTTKY" Footprint="SOD-123" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="SEWTAP-2.0IN" References="D6 GND3TAP0 GNDTAP0 GNDTAP2 IO9 IO10 IO12 RX0 SCL0 SDA0 TX0 UNK3.3VTAP0 UNK3V3TAP2 VCC2" Value="SEWTAP-2.0IN" Footprint="SEWINGTAP_2.0" Quantity_Per_PCB="14" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="ATMEGA32U4-AU" References="IC1" Value="ATMEGA32U4-AU" Footprint="TQFP44" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="LP298XS" References="IC2" Value="LP298XS" Footprint="SOT23-5L" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="PINHD-2X3" References="JP1" Value="ICSP" Footprint="2X03" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="PTCFUSE-1206" References="L1" Value="500mA" Footprint="R1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="LEDCHIPLED_0805" References="L0" Value="RED" Footprint="CHIPLED_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="DPDT-EG1390" References="ON/OFF0" Value="EG1390" Footprint="EG1390" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="LEDCHIPLED_0805" References="PWR0" Value="GREEN" Footprint="CHIPLED_0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="R-US_R0805" References="R1 R2" Value="22" Footprint="R0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="R-US_R0805" References="R3" Value="470" Footprint="R0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="R-US_R0805" References="R4 R5 R6" Value="1K" Footprint="R0805" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="R-US_R0805" References="R7 R9" Value="10K" Footprint="R0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="R-US_R0805" References="R8" Value="150K" Footprint="R0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="LEDCHIPLED_0805" References="RXLED0 TXLED0" Value="YELLOW" Footprint="CHIPLED_0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="PMOSSOT23" References="T1" Value="IRLML2246" Footprint="SOT-23" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="XTALNX5032" References="X3" Value="8MHz" Footprint="NX5032" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,4 +1,21 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"J2,J3";"PinHeader_1x12_P2.54mm_Vertical";2;"Conn_01x12";;;
-2;"J5,J4";"PinHeader_2x10_P2.54mm_Vertical";2;"Conn_02x10_Odd_Even";;;
-3;"J1,J6";"PinHeader_1x20_P2.54mm_Vertical";2;"Conn_01x20";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x12,J2 J5,Conn_01x12,PinHeader_1x12_P2.54mm_Vertical,2, ,~
+2,"Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x20,J4 J6,Conn_01x20,PinHeader_1x20_P2.54mm_Vertical,2, ,~
+3,"Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x10_Odd_Even,J1 J3,Conn_02x10_Odd_Even,PinHeader_2x10_P2.54mm_Vertical,2, ,~
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-44
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,3
+Component Count:,6 (0 SMD/ 6 THT)
+Fitted Components:,6 (0 SMD/ 6 THT)
+Number of PCBs:,1
+Total Components:,6

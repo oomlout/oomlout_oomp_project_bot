@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="19" Component_Count="36 (20 SMD/ 16 THT)" Fitted_Components="36 (20 SMD/ 16 THT)" Number_of_PCBs="1" Total_Components="36" Schematic_Source="working" Schematic_Revision="1.0" Schematic_Date="2023-01-27" encoding="utf-8">
+	<group Row="1" Description="" Part="C" References="C13 C14 C15 C16" Value="220pF" Footprint="C0402F" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="C" References="C4 C5 C7 C8 C10 C12 C17" Value="100n" Footprint="C0603F" Quantity_Per_PCB="7" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="C" References="C2 C3" Value="10µ" Footprint="C0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="C" References="C6" Value="4,7µ" Footprint="C0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="C" References="C11" Value="10µF/10V" Footprint="C0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="C" References="C9" Value="4,7µF/10V" Footprint="C0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="CP1" References="C1" Value="470µF/16V" Footprint="ELKO_83" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="TVS" References="D1" Value="Z3.3V" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="LED" References="D2" Value="blue" Footprint="D0603E" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="Connector 01x02" Part="CONN_01X02" References="P3" Value="BOOT" Footprint="SolderJumper" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="CON-SENSOR2" References="P1 P2" Value="CON-SENSOR2" Footprint="CON-SENSOR2" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="Connector 01x01" Part="CONN_01X01" References="P4" Value="Debug" Footprint="DEBUG_PAD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="R" References="R1 R2 R3" Value="1k" Footprint="R0603F" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="14" Description="4 resistors Pack" Part="R_PACK4" References="RP1 RP2" Value="82" Footprint="4X0402" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="DCDC-CRE1" References="U1" Value="DCDC-CRE1" Footprint="SIP4" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="DRILL" References="U4 U5 U6 U7" Value="DRILL" Footprint="DRILL_NP" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="LD1117" References="U3" Value="LD1117" Footprint="SOT-223" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="MAX14850" References="U2" Value="MAX14850" Footprint="SOIC16" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="XMC1XXX24" References="U8" Value="XMC1100" Footprint="QFN24-4x4mm-0.5mm" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

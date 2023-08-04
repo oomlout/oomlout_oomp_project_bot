@@ -1,5 +1,22 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"J1,J2";"PinHeader_1x08_P2.54mm_Vertical_without_lines";2;"Conn_01x08";;;
-2;"U1";"TSSOP-20_4.4x6.5mm_P0.65mm";1;"AD5254";;;
-3;"R1,R2";"R_0402_1005Metric";2;"10k";;;
-4;"C1";"C_0402_1005Metric";1;"0.1uf";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,Unpolarized capacitor,C,C1,0.1uf,C_0402_1005Metric,1, ,~
+2,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,J1 J2,Conn_01x08,PinHeader_1x08_P2.54mm_Vertical_without_lines,2, ,~
+3,Resistor,R,R1 R2,10k,R_0402_1005Metric,2, ,~
+4,,AD5254-Potentiometer_Digital,U1,AD5254,TSSOP-20_4.4x6.5mm_P0.65mm,1, ,https://www.analog.com/media/en/technical-documentation/data-sheets/AD5253_5254.pdf
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-41
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,4
+Component Count:,6 (4 SMD/ 2 THT)
+Fitted Components:,6 (4 SMD/ 2 THT)
+Number of PCBs:,1
+Total Components:,6

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="24" Component_Count="32 (0 SMD/ 0 THT)" Fitted_Components="32 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="32" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-33" encoding="utf-8">
+	<group Row="1" Description="" Part="HEADER-1X1ROUND" References="ANT0" Value="HEADER-1X1ROUND" Footprint="1X01_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0603_NO" References="C7 C14" Value="1uF" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC_0603MP" References="C9" Value="1uF" Footprint="_0603MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C3 C6 C8" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED0805_NOOUTLINE" References="CHG0" Value="ORANGE" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="DIODE-SCHOTTKYSOD-123" References="D4" Value="MBR120" Footprint="SOD-123" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="ATMEGA32U4-MU" References="IC1" Value="ATMEGA32U4-MU" Footprint="TQFN44_7MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="HEADER-1X12" References="JP3" Value="HEADER-1X12" Footprint="1X12_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="HEADER-1X16ROUND" References="JP1" Value="HEADER-1X16ROUND" Footprint="1X16_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="HEADER-1X2ROUND" References="JP4" Value="HEADER-1X2ROUND" Footprint="1X02_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="LED0805_NOOUTLINE" References="L0" Value="RED" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR_0603_NOOUT" References="R4 R5" Value="22" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="RESISTOR_0603_NOOUT" References="R2" Value="1K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="RESISTOR_0603_NOOUT" References="R7" Value="2.2K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R3 R6 R9" Value="100k" Footprint="0603-NO" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="RESISTOR_0603_NOOUT" References="R8" Value="10K\" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="SPST_TACT-KMR2" References="SW1" Value="SPST_TACT-KMR2" Footprint="KMR2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="VREG_SOT23-5" References="U2" Value="AP2112-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="MCP73831/2" References="U3" Value="MCP73831T-2ACI/OT" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="RFM69HCW_SMT" References="U4" Value="RFM69HCW_SMT" Footprint="RFMHCW_SMT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="CON_JST_PH_2PIN" References="X1" Value="JSTPH" Footprint="JSTPH2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="USB_MICRO_20329_V2" References="X3" Value="microUSB" Footprint="4UCONN_20329_V2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="ANTENNA_U.FL" References="X2" Value="uFL" Footprint="U.FL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="RESONATORSMD" References="Y1" Value="RESONATORSMD" Footprint="RESONATOR-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,18 +1,32 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"R6";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"20K";;;
-2;"R4,R3,R5";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";3;"150";;;
-3;"ON,TX";"LED_0805_2012Metric";2;"LED";;;
-4;"R7,R8";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"1K";;;
-5;"R1,R2";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"5.1K";;;
-6;"C5,C4";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"1uF";;;
-7;"P1";"C393939";1;"USB_C_Plug_USB2.0";;;
-8;"G***";"electronic_cats_logo_4x3";1;"LOGO";;;
-9;"C1,C2,C3";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";3;"0.1uF";;;
-10;"U1";"SOP-16_4.55x10.3mm_P1.27mm";1;"CH552G";;;
-11;"RST";"TS1088R02026";1;"RST";;;
-12;"BOOT";"TS1088R02026";1;"BOOT";;;
-13;"R11,R10,R9";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";3;"70";;;
-14;"U2";"SOT-23-5";1;"AP2112K-3.3";;;
-15;"J1";"PinHeader_1x05_P2.54mm_Horizontal";1;"DEBUG_OUTPUT";;;
-16;"G***";"electronic_cats_logo_8x6";1;"LOGO";;;
-17;"G***";"abierto";1;"LOGO";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,manf#
+1,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C3,0.1uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,3, ,https://datasheet.lcsc.com/szlcsc/1810101813_YAGEO-CC0805KRX7R9BB104_C49678.pdf,C49678
+2,"Unpolarized capacitor, small symbol",C_Small,C4 C5,1uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2, ,https://datasheet.lcsc.com/szlcsc/1810191216_Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.pdf,C28323
+3,Light emitting diode,LED,D1 D2,LED,LED_0805_2012Metric,2, ,https://datasheet.lcsc.com/szlcsc/1808272351_Everlight-Elec-17-21SURC-S530-A2-TR8_C131244.pdf,C131244
+4,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05,J1,DEBUG_OUTPUT,PinHeader_1x05_P2.54mm_Horizontal,1, ,~,-
+5,,USB_C_Plug_USB2.0-Connector,P1,USB_C_Plug_USB2.0,C393939,1, ,https://datasheet.lcsc.com/szlcsc/1912111437_SHOU-HAN-TYPE-C16PIN_C393939.pdf,C393939
+6,"Resistor, small symbol",R_Small,R9 R10 R11,70,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,3, ,~,C429431
+7,"Resistor, small symbol",R_Small,R3 R4 R5,150,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,3, ,https://datasheet.lcsc.com/szlcsc/1811081415_RALEC-RTT051500FTP_C103997.pdf,C103997
+8,"Resistor, small symbol",R_Small,R7 R8,1K,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2, ,https://datasheet.lcsc.com/szlcsc/1809140835_UNI-ROYAL-Uniroyal-Elec-0805W8J0102T5E_C25623.pdf,C25623
+9,"Resistor, small symbol",R_Small,R1 R2,5.1K,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2, ,https://datasheet.lcsc.com/szlcsc/1810311431_YAGEO-RC0805JR-075K1L_C105874.pdf,C105874
+10,"Resistor, small symbol",R_Small,R6,20K,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,https://datasheet.lcsc.com/szlcsc/2007131613_HKR-Hong-Kong-Resistors-RCT0520KFLF_C702832.pdf,C702832
+11,"Push button switch, generic, two pins",SW_Push,SW2,BOOT,TS1088R02026,1, ,https://datasheet.lcsc.com/szlcsc/1912111437_XUNPU-TS-1088R-02526_C455281.pdf,C455281
+12,"Push button switch, generic, two pins",SW_Push,SW1,RST,TS1088R02026,1, ,https://datasheet.lcsc.com/szlcsc/1912111437_XUNPU-TS-1088R-02526_C455281.pdf,C455281
+13,,AP2112K-3.3-Regulator_Linear,U2,AP2112K-3.3,SOT-23-5,1, ,https://www.mouser.mx/datasheet/2/115/AP2112-271550.pdf,621-AP2112K-3.3TRG1
+14,,CH552G-Electronic_Cats-SWD_Cat_Programmer-rescue-SWD_Cat_Programmer-rescue-SWD_Cat_Programmer-rescue-SWD_Cat_Programmer-rescue,U1,CH552G,SOP-16_4.55x10.3mm_P1.27mm,1, ,https://datasheet.lcsc.com/szlcsc/2008191734_WCH-Jiangsu-Qin-Heng-CH552G_C111292.pdf,C111292
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,1.1
+Date:,2020-09-01
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,14
+Component Count:,24 (18 SMD/ 2 THT)
+Fitted Components:,24 (18 SMD/ 2 THT)
+Number of PCBs:,1
+Total Components:,24
