@@ -1,21 +1,37 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"G***,G***";"electronic_cats_logo_4x3";2;"LOGO";;;
-2;"U1";"QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm";1;"CYPD3177-24LQXI";;;
-3;"R18,R13,R6,R2";"R_0603_1608Metric";4;"1K";;;
-4;"D3";"LED_0603_1608Metric";1;"Power";;;
-5;"SW2";"K3-1410S-E1";1;"Current";;;
-6;"SW1";"K3-1410S-E1";1;"Voltage";;;
-7;"R17,R16,R15,R14,R11";"R_0603_1608Metric";5;"10K";;;
-8;"R12";"R_0603_1608Metric";1;"50K";;;
-9;"R10,R9,R8,R7,R4";"R_0603_1608Metric";5;"5.1K";;;
-10;"R5,R1";"R_0603_1608Metric";2;"2.4K";;;
-11;"R3";"R_0603_1608Metric";1;"0R";;;
-12;"Q2,Q1";"SOT-23-6";2;"SI3421DV";;;
-13;"P1";"C393939";1;"USB_C_Plug_USB2.0";;;
-14;"J1";"TerminalBlock_bornier-2_P5.08mm";1;"Vout";;;
-15;"D2";"LED_0603_1608Metric";1;"Fault";;;
-16;"D1";"D_SOD-123F";1;"NZH10C";;;
-17;"C10,C1";"C_1206_3216Metric";2;"3.3uF";;;
-18;"C9,C8";"C_0603_1608Metric";2;"0.1uF";;;
-19;"C7,C6,C5,C4";"C_0603_1608Metric";4;"1uF";;;
-20;"C3,C2";"C_0603_1608Metric";2;"390pF";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,manf#,lcsc
+1,"Unpolarized capacitor, small symbol",C_Small,C2 C3,390pF,C_0603_1608Metric,2, ,~,,C376830
+2,"Unpolarized capacitor, small symbol",C_Small,C8 C9,0.1uF,C_0603_1608Metric,2, ,~,,C149620
+3,"Unpolarized capacitor, small symbol",C_Small,C4 C5 C6 C7,1uF,C_0603_1608Metric,4, ,~,,C26413
+4,"Unpolarized capacitor, small symbol",C_Small,C1 C10,3.3uF,C_1206_3216Metric,2, ,~,,C76663
+5,Light emitting diode,LED,D2,Fault,LED_0603_1608Metric,1, ,~,,C84268
+6,Zener diode,D_Zener,D1,NZH10C,D_SOD-123F,1, ,~,"NZH10C,115",C551630
+7,Light emitting diode,LED,D3,Power,LED_0603_1608Metric,1, ,~,,C118330
+8,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J1,Vout,TerminalBlock_bornier-2_P5.08mm,1, ,~,,
+9,,USB_C_Plug_USB2.0-Connector,P1,USB_C_Plug_USB2.0,C393939,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,C393939
+10,"P-MOSFET transistor, gate/source/drain",SI3421DV,Q1 Q2,SI3421DV,SOT-23-6,2, ,https://www.mouser.mx/datasheet/2/427/si3421dv-1764435.pdf,SI3421DV-T1-GE3,C144884
+11,"Resistor, small symbol",R_Small,R3,0R,R_0603_1608Metric,1, ,~,ERJ-3GEY0R00V,
+12,"Resistor, small symbol",R_Small,R2 R6 R13 R18,1K,R_0603_1608Metric,4, ,~,,C115325
+13,"Resistor, small symbol",R_Small,R1 R5,2.4K,R_0603_1608Metric,2, ,~,,C98728
+14,"Resistor, small symbol",R_Small,R4 R7 R8 R9 R10,5.1K,R_0603_1608Metric,5, ,~,,C131715
+15,"Resistor, small symbol",R_Small,R11 R14 R15 R16 R17,10K,R_0603_1608Metric,5, ,~,,C99198
+16,"Resistor, small symbol",R_Small,R12,50K,R_0603_1608Metric,1, ,~,,C304067
+17,"Switch, three position, single pole triple throw, 3 position switch, SP3T",SW_SP4T,SW2,Current,K3-1410S-E1,1, ,~,K3-1410S-E1,C145846
+18,"Switch, three position, single pole triple throw, 3 position switch, SP3T",SW_SP4T,SW1,Voltage,K3-1410S-E1,1, ,~,K3-1410S-E1,C145846
+19,f,CYPD3177-24LQXI,U1,CYPD3177-24LQXI,QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm,1, ,https://www.cypress.com/file/460416/download,CYPD3177-24LQXQ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,v1.0
+Date:,2020-10-24
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,19
+Component Count:,38 (34 SMD/ 4 THT)
+Fitted Components:,38 (34 SMD/ 4 THT)
+Number of PCBs:,1
+Total Components:,38

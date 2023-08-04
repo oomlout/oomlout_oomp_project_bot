@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="26" Component_Count="44 (30 SMD/ 14 THT)" Fitted_Components="44 (30 SMD/ 14 THT)" Number_of_PCBs="1" Total_Components="44" Schematic_Source="working" Schematic_Revision="2.0" Schematic_Date="2023-01-25" encoding="utf-8">
+	<group Row="1" Description="" Part="C" References="C8 C9" Value="10pF" Footprint="C0603F" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="C" References="C7" Value="220pF" Footprint="C0402F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="Cs" References="C10 C11" Value="100nF" Footprint="C0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="C" References="C3 C4 C5" Value="100nF" Footprint="C0603F" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="C" References="C6" Value="220nF" Footprint="C0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="C" References="C2" Value="1uF" Footprint="C0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="C" References="C1" Value="10uF" Footprint="C0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="Cs" References="C12" Value="10uF" Footprint="C0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="Diode zener" Part="ZENER" References="D1" Value="Z12V" Footprint="SOD-123" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="LED" References="D3" Value="blue" Footprint="D0603E" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="Connector 01x02" Part="CONN_01X02" References="P2" Value="BOOT" Footprint="SolderJumper" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="CON-SENSOR2" References="P1" Value="CON-SENSOR2" Footprint="CON-SENSOR2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="Connector 01x01" Part="CONN_01X01" References="P3" Value="DEBUG" Footprint="DEBUG_PAD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="Connector 01x02" Part="CONN_01X02" References="P4" Value="black" Footprint="OQ_2P" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="Transistor P-MOSFET, collector connected to mounting plane (general)" Part="MOSFET_N_CH" References="Q1" Value="FDS8449" Footprint="SOIC-8-MOSFET" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="Rs" References="R4 R5 R6 R7 R8 R9 R10 R11 R12 R13" Value="0R1" Footprint="R0805E" Quantity_Per_PCB="10" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="R" References="R1" Value="1k" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="Rs" References="R3" Value="1k" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="Rs" References="R2" Value="10k" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="Rs" References="R16" Value="100k" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="4 resistors Pack" Part="R_PACK4" References="RP1" Value="82" Footprint="4X0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="74LVC245" References="U6 U7" Value="74HC245" Footprint="TSSOP20" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="Con_Servo_5x" References="U8 U9" Value="Con_Servo_5x" Footprint="pin_array_5x3" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="DRILL" References="U2 U3 U4 U5" Value="DRILL" Footprint="DRILL_NP" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="XMC1XXX48" References="U1" Value="XMC1404" Footprint="QFN48-EP2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="CRYSTAL_3225" References="X1" Value="16MHz" Footprint="CRYSTAL_3225" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

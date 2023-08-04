@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="3" Component_Count="4 (1 SMD/ 3 THT)" Fitted_Components="4 (1 SMD/ 3 THT)" Number_of_PCBs="1" Total_Components="4" Schematic_Source="working" Schematic_Revision="0.3" Schematic_Date="2019-10-15" encoding="utf-8">
+	<group Row="1" Description="Single-cell battery" Part="Battery_Cell" References="BT1" Value="Battery_Cell" Footprint="BAT-HLD-001" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC_num="" manf_num="BAT-HLD-001"/>
+	<group Row="2" Description="Light emitting diode" Part="LED" References="D1 D2" Value="LED" Footprint="LED_D5.0mm_Clear" Quantity_Per_PCB="2" Status=" " Datasheet="https://articulo.mercadolibre.com.mx/MLM-849097961-100-led-rgb-camaleon-5mm-parpadeo-rapido-_JM#position=5&amp;search_layout=stack&amp;type=item&amp;tracking_id=6f6aec30-ba55-4563-a3d2-df7b4841300a" LCSC_num="" manf_num="Generic LED"/>
+	<group Row="3" Description="Switch, dual pole double throw, separate symbols" Part="SW_DPDT_x2" References="SW1" Value="On" Footprint="JS102011SAQN" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC_num="" manf_num="JS102011SAQN"/>
+</KiCad_BOM>

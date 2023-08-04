@@ -1,0 +1,31 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,C,C102,220pF,C0402F,1, ,
+2,,C,C1 C2 C3 C104 C105,100nF,C0603F,5, ,
+3,,C,C103,1uF,C0603F,1, ,
+4,,C,C101,10uF,C0805,1, ,
+5,,LED,D101,blue,D0603E,1, ,
+6,Connector 01x02,CONN_01X02,P103,BOOT,SolderJumper,1, ,
+7,,CON-SENSOR2,P101,CON-SENSOR2,CON-SENSOR2,1, ,
+8,Connector 01x01,CONN_01X01,P102,DEBUG,DEBUG_PAD,1, ,
+9,,R,R101,1k,R0603F,1, ,
+10,4 resistors Pack,R_PACK4,RP101,82,4X0402,1, ,
+11,,BME680,U1,BME680,BME680,1, ,
+12,,DRILL,U103 U104 U105 U106,DRILL,DRILL_NP,4, ,
+13,,XMC1XXX48,U2,XMC1404,QFN48-EP2,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,1.0
+Date:,2018-01-08
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,13
+Component Count:,20 (10 SMD/ 10 THT)
+Fitted Components:,20 (10 SMD/ 10 THT)
+Number of PCBs:,1
+Total Components:,20

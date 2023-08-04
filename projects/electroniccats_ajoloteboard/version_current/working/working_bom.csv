@@ -1,8 +1,21 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"svg2mod";"svg2mod";1;"ajolote";;;
-2;"PIN";"Tacks_tachuelas";1;"Tacks_tachuelas";;;
-3;"G***";"electronic_cats_logo_8x6";1;"LOGO";;;
-4;"BT1";"BAT-HLD-001";1;"Battery_Cell";;;
-5;"D1,D2";"LED_D5.0mm_Clear";2;"LED";;;
-6;"svg2mod";"heart";1;"G***";;;
-7;"SW1";"JS102011SAQN";1;"On";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC#,manf#
+1,Single-cell battery,Battery_Cell,BT1,Battery_Cell,BAT-HLD-001,1, ,,,BAT-HLD-001
+2,Light emitting diode,LED,D1 D2,LED,LED_D5.0mm_Clear,2, ,https://articulo.mercadolibre.com.mx/MLM-849097961-100-led-rgb-camaleon-5mm-parpadeo-rapido-_JM#position=5&search_layout=stack&type=item&tracking_id=6f6aec30-ba55-4563-a3d2-df7b4841300a,,Generic LED
+3,"Switch, dual pole double throw, separate symbols",SW_DPDT_x2,SW1,On,JS102011SAQN,1, ,~,,JS102011SAQN
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,0.3
+Date:,2019-10-15
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,3
+Component Count:,4 (1 SMD/ 3 THT)
+Fitted Components:,4 (1 SMD/ 3 THT)
+Number of PCBs:,1
+Total Components:,4

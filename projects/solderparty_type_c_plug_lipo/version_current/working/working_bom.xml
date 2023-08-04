@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="10" Component_Count="12 (11 SMD/ 1 THT)" Fitted_Components="12 (11 SMD/ 1 THT)" Number_of_PCBs="1" Total_Components="12" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-59" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor, small symbol" Part="C_Small" References="C1 C2" Value="10uF" Footprint="C_0603_1608Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="2" Description="Light emitting diode, small symbol" Part="LED_Small" References="D1" Value="LED_CHR" Footprint="LED_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="3" Description="Light emitting diode, small symbol" Part="LED_Small" References="D2" Value="LED_DONE" Footprint="LED_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="4" Description="Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_02x01" References="J1" Value="Conn_Battery" Footprint="JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C47647"/>
+	<group Row="5" Description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x04" References="J4" Value="Conn_Pwr" Footprint="PinHeader_1x04_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="6" Description="USB 2.0-only Type-C Plug connector" Part="USB_C_Plug_USB2.0" References="J2" Value="USB_C_Plug_USB2.0" Footprint="USB_C_Plug_UTC009-C12" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.usb.org/sites/default/files/documents/usb_type-c.zip" LCSC=""/>
+	<group Row="7" Description="Resistor, small symbol" Part="R_Small" References="R3 R4" Value="1K" Footprint="R_0603_1608Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="8" Description="Resistor, small symbol" Part="R_Small" References="R2" Value="2K" Footprint="R_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="9" Description="Resistor, small symbol" Part="R_Small" References="R1" Value="5.1K" Footprint="R_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="10" Description="" Part="ME4055-N" References="U1" Value="ME4055-N" Footprint="SOT-23-6" Quantity_Per_PCB="1" Status=" " Datasheet="https://datasheet.lcsc.com/lcsc/2207251602_MICRONE-Nanjing-Micro-One-Elec-ME4055AM6G-N_C82121.pdf" LCSC="C82121"/>
+</KiCad_BOM>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="14" Component_Count="16 (14 SMD/ 2 THT)" Fitted_Components="16 (14 SMD/ 2 THT)" Number_of_PCBs="1" Total_Components="16" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-58" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor, small symbol" Part="C_Small" References="C3" Value="3.9n" Footprint="C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="2" Description="Unpolarized capacitor, small symbol" Part="C_Small" References="C4" Value="100n" Footprint="C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="3" Description="Unpolarized capacitor, small symbol" Part="C_Small" References="C5" Value="100n" Footprint="C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="4" Description="Unpolarized capacitor, small symbol" Part="C_Small" References="C1 C6" Value="10u" Footprint="C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="5" Description="Unpolarized capacitor, small symbol" Part="C_Small" References="C2" Value="22u 12V" Footprint="C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="6" Description="Diode, small symbol" Part="D_Small" References="D1" Value="4148" Footprint="D_MELF" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="7" Description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x02_Male" References="J1 J2" Value="Power In 19-25V" Footprint="Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="8" Description="Inductor symbol for simulation only" Part="INDUCTOR" References="L1" Value="10u/4A" Footprint="L_Bourns_SRR1260" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="9" Description="Resistor, small symbol" Part="R_Small" References="R5" Value="0R" Footprint="R_2010_5025Metric_Pad1.40x2.65mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="10" Description="Resistor, small symbol" Part="R_Small" References="R3" Value="6.8k" Footprint="R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="11" Description="Resistor, small symbol" Part="R_Small" References="R2" Value="10k 1%" Footprint="R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="12" Description="Resistor, small symbol" Part="R_Small" References="R4" Value="100k" Footprint="R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="13" Description="Resistor, small symbol" Part="R_Small" References="R1" Value="Val" Footprint="R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="14" Description="Synchronous Rectified 3A, 28V, 360kHz Step-Down Converter, DIP-8" Part="MP2303ADP" References="U1" Value="MP2307" Footprint="SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.monolithicpower.com/pub/media/document/MP2303A_r1.1.pdf"/>
+</KiCad_BOM>

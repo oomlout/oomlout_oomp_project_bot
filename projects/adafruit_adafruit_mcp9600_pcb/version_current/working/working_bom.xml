@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="9" Component_Count="13 (0 SMD/ 0 THT)" Fitted_Components="13 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="13" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0603_NO" References="C1" Value="0.1uF" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="FERRITE-0805NO" References="FB1 FB2" Value="Ferrite" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="HEADER-1X970MIL" References="JP3" Value="HEADER-1X970MIL" Footprint="1X09_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="RESISTOR_0603_NOOUT" References="R5 R6" Value="100" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R2 R3" Value="10K" Footprint="0603-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="RESISTOR_0603_NOOUT" References="R4" Value="22K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RESISTOR_0603_NOOUT" References="R7" Value="47K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="MCP9600" References="U1" Value="MCP9600" Footprint="VQFN20_5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="TERMBLOCK_1X2_3.5MM" References="X1" Value="TERMBLK" Footprint="TERMBLOCK_1X2-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
