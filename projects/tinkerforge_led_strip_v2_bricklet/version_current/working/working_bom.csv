@@ -1,0 +1,38 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,C,C1,220pF,C0402F,1, ,
+2,,C,C3 C4 C5 C8 C9,100nF,C0603F,5, ,
+3,,C,C2,10uF,C0805E,1, ,
+4,,TVS,D1 D2,ESD5V0D3B-TP,SOD-323,2, ,
+5,,LED,D3,blue,D0603F,1, ,
+6,,AKL_5_2,J1 J2 J3,AKL_5_2,AKL_5_2,3, ,~
+7,,INDUCTOR,L1,0,R0603F,1, ,
+8,,INDUCTOR,L2,FB,R0603F,1, ,
+9,Connector 01x02,CONN_01X02,P8,Boot,SolderJumper,1, ,
+10,,CON-SENSOR2,P1,CON-SENSOR,CON-SENSOR2,1, ,
+11,Connector 01x01,CONN_01X01,P9,Debug,DEBUG_PAD,1, ,
+12,Connector 01x01,CONN_01X01,P2 P3 P4 P5 P6 P7,TST,SOLDER_PAD2,6, ,
+13,,R,R6 R7,100,R0603F,2, ,
+14,,R,R4 R5,470,R0603F,2, ,
+15,,R,R1 R3,1k,R0603F,2, ,
+16,,R,R2,10k,R0603F,1, ,
+17,4 resistors Pack,R_PACK4,RP1,82,4X0402,1, ,
+18,buffer with Schmitt trigger.,74LVC1G17,U6 U7,74LVC1G17,SOT23-5,2, ,
+19,,DRILL,U2 U3 U4 U5,DRILL,DRILL_NP,4, ,
+20,,XMC1XXX24,U1,XMC1302,QFN24-4x4mm-0.5mm,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,2.2
+Date:,2023-01-25
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,21
+Component Count:,41 (22 SMD/ 19 THT)
+Fitted Components:,39 (20 SMD/ 19 THT)
+Number of PCBs:,1
+Total Components:,39

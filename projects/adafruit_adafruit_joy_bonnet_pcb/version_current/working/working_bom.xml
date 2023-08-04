@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="5" Component_Count="11 (0 SMD/ 0 THT)" Fitted_Components="11 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="11" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="JOYSTICK_ANALOG_XY" References="JOY1" Value="JOYSTICK_ANALOG_XY" Footprint="JOYSTICK_ANALOG_MINITHM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="RASPBERRYPI_BPLUS_BONNETSMT" References="RPI1" Value="RASPBERRYPI_BPLUS_BONNETSMT" Footprint="PI_BONNET_SMT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="SWITCH_TACT_SMT_EVQQ2_SMALL" References="SW1 SW2 SW3 SW4 SW5 SW8" Value="EVQQ" Footprint="EVQ-Q2_SMALLER" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="ADC_ADS1015" References="U1" Value="ADS1015" Footprint="MSOP10" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="SWITCH_TACT_SMT4.6X2.8" References="UNK1 UNK2" Value="KMR2" Footprint="BTN_KMR2_4.6X2.8" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+</KiCad_BOM>

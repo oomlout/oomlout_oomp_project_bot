@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="42" Component_Count="61 (0 SMD/ 0 THT)" Fitted_Components="61 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="61" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="HEADER-1X6OVALWAVE" References="AD0" Value="20609" Footprint="1X06_OVALWAVE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0603_NO" References="C5 C7" Value="22pF" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0603_NO" References="C4 C6 C8 C10 C11 C12 C13 C14 C15 C16 C17" Value=".1u" Footprint="0603-NO" Quantity_Per_PCB="11" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="CAP_CERAMIC0603_NO" References="C9" Value="1uF" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C3 C18 C19 C20" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="DIODE-SCHOTTKYSOD-123" References="D1" Value="MBR120" Footprint="SOD-123" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="ATECC108" References="ECC1" Value="ATECC108" Footprint="SOIC8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="PTCFUSE-1206" References="F2" Value="FUSE" Footprint="R1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="FERRITE-0805NO" References="FB2" Value="FERRITE" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="741G125DBV" References="IC3" Value="741G125DBV" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="74AHC1G125" References="IC1" Value="74AHC1G125" Footprint="SOT23-5L" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="HEADER-2X3" References="ICSP0" Value="3x2 M" Footprint="2X03_ROUND_70MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="HEADER-1X10OVALWAVE" References="IOH0" Value="20611" Footprint="1X10_OVALWAVE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="HEADER-1X8OVALWAVE" References="IOL0 POWER0" Value="20610" Footprint="1X08_OVALWAVE" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="HEADER-1X1ROUND" References="JP1" Value="HEADER-1X1ROUND" Footprint="1X01_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="INDUCTOR" References="L1" Value="10uH" Footprint="INDUCTOR_1007" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="LED0805_NOOUTLINE" References="L0" Value="RED" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="WS2812B3535" References="LED1" Value="WS2812B3535" Footprint="LED3535" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="LED0805_NOOUTLINE" References="ON0" Value="GREEN" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="CAP_ELECTROLYTICPANASONIC_D" References="PC2" Value="47uF+/6.3V+" Footprint="PANASONIC_D" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="CAP_ELECTROLYTICPANASONIC_D" References="PC1" Value="47uF/25V" Footprint="PANASONIC_D" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="RESISTOR_0603_NOOUT" References="R11" Value="330R" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="RESISTOR_4PACK" References="R2" Value="1K" Footprint="RESPACK_4X0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="RESISTOR_0603_NOOUT" References="R4" Value="1K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="RESISTOR_4PACK" References="R10" Value="10K" Footprint="RESPACK_4X0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="RESISTOR_0603_NOOUT" References="R5 R7 R15" Value="10K" Footprint="0603-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="RESISTOR_4PACK" References="R1" Value="100K" Footprint="RESPACK_4X0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="SWITCH_TACT_SMT_EVQQ2_SMALL" References="RESET0" Value="EVQQ 6mm" Footprint="EVQ-Q2_SMALLER" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="LED0805_NOOUTLINE" References="RXLED0 TXLED0" Value="YELLOW" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="31" Description="" Part="SWITCH_SPDT" References="SW1" Value="SWITCH_SPDT" Footprint="SPDT_SMT_SSSS811101" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="32" Description="" Part="PMOSSOT23" References="T2" Value="DMP3098L-7" Footprint="SOT-23" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="33" Description="" Part="0297_PMV48XP" References="TR1" Value="DMP3098L-7" Footprint="SOT-23" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="34" Description="" Part="SPIFLASH_8PIN208MIL" References="U3" Value="GD25Q16" Footprint="SOIC8_208MIL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="35" Description="" Part="LP2985-XXDBVR" References="U2" Value="LP2985-XXDBVR" Footprint="SOT23-DBV" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="36" Description="" Part="LM1117SOT223-REFLOW" References="U1" Value="NCP1117ST50T3G" Footprint="SOT223-R" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="37" Description="" Part="ATSAMD51J" References="U$1" Value="ATSAMD51J" Footprint="PQFN64-1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="38" Description="" Part="DCBARRELPTH" References="X5" Value="2.1mm" Footprint="DCJACK_2MM_PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="39" Description="" Part="JTAG-CORTEXBOXPOSTS" References="X2" Value="2x5 0.05&quot; SWD" Footprint="2X05_1.27MM_BOX_POSTS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="40" Description="" Part="XTAL-3.2X1.5" References="X4" Value="32.768" Footprint="XTAL3215" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="41" Description="" Part="ESP32_WROOM32" References="X6" Value="ESP32_WROOM32" Footprint="WROOM32" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="42" Description="" Part="USB_W_SHIELD_V2" References="X3" Value="USB_W_SHIELD_V2" Footprint="4UCONN_20329_V2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

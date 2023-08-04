@@ -1,52 +1,60 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"R7";"R_0603_1608Metric";1;"22K";;;
-2;"C20,C14,C11,C12,C7,C15,C17,C19,C18,C16";"C_0402_1005Metric";10;"0.1uF";;;
-3;"Q4";"TO-252-3_TabPin2";1;"RGT16BM65DTL";;;
-4;"SW4";"SW_SPST_TL3342";1;"RESET";;;
-5;"R5,R6,R16,R14,R13";"R_0603_1608Metric";5;"1K";;;
-6;"REF**";"BatteryHolder";1;"BatteryHolder";;;
-7;",";"";2;"";;;
-8;"R20,R19";"R_0603_1608Metric";2;"27";;;
-9;"U1";"SOT-23-5";1;"AP2112K-3.3";;;
-10;"R8";"R_0805_2012Metric";1;"2K";;;
-11;"C1,C3";"C_0805_2012Metric";2;"4.7uF";;;
-12;"U3";"RP2040-QFN-56";1;"RP2040";;;
-13;"R4,R2";"R_0603_1608Metric";2;"5.1K";;;
-14;"SW6,SW3,SW1";"TL3305AF160QG";3;"TL3305AF260QG";;;
-15;"Y1";"Crystal_SMD_5032-2Pin_5.0x3.2mm";1;"12Mhz";;;
-16;"SW2";"OS102011MA1QN1";1;"ON";;;
-17;"R11";"RESC6432X120N";1;"300K";;;
-18;"J3";"PinHeader_1x07_P2.54mm_Vertical";1;"Header7";;;
-19;"T1,T2";"ATB3225240110T000";2;"ATB322524";;;
-20;"F1";"Fuse_0805_2012Metric";1;"0.5A";;;
-21;"Q1,Q2";"SOT-23";2;"AO3422";;;
-22;"D10,D3,D2,D1";"D_SOD-123F";4;"SM4005PL-TP";;;
-23;"R3";"R_0805_2012Metric";1;"75R";;;
-24;"G***";"calderon_7.5x7.5";1;"LOGO";;;
-25;"J4";"PinHeader_1x02_P2.54mm_Vertical";1;"Header 2";;;
-26;"D5";"D_SOD-323F";1;"MM3Zxx";;;
-27;"U2";"W25Q16JVUUIQ";1;"W25Q16JV";;;
-28;"R10";"R_2010_5025Metric";1;"20M";;;
-29;"D9";"LED_0603_1608Metric";1;"Charge On";;;
-30;"C6,C5";"C_0402_1005Metric";2;"10uF";;;
-31;"D8";"LED_0603_1608Metric";1;"Status";;;
-32;"R18";"R_0603_1608Metric";1;"1k";;;
-33;"C9,C13";"C_0603_1608Metric";2;"1uF";;;
-34;"C10,C8";"C_0603_1608Metric";2;"27pF";;;
-35;"R17";"R_0603_1608Metric";1;"10K";;;
-36;"J2";"BG30602A20400LG";1;"BG306-02-A-2-0400-L-G";;;
-37;"D7";"LED_0603_1608Metric";1;"H.V.Detected";;;
-38;"SW5";"SW_SPST_TL3342";1;"BOOT";;;
-39;"Q5";"SOT-23";1;"DMG3415U-7";;;
-40;"C2";"C_0603_1608Metric";1;"100nF";;;
-41;"R12";"R_0603_1608Metric";1;"100K";;;
-42;"R1,R9";"R_0603_1608Metric";2;"10R";;;
-43;"D6";"D_SOD-123";1;"MBR120";;;
-44;"J6";"PinHeader_1x02_P2.54mm_Vertical";1;"Input Power:2x AA Battery";;;
-45;"Q3";"SOP254P952X470-6N";1;"LDA111STR";;;
-46;"J1";"732511150";1;"Antenna";;;
-47;"P1";"C393939";1;"USB_C_Plug_USB2.0";;;
-48;"J5";"PinHeader_1x04_P2.54mm_Vertical";1;"Header 4";;;
-49;"C4";"CAPC6153X500N";1;"0.47uF";;;
-50;"D4";"D_SMA";1;"MURA160T3G";;;
-51;"G***";"electronic_cats_logo_8x6";1;"LOGO";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC#,Proveedor,Manf#
+1,"Unpolarized capacitor, small symbol",C_Small,C8 C10,27pF,C_0603_1608Metric,2, ,https://www.mouser.mx/datasheet/2/212/KEM_C1003_C0G_SMD-1101588.pdf,C107045,MOUSER,C0603C270J5GAC7411
+2,"Unpolarized capacitor, small symbol",C_Small,C7 C11 C12 C14 C15 C16 C17 C18 C19 C20,0.1uF,C_0402_1005Metric,10, ,https://www.mouser.mx/datasheet/2/447/UPY_NP0X5R_01005_4V_to_25V_V10-3003057.pdf,C106209,MOUSER,CC0402ZRY5V7BB104
+3,Unpolarized capacitor,C,C2,100nF,C_0603_1608Metric,1, ,https://www.mouser.mx/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf,C30926,MOUSER,C0603C104K5RACTU
+4,Unpolarized capacitor,C,C4,0.47uF,CAPC6153X500N,1, ,https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_soft_en.pdf,,MOUSER,KRM55TR72J474MH01K
+5,"Unpolarized capacitor, small symbol",C_Small,C9 C13,1uF,C_0603_1608Metric,2, ,https://www.mouser.mx/datasheet/2/585/MLCC-1837944.pdf,C26413,MOUSER,CL10A105KP8NNNC
+6,Unpolarized capacitor,C,C1 C3,4.7uF,C_0805_2012Metric,2, ,https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf,C98192,MOUSER,C2012X5R1H475K125AB
+7,"Unpolarized capacitor, small symbol",C_Small,C5 C6,10uF,C_0402_1005Metric,2, ,https://www.mouser.mx/datasheet/2/585/MLCC-1837944.pdf,C15525,MOUSER,CL05A106MQ5NUNC
+8,Light emitting diode,LED,D9,Charge On,LED_0603_1608Metric,1, ,https://www.mouser.mx/ProductDetail/Kingbright/APT1608SECK?qs=SxaZfIVsCL3ll9vpt7nTCw%3D%3D,C157740,MOUSER,APT1608SECK
+9,Light emitting diode,LED,D7,H.V.Detected,LED_0603_1608Metric,1, ,https://www.mouser.mx/ProductDetail/Kingbright/APT1608SECK?qs=SxaZfIVsCL3ll9vpt7nTCw%3D%3D,C157740,MOUSER,APT1608SECK
+10,"40V 3A Schottky Barrier Rectifier Diode, DO-201AD",MBR340,D6,MBR120,D_SOD-123,1, ,http://www.onsemi.com/pub_link/Collateral/MBR340-D.PDF,C130880,LCSC,
+11,"300mW Zener Diode, SOD-323F",MM3Zxx,D5,MM3Zxx,D_SOD-323F,1, ,https://www.mouser.mx/datasheet/2/308/1/MM3Z9V1B_D-1811445.pdf,,MOUSER,MM3Z18VB
+12,"600V 1A General Purpose Rectifier Diode, MELF",SM4005,D4,MURA160T3G,D_SMA,1, ,https://www.diodes.com/assets/Datasheets/ds16008.pdf,C85095,MOUSER,US1J-13-F
+13,"600V 1A General Purpose Rectifier Diode, MELF",SM4005,D1 D2 D3 D10,SM4005PL-TP,D_SOD-123F,4, ,https://www.mouser.mx/datasheet/2/258/SM4001PL_SM4007PL_SOD_123FL_-2511365.pdf,,MOUSER,SM4005PL-TP
+14,Light emitting diode,LED,D8,Status,LED_0603_1608Metric,1, ,https://www.mouser.mx/datasheet/2/216/APT1608CGCK-24002.pdf,C192666,MOUSER,APT1608CGCK
+15,"Fuse, small symbol",Fuse_Small,F1,0.5A,Fuse_0805_2012Metric,1, ,https://www.mouser.mx/datasheet/2/427/mfuserie-1762582.pdf,C2649565,MOUSER,MFU0805FF00500P100
+16,,Conn_Coaxial-Connector-CatStick-rescue-CatSniffer-rescue,J1,Antenna,732511150,1, ,https://www.mouser.mx/datasheet/2/276/3/0732511150_RF_COAX_CONNECTORS-2847622.pdf,,MOUSER,73251-1150
+17,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Screw_Terminal_01x02,J2,BG306-02-A-2-0400-L-G,BG30602A20400LG,1, ,https://www.mouser.mx/datasheet/2/837/BG306-1948788.pdf,,MOUSER,BG306-02-A-2-0400-L-G
+18,USB 2.0-only Type-C Plug connector,USB_C_Plug_USB2.0,P1,USB_C_Plug_USB2.0,C393939,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,C2987386,LCSC,TYPE-C-31-M-31
+19,"30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23",AO3400A,Q1 Q2,AO3422,SOT-23,2, ,http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf,C37130,Digikey,AO3422
+20,"P-MOSFET transistor, gate/source/drain",Q_PMOS_GSD,Q5,DMG3415U-7,SOT-23,1, ,https://www.mouser.mx/datasheet/2/115/ds31735-64958.pdf,C96616,LCSC,DMG3415U-7
+21,,LDA111STR,Q3,LDA111STR,SOP254P952X470-6N,1, ,https://www.mouser.mx/datasheet/2/240/LDA111-1547747.pdf,,MOUSER,LDA111STR
+22,,IRLML0060TRPBF,Q4,RGT16BM65DTL,TO-252-3_TabPin2,1, ,https://fscdn.rohm.com/en/products/databook/datasheet/discrete/igbt/rgt16bm65d-e.pdf,,MOUSER,RGT16BM65DTL
+23,Resistor,R,R1 R9,10R,R_0603_1608Metric,2, ,https://www.mouser.mx/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf,C109318,MOUSER,RC0603FR-0710RL
+24,"Resistor, small symbol",R_Small,R19 R20,27,R_0603_1608Metric,2, ,https://www.mouser.mx/datasheet/2/315/AOA0000C301-1488782.pdf,C25224,MOUSER,ERJ-3GEYJ270V
+25,Resistor,R,R3,75R,R_0805_2012Metric,1, ,https://www.mouser.mx/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf,C141697,MOUSER,RC0805FR-0775RL
+26,Resistor,R,R5 R6 R13 R14 R16 R18,1K,R_0603_1608Metric,6, ,https://www.mouser.mx/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf,C22548 C115325,MOUSER LCSC,RC0603FR-071KL
+27,Resistor,R,R8,2K,R_0805_2012Metric,1, ,https://www.mouser.mx/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf,C114572,MOUSER,RC0805FR-072KL
+28,Resistor,R,R2 R4,5.1K,R_0603_1608Metric,2, ,https://www.mouser.mx/datasheet/2/427/crcwce3-1762584.pdf,C23186,MOUSER,CRCW06035K10FKEAC
+29,"Resistor, small symbol",R_Small,R17,10K,R_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/1811081617_YAGEO-RC0603JR-0710KL_C99198.pdf,C99198,LCSC,
+30,Resistor,R,R7,22K,R_0603_1608Metric,1, ,https://www.mouser.mx/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf,C114065,MOUSER,RC0603FR-0722KL
+31,"Resistor, small symbol",R_Small,R12,100K,R_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/1811151133_Walsin-Tech-Corp-WR06X104JTL_C163843.pdf,C100048,LCSC,
+32,Resistor,R,R11,300K,RESC6432X120N,1, ,https://www.mouser.mx/datasheet/2/418/5/ENG_DS_9_1773463_7_G-1113509.pdf,,MOUSER,3522300KFT
+33,Resistor,R,R10,20M,R_2010_5025Metric,1, ,https://www.mouser.mx/datasheet/2/427/crma-1765222.pdf,,MOUSER,CRMA2010AF20M0FKEF
+34,"Push button switch, generic, two pins",SW_Push,SW5,BOOT,SW_SPST_TL3342,1, ,https://www.mouser.mx/datasheet/2/140/TL3342-2065746.pdf,C2886897,MOUSER,TL3342F450QG
+35,Single Pole Single Throw (SPST) switch,SW_SPST,SW2,ON,OS102011MA1QN1,1, ,https://www.mouser.mx/datasheet/2/240/js-3050885.pdf,C221829,MOUSER,OS102011MS2QN1
+36,"Push button switch, generic, two pins",SW_Push,SW4,RESET,SW_SPST_TL3342,1, ,https://www.mouser.mx/datasheet/2/140/TL3342-2065746.pdf,C2886897,MOUSER,TL3342F450QG
+37,"Push button switch, generic, two pins",SW_Push,SW1 SW3 SW6,TL3305AF260QG,TL3305AF160QG,3, ,https://www.mouser.mx/datasheet/2/140/TL3305-2065758.pdf,,MOUSER,TL3305AF260QG
+38,"Transformer, single primary, single secondary",Transformer_1P_1S,T1 T2,ATB322524,ATB3225240110T000,2, ,~,C249001,MOUSER,ATB322524-0110-T000
+39,,AP2112K-3.3-Regulator_Linear,U1,AP2112K-3.3,SOT-23-5,1, ,https://www.diodes.com/assets/Datasheets/AP7347DQ.pdf,C216640,MOUSER,AP7347DQ-33W5-7
+40,,RP2040-MCU_RaspberryPi_and_Boards-PicoWAN-rescue-PicoWAN-rescue,U3,RP2040,RP2040-QFN-56,1, ,https://www.mouser.mx/datasheet/2/630/hardware_design_with_rp2040-2904726.pdf,,MOUSER,RPI Chip RP2040-7-500
+41,"32Mb Serial Flash Memory, Standard/Dual/Quad SPI, DFN-8",W25Q32JVZP,U2,W25Q16JV,W25Q16JVUUIQ,1, ,https://www.mouser.mx/datasheet/2/949/w25q16jv_spi_revg_03222018_plus-1489727.pdf,,MOUSER,W25Q16JVUUIQ TR
+42,"Two pin crystal, small symbol",Crystal_Small,Y1,12Mhz,Crystal_SMD_5032-2Pin_5.0x3.2mm,1, ,https://www.mouser.mx/datasheet/2/96/008-0360-0-786290.pdf,,MOUSER,445I23D12M00000
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-56
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,45
+Component Count:,74 (66 SMD/ 8 THT)
+Fitted Components:,70 (66 SMD/ 4 THT)
+Number of PCBs:,1
+Total Components:,70

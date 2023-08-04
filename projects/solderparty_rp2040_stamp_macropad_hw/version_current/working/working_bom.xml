@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="12" Component_Count="38 (24 SMD/ 14 THT)" Fitted_Components="38 (24 SMD/ 14 THT)" Number_of_PCBs="1" Total_Components="38" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-59" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor, small symbol" Part="C_Small" References="C1 C2 C3 C4" Value="1uF" Footprint="C_0603_1608Metric" Quantity_Per_PCB="4" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="2" Description="" Part="WS2812B-2020" References="D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12" Value="WS2812B-2020" Footprint="WS2812B-2020" Quantity_Per_PCB="12" Status=" " Datasheet="https://www.tme.eu/Document/4a8239e52df5e0b5cc2eb96834c5d8b6/WS2812B-2020.pdf" LCSC="C965555"/>
+	<group Row="3" Description="OLED display 128x64" Part="OLED-128O064D" References="DS1" Value="OLED-128O064D" Footprint="OLED-128O064D" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.vishay.com/docs/37902/oled128o064dbpp3n00000.pdf" LCSC=""/>
+	<group Row="4" Description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x10" References="J2" Value="Conn_GPIOs" Footprint="PinHeader_1x10_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="5" Description="USB 2.0-only Type-C Receptacle connector" Part="USB_C_Receptacle_USB2.0" References="J1" Value="USB_C_Receptacle_USB2.0" Footprint="USB_C_Receptacle_HRO_TYPE-C-31-M-12" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.usb.org/sites/default/files/documents/usb_type-c.zip" LCSC="C319148"/>
+	<group Row="6" Description="Resistor, small symbol" Part="R_Small" References="R1 R2" Value="5.1K" Footprint="R_0603_1608Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="7" Description="Resistor, small symbol" Part="R_Small" References="R3" Value="390K" Footprint="R_0603_1608Metric" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="8" Description="Single Pole Single Throw (SPST) switch" Part="SW_SPST" References="SW14" Value="SW_CENTER" Footprint="SW_SPST_PTS645" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C381038"/>
+	<group Row="9" Description="Single Pole Single Throw (SPST) switch" Part="SW_SPST" References="SW13" Value="SW_LEFT" Footprint="SW_SPST_PTS645" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C381038"/>
+	<group Row="10" Description="Single Pole Single Throw (SPST) switch" Part="SW_SPST" References="SW15" Value="SW_RIGHT" Footprint="SW_SPST_PTS645" Quantity_Per_PCB="1" Status=" " Datasheet="~" LCSC="C381038"/>
+	<group Row="11" Description="Single Pole Single Throw (SPST) switch" Part="SW_SPST" References="SW1 SW2 SW3 SW4 SW5 SW6 SW7 SW8 SW9 SW10 SW11 SW12" Value="SW_SPST" Footprint="SW_Cherry_MX_1.00u_PCB" Quantity_Per_PCB="12" Status=" " Datasheet="~" LCSC=""/>
+	<group Row="12" Description="" Part="RP2040_Stamp" References="U1" Value="RP2040_Stamp" Footprint="RP2040_Stamp_FlexyPin" Quantity_Per_PCB="1" Status=" " Datasheet="" LCSC=""/>
+</KiCad_BOM>

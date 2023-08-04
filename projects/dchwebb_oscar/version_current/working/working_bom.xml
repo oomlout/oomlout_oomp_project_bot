@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="31" Component_Count="51 (36 SMD/ 13 THT)" Fitted_Components="51 (36 SMD/ 13 THT)" Number_of_PCBs="1" Total_Components="51" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-50" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor" Part="C" References="C2 C3" Value="18pF" Footprint="C_0805_HandSoldering" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="2" Description="Unpolarized capacitor" Part="C" References="C1 C4 C6 C7 C8 C9 C10 C16" Value="100nF" Footprint="C_0805_HandSoldering" Quantity_Per_PCB="8" Status=" " Datasheet="~"/>
+	<group Row="3" Description="" Part="CP-Device" References="C15" Value="1uF" Footprint="CP_Elec_4x5.8" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="4" Description="Unpolarized capacitor" Part="C" References="C5" Value="2.2uF" Footprint="C_0805_HandSoldering" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="5" Description="" Part="CP-Device" References="C12 C13" Value="22uF" Footprint="CP_Elec_4x5.8" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="6" Description="Unpolarized capacitor" Part="C" References="C11 C14" Value="47uF" Footprint="CP_Elec_5x5.8" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="7" Description="40V 1A Schottky Barrier Rectifier Diode, DO-41" Part="1N5819" References="D1 D2" Value="1N5819" Footprint="D_SOD-123" Quantity_Per_PCB="2" Status=" " Datasheet="http://www.vishay.com/docs/88525/1n5817.pdf"/>
+	<group Row="8" Description="Light emitting diode" Part="LED" References="D3" Value="LED" Footprint="LED_D5.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="9" Description="Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)" Part="AudioJack2_Ground_Switch" References="J5" Value="ChA_Buff_Out" Footprint="THONKICONN_hole" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="10" Description="Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)" Part="AudioJack2_Ground_Switch" References="J6" Value="ChB_Buff_Out" Footprint="THONKICONN_hole" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="11" Description="Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)" Part="AudioJack2_Ground_Switch" References="J7" Value="ChC_Buff_Out" Footprint="THONKICONN_hole" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="12" Description="Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)" Part="AudioJack2_Ground_Switch" References="J2" Value="ChannelA_In" Footprint="THONKICONN_hole" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="13" Description="Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)" Part="AudioJack2_Ground_Switch" References="J3" Value="ChannelB_In" Footprint="THONKICONN_hole" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="14" Description="Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)" Part="AudioJack2_Ground_Switch" References="J4" Value="ChannelC_In" Footprint="THONKICONN_hole" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="15" Description="" Part="Eurorack_10_pin_power" References="J9" Value="Eurorack_10_pin_power" Footprint="Eurorack_10_pin_header" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)" Part="AudioJack2_Ground_Switch" References="J8" Value="MIDI_In" Footprint="THONKICONN_hole" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="17" Description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x04_Male" References="J1" Value="SWD_Header" Footprint="SWD_header" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="18" Description="Inductor" Part="L" References="L1" Value="L" Footprint="R_0805_HandSoldering" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="19" Description="Resistor" Part="R" References="R10 R11 R12" Value="100" Footprint="R_0805_HandSoldering" Quantity_Per_PCB="3" Status=" " Datasheet="~"/>
+	<group Row="20" Description="Resistor" Part="R" References="R13" Value="680" Footprint="R_0805_HandSoldering" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="21" Description="Resistor" Part="R" References="R7 R8 R9" Value="14k" Footprint="R_0805_HandSoldering" Quantity_Per_PCB="3" Status=" " Datasheet="~"/>
+	<group Row="22" Description="Resistor" Part="R" References="R1 R2 R3 R4 R5 R6" Value="100k" Footprint="R_0805_HandSoldering" Quantity_Per_PCB="6" Status=" " Datasheet="~"/>
+	<group Row="23" Description="" Part="Rotary_Encoder_Switch-Device" References="SW1" Value="Left_Encoder" Footprint="Encoder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="24" Description="" Part="Rotary_Encoder_Switch-Device" References="SW2" Value="Right_Encoder" Footprint="Encoder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="25" Description="Push button switch, generic, two pins" Part="SW_Push" References="SW3" Value="SW_Push" Footprint="SW_PUSH_6mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="26" Description="ILI9341 controller, SPI TFT LCD Display, 9-pin breakout PCB, 4-pin SD card interface, 5V/3.3V" Part="ILI9341_SPI_Daughterboard" References="U2" Value="ILI9341_SPI_Daughterboard" Footprint="ILI9341_SPI_daughterboard" Quantity_Per_PCB="1" Status=" " Datasheet="http://pan.baidu.com/s/11Y990"/>
+	<group Row="27" Description="800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223" Part="LM1117-3.3" References="U5" Value="LM1117-3.3" Footprint="TO-252-3_TabPin2" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.ti.com/lit/ds/symlink/lm1117.pdf"/>
+	<group Row="28" Description="1MHz, Low-Power Op Amp, DIP-14/SOIC-14/TSSOP-14" Part="MCP6004" References="U3" Value="MCP6004" Footprint="SOIC-14_N" Quantity_Per_PCB="1" Status=" " Datasheet="http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf"/>
+	<group Row="29" Description="ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 180MHz, 1.8-3.6V, 50 GPIO, LQFP-64" Part="STM32F446RETx" References="U1" Value="STM32F446RETx" Footprint="LQFP-64_10x10mm_P0.5mm" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141306.pdf"/>
+	<group Row="30" Description="Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14" Part="TL074" References="U4" Value="TL074" Footprint="SOIC-14_N" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.ti.com/lit/ds/symlink/tl071.pdf"/>
+	<group Row="31" Description="Two pin crystal" Part="Crystal" References="Y1" Value="Crystal" Footprint="Crystal_SMD" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+</KiCad_BOM>

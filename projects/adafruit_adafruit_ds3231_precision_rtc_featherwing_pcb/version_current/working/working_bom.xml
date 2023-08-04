@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="10" Component_Count="12 (0 SMD/ 0 THT)" Fitted_Components="12 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="12" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-33" encoding="utf-8">
+	<group Row="1" Description="" Part="BATTERYCR1220_2" References="B1" Value="CR1220" Footprint="CR1220-2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1" Value="1uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="DS3231/SO" References="IC1" Value="DS3231/SO" Footprint="SO16W" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="HEADER-1X11" References="JP4" Value="HEADER-1X11" Footprint="1X11_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="HEADER-1X16ROUND" References="JP1" Value="HEADER-1X16ROUND" Footprint="1X16_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X1ROUND" References="JP3 JP5" Value="HEADER-1X1ROUND" Footprint="1X01_ROUND" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HEADER-1X3ROUND" References="JP2" Value="HEADER-1X3ROUND" Footprint="1X03_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="MICROSHIELD_NODIM" References="MS1" Value="MICROSHIELD_NODIM" Footprint="MICROSHIELD_DIM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R2" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="SWITCH_TACT_SMT4.6X2.8" References="SW1" Value="KMR2" Footprint="BTN_KMR2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

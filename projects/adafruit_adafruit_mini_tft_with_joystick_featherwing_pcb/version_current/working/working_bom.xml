@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="9" Component_Count="11 (0 SMD/ 0 THT)" Fitted_Components="11 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="11" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="ATSAMD09D14A-MU" References="IC2" Value="ATSAMD09D14A-MU" Footprint="QFN24_4MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="FEATHERWING" References="MS1" Value="FEATHERWING" Footprint="FEATHERWING" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="RESISTOR_0603_NOOUT" References="R1" Value="10" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="RESISTOR_0603_NOOUT" References="R7" Value="1k" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="RESISTOR_0603_NOOUT" References="R5 R6" Value="10K" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="SWITCH_TACT_SMT_EVQQ2_SMALL" References="SW2 SW3" Value="EVQQ" Footprint="EVQ-Q2_SMALLER" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="SWITCH_TACT_SMT4.6X2.8" References="SW1" Value="KMR2" Footprint="BTN_KMR2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="NAVSWITCHSKQUABAUE010" References="SW4" Value="NAVSWITCHSKQUABAUE010" Footprint="SKQUBAE010" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="DISP_LCD_0.9IN_160X80" References="U$2" Value="DISP_LCD_0.9IN_160X80" Footprint="TFT_0.96IN_160X80" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,0 +1,30 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Part_Number
+1,"Unpolarized capacitor, small symbol",C_Small,C2 C3,30pF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2, ,~,C22397
+2,"Unpolarized capacitor, small symbol",C_Small,C6 C8 C9 C10 C11 C12 C13 C14 C17 C20 C22 C24,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,12, ,~,C14663
+3,"Unpolarized capacitor, small symbol",C_Small,C5 C21,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2, ,~,C14663
+4,"Unpolarized capacitor, small symbol",C_Small,C1 C4 C15 C16,2.2uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,4, ,~,C23630
+5,"Unpolarized capacitor, small symbol",C_Small,C7,4.7uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,~,C14663
+6,"Unpolarized capacitor, small symbol",C_Small,C18 C19 C23,10uF,,3, ,~,
+7,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Male,J1,SWD_Header,SWD_header,1, ,~,
+8,"Resistor, small symbol",R_Small,R1,100k,R_0603_1608Metric,1, ,~,C25803
+9,"Push button switch, generic, two pins",SW_Push,RESET1,SW_Push,SW_SPST_EVQQ2,1, ,~,
+10,,AK4619VN,U2,AK4619VN,QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias,1, ,https://www.akm.com/content/dam/documents/products/audio/audio-codec/ak4619vn/ak4619vn-en-datasheet.pdf,
+11,"STMicroelectronics Arm Cortex-M33 MCU, 2048KB flash, 640KB RAM, 250 MHz, LQFP100",STM32H563VIT,U1,STM32H563VIT,LQFP-100_14x14mm_P0.5mm,1, ,https://www.st.com/en/microcontrollers-microprocessors/stm32h563-573/documentation.html,
+12,Two pin crystal,Crystal,Y1,8MHz 20pF,Crystal_SMD_5032-2Pin_5.0x3.2mm,1, ,~,C115962
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-50
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,12
+Component Count:,30 (0 SMD/ 0 THT)
+Fitted Components:,30 (0 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,30

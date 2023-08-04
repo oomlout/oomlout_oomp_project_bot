@@ -1,52 +1,65 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"C25,C26";"C_0603_1608Metric";2;"3.3pF";;;
-2;"C1,C37";"C_0603_1608Metric";2;"1uF";;;
-3;"C21,C29,C2,C24";"C_0603_1608Metric";4;"0.1uF";;;
-4;"C31,C35";"C_0603_1608Metric";2;"1nF";;;
-5;"D3,D2,D4,D1";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";4;"LED";;;
-6;"L3";"L_0603_1608Metric";1;"9.1nH";;;
-7;"R8,R7";"R_0603_1608Metric";2;"100R";;;
-8;"R2,R1";"R_0603_1608Metric";2;"5k1";;;
-9;"R9,R4,R5,R3";"R_0603_1608Metric";4;"330";;;
-10;"C20,C6,C27,C7,C8,C23,C9";"C_0603_1608Metric";7;"100pF";;;
-11;"REF**,REF**,REF**,REF**";"HOLE";4;"HOLE";;;
-12;"U1";"SOT-23-5";1;"AP2112K-3.3";;;
-13;"L5";"L_0603_1608Metric";1;"15uH";;;
-14;"C33";"C_0603_1608Metric";1;"470nF";;;
-15;"Y3";"Crystal_SMD_2520-4Pin_2.5x2.0mm";1;"32Mhz";;;
-16;"U7";"QFN-24-1EP_4x4mm_P0.5mm_EP2.65x2.65mm";1;"SX1262IMLTRT";;;
-17;"C22";"C_0603_1608Metric";1;"47pF";;;
-18;"U4";"0900FM15D0039E";1;"0900PC15A0036";;;
-19;"U2";"SON50P200X200X90-9N";1;"RFSW8006QTR7";;;
-20;"U5";"0900FM15D0039E";1;"0900FM15D0039";;;
-21;"L4";"L_0603_1608Metric";1;"47nH";;;
-22;"C18,C19";"C_0603_1608Metric";2;"22pF";;;
-23;"C34,C36";"C_0603_1608Metric";2;"10pF";;;
-24;"F1";"Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"0.5A";;;
-25;"L1";"L_0603_1608Metric";1;"BLM18HE152SN1D ";;;
-26;"L2";"L_0603_1608Metric";1;"6.8uH";;;
-27;"Y1";"Crystal_SMD_3225-4Pin_3.2x2.5mm";1;"48MHz";;;
-28;"Y2";"Crystal_SMD_2012-2Pin_2.0x1.2mm";1;"32.768kHz";;;
-29;"R6";"R_0603_1608Metric";1;"100K";;;
-30;"C10,C11,C13,C15,C16,C32,C12";"C_0402_1005Metric";7;"100nF";;;
-31;"C14,C17";"C_0603_1608Metric";2;"22uF";;;
-32;"G***";"electronic_cats_logo_4x3";1;"LOGO";;;
-33;"G***";"calderon";1;"LOGO";;;
-34;"P1";"C393939";1;"USB_C_Plug_USB2.0";;;
-35;"SW1,RESET1,RESET_CC1,BOOT1";"TS1088R02026";4;"SW";;;
-36;"J1";"SMA_EDGE";1;"Antenna";;;
-37;"U8";"VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias";1;"CC1352P1F3RGZT";;;
-38;"R13";"R_0402_1005Metric";1;"10k";;;
-39;"C45,C43,C41,C39,C46,C5,C44,C30,C42,C40";"C_0402_1005Metric";10;"0.1uF";;;
-40;"U3";"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";1;"RP2040";;;
-41;"Y4";"Crystal_SMD_3225-4Pin_3.2x2.5mm";1;"12MHz";;;
-42;"C3,C38";"C_0402_1005Metric";2;"1uF";;;
-43;"R10,R11";"R_0402_1005Metric";2;"27";;;
-44;"U9";"W25Q16JVUUIQ";1;"W25Q16JV";;;
-45;"U6";"SOT-363_SC-70-6";1;"PE42421";;;
-46;"R12";"R_0402_1005Metric";1;"1k";;;
-47;"C28,C4";"C_0402_1005Metric";2;"27pF";;;
-48;"JP1";"SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels";1;"Jumper";;;
-49;"J3";"Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical";1;"Conn_01x06_Female";;;
-50;"G***";"electronic_cats_logo_8x6";1;"LOGO";;;
-51;"G***";"calderon_7.5x7.5";1;"LOGO";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC#,manf#,provedor,Remplazos,Mouser#
+1,,SW_Push-Switch-CatStick-rescue-CatSniffer-rescue,BOOT1 RESET1 RESET_CC1 SW1,SW,TS1088R02026,4, ,https://datasheet.lcsc.com/lcsc/1912111437_XUNPU-TS-1088R-02526_C455281.pdf,C455281,TS-1088R-02526,LCSC,,
+2,,C-Device-CatStick-rescue-CatSniffer-rescue,C25 C26,3.3pF,C_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/1810311132_Murata-Electronics-GRM1885C1H3R3CA01D_C162225.pdf,C162225,GRM1885C1H3R3CA01D,LCSC,C1660,
+3,,C-Device-CatStick-rescue-CatSniffer-rescue,C34 C36,10pF,C_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/2005201834_Samsung-Electro-Mechanics-CL10C100DB81PNC_C472782.pdf,C472782,CL10C100DB81PNC,LCSC,C91367,
+4,,C-Device-CatStick-rescue-CatSniffer-rescue,C18 C19,22pF,C_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/1810261547_Samsung-Electro-Mechanics-CL10C220JB81PNC_C170132.pdf,C170132,CL10C220JB81PNC,LCSC,,
+5,"Unpolarized capacitor, small symbol",C_Small,C4 C28,27pF,C_0402_1005Metric,2, ,https://www.mouser.mx/datasheet/2/281/GJM1555C1H270FB01_01-1973006.pdf,,GJM1555C1H270FB01D,Mouser,,81-GJM1555C1H270FB1D
+6,,C_Small-Device-CatStick-rescue-CatSniffer-rescue,C22,47pF,C_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/2006011835_YAGEO-CC0603FRNPO9BN470_C519486.pdf,C519486,CC0603FRNPO9BN470,LCSC,,
+7,,C-Device-CatStick-rescue-CatSniffer-rescue,C6 C7 C8 C9 C20 C23 C27,100pF,C_0603_1608Metric,7, ,https://datasheet.lcsc.com/lcsc/1811151136_Samsung-Electro-Mechanics-CL10C101JB8NNNC_C14858.pdf,C14858,CL10C101JB8NNNC,LCSC,,
+8,,C_Small-Device-CatStick-rescue-CatSniffer-rescue,C31 C35,1nF,C_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/1811071810_Samsung-Electro-Mechanics-CL10B102KB8NNNC_C1588.pdf,C1588,CL10B102KB8NNNC,LCSC,,
+9,,C-Device-CatStick-rescue-CatSniffer-rescue,C10 C11 C12 C13 C15 C16 C32,100nF,C_0402_1005Metric,7, ,https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM155R62A104ME14D_C162179.pdf,C162179,GRM155R62A104ME14D,LCSC,C162178,
+10,,C-Device-CatStick-rescue-CatSniffer-rescue,C2,0.1uF,C_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf,C14663,CC0603KRX7R9BB104,LCSC,,
+11,,C_Small-Device-CatStick-rescue-CatSniffer-rescue,C21 C24 C29,0.1uF,C_0603_1608Metric,3, ,https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf,C14663,CC0603KRX7R9BB104,LCSC,,
+12,"Unpolarized capacitor, small symbol",C_Small,C5 C30 C39 C40 C41 C42 C43 C44 C45 C46,0.1uF,C_0402_1005Metric,10, ,https://www.mouser.mx/datasheet/2/396/TaiyoYuden_MSAST1L3YB5104KFNA01_SS-3009733.pdf,,MSAST105SB7104KFNB25,Mouser,,963-MSAST105SB7104KF
+13,,C_Small-Device-CatStick-rescue-CatSniffer-rescue,C33,470nF,C_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/1810191213_Samsung-Electro-Mechanics-CL10A474KB8NNNC_C170149.pdf,C170149,CL10A474KB8NNNC,LCSC,,
+14,,C-Device-CatStick-rescue-CatSniffer-rescue,C1 C37,1uF,C_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/1810161109_FH--Guangdong-Fenghua-Advanced-Tech-0603F105M500NT_C108343.pdf,C108343,0603F105M500NT,LCSC,,
+15,"Unpolarized capacitor, small symbol",C_Small,C3 C38,1uF,C_0402_1005Metric,2, ,https://www.mouser.mx/datasheet/2/396/Taiyo_Yuden_MSRLJ103SB5105MFNA01_SS-3011293.pdf,,MSRLJ103SB5105MFNA01,Mouser,,963-MSRLJ103SB5105MF
+16,,C-Device-CatStick-rescue-CatSniffer-rescue,C14 C17,22uF,C_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/1811082126_YAGEO-CC0603MRX5R6BB226_C109447.pdf,C109447,CC0603MRX5R6BB226,LCSC,,
+17,,LED_Small-Device-CatStick-rescue-CatSniffer-rescue,D1 D2 D3 D4,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,4, ,https://datasheet.lcsc.com/lcsc/2006011837_TONYU-DY-0603HBC-L-SMG_C524045.pdf,C524045,CL10C120JB81PNC,LCSC,,
+18,,Fuse_Small-Device-CatStick-rescue-CatSniffer-rescue,F1,0.5A,Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,https://www.mouser.mx/datasheet/2/427/mfuserie-1762582.pdf,,MFU0805FF00500P100,Mouser,,594-MFU0805FF00500P1
+19,,Conn_Coaxial-Connector-CatStick-rescue-CatSniffer-rescue,J1,Antenna,SMA_EDGE,1, ,https://datasheet.lcsc.com/lcsc/2005121202_Shenzhen-Kinghelm-Elec-KH-SMA-KE8-G_C530661.pdf,C530661,KH-SMA-KE8-G,LCSC,,
+20,,Conn_01x06_Female-Connector-CatStick-rescue-CatSniffer-rescue,J2 J3,Conn_01x06_Female,Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical,2, ,~,,,,,
+21,,Jumper_3_Bridged12-Jumper-CatStick-rescue-CatSniffer-rescue,JP1,Jumper,SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels,1, ,~,,,,,
+22,,L-Device-CatStick-rescue-CatSniffer-rescue,L3,9.1nH,L_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/1912111437_FH--Guangdong-Fenghua-Advanced-Tech-VHF160808H9N1JT_C395094.pdf,C395094,VHF160808H9N1JT,LCSC,,
+23,,L_Small-Device-CatStick-rescue-CatSniffer-rescue,L4,47nH,L_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/2006221409_Yanchuang-SCHF160808H47NJT_C578001.pdf,C578001,SCHF160808H47NJT,LCSC,C90210,
+24,,L-Device-CatStick-rescue-CatSniffer-rescue,L2,6.8uH,L_0603_1608Metric,1, ,https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_decoupling_mlz1608_en.pdf,,MLZ1608M6R8WT000,Mouser,,MLZ1608M6R8WT000
+25,,L_Small-Device-CatStick-rescue-CatSniffer-rescue,L5,15uH,L_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/2110081230_Sunlord-SDFL1608T150KTF_C57838.pdf,C57838,SDFL1608T150KTF,LCSC,C2885870,
+26,,Ferrite_Bead-Device-CatStick-rescue-CatSniffer-rescue,L1,BLM18HE152SN1D,L_0603_1608Metric,1, ,https://www.mouser.mx/datasheet/2/281/ENFA0004-1915711.pdf,,BLM18HE152SN1D,Mouser,,BLM18HE152SN1D
+27,,USB_C_Plug_USB2.0-Connector-CatStick-rescue-CatSniffer-rescue,P1,USB_C_Plug_USB2.0,C393939,1, ,https://datasheet.lcsc.com/lcsc/2009111434_Shenzhen-Kinghelm-Elec-KH-TYPE-C-16P_C709357.pdf,C709357,KH-TYPE-C-16P,LCSC,,
+28,"Resistor, small symbol",R_Small,R10 R11,27,R_0402_1005Metric,2, ,https://www.mouser.mx/datasheet/2/348/esr_e-3009601.pdf,,ESR01MZPF27R0,Mouser,,755-ESR01MZPF27R0
+29,,R_Small-Device-CatStick-rescue-CatSniffer-rescue,R7 R8,100R,R_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/2008061235_YAGEO-RT0603DRD07100RL_C700506.pdf,C700506,RT0603DRD07100RL,LCSC,,
+30,,R_Small-Device-CatStick-rescue-CatSniffer-rescue,R3 R4 R5 R9,330,R_0603_1608Metric,4, ,https://datasheet.lcsc.com/lcsc/1912111437_Viking-Tech-AR03BTB3300_C408915.pdf,C408915,AR03BTB3300,LCSC,C705847,
+31,"Resistor, small symbol",R_Small,R12,1k,R_0402_1005Metric,1, ,https://www.mouser.mx/datasheet/2/427/mcat_pro-1762117.pdf,,MCS0402MD1001DE000,Mouser,,594-MCS0402MD1001DE0
+32,,R_Small-Device-CatStick-rescue-CatSniffer-rescue,R1 R2,5k1,R_0603_1608Metric,2, ,https://datasheet.lcsc.com/lcsc/1912111437_Viking-Tech-AR03DTCX5101_C319561.pdf,C319561,AR03DTCX5101,LCSC,C311919,
+33,"Resistor, small symbol",R_Small,R13,10k,R_0402_1005Metric,1, ,https://www.mouser.mx/datasheet/2/427/mcx0x0xpre-1762843.pdf,,MCS04020D1002BE000,Mouser,,594-MCS04020D1002BE0
+34,,R-Device-CatStick-rescue-CatSniffer-rescue,R6,100K,R_0603_1608Metric,1, ,https://datasheet.lcsc.com/lcsc/1811082125_YAGEO-RT0603FRD07100KL_C179820.pdf,C179820,RT0603FRD07100KL,LCSC,C25803,
+35,,0900FM15D0039-Electronic_Cats-CatStick-rescue-CatSniffer-rescue,U5,0900FM15D0039,0900FM15D0039E,1, ,https://www.mouser.mx/datasheet/2/611/0900PC15A0036-1524528.pdf,,0900FM15D0039E,Mouser,,609-0900FM15D0039E
+36,,0900PC15A0036-Electronic_Cats-CatStick-rescue-CatSniffer-rescue,U4,0900PC15A0036,0900FM15D0039E,1, ,https://www.mouser.mx/datasheet/2/611/0900PC15A0036-1524528.pdf,,0900PC15A0036E,Mouser,,609-0900PC15A0036E
+37,,AP2112K-1.2-Regulator_Linear-CatStick-rescue-CatStick-rescue-CatSniffer-rescue,U1,AP2112K-3.3,SOT-23-5,1, ,https://www.diodes.com/assets/Datasheets/AP2112.pdf,,XC6210B332MR-G,Mouser,,865-XC6210B332MR-G
+38,,CC1352P1F3RGZT,U8,CC1352P1F3RGZT,VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias,1, ,https://www.ti.com/lit/ds/symlink/cc1352p.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1675977182049&ref_url=https%253A%252F%252Fwww.mouser.com%252F,,CC1352P1F3RGZT,Mouser,,595-CC1352P1F3RGZT
+39,,MASWSS0115-RF_Switch-CatStick-rescue-CatSniffer-rescue,U6,PE42421,SOT-363_SC-70-6,1, ,https://www.mouser.mx/datasheet/2/281/pe42421ds-1671115.pdf,-,PE42421SCAA-Z,Mouser,,81-PE42421SCAA-Z
+40,,RFSW8006QTR7-electroniccats-CatStick-rescue-CatSniffer-rescue,U2,RFSW8006QTR7,SON50P200X200X90-9N,1, ,https://www.mouser.mx/datasheet/2/412/fsw8006q_product_data_sheet-1307843.pdf,,RFSW8006QTR7,Mouser,,772-RFSW8006QTR7
+41,A microcontroller by Raspberry Pi,RP2040,U3,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1, ,https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf,C2040,RP2040,LCSC,,
+42,,SX1262IMLTRT,U7,SX1262IMLTRT,QFN-24-1EP_4x4mm_P0.5mm_EP2.65x2.65mm,1, ,https://www.mouser.mx/datasheet/2/761/SEMT_S_A0008596633_1-2575829.pdf,,SX1262IMLTRT,Mouser,,947-SX1262IMLTRT
+43,"128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",W25Q128JVS,U9,W25Q16JV,W25Q16JVUUIQ,1, ,http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf,,W25Q16JVUUIQ TR,Mouser,,454-W25Q16JVUUIQTR
+44,"Four pin crystal, GND on pins 2 and 3, small symbol",Crystal_GND23_Small,Y4,12MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,1, ,https://datasheet.lcsc.com/lcsc/2210101630_HCI-XC32M4-12-000-F20NJDT_C2848217.pdf,C2848217,XC32M4-12.000-F20NJDT,LCSC,,
+45,,Crystal-Device-CatStick-rescue-CatSniffer-rescue,Y2,32.768kHz,Crystal_SMD_2012-2Pin_2.0x1.2mm,1, ,https://datasheet.lcsc.com/lcsc/1811151444_Seiko-SC-20S-32-768kHz-20PPM-9pF_C97603.pdf,C97603,"SC-20S,32.768kHz,20PPM,9pF",LCSC,,
+46,,Crystal_GND24-Device-CatStick-rescue-CatSniffer-rescue,Y3,32Mhz,Crystal_SMD_2520-4Pin_2.5x2.0mm,1, ,https://datasheet.lcsc.com/lcsc/1810171117_Seiko-Epson-Q24FA20H0021700_C255969.pdf,C255969,Q24FA20H0021700,LCSC,,
+47,,Crystal_GND24-Device-CatStick-rescue-CatSniffer-rescue,Y1,48MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,1, ,https://datasheet.lcsc.com/lcsc/1912111437_XTY-7325-4800A1620-00_C389928.pdf,C389928,7325-4800A1620-00,LCSC,,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,2.0
+Date:,2021-04-11
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,47
+Component Count:,91 (83 SMD/ 5 THT)
+Fitted Components:,91 (83 SMD/ 5 THT)
+Number of PCBs:,1
+Total Components:,91

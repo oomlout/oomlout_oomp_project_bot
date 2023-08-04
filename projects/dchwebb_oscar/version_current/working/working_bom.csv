@@ -1,32 +1,49 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"U2";"ILI9341_SPI";1;"ILI9341_SPI";;;
-2;"J11";"SolderWirePad_single_2mmDrill";1;"MISO_Connector";;;
-3;"R9,R7,R8";"R_0805_HandSoldering";3;"15k";;;
-4;"U1";"LQFP-64_10x10mm_P0.5mm";1;"STM32F446RETx";;;
-5;"C1,C4,C6,C7,C8,C9,C10,C16";"C_0805_HandSoldering";8;"100nF";;;
-6;"C2,C3";"C_0805_HandSoldering";2;"18pF";;;
-7;"C5";"C_0805_HandSoldering";1;"2.2uF";;;
-8;"C11,C14";"CP_Elec_5x5.8";2;"47uF";;;
-9;"C12,C13";"CP_Elec_4x5.8";2;"22uF";;;
-10;"C15";"CP_Elec_4x5.8";1;"1uF";;;
-11;"D1,D2";"D_SOD-123";2;"1N5819";;;
-12;"J1";"SWD_header";1;"SWD_Header";;;
-13;"J2";"THONKICONN_hole";1;"ChannelA_In";;;
-14;"J3";"THONKICONN_hole";1;"ChannelB_In";;;
-15;"J4";"THONKICONN_hole";1;"ChannelC_In";;;
-16;"J5";"THONKICONN_hole";1;"ChA_Buff_Out";;;
-17;"J6";"THONKICONN_hole";1;"ChB_Buff_Out";;;
-18;"J7";"THONKICONN_hole";1;"ChC_Buff_Out";;;
-19;"J8";"THONKICONN_hole";1;"MIDI_In";;;
-20;"J9";"Eurorack_16_pin_header";1;"Eurorack_16_pin_power";;;
-21;"L1";"R_0805_HandSoldering";1;"L";;;
-22;"R1,R2,R3,R4,R5,R6";"R_0805_HandSoldering";6;"100k";;;
-23;"R10,R11,R12";"R_0805_HandSoldering";3;"100";;;
-24;"U3";"SOIC-14_N";1;"MCP6004";;;
-25;"U4";"SOIC-14_N";1;"TL074";;;
-26;"U5";"TO-252-3_TabPin2";1;"LM1117-3.3";;;
-27;"Y1";"Crystal_SMD";1;"Crystal";;;
-28;"SW1";"Encoder";1;"Left_Encoder";;;
-29;"SW2";"Encoder";1;"Right_Encoder";;;
-30;"SW3";"SW_PUSH_6mm";1;"SW_Push";;;
-31;"J10";"18x0.8mmLCDConnector";1;"LCD_Connector";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,Unpolarized capacitor,C,C2 C3,18pF,C_0805_HandSoldering,2, ,~
+2,Unpolarized capacitor,C,C1 C4 C6 C7 C8 C9 C10 C16,100nF,C_0805_HandSoldering,8, ,~
+3,,CP-Device,C15,1uF,CP_Elec_4x5.8,1, ,~
+4,Unpolarized capacitor,C,C5,2.2uF,C_0805_HandSoldering,1, ,~
+5,,CP-Device,C12 C13,22uF,CP_Elec_4x5.8,2, ,~
+6,Unpolarized capacitor,C,C11 C14,47uF,CP_Elec_5x5.8,2, ,~
+7,"40V 1A Schottky Barrier Rectifier Diode, DO-41",1N5819,D1 D2,1N5819,D_SOD-123,2, ,http://www.vishay.com/docs/88525/1n5817.pdf
+8,Light emitting diode,LED,D3,LED,LED_D5.0mm,1, ,~
+9,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J5,ChA_Buff_Out,THONKICONN_hole,1, ,~
+10,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J6,ChB_Buff_Out,THONKICONN_hole,1, ,~
+11,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J7,ChC_Buff_Out,THONKICONN_hole,1, ,~
+12,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J2,ChannelA_In,THONKICONN_hole,1, ,~
+13,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J3,ChannelB_In,THONKICONN_hole,1, ,~
+14,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J4,ChannelC_In,THONKICONN_hole,1, ,~
+15,,Eurorack_10_pin_power,J9,Eurorack_10_pin_power,Eurorack_10_pin_header,1, ,
+16,"Audio Jack, 2 Poles (Mono / TS), Switched Pole (Normalling)",AudioJack2_Ground_Switch,J8,MIDI_In,THONKICONN_hole,1, ,~
+17,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Male,J1,SWD_Header,SWD_header,1, ,~
+18,Inductor,L,L1,L,R_0805_HandSoldering,1, ,~
+19,Resistor,R,R10 R11 R12,100,R_0805_HandSoldering,3, ,~
+20,Resistor,R,R13,680,R_0805_HandSoldering,1, ,~
+21,Resistor,R,R7 R8 R9,14k,R_0805_HandSoldering,3, ,~
+22,Resistor,R,R1 R2 R3 R4 R5 R6,100k,R_0805_HandSoldering,6, ,~
+23,,Rotary_Encoder_Switch-Device,SW1,Left_Encoder,Encoder,1, ,~
+24,,Rotary_Encoder_Switch-Device,SW2,Right_Encoder,Encoder,1, ,~
+25,"Push button switch, generic, two pins",SW_Push,SW3,SW_Push,SW_PUSH_6mm,1, ,~
+26,"ILI9341 controller, SPI TFT LCD Display, 9-pin breakout PCB, 4-pin SD card interface, 5V/3.3V",ILI9341_SPI_Daughterboard,U2,ILI9341_SPI_Daughterboard,ILI9341_SPI_daughterboard,1, ,http://pan.baidu.com/s/11Y990
+27,"800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223",LM1117-3.3,U5,LM1117-3.3,TO-252-3_TabPin2,1, ,http://www.ti.com/lit/ds/symlink/lm1117.pdf
+28,"1MHz, Low-Power Op Amp, DIP-14/SOIC-14/TSSOP-14",MCP6004,U3,MCP6004,SOIC-14_N,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+29,"ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 180MHz, 1.8-3.6V, 50 GPIO, LQFP-64",STM32F446RETx,U1,STM32F446RETx,LQFP-64_10x10mm_P0.5mm,1, ,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141306.pdf
+30,"Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14",TL074,U4,TL074,SOIC-14_N,1, ,http://www.ti.com/lit/ds/symlink/tl071.pdf
+31,Two pin crystal,Crystal,Y1,Crystal,Crystal_SMD,1, ,~
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-50
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,31
+Component Count:,51 (36 SMD/ 13 THT)
+Fitted Components:,51 (36 SMD/ 13 THT)
+Number of PCBs:,1
+Total Components:,51

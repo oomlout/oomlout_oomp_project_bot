@@ -1,0 +1,30 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC
+1,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C3 C4,1uF,C_0603_1608Metric,4, ,~,
+2,,WS2812B-2020,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12,WS2812B-2020,WS2812B-2020,12, ,https://www.tme.eu/Document/4a8239e52df5e0b5cc2eb96834c5d8b6/WS2812B-2020.pdf,C965555
+3,OLED display 128x64,OLED-128O064D,DS1,OLED-128O064D,OLED-128O064D,1, ,https://www.vishay.com/docs/37902/oled128o064dbpp3n00000.pdf,
+4,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10,J2,Conn_GPIOs,PinHeader_1x10_P2.54mm_Vertical,1, ,~,
+5,USB 2.0-only Type-C Receptacle connector,USB_C_Receptacle_USB2.0,J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,C319148
+6,"Resistor, small symbol",R_Small,R1 R2,5.1K,R_0603_1608Metric,2, ,~,
+7,"Resistor, small symbol",R_Small,R3,390K,R_0603_1608Metric,1, ,~,
+8,Single Pole Single Throw (SPST) switch,SW_SPST,SW14,SW_CENTER,SW_SPST_PTS645,1, ,~,C381038
+9,Single Pole Single Throw (SPST) switch,SW_SPST,SW13,SW_LEFT,SW_SPST_PTS645,1, ,~,C381038
+10,Single Pole Single Throw (SPST) switch,SW_SPST,SW15,SW_RIGHT,SW_SPST_PTS645,1, ,~,C381038
+11,Single Pole Single Throw (SPST) switch,SW_SPST,SW1 SW2 SW3 SW4 SW5 SW6 SW7 SW8 SW9 SW10 SW11 SW12,SW_SPST,SW_Cherry_MX_1.00u_PCB,12, ,~,
+12,,RP2040_Stamp,U1,RP2040_Stamp,RP2040_Stamp_FlexyPin,1, ,,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-59
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,12
+Component Count:,38 (24 SMD/ 14 THT)
+Fitted Components:,38 (24 SMD/ 14 THT)
+Number of PCBs:,1
+Total Components:,38
