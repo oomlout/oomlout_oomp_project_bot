@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="11" Component_Count="18 (0 SMD/ 0 THT)" Fitted_Components="18 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="18" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-33" encoding="utf-8">
+	<group Row="1" Description="" Part="HEADER-1X3" References="AUDIO0" Value="HEADER-1X3" Footprint="1X03_OVAL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="HEADER-1X2" References="BUTTON_A0 BUTTON_B0 BUTTON_CREDIT0 BUTTON_START0" Value="HEADER-1X2" Footprint="1X02_OVAL" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C3" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="CAP_ELECTROLYTICPANASONIC_C" References="C1" Value="100uF" Footprint="PANASONIC_C" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LM339D" References="IC1" Value="LM339D" Footprint="SO14" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="TL072D" References="IC2" Value="TL072D" Footprint="SO08" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="HEADER-1X5" References="JOYSTICK0" Value="HEADER-1X5" Footprint="1X05_OVAL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RASBERRYPI_IDC" References="JP1" Value="RASBERRYPI_IDC" Footprint="RASBERRYPI_IDC" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R2 R3 R4 R5" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="HEADER-1X2" References="SPEAKER0" Value="8Ohm" Footprint="1X02_OVAL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,0 +1,35 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,C,C1,220pF,C0402F,1, ,
+2,,C,C4,100nF,C0603F,1, ,
+3,,C,C3,1uF,C0603F,1, ,
+4,,C,C2,10uF,C0805E,1, ,
+5,,DIODE,D115 D116,1N4007,DO-41,2, ,
+6,,LED,D1 D2 D3,blue,D0603E,3, ,
+7,,DRILL,Drill1 Drill2 Drill3 Drill4,DRILL,DRILL_NP,4, ,
+8,Connector 01x02,CONN_01X02,P2,BOOT,SolderJumper,1, ,
+9,,CON-SENSOR2,P1,CON-SENSOR2,CON-SENSOR2,1, ,
+10,Connector 01x01,CONN_01X01,P3,Debug,DEBUG_PAD,1, ,
+11,Connector 01x08,CONN_01X08,P4,Input,OQ_8P_230V,1, ,
+12,,R,R1 R2 R3,1k,R0603F,3, ,
+13,,R,R116 R118,RNF12FTD249K,RNF12-2,2, ,
+14,4 resistors Pack,R_PACK4,RP105,10k,4X0603,1, ,
+15,4 resistors Pack,R_PACK4,RP1,82,4X0402,1, ,
+16,,HCPL-2731-000E,U109,HCPL2731,DIP-8,1, ,
+17,,XMC1XXX24,U1,XMC1100,QFN24-4x4mm-0.5mm,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,1.0
+Date:,2022-11-15
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,17
+Component Count:,26 (11 SMD/ 15 THT)
+Fitted Components:,26 (11 SMD/ 15 THT)
+Number of PCBs:,1
+Total Components:,26

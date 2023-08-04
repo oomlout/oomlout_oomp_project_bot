@@ -1,0 +1,60 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC,Notes
+1,"Unpolarized capacitor, small symbol",C_Small,C1 C8 C11 C12 C13 C14 C15 C16 C17 C18 C19,100 nF,C_0402_1005Metric,11, ,~,C52923,"X7R, 10%"
+2,"Unpolarized capacitor, small symbol",C_Small,C9 C10,1 uF,C_0402_1005Metric,2, ,~,,"X7R, 10%"
+3,"Unpolarized capacitor, small symbol",C_Small,C3 C5 C6 C7,4.7 uF,C_0402_1005Metric,4, ,~,,"X7R, 10%"
+4,"Polarized capacitor, small symbol",C_Polarized_Small,C2 C4,10 uF,,2, ,~,,
+5,"75V 0.15A Fast switching Diode, SOD-523",1N4148WT,D3 D4 D5 D6,1N4148WT,D_SOD-523,4, ,https://www.diodes.com/assets/Datasheets/ds30396.pdf,,
+6,Bidirectional transient-voltage-suppression diode,D_TVS,D1,BSD3C051V,D_SOD-323,1, ,~,,
+7,Schottky diode,D_Schottky,D2,Schottky,,1, ,~,,
+8,"Fuse, small symbol",Fuse_Small,F1,750 mA,Fuse_0603_1608Metric,1, ,~,,
+9,"Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_MountingPin,J3 J4 J5 J6,Battery,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,4, ,~,,
+10,USB 2.0-only Type-C Receptacle connector,USB_C_Receptacle_USB2.0,J1,HRO_TYPE-C-31-M-14,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,
+11,6-pin TC2030 connector for SWD programming,TC2030_SWD,J7 J8,TC2030_SWD,CON_TC2030_outlined,2, ,~,,
+12,"Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_MountingPin,J2,UDB,,1, ,~,,
+13,"Inductor, small symbol",L_Small,L1 L2,BLM15PX121SN1D,L_0402_1005Metric,2, ,~,,
+14,2020 SMD adressable RGB LED with integrated controller,WS2812_2020,LED3 LED4 LED5 LED6 LED7 LED8 LED9,WS2812_2020,LED_WS2812_2020,7, ,https://www.world-semi.com/DownLoadFile/139,,
+15,"Light emitting diode, small symbol",LED_Small,LED1 LED2,orange,LED_0402_1005Metric,2, ,~,,
+16,"0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23",2N7002,Q2 Q4,2N7002,SOT-23,2, ,https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF,,
+17,"-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23",AO3401A,Q1 Q3,AO3401A,SOT-23,2, ,http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf,,
+18,"Resistor, small symbol",R_Small,R5 R16 R25,100 Ohm,R_0402_1005Metric,3, ,~,,
+19,"Resistor, small symbol",R_Small,R18,1 kOhm,R_0402_1005Metric,1, ,~,,
+20,"Resistor, small symbol",R_Small,R6 R7 R10 R13,1.5 kOhm,R_0402_1005Metric,4, ,~,,
+21,"Resistor, small symbol",R_Small,R14,3.9 kOhm,R_0402_1005Metric,1, ,~,,
+22,"Resistor, small symbol",R_Small,R9 R15 R17,5 kOhm,R_0402_1005Metric,3, ,~,,
+23,"Resistor, small symbol",R_Small,R1 R2 R19 R20,5.1 kOhm,R_0402_1005Metric,4, ,~,,
+24,"Resistor, small symbol",R_Small,R8 R11 R23 R24 R26,10 kOhm,R_0402_1005Metric,5, ,~,,
+25,"Resistor, small symbol",R_Small,R12,47 kOhm,R_0402_1005Metric,1, ,~,,
+26,"Resistor, small symbol",R_Small,R4,100 kOhm,R_0402_1005Metric,1, ,~,,
+27,"Resistor, small symbol",R_Small,R21,806 kOhm,R_0402_1005Metric,1, ,~,,
+28,"Resistor, small symbol",R_Small,R3,1 MOhm,R_0402_1005Metric,1, ,~,,
+29,"Resistor, small symbol",R_Small,R22,2 MOhm,R_0402_1005Metric,1, ,~,,
+30,"Push button switch, normally open, two pins, 45° tilted",MX_SW_HS,SW5 SW6 SW7 SW8,MX_SW_HS,SW_MX_HS_1u,4, ,~,,
+31,"Momentary Switch, single pole double throw",SW_Push_SPDT,SW1 SW2,PWR,SW_MSK12C02-HB,2, ,~,,
+32,"Push button switch, normally open, two pins, 45° tilted",SW_Push_45deg,SW3 SW4,RESET,SW_SPST_SKQG_WithStem,2, ,~,,
+33,"USB-Friendly Li-Ion Battery Charger and Power-Path Management, VQFN-16",BQ24075RGT,U3,BQ24075,VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm,1, ,http://www.ti.com/lit/ds/symlink/bq24075.pdf,,
+34,Single cell Li-Ion/Po battery protection IC,DW01A,U4,DW01A,SOT-23-6,1, ,https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-DW01A-G_C61503.pdf,C61503,
+35,Dual N-Channel enhancement mode power MOSFET,FS8205,U5,FS8205,SOT-23-6,1, ,https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-FS8205_C32254.pdf,C32254,
+36,Fuel gauge chip with integrated current sensing resistor,MAX17048,U9,MAX17048,DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm,1, ,https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf,,
+37,"ESD Protection Diodes with Low Clamping Voltage, SOT-23-6",SRV05-4,U1,SRV05-4,SOT-23-6,1, ,http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF,,
+38,Standalone Linear Li-lon Battery Charger with Thermal Protection,TP4056,U2,TP4056,SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm,1, ,https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf,C16581,
+39,1-Bit Bidirectional Voltage-Level Translator,TXB0101,U10,TXB0101,SOT-363_SC-70-6_Handsoldering,1, ,https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-TXB0101DCKR_C324081.pdf,C324081,
+40,"Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23",XC6206PxxxMR,U6,XC6206PxxxMR,SOT-23,1, ,https://www.torexsemi.com/file/xc6206/XC6206.pdf,,
+41,nRF52840 BT LE module,nRF52840_holyiot_18010,U7,nRF52840_holyiot_18010,nRF52840_holyiot_18010,1, ,http://www.holyiot.com/tp/2019042516322180424.pdf,,
+42,nRF52840 BT LE module,nRF52840_moko_mk08,U8,nRF52840_moko_mk08,nRF52840_moko_mk08,1, ,https://www.mokoblue.com/wp-content/uploads/2021/07/MK08_Bluetooth_Module_Datasheet-V1.0-20112601.pdf,,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-54
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,42
+Component Count:,93 (0 SMD/ 0 THT)
+Fitted Components:,93 (0 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,93

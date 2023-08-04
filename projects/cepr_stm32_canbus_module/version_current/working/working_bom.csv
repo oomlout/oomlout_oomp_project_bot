@@ -1,12 +1,29 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"U3";"SOT-89-3";1;"AP7384-33Y";;;
-2;"C3";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"4.7uF";;;
-3;"R1";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"10k";;;
-4;"X1";"Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering";1;"ASE-8.000MHZ-LC-T";;;
-5;"C2,C7,C5,C6,C4,C10,C11";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";7;"100nF";;;
-6;"C12";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"22uF";;;
-7;"C1";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"10nF";;;
-8;"C9,C8";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"1uF";;;
-9;"U1";"LQFP-48_7x7mm_P0.5mm";1;"STM32L431CCTx";;;
-10;"U2";"SOIC-8_3.9x4.9mm_P1.27mm";1;"TLE9251";;;
-11;"J7,J11,J6,J5";"PinHeader_1x10_P2.54mm_Vertical";4;"Conn_01x10";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,DigiKey
+1,Unpolarized capacitor,C,C1,10nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,~,490-4781-1-ND
+2,Unpolarized capacitor,C,C2 C4 C5 C6 C7 C10 C11,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,7, ,~,1276-1000-1-ND
+3,Unpolarized capacitor,C,C8 C9,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2, ,~,587-2229-1-ND
+4,Unpolarized capacitor,C,C3,4.7uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1, ,~,1276-1244-1-ND
+5,Unpolarized capacitor,C,C12,22uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1, ,~,1276-2910-1-ND
+6,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10,J5 J6 J7 J11,Conn_01x10,PinHeader_1x10_P2.54mm_Vertical,4, ,~,
+7,"Resistor, US symbol",R_US,R1,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,~,RNCP0603FTD10K0CT-ND
+8,"50mA Low Dropout Voltage Regulator, Fixed Output 2.8V, Wide Input Voltage Range 40V, SOT-89-3",AP7384-28Y,U3,AP7384-33Y,SOT-89-3,1, ,https://www.diodes.com/assets/Datasheets/AP7384.pdf,AP7384-33Y-13DICT-ND
+9,"ARM Cortex-M4 MCU, 256KB flash, 64KB RAM, 80MHz, 1.71-3.6V, 38 GPIO, LQFP-48",STM32L431CCTx,U1,STM32L431CCTx,LQFP-48_7x7mm_P0.5mm,1, ,https://www.st.com/content/ccc/resource/technical/document/datasheet/group3/83/b3/60/f6/b1/cc/47/7e/DM00257211/files/DM00257211.pdf/jcr:content/translations/en.DM00257211.pdf,497-18830-1-ND
+10,,TLE9251,U2,TLE9251,SOIC-8_3.9x4.9mm_P1.27mm,1, ,https://www.infineon.com/dgdl/Infineon-TLE9251V-DS-v01_00-EN.pdf?fileId=5546d4625debb399015e14b8c287597b,TLE9251VSJXUMA1CT-ND
+11,"3.3V CMOS SMD Crystal Clock Oscillator, Abracon",ASE-xxxMHz,X1,ASE-8.000MHZ-LC-T,Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering,1, ,https://abracon.com/Oscillators/ASEseries.pdf,535-9558-1-ND
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-46
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,11
+Component Count:,21 (17 SMD/ 4 THT)
+Fitted Components:,21 (17 SMD/ 4 THT)
+Number of PCBs:,1
+Total Components:,21

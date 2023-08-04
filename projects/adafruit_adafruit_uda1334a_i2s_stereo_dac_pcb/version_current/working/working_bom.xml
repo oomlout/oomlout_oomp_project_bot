@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="13" Component_Count="29 (0 SMD/ 0 THT)" Fitted_Components="29 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="29" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C7 C8" Value="0.01uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C3 C9" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2 C4 C5 C11 C12" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_ELECTROLYTICPANASONIC_C" References="C6 C10" Value="47uF" Footprint="PANASONIC_C" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="FERRITE0805" References="FB1 FB2" Value="Ferrite" Footprint="0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X670MIL" References="JP1" Value="HEADER-1X670MIL" Footprint="1X06_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HEADER-1X970MIL" References="JP3" Value="HEADER-1X970MIL" Footprint="1X09_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR0805_NOOUTLINE" References="R4 R6" Value="100" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R2 R7 R8 R9 R10" Value="10k" Footprint="0603-NO" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR0805_NOOUTLINE" References="R3 R5" Value="220k" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="VREG_SOT23-5" References="U2" Value="MIC5225-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="AUDIO_I2S_UDA1334{dblquote}{dblquote}" References="U1" Value="UDA1334ATS" Footprint="SSOP16_4.4MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="AUDIO_3.5MMJACK" References="X2" Value="19269" Footprint="4UCONN_19269" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

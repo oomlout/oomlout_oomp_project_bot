@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="4" Component_Count="5 (1 SMD/ 4 THT)" Fitted_Components="5 (1 SMD/ 4 THT)" Number_of_PCBs="1" Total_Components="5" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-42" encoding="utf-8">
+	<group Row="1" Description="" Part="Grove-I2C-connector" References="J2 J3" Value="Grove-I2C-connector" Footprint="NS-Tech_Grove_1x04_P2mm_Vertical" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="mini-bread-board-1x17x2" References="J1" Value="mini-bread-board-1x17x2" Footprint="mini-bread-board-1x17x2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="Push button switch, generic, two pins" Part="SW_Push" References="SW1" Value="SW_Push" Footprint="SW_PUSH_6mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="4" Description="" Part="Pico" References="U1" Value="Pico" Footprint="RPi_Pico_TH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
