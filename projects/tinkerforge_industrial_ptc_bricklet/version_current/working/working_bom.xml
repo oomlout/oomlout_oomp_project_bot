@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="20" Component_Count="29 (17 SMD/ 12 THT)" Fitted_Components="29 (17 SMD/ 12 THT)" Number_of_PCBs="1" Total_Components="29" Schematic_Source="working" Schematic_Revision="1.1" Schematic_Date="2022-12-12" encoding="utf-8">
+	<group Row="1" Description="" Part="C" References="C1" Value="220pF" Footprint="C0402F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="C" References="C7" Value="10nF" Footprint="C0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="C" References="C3 C4 C5 C6 C8" Value="100nF" Footprint="C0603F" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="C" References="C2" Value="10uF" Footprint="C0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED" References="D1" Value="blue" Footprint="D0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="INDUCT" References="FB1 FB2" Value="FB" Footprint="R0603F" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="Connector 01x02" Part="CONN_01X02" References="P3" Value="Boot" Footprint="SolderJumper" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="CON-SENSOR2" References="P1" Value="CON-SENSOR" Footprint="CON-SENSOR2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="Connector 01x08" Part="CONN_01X08" References="P4" Value="CONN_01X08" Footprint="OQ_8P" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="Connector 01x01" Part="CONN_01X01" References="P2" Value="Debug" Footprint="DEBUG_PAD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="R" References="R2" Value="390 0.1%" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="R" References="R1" Value="1k" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="R" References="R3" Value="3k9 0.1%" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="R" References="R4" Value="10M" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="4 resistors Pack" Part="R_PACK4" References="RP2" Value="100" Footprint="0603X4" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="4 resistors Pack" Part="R_PACK4" References="RP1" Value="82" Footprint="4X0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="SW_DIP_4" References="SW1 SW2" Value="SW_DIP_4" Footprint="SW_DIP_4_THT" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="DRILL" References="U3 U4 U5 U6" Value="DRILL" Footprint="DRILL_NP" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="MAX31865" References="U2" Value="MAX31865" Footprint="QFN-20-5x5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="XMC1XXX24" References="U1" Value="XMC1100" Footprint="QFN24-4x4mm-0.5mm" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="14" Component_Count="19 (0 SMD/ 0 THT)" Fitted_Components="19 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="19" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2 C3" Value="100n" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1" Value="4u7" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="DIODE-ZENERSOD323" References="D1 D2" Value="3V6" Footprint="SOD-323" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="DIODESOD-123" References="D3" Value="DIODESOD-123" Footprint="SOD-123" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED0805_NOOUTLINE" References="D4 D5" Value="LED0805_NOOUTLINE" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R2" Value="68R" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RESISTOR_0603_NOOUT" References="R4 R6" Value="470R" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR_0603_NOOUT" References="R7" Value="1K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTOR_0603_NOOUT" References="R3" Value="1K5" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR_0603_NOOUT" References="R5" Value="10K" Footprint="0603-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="74125-SOIC14" References="U2" Value="74125-SOIC14" Footprint="SOIC14" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="ATTINY45" References="U1" Value="ATTINY45" Footprint="SO08-EIAJ" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="AVR_SPI_PRG_6SMD" References="X2" Value="AVR_SPI_PRG_6SMD" Footprint="2X3_SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="USBMINIBLARGE" References="X1" Value="USBMINIBLARGE" Footprint="USB-MINIB_LARGER" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

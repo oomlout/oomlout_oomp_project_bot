@@ -1,22 +1,38 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"AE1";"SMA_EDGE";1;"Antenna_Shield";;;
-2;"J10";"C46394";1;"USB_B";;;
-3;"U2";"HOPERF_RFM9XW_SMD";1;"RFM95W-868S2";;;
-4;"R9,R11";"R_0603_1608Metric";2;"120R";;;
-5;"C5";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"0.1uF";;;
-6;"C6,C7";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"10uF";;;
-7;"D1";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"Rx";;;
-8;"D2";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"ON";;;
-9;"Y1";"Crystal_SMD_5032-2Pin_5.0x3.2mm";1;"12Mhz";;;
-10;"C3,C1";"C_0603_1608Metric";2;"27pF";;;
-11;"C17,C14,C12,C16,C15,C4,C8,C13,C11,C10";"C_0603_1608Metric";10;"0.1uF";;;
-12;"C9,C2";"C_0603_1608Metric";2;"1uF";;;
-13;"U4";"W25Q16JVUUIQ";1;"W25Q16JV";;;
-14;"SW3";"C455281";1;"RST";;;
-15;"R4,R3";"R_0603_1608Metric";2;"27";;;
-16;"R2";"R_0603_1608Metric";1;"1K";;;
-17;"R5";"R_0603_1608Metric";1;"10K";;;
-18;"U1";"RP2040-QFN-56";1;"RP2040";;;
-19;"U3";"SOT-23-5";1;"AP2112K-3.3";;;
-20;"G***";"electronic_cats_logo_8x6";1;"LOGO";;;
-21;"JP1";"SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm";1;"BOOT";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,manf#,LCSC#
+1,Antenna with extra pin for shielding,Antenna_Shield,AE1,Antenna_Shield,SMA_EDGE,1, ,,,
+2,"Unpolarized capacitor, small symbol",C_Small,C1 C3,27pF,C_0603_1608Metric,2, ,https://lcsc.com/product-detail/New-Arrivals_Chinocera-HGC0402G0220J500NTEJ_C482483.html,EC,
+3,"Unpolarized capacitor, small symbol",C_Small,C4 C8 C10 C11 C12 C13 C14 C15 C16 C17,0.1uF,C_0603_1608Metric,10, ,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402ZRY5V7BB104_C106209.html,EC,
+4,Unpolarized capacitor,C,C5,0.1uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,,885012207072,
+5,"Unpolarized capacitor, small symbol",C_Small,C2 C9,1uF,C_0603_1608Metric,2, ,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_muRata_GRM155R60J105KE19D_1uF-105-10-6-3V_C15684.html,EC,
+6,Unpolarized capacitor,C,C6 C7,10uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2, ,,GRM21BC80J106KE19L,
+7,"Light emitting diode, small symbol",LED_Small,D2,ON,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,,AP2012EC,
+8,"Light emitting diode, small symbol",LED_Small,D1,Rx,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,,APT2012SGC,
+9,,USB_B,J10,USB_B,C46394,1, ,,,
+10,"Jumper, 2-pole, open",Jumper_2_Open,JP1,BOOT,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,1, ,~,,
+11,"Resistor, small symbol",R_Small,R3 R4,27,R_0603_1608Metric,2, ,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-Walsin-Tech-Corp-27R-270-5_C384351.html,,
+12,"Resistor, small symbol",R_Small,R9 R11,120R,R_0603_1608Metric,2, ,,RMC1/10K1200FTP,
+13,"Resistor, small symbol",R_Small,R2,1K,R_0603_1608Metric,1, ,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-Walsin-Tech-Corp-1KR-102-5_C384390.html,,
+14,"Resistor, small symbol",R_Small,R5,10K,R_0603_1608Metric,1, ,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RC-02W103JT_C140214.html,,
+15,,SW_Push,SW3,RST,C455281,1, ,,B3U-1000P,
+16,"600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5",AP2112K-3.3,U3,AP2112K-3.3,SOT-23-5,1, ,https://www.diodes.com/assets/Datasheets/AP2112.pdf,,
+17,,RFM95W-868S2,U2,RFM95W-868S2,HOPERF_RFM9XW_SMD,1, ,,,
+18,,RP2040-MCU_RaspberryPi_and_Boards-PicoWAN-rescue-PicoWAN-rescue,U1,RP2040,RP2040-QFN-56,1, ,,,
+19,"32Mb Serial Flash Memory, Standard/Dual/Quad SPI, DFN-8",W25Q32JVZP,U4,W25Q16JV,W25Q16JVUUIQ,1, ,https://www.mouser.mx/ProductDetail/Winbond/W25Q16JVUXIQ-TR/?qs=%2Fha2pyFaduiS2uR9HYi5HkA%252B2tQKEnSsT8O6AY%252BoxISO7oyUQiPPXw%3D%3D,W25Q16JVUXIQ,
+20,"Two pin crystal, small symbol",Crystal_Small,Y1,12Mhz,Crystal_SMD_5032-2Pin_5.0x3.2mm,1, ,https://www.mouser.mx/ProductDetail/ECS/ECS-120-18-30-JGN-TR?qs=T3oQrply3y%252BB%2FETeSoGkXQ%3D%3D,ECS-120-18-30-JGN-TR,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,2.5
+Date:,2020-08-03
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,20
+Component Count:,34 (29 SMD/ 4 THT)
+Fitted Components:,34 (29 SMD/ 4 THT)
+Number of PCBs:,1
+Total Components:,34

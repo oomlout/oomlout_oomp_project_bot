@@ -1,5 +1,20 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"H2,H1";"MountingHole_2.2mm_M2";2;"MountingHole";;;
-2;"J1";"TE_84952-8_1x08-1MP_P1.0mm_Horizontal";1;"Escritura ";;;
-3;"P1";"ChipEMV";1;"ISO7816";;;
-4;"G***";"electronic_cats_logo_8x6";1;"LOGO";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,#LCSC,manf#,DNP
+1,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,J1,Escritura,TE_84952-8_1x08-1MP_P1.0mm_Horizontal,1, ,538-52271-0869,,538-52271-0869,
+2,,ISO7816-smartcard-smartcat-monitor-rescue-Metabaseq-rescue-Metabaseq-rescue,P1,ISO7816,ChipEMV,1, ,-,,,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-56
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,2
+Component Count:,2 (1 SMD/ 1 THT)
+Fitted Components:,2 (1 SMD/ 1 THT)
+Number of PCBs:,1
+Total Components:,2

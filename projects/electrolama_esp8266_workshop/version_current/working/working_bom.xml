@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="9" Component_Count="13 (0 SMD/ 0 THT)" Fitted_Components="13 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="13" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="M025MM" References="CON1" Value="M025MM" Footprint="SCREWTERMINAL-5MM-2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="LED5MM" References="LED1 LED2" Value="LED5MM" Footprint="LED5MM" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="RESISTOR-PTH-0.4" References="R2 R3" Value="470" Footprint="RTH025W" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="RESISTOR-PTH-0.4" References="R1 R4 R5" Value="10k" Footprint="RTH025W" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="TAC_SWITCHPTH" References="SW1" Value="TAC_SWITCHPTH" Footprint="TACTILE-PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="DHT11" References="U2" Value="DHT11" Footprint="DHT11" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HC-SR501" References="U3" Value="HC-SR501" Footprint="HC-SR501" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="NODEMCU_DEVKIT_V1.0" References="U1" Value="NODEMCU_DEVKIT_V1.0" Footprint="NODEMCU_DEVKIT_V1.0" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="LDR" References="VR1" Value="LDR" Footprint="LDR" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

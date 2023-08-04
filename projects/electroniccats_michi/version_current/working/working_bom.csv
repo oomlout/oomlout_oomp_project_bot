@@ -1,24 +1,45 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***";"LOGO";11;"LOGO";;;
-2;"P6,P6,P6,P6,P6,P6,P6,P6,P6,P6,P6,P6,P6,P6,P6";"SEWALLI_renew";15;"D";;;
-3;"G***,G***";"electronic_cats_logo_8x6";2;"LOGO";;;
-4;"svg2mod,svg2mod";"usb_graphic";2;"G***";;;
-5;"D1";"D_0805_2012Metric";1;"LED";;;
-6;"C5,C13,C11,C12,C9,C7,C14,C10";"C_0603_1608Metric";8;".1uf";;;
-7;"U2";"SOT-223-3_TabPin2";1;"NCP1117ST33T3G";;;
-8;"C2,C1";"C_0603_1608Metric";2;"10uf";;;
-9;"R1,R2";"R_0603_1608Metric";2;"5.1K";;;
-10;"C3,C4";"C_0603_1608Metric";2;"27pf";;;
-11;"R4,R3";"R_0603_1608Metric";2;"27.4";;;
-12;"R18,R12,R10,R7,R17,R16,R14,R6,R9,R15";"R_0603_1608Metric";10;"22M ";;;
-13;"U1";"QFN40P700X700X90-57N";1;"RP2040";;;
-14;"SW1";"SW_SPST_TL3342";1;"SW_Push";;;
-15;"P1";"C393939";1;"USB_C_Plug_USB2.0";;;
-16;"F1";"Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder";1;"0.5A";;;
-17;"C6,C8";"C_0603_1608Metric";2;"1uf";;;
-18;"R11,R8,R5";"R_0603_1608Metric";3;"1k";;;
-19;"U3";"W25Q16JVUUIQ";1;"W25Q128JVS";;;
-20;"Ref**";"PCB_Michi_Act";1;"Val**";;;
-21;"J2";"PinSocket_1x12_P2.54mm_Vertical_SMD_Pin1Right";1;"Conn_Right";;;
-22;"J1";"PinSocket_1x02_P2.54mm_Vertical";1;"Conn_01x02";;;
-23;"Y1";"Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering";1;"Crystal";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,#LCSC,Manuf,MANUFACTURER,Part#,manf#,Supplier ,MAXIMUM_PACKAGE_HEIGHT,STANDARD,PARTREV
+1,Unpolarized capacitor,C,C3 C4,27pf,C_0603_1608Metric,2, ,~,C162215,GRM1885C1H270FA01D,LCSC,,,,,,
+2,Unpolarized capacitor,C,C5 C7 C9 C10 C11 C12 C13 C14,.1uf,C_0603_1608Metric,8, ,~,C387984,0603F104Z160CT,LCSC,,,,,,
+3,Unpolarized capacitor,C,C6 C8,1uf,C_0603_1608Metric,2, ,~,C26413,CL10A105KP8NNNC,LCSC,,,,,,
+4,Unpolarized capacitor,C,C1 C2,10uf,C_0603_1608Metric,2, ,~,C326057,CC0603KRX5R6BB106,LCSC,,,,,,
+5,Light emitting diode,LED,D1,LED,D_0805_2012Metric,1, ,~,C130114,D-R080508L3-KS2,LCSC,,,,,,
+6,"Fuse, small symbol",Fuse_Small,F1,0.5A,Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,1, ,,0ZCG0030FF2C,,Mouser,,0ZCG0030FF2C,Mouser,,,
+7,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J1,Conn_01x02,PinSocket_1x02_P2.54mm_Vertical,1, ,~,---,---,,,,,,,
+8,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x12,J2,Conn_Right,PinSocket_1x12_P2.54mm_Vertical_SMD_Pin1Right,1, ,~,61001211921,,wurth,,,,,,
+9,"Jumper, 2-pole, open",Jumper_2_Open,JP3,A,,1, ,~,,,,,,,,,
+10,"Jumper, 2-pole, open",Jumper_2_Open,JP6,Click,,1, ,~,,,,,,,,,
+11,"Jumper, 2-pole, open",Jumper_2_Open,JP8,DOWN,,1, ,~,,,,,,,,,
+12,"Jumper, 2-pole, open",Jumper_2_Open,JP1 JP2,Jp,,2, ,~,,,,,,,,,
+13,"Jumper, 2-pole, open",Jumper_2_Open,JP10,LEFT,,1, ,~,,,,,,,,,
+14,"Jumper, 2-pole, open",Jumper_2_Open,JP7,RIGHT,,1, ,~,,,,,,,,,
+15,"Jumper, 2-pole, open",Jumper_2_Open,JP5,SPACE,,1, ,~,,,,,,,,,
+16,"Jumper, 2-pole, open",Jumper_2_Open,JP9,UP,,1, ,~,,,,,,,,,
+17,"Jumper, 2-pole, open",Jumper_2_Open,JP4,W,,1, ,~,,,,,,,,,
+18,USB 2.0-only Type-C Plug connector,USB_C_Plug_USB2.0,P1,USB_C_Plug_USB2.0,C393939,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,C393939,DX07S016JA1R1500,Mouser,,,,,,
+19,Resistor,R,R3 R4,27.4,R_0603_1608Metric,2, ,~,C177713,RCT0327R4FLF,LCSC,,,,,,
+20,Resistor,R,R5 R8 R11,1k,R_0603_1608Metric,3, ,~,C246023,RC0603JR-071K1L,LCSC,,,,,,
+21,Resistor,R,R1 R2,5.1K,R_0603_1608Metric,2, ,~,C131715,RK73B1JTTD512J,LCSC,,,,,,
+22,Resistor,R,R6 R7 R9 R10 R12 R14 R15 R16 R17 R18,22M,R_0603_1608Metric,10, ,~,C33143,0603WAJ0226T5E,LCSC,,,,,,
+23,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SW_SPST_TL3342,1, ,~,C318893,TS-1185EC-C-D-B,LCSC,,,,,,
+24,"1A Low drop-out regulator, Fixed Output 3.3V, SOT-223",NCP1117-3.3_SOT223,U2,NCP1117ST33T3G,SOT-223-3_TabPin2,1, ,http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF,NCP1117ST33T3G,NCP1117ST33T3G,Mouser,,,,,,
+25,,RP2040,U1,RP2040,QFN40P700X700X90-57N,1, ,,RP2040,RP2040,Mouser,,,,,,
+26,"128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",W25Q128JVS,U3,W25Q128JVS,W25Q16JVUUIQ,1, ,http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf,W25Q128JVSIM TR,W25Q16JVUUIQ,Mouser,,,,,,
+27,Two pin crystal,Crystal,Y1,Crystal,Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering,1, ,https://www.mouser.mx/datasheet/2/122/ecx_53r-17605.pdf1664338.pdf,ECS-120-18-30-JGN-TR,ECS-120-18-30-JGN-TR,Mouser,,,,,,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-57
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,28
+Component Count:,52 (37 SMD/ 4 THT)
+Fitted Components:,51 (37 SMD/ 4 THT)
+Number of PCBs:,1
+Total Components:,51

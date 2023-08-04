@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="11" Component_Count="14 (0 SMD/ 0 THT)" Fitted_Components="14 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="14" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="HEADER-1X2ROUND" References="JP6" Value="HEADER-1X2ROUND" Footprint="1X02_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="HEADER-1X376MIL" References="JP4 JP5" Value="HEADER-1X376MIL" Footprint="1X03_ROUND_76" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="HEADER-1X570MIL" References="JP2 JP3" Value="HEADER-1X570MIL" Footprint="1X05_ROUND_70" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="HEADER-1X576MIL" References="JP7" Value="HEADER-1X576MIL" Footprint="1X05_ROUND_76" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X970MIL" References="JP1" Value="HEADER-1X970MIL" Footprint="1X09_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="FEATHERWING_NOHOLES" References="MS1" Value="FEATHERWING_NOHOLES" Footprint="FEATHERWING_NOHOLES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR_0603_NOOUT" References="R1 R2" Value="100k" Footprint="0603-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="SWITCH_TACT_SMT4.6X2.8" References="SW1" Value="SWITCH_TACT_SMT4.6X2.8" Footprint="BTN_KMR2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RFM69HCW_SMT" References="U4" Value="RFM69/9x" Footprint="RFMHCW_SMT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="SMACONNECTOR_EDGE_UFL" References="X1" Value="uFL/SMA" Footprint="SMA_EDGELAUNCH_UFL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

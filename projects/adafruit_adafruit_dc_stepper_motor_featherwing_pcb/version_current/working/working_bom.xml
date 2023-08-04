@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="16" Component_Count="22 (0 SMD/ 0 THT)" Fitted_Components="22 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="22" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-33" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C6 C10" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_ELECTROLYTICPANASONIC_C" References="C5" Value="47uF+/16v" Footprint="PANASONIC_C" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_ELECTROLYTICPANASONIC_C" References="C4" Value="47uF/16v" Footprint="PANASONIC_C" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="TB6612FNG" References="IC1 IC3" Value="TB6612FNG" Footprint="SSOP24" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="HEADER-1X12" References="JP1" Value="HEADER-1X12" Footprint="1X12_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HEADER-1X16ROUND" References="JP2" Value="HEADER-1X16ROUND" Footprint="1X16_ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LED0805_NOOUTLINE" References="LED1" Value="Green" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="1X2-3.5MM" References="MPOWER0" Value="1X2-3.5MM" Footprint="1X2-3.5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="FEATHERWING" References="MS1" Value="FEATHERWING" Footprint="FEATHERWING" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="MOSFET-P-POWERDI3333" References="Q1" Value="AON7401" Footprint="POWERDI3333" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR0805_NOOUTLINE" References="R4" Value="1K" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="RESISTOR_4PACK" References="R9 R10" Value="10K" Footprint="RESPACK_4X0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="SWITCH_TACT_SMT4.6X2.8" References="SW1" Value="SWITCH_TACT_SMT4.6X2.8" Footprint="BTN_KMR2_4.6X2.8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="PCA9685" References="U2" Value="PCA9685" Footprint="TSSOP28" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="TERMBLOCK_1X2" References="X1 X2 X4 X6" Value="TERMBLOCK_1X2" Footprint="TERMBLOCK_1X2-3.5MM" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+</KiCad_BOM>

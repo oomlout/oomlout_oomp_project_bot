@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="10" Component_Count="12 (0 SMD/ 11 THT)" Fitted_Components="12 (0 SMD/ 11 THT)" Number_of_PCBs="1" Total_Components="12" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-59" encoding="utf-8">
+	<group Row="1" Description="Light emitting diode" Part="LED" References="D1" Value="LED" Footprint="LED_D10.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="2" Description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x02_Male" References="J4" Value="Conn_01x02_Male" Footprint="PinHeader_1x02_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="3" Description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x03_Male" References="J1" Value="Conn_01x03_Male" Footprint="PinHeader_1x03_P2.54mm_Horizontal" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="4" Description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x03_Male" References="J2 J3" Value="Conn_01x03_Male" Footprint="PinHeader_1x03_P2.54mm_Vertical" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="5" Description="5A Ic, 60V Vce, Silicon Darlington Power NPN Transistor, TO-220" Part="TIP120" References="Q1" Value="TIP120" Footprint="TO-220-3_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.onsemi.com/pub/Collateral/TIP120-D.PDF"/>
+	<group Row="6" Description="Resistor" Part="R" References="R1 R3" Value="R" Footprint="R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="7" Description="Photoresistor" Part="R_Photo" References="R2" Value="R_Photo" Footprint="R_LDR_10x8.5mm_P7.6mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="8" Description="Potentiometer" Part="R_Potentiometer" References="RV1" Value="R_Potentiometer" Footprint="" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="9" Description="Push button switch, generic, two pins" Part="SW_Push" References="SW1" Value="SW_Push" Footprint="SW_PUSH_6mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="10" Description="Push button switch, generic, two pins" Part="SW_Push" References="SW2" Value="SW_Push" Footprint="SW_PUSH-12mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+</KiCad_BOM>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="15" Component_Count="37 (0 SMD/ 0 THT)" Fitted_Components="37 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="37" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="CAPPTH2" References="C1" Value="100n" Footprint="CAP-PTH-SMALL2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CPOL-USE2.5-6" References="C2 C3" Value="100uF" Footprint="E2,5-6" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="ZENER-DIODEDO34-7" References="D3 D4" Value="ZENER-DIODEDO34-7" Footprint="DO34Z7" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="AVR-MEGA8-PPTH" References="IC1" Value="AVR-MEGA8-PPTH" Footprint="DIL28-3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="AVR-ISP-6" References="ISP0" Value="AVR-ISP-6" Footprint="AVR-ISP-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="PINHD-1X8BIG" References="JP2" Value="Breakout" Footprint="1X08-BIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="HEADER-1X2" References="JP1" Value="HEADER-1X2" Footprint="1X02_OVAL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LED-RGB-CA-PIRANHA" References="LED1 LED2 LED3 LED4 LED5 LED6 LED7 LED8" Value="LED-RGB-CA-PIRANHA" Footprint="PIRANHA5MM" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="CERMOSCILL" References="Q1" Value="12MHz" Footprint="CERM_OSC" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="TRANSISTOR_NPNTO92" References="Q2 Q3 Q4" Value="2n2222" Footprint="TO-92" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="R-US_0207/9" References="R1 R2" Value="47R" Footprint="0207_9" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="R-US_0207/9" References="R3 R14 R15 R16" Value="2K2" Footprint="0207_9" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="R-US_0207/9" References="R5 R6 R7 R8 R9 R10 R11 R12" Value="R-US_0207/9" Footprint="0207_9" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="TRIMPOT3386" References="TM2" Value="10KΩ" Footprint="TRIM-3386" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="USBPTH" References="USB0" Value="USBPTH" Footprint="USB-B-PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
