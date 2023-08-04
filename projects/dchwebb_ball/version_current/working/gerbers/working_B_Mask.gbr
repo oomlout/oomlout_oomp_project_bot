@@ -1,0 +1,47 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.6-7.0.6~ubuntu22.04.1*%
+%TF.CreationDate,2023-08-04T08:56:19+01:00*%
+%TF.ProjectId,working,776f726b-696e-4672-9e6b-696361645f70,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.6-7.0.6~ubuntu22.04.1) date 2023-08-04 08:56:19*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMHorizOval*
+0 Thick line with rounded ends*
+0 $1 width*
+0 $2 $3 position (X,Y) of the first rounded end (center of the circle)*
+0 $4 $5 position (X,Y) of the second rounded end (center of the circle)*
+0 Add line between two ends*
+20,1,$1,$2,$3,$4,$5,0*
+0 Add two circle primitives to create the rounded ends*
+1,1,$1,$2,$3*
+1,1,$1,$4,$5*%
+G04 Aperture macros list end*
+%ADD10O,0.950000X1.250000*%
+%ADD11O,1.550000X1.000000*%
+%ADD12HorizOval,0.950000X0.106066X0.106066X-0.106066X-0.106066X0*%
+%ADD13HorizOval,1.000000X-0.194454X0.194454X0.194454X-0.194454X0*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J3*%
+X150915000Y-137850000D03*
+X150915000Y-132850000D03*
+D11*
+X153615000Y-131850000D03*
+X153615000Y-138850000D03*
+%TD*%
+D12*
+%TO.C,J2*%
+X262662205Y-115110239D03*
+X266197739Y-111574705D03*
+D13*
+X268814034Y-112776786D03*
+X263864286Y-117726534D03*
+%TD*%
+M02*

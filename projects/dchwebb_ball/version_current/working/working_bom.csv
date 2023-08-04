@@ -1,64 +1,53 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"C22,C18,C20";"C_0603_1608Metric";3;"33nF";;;
-2;"R5";"R_0603_1608Metric";1;"27k";;;
-3;"C12,C21";"C_0402_1005Metric";2;"0.8pF";;;
-4;"C11,C16,C18,C10";"C_0603_1608Metric";4;"18pF";;;
-5;"R8,R12,R4";"R_0603_1608Metric";3;"5k1";;;
-6;"R17,R8,R16,R2,R15,R23,R1,R3,R19,R14";"R_0603_1608Metric";10;"1k";;;
-7;"U2";"SOT-223-3_TabPin2";1;"LD1117-3.3-4Tab";;;
-8;"C4,C1,C1,C11,C5";"C_0603_1608Metric";5;"4.7uF";;;
-9;"U3";"SOIC-14_3.9x8.7mm_P1.27mm";1;"TL074";;;
-10;"C4,C6,C5,C8,C5,C7,C6,C8,C3,C23,C4,C2,C15,C2,C7,C10,C1,C2,C16,C14,C9";"C_0603_1608Metric";21;"100nF";;;
-11;"R15,R8,R20,R11,R14,R24";"R_0603_1608Metric";6;"47k";;;
-12;"C21,C24";"CP_Elec_4x5.3";2;"22uF";;;
-13;"R5";"R_0603_1608Metric";1;"56k";;;
-14;"C12,C14";"C_0603_1608Metric";2;"2.2nF";;;
-15;"C20,C18,C6,C12";"C_0603_1608Metric";4;"1uF";;;
-16;"R26,R25,R27";"R_0603_1608Metric";3;"4k7";;;
-17;"C19,C3,C17";"C_0603_1608Metric";3;"10uF";;;
-18;"R6,R11,R2,R10,R7,R3";"R_0603_1608Metric";6;"20k";;;
-19;"R3,R9,R13,R5";"R_0603_1608Metric";4;"10k";;;
-20;"AE1,AE1";"NN01_102";2;"Antenna_Shield";;;
-21;"J3,J2";"USB_Micro-B_Amphenol";2;"USB_B_Micro";;;
-22;"D1";"D_SMA";1;"PMEG3010ER";;;
-23;"D3";"LED_0603_1608Metric";1;"LED_CONNECT";;;
-24;"D1,D2,D2,D3";"D_SOD-123";4;"1N5819";;;
-25;"C19,C21,C17";"C_0603_1608Metric";3;"22nF";;;
-26;"U7";"SOT-23";1;"LM4040DBZ-5";;;
-27;"Q1,Q2";"SOT-23";2;"MMBT3904";;;
-28;"C13,C22";"C_0402_1005Metric";2;"0.3pF";;;
-29;"R10,R13,R17,R21";"R_0603_1608Metric";4;"68k";;;
-30;"U1";"LQFP-64_10x10mm_P0.5mm";1;"STM32F405RGTx";;;
-31;"C19,C13";"C_0603_1608Metric";2;"10nF";;;
-32;"C20";"C_0805_2012Metric";1;"10uF";;;
-33;"C7,C3";"C_0402_1005Metric";2;"100nF";;;
-34;"U1,U3";"QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias";2;"STM32WB35";;;
-35;"C16,C17";"C_0603_1608Metric";2;"16pF";;;
-36;"R18,R22";"R_0603_1608Metric";2;"6.8k";;;
-37;"C14";"CP_Elec_5x5.8";1;"47uF";;;
-38;"R9,R1,R4,R2,R6,R1,R12,R16";"R_0603_1608Metric";8;"100k";;;
-39;"D2";"LED_0603_1608Metric";1;"LED_CHG";;;
-40;"U2,U4";"SOIC-8_3.9x4.9mm_P1.27mm";2;"TL072";;;
-41;"C10,C11";"CP_Elec_4x5.4";2;"22uF";;;
-42;"R6";"R_0603_1608Metric";1;"13k";;;
-43;"L1,L1";"L_0402_1005Metric";2;"2.7nH";;;
-44;"Y1,Y1";"Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm";2;"32MHz";;;
-45;"RESET1";"SW_SPST_EVQQ2";1;"SW_Push";;;
-46;"U3";"SOIC-14_3.9x8.7mm_P1.27mm";1;"MCP6004";;;
-47;"Q1";"SOT-23";1;"SI2333DS";;;
-48;"R7";"R_0603_1608Metric";1;"24k";;;
-49;"U2";"LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y";1;"L3GD20";;;
-50;"C15,C9";"C_0402_1005Metric";2;"100pF";;;
-51;"C15,C13";"C_0603_1608Metric";2;"1.5nF";;;
-52;"Y1";"Crystal_SMD_0603-2Pin_6.0x3.5mm";1;"12MHz";;;
-53;"U4";"SOT-23-5";1;"LD3985M28R_SOT23";;;
-54;"C8,C9";"C_0603_1608Metric";2;"2.2uF";;;
-55;"CONNECT1";"SW_SPST_EVQQ2";1;"SW_Push";;;
-56;"R4";"R_0603_1608Metric";1;"91k";;;
-57;"Y2";"Crystal_SMD_2012-2Pin_2.0x1.2mm";1;"32.768MHz";;;
-58;"R28";"R_0603_1608Metric";1;"2.2k";;;
-59;"U1";"SOT-23-5";1;"MCP73831-2-OT";;;
-60;"C22";"CP_Elec_5x5.4";1;"47uF";;;
-61;"U4";"SOT-223-3_TabPin2";1;"LM1117-3.3";;;
-62;"L1,L2";"L_0805_2012Metric";2;"L";;;
-63;"R7";"R_0603_1608Metric";1;"82k";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Part_Number
+1,Antenna with extra pin for shielding,Antenna_Shield,AE1,Antenna_Shield,NN01_102,1, ,~,
+2,Single-cell battery,Battery_Cell,BT1,LIPO_Battery,PinHeader_1x02_P2.54mm_Vertical,1, ,~,
+3,"Unpolarized capacitor, small symbol",C_Small,C22,0.3pF,C_0402_1005Metric,1, ,~,
+4,"Unpolarized capacitor, small symbol",C_Small,C21,0.8pF,C_0402_1005Metric,1, ,~,
+5,"Unpolarized capacitor, small symbol",C_Small,C16 C17,20pF,C_0603_1608Metric,2, ,~,
+6,"Unpolarized capacitor, small symbol",C_Small,C15,100pF,C_0402_1005Metric,1, ,~,
+7,"Unpolarized capacitor, small symbol",C_Small,C13 C19,10nF,C_0603_1608Metric,2, ,~,
+8,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C6 C8 C9 C10 C14,100nF,C_0603_1608Metric,7, ,~,
+9,"Unpolarized capacitor, small symbol",C_Small,C7,100nF,C_0402_1005Metric,1, ,~,
+10,"Unpolarized capacitor, small symbol",C_Small,C12 C18 C20,1uF,C_0603_1608Metric,3, ,~,
+11,"Unpolarized capacitor, small symbol",C_Small,C4 C5 C11,4.7uF,C_0603_1608Metric,3, ,~,
+12,"Unpolarized capacitor, small symbol",C_Small,C3,10uF,C_0603_1608Metric,1, ,~,
+13,"Push button switch, generic, two pins",SW_Push,CONNECT1,SW_Push,SW_SPST_EVQQ2,1, ,~,
+14,"Light emitting diode, small symbol",LED_Small,D2,LED_CHG,LED_0603_1608Metric,1, ,~,
+15,"Light emitting diode, small symbol",LED_Small,D3,LED_CONNECT,LED_0603_1608Metric,1, ,~,
+16,"30V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)",B130-E3,D1,PMEG3010ER,D_SMA,1, ,http://www.vishay.com/docs/88946/b120.pdf,
+17,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10_Male,J1,I2C_Gyro_Module,PinSocket_1x10_P2.54mm_Vertical,1, ,~,
+18,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Male,J3,SWD_Header,SWD_header,1, ,~,
+19,USB Micro Type B connector,USB_B_Micro,J2,USB_B_Micro,USB_Micro-B_Amphenol,1, ,~,
+20,"Inductor, small symbol",L_Small,L1,2.7nH,L_0402_1005Metric,1, ,~,
+21,"-4.4A Id, -40V Vds, P-Channel MOSFET, SOT-23",Si2319CDS,Q1,SI2333DS,SOT-23,1, ,http://www.vishay.com/docs/66709/si2319cd.pdf,
+22,"Resistor, small symbol",R_Small,R1 R8,1k,R_0603_1608Metric,2, ,~,C25803
+23,"Resistor, small symbol",R_Small,R3,10k,R_0603_1608Metric,1, ,~,C25803
+24,"Resistor, small symbol",R_Small,R6,13k,R_0603_1608Metric,1, ,~,C25803
+25,"Resistor, small symbol",R_Small,R7,24k,R_0603_1608Metric,1, ,~,C25803
+26,"Resistor, small symbol",R_Small,R5,27k,R_0603_1608Metric,1, ,~,C25803
+27,"Resistor, small symbol",R_Small,R2 R4,100k,R_0603_1608Metric,2, ,~,C25803
+28,"Push button switch, generic, two pins",SW_Push,RESET1,SW_Push,SW_Tactile_SPST_Angled_PTS645Vx58-2LFS,1, ,~,
+29,"Switch, single pole double throw",SW_SPDT,SW1,SW_SPDT,SPDT_Slide_Switch,1, ,~,
+30,"[Not recommended for new designs] 16-bit 3 Axis Digital MEMS Gyroscope, LGA-16",L3GD20,U2,L3GD20,LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y,1, ,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00036465.pdf,
+31,"150mA Low Dropout Voltage Regulator, Fixed Output 2.8V, SOT-23-5",LD3985M28R_SOT23,U4,LD3985M28R_SOT23,SOT-23-5,1, ,http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf,
+32,"Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package",MCP73831-2-OT,U1,MCP73831-2-OT,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf,
+33,,STM32WB35,U3,STM32WB35,QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias,1, ,,
+34,"Two pin crystal, small symbol",Crystal_Small,Y2,32.768MHz,Crystal_SMD_2012-2Pin_2.0x1.2mm,1, ,~,
+35,"Four pin crystal, GND on pins 2 and 4, small symbol",Crystal_GND24_Small,Y1,32MHz,Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm,1, ,~,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-50
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,35
+Component Count:,49 (46 SMD/ 0 THT)
+Fitted Components:,49 (46 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,49

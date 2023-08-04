@@ -1,16 +1,35 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"C101,C102,C103,C104,C105,C106,C107,C110,C111,C112,C113,C108,C109";"C_0805_2012Metric";13;"C";;;
-2;"D101";"DIODE_DO-214BA";1;"D";;;
-3;"D102,D103,D104,D105";"LED_0805_2012Metric";4;"LED";;;
-4;"J101";"USB_Micro-B_Molex-105017-0001";1;"USB_B_Micro";;;
-5;"J102";"TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal";1;"Conn_01x02";;;
-6;"J103";"PinHeader_2x02_P2.54mm_Vertical";1;"Conn_02x02_Counter_Clockwise";;;
-7;"J104,J105,J106,J107";"SMA_Amphenol_132289_EdgeMount";4;"Conn_Coaxial";;;
-8;"L101,L102";"L_0805_2012Metric";2;"L";;;
-9;"P101";"Connector_SFP_and_Cage";1;"SFP-CONNECTOR";;;
-10;"R101,R102,R103,R106";"R_0805_2012Metric";4;"R";;;
-11;"R104,R105,R107,R108,R109";"R_0805_2012Metric";5;"7k";;;
-12;"U102";"TSSOP-14_4.4x5mm_P0.65mm";1;"74HC14";;;
-13;"JP101";"PinHeader_1x02_P2.54mm_Vertical";1;"Jumper";;;
-14;"TP101";"PinHeader_1x02_P2.54mm_Vertical";1;"TestPoint_2Pole";;;
-15;"U101";"TO-263-5_TabPin3";1;"LT1963AxQ-3.3";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,Unpolarized capacitor,C,C108 C109,10n,C_0805_2012Metric,2, ,~
+2,Unpolarized capacitor,C,C102 C106 C107 C110 C111 C112 C113,100n,C_0805_2012Metric,7, ,~
+3,Unpolarized capacitor,C,C104 C105,1u,C_0805_2012Metric,2, ,~
+4,Unpolarized capacitor,C,C101 C103,10u,C_0805_2012Metric,2, ,~
+5,Diode,D,D101,D,DIODE_DO-214BA,1, ,~
+6,Light emitting diode,LED,D102 D103 D104 D105,LED,LED_0805_2012Metric,4, ,~
+7,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J102,Conn_01x02,TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal,1, ,~
+8,"Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x02_Counter_Clockwise,J103,Conn_02x02_Counter_Clockwise,PinHeader_2x02_P2.54mm_Vertical,1, ,~
+9,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J104 J105 J106 J107,Conn_Coaxial,SMA_Amphenol_132289_EdgeMount,4, ,~
+10,,USB_B_Micro-Connector,J101,USB_B_Micro,USB_Micro-B_Molex-105017-0001,1, ,~
+11,,Jumper-Device,JP101,Jumper,PinHeader_1x02_P2.54mm_Vertical,1, ,~
+12,Inductor,L,L101 L102,1uH,L_0805_2012Metric,2, ,~
+13,,SFP-CONNECTOR-awallin,P101,SFP-CONNECTOR,Connector_SFP_and_Cage,1, ,
+14,Resistor,R,R101 R102 R103 R106,680R,R_0805_2012Metric,4, ,~
+15,Resistor,R,R104 R105 R107 R108 R109,6k8,R_0805_2012Metric,5, ,~
+16,Hex inverter schmitt trigger,74HC14,U102,74HC14,TSSOP-14_4.4x5mm_P0.65mm,1, ,http://www.ti.com/lit/gpn/sn74HC14
+17,"3.3V, 1.5A, Low Noise, Fast Transient Response LDO Regulator, TO-263-5",LT1963AxQ-3.3,U101,LT1963AxQ-3.3,TO-263-5_TabPin3,1, ,https://www.analog.com/media/en/technical-documentation/data-sheets/1963aff.pdf
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,2018.11
+Date:,2023-08-02_17-08-38
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,17
+Component Count:,40 (36 SMD/ 4 THT)
+Fitted Components:,40 (36 SMD/ 4 THT)
+Number of PCBs:,1
+Total Components:,40

@@ -1,39 +1,55 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"BZ1";"MURATA_PKM13EPYH4000-A0";1;"Buzzer";;;
-2;"C1,C9,C14,C38,C47,C46,C48";"C_0603_1608Metric";7;"4.7uF";;;
-3;"C2,C5,C6,C7,C8,C12,C13,C17,C18,C22,C23,C24,C25,C26,C28,C29,C30,C31,C32,C33,C34,C35,C36,C37,C40,C41,C42,C43,C4,C44,C45";"C_0402_1005Metric";31;"100nF";;;
-4;"C3,C20";"C_0402_1005Metric";2;"1nF";;;
-5;"C10,C11,C15,C16";"C_0805_2012Metric";4;"220nF";;;
-6;"C19";"CP_Radial_D10.0mm_P5.00mm";1;"1000uF";;;
-7;"C21,C27";"C_0402_1005Metric";2;"10nF";;;
-8;"C39";"CP_Radial_D10.0mm_P5.00mm";1;"470uF";;;
-9;"D1,D2,D6,D7,D10,D11,D12,D13,D14,D15,D19,D20,D21,D22,D23,D24,D26";"D_SOD-323";17;"TVS_5V";;;
-10;"D4,D16";"D_SMB_Handsoldering";2;"TVS_12V";;;
-11;"D5";"LED_0805_2012Metric";1;"LED";;;
-12;"D8,D9,D17,D18,D3";"D_DO-201AD_P12.70mm_Horizontal";5;"D_Schottky";;;
-13;"F1";"FUSE_3550-2";1;"ATC";;;
-14;"H1,H2,H3,H4,H5";"HOLE_M4";5;"HOLE";;;
-15;"J3,J9,J10";"PinHeader_1x02_P2.54mm_Horizontal";3;"Conn_01x02";;;
-16;"J4";"Anderson_1336G1_right_angle_bottom_two";1;"Anderson_two_redblack_src";;;
-17;"J5,J6,J12,J13,J11";"PinHeader_1x03_P2.54mm_Horizontal";5;"Conn_01x03";;;
-18;"J7,J8";"Anderson_1336G1_right_angle_bottom_two";2;"Anderson_two_redblack_sink";;;
-19;"J14,J2";"PinHeader_1x04_P2.54mm_Horizontal";2;"Conn_01x04";;;
-20;"JP1,JP2";"SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm";2;"SolderJumper_2_Open";;;
-21;"Q1,Q2,Q3,Q4";"SOT-23";4;"AO3400A";;;
-22;"R1,R14";"R_0603_1608Metric";2;"470";;;
-23;"R2,R6,R21,R22";"R_0603_1608Metric";4;"24k";;;
-24;"R3,R4,R5,R10,R11,R12,R18,R19,R20,R30,R32,R33,R17";"R_0603_1608Metric";13;"10k";;;
-25;"R7,R13,R15,R23,R24,R39,R45,R44,R43,R42";"R_0603_1608Metric";10;"150";;;
-26;"R8";"R_0603_1608Metric";1;"390k";;;
-27;"R9,R29";"R_0603_1608Metric";2;"110k";;;
-28;"R16";"R_0603_1608Metric";1;"47";;;
-29;"R25,R26,R27,R28";"R_0603_1608Metric";4;"4k7";;;
-30;"SW1";"SW_TACTILE_5.1MM_TS-1187A-C-D-B";1;"SW_Push";;;
-31;"SW2";"BOURNS_PEC12R-4xxxF-Sxxxx";1;"Rotary_Encoder_Switch";;;
-32;"U1";"LQFP-48_7x7mm_P0.5mm";1;"STM32F030C8Tx";;;
-33;"U2,U3";"TO-263-7_TabPin8";2;"IFX007T";;;
-34;"U4,U6";"TO-92L_Inline_Wide";2;"AP7381-XXV";;;
-35;"U5";"TO-92_Inline";1;"DS18B20";;;
-36;"J1";"Anderson_1336G1_right_angle_bottom_two";1;"Anderson_two_redblack";;;
-37;"R34,R35,R36,R37,R31,R38,R41,R40";"R_0603_1608Metric";8;"1k";;;
-38;"H6";"SLOT_W2mm_H8mm";1;"SLOT";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,MPN,LCSC
+1,"Buzzer, polarized",Buzzer,BZ1,Buzzer,MURATA_PKM13EPYH4000-A0,1, ,https://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKM13EPYH4000-A0,PKM13EPYH4000-A0,
+2,Unpolarized capacitor,C,C3 C20,1nF,C_0402_1005Metric,2, ,~,,C1523
+3,Unpolarized capacitor,C,C21 C27,10nF,C_0402_1005Metric,2, ,~,,C15195
+4,Unpolarized capacitor,C,C2 C4 C5 C6 C7 C8 C12 C13 C17 C18 C22 C23 C24 C25 C26 C28 C29 C30 C31 C32 C33 C34 C35 C36 C37 C40 C41 C42 C43 C44 C45,100nF,C_0402_1005Metric,31, ,~,,C307331
+5,Unpolarized capacitor,C,C10 C11 C15 C16,220nF,C_0805_2012Metric,4, ,~,,C5378
+6,Unpolarized capacitor,C,C1 C9 C14 C38 C46 C47 C48,4.7uF,C_0603_1608Metric,7, ,~,,C19666
+7,Polarized capacitor,C_Polarized,C39,470uF,CP_Radial_D10.0mm_P5.00mm,1, ,~,25PK1000MEFC10X16,
+8,Polarized capacitor,C_Polarized,C19,1000uF,CP_Radial_D10.0mm_P5.00mm,1, ,~,25PK1000MEFC10X16,
+9,Schottky diode,D_Schottky,D3 D8 D9 D17 D18,D_Schottky,D_DO-201AD_P12.70mm_Horizontal,5, ,~,SB10150TA,
+10,Light emitting diode,LED,D5,LED,LED_0805_2012Metric,1, ,~,,C84256
+11,Bidirectional transient-voltage-suppression diode,D_TVS,D4 D16,TVS_12V,D_SMB_Handsoldering,2, ,~,SMBJ16CA,
+12,Bidirectional transient-voltage-suppression diode,D_TVS,D1 D2 D6 D7 D10 D11 D12 D13 D14 D15 D19 D20 D21 D22 D23 D24 D26,TVS_5V,D_SOD-323,17, ,~,,C182013
+13,,POWER_FUSE,F1,ATC,FUSE_3550-2,1, ,,3550-2,
+14,,HOLE,H1 H2 H3 H4 H5,HOLE,HOLE_M4,5, ,,,
+15,,HOLE,H6,SLOT,SLOT_W2mm_H8mm,1, ,,,
+16,,Anderson_two_redblack,J1,Anderson_two_redblack,Anderson_1336G1_right_angle_bottom_two,1, ,,,
+17,,Anderson_two_redblack_sink,J7 J8,Anderson_two_redblack_sink,Anderson_1336G1_right_angle_bottom_two,2, ,,,
+18,,Anderson_two_redblack_src,J4,Anderson_two_redblack_src,Anderson_1336G1_right_angle_bottom_two,1, ,,,
+19,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J3 J9 J10,Conn_01x02,PinHeader_1x02_P2.54mm_Horizontal,3, ,~,,
+20,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J5 J6 J11 J12 J13,Conn_01x03,PinHeader_1x03_P2.54mm_Horizontal,5, ,~,,
+21,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J2 J14,Conn_01x04,PinHeader_1x04_P2.54mm_Horizontal,2, ,~,,
+22,"30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23",AO3400A,Q1 Q2 Q3 Q4,AO3400A,SOT-23,4, ,http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf,,C20917
+23,Resistor,R,R16,47,R_0603_1608Metric,1, ,~,,C23182
+24,Resistor,R,R7 R13 R15 R23 R24 R39 R42 R43 R44 R45,150,R_0603_1608Metric,10, ,~,,C22808
+25,Resistor,R,R1 R14,470,R_0603_1608Metric,2, ,~,,C23179
+26,Resistor,R,R31 R34 R35 R36 R37 R38 R40 R41,1k,R_0603_1608Metric,8, ,~,,C11702 C22808
+27,Resistor,R,R25 R26 R27 R28,4k7,R_0603_1608Metric,4, ,~,,C23162
+28,Resistor,R,R3 R4 R5 R10 R11 R12 R17 R18 R19 R20 R30 R32 R33,10k,R_0603_1608Metric,13, ,~,,C25804
+29,Resistor,R,R2 R6 R21 R22,24k,R_0603_1608Metric,4, ,~,,C23352
+30,Resistor,R,R9 R29,110k,R_0603_1608Metric,2, ,~,,C25805
+31,Resistor,R,R8,390k,R_0603_1608Metric,1, ,~,,C23150
+32,"Rotary encoder, dual channel, incremental quadrate outputs, with switch",RotaryEncoder_Switch,SW2,Rotary_Encoder_Switch,BOURNS_PEC12R-4xxxF-Sxxxx,1, ,~,PEC12R-4230F-S0024,
+33,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SW_TACTILE_5.1MM_TS-1187A-C-D-B,1, ,~,,C318884
+34,"150mA Low Dropout Voltage Regulator, Fixed Output, TO-92",AP7381-XXV,U4 U6,AP7381-XXV,TO-92L_Inline_Wide,2, ,https://www.diodes.com/assets/Datasheets/AP7381.pdf,AP7381-33V AP7381-50V,
+35,Programmable Resolution 1-Wire Digital Thermometer TO-92,DS18B20,U5,DS18B20,TO-92_Inline,1, ,http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf,DS18B20,
+36,,IFX007T,U2 U3,IFX007T,TO-263-7_TabPin8,2, ,https://media.digikey.com/pdf/Data%20Sheets/Infineon%20PDFs/IFX007T_Rev1.0_2018-02-21.pdf,IFX007T,
+37,"ARM Cortex-M0 MCU, 64KB flash, 8KB RAM, 48MHz, 2.4-3.6V, 39 GPIO, LQFP-48",STM32F030C8Tx,U1,STM32F030C8Tx,LQFP-48_7x7mm_P0.5mm,1, ,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf,,C23922
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-45
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,37
+Component Count:,152 (119 SMD/ 33 THT)
+Fitted Components:,152 (119 SMD/ 33 THT)
+Number of PCBs:,1
+Total Components:,152

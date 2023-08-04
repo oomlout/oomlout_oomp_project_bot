@@ -1,16 +1,33 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"R6,R8,R7";"R0402";3;"RC0402FR-0710KL";;;
-2;"H4,H1,H3,H2";"M3_HOLE";4;"M3_Plated_Hole";;;
-3;"D1";"LED0603";1;"LTST-C194KGKT";;;
-4;"C6,C8,C9,C7,C1,C2";"UCM1C470MCL1GS";6;"UCM1C470MCL1GS";;;
-5;"R1";"R0603";1;"AT0603FRE0710KL";;;
-6;"R2";"R0402";1;"RC0402FR-071KL";;;
-7;"R5,R4,R3";"R0402";3;"RC0402FR-0722RL";;;
-8;"T10,T7,T8,T9,T11,T6";"Shrouded_Pin_Header_Straight_1x03_Pitch2.54mm";6;"0705430002";;;
-9;"C3,C4,C5";"R0402";3;"C0402C104K9PACTU";;;
-10;"M3,M2,M4";"TMCSILENTSTEPSTICK_SPI";3;"TMCSILENTSTEPSTICK";;;
-11;"T1";"PinHeader_2x05_P2.54mm_Vertical";1;"PRPC005DAAN-RC";;;
-12;"T5,T4,T3";"0395121004";3;"0395121004";;;
-13;"SP1";"ARDUINO_A000053";1;"Arduino_Micro";;;
-14;"T2";"0395121002";1;"0395121002";;;
-15;"M1";"D24V5F12";1;"D24V5F12";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Cost QTY: 1,Cost QTY: 1000,Cost QTY: 2500,Cost QTY: 5000,Cost QTY: 10000,MFR,MFR#,Vendor,Vendor #,Designer,Height,Date Created,Date Modified,Lead-Free ?,RoHS Levels,Mounting,Pin Count #,Tolerance,Type,Voltage,Package,_Value_,Management_ID
+1,0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric),C0402C104K9PACTU,C3 C4 C5,C0402C104K9PACTU,R0402,3, ,https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf,0.10000,0.01139,0.01035,0.00952,0.00756,KEMET,C0402C104K9PACTU,Digikey,399-3026-6-ND,AVR,0.55mm,12/7/2019,12/7/2019,Yes,1,SMT,2,10%,Ceramic Cap,6.3V,0402,0.1uF,*
+2,"47µF 16V Aluminum Electrolytic Capacitors Radial, Can - SMD  2000 Hrs @ 105°C",UCM1C470MCL1GS,C1 C2 C6 C7 C8 C9,UCM1C470MCL1GS,UCM1C470MCL1GS,6, ,http://nichicon-us.com/english/products/pdfs/e-ucm.pdf,0.60000,0.17512,*,*,0.12589,Nichicon,UCM1C470MCL1GS,Digikey,493-14529-2-ND,AVR,6.10mm,6/21/2020,6/21/2020,Yes,1,SMT,2,20%,Capacitor,16V,Radial Can SMD,47uF,*
+3,Green 572nm LED Indication - Discrete 2.1V 0603 (1608 Metric),LTST-C194KGKT,D1,LTST-C194KGKT,LED0603,1, ,https://optoelectronics.liteon.com/upload/download/DS22-2010-0197/LTST-C194KGKT.PDF,0.39000,0.07027,0.06877,0.05980,0.05382,Lite-On Inc.,LTST-C194KGKT,Digikey,160-1834-2-ND,AVR,0.45mm,5/31/2020,5/31/2020,Yes,1,SMT,2,*,LED GREEN CLEAR SMD,2.1V,0603,GREEN LED,*
+4,Plated M3 Screw Hole,M3_Plated_Hole,H1 H2 H3 H4,M3_Plated_Hole,M3_HOLE,4, ,,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,M3 Hole,*
+5,D24V5F12 synchronous buck voltage regulator takes an input voltage of up to 36 V,D24V5F12,M1,D24V5F12,D24V5F12,1, ,https://www.pololu.com/file/0J792/d24v5x-schematic.pdf,4.95,*,*,*,*,Pololu,D24V5F12,Pololu,D24V5F12,Adam Vadala-Roth,4.02mm,1/1/2022,1/1/2022,yes,1,ThroughHole,4,*,DCDC Regulator Module,"36VDC IN, 12VDC OUT",Proprietary,D24V5F12,*
+6,"TMC2130 Motor Controller/Driver, Stepper Power Management Evaluation Board",TMCSILENTSTEPSTICK,M2 M3 M4,TMCSILENTSTEPSTICK,TMCSILENTSTEPSTICK_SPI,3, ,https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2130_datasheet.pdf,12.73,*,*,*,*,Trinamic Motion Control GmbH,TMCSILENTSTEPSTICK SPI,Digikey,1460-TMCSILENTSTEPSTICKSPI-ND,AVR,11.87,12/6/2021,12/6/2021,Yes,1,ThroughHole,16,N/A,STepper Driver Module Pololu style,25V/5V,Pololu Stepper,TMCSILENTSTEPSTICK SPI,*
+7,RES SMD 10K OHM 1% 1/10W 0603,AT0603FRE0710KL,R1,AT0603FRE0710KL,R0603,1, ,,0.19,0.02652,0.02431,*,*,Yageo,AT0603FRE0710KL,Digikey,YAG2122CT-ND,AVR,0.55mm,4/23/2019,4/23/2019,Yes,1,SMT,2,1%,SMT Chip Resistor,*,0603,10K,*
+8,"10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film",RC0402FR-0710KL,R6 R7 R8,RC0402FR-0710KL,R0402,3, ,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf,0.10000,0.00289,0.00251,0.00207,*,Yageo,RC0402FR-0710KL,Digikey,311-10.0KLRCT-ND,AVR,0.4mm,12/11/2019,12/11/2019,Yes,1,SMT,2,1%,Thick FIlm Resistor,*,0402,10K,*
+9,"kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film",RC0402FR-071KL,R2,RC0402FR-071KL,R0402,1, ,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf,0.10000,0.00289,0.00251,0.00207,0.00163,Yageo,RC0402FR-071KL,Digikey,311-1.00KLRTR-ND,AVR,0.4mm,12/11/2019,12/11/2019,Yes,1,SMT,2,1%,Thick Film Resistor,*,0402,1K,*
+10,"22 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film",RC0402FR-0722RL,R3 R4 R5,RC0402FR-0722RL,R0402,3, ,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf,0.10000,0.00289,0.00251,0.00207,0.00163,Yageo,RC0402FR-0722RL,Digikey,311-22.0LRTR-ND,AVR,.4mm,7/11/2020,7/11/2020,Yes,1,SMT,2,1%,Resistor,*,0402,22R,*
+11,ATmega32U4 Arduino Micro AVR® ATmega AVR MCU 8-Bit Embedded Evaluation Board,Arduino_Micro,SP1,Arduino_Micro,ARDUINO_A000053,1, ,https://www.arduino.cc/en/uploads/Main/arduino-micro-schematic.pdf,19.80000,17.87500,*,*,*,Arduino,A000053,Digikey,1050-1066-ND,AVR,*,8/1/2020,8/1/2020,Yes,1,ThroughHole,*,*,MCU Module,3.3V/5V,*,Arduino Micro,*
+12,"2 Position Terminal Block Header, Male Pins, Shrouded (4 Side) 0.150"" (3.81mm) 90°, Right Angle  Through Hole",0395121002,T2,0395121002,0395121002,1, ,https://www.molex.com/pdm_docs/sd/395121002_sd.pdf,0.90000,0.30600,*,0.23940,*,Molex,0395121002,Digikey,WM23198-ND,AVR,6.86mm,6/23/2020,6/23/2020,Yes,1,ThroughHole,2,*,Connector,300V,*,0395121002,*
+13,"4 Position Terminal Block Header, Male Pins, Shrouded (4 Side) 0.150"" (3.81mm) 90°, Right Angle  Through Hole",0395121004,T3 T4 T5,0395121004,0395121004,3, ,https://www.molex.com/pdm_docs/sd/395121002_sd.pdf,1.41000,0.59200,*,0.48100,*,Molex,0395121004,Digikey,WM20087-ND,AVR,6.86mm,6/20/2020,6/20/2020,Yes,1,ThroughHole,4,*,Connector,300V,*,0395121004,*
+14,"Connector Header Through Hole 3 position 0.100"" (2.54mm)",0705430002,T6 T7 T8 T9 T10 T11,0705430002,Shrouded_Pin_Header_Straight_1x03_Pitch2.54mm,6, ,https://www.molex.com/pdm_docs/sd/705430001_sd.pdf,0.92000,0.50512,*,0.44198,0.41988,Molex,0705430002,Digikey,WM4801-ND,AVR,11.8mm,6/16/2020,6/16/2020,Yes,1,ThroughHole,3,*,Shrouded Header,250V,*,0705430002,*
+15,"Connector Header Through Hole 10 position 0.100"" (2.54mm)",PRPC005DAAN-RC,T1,PRPC005DAAN-RC,PinHeader_2x05_P2.54mm_Vertical,1, ,https://drawings-pdf.s3.amazonaws.com/11636.pdf,0.29000,*,*,*,*,Sullins Connector Solutions,PRPC005DAAN-RC,Digikey,S2011EC-05-ND,AVR,5.84,5/3/2020,5/3/2020,Yes,1,Through Hole,10,*,2.54mm Pin Header,250V,*,2X05,*
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-38
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,15
+Component Count:,38 (0 SMD/ 38 THT)
+Fitted Components:,38 (0 SMD/ 38 THT)
+Number of PCBs:,1
+Total Components:,38

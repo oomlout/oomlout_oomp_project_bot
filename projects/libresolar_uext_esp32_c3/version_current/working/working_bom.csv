@@ -1,0 +1,32 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Manufacturer,PartNumber,Remarks,DNM
+1,,C,C5,100nF,C_0603_1608,1, ,,any,,"50V, X7R",
+2,,C,C3,1uF,C_0603_1608,1, ,,any,,"10V, X5R",
+3,,C,C1 C2,2.2u,C_0603_1608,2, ,,any,,"10V, X5R",
+4,,C,C4,10uF,C_0805_2012,1, ,,any,,"10V, X5R",
+5,Olimex UEXT connector (2x5 box header),UEXT,J2,UEXT,PinSocket_2x05_P2.54mm_Vertical,1, ,,any,,,
+6,USB Micro Type B connector,USB_B_Micro,J1,USB_B_Micro,USB_Micro-B_10103594-0001LF,1, ,~,Amphenol FCI,10103594-0001LF,,
+7,Light emitting diode,LED,LED1,LED,LED_0603_1608Metric,1, ,,any,red,,
+8,,LibreSolar_Logo,LOGO1,LibreSolar_Logo,LIBRESOLAR_LOGO,1, ,,,,,
+9,"Open Hardware logo, small",Logo_Open_Hardware_Small,LOGO2,Logo_Open_Hardware_Small,OSHW-Logo_5.7x6mm_SilkScreen,1, ,~,,,,
+10,Resistor,R,R1,1k,R_0603_1608,1, ,,any,,,
+11,Resistor,R,R2,10k,R_0603_1608,1, ,,any,,,
+12,"300mA low dropout linear regulator, shutdown pin, 1.5V fixed positive output, SOT-23-5 package",AP2210-3.3,U1,AP2210-3.3,SOT-23-5,1, ,,Diodes Inc.,AP2210K-3.3TRG1,Alternative: MIC5225,
+13,"ESP32-C3-MINI-1 is a general-purpose Wi-Fi and Bluetooth LE module. This module features a rich set of peripherals and a small size, which makes it an ideal choice for smart home, industrial automation, health care, consumer electronics, etc",ESP32-C3-MINI-1,U3,ESP32-C3-MINI-1,ESP32-C3-MINI-1,1, ,https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf,Espressif,ESP32-C3-MINI-1-N4,,
+14,"Transient voltage suppressor designed to protect high speed data lines from ESD, EFT, and lightning",NUP4202,U2,NUP4202,SOT-363_SC-70-6,1, ,http://www.onsemi.com/pub_link/Collateral/NUP4202W1-D.PDF,On Semi,NUP4202W1T2G,"Alternatives: Würth 82400274, Diodes D1213A-04S",Würth 82400274
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,0.1
+Date:,2023-01-02
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,14
+Component Count:,15 (12 SMD/ 2 THT)
+Fitted Components:,15 (12 SMD/ 2 THT)
+Number of PCBs:,1
+Total Components:,15

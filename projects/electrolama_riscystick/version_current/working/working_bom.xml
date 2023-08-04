@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="19" Component_Count="30 (0 SMD/ 0 THT)" Fitted_Components="30 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="30" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP-0402" References="C2 C4" Value="100n" Footprint="_PKG_C_0402" Quantity_Per_PCB="2" Status=" " Datasheet="" JLCASSY="C1525"/>
+	<group Row="2" Description="" Part="CAP-0402" References="C3" Value="4u7" Footprint="_PKG_C_0402" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY="C23733"/>
+	<group Row="3" Description="" Part="CAP-0603" References="C1" Value="10u" Footprint="_PKG_C_0603" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY="C96446"/>
+	<group Row="4" Description="" Part="CON_1.27MM_SMD_2X5_NOSHROUD" References="CON2" Value="2x5 1.27mm Header" Footprint="PZ127VS-12-10-H10-A38" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY="C2935458"/>
+	<group Row="5" Description="" Part="USBC_USB-C-12" References="CON1" Value="TYPE-C-31-M-12" Footprint="USBC_C-31-M-12" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY="C165948"/>
+	<group Row="6" Description="" Part="DIODE-TVS-SRV05-4" References="D1" Value="SRV05-4" Footprint="SOT95P280X145-6N" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY="C558453"/>
+	<group Row="7" Description="" Part="MCU-CH32V305F" References="IC2" Value="CH32V305FBP6" Footprint="TSSOP20-WCH" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY=""/>
+	<group Row="8" Description="" Part="POWER-LDO-XC6206P???MR" References="IC1" Value="XC6206P332MR" Footprint="SOT96P237X111-3N" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY="C5446"/>
+	<group Row="9" Description="" Part="CONN_01" References="J5" Value="CONN_01" Footprint="1X01" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY=""/>
+	<group Row="10" Description="" Part="CONN_02LOCK" References="J3 J4" Value="CONN_02LOCK" Footprint="1X02_LOCK" Quantity_Per_PCB="2" Status=" " Datasheet="" JLCASSY=""/>
+	<group Row="11" Description="" Part="CONN_10LOCK" References="J1 J2" Value="CONN_10LOCK" Footprint="1X10_LOCK" Quantity_Per_PCB="2" Status=" " Datasheet="" JLCASSY=""/>
+	<group Row="12" Description="" Part="LED-0805" References="LED2" Value="Red" Footprint="_PKG_LED_0805" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY="C84256"/>
+	<group Row="13" Description="" Part="LED-0805" References="LED1" Value="Yellow" Footprint="_PKG_LED_0805" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY="C2296"/>
+	<group Row="14" Description="" Part="RES-0402" References="R3 R6 R8" Value="1k" Footprint="_PKG_R_0402" Quantity_Per_PCB="3" Status=" " Datasheet="" JLCASSY="C11702"/>
+	<group Row="15" Description="" Part="RES-0402" References="R1 R2" Value="5k1" Footprint="_PKG_R_0402" Quantity_Per_PCB="2" Status=" " Datasheet="" JLCASSY="C25905"/>
+	<group Row="16" Description="" Part="RES-0402" References="R4 R5 R7" Value="100k" Footprint="_PKG_R_0402" Quantity_Per_PCB="3" Status=" " Datasheet="" JLCASSY="C25741"/>
+	<group Row="17" Description="" Part="SJ-SHORT" References="SJ1 SJ2 SJ3" Value="SJ-SHORT" Footprint="SJ-SHORT" Quantity_Per_PCB="3" Status=" " Datasheet="" JLCASSY=""/>
+	<group Row="18" Description="" Part="PUSHBUTTON-4.2X3.2MM" References="SW1 SW2" Value="SKRPACE010" Footprint="PUSHBUTTON-4.2X3.2MM" Quantity_Per_PCB="2" Status=" " Datasheet="" JLCASSY="C139797"/>
+	<group Row="19" Description="" Part="MOSFET-P-SI2301CDS" References="TR1" Value="SI2301CDS" Footprint="SOT96P237X111-3N" Quantity_Per_PCB="1" Status=" " Datasheet="" JLCASSY="C10487"/>
+</KiCad_BOM>

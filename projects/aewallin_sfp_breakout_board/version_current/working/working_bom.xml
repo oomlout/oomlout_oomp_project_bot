@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="17" Component_Count="40 (36 SMD/ 4 THT)" Fitted_Components="40 (36 SMD/ 4 THT)" Number_of_PCBs="1" Total_Components="40" Schematic_Source="working" Schematic_Revision="2018.11" Schematic_Date="2023-08-02_17-08-38" encoding="utf-8">
+	<group Row="1" Description="Unpolarized capacitor" Part="C" References="C108 C109" Value="10n" Footprint="C_0805_2012Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="2" Description="Unpolarized capacitor" Part="C" References="C102 C106 C107 C110 C111 C112 C113" Value="100n" Footprint="C_0805_2012Metric" Quantity_Per_PCB="7" Status=" " Datasheet="~"/>
+	<group Row="3" Description="Unpolarized capacitor" Part="C" References="C104 C105" Value="1u" Footprint="C_0805_2012Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="4" Description="Unpolarized capacitor" Part="C" References="C101 C103" Value="10u" Footprint="C_0805_2012Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="5" Description="Diode" Part="D" References="D101" Value="D" Footprint="DIODE_DO-214BA" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="6" Description="Light emitting diode" Part="LED" References="D102 D103 D104 D105" Value="LED" Footprint="LED_0805_2012Metric" Quantity_Per_PCB="4" Status=" " Datasheet="~"/>
+	<group Row="7" Description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x02" References="J102" Value="Conn_01x02" Footprint="TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="8" Description="Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_02x02_Counter_Clockwise" References="J103" Value="Conn_02x02_Counter_Clockwise" Footprint="PinHeader_2x02_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="9" Description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)" Part="Conn_Coaxial" References="J104 J105 J106 J107" Value="Conn_Coaxial" Footprint="SMA_Amphenol_132289_EdgeMount" Quantity_Per_PCB="4" Status=" " Datasheet="~"/>
+	<group Row="10" Description="" Part="USB_B_Micro-Connector" References="J101" Value="USB_B_Micro" Footprint="USB_Micro-B_Molex-105017-0001" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="11" Description="" Part="Jumper-Device" References="JP101" Value="Jumper" Footprint="PinHeader_1x02_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="12" Description="Inductor" Part="L" References="L101 L102" Value="1uH" Footprint="L_0805_2012Metric" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="13" Description="" Part="SFP-CONNECTOR-awallin" References="P101" Value="SFP-CONNECTOR" Footprint="Connector_SFP_and_Cage" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="Resistor" Part="R" References="R101 R102 R103 R106" Value="680R" Footprint="R_0805_2012Metric" Quantity_Per_PCB="4" Status=" " Datasheet="~"/>
+	<group Row="15" Description="Resistor" Part="R" References="R104 R105 R107 R108 R109" Value="6k8" Footprint="R_0805_2012Metric" Quantity_Per_PCB="5" Status=" " Datasheet="~"/>
+	<group Row="16" Description="Hex inverter schmitt trigger" Part="74HC14" References="U102" Value="74HC14" Footprint="TSSOP-14_4.4x5mm_P0.65mm" Quantity_Per_PCB="1" Status=" " Datasheet="http://www.ti.com/lit/gpn/sn74HC14"/>
+	<group Row="17" Description="3.3V, 1.5A, Low Noise, Fast Transient Response LDO Regulator, TO-263-5" Part="LT1963AxQ-3.3" References="U101" Value="LT1963AxQ-3.3" Footprint="TO-263-5_TabPin3" Quantity_Per_PCB="1" Status=" " Datasheet="https://www.analog.com/media/en/technical-documentation/data-sheets/1963aff.pdf"/>
+</KiCad_BOM>

@@ -1,31 +1,46 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"Battery";;;
-2;"U4";"SOT-23-5";1;"MCP73831-2-OT";;;
-3;"C5,C4";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"1uf";;;
-4;"J4";"PinHeader_1x09_P2.54mm_Vertical";1;"Adafruit NFC 1.0";;;
-5;"C2";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"0.1uf";;;
-6;"C1,C3,C8,C6";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";4;"10uf";;;
-7;"J3";"PinHeader_1x08_P2.54mm_Vertical";1;"NFC Module V3";;;
-8;"R7,R6,R5";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";3;"330";;;
-9;"U1";"SOT-23-5_HandSoldering";1;"AP2112K-3.3TRG1";;;
-10;"U6";"SOIC-8_5.23x5.23mm_P1.27mm";1;"GD25Q16C";;;
-11;"R3";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"10K";;;
-12;"R2";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"2.2k";;;
-13;"J5";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02";;;
-14;"J1";"U254051N4BH806";1;"USB_B_Micro";;;
-15;"D2,D3,D5,D6,D4";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";5;"LED";;;
-16;"C7";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"0.1uF";;;
-17;"U2";"QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm";1;"ATSAMD21E18A";;;
-18;"U3";"TQFP-32_7x7mm_P0.8mm";1;"ATSAMD21E18A";;;
-19;"U5";"SOIC-8_3.9x4.9mm_P1.27mm";1;"TC4424";;;
-20;"R1";"R_0805_2012Metric";1;"1k";;;
-21;"F1";"Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"Polyfuse";;;
-22;"SW1";"Micro_interruptor_SPDT";1;"ON/OFF";;;
-23;"R4";"R_0805_2012Metric";1;"330";;;
-24;"G***";"electronic_cats_logo_4x3";1;"LOGO";;;
-25;"D1";"D_SOD-123";1;"MBR120";;;
-26;"J6";"PinHeader_1x04_P2.54mm_Vertical";1;"SWD";;;
-27;"G***";"nfc_front";1;"LOGO";;;
-28;"SW2";"SW_SPST_TL3342";1;"RST";;;
-29;"SW4";"SW_SPST_TL3342";1;"NFC";;;
-30;"SW3";"SW_SPST_TL3342";1;"Magspoof";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,manf#,Campo4,Campo5,Campo6,Campo7,Campo8
+1,"Unpolarized capacitor, small symbol",C_Small,C2 C7,0.1uf,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2, ,~,,,,,,
+2,Unpolarized capacitor,C,C4 C5,1uf,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2, ,~,,,,,,
+3,Unpolarized capacitor,C,C1 C3 C6 C8,10uf,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,4, ,~,,,,,,
+4,Light emitting diode,LED,D2,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,~,,,,,,
+5,"Light emitting diode, small symbol",LED_Small,D3 D4 D5 D6,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,4, ,~,,,,,,
+6,Schottky diode,D_Schottky,D1,MBR120,D_SOD-123,1, ,~,,,,,,
+7,"Resettable fuse, polymeric positive temperature coefficient",Polyfuse,F1,Polyfuse,Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,~,MFU0805FF00500P100,,,,,
+8,"Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x09,J4,Adafruit NFC 1.0,PinHeader_1x09_P2.54mm_Vertical,1, ,~,,,,,,
+9,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Screw_Terminal_01x02,J2,Battery,PinHeader_1x02_P2.54mm_Vertical,1, ,~,,,,,,
+10,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J5,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,1, ,~,,,,,,
+11,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,J3,NFC Module V3,PinHeader_1x08_P2.54mm_Vertical,1, ,~,,,,,,
+12,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Male,J6,SWD,PinHeader_1x04_P2.54mm_Vertical,1, ,~,,,,,,
+13,,USB_B_Micro-Connector,J1,USB_B_Micro,U254051N4BH806,1, ,~,,,,,,
+14,"Resistor, small symbol",R_Small,R4,330,R_0805_2012Metric,1, ,~,,,,,,
+15,"Resistor, small symbol",R_Small,R5 R6 R7,330,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,3, ,~,,,,,,
+16,Resistor,R,R1,1k,R_0805_2012Metric,1, ,~,,,,,,
+17,Resistor,R,R2,2.2k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,~,,,,,,
+18,Resistor,R,R3,10K,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,~,,,,,,
+19,,Switch_SW_Push-Bast_WAN-cache,SW3,Magspoof,SW_SPST_TL3342,1, ,,,,,,,
+20,,Switch_SW_Push-Bast_WAN-cache,SW4,NFC,SW_SPST_TL3342,1, ,,,,,,,
+21,,SW_DPST_x2-Switch,SW1,ON/OFF,Micro_interruptor_SPDT,1, ,,,,,,,
+22,,Switch_SW_Push-Bast_WAN-cache,SW2,RST,SW_SPST_TL3342,1, ,,,,,,,
+23,,AP2112K-3.3TRG1-electroniccats,U1,AP2112K-3.3TRG1,SOT-23-5_HandSoldering,1, ,,,Diodes Inc.,SOT-753 Diodes Inc.,None,Unavailable,AP2112 Series 0.6 A 3.3 V Fixed Output SMT LDO Linear Regulator - SOT23-5
+24,,ATSAMD21E18A-electroniccats,U2,ATSAMD21E18A,QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm,1, ,https://www.mouser.mx/datasheet/2/268/SAM-D21-Family-Datasheet-DS40001882C-1381353.pdf,,,,,,
+25,,ATSAMD21E18A-electroniccats,U3,ATSAMD21E18A,TQFP-32_7x7mm_P0.8mm,1, ,https://www.mouser.mx/datasheet/2/268/SAM-D21-Family-Datasheet-DS40001882C-1381353.pdf,,,,,,
+26,"32Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",W25Q32JVSS,U6,GD25Q16C,SOIC-8_5.23x5.23mm_P1.27mm,1, ,http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf,,,,,,
+27,"Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package",MCP73831-2-OT,U4,MCP73831-2-OT,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf,,,,,,
+28,,TC4424-MagSpoofTC-cache,U5,TC4424,SOIC-8_3.9x4.9mm_P1.27mm,1, ,,,,,,,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,1.5v
+Date:,2021-04-16
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,28
+Component Count:,38 (31 SMD/ 7 THT)
+Fitted Components:,38 (31 SMD/ 7 THT)
+Number of PCBs:,1
+Total Components:,38
