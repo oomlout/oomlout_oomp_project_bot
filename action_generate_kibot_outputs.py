@@ -21,6 +21,8 @@ def go_through_directories(**kwargs):
             #filter = ["omerk"]
             filter = [""]
             #if any of filter is in filename
+
+            clean_up_kicad_preflight_files()
             
             if any(x in filename for x in filter):
                 if file.endswith(".kicad_pcb"):
@@ -60,11 +62,24 @@ def go_through_directories(**kwargs):
                                 subprocess.run(["git", "add", "*"])
                                 subprocess.run(["git", "commit", "-m", f"comitting after {count} generations"])
                                 subprocess.run(["git", "push"])
+                            print("Working on project number: ", count)
 
                             
         
     print()
     print(f'yaml file for {count} projects created')
+
+def clean_up_kicad_preflight_files():
+    folder = '/home/oom/.config/kicad/7.0/'
+    #delete all files recursively in the folder that have pre_scripts in them
+    for root, dirs, files in os.walk(folder):
+        for file in files:
+            if "pre_script" in file:
+                print(f"removing {file}")
+                os.remove(os.path.join(root, file))
+    
+
+
 
 if __name__ == '__main__':
     go_through_directories()
