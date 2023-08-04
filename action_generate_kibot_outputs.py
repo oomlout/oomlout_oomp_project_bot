@@ -7,7 +7,7 @@ def go_through_directories(**kwargs):
     template_file = 'templates/kibot_template.yaml'
     report_file = 'working_report.txt'
     overwrite = kwargs.get('overwrite', False)
-    count = 0
+    count = 1
     # go through all directories in projects
     for root, dirs, files in os.walk("projects"):
         #go through all files
@@ -53,7 +53,7 @@ def go_through_directories(**kwargs):
                             
                             count += 1
                             #print a dot every 100 times through#
-                            if count % 50 == 0:
+                            if count % 1 == 0:
                                 #push to github
                                 print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
                                 print("%%%%%%  pushing to github")
