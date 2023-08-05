@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="10" Component_Count="22 (0 SMD/ 0 THT)" Fitted_Components="22 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="22" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C3" Value="0.22uF" Footprint="0805-NO" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C1 C2 C4" Value="10µF" Footprint="0805-NO" Quantity_Per_PCB="3" Status=" " Datasheet="" BOM=""/>
+	<group Row="3" Description="" Part="DIODESOD-323" References="D1 D2 D3" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="3" Status=" " Datasheet="" BOM=""/>
+	<group Row="4" Description="" Part="HEADER-1X570MIL" References="JP2" Value="HEADER-1X570MIL" Footprint="1X05_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="5" Description="" Part="HEADER-1X970MIL" References="JP4" Value="PowerIO" Footprint="1X09_ROUND_70" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="6" Description="" Part="MOSFET-NWIDE" References="Q1 Q2" Value="BSS138" Footprint="SOT23-WIDE" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="7" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R2 R3 R5 R7 R8 R9 R10" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="8" Status=" " Datasheet="" BOM=""/>
+	<group Row="8" Description="" Part="RESISTOR_0805MP" References="R4" Value="10K" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="9" Description="" Part="LSM9DS0" References="U1" Value="LSM9DS0TR" Footprint="LGA24_4X4MM" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="10" Description="" Part="VREG_SOT23-5" References="U2" Value="MIC5225-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+</KiCad_BOM>

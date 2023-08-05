@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="20" Component_Count="40 (0 SMD/ 0 THT)" Fitted_Components="40 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="40" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-22" encoding="utf-8">
+	<group Row="1" Description="" Part="SJ" References="A0 A1 A2 A3 A4" Value="SJ" Footprint="SJ" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="C-USC0805K" References="C1 C2 C3" Value="0.1uF" Footprint="C0805K" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="C-USC0805K" References="C6 C10" Value="10uF" Footprint="C0805K" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CPOL-USC" References="C9" Value="100uF" Footprint="PANASONIC_C" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="CAP_ELECTROLYTICPANASONIC_C" References="C4 C5" Value="22uF/16v" Footprint="PANASONIC_C" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="1X4-CLEANBIG" References="CN1" Value="1X4-CLEANBIG" Footprint="1X04-CLEANBIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="PINHD-1X8CLEANBIG" References="D0-7 JP2" Value="PINHD-1X8CLEANBIG" Footprint="1X08-CLEANBIG" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="TB6612FNG" References="IC1 IC3" Value="TB6612FNG" Footprint="SSOP24" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="1X5" References="J1 J2" Value="1X5" Footprint="1X05-3.5MM" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="HEADER-1X1070MIL" References="JP3" Value="HEADER-1X1070MIL" Footprint="1X10_ROUND70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="HEADER-1X476MIL" References="JP1" Value="HEADER-1X476MIL" Footprint="1X04_ROUND_76" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="LEDCHIP-LED0805" References="LED1" Value="Green" Footprint="CHIP-LED0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="1X2-3.5MM" References="MPOWER0 SERPWR0" Value="1X2-3.5MM" Footprint="1X2-3.5MM" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="JP1E" References="PWR0" Value="JP1E" Footprint="JP1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="IRF?5305R" References="Q1" Value="IRF?5305R" Footprint="D-PAK_TO252AA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="R-US_R0805" References="R4" Value="1K" Footprint="R0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="R-US_R0805" References="R1 R2 R3 R5 R6 R7 R8" Value="10k" Footprint="R0805" Quantity_Per_PCB="7" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="PINHD-1X3" References="SERVO1 SERVO2" Value="PINHD-1X3" Footprint="1X03" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="PCA9685" References="U2" Value="PCA9685" Footprint="TSSOP28" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="ARDUINO_R3_ICSP" References="U$1 U$5" Value="ARDUINO_R3_ICSP" Footprint="ARDUINOR3_ICSP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+</KiCad_BOM>

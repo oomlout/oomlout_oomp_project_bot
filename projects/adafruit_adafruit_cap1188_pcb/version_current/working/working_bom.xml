@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="8" Component_Count="21 (0 SMD/ 0 THT)" Fitted_Components="21 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="21" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2 C3" Value="10uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="HEADER-1X13" References="JP3 JP4" Value="HEADER-1X13" Footprint="1X13_ROUND_70" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="LED0805" References="LED1 LED2 LED3 LED4 LED5 LED6 LED7 LED8" Value="LED0805" Footprint="CHIPLED_0805" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="RESISTOR_4PACK" References="R1 R2" Value="470" Footprint="RESPACK_4X0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="RESISTOR0805_NOOUTLINE" References="R9 R10 R11 R12" Value="10K" Footprint="0805-NO" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="RESISTOR_0805MP" References="R13" Value="150K" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="CAP1188" References="U1" Value="CAP1188" Footprint="QFN24_4MM_SMSC" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="VREG_SOT23-5" References="U2" Value="MIC5225-3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
