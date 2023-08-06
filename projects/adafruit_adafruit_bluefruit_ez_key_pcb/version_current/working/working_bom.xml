@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="12" Component_Count="16 (0 SMD/ 0 THT)" Fitted_Components="16 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="16" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="C-USC0805" References="C1 C4" Value="10uF" Footprint="C0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="DIODESOD-323" References="D1" Value="1N4148" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="PINHD-1X12-CB" References="JP1 JP2" Value="PINHD-1X12-CB" Footprint="1X12-CB" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="PINHD-1X6B" References="JP3" Value="PINHD-1X6B" Footprint="1X06-BIG" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED0805_NOOUTLINE" References="LED2" Value="GREEN" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LED0805_NOOUTLINE" References="LED1" Value="RED" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="R-US_R0805" References="R2 R3" Value="1K" Footprint="R0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="R-US_R0805" References="R5" Value="2.2K" Footprint="R0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="R-US_R0805" References="R1 R4" Value="10K" Footprint="R0805" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="SPST_TACT-KMR2" References="SW1" Value="SPST_TACT-KMR2" Footprint="KMR2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="BLUETOOTH_MODULE" References="U1" Value="BlueFruit" Footprint="BLUETOOTH_MODULE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="VREG_SOT23-5" References="U2" Value="MIC5225" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

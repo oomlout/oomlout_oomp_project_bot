@@ -1,9 +1,34 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**,Ref**";"LED_Hole_3mm";8;"Subminiature_Switch";;;
-2;"Ref**,Ref**";"Oval_Mounting_Hole";2;"Oval_Mounting_Hole";;;
-3;"G***";"MongerText";1;"LOGO";;;
-4;"G***";"MIDIText";1;"LOGO";;;
-5;"FM_In,FM_In,FM_In,FM_In,FM_In,FM_In";"RJ45_Molex_42878-8506_Mounting_Hole";6;"RJ45_Molex_42878-8506_Mounting_Hole";;;
-6;"Ref**";"Thonkiconn_Socket_MountingHole_6mm";1;"Thonkiconn_Socket_MountingHole_6mm";;;
-7;"USB**";"USB_B_CUTOUT";1;"USB_B_CUTOUT";;;
-8;"H3,H3,H2,H1";"MountingHole_3.2mm_M3_ISO14580";4;"MountingHole";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,3d_Model_Dummy,D9,3d_Model_Dummy,3D_Dummy,1, ,
+2,Light emitting diode,LED,D5,CV1,LED_D3.0mm,1, ,~
+3,Light emitting diode,LED,D6,CV2,LED_D3.0mm,1, ,~
+4,Light emitting diode,LED,D7,CV3,LED_D3.0mm,1, ,~
+5,Light emitting diode,LED,D8,CV4,LED_D3.0mm,1, ,~
+6,Light emitting diode,LED,D1,GATE1,LED_D3.0mm,1, ,~
+7,Light emitting diode,LED,D2,GATE2,LED_D3.0mm,1, ,~
+8,Light emitting diode,LED,D3,GATE3,LED_D3.0mm,1, ,~
+9,Light emitting diode,LED,D4,GATE4,LED_D3.0mm,1, ,~
+10,"RJ connector, 8P8C (8 positions 8 connected)",RJ45,J1 J2 J3 J4 J5 J6,CV_Out,RJ45_Molex_42878-8506,6, ,~
+11,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03_Female,J23,Conn_01x03_Female,PinHeader_1x03_P2.54mm_Vertical,1, ,~
+12,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08_Female,J21 J22,Conn_01x08_Female,Socket_Strip_Straight_1x08_Pitch2.54mm,2, ,~
+13,"Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x09_Female,J20,Conn_01x09_Female,Socket_Strip_Straight_1x09_Pitch2.54mm,1, ,~
+14,"Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x04_Odd_Even,J9,Conn_02x04_Odd_Even,PinHeader_2x04_P2.54mm_Vertical,1, ,~
+15,"Audio Jack, 3 Poles (Stereo / TRS)",AudioJack3,J7,Midi_In,Thonkiconn_Stereo-PJ366ST,1, ,~
+16,,1734517-1,J8,USB_B_Micro,USB_TE_1734517-1,1, ,https://uk.rs-online.com/web/p/products/7187236/
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,v1.0
+Date:,2023-02-28
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,16
+Component Count:,22 (0 SMD/ 0 THT)
+Fitted Components:,22 (0 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,22

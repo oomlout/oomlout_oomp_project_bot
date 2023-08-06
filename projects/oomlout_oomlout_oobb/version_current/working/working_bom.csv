@@ -1,0 +1,26 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,Unpolarized capacitor,C,C1,CAPC-0603-X-NF100-V50,C_0603_1608Metric,1, ,oom.lt/C6N100
+2,Unpolarized capacitor,C,C2,CAPC-0805-X-UF10-V10,C_0805_2012Metric,1, ,oom.lt/C85U010
+3,DC Barrel Jack with an internal switch,Barrel_Jack_Switch,J11,Barrel_Jack_Switch,BarrelJack_GCT_DCJ200-10-A_Horizontal,1, ,oom.lt/DJ21
+4,"Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_MountingPin,J4,HEAD-JSTSH-X-PI04-RS oom.lt/HSHR4,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,1, ,https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/datasheet.pdf
+5,,MODULE-CONN-OOBB-BA-01,J1 J2 J3 J5 J6 J7 J8 J9 J10 J12 J13 J14,MODULE-CONN-OOBB-BA-01,MODULE-CONN-OOBB-BA-01,12, ,oom.lt/MCOBA
+6,"800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223",LD1117S33TR_SOT223,U1,LD1117S33TR_SOT223,SOT-223-3_TabPin2,1, ,oom.lt/VR111722333
+7,,MODULE-CONN-RASP-PICO-2040,U10,MODULE-CONN-RASP-PICO-2040,MODULE-CONN-RASP-PICO-2040,1, ,oom.lt/MCRP2040
+8,,MODULE-CONN-USB-MEGA-01,U2,MODULE-CONN-USB-MEGA-01,MODULE-CONN-USB-MEGA-01,1, ,oom.lt/MCUMEGA
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-59
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,8
+Component Count:,19 (6 SMD/ 13 THT)
+Fitted Components:,19 (6 SMD/ 13 THT)
+Number of PCBs:,1
+Total Components:,19

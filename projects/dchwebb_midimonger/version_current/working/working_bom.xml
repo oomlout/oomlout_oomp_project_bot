@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="16" Component_Count="22 (0 SMD/ 0 THT)" Fitted_Components="22 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="22" Schematic_Source="working" Schematic_Revision="v1.0" Schematic_Date="2023-02-28" encoding="utf-8">
+	<group Row="1" Description="" Part="3d_Model_Dummy" References="D9" Value="3d_Model_Dummy" Footprint="3D_Dummy" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="Light emitting diode" Part="LED" References="D5" Value="CV1" Footprint="LED_D3.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="3" Description="Light emitting diode" Part="LED" References="D6" Value="CV2" Footprint="LED_D3.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="4" Description="Light emitting diode" Part="LED" References="D7" Value="CV3" Footprint="LED_D3.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="5" Description="Light emitting diode" Part="LED" References="D8" Value="CV4" Footprint="LED_D3.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="6" Description="Light emitting diode" Part="LED" References="D1" Value="GATE1" Footprint="LED_D3.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="7" Description="Light emitting diode" Part="LED" References="D2" Value="GATE2" Footprint="LED_D3.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="8" Description="Light emitting diode" Part="LED" References="D3" Value="GATE3" Footprint="LED_D3.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="9" Description="Light emitting diode" Part="LED" References="D4" Value="GATE4" Footprint="LED_D3.0mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="10" Description="RJ connector, 8P8C (8 positions 8 connected)" Part="RJ45" References="J1 J2 J3 J4 J5 J6" Value="CV_Out" Footprint="RJ45_Molex_42878-8506" Quantity_Per_PCB="6" Status=" " Datasheet="~"/>
+	<group Row="11" Description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x03_Female" References="J23" Value="Conn_01x03_Female" Footprint="PinHeader_1x03_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="12" Description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x08_Female" References="J21 J22" Value="Conn_01x08_Female" Footprint="Socket_Strip_Straight_1x08_Pitch2.54mm" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="13" Description="Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_01x09_Female" References="J20" Value="Conn_01x09_Female" Footprint="Socket_Strip_Straight_1x09_Pitch2.54mm" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="14" Description="Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)" Part="Conn_02x04_Odd_Even" References="J9" Value="Conn_02x04_Odd_Even" Footprint="PinHeader_2x04_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="15" Description="Audio Jack, 3 Poles (Stereo / TRS)" Part="AudioJack3" References="J7" Value="Midi_In" Footprint="Thonkiconn_Stereo-PJ366ST" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="16" Description="" Part="1734517-1" References="J8" Value="USB_B_Micro" Footprint="USB_TE_1734517-1" Quantity_Per_PCB="1" Status=" " Datasheet="https://uk.rs-online.com/web/p/products/7187236/"/>
+</KiCad_BOM>

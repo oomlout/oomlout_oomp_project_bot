@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="6" Component_Count="7 (6 SMD/ 1 THT)" Fitted_Components="7 (6 SMD/ 1 THT)" Number_of_PCBs="1" Total_Components="7" Schematic_Source="working" Schematic_Revision="1.0" Schematic_Date="2020-01-10" encoding="utf-8">
+	<group Row="1" Description="" Part="C_Small-Device" References="C1" Value="0.1uF" Footprint="C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="2" Description="" Part="Screw_Terminal_01x06-Connector" References="J1" Value="Screw_Terminal_01x06" Footprint="PinHeader_1x06_P2.54mm_Vertical" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="3" Description="" Part="R_Small-Device" References="R1 R2" Value="10K" Footprint="R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" Quantity_Per_PCB="2" Status=" " Datasheet="~"/>
+	<group Row="4" Description="" Part="R_Small-Device" References="R4" Value="10K" Footprint="C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="5" Description="" Part="R_Small-Device" References="R3" Value="100K" Footprint="R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" Quantity_Per_PCB="1" Status=" " Datasheet="~"/>
+	<group Row="6" Description="" Part="DPS310-electroniccats" References="U1" Value="DPS310" Footprint="Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

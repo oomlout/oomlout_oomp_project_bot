@@ -1,0 +1,44 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,C,C1,220pF,C0402F,1, ,
+2,,C,C6 C12 C13,100nF,C0603F,3, ,
+3,,C,C14,220nF,C0603F,1, ,
+4,,C,C2 C4 C5 C9 C17,1uF,C0603F,5, ,
+5,,C,C18,10uF,C0805E,1, ,
+6,,C,C3,10uF,C0805,1, ,
+7,,C,C16,"0,47uF/25V",C0603F,1, ,
+8,,C,C7,1uF/10V,C0603F,1, ,
+9,,C,C10 C11 C15,1uF/25V,C0603F,3, ,
+10,,C,C8,"4,7uF/10V",C0603F,1, ,
+11,,DIODESCH,D2 D3 D4,B0520LW,SOD-123,3, ,
+12,,LED,D1,blue,D0603F,1, ,
+13,,INDUCTOR,L2,FB,R0603F,1, ,
+14,,INDUCTOR,L1,NR3015T4R7M,NRH3015,1, ,
+15,,CONN_01X02,P4,BOOT,SolderJumper,1, ,
+16,,CON-SENSOR2,P1,CON-SENSOR,CON-SENSOR2,1, ,
+17,,CONN_01X01,P5,DEBUG,DEBUG_PAD,1, ,
+18,,MOSFET_N_CH,Q1,2N7002P,SOT23GDS,1, ,
+19,,R,R1,"2,2",R0603F,1, ,
+20,,R,R2,1k,R0603F,1, ,
+21,,R_PACK4,RP101,220,4X0402,1, ,
+22,,R_PACK4,RP2,"4,7k",4X0402,1, ,
+23,,R_PACK4,RP1,82,4X0402,1, ,
+24,,Con24HT,U2,Con24HT,ER-CON24HT-1,1, ,
+25,,DRILL,U4 U5 U6 U7,DRILL,DRILL_NP,4, ,
+26,,XMC1XXX48,U1,XMC1404,QFN48-EP2,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,1.0
+Date:,2018-09-28
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,26
+Component Count:,39 (29 SMD/ 10 THT)
+Fitted Components:,39 (29 SMD/ 10 THT)
+Number of PCBs:,1
+Total Components:,39

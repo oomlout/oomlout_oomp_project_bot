@@ -1,15 +1,27 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"Q3,Q10,Q2,Q9,Q5,Q8,Q1,Q6";"SOT-23";8;"DMN65D8L";;;
-2;"H1,H2";"MountingHole_3.2mm_M3_Pad";2;"MountingHole_Pad";;;
-3;"C2,C1";"C0603";2;"500n";;;
-4;"R3";"R0603";1;"10k";;;
-5;"R4,R6,R2,R5";"R0603";4;"120k";;;
-6;"R7,R1";"R0603";2;"80k";;;
-7;"J4";"PinHeader_1x02_P2.54mm_Vertical";1;"INT_R";;;
-8;"K1";"Relay_DPDT_Kemet_EC2_DoubleCoil";1;"EC2-12TNU";;;
-9;"J3";"PinHeader_1x02_P2.54mm_Vertical";1;"EXT_L";;;
-10;"Q7,Q4";"SOT-23";2;"DMP32D4S";;;
-11;"J6";"PinHeader_1x03_P2.54mm_Vertical";1;"Preamp";;;
-12;"J5";"PinHeader_1x02_P2.54mm_Vertical";1;"INT_L";;;
-13;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"EXT_R";;;
-14;"J1";"PinHeader_1x03_P2.54mm_Vertical";1;"Src Control";;;
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,MFR,MPN,OC_DIGIKEY,URL_DIGIKEY
+1,"Unpolarized capacitor, small symbol",C_Small,C1 C2,500n,C0603,2, ,http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf,Walsin,0603B474K250CT,1292-1452-1-ND,https://www.digikey.com/en/products/detail/walsin-technology-corporation/0603B474K250CT/9354949
+2,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J2 J3 J4 J5,EXT_R,PinHeader_1x02_P2.54mm_Vertical,4, ,~,,,,
+3,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J1 J6,Src Control,PinHeader_1x03_P2.54mm_Vertical,2, ,~,,,,
+4,"General purpose signal relay, Kemet EC2 Series, DPDT (2 Form C), double coil latching, through hole, 60W/125VA, 220VDC/250VAC, 2A, 12V DC coil",EC2-12TNU,K1,EC2-12TNU,Relay_DPDT_Kemet_EC2_DoubleCoil,1, ,https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf,Kemet,EC2-12TNU,399-11031-5-ND,https://www.digikey.com/en/products/detail/kemet/EC2-12TNU/4291097
+5,"N-MOSFET transistor, gate/source/drain",Q_NMOS_GSD,Q1 Q2 Q3 Q5 Q6 Q8 Q9 Q10,DMN65D8L,SOT-23,8, ,https://www.diodes.com/assets/Datasheets/DMN65D8L.pdf,Diodes Inc,DMN65D8L-7,DMN65D8L-7DICT-ND,https://www.digikey.com/en/products/detail/diodes-incorporated/DMN65D8L-7/3678136
+6,"P-MOSFET transistor, gate/source/drain",Q_PMOS_GSD,Q4 Q7,DMP32D4S,SOT-23,2, ,https://www.diodes.com/assets/Datasheets/DMP32D4S.pdf,Diodes Inc,DMP32D4S-7,DMP32D4S-7DICT-ND,https://www.digikey.com/en/products/detail/diodes-incorporated/DMP32D4S-7/4471076
+7,"Resistor, small symbol",R_Small,R3,10k,R0603,1, ,https://www.vishay.com/docs/20035/dcrcwe3.pdf,Vishay Dale,CRCW060310K0FKEA,541-10.0KHCT-ND,https://www.digikey.com/en/products/detail/vishay-dale/CRCW060310K0FKEA/1174782
+8,"Resistor, small symbol",R_Small,R1 R7,80k,R0603,2, ,https://www.vishay.com/docs/20035/dcrcwe3.pdf,Vishay Dale,CRCW060380K6FKEA,541-80.6KHCT-ND,https://www.digikey.com/en/products/detail/vishay-dale/CRCW060380K6FKEA/1174885
+9,"Resistor, small symbol",R_Small,R2 R4 R5 R6,120k,R0603,4, ,https://www.vishay.com/docs/20035/dcrcwe3.pdf,Vishay Dale,CRCW0603120KFKEA,541-120KHCT-ND,https://www.digikey.com/en/products/detail/vishay-dale/CRCW0603120KFKEA/1174904
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-02_17-08-53
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,9
+Component Count:,26 (19 SMD/ 7 THT)
+Fitted Components:,26 (19 SMD/ 7 THT)
+Number of PCBs:,1
+Total Components:,26

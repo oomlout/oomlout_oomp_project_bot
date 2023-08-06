@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="26" Component_Count="39 (29 SMD/ 10 THT)" Fitted_Components="39 (29 SMD/ 10 THT)" Number_of_PCBs="1" Total_Components="39" Schematic_Source="working" Schematic_Revision="1.0" Schematic_Date="2018-09-28" encoding="utf-8">
+	<group Row="1" Description="" Part="C" References="C1" Value="220pF" Footprint="C0402F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="C" References="C6 C12 C13" Value="100nF" Footprint="C0603F" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="C" References="C14" Value="220nF" Footprint="C0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="C" References="C2 C4 C5 C9 C17" Value="1uF" Footprint="C0603F" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="C" References="C18" Value="10uF" Footprint="C0805E" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="C" References="C3" Value="10uF" Footprint="C0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="C" References="C16" Value="0,47uF/25V" Footprint="C0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="C" References="C7" Value="1uF/10V" Footprint="C0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="C" References="C10 C11 C15" Value="1uF/25V" Footprint="C0603F" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="C" References="C8" Value="4,7uF/10V" Footprint="C0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="DIODESCH" References="D2 D3 D4" Value="B0520LW" Footprint="SOD-123" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="LED" References="D1" Value="blue" Footprint="D0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="INDUCTOR" References="L2" Value="FB" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="INDUCTOR" References="L1" Value="NR3015T4R7M" Footprint="NRH3015" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="CONN_01X02" References="P4" Value="BOOT" Footprint="SolderJumper" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="CON-SENSOR2" References="P1" Value="CON-SENSOR" Footprint="CON-SENSOR2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="CONN_01X01" References="P5" Value="DEBUG" Footprint="DEBUG_PAD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="MOSFET_N_CH" References="Q1" Value="2N7002P" Footprint="SOT23GDS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="R" References="R1" Value="2,2" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="R" References="R2" Value="1k" Footprint="R0603F" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="R_PACK4" References="RP101" Value="220" Footprint="4X0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="R_PACK4" References="RP2" Value="4,7k" Footprint="4X0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="R_PACK4" References="RP1" Value="82" Footprint="4X0402" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="Con24HT" References="U2" Value="Con24HT" Footprint="ER-CON24HT-1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="DRILL" References="U4 U5 U6 U7" Value="DRILL" Footprint="DRILL_NP" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="XMC1XXX48" References="U1" Value="XMC1404" Footprint="QFN48-EP2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

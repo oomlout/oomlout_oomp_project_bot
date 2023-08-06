@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="10" Component_Count="18 (0 SMD/ 0 THT)" Fitted_Components="17 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="17" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-03_17-21-23" encoding="utf-8">
+	<group Row="1" Description="" Part="CR2032THM" References="BATT0" Value="CR2032" Footprint="CR2032-THRU" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="C-US025-025X050" References="C1" Value="0.1uF" Footprint="C025-025X050" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="ATMEGA168PROUND" References="IC2" Value="ATMEGA168PROUND" Footprint="DIL28-3-ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="DS1337" References="IC1" Value="DS1337" Footprint="DIL08-ROUND" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="SEGMENT_8X8_ROWCATHODEBL-M15" References="LED1" Value="BL-M15881B" Footprint="SEGMENT_BL-M15A881" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="31-XXSKINNY" References="PLUS0 SET0" Value="31-XXSKINNY" Footprint="B3F-31XX-SKINNIER" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="CRYSTALTC38H" References="Q1" Value="32.768KHz" Footprint="TC38H" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="R-US_0204/7" References="R1 R2 R3 R4 R5 R6 R7 R8" Value="47" Footprint="0204_7" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="R-US_0204/7" References="R10" Value="10K" Footprint="0204_7" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

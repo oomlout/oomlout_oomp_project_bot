@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="19" Component_Count="29 (0 SMD/ 0 THT)" Fitted_Components="29 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="29" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-02_17-08-32" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP_CERAMIC0805_10MGAP" References="C10" Value="0.1uF" Footprint="0805_10MGAP" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="2" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C14 C15" Value="0.1uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="3" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C2 C9" Value="1uF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="4" Description="" Part="CAP_CERAMIC_0805MP" References="C6" Value="10µF" Footprint="_0805MP" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="5" Description="" Part="CAP_CERAMIC0805-NOOUTLINE" References="C7 C8" Value="10µF" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="6" Description="" Part="LED0805_NOOUTLINE" References="D2" Value="BLUE" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="7" Description="" Part="DIODE-SCHOTTKYSOD-123" References="D3 D4" Value="MBR120" Footprint="SOD-123" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="8" Description="" Part="LED0805_NOOUTLINE" References="D1 L0" Value="RED" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="9" Description="" Part="ATMEGA32U4-AU" References="IC1" Value="ATMEGA32U4-AU" Footprint="TQFP44" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="10" Description="" Part="HEADER-1X16ROUND" References="JP1 JP3" Value="HEADER-1X16ROUND" Footprint="1X16_ROUND" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="11" Description="" Part="LED0805_NOOUTLINE" References="PWR0" Value="GREEN" Footprint="CHIPLED_0805_NOOUTLINE" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="12" Description="" Part="RESISTOR0805_NOOUTLINE" References="R4 R5" Value="22" Footprint="0805-NO" Quantity_Per_PCB="2" Status=" " Datasheet="" BOM=""/>
+	<group Row="13" Description="" Part="RESISTOR0805_NOOUTLINE" References="R1 R6 R7 R10" Value="2.2K" Footprint="0805-NO" Quantity_Per_PCB="4" Status=" " Datasheet="" BOM=""/>
+	<group Row="14" Description="" Part="SPST_TACT-KMR2" References="SW1" Value="SPST_TACT-KMR2" Footprint="KMR2" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="15" Description="" Part="NRF51822_MODULE_MDBT40" References="U1" Value="MBT40" Footprint="BLE_MODULE_RAYTAC_MDBT40" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="16" Description="" Part="VREG_SOT23-5" References="U2" Value="MIC5225-3.3" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="17" Description="" Part="CON_JST_PH_2PIN" References="X1" Value="JSTPH" Footprint="JSTPH2" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="18" Description="" Part="USBMICRO_20329" References="X3" Value="microUSB" Footprint="4UCONN_20329" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+	<group Row="19" Description="" Part="RESONATORSMD" References="Y1" Value="RESONATORSMD" Footprint="RESONATOR-SMD" Quantity_Per_PCB="1" Status=" " Datasheet="" BOM=""/>
+</KiCad_BOM>
