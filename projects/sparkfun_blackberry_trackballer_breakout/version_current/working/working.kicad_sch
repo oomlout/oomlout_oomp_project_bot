@@ -1,0 +1,391 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 7c8f3159-3d32-4f5b-a159-dcf6f2608655)
+
+  (paper "User" 297.002 223.926)
+
+  (lib_symbols
+    (symbol "working-eagle-import:BLACKBERRY_TRACKBALLER" (in_bom yes) (on_board yes)
+      (property "Reference" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Value" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Footprint" "working:BLACKBERRY_TRACKBALLER" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_locked" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (symbol "BLACKBERRY_TRACKBALLER_1_0"
+        (polyline
+          (pts
+            (xy -10.16 -10.16)
+            (xy -10.16 10.16)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -10.16 -10.16)
+            (xy 10.16 -10.16)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -10.16 10.16)
+            (xy 10.16 10.16)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 10.16 10.16)
+            (xy 10.16 -10.16)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (circle (center 0 0) (radius 5.6796)
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (text "Blackberry Trackballer Mounting Board" (at -14.732 -12.446 0)
+          (effects (font (size 1.27 1.0795)) (justify left bottom))
+        )
+      )
+    )
+    (symbol "working-eagle-import:FRAME-LETTER" (in_bom yes) (on_board yes)
+      (property "Reference" "FRAME" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Value" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Footprint" "working:CREATIVE_COMMONS" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_locked" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (symbol "FRAME-LETTER_1_0"
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 248.92 0)
+          )
+          (stroke (width 0.4064) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 185.42)
+            (xy 0 0)
+          )
+          (stroke (width 0.4064) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 185.42)
+            (xy 248.92 185.42)
+          )
+          (stroke (width 0.4064) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 248.92 185.42)
+            (xy 248.92 0)
+          )
+          (stroke (width 0.4064) (type solid))
+          (fill (type none))
+        )
+      )
+      (symbol "FRAME-LETTER_2_0"
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 0 5.08)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 71.12 0)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 5.08)
+            (xy 0 15.24)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 5.08)
+            (xy 71.12 5.08)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 15.24)
+            (xy 0 22.86)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 22.86)
+            (xy 0 35.56)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 22.86)
+            (xy 101.6 22.86)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 71.12 0)
+            (xy 101.6 0)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 71.12 5.08)
+            (xy 71.12 0)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 71.12 5.08)
+            (xy 87.63 5.08)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 87.63 5.08)
+            (xy 101.6 5.08)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 87.63 15.24)
+            (xy 0 15.24)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 87.63 15.24)
+            (xy 87.63 5.08)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 5.08)
+            (xy 101.6 0)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 15.24)
+            (xy 87.63 15.24)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 15.24)
+            (xy 101.6 5.08)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 22.86)
+            (xy 101.6 15.24)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 35.56)
+            (xy 0 35.56)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 101.6 35.56)
+            (xy 101.6 22.86)
+          )
+          (stroke (width 0.254) (type solid))
+          (fill (type none))
+        )
+        (text "${#}/${##}" (at 86.36 1.27 0)
+          (effects (font (size 2.54 2.54)) (justify left bottom))
+        )
+        (text "${CURRENT_DATE}" (at 12.7 1.27 0)
+          (effects (font (size 2.54 2.54)) (justify left bottom))
+        )
+        (text "${PROJECTNAME}" (at 15.494 17.78 0)
+          (effects (font (size 2.7432 2.7432)) (justify left bottom))
+        )
+        (text "Attribution Share-Alike 4.0 License" (at 2.54 27.94 0)
+          (effects (font (size 1.9304 1.6408)) (justify left bottom))
+        )
+        (text "Date:" (at 1.27 1.27 0)
+          (effects (font (size 2.54 2.54)) (justify left bottom))
+        )
+        (text "Design by:" (at 1.27 11.43 0)
+          (effects (font (size 2.54 2.159)) (justify left bottom))
+        )
+        (text "https://creativecommons.org/licenses/by-sa/4.0/" (at 2.54 24.13 0)
+          (effects (font (size 1.9304 1.6408)) (justify left bottom))
+        )
+        (text "Released under the Creative Commons" (at 2.54 31.75 0)
+          (effects (font (size 1.9304 1.6408)) (justify left bottom))
+        )
+        (text "REV:" (at 88.9 11.43 0)
+          (effects (font (size 2.54 2.54)) (justify left bottom))
+        )
+        (text "Sheet:" (at 72.39 1.27 0)
+          (effects (font (size 2.54 2.54)) (justify left bottom))
+        )
+        (text "TITLE:" (at 1.524 17.78 0)
+          (effects (font (size 2.54 2.54)) (justify left bottom))
+        )
+      )
+    )
+  )
+
+
+  (text "Patrick Alberts" (at 185.928 191.77 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 3fb687bd-be30-43f7-9e4d-b697afd7a381)
+  )
+  (text "V10" (at 259.08 195.58 0)
+    (effects (font (size 1.778 1.5113)) (justify left bottom))
+    (uuid 71a12c67-3b45-492b-93d1-53aec4e3f86b)
+  )
+
+  (symbol (lib_id "working-eagle-import:FRAME-LETTER") (at 20.32 203.2 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 1f0cc94a-c5ae-4c82-9b07-e9c6ed0e23ca)
+    (property "Reference" "FRAME1" (at 20.32 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "FRAME-LETTER" (at 20.32 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "working:CREATIVE_COMMONS" (at 20.32 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 20.32 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "working"
+        (path "/7c8f3159-3d32-4f5b-a159-dcf6f2608655"
+          (reference "FRAME1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "working-eagle-import:FRAME-LETTER") (at 167.64 203.2 0) (unit 2)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 5bb6b3f6-eec7-4e89-8d26-78b39473f31c)
+    (property "Reference" "FRAME1" (at 167.64 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "FRAME-LETTER" (at 167.64 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "working:CREATIVE_COMMONS" (at 167.64 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 167.64 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "working"
+        (path "/7c8f3159-3d32-4f5b-a159-dcf6f2608655"
+          (reference "FRAME1") (unit 2)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "working-eagle-import:BLACKBERRY_TRACKBALLER") (at 134.62 93.98 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 9ab46de1-724f-4bed-b6f6-365661b4d8d2)
+    (property "Reference" "U$1" (at 134.62 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "BLACKBERRY_TRACKBALLER" (at 134.62 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "working:BLACKBERRY_TRACKBALLER" (at 134.62 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 134.62 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "working"
+        (path "/7c8f3159-3d32-4f5b-a159-dcf6f2608655"
+          (reference "U$1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

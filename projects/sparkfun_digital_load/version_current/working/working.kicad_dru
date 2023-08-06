@@ -1,0 +1,8 @@
+(version 1)
+(rule "class 0:0"
+  (condition "A.NetClass == 'signal' && B.NetClass == 'signal'")
+  (constraint clearance (min 0.1778mm)))
+
+(rule "class 1:1"
+  (condition "A.NetClass == 'AVCC' && B.NetClass == 'AVCC'")
+  (constraint clearance (min 0.1778mm)))
