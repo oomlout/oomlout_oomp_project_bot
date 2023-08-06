@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="24" Component_Count="65 (0 SMD/ 0 THT)" Fitted_Components="65 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="65" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-01" encoding="utf-8">
+	<group Row="1" Description="" Part="ESP32_THING" References="B1" Value="ESP32_THING" Footprint="ESP32_THING" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="0.1UF-0603-100V-10%" References="C7 C8 C9 C10 C11 C17 C18" Value="0.1UF-0603-100V-10%" Footprint="0603" Quantity_Per_PCB="7" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="1.0UF-0603-16V-10%" References="C12 C13 C14" Value="1.0UF-0603-16V-10%" Footprint="0603" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="100UF-POLAR-RADIAL-2.5MM-25V-20%" References="C15" Value="100UF-POLAR-RADIAL-2.5MM-25V-20%" Footprint="CPOL-RADIAL-2.5MM-6.5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="10UF-1210-50V-20%" References="C4 C5 C6 C16" Value="10UF-1210-50V-20%" Footprint="1210" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="33NF-0603-50V-10%" References="C1 C2 C3" Value="33NF-0603-50V-10%" Footprint="0603" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="DIODE-PTH" References="D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12" Value="DIODE-PTH" Footprint="DIODE-1N4001" Quantity_Per_PCB="12" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="STAND-OFF" References="H1 H2 H3 H4" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="OPAMP-DUALU" References="IC1 IC2" Value="OPAMP-DUALU" Footprint="SO08" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="CONN_03SCREW" References="J3" Value="CONN_03SCREW" Footprint="SCREWTERMINAL-3.5MM-3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="CONN_063.5MM-6" References="J1" Value="CONN_063.5MM-6" Footprint="SCREWTERMINAL-3.5MM-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="POWER_JACKPTH_LOCK" References="J2" Value="POWER_JACKPTH_LOCK" Footprint="POWER_JACK_PTH_LOCK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="JUMPER-SMT_2_NC_PASTE_NO-SILK" References="JP2 JP3 JP4" Value="JUMPER-SMT_2_NC_PASTE_NO-SILK" Footprint="SMT-JUMPER_2_NC_PASTE_NO-SILK" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="JUMPER-SMT_2_NO_SILK" References="JP5" Value="JUMPER-SMT_2_NO_SILK" Footprint="SMT-JUMPER_2_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="JUMPER-SMT_3_1-NC_TRACE_SILK" References="JP1" Value="JUMPER-SMT_3_1-NC_TRACE_SILK" Footprint="SMT-JUMPER_3_1-NC_TRACE_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="OSHW-LOGOM" References="LOGO2" Value="OSHW-LOGOM" Footprint="OSHW-LOGO-M" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="SFE_LOGO_NAME_FLAME.2_INCH" References="LOGO1" Value="SFE_LOGO_NAME_FLAME.2_INCH" Footprint="SFE_LOGO_NAME_FLAME_.2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="10KOHM-0603-1/10W-1%" References="R1 R2 R3 R4 R5 R6" Value="10KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="1KOHM-0603-1/10W-1%" References="R13" Value="1KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="1KOHM-HORIZ-1/4W-1%" References="R10 R11 R12" Value="1KOHM-HORIZ-1/4W-1%" Footprint="AXIAL-0.3" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="220OHM-0603-1/10W-1%" References="R7 R8 R9" Value="220OHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="MC33926" References="U1 U2 U3" Value="MC33926" Footprint="32-PQFN" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="R-78E5.0-1.0" References="U4" Value="R-78E5.0-1.0" Footprint="DC-DC_CONVERTER_78XX" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

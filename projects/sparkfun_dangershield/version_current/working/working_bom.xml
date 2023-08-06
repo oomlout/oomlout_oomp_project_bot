@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="20" Component_Count="37 (0 SMD/ 0 THT)" Fitted_Components="37 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="37" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-00" encoding="utf-8">
+	<group Row="1" Description="" Part="CAPPTH2" References="C1 C2" Value="0.1uF" Footprint="CAP-PTH-SMALL2" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="LOGO-SFENEW" References="JP2 JP3" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="LOGO-SFESK" References="JP5" Value="LOGO-SFESK" Footprint="SFE-LOGO-FLAME" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="M05PTH" References="JP1" Value="M05PTH" Footprint="1X05" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED5MM" References="LED1" Value="Red" Footprint="LED5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LED5MM" References="LED2 LED3" Value="Yellow" Footprint="LED5MM" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RESISTORAXIAL-0.3" References="R1 R2 R3 R9 R10 R11 R12 R13 R14 R15 R16" Value="330" Footprint="AXIAL-0.3" Quantity_Per_PCB="11" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTORAXIAL-0.3" References="R30" Value="10K" Footprint="AXIAL-0.3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RESISTORAXIAL-0.3" References="R4" Value="1M" Footprint="AXIAL-0.3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="PHOTOCELLPTH" References="R5" Value="PHOTOCELLPTH" Footprint="PHOTOCELL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="SLIDER" References="R6 R7 R8" Value="SLIDER" Footprint="SLIDER" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="SWITCH-MOMENTARY-212MM" References="S1 S2 S3" Value="SWITCH-MOMENTARY-212MM" Footprint="TACTILE-PTH-12MM" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="SWITCH-MOMENTARY-2PTH" References="S4" Value="SWITCH-MOMENTARY-2PTH" Footprint="TACTILE-PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="BUZZERPTH" References="SG1" Value="BUZZERPTH" Footprint="BUZZER-12MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="7-SEGMENT-DISPLAY-1{dblquote}-RED" References="U6" Value="7-SEGMENT-DISPLAY-1{dblquote}-RED" Footprint="7-SEGMENT-1_PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="74595N" References="U2" Value="74595N" Footprint="DIL16" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="ARDUINO_SHIELDNO_SILK" References="U1" Value="ARDUINO_SHIELDNO_SILK" Footprint="DUEMILANOVE_VIAS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="TMP36GT9" References="U4" Value="TMP36" Footprint="TO-92" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="CREATIVE_COMMONS" References="U$1" Value="CREATIVE_COMMONS" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="OSHW-LOGOM" References="U$2" Value="OSHW-LOGOM" Footprint="OSHW-LOGO-M" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

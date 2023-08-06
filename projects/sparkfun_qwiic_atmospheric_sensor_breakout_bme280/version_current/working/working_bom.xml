@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="16" Component_Count="23 (0 SMD/ 0 THT)" Fitted_Components="23 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="23" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-13" encoding="utf-8">
+	<group Row="1" Description="" Part="0.1UF-0603-25V-(+80/-20%)" References="C1 C2" Value="0.1UF-0603-25V-(+80/-20%)" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="LED-RED0603" References="D1" Value="RED" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="STAND-OFF" References="H1 H2 H4" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="CONN_021X02_NO_SILK" References="J4" Value="CONN_021X02_NO_SILK" Footprint="1X02_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="I2C_STANDARD_NO_SILK" References="J3" Value="PTH" Footprint="1X04_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="I2C_STANDARDQWIIC" References="J1 J2" Value="QWIIC" Footprint="JST04_1MM_RA" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="JUMPER-PAD-2-NC_BY_TRACENO_SILK" References="JP2" Value="JUMPER-PAD-2-NC_BY_TRACENO_SILK" Footprint="PAD-JUMPER-2-NC_BY_TRACE_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="JUMPER-SMT_2_NC_TRACE_NO-SILK" References="JP1" Value="JUMPER-SMT_2_NC_TRACE_NO-SILK" Footprint="SMT-JUMPER_2_NC_TRACE_NO-SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="JUMPER-SMT_3_1-NC_TRACE_NO-SILK" References="JP3" Value="JUMPER-SMT_3_1-NC_TRACE_NO-SILK" Footprint="SMT-JUMPER_3_1-NC_TRACE_NO-SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="JUMPER-SMT_3_2-NC_TRACE_NO-SILK" References="JP4" Value="JUMPER-SMT_3_2-NC_TRACE_NO-SILK" Footprint="SMT-JUMPER_3_2-NC_TRACE_NO-SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="OSHW-LOGOS" References="LOGO4" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="SFE_LOGO_NAME.1_INCH" References="LOGO1" Value="SFE_LOGO_NAME.1_INCH" Footprint="SFE_LOGO_NAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="1KOHM-0603-1/10W-1%" References="R5" Value="1KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="4.7KOHM-0603-1/10W-1%" References="R1 R2 R3 R4" Value="4.7KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="BME280" References="U1" Value="BME280" Footprint="LGA-8-2.5X2.5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

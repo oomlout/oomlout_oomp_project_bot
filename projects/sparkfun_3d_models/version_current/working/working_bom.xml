@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="25" Component_Count="34 (0 SMD/ 0 THT)" Fitted_Components="34 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="34" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-55-57" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP0402-CAP" References="C2 C4" Value="0.1uF" Footprint="0402-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP0402-CAP" References="C9 C10" Value="4.7uF" Footprint="0402-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CH_passive_CAP1206" References="C1" Value="10uF" Footprint="1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CH_passive_CAP0805" References="C3" Value="22uF" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED0603" References="D4" Value="red" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="M02PTH" References="JP9" Value="IN" Footprint="1X02" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="LOGO-SFENEW" References="JP3" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LOGO-SFESK" References="JP4" Value="LOGO-SFESK" Footprint="SFE-LOGO-FLAME" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="M02-JST-2MM-SMT" References="JP1" Value="LiPo" Footprint="JST-2-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="M02PTH" References="JP12" Value="LiPoIN" Footprint="1X02" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="M01PTH" References="JP13 JP14" Value="M01PTH" Footprint="1X01" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="M02PTH" References="JP2" Value="OUT" Footprint="1X02" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="STAND-OFF" References="JP5 JP6 JP7 JP8" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="INDUCTOR." References="L1" Value="4.7uH, 1.2A" Footprint="CDRH2D09" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="RESISTOR0402-RES" References="R9" Value="470" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="RESISTOR0402-RES" References="R5" Value="2k" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="RESISTOR0402-RES" References="R2 R8" Value="10k" Footprint="0402-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="RESISTOR0402-RES" References="R4 R6" Value="220k" Footprint="0402-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="RESISTOR0402-RES" References="R1" Value="1.2M" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="RESISTOR0402-RES" References="R3 R7" Value="2M" Footprint="0402-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="MCP73831" References="U1" Value="MCP73831" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="TPS61200" References="U2" Value="TPS61200" Footprint="QFN-10_PAD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="CREATIVE_COMMONS" References="U$2" Value="CREATIVE_COMMONS" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="OSHW-LOGOS" References="U$1" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="USB-MICROB" References="X1" Value="USB-MICROB" Footprint="USB-MICROB" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

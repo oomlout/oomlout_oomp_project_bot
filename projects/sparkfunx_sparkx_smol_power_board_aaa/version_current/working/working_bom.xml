@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="21" Component_Count="28 (0 SMD/ 0 THT)" Fitted_Components="28 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="28" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-17" encoding="utf-8">
+	<group Row="1" Description="" Part="0.1UF-0402T-6.3V-10%-X7R" References="C2 C4 C6 C8" Value="0.1UF-0402T-6.3V-10%-X7R" Footprint="0402-TIGHT" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="10UF-0402T-6.3V-20%" References="C1" Value="10UF-0402T-6.3V-20%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="22UF-0603-6.3V-20%" References="C3 C7" Value="22UF-0603-6.3V-20%" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="4.7UF-0402_TIGHT-6.3V-20%-X5R" References="C5" Value="4.7UF-0402_TIGHT-6.3V-20%-X5R" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="DIODE-SCHOTTKY-BAT20J" References="D1" Value="1A/23V/620mV" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="FRAME-LEDGER" References="FRAME1" Value="FRAME-LEDGER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="CONN_16FPC_16_0.5MM" References="IN0 OUT0" Value="CONN_16FPC_16_0.5MM" Footprint="FPC_16_0.5MM" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="JST_2MM_MALE" References="J1" Value="JST_2MM_MALE" Footprint="JST-2-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="4.7μH_SHIELDED_INDUCTORNPIS_LS" References="L2" Value="4.7μH_SHIELDED_INDUCTORNPIS_LS" Footprint="INDUCTOR_4X4MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="INDUCTOR-LHQ32-15UH" References="L1" Value="15uH" Footprint="INDUCTOR_LQH32" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="OSHW-LOGOMINI" References="LOGO2 LOGO3" Value="OSHW-LOGOMINI" Footprint="OSHW-LOGO-MINI" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="SPECIAL_INSTRUCTIONS-ORDERING" References="LOGO1" Value="SPECIAL_INSTRUCTIONS-ORDERING" Footprint="ORDERING_INSTRUCTIONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="JUMPER-SMT_2_NC_TRACE_SILK" References="PROC_PWR_EN0" Value="JUMPER-SMT_2_NC_TRACE_SILK" Footprint="SMT-JUMPER_2_NC_TRACE_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="150KOHM-0402T-1/16W-1%" References="R4" Value="150KOHM-0402T-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="180KOHM-0402T-1/16W-1%" References="R2" Value="180KOHM-0402T-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="1MOHM-0402T-1/16W-5%" References="R1" Value="1MOHM-0402T-1/16W-5%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="453KOHM-0402T-1/16W-1%" References="R3" Value="453KOHM-0402T-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="ATTINY43_QFN20" References="U1" Value="ATTINY43_QFN20" Footprint="QFN20_20M1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="TPS61200_MINIMAL" References="U2" Value="TPS61200_MINIMAL" Footprint="QFN-10_PAD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="SMOL_LOGOSMALL" References="U$13 U$14" Value="SMOL_LOGOSMALL" Footprint="SMOL_SMALL" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="SPARKX-LOGO3" References="U$1" Value="SPARKX-LOGO3" Footprint="SPARKX-SMALL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
