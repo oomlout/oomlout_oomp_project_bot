@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="39" Component_Count="55 (0 SMD/ 0 THT)" Fitted_Components="55 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="55" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-04" encoding="utf-8">
+	<group Row="1" Description="" Part="3.3NF-100V-10%(0603)" References="C8" Value="3.3nF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="2" Description="" Part="0.1UF-25V(+80/-20%)(0603)" References="C1 C2 C3 C4 C5 C9" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="6" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="3" Description="" Part="10UF-16V-10%(TANT)" References="C7 C10" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="2" Status=" " Datasheet="" PART_num="TAJA106K016RNJ" AM=""/>
+	<group Row="4" Description="" Part="10UF50V20%(1210)" References="C11" Value="10uF" Footprint="1210" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="UMK325C7106MM-T" AM=""/>
+	<group Row="5" Description="" Part="10UF10V10%(0805)" References="C6" Value="10uF" Footprint="0805-CAP" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="LMK212BJ106KG-T" AM=""/>
+	<group Row="6" Description="" Part="DIODE-SCHOTTKY-B340A" References="D1" Value="DIODE-SCHOTTKY-B340A" Footprint="SMA-DIODE" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="B340A" AM=""/>
+	<group Row="7" Description="" Part="DIODE-ZENERDZ2J150M0L" References="D2" Value="DIODE-ZENERDZ2J150M0L" Footprint="PANASONIC_SMINI2-F5-B" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="DZ2J150M0L" AM=""/>
+	<group Row="8" Description="" Part="LED-RED0603-SMART" References="D5" Value="Red" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="9" Description="" Part="LED-YELLOW0603-SMART" References="D3" Value="Yellow" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="10" Description="" Part="PTCSMD" References="F1" Value="PTCSMD" Footprint="PTC-1206" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="0ZCA0075FF2G" AM=""/>
+	<group Row="11" Description="" Part="FRAME-LEDGER" References="FRAME2" Value="FRAME-LEDGER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="12" Description="" Part="USB-ABCONN-11794" References="JP21" Value="AB MICRO USB" Footprint="USB-AB-MICRO-SMD_V03" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="13" Description="" Part="JST_2MM_MALE" References="JP19" Value="JST" Footprint="JST-2-SMD" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="14" Description="" Part="M01PTH" References="JP3 JP14 JP15" Value="M01PTH" Footprint="1X01" Quantity_Per_PCB="3" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="15" Description="" Part="M03PTH" References="JP1 JP2 JP4 JP5 JP6 JP17" Value="M03PTH" Footprint="1X03" Quantity_Per_PCB="6" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="16" Description="" Part="M111X11_NO_SILK" References="JP9" Value="M111X11_NO_SILK" Footprint="1X11_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="17" Description="" Part="M161X16_NO_SILK" References="JP7" Value="M161X16_NO_SILK" Footprint="1X16_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="18" Description="" Part="M191X19_NO_SILK" References="JP20" Value="M191X19_NO_SILK" Footprint="1X19_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="19" Description="" Part="STAND-OFF" References="JP10 JP11 JP12 JP13" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="20" Description="" Part="INDUCTOR30OHM,1.8A" References="L1" Value="30Ohm,1.8A" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="21" Description="" Part="INDUCTORCR54-3.3UH" References="L2" Value="VLC5045T-3R3N" Footprint="CR54" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM="3.3uH"/>
+	<group Row="22" Description="" Part="OSHW-LOGOS" References="LOGO1" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="23" Description="" Part="SFE_LOGO_FLAME.1_INCH" References="LOGO3" Value="SFE_LOGO_FLAME.1_INCH" Footprint="SFE_LOGO_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="24" Description="" Part="SFE_LOGO_NAME_FLAME.1_INCH" References="LOGO2" Value="SFE_LOGO_NAME_FLAME.1_INCH" Footprint="SFE_LOGO_NAME_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="25" Description="" Part="MOSFET-NCHANNEL2N7002PW" References="Q2" Value="MOSFET-NCHANNEL2N7002PW" Footprint="SOT323" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="2N7002PW" AM=""/>
+	<group Row="26" Description="" Part="MOSFET-NCHANNELAO3404A" References="Q3" Value="MOSFET-NCHANNELAO3404A" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="AO3404A" AM=""/>
+	<group Row="27" Description="" Part="MOSFET-PCHANNELIRLML2244" References="Q1" Value="MOSFET-PCHANNELIRLML2244" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="28" Description="" Part="470OHM1/10W1%(0603)" References="R8" Value="470" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="29" Description="" Part="750OHM1/10W1%(0603)0603" References="R7" Value="750" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="30" Description="" Part="1.6KOHM-1/10W-1%(0603)0603" References="R9" Value="1.6K" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="31" Description="" Part="3.3KOHM1/10W1%(0603)" References="R4" Value="3.3k" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="32" Description="" Part="10KOHM-1/10W-1%(0603)0603" References="R1" Value="10K" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="33" Description="" Part="100KOHM-1/10W-1%(0603)" References="R2" Value="100k" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="34" Description="" Part="TRIMPOTRES-11156" References="R3" Value="TS53YL502MR10" Footprint="TRIMPOT_5MM" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="TS53YL502MR10" AM=""/>
+	<group Row="35" Description="" Part="SWITCH_SPDT" References="S1" Value="SWITCH_SPDT" Footprint="KPS-1290" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="36" Description="" Part="PIC24FXXXGPX06" References="U1" Value="PIC24FXXXGPX06" Footprint="PIC24FXXX_TQFP64" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="37" Description="" Part="TPS62133RGTT{dblquote}{dblquote}" References="U2" Value="TPS62133RGTT{dblquote}{dblquote}" Footprint="QFN16-3X3MM_1_1_V03" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="38" Description="" Part="V_REG_MIC5216" References="U3" Value="V_REG_MIC5216" Footprint="MSOP8" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+	<group Row="39" Description="" Part="IOIO-OTG" References="U$6" Value="IOIO-OTG" Footprint="IOIO-OTG-COPPER-EXPOSED" Quantity_Per_PCB="1" Status=" " Datasheet="" PART_num="" AM=""/>
+</KiCad_BOM>

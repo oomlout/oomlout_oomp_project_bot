@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="15" Component_Count="20 (0 SMD/ 0 THT)" Fitted_Components="20 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="20" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-55-58" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP0402-CAP" References="C3" Value="0.1uF" Footprint="0402-CAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_POL1206" References="C4" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="TINY85S" References="IC1" Value="TINY85S" Footprint="SOIC8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="AVR_SPI_PRG_6PTH" References="JP3" Value="AVR_SPI_PRG_6PTH" Footprint="2X3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="M01PTH" References="JP4 JP5" Value="M01PTH" Footprint="1X01" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="M04PTH" References="JP1 JP2" Value="M04PTH" Footprint="1X04" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="LED0603" References="LED1 LED2" Value="Blue" Footprint="LED-0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LED0603" References="LED3" Value="White?" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="LED0603" References="LED4" Value="Yellow" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR0402-RES" References="R1 R2" Value="68" Footprint="0402-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RESISTOR0402-RES" References="R4 R5" Value="470" Footprint="0402-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR0402-RES" References="R3" Value="1.5K" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="CREATIVE_COMMONS" References="U$4" Value="CREATIVE_COMMONS" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="LOGO-SFESK" References="U$1" Value="LOGO-SFESK" Footprint="SFE-LOGO-FLAME" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="USBPCB" References="X1" Value="USBPCB" Footprint="USB-A-PCB" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

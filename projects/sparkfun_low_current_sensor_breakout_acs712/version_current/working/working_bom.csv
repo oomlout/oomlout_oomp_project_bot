@@ -1,0 +1,30 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,CAP0402-CAP,C1,100pF,0402-CAP,1, ,
+2,,CAP0402-CAP,C5,1nF,0402-CAP,1, ,
+3,,CAP0402-CAP,C2 C3 C4,0.1uF,0402-CAP,3, ,
+4,,M01PTH,JP4 JP5,M01PTH,1X01,2, ,
+5,,M01PTH_2MM,JP1 JP2,M01PTH_2MM,1X01_2MM,2, ,
+6,,M03PTH,JP3,M03PTH,1X03,1, ,
+7,,RESISTOR0402-RES,R2,1K,0402-RES,1, ,
+8,,RESISTOR0402-RES,R1,47K,0402-RES,1, ,
+9,,TRIMPOTSMD,R3 R4,TRIMPOTSMD,TRIMPOT-3MM,2, ,
+10,,ACS712,U1,ACS712,SO08,1, ,
+11,,OPA344,U2,OPA344,SOT23-5,1, ,
+12,,LOGO-SFENEW,U$2,LOGO-SFENEW,SFE-NEW-WEBLOGO,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-06_12-56-05
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,12
+Component Count:,17 (0 SMD/ 0 THT)
+Fitted Components:,17 (0 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,17

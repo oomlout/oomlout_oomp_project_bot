@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="25" Component_Count="50 (0 SMD/ 0 THT)" Fitted_Components="50 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="50" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-55-59" encoding="utf-8">
+	<group Row="1" Description="" Part="0.1UF-100V-10%(0603)" References="C1 C6 C7 C8 C9 C11" Value=".1uF" Footprint="0603-CAP" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="0.22UF50V-20%,+80%(0603)" References="C10" Value=".22uF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="1.0UF-16V-10%(0603)" References="C2" Value="1uF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="47UF-50V-20%(ELECT)" References="C14" Value="47uF" Footprint="PANASONIC_D" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="DIODE-DO-214AC" References="D1" Value="B340A-13-F" Footprint="DO-214AC" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="A4988ALT1" References="IC1" Value="A4988ALT1" Footprint="QFN-28-5MM_ALT1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="SPARKFUN03_30_09_V_REG_317SOT89" References="IC2" Value="SPARKFUN03_30_09_V_REG_317SOT89" Footprint="SCHMALZHAUS_SOT89" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="BigEasyDriver_v11_M023.5MM_LOCK" References="JP7 JP13" Value="M023.5MM_LOCK" Footprint="SCREWTERMINAL-3.5MM-2_LOCK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="M02PTH" References="JP1 JP6" Value="M02PTH" Footprint="1X02" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="M04PTH" References="JP3 JP10 JP14" Value="M04PTH" Footprint="1X04" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="BigEasyDriver_v11_M04SCREW_LOCK" References="JP5 JP11 JP12" Value="M04SCREW_LOCK" Footprint="SCREWTERMINAL-3.5MM-4_LOCK" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="STAND-OFF" References="JP8 JP9" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="OSHW_LOGO_FILLX0100-NT" References="LOGO1" Value="OSHW_LOGO_FILLX0100-NT" Footprint="OSHW_FILLX100_NOTEXT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="LED0603" References="PWR_LED0" Value="YELLOW" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="0.11OHM1/2W1%(2010)" References="R18 R19" Value=".11" Footprint="R2010" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="240OHM1/10W1%(0603)" References="R8" Value="240" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="330OHM1/10W1%(0603)" References="R7" Value="330" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="390OHM1/10W1%(0603)" References="R6" Value="390" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="1KOHM1/10W1%(0603)" References="R9 R14 R15" Value="1K" Footprint="0603-RES" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="8.2KOHM-1/10W-5%(0603)" References="R13" Value="8.2K" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="20KOHM1/10W5%(0603)" References="R1 R2 R3 R4 R5 R10 R11 R12 R20" Value="20K" Footprint="0603-RES" Quantity_Per_PCB="9" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="TRIMPOT3MM-2" References="R16" Value="TRIMPOT3MM-2" Footprint="TRIMPOT-3MM-2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="LOGO-SFENEW" References="U$2" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="PAD" References="U$3 U$4 U$5" Value="PAD" Footprint="PAD-0.008" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+</KiCad_BOM>

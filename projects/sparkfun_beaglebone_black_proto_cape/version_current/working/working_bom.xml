@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="14" Component_Count="26 (0 SMD/ 0 THT)" Fitted_Components="26 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="26" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-55-59" encoding="utf-8">
+	<group Row="1" Description="" Part="0.1UF-25V(+80/-20%)(0603)" References="C1" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="2" Description="" Part="LED-RED0603" References="D1 D2" Value="RED" Footprint="LED-0603" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="3" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="4" Description="" Part="M01PTH" References="JP1 JP2" Value="M01PTH" Footprint="1X01" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="5" Description="" Part="OSHW-LOGOS" References="LOGO2" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="6" Description="" Part="SFE_LOGO_NAME_FLAME.1_INCH" References="LOGO3" Value="SFE_LOGO_NAME_FLAME.1_INCH" Footprint="SFE_LOGO_NAME_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="7" Description="" Part="1KOHM1/10W1%(0603)" References="R7 R8" Value="1K" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="8" Description="" Part="4.7KOHM1/10W1%(0603)" References="R1 R2 R3 R4 R5" Value="4.7k" Footprint="0603@1" Quantity_Per_PCB="5" Status=" " Datasheet="" PROD_ID="RES-07857"/>
+	<group Row="9" Description="" Part="10KOHM1/10W1%(0603)0603" References="R6" Value="10k" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="10" Description="" Part="JUMPER-SMT_2_NO_SILK" References="SJ3 SJ4 SJ5" Value="JUMPER-SMT_2_NO_SILK" Footprint="SMT-JUMPER_2_NO_SILK" Quantity_Per_PCB="3" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="11" Description="" Part="JUMPER-SMT_3_2-NC_PASTE_SILK" References="SJ1" Value="JUMPER-SMT_3_2-NC_PASTE_SILK" Footprint="SMT-JUMPER_3_2-NC_PASTE_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="12" Description="" Part="EEPROM-I2CSMD" References="U1" Value="EEPROM-I2CSMD" Footprint="SO08" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="13" Description="" Part="BEAGLE_BONE_BLACK_CAPE" References="U$1" Value="BEAGLE_BONE_BLACK_CAPE" Footprint="BEAGLE_BONE_BLACK_CAPE" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="14" Description="" Part="M23" References="U$2 U$3 U$4 U$5" Value="M23" Footprint="1X23" Quantity_Per_PCB="4" Status=" " Datasheet="" PROD_ID=""/>
+</KiCad_BOM>

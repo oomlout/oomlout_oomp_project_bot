@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="33" Component_Count="56 (0 SMD/ 0 THT)" Fitted_Components="56 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="56" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-09" encoding="utf-8">
+	<group Row="1" Description="" Part="22PF-50V-5%(0603)" References="C3 C8" Value="22pF" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="2" Description="" Part="470PF-50V-5%(0603)SMD" References="C4" Value="470pF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="3" Description="" Part="10NF/10000PF-50V-10%(0603)" References="C10 C11" Value="10nF" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="4" Description="" Part="47NF(0.047UF/47000PF)-25V-5%(0603)SMD" References="C12" Value="47nF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="5" Description="" Part="0.1UF-25V(+80/-20%)(0603)" References="C2 C5 C7 C13 C14 C15 C16" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="7" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="6" Description="" Part="1.0UF-16V-10%(0603)" References="C9" Value="1.0uF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="7" Description="" Part="10UF-16V-10%(TANT)" References="C1 C6 C17 C18" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="4" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="8" Description="" Part="FRAME-LEDGER" References="FRAME1" Value="FRAME-LEDGER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="9" Description="" Part="AVR_SPI_PRG_6PTH" References="J1" Value="AVR_SPI_PRG_6PTH" Footprint="2X3" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="10" Description="" Part="AUDIO-JACKSMD2" References="JP1" Value="AUDIO-JACKSMD2" Footprint="AUDIO-JACK-3.5MM-SMD" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="11" Description="" Part="M03PTH" References="JP3" Value="Optional" Footprint="1X03" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="12" Description="" Part="LED-RED0603" References="LED1" Value="Power" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="13" Description="" Part="OSHW-LOGOS" References="LOGO1" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="14" Description="" Part="SFE_LOGO_NAME_FLAME.1_INCH" References="LOGO2" Value="SFE_LOGO_NAME_FLAME.1_INCH" Footprint="SFE_LOGO_NAME_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="15" Description="" Part="CRYSTAL5X3" References="Q1" Value="12.288MHz" Footprint="CRYSTAL-SMD-5X3" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="XTAL-09653"/>
+	<group Row="16" Description="" Part="10OHM1/10W5%0603SMD" References="R9" Value="10" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="17" Description="" Part="20OHM1/10W1%(0603)SMD" References="R6 R7" Value="20" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="18" Description="" Part="330OHM1/10W1%(0603)" References="R8" Value="330" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="19" Description="" Part="470OHM1/10W1%(0603)" References="R21 R22" Value="470" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="20" Description="" Part="1KOHM1/10W1%(0603)" References="R13 R14" Value="1K" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="21" Description="" Part="10KOHM1/10W1%(0603)0603" References="R15 R16" Value="10K" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="22" Description="" Part="100KOHM1/10W1%(0603)" References="R2 R3 R4 R5 R10 R11 R12" Value="100k" Footprint="0603-RES" Quantity_Per_PCB="7" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="23" Description="" Part="1M-1%" References="R1" Value="1M" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="24" Description="" Part="SWITCH-MOMENTARY-2SMD" References="S2" Value="SWITCH-MOMENTARY-2SMD" Footprint="TACTILE_SWITCH_SMD" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="25" Description="" Part="JUMPER-PAD-3-2OF3_NC_BY_PASTE" References="SJ3 SJ4 SJ5" Value="JUMPER-PAD-3-2OF3_NC_BY_PASTE" Footprint="PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX" Quantity_Per_PCB="3" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="26" Description="" Part="ARDUINO_R3_SHIELD" References="U2" Value="ARDUINO_R3_SHIELD" Footprint="UNO_R3_SHIELD" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="27" Description="" Part="HEX_CONVERTER" References="U7" Value="HEX_CONVERTER" Footprint="SO016" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="IC-09604"/>
+	<group Row="28" Description="" Part="USD-SOCKETNEW" References="U6" Value="USD-SOCKETNEW" Footprint="MICRO-SD-SOCKET-PP" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="CONN-07820"/>
+	<group Row="29" Description="" Part="VS1033/1053SMD" References="U3" Value="VS1033/1053SMD" Footprint="LQFP-48" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="30" Description="" Part="V_REG_MIC52053.3V" References="U1" Value="V_REG_MIC52053.3V" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="31" Description="" Part="V_REG_SP62141.8V" References="U4" Value="V_REG_SP62141.8V" Footprint="SC70" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="32" Description="" Part="LOGO-SFENEW" References="U$8" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="33" Description="" Part="REVISION" References="U$1" Value="REVISION" Footprint="REVISION" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+</KiCad_BOM>

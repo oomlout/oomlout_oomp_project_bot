@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="43" Component_Count="78 (0 SMD/ 0 THT)" Fitted_Components="78 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="78" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-00" encoding="utf-8">
+	<group Row="1" Description="" Part="0.1UF-25V(+80/-20%)(0603)" References="C1 C6 C7 C8 C10 C11 C12 C13 C14" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="9" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="1.0UF-16V-10%(0603)" References="C4" Value="1.0uF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="4.7UF-6.3V-10%(0603)0603" References="C2 C5" Value="4.7uF" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="10UF-16V-10%(TANT)" References="C9" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="47UF-10V-10%(TANT)" References="C3" Value="47uF" Footprint="EIA3528" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="DIODESOD" References="D4 D5" Value="DIODESOD" Footprint="SOD-323" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="LED-RED1206" References="D2" Value="RED" Footprint="LED-1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LED-YELLOW0603" References="D1" Value="Yellow" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="PTCSMD" References="F1 F2" Value="PTCSMD" Footprint="PTC-1206" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="FRAME-LEDGER" References="FRAME1" Value="FRAME-LEDGER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="AVR_SPI_PRG_6NS" References="J1" Value="AVR_SPI_PRG_6NS" Footprint="2X3-NS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="M02-JST-2MM-SMT" References="JP1" Value="M02-JST-2MM-SMT" Footprint="JST-2-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="M03SMD_RA_FEMALE" References="JP2" Value="M03SMD_RA_FEMALE" Footprint="1X03_SMD_RA_FEMALE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="M04SMD_STRAIGHT_COMBO" References="JP3" Value="M04SMD_STRAIGHT_COMBO" Footprint="1X04_SMD_STRAIGHT_COMBO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="LED-GREEN0603" References="LED7" Value="Green" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="LED-RED0603" References="LED6" Value="Red" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="LED-WHITE" References="LED1 LED2 LED3 LED4 LED5" Value="White" Footprint="LED-1206" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="MOSFET-NCHANNELBSS138" References="Q1" Value="MOSFET-NCHANNELBSS138" Footprint="SOT23" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="MOSFET-PCHANNEL" References="Q2" Value="MOSFET-PCHANNEL" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="100OHM1/10W1%(0603)" References="R19 R21" Value="100" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="300OHM-1/10W-1%(0603)" References="R8 R9 R10 R11 R12 R17" Value="300" Footprint="0603-RES" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="330OHM1/10W1%(0603)" References="R1 R5" Value="330" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="1KOHM1/10W1%(0603)" References="R6 R7 R13 R15" Value="1k" Footprint="0603-RES" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="2.2KOHM1/10W1%(0603)" References="R25" Value="2.2k" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="10KOHM1/10W1%(0603)0603" References="R2 R3 R4 R14 R23 R24 R26 R27" Value="10k" Footprint="0603-RES" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="100KOHM1/10W1%(0603)" References="R22" Value="100k" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="SWITCH-DPDTAYZ0202" References="S3" Value="On/Off" Footprint="AYZ0202" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="TAC_SWITCHSMD" References="S1" Value="Reset" Footprint="TACTILE_SWITCH_SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="SWITCH-DPDTAYZ0202" References="S2" Value="SWITCH-DPDTAYZ0202" Footprint="AYZ0202" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="SWITCH-MOMENTARY-2SMD-4" References="S5" Value="SWITCH-MOMENTARY-2SMD-4" Footprint="TACTILE_SWITCH_TALL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="31" Description="" Part="STAND-OFF" References="STANDOFF1 STANDOFF2 STANDOFF3 STANDOFF4" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="32" Description="" Part="10K_LINEAR_SLIDE_POT_SMALL" References="U3" Value="10K_LINEAR_SLIDE_POT_SMALL" Footprint="C2031N-1A2-B10K-GP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="33" Description="" Part="ATMEGA328_SMT" References="U2" Value="ATMEGA328" Footprint="TQFP32-08" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="34" Description="" Part="FT232RLSSOP" References="U5" Value="FT232RLSSOP" Footprint="SSOP28DB" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="35" Description="" Part="LIGHTSENSORALS" References="U6" Value="LIGHTSENSORALS" Footprint="ALS-PT19" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="36" Description="" Part="LMV358SOIC" References="U8" Value="LMV358SOIC" Footprint="SO08" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="37" Description="" Part="MCP73831" References="U1" Value="MCP73831" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="38" Description="" Part="MCP9700SMD" References="U4" Value="MCP9700SMD" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="39" Description="" Part="MIC9.7MM" References="U9" Value="MIC9.7MM" Footprint="MIC-9.7MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="40" Description="" Part="V_REG_MIC52053.3V" References="U7" Value="V_REG_MIC52053.3V" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="41" Description="" Part="LED-TRICOLOR-NO-COMPLCC-6-SMD" References="U$5" Value="LED-TRICOLOR-NO-COMPLCC-6-SMD" Footprint="PLCC-6-LED" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="42" Description="" Part="USBSMD" References="X1" Value="USBSMD" Footprint="USB-MINIB" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="43" Description="" Part="RESONATOR8MHZ" References="Y1" Value="8MHz" Footprint="RESONATOR-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

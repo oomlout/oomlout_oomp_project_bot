@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="28" Component_Count="80 (0 SMD/ 0 THT)" Fitted_Components="80 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="80" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-05" encoding="utf-8">
+	<group Row="1" Description="" Part="470PF-50V-5%(0603)SMD" References="C5 C6" Value="470pF" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="1.0UF-16V-10%(0603)" References="C1 C2 C3" Value="1.0uF" Footprint="0603-CAP" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="2.2UF-10V-20%(0603)" References="C4 C7" Value="2.2uF" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="10UF-16V-10%(TANT)" References="C8" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED-GREEN1206-BOTTOM" References="D1 D2 D3 D4 D5 D6 D7 D8 D9" Value="Green" Footprint="LED-1206-BOTTOM" Quantity_Per_PCB="9" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="FRAME-LEDGER" References="FRAME2" Value="FRAME-LEDGER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="M03X2FEMALE" References="JP1" Value="FEMALE 2x3" Footprint="2X3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="M01PTH" References="JP2" Value="INT" Footprint="1X01" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="OSHW-LOGOS" References="LOGO6" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="SFE_LOGO_FLAME.3_INCH" References="LOGO5" Value="SFE_LOGO_FLAME.3_INCH" Footprint="SFE_LOGO_FLAME_.3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="SFE_LOGO_NAME.2_INCH" References="LOGO2" Value="SFE_LOGO_NAME.2_INCH" Footprint="SFE_LOGO_NAME_.2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="SFE_LOGO_NAME_FLAME.2_INCH" References="LOGO1" Value="SFE_LOGO_NAME_FLAME.2_INCH" Footprint="SFE_LOGO_NAME_FLAME_.2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="MOSFET-NCHANNEL2N7002PW" References="Q1" Value="MOSFET-NCHANNEL2N7002PW" Footprint="SOT323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="100OHM-1/10W-1%(0603)" References="R3 R9 R11 R13 R21 R23 R24 R25 R31" Value="100" Footprint="0603-RES" Quantity_Per_PCB="9" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="330OHM1/10W1%(0603)" References="R2" Value="330" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="1KOHM-1/10W-1%(0603)" References="R5 R6 R7 R8 R17 R18 R19 R20" Value="1K" Footprint="0603-RES" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="4.7KOHM-1/10W-1%(0603)" References="R1 R30 R32 R33 R34" Value="4.7K" Footprint="0603-RES" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="68.1KOHM1/10W1%(0603)" References="R4 R10 R12 R14 R22 R26 R27 R28" Value="68.1k" Footprint="0603-RES" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="TRIMPOT-PTH-KNOB" References="R16" Value="TSR-3386" Footprint="3386U" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="JUMPER-PAD-3-NC_BY_TRACE" References="SJ3" Value="A1" Footprint="PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="JUMPER-PAD-3-2OF3_NC_BY_PASTE" References="SJ1 SJ2" Value="JUMPER-PAD-3-2OF3_NC_BY_PASTE" Footprint="PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL" References="SJ5" Value="JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL" Footprint="PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="STAND-OFF" References="STANDOFF1 STANDOFF2 STANDOFF3 STANDOFF4 STANDOFF5 STANDOFF6" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="74125" References="U2 U6" Value="74AC125" Footprint="SO14" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="V_REG_LM1117SOT223" References="U5" Value="LM1117" Footprint="SOT223" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="QRE1113" References="U101 U102 U103 U104 U105 U106 U107 U108" Value="QRE1113" Footprint="QRE1113" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="SX1509" References="U1" Value="SX1509" Footprint="QFN-28" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="V_REG_MIC52053.3V" References="U3" Value="V_REG_MIC52053.3V" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
