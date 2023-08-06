@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="20" Component_Count="32 (0 SMD/ 0 THT)" Fitted_Components="32 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="32" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-13" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP0402-CAP" References="C1 C2" Value="9pF" Footprint="0402-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP0402-CAP" References="C8 C9 C11 C14" Value="0.1uF" Footprint="0402-CAP" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_POL1206" References="C7" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="PTCSMD" References="F1" Value="PTCSMD" Footprint="PTC-1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="M04PTH" References="JP2" Value="M04PTH" Footprint="1X04" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="M09" References="JP3" Value="M09" Footprint="1X09" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="LED0603" References="LED1 LED3" Value="Green" Footprint="LED-0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LED0603" References="LED2" Value="Red" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="CRYSTALEPSONMC146" References="Q1" Value="32kHz" Footprint="CRYSTAL-32KHZ-SMD_EPSON_MC146" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTOR0402-RES" References="R9" Value="330" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RESISTOR0402-RES" References="R1 R3 R5" Value="750" Footprint="0402-RES" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR0402-RES" References="R2 R4" Value="1K" Footprint="0402-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="RESISTOR0402-RES" References="R6 R7" Value="10K" Footprint="0402-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="FT232RL-BASICSSOP" References="U3" Value="FT232RL-BASICSSOP" Footprint="SSOP28DB" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="PIC-ICSPPTH" References="U10" Value="PIC-ICSPPTH" Footprint="MOLEX-1X6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="PIC16F913SOIC28" References="U2" Value="PIC16F913SOIC28" Footprint="SO-28W" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="RMCM01SMD" References="U1" Value="RMCM01SMD" Footprint="RMCM01" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="LOGO-SFENEW" References="U$1" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="STAND-OFF" References="U$13 U$15 U$16 U$17" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="USBSMD" References="X1" Value="USBSMD" Footprint="USB-MINIB" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
