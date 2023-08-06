@@ -1,0 +1,8 @@
+(version 1)
+(rule "class 1:1"
+  (condition "A.NetClass == 'Clock Signals' && B.NetClass == 'Clock Signals'")
+  (constraint clearance (min 0.2032mm)))
+
+(rule "class 2:2"
+  (condition "A.NetClass == 'USB' && B.NetClass == 'USB'")
+  (constraint clearance (min 0.0762mm)))

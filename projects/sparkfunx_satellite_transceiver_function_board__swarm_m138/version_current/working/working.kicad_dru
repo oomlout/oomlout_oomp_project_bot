@@ -1,0 +1,8 @@
+(version 1)
+(rule "class 10:0"
+  (condition "A.NetClass == 'DIGITAL' && B.NetClass == 'Default'")
+  (constraint clearance (min 0.1mm)))
+
+(rule "class 10:10"
+  (condition "A.NetClass == 'DIGITAL' && B.NetClass == 'DIGITAL'")
+  (constraint clearance (min 0.1mm)))
