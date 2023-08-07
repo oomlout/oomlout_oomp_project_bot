@@ -1,2 +1,0 @@
-# kimχ micro display lid
-

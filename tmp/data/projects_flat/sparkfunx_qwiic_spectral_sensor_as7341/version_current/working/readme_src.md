@@ -1,1 +1,0 @@
-# Qwiic_IR_Thermometer_MLX90614

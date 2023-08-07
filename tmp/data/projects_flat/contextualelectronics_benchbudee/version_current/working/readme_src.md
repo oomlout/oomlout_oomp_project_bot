@@ -1,4 +1,0 @@
-BenchBuddy
-==========
-
-BenchBuddy

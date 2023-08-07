@@ -1,2 +1,0 @@
-# onioncat
-Board for Onion
