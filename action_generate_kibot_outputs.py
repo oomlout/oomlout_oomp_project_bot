@@ -18,8 +18,8 @@ def go_through_directories(**kwargs):
 
             filename = os.path.join(root, file)
             #filter = ["sparkfun","adafruit","omerk"]
-            #filter = ["omerk"]
-            filter = [""]
+            filter = ["oshcamp"]
+            #filter = [""]
             #if any of filter is in filename
 
             clean_up_kicad_preflight_files()
