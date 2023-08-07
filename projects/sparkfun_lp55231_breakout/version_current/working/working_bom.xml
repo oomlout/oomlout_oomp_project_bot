@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="15" Component_Count="27 (0 SMD/ 0 THT)" Fitted_Components="27 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="27" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-05" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP0603-CAP" References="C2 C3" Value="0.47uf" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID="CAP-13216" SEE-ALSO="battery-babysitter battery bayasitter"/>
+	<group Row="2" Description="" Part="1.0UF-16V-10%(0603)" References="C1 C4" Value="1.0uF" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="3" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="4" Description="" Part="M08NO_SILK_FEMALE_PTH" References="J1" Value="To micro" Footprint="1X08_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="5" Description="" Part="M04NO_SILK_ALL_ROUND" References="J2 J3 J4" Value="USER LED" Footprint="1X04_NO_SILK_ALL_ROUND" Quantity_Per_PCB="3" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="6" Description="" Part="JUMPER-PAD-3-NC_BY_TRACE" References="JP3" Value="I2C-PULLUPS" Footprint="PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="7" Description="" Part="JUMPER-PAD-2-NC_BY_TRACENO_SILK" References="JP4 JP5 JP6" Value="JUMPER-PAD-2-NC_BY_TRACENO_SILK" Footprint="PAD-JUMPER-2-NC_BY_TRACE_NO_SILK" Quantity_Per_PCB="3" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="8" Description="" Part="JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL" References="JP1 JP2" Value="JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL" Footprint="PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="9" Description="" Part="LED-TRICOLOR-5050NO_IC" References="LED1 LED2 LED3" Value="LED-TRICOLOR-5050NO_IC" Footprint="LED-TRICOLOR-5050" Quantity_Per_PCB="3" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="10" Description="" Part="OSHW-LOGOS" References="LOGO3" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="11" Description="" Part="SFE_LOGO_FLAME.1_INCH" References="LOGO1" Value="SFE_LOGO_FLAME.1_INCH" Footprint="SFE_LOGO_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="12" Description="" Part="SFE_LOGO_NAME.1_INCH" References="LOGO2" Value="SFE_LOGO_NAME.1_INCH" Footprint="SFE_LOGO_NAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="13" Description="" Part="4.7KOHM-1/10W-1%(0603)" References="R4 R5" Value="4.7K" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="14" Description="" Part="150KOHM1/10W1%(0603)" References="R1 R2 R3" Value="150K" Footprint="0603-RES" Quantity_Per_PCB="3" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+	<group Row="15" Description="" Part="LP55231WQFN" References="U1" Value="LP55231WQFN" Footprint="WQFN-24" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="" SEE-ALSO=""/>
+</KiCad_BOM>

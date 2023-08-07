@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="34" Component_Count="48 (0 SMD/ 0 THT)" Fitted_Components="48 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="48" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-16" encoding="utf-8">
+	<group Row="1" Description="" Part="0.1UF-0402T-16V-10%" References="C15" Value="0.1UF-0402T-16V-10%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="2" Description="" Part="0.1UF-0402T-6.3V-10%-X7R" References="C2 C4 C5" Value="0.1UF-0402T-6.3V-10%-X7R" Footprint="0402-TIGHT" Quantity_Per_PCB="3" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="3" Description="" Part="1.0UF-0402T-16V-10%" References="C3 C7 C10" Value="1.0UF-0402T-16V-10%" Footprint="0402-TIGHT" Quantity_Per_PCB="3" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="4" Description="" Part="10UF-0402T-6.3V-20%" References="C1" Value="10UF-0402T-6.3V-20%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="5" Description="" Part="4.7UF-0402_TIGHT-6.3V-20%-X5R" References="C6" Value="4.7UF-0402_TIGHT-6.3V-20%-X5R" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="6" Description="" Part="4.7UF-0603-35V-(20%)" References="C19" Value="4.7UF-0603-35V-(20%)" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="7" Description="" Part="DIODE-SCHOTTKY-BAT60A" References="D4" Value="3A/10V/280mV" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="8" Description="" Part="LED-BLUE0603" References="D3" Value="BLUE" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="9" Description="" Part="LED-RED0603" References="D12" Value="RED" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="10" Description="" Part="WS2812_2020" References="D5" Value="WS2812_2020" Footprint="WS2812-2020" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="11" Description="" Part="LED-YELLOW0603" References="D1" Value="Yellow" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="12" Description="" Part="FRAME-LEDGER" References="FRAME1" Value="FRAME-LEDGER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="13" Description="" Part="STAND-OFFTIGHT" References="H1 H2" Value="STAND-OFFTIGHT" Footprint="STAND-OFF-TIGHT" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="14" Description="" Part="JST_2MM_MALE" References="J4" Value="JST_2MM_MALE" Footprint="JST-2-SMD" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="15" Description="" Part="MICRO-SD-SDIOPUSH-PUSH" References="J6" Value="MICRO-SD-SDIOPUSH-PUSH" Footprint="MICRO-SD-SOCKET" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="16" Description="" Part="QWIIC_CONNECTORJS-1MM" References="J3" Value="QWIIC_RIGHT_ANGLE" Footprint="JST04_1MM_RA" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="17" Description="" Part="USB_C_2-LAYER_PADS" References="J1" Value="USB_C_2-LAYER_PADS" Footprint="USB-C-16P-2LAYER-PADS" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="18" Description="" Part="JUMPER-SMT_2_NC_TRACE_SILK" References="JP1" Value="JUMPER-SMT_2_NC_TRACE_SILK" Footprint="SMT-JUMPER_2_NC_TRACE_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="19" Description="" Part="OSHW-LOGOMINI" References="LOGO2" Value="OSHW-LOGOMINI" Footprint="OSHW-LOGO-MINI" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="20" Description="" Part="QWIIC_LOGO_4MM" References="LOGO4" Value="QWIIC_LOGO_4MM" Footprint="QWIIC_4MM" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="21" Description="" Part="TRANS_NPN_DUAL-MBT3904DW1T1" References="Q2" Value="MBT3904DW1T1" Footprint="SC70-6" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="22" Description="" Part="MOSFET_PCH-DMG2305UX-7" References="Q3" Value="MOSFET_PCH-DMG2305UX-7" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="23" Description="" Part="5.1KOHM-0402T-1/16W-1%" References="R9 R10" Value="5.1k" Footprint="0402-TIGHT" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="24" Description="" Part="10KOHM-0402T-1/16W-1%" References="R2 R7 R8 R17 R18" Value="10KOHM-0402T-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="5" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="25" Description="" Part="1KOHM-0402T-1/16W-1%" References="R3 R4 R34" Value="1KOHM-0402T-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="3" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="26" Description="" Part="2.0KOHM-0603-1/10W-5%" References="R6" Value="2.0KOHM-0603-1/10W-5%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="27" Description="" Part="MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM" References="S3 S4" Value="MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM" Footprint="TACTILE_SWITCH_SMD_4.6X2.8MM" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="28" Description="" Part="CH340C" References="U7" Value="CH340C" Footprint="SO016" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="29" Description="" Part="ESP-WROOM-32NARROW" References="U2" Value="ESP-WROOM-32NARROW" Footprint="ESP-WROOM-32-NARROW" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="30" Description="" Part="MAX17048DFN8" References="U4" Value="MAX17048DFN8" Footprint="DFN-8" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="31" Description="" Part="MCP73831" References="U1" Value="MCP73831" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="32" Description="" Part="THINGPLUS_LOGICAL" References="U6" Value="THINGPLUS_LOGICAL" Footprint="THINGPLUS_FOOTPRINT" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="33" Description="" Part="V_REG_AP2112K-3.3V" References="U3 U5" Value="V_REG_AP2112K-3.3V" Footprint="SOT23-5" Quantity_Per_PCB="2" Status=" " Datasheet="" PROD_ID="VREG-12457"/>
+	<group Row="34" Description="" Part="SPARKX-LOGO4" References="U$1" Value="SPARKX-LOGO4" Footprint="SPARKX-MEDIUM" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+</KiCad_BOM>

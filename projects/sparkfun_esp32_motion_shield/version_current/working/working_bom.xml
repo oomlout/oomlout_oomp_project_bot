@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="18" Component_Count="29 (0 SMD/ 0 THT)" Fitted_Components="29 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="29" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-01" encoding="utf-8">
+	<group Row="1" Description="" Part="ESP32_THING_WO_ANT_KEEPOUT" References="B1" Value="ESP32_THING_WO_ANT_KEEPOUT" Footprint="ESP32_THING_NO_ANT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="0.1UF-0402-16V-10%" References="C4 C5 C6" Value="0.1UF-0402-16V-10%" Footprint="0402" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="10NF-0603-50V-10%" References="C7" Value="10NF-0603-50V-10%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="10UF-0603-6.3V-20%" References="C8" Value="10UF-0603-6.3V-20%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED-BLUE0603" References="D1" Value="BLUE" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="CONN_03JST-SMD" References="J6" Value="3-PIN SMD" Footprint="JST-3-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="CONN_04" References="J4" Value="CONN_04" Footprint="1X04" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="CONN_20NOSILK" References="J1 J3" Value="CONN_20NOSILK" Footprint="1X20_NOSILK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="MICRO-SD_CARD_SOCKET" References="J2" Value="MICRO-SD_CARD_SOCKET" Footprint="MICRO-SD-SOCKET" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="OSHW-LOGOS" References="LOGO1" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="SFE_LOGO_FLAME.1_INCH" References="LOGO3" Value="SFE_LOGO_FLAME.1_INCH" Footprint="SFE_LOGO_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="SFE_LOGO_NAME_FLAME.2_INCH" References="LOGO2" Value="SFE_LOGO_NAME_FLAME.2_INCH" Footprint="SFE_LOGO_NAME_FLAME_.2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="100KOHM-0402-1/16W-1%" References="R3 R7" Value="100KOHM-0402-1/16W-1%" Footprint="0402" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="10KOHM-0603-1/10W-1%" References="R2 R4 R5 R9 R10 R11 R12" Value="10KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="7" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="4.7KOHM-0603-1/10W-1%" References="R13 R14" Value="4.7KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="470OHM-0603-1/10W-1%" References="R1" Value="470OHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="LSM9DS1" References="U1" Value="LSM9DS1" Footprint="LGA-24-3.5X3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

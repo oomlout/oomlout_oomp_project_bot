@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="42" Component_Count="97 (0 SMD/ 0 THT)" Fitted_Components="97 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="97" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-01" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP0603" References="C1 C2 C3 C4 C5 C6 C7 C8 C11 C12 C15 C18 C19 C21" Value=".1uf" Footprint="0603" Quantity_Per_PCB="14" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP0603" References="C9 C10" Value=".22uF" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP0603" References="C16 C20" Value="1uF" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP_POL1206" References="C13 C17" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="SparkFun_CAP_POLG" References="C14" Value="100uF" Footprint="PANASONIC_G" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="CGRM400-G" References="D4" Value="CGRM400-G" Footprint="SOD-123_MINI-SMA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="DIODE-DO214AC" References="D1" Value="DIODE-DO214AC" Footprint="DO214AC" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="DIODESMA" References="D2 D3" Value="DIODESMA" Footprint="SMA-DIODE" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="PTCSMD" References="F1" Value="PTCSMD" Footprint="PTC-1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="A4983ALT1" References="IC1 IC2" Value="A4983ALT1" Footprint="QFN-28-5MM_ALT1" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="LM317?MABDT" References="IC4 IC5" Value="LM317?MABDT" Footprint="DPACK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="PIC18F4J50" References="IC3" Value="PIC18F4J50" Footprint="TQFP44" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="M05_WIDENOSILK" References="J8" Value="ICSP" Footprint="1X05_NOSILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="M12PTH" References="J4 J5" Value="M12PTH" Footprint="1X12" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="POWER_JACKSMD" References="J6 J7" Value="POWER_JACKSMD" Footprint="POWER_JACK_SMD" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="USBSMD" References="J3" Value="USBSMD" Footprint="USB-MINIB" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="JUMPER-2SMD-NO" References="JP12 JP13" Value="JUMPER-2SMD-NO" Footprint="SJ_2S-NO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="LOGO-SFENEW" References="JP11" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="M031X03_NO_SILK" References="JP2 JP3 JP4 JP5 JP6 JP7 JP8" Value="M031X03_NO_SILK" Footprint="1X03_NO_SILK" Quantity_Per_PCB="7" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="M03LOCK_NO_SILK" References="JP1" Value="M03LOCK_NO_SILK" Footprint="1X03_LOCK_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="M04POLAR" References="JP9 JP10" Value="M04POLAR" Footprint="MOLEX-1X4" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="LED0603" References="LED1" Value="DIR1_RED" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="LED0603" References="LED2" Value="DIR2_RED" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="LED0603" References="PWR0 USB0" Value="GREEN" Footprint="LED-0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="R-US_R0805" References="R1 R2 R3 R4" Value=".22" Footprint="R0805" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="R-US_R0603" References="R23 R24" Value="240" Footprint="R0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="R-US_R0603" References="R15 R16 R20 R25 R26" Value="330" Footprint="R0603" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="R-US_R0603" References="R27" Value="390" Footprint="R0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="R-US_R0603" References="R19" Value="715" Footprint="R0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="R-US_R0603" References="R18" Value="4.7K" Footprint="R0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="31" Description="" Part="R-US_R0603" References="R5 R6 R9 R10 R21 R22" Value="10K" Footprint="R0603" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="32" Description="" Part="R-US_R0603" References="R7 R8" Value="20K" Footprint="R0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="33" Description="" Part="R-US_R0603" References="R12 R13 R14" Value="47K" Footprint="R0603" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="34" Description="" Part="R-US_R0603" References="R17" Value="68.1K" Footprint="R0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="35" Description="" Part="TRIMPOTSMD" References="R11" Value="TRIMPOTSMD" Footprint="TRIMPOT-3MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="36" Description="" Part="TAC_SWITCHSND" References="SW1" Value="PRG" Footprint="TACTILE_SWITCH_SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="37" Description="" Part="TAC_SWITCHSND" References="SW2" Value="RST" Footprint="TACTILE_SWITCH_SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="38" Description="" Part="PAD" References="U$6 U$7 U$8 U$9 U$10 U$11" Value="PAD" Footprint="PAD-0.008" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="39" Description="" Part="SCHMALZHAUSSCHMALZHAUS_SMALL" References="U$1" Value="SCHMALZHAUSSCHMALZHAUS_SMALL" Footprint="SCHMALZHAUS_SMALL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="40" Description="" Part="STAND-OFF" References="U$2 U$3 U$4 U$5" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="41" Description="" Part="SCHMALZHAUS_M04" References="UNK2MM1 UNK2MM2" Value="SCHMALZHAUS_M04" Footprint="SCHMALZHAUS_SCREWTERMINAL-3.5MM-4_LOCK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="42" Description="" Part="LED0603" References="USR0" Value="RED" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

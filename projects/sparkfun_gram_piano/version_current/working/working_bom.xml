@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="18" Component_Count="41 (0 SMD/ 0 THT)" Fitted_Components="41 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="41" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-03" encoding="utf-8">
+	<group Row="1" Description="" Part="BATTERYAA-KIT" References="BAT1 BAT2" Value="BATTERYAA-KIT" Footprint="BATTERY-AA-KIT" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAPKIT" References="C1 C2 C3 C10" Value="0.1uF" Footprint="CAP-PTH-SMALL-KIT" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="FRAME-LETTER" References="FRAME2" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="AVR_SPI_PRG_6PTH" References="J1" Value="AVR_SPI_PRG_6PTH" Footprint="2X3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="JUMPER-2SMD-NO" References="JP1" Value="JUMPER-2SMD-NO" Footprint="SJ_2S-NO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="ARDUINO_SERIAL_PROGRAMPTH-KIT" References="JP9" Value="Program" Footprint="1X06-KIT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="LED5MM-KIT" References="LED1 LED2" Value="Red" Footprint="LED5MM-KIT" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LOGO-SFENEW" References="LOGO1 LOGO2" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="OSHW-LOGOM" References="LOGO3" Value="OSHW-LOGOM" Footprint="OSHW-LOGO-M" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="RESISTORPTH-1/4W" References="R10 R12" Value="330" Footprint="AXIAL-0.4" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RESISTORPTH-1/4W" References="R2 R14" Value="10K" Footprint="AXIAL-0.4" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTORPTH-1/4W" References="R1 R3 R4 R5 R6 R7 R8 R9 R17 R18 R19 R20 R21" Value="2M" Footprint="AXIAL-0.4" Quantity_Per_PCB="13" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="TRIMPOT-PTH-KNOB" References="R11" Value="TRIMPOT-PTH-KNOB" Footprint="3386U" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="SWITCH-SPDTKIT" References="S1" Value="SWITCH-SPDTKIT" Footprint="SWITCH-SPDT_KIT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="TAC_SWITCHPTH" References="S2" Value="TAC_SWITCHPTH" Footprint="TACTILE-PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="SPEAKER" References="SP1" Value="SPEAKER" Footprint="PCB_MOUNT_SPEAKER" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="STAND-OFF" References="STANDOFF1 STANDOFF2 STANDOFF3 STANDOFF4" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="ATMEGA328P_PDIP_EZ" References="U3" Value="ATMEGA328P_PDIP_EZ" Footprint="DIL28-EZ" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
