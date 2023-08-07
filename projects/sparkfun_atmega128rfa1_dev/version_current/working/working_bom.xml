@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="33" Component_Count="48 (0 SMD/ 0 THT)" Fitted_Components="48 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="48" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-55-58" encoding="utf-8">
+	<group Row="1" Description="" Part="ANTENNA2SMD5" References="A1" Value="ANTENNA2SMD5" Footprint="ANTENNA-CHIP5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="BALUN0805" References="B1" Value="BALUN0805" Footprint="BALUN" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP0402-CAP" References="C9" Value="0.75pF" Footprint="0402-CAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="CAP0402-CAP" References="C5 C6 C7 C8" Value="12pF" Footprint="0402-CAP" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="CAP0402-CAP" References="C11" Value="22pF" Footprint="0402-CAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="CAP0402-CAP" References="C13 C15" Value="0.1uF" Footprint="0402-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="CAP0402-CAP" References="C1 C2 C3 C4 C12" Value="1uF" Footprint="0402-CAP" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="CAP_POL1206" References="C10 C14" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="SparkFun_CAP0402-CAP" References="C16 C17" Value="JUMP" Footprint="0402-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="ARDUINO_UNO_R3" References="J2" Value="ARDUINO_UNO_R3" Footprint="ARDUINO_UNO_R3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="AVR_SPI_PRG_6NS" References="J1" Value="AVR_SPI_PRG_6NS" Footprint="2X3-NS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="POWER_JACKPTH_LOCK" References="J3" Value="POWER_JACKPTH_LOCK" Footprint="POWER_JACK_PTH_LOCK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="FTDI_BASICPTH" References="JP9" Value="FTDI_BASICPTH" Footprint="FTDI_BASIC" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="LOGO-SFENEW" References="JP4 JP10" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="M021X02_NO_SILK" References="JP1 JP5 JP7" Value="M021X02_NO_SILK" Footprint="1X02_NO_SILK" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="M023.5MM-NO_SILK" References="JP8" Value="M023.5MM-NO_SILK" Footprint="SCREWTERMINAL-3.5MM-2-NS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="M02JST-PTH-2" References="JP6" Value="M02JST-PTH-2" Footprint="JST-2-PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="M041X04_NO_SILK" References="JP2" Value="M041X04_NO_SILK" Footprint="1X04_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="M06SIP-NS" References="JP3" Value="M06SIP-NS" Footprint="1X06_NS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="LED0603" References="LED2 LED3" Value="GREEN" Footprint="LED-0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="LED0603" References="LED1" Value="RED" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="SparkFun_RESISTOR0402-RES" References="R3" Value="240" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="SparkFun_RESISTOR0402-RES" References="R5 R6" Value="330" Footprint="0402-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="SparkFun_RESISTOR0402-RES" References="R4" Value="390" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="RESISTOR0402-RES" References="R2" Value="1k" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="RESISTOR0402-RES" References="R1" Value="10k" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="SWITCH-MOMENTARY-2SMD" References="S1" Value="SWITCH-MOMENTARY-2SMD" Footprint="TACTILE_SWITCH_SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="SWITCH-SPST-SMD-A" References="S2" Value="SWITCH-SPST-SMD-A" Footprint="SWITCH-SPST-SMD-A" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="ATMEGA128RFA1" References="U1" Value="ATMEGA128RFA1" Footprint="QFN-64" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="V_REG_317SMD" References="U2" Value="V_REG_317SMD" Footprint="SOT223" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="31" Description="" Part="OSHW-LOGOS" References="U$1" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="32" Description="" Part="CRYSTAL5X3" References="Y1" Value="16MHz" Footprint="CRYSTAL-SMD-5X3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="33" Description="" Part="CRYSTAL32-SMD" References="Y2" Value="32.768kHz" Footprint="CRYSTAL-32KHZ-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

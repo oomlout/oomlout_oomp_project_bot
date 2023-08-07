@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="41" Component_Count="63 (0 SMD/ 0 THT)" Fitted_Components="63 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="63" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-07" encoding="utf-8">
+	<group Row="1" Description="" Part="ML414H_IV01E_BATTERY" References="BT1" Value="ML414H_IV01E_BATTERY" Footprint="ML414H_IV01E" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="JUMPER-SMT_2_NO_SILK" References="BYP0 EN0" Value="JUMPER-SMT_2_NO_SILK" Footprint="SMT-JUMPER_2_NO_SILK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="0.1UF-0603-25V-(+80/-20%)" References="C1 C6" Value="0.1UF-0603-25V-(+80/-20%)" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="0.22UF-0603-25V-10%" References="C7 C13" Value="0.22UF-0603-25V-10%" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="1.0UF-0603-16V-10%" References="C5" Value="1.0UF-0603-16V-10%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="10UF-POLAR-EIA3216-16V-10%(TANT)" References="C2" Value="10UF-POLAR-EIA3216-16V-10%(TANT)" Footprint="EIA3216" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="DIODE-SCHOTTKY-LSM115JE3" References="D4" Value="1A/15V/220mV" Footprint="DO-214BA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="DIODE-SCHOTTKY-BAT20J" References="D7" Value="1A/23V/620mV" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="DIODE-SCHOTTKY-BAT60A" References="D6" Value="3A/10V/280mV" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="DIODE-ZENER-MM3Z3V3T1G" References="D1" Value="DIODE-ZENER-MM3Z3V3T1G" Footprint="SOD-323" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="LED-RED0603" References="D2 D3" Value="RED" Footprint="LED-0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="PPTC_6V2A" References="F2" Value="PPTC_6V2A" Footprint="1210" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="FRAME-LEDGER" References="FRAME1" Value="FRAME-LEDGER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="STAND-OFF" References="H1 H2 H3 H4" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="STAND-OFF-REFLOW2.5MM_TALL" References="H5" Value="STAND-OFF-REFLOW2.5MM_TALL" Footprint="STAND-OFF-REFLOW-M2.5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="CONN_04SMD_STRAIGHT_COMBO" References="J8 J21" Value="1X04_SMD_STRAIGHT_COMBO" Footprint="1X04_SMD_VERTICAL_COMBO" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="CONN_041X04_NO_SILK" References="J9" Value="CONN_041X04_NO_SILK" Footprint="1X04_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="CONN_041X04_NO_SILK_NO_POP" References="J11 J16 J22" Value="CONN_041X04_NO_SILK_NO_POP" Footprint="1X04_NO_SILK" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="CONN_05NO_SILK" References="J3" Value="CONN_05NO_SILK" Footprint="1X05_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="CONN_05VERT_FEMALE_HEADER" References="J10" Value="CONN_05VERT_FEMALE_HEADER" Footprint="1X05_SMD_VERTICAL_COMBO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="CONN_08NO_SILK_DNP" References="J13" Value="CONN_08NO_SILK_DNP" Footprint="1X08_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="CONN_08NO_SILK_FEMALE_PTH" References="J15 J18 J23 J26" Value="CONN_08NO_SILK_FEMALE_PTH" Footprint="1X08_NO_SILK" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="CONN_08SMD-COMBO-FEMALE" References="J14 J17 J24 J25" Value="CONN_08SMD-COMBO-FEMALE" Footprint="1X08_SMD_COMBINED" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="CONN_12SMD_COMBINED" References="J12" Value="CONN_12SMD_COMBINED" Footprint="1X12_SMD_COMBINED" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="CORTEX_JTAG_DEBUG_MINIMUM_PTH" References="J2" Value="CORTEX_JTAG_DEBUG_MINIMUM_PTH" Footprint="2X5-PTH-1.27MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="MICROMOD-2222-C" References="J6" Value="MICROMOD-2222-C" Footprint="M.2-CONNECTOR-E" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="QWIIC_CONNECTORJS-1MM" References="J19 J20" Value="QWIIC_RIGHT_ANGLE" Footprint="JST04_1MM_RA" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="USB_A_SMT_FEMALE" References="J4" Value="USB_A_SMT_FEMALE" Footprint="USB-A-S-SILK-FEMALE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="USB_C_2-LAYER_PADS" References="J1" Value="USB_C_2-LAYER_PADS" Footprint="USB-C-16P-2LAYER-PADS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="OSHW-LOGOMINI" References="LOGO3" Value="OSHW-LOGOMINI" Footprint="OSHW-LOGO-MINI" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="31" Description="" Part="QWIIC_LOGO_5MM" References="LOGO2" Value="QWIIC_LOGO_5MM" Footprint="QWIIC_5MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="32" Description="" Part="SFE_LOGO_NAME_FLAME.1_INCH" References="LOGO1" Value="SFE_LOGO_NAME_FLAME.1_INCH" Footprint="SFE_LOGO_NAME_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="33" Description="" Part="JUMPER-COMBO_2_NC_TRACE" References="MEAS0" Value="JUMPER-COMBO_2_NC_TRACE" Footprint="COMBO-JUMPER_2_NC_TRACE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="34" Description="" Part="5.1KOHM5.1KOHM-0603-1/10W-1%" References="R2 R3" Value="5.1k" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="35" Description="" Part="100KOHM-0603-1/10W-1%" References="R5" Value="100KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="36" Description="" Part="10KOHM-0603-1/10W-1%" References="R9" Value="10KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="37" Description="" Part="1KOHM-0603-1/10W-1%" References="R1 R4 R8" Value="1KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="38" Description="" Part="20KOHM-0603-1/10W-1%" References="R10" Value="20KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="39" Description="" Part="MOMENTARY-SWITCH-SPST-SMD-5.2-TALL-REDUNDANT" References="S1 S2" Value="MOMENTARY-SWITCH-SPST-SMD-5.2-TALL-REDUNDANT" Footprint="TACTILE_SWITCH_SMD_5.2MM" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="40" Description="" Part="AP7361C-33FGEUDFN-8" References="U5" Value="AP7361C-33FGEUDFN-8" Footprint="UDFN-8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="41" Description="" Part="JUMPER-SMT_2_NC_TRACE_SILK" References="UNK3V3_LED0 VIN_LED0" Value="JUMPER-SMT_2_NC_TRACE_SILK" Footprint="SMT-JUMPER_2_NC_TRACE_SILK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+</KiCad_BOM>
