@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="31" Component_Count="50 (0 SMD/ 0 THT)" Fitted_Components="50 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="50" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-03" encoding="utf-8">
+	<group Row="1" Description="" Part="BATTERY12MM" References="BAT1" Value="12mm" Footprint="BATTCON_12MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="0.1UF-25V(+80/-20%)(0603)" References="C3 C4" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="1.0UF-16V-10%(0603)" References="C1 C2" Value="1.0uF" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="LED-BLUE0603" References="D2" Value="BLUE" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED-RED0603" References="D1" Value="RED" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="ARDUINO_R3_SHIELD_ICSP-NO_LABELS" References="J1" Value="ARDUINO_R3_SHIELD_ICSP-NO_LABELS" Footprint="UNO_R3_SHIELD_ICSP_NOLABELS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="USD_CONNECTOR" References="J2" Value="USD_CONNECTOR" Footprint="MICRO-SD-SOCKET-PP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="M01PTH_NO_SILK_YES_STOP" References="JP16 JP17" Value="M01PTH_NO_SILK_YES_STOP" Footprint="1X01_NO_SILK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="M021X02_NO_SILK" References="JP15" Value="M021X02_NO_SILK" Footprint="1X02_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="M06NO_SILK_FEMALE_PTH" References="JP5" Value="M06NO_SILK_FEMALE_PTH" Footprint="1X06_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="M07NO_SILK" References="JP3" Value="M07NO_SILK" Footprint="1X07_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="M08NO_SILK_FEMALE_PTH" References="JP13 JP21" Value="M08NO_SILK_FEMALE_PTH" Footprint="1X08_NO_SILK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="M10NO_SILK_PTH_FEMALE" References="JP1 JP2 JP4 JP6 JP7 JP8 JP9 JP10 JP11 JP12 JP14" Value="M10NO_SILK_PTH_FEMALE" Footprint="1X10_NO_SILK" Quantity_Per_PCB="11" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="OSHW-LOGOM" References="LOGO1" Value="OSHW-LOGOM" Footprint="OSHW-LOGO-M" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="SFE_LOGO_NAME_FLAME.1_INCH" References="LOGO2" Value="SFE_LOGO_NAME_FLAME.1_INCH" Footprint="SFE_LOGO_NAME_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="330OHM1/10W1%(0603)" References="R4" Value="330" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="1KOHM-1/10W-1%(0603)" References="R1" Value="1K" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="100KOHM-1/10W-1%(0603)" References="R2 R3" Value="100k" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="SWITCH-DPDTAYZ0202" References="S2" Value="DPDT" Footprint="AYZ0202" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="SWITCH-MOMENTARY-2SMD" References="S1" Value="SWITCH-MOMENTARY-2SMD" Footprint="TACTILE-SWITCH-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="JUMPER-PAD-2-NC_BY_TRACE" References="SJ2 SJ4 SJ5 SJ6 SJ9" Value="JUMPER-PAD-2-NC_BY_TRACE" Footprint="PAD-JUMPER-2-NC_BY_TRACE_YES_SILK" Quantity_Per_PCB="5" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="JUMPER-PAD-2-NOYES_SILK" References="SJ11" Value="JUMPER-PAD-2-NOYES_SILK" Footprint="PAD-JUMPER-2-NO_YES_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="JUMPER-PAD-3-2OF3_NC_BY_PASTE" References="SJ1" Value="JUMPER-PAD-3-2OF3_NC_BY_PASTE" Footprint="PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="JUMPER-PAD-3-NOYES_SILK" References="SJ3" Value="JUMPER-PAD-3-NOYES_SILK" Footprint="PAD-JUMPER-3-NO_YES_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="JUMPER-PAD-3-NC_BY_TRACE" References="SJ8" Value="uSD-MISO" Footprint="PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="JUMPER-PAD-3-NC_BY_TRACE" References="SJ10" Value="uSD-MOSI" Footprint="PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="JUMPER-PAD-3-NC_BY_TRACE" References="SJ7" Value="uSD-SCK" Footprint="PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="GP3906-TLP" References="U2" Value="GP3906-TLP" Footprint="GP3906-TLP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="TXB0108" References="U3" Value="TXB0108" Footprint="UFDFN-20" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="31" Description="" Part="V_REG_AP2112K-3.3V" References="U1" Value="V_REG_AP2112K-3.3V" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

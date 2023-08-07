@@ -1,0 +1,30 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,CAP0402,C3 C4 C5 C6,.1uf,C0402,4, ,
+2,,CAP_POL1206,C8 C9,10uF,EIA3216,2, ,
+3,,CAP_POL3528,C7,47uF,EIA3528,1, ,
+4,,74595D,IC1 IC2,74595D,SO16,2, ,
+5,,AVR-MEGA8-AI,IC3,AVR-MEGA8-AI,TQFP32-08,1, ,
+6,,M06SIP,JP4,M06SIP,1X06,1, ,
+7,,M06SMD,JP3,M06SMD,1X06-SMD,1, ,
+8,,M12PTH,JP1 JP2,M12PTH,1X12,2, ,
+9,,RESISTOR0402,R1,10K,C0402,1, ,
+10,,AVR_SPI_PRG_6PTH,U2,AVR_SPI_PRG_6PTH,2X3,1, ,
+11,,RESONATORSMD,U3,RESONATORSMD,RESONATOR-SMD,1, ,
+12,,ULN2803SOICW,ULN1,uln2803,SO18L,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-06_12-56-04
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,12
+Component Count:,18 (0 SMD/ 0 THT)
+Fitted Components:,18 (0 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,18

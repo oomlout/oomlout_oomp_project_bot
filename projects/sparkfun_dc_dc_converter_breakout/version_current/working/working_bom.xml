@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="11" Component_Count="14 (0 SMD/ 0 THT)" Fitted_Components="14 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="14" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-00" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP0603-CAP" References="C3" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP_POL" References="C1" Value="100uF-25V" Footprint="NIPPON_F80" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_POLC" References="C2" Value="22uF-35v" Footprint="PANASONIC_C" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="M05PTH" References="IN0" Value="M05PTH" Footprint="1X05" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="M03PTH" References="OUT0" Value="M03PTH" Footprint="1X03" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="MOSFET-NCHANNELSMD" References="Q1" Value="MOSFET-NCHANNELSMD" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="RESISTOR0603-RES" References="R1" Value="22K" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="RESISTOR0603-RES" References="R2" Value="100K" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="DC-DC_CONVERTER" References="U1" Value="DC-DC_CONVERTER" Footprint="DC-DC_CONVERTER" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="LOGO-SFENEW" References="U$2" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="STAND-OFF" References="U$1 U$3 U$4 U$5" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+</KiCad_BOM>
