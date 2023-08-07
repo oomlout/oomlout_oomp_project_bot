@@ -1,0 +1,30 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,,CAP_POLPTH2,C5,1uf,CPOL-RADIAL-10UF-25V,1, ,
+2,,10UF-25V-20%(PTH),C1 C2 C3 C4,10uf,CPOL-RADIAL-10UF-25V,4, ,
+3,,FRAME-LETTER,FRAME1,FRAME-LETTER,CREATIVE_COMMONS,1, ,
+4,,LM358,IC1,LM358,DIP08,1, ,
+5,,M01NOSILK-KIT,J1,input,1X01NS-KIT,1, ,
+6,,M01NOSILK-KIT,J2,output,1X01NS-KIT,1, ,
+7,,10KOHM-1/4W-1%(PTH)HORIZ,R4 R7,10k,AXIAL-0.3,2, ,
+8,,10KOHM-1/4W-1%(PTH)HORIZ,R3 R8,22k,AXIAL-0.3,2, ,
+9,,100KOHM-1/4W-1%(PTH)HORIZ,R5 R6,100K,AXIAL-0.3,2, ,
+10,,100KOHM-1/4W-1%(PTH)HORIZ,R1 R2,1Meg,AXIAL-0.3,2, ,
+11,,POT-RV16AF-20,RV1 RV2 RV3 RV4 RV5,10k,POT_ALPHA_RV16AF-20,5, ,
+12,,V_REG_78XX-TO-220,U1,lm7805,TO-220-ALT,1, ,
+
+
+
+
+
+Project info:
+Schematic:,working
+Variant:,default
+Revision:,
+Date:,2023-08-06_12-56-13
+KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
+Statistics:
+Component Groups:,12
+Component Count:,23 (0 SMD/ 0 THT)
+Fitted Components:,23 (0 SMD/ 0 THT)
+Number of PCBs:,1
+Total Components:,23

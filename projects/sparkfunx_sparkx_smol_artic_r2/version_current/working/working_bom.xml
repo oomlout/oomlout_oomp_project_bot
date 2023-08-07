@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="48" Component_Count="104 (0 SMD/ 0 THT)" Fitted_Components="104 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="104" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-16" encoding="utf-8">
+	<group Row="1" Description="" Part="1.0NF/1000PF-0402_TIGHT-50V-10%" References="C17" Value="1.0nF" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="47NF-0402_TIGHT-25V-10%-X7R" References="C10" Value="47nF" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="0.1UF-0402T-10V-10%-X7R" References="C49 C51" Value="0.1UF-0402T-10V-10%-X7R" Footprint="0402-TIGHT" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="0.1UF-0402T-6.3V-10%-X7R" References="C6 C8 C26 C32 C35 C38 C41 C50" Value="0.1UF-0402T-6.3V-10%-X7R" Footprint="0402-TIGHT" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="1.0UF-0402T-16V-10%" References="C3 C4 C9 C12 C23 C46" Value="1.0UF-0402T-16V-10%" Footprint="0402-TIGHT" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="100PF-0402T-50V-5%" References="C11 C19 C21 C22 C24 C25 C30 C31 C36 C37 C42 C43 C47" Value="100PF-0402T-50V-5%" Footprint="0402-TIGHT" Quantity_Per_PCB="13" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="10NF-0402T-25V-10%" References="C2" Value="10NF-0402T-25V-10%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="10UF-0402T-6.3V-20%" References="C13 C14" Value="10UF-0402T-6.3V-20%" Footprint="0402-TIGHT" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="2.2UF-0402_TIGHT-10V-10%-X5R" References="C1 C15 C16 C20 C44 C45 C48 C52 C53" Value="2.2UF-0402_TIGHT-10V-10%-X5R" Footprint="0402-TIGHT" Quantity_Per_PCB="9" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="2.4PF-0402" References="C29" Value="2.4PF-0402" Footprint="0402_MURATA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="22PF-0402T-16V-10%" References="C5 C7 C18 C27 C33 C34 C39 C40" Value="22PF-0402T-16V-10%" Footprint="0402-TIGHT" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="9.1PF-0402-TIGHT" References="C28" Value="9.1PF-0402-TIGHT" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="FRAME-LEDGER" References="FRAME1" Value="FRAME-LEDGER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="JUMPER-SMT_2_NC_TRACE_NO-SILK" References="G16" Value="JUMPER-SMT_2_NC_TRACE_NO-SILK" Footprint="SMT-JUMPER_2_NC_TRACE_NO-SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="CONN_16FPC_16_0.5MM" References="IN0 OUT0" Value="CONN_16FPC_16_0.5MM" Footprint="FPC_16_0.5MM" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="U.FL2PIN-REDUCED-FOOTPRINT" References="J25" Value="U.FL" Footprint="U.FL_REDUCED_FOOTPRINT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="TLP3475SRHA" References="K1" Value="TLP3475SRHA" Footprint="TLP3475SRHA" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="12NH-0402" References="L8" Value="12NH-0402" Footprint="0402_COILCRAFT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="15NH-0402" References="L5" Value="15NH-0402" Footprint="0402_COILCRAFT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="18NH-0402" References="L7" Value="18NH-0402" Footprint="0402_COILCRAFT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="27NH-0402" References="L6" Value="27NH-0402" Footprint="0402_COILCRAFT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="30NH-0402" References="L11" Value="30NH-0402" Footprint="0402_COILCRAFT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="51NH-0402" References="L12" Value="51NH-0402" Footprint="0402_COILCRAFT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="FERRITE_BEAD-0402-30Ω-100MHZ" References="L1 L2 L3 L4 L9 L10 L13 L14 L15" Value="FERRITE_BEAD-0402-30Ω-100MHZ" Footprint="0402-TIGHT" Quantity_Per_PCB="9" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="OSHW-LOGOMINI" References="LOGO2 LOGO3" Value="OSHW-LOGOMINI" Footprint="OSHW-LOGO-MINI" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="SPECIAL_INSTRUCTIONS-ORDERING" References="LOGO1" Value="SPECIAL_INSTRUCTIONS-ORDERING" Footprint="ORDERING_INSTRUCTIONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="MOSFET-NCH-AO3404A" References="Q2" Value="MOSFET-NCH-AO3404A" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="470OHM-0402-TIGHT-1/16W-1%" References="R14" Value="470" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="0.1OHM-0603-1/3W-1%" References="R9" Value="0.1OHM-0603-1/3W-1%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="30" Description="" Part="100KOHM-0402T-1/16W-1%" References="R5 R8" Value="100KOHM-0402T-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="31" Description="" Part="100OHM-0402-TIGHT-1/16W-1%" References="R2 R11" Value="100OHM-0402-TIGHT-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="32" Description="" Part="10KOHM-0402T-1/16W-1%" References="R1 R7 R12" Value="10KOHM-0402T-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="33" Description="" Part="220OHM-0402-TIGHT-1/16W-1%" References="R6" Value="220OHM-0402-TIGHT-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="34" Description="" Part="3.9OHM-0402-TIGHT-1/16W-1%" References="R3" Value="3.9OHM-0402-TIGHT-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="35" Description="" Part="33KOHM-0402T-1/16W-1%" References="R4" Value="33KOHM-0402T-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="36" Description="" Part="47OHM-0402-TIGHT-1/16W-1%" References="R17" Value="47OHM-0402-TIGHT-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="37" Description="" Part="ADM4210_1TSOT6" References="U1" Value="ADM4210_1TSOT6" Footprint="TSOT6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="38" Description="" Part="ARTIC_R2" References="U3" Value="ARTIC_R2" Footprint="QFN-48" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="39" Description="" Part="AS179-92LF" References="U5" Value="AS179-92LF" Footprint="SOT65P220X100-6N" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="40" Description="" Part="PCA9536" References="U8" Value="PCA9536" Footprint="MSOP8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="41" Description="" Part="RFPA0133" References="U4" Value="RFPA0133" Footprint="QFN50P300X300X86-17N" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="42" Description="" Part="SST25VF020BUSON" References="U7" Value="SST25VF020BUSON" Footprint="USON_3X2MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="43" Description="" Part="V_REG_LP5907SOT23-3.0V" References="U6" Value="V_REG_LP5907SOT23-3.0V" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="44" Description="" Part="V_REG_SP6214-1.8V" References="U2" Value="V_REG_SP6214-1.8V" Footprint="SC70" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="45" Description="" Part="SMOL_LOGOSMALL" References="U$2 U$3" Value="SMOL_LOGOSMALL" Footprint="SMOL_SMALL" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="46" Description="" Part="SPARKX-LOGO2" References="U$8" Value="SPARKX-LOGO2" Footprint="SPARKX-TINY" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="47" Description="" Part="SPARKX-LOGO3" References="U$4" Value="SPARKX-LOGO3" Footprint="SPARKX-SMALL" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="48" Description="" Part="CRYSTAL-TCXO-26MHZ" References="X1" Value="CRYSTAL-TCXO-26MHZ" Footprint="CRYSTAL-TCXO-SMD-1.65X1.25" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="15" Component_Count="17 (0 SMD/ 0 THT)" Fitted_Components="17 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="17" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-08" encoding="utf-8">
+	<group Row="1" Description="" Part="0.1UF-0402T-10V-10%-X7R" References="C1 C2" Value="0.1UF-0402T-10V-10%-X7R" Footprint="0402-TIGHT" Quantity_Per_PCB="2" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="2" Description="" Part="DIODE-SCHOTTKY-RB751S40" References="D1" Value="120mA/40V/370mV" Footprint="SOD-523" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="3" Description="" Part="LED-BLUE0603" References="D2" Value="BLUE" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="4" Description="" Part="PRTR5V0U2F" References="D3" Value="PRTR5V0U2F" Footprint="SOT886" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="5" Description="" Part="FRAME-LETTER" References="FRAME2" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="Alex Brudner" REV="v10"/>
+	<group Row="6" Description="" Part="MICROMOD-2222" References="J1" Value="MICROMOD-2222" Footprint="M.2-CARD-E-22" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="7" Description="" Part="FOUR_LAYER_WARNING" References="LOGO1" Value="FOUR_LAYER_WARNING" Footprint="FOUR_LAYER_WARNING" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="8" Description="" Part="OSHW-LOGOMINI" References="LOGO2" Value="OSHW-LOGOMINI" Footprint="OSHW-LOGO-MINI" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="9" Description="" Part="SFE_LOGO_NAME_FLAME.1_INCH" References="LOGO3" Value="SFE_LOGO_NAME_FLAME.1_INCH" Footprint="SFE_LOGO_NAME_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="10" Description="" Part="SPECIAL_INSTRUCTIONS-ORDERING" References="LOGO4" Value="SPECIAL_INSTRUCTIONS-ORDERING" Footprint="ORDERING_INSTRUCTIONS" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="11" Description="" Part="MOSFET_PCH-DMG2305UX-7" References="Q1" Value="MOSFET_PCH-DMG2305UX-7" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="12" Description="" Part="100KOHM-0402T-1/16W-1%" References="R1 R2" Value="100KOHM-0402T-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="2" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="13" Description="" Part="2.2KOHM-0402T-1/16W-1%" References="R3" Value="2.2KOHM-0402T-1/16W-1%" Footprint="0402-TIGHT" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="14" Description="" Part="STM32WB5MMG_LOGICAL" References="U1" Value="STM32WB5MMG" Footprint="SIP-LGA86" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+	<group Row="15" Description="" Part="W25QXX128MBIT-6X5" References="U2" Value="W25QXX128MBIT-6X5" Footprint="WSON-8-6X5" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" REV=""/>
+</KiCad_BOM>

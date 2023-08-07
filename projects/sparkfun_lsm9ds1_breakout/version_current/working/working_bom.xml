@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="13" Component_Count="25 (0 SMD/ 0 THT)" Fitted_Components="25 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="25" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-05" encoding="utf-8">
+	<group Row="1" Description="" Part="10NF/10000PF-50V-10%(0603)" References="C5" Value="10nF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="2" Description="" Part="0.1UF-25V(+80/-20%)(0603)" References="C1 C2 C3" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="3" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="3" Description="" Part="10UF-6.3V-20%(0603)" References="C4" Value="10uF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="4" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="Jim Lindblom" VERSION="v10"/>
+	<group Row="5" Description="" Part="I2C_STANDARD_NO_SILK" References="JP1" Value="I2C_STANDARD_NO_SILK" Footprint="1X04_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="6" Description="" Part="M09NO_SILK" References="JP2" Value="M09NO_SILK" Footprint="1X09_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="7" Description="" Part="OSHW-LOGOS" References="LOGO3" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="8" Description="" Part="SFE_LOGO_FLAME.2_INCH" References="LOGO2" Value="SFE_LOGO_FLAME.2_INCH" Footprint="SFE_LOGO_FLAME_.2" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="9" Description="" Part="SFE_LOGO_NAME.1_INCH" References="LOGO1" Value="SFE_LOGO_NAME.1_INCH" Footprint="SFE_LOGO_NAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="10" Description="" Part="10KOHM-1/10W-1%(0603)0603" References="R1 R2 R3 R4 R5 R6" Value="10K" Footprint="0603-RES" Quantity_Per_PCB="6" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="11" Description="" Part="JUMPER-PAD-3-NC_BY_TRACE" References="SJ1 SJ2 SJ3" Value="JUMPER-PAD-3-NC_BY_TRACE" Footprint="PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX" Quantity_Per_PCB="3" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="12" Description="" Part="STAND-OFF" References="STANDOFF1 STANDOFF2 STANDOFF3 STANDOFF4" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+	<group Row="13" Description="" Part="LSM9DS1" References="U1" Value="LSM9DS1" Footprint="LGA24-8X4" Quantity_Per_PCB="1" Status=" " Datasheet="" DESIGNER="" VERSION=""/>
+</KiCad_BOM>

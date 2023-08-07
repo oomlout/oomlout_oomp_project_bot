@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="23" Component_Count="32 (0 SMD/ 0 THT)" Fitted_Components="32 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="32" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-01" encoding="utf-8">
+	<group Row="1" Description="" Part="0.1UF-25V(+80/-20%)(0603)" References="C4" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="1.0UF-16V-10%(0603)" References="C1" Value="1.0uF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="10UF-16V-10%(TANT)" References="C3 C5" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LOGO-SFENW2" References="JP10" Value="LOGO-SFENW2" Footprint="SFE-NEW-WEB" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="M021X02_NO_SILK" References="JP1 JP2" Value="M021X02_NO_SILK" Footprint="1X02_NO_SILK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="M06SIP_NS" References="JP5" Value="M06SIP_NS" Footprint="1X06_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="M08SIP_NS" References="JP3 JP4" Value="M08SIP_NS" Footprint="1X08_NO_SILK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="M09NO_SILK" References="JP7" Value="M09NO_SILK" Footprint="1X09_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="M10SIP_NS" References="JP6" Value="M10SIP_NS" Footprint="1X10_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="LED-GREEN0603" References="LED3" Value="GREEN" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="LED-RED0603" References="LED1" Value="RED" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="LED-YELLOW0603" References="LED2" Value="YELLOW" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="MOSFET-NCHANNELSMD" References="Q2 Q3" Value="MOSFET-NCHANNELSMD" Footprint="SOT23-3" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="330OHM1/10W1%(0603)" References="R7 R8 R9" Value="330" Footprint="0603-RES" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="10KOHM1/10W1%(0603)0603" References="R2 R3 R6 R10" Value="10k" Footprint="0603-RES" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="100KOHM1/10W1%(0603)" References="R1" Value="100k" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="ARDUINO_SHIELDNOHOLESORLABELS" References="U2" Value="ARDUINO_SHIELDNOHOLESORLABELS" Footprint="DUEMILANOVE_SHIELD_NOHOLES_NOLABELS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="ATSHA204-TSU" References="U4" Value="ATSHA204-TSU" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="ELECTRIC_IMP" References="U1" Value="ELECTRIC_IMP" Footprint="SD_1_1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="V_REG_LDOSMD" References="U3" Value="V_REG_LDOSMD" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="OSHW-LOGOS" References="U$7" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="REVISION" References="U$6" Value="REVISION" Footprint="REVISION" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

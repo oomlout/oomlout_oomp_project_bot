@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="29" Component_Count="49 (0 SMD/ 0 THT)" Fitted_Components="49 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="49" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-01" encoding="utf-8">
+	<group Row="1" Description="" Part="ESP32_THING_WO_ANT_KEEPOUT" References="B1" Value="ESP32_THING_WO_ANT_KEEPOUT" Footprint="ESP32_THING_NO_ANT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="0.1UF-0603-25V-(+80/-20%)" References="C1 C4 C6" Value="0.1UF-0603-25V-(+80/-20%)" Footprint="0603" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="1.0UF-0603-16V-10%" References="C2 C3 C5" Value="1.0UF-0603-16V-10%" Footprint="0603" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="STAND-OFF" References="H1 H2 H3 H4" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="CONN_03" References="J3 J5" Value="CONN_03" Footprint="1X03" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="CONN_03SCREW-NS" References="J7" Value="CONN_03SCREW-NS" Footprint="SCREWTERMINAL-3.5MM-3-NS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="CONN_20NOSILK" References="J4 J9 J10 J11 J12 J13" Value="CONN_20NOSILK" Footprint="1X20_NOSILK" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="I2C_STANDARD" References="J8" Value="I2C_STANDARD" Footprint="1X04" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="WEATHER_METER-RAIN" References="J2" Value="WEATHER_METER-RAIN" Footprint="RJ11-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="WEATHER_METER-WIND" References="J1" Value="WEATHER_METER-WIND" Footprint="RJ11-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="JUMPER-SMT_2_NC_TRACE_SILK" References="JP4" Value="JUMPER-SMT_2_NC_TRACE_SILK" Footprint="SMT-JUMPER_2_NC_TRACE_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="JUMPER-SMT_2_NO_SILK" References="JP1 JP2" Value="JUMPER-SMT_2_NO_SILK" Footprint="SMT-JUMPER_2_NO_SILK" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="JUMPER-SMT_3_2-NC_TRACE_SILK" References="JP5" Value="JUMPER-SMT_3_2-NC_TRACE_SILK" Footprint="SMT-JUMPER_3_2-NC_TRACE_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="JUMPER-SMT_3_NO_SILK" References="JP3" Value="JUMPER-SMT_3_NO_SILK" Footprint="SMT-JUMPER_3_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="OSHW-LOGOS" References="LOGO4" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="SFE_LOGO_FLAME.1_INCH" References="LOGO3" Value="SFE_LOGO_FLAME.1_INCH" Footprint="SFE_LOGO_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="SFE_LOGO_NAME.1_INCH" References="LOGO1" Value="SFE_LOGO_NAME.1_INCH" Footprint="SFE_LOGO_NAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="SFE_LOGO_NAME_FLAME.1_INCH" References="LOGO2" Value="SFE_LOGO_NAME_FLAME.1_INCH" Footprint="SFE_LOGO_NAME_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="100KOHM-0603-1/10W-1%" References="R1 R4 R6 R7" Value="100KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="10KOHM-0603-1/10W-1%" References="R2 R10" Value="10KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="1KOHM-0603-1/10W-1%" References="R3 R9" Value="1KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="4.7KOHM-0603-1/10W-1%" References="R13 R14" Value="4.7KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="NTC-THERMISTOR-0603" References="R8" Value="NTC-THERMISTOR-0603" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="NTC-THERMISTOR-AXIAL-0.1" References="R12" Value="NTC-THERMISTOR-AXIAL-0.1" Footprint="AXIAL-0.1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="APDS-9301" References="U3" Value="APDS-9301" Footprint="CHIPLED-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="27" Description="" Part="BME280" References="U1" Value="BME280" Footprint="LGA-8-2.5X2.5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="28" Description="" Part="CCS811" References="U2" Value="CCS811" Footprint="LGA10-2.7X4.0MM" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="29" Description="" Part="TVS_DIODE_ARRAYSMD" References="U4" Value="TVS_DIODE_ARRAYSMD" Footprint="SOT-23-6" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
