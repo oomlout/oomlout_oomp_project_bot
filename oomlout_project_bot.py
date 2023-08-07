@@ -2,6 +2,7 @@ import os
 import oom_kicad
 
 def load_data():
+    print("loading data")
     github_data = "https://github.com/oomlout/oomlout_project_src"
 
     #make tmp/data directory if it doesn't already exist
@@ -9,13 +10,16 @@ def load_data():
         os.makedirs("tmp\\data\\")
     #clone to tmp/
     os.system("git clone " + github_data + " tmp\\data\\")
+    print("data loaded")
 
 def copy_data():
+    print("copying data")
     directory_src = rf"tmp\data\projects_flat"
     directory_dst = rf"projects"
     #copy with directory tree with shutil
     import shutil
-    shutil.copytree(directory_src, directory_dst)
+    shutil.copytree(directory_src, directory_dst, dirs_exist_ok=True)
+    print("data copied")
 
 
 def go_through_directories():
