@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="24" Component_Count="42 (0 SMD/ 0 THT)" Fitted_Components="42 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="42" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-12" encoding="utf-8">
+	<group Row="1" Description="" Part="0.1UF-25V(+80/-20%)(0603)" References="C2 C5 C6 C7" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="1.0UF-16V-10%(0603)" References="C1 C8" Value="1.0uF" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="10UF-16V-10%(TANT)" References="C13 C14" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="DIODEBAS16" References="D5 D6 D7 D8 D9 D10" Value="250mA/100V" Footprint="SOD-323" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="M04PTH" References="JP1" Value="I2C Port" Footprint="1X04" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="M023.5MM" References="JP6-DNP0" Value="M023.5MM" Footprint="SCREWTERMINAL-3.5MM-2" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="POWER_JACKSMD" References="JP5-DNP0" Value="POWER_JACKSMD" Footprint="POWER_JACK_SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="RJ11-6PTH" References="JP7 JP8" Value="RJ11-6PTH" Footprint="RJ11-6" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="SPARK_PHOTONSPARK_PHOTON_TEMPLATE_WIDE_LOCKING" References="JP9" Value="SPARK_PHOTONSPARK_PHOTON_TEMPLATE_WIDE_LOCKING" Footprint="SPARK_PHOTON_TEMPLATE_WIDE_LOCKING" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="M04PTH" References="JP4" Value="Serial1 Port" Footprint="1X04" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="M03PTH" References="JP3" Value="Soil Moisture" Footprint="1X03" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="M03PTH" References="JP2" Value="Soil/Water Temp" Footprint="1X03" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="OSHW-LOGOM" References="LOGO1" Value="OSHW-LOGOM" Footprint="OSHW-LOGO-M" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="SFE_LOGO_NAME.1_INCH" References="LOGO2" Value="SFE_LOGO_NAME.1_INCH" Footprint="SFE_LOGO_NAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="1KOHM-1/10W-1%(0603)" References="R11 R12 R13 R14 R15 R16" Value="1K" Footprint="0603-RES" Quantity_Per_PCB="6" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="4.7KOHM-1/10W-1%(0603)" References="R1 R17" Value="4.7K" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="10KOHM-1/10W-1%(0603)0603" References="R2 R3" Value="10K" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="JUMPER-PAD-2-NC_BY_TRACE" References="SJ3" Value="JUMPER-PAD-2-NC_BY_TRACE" Footprint="PAD-JUMPER-2-NC_BY_TRACE_YES_SILK" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL" References="SJ2" Value="JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL" Footprint="PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="JUMPER-PAD-3-NC_BY_TRACE" References="SJ1" Value="JUMPER-PAD-3-NC_BY_TRACE" Footprint="PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="MIC52053.3V" References="U1" Value="3.3V MIC5205" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="HTU21DSMD" References="U2" Value="HTU21DSMD" Footprint="HTU21D" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="MPL3115A2LGA8" References="U3" Value="MPL3115A2LGA8" Footprint="LGA8" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="27" Component_Count="36 (0 SMD/ 0 THT)" Fitted_Components="36 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="36" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-55-58" encoding="utf-8">
+	<group Row="1" Description="" Part="0.1UF-25V(+80/-20%)(0603)" References="C3 C4 C5 C6 C7 C8" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="6" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="2" Description="" Part="10UF-16V-10%(TANT)" References="C1 C2" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="2" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="3" Description="" Part="DIODE-SCHOTTKY-MBRA140" References="D1" Value="DIODE-SCHOTTKY-MBRA140" Footprint="SMA-DIODE" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="4" Description="" Part="LED-GREEN0603" References="D3" Value="GREEN" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="5" Description="" Part="LED-RED0603" References="D2" Value="RED" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="6" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="Shawn Hymel" VERSION="v11"/>
+	<group Row="7" Description="" Part="JST_2MM_MALE" References="J1" Value="JST_2MM_MALE" Footprint="JST-2-SMD" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="8" Description="" Part="M021X02_NO_SILK" References="JP5" Value="M021X02_NO_SILK" Footprint="1X02_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="9" Description="" Part="M03LOCK_NO_SILK" References="JP6" Value="M03LOCK Female" Footprint="1X03_LOCK_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="10" Description="" Part="M12LOCK_NO_SILK" References="JP3" Value="M12LOCK_NO_SILK" Footprint="1X12_LOCK_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="11" Description="" Part="M15LOCK_NO_SILK" References="JP2" Value="M15LOCK_NO_SILK" Footprint="1X15_LOCK_NO_SILK" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="12" Description="" Part="USBPCB" References="JP1" Value="USBPCB" Footprint="USB-A-PCB" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="13" Description="" Part="OSHW-LOGOS" References="LOGO2" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="14" Description="" Part="SFE_LOGO_FLAME.1_INCH" References="LOGO1" Value="SFE_LOGO_FLAME.1_INCH" Footprint="SFE_LOGO_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="15" Description="" Part="MOSFET-PCHANNELDMG2307L" References="Q1" Value="MOSFET-PCHANNELDMG2307L" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="16" Description="" Part="330OHM1/10W1%(0603)" References="R4" Value="330" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="17" Description="" Part="1KOHM-1/10W-1%(0603)" References="R5 R6" Value="1K" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="18" Description="" Part="10KOHM-1/10W-1%(0603)0603" References="R2 R3" Value="10K" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="19" Description="" Part="100KOHM-1/10W-1%(0603)" References="R1" Value="100k" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="20" Description="" Part="SWITCH-MOMENTARY-2SMD-REDUNDANT" References="S1" Value="SWITCH-MOMENTARY-2SMD-REDUNDANT" Footprint="TACTILE-SWITCH-SMD" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="Reset" DESIGNER="" VERSION=""/>
+	<group Row="21" Description="" Part="STAND-OFF" References="STANDOFF1 STANDOFF2" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="2" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="22" Description="" Part="ATMEGA328P_TQFP" References="U2" Value="ATMEGA328P_TQFP" Footprint="TQFP32-08" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="23" Description="" Part="FT232RLSSOP" References="U3" Value="FT232RLSSOP" Footprint="SSOP28DB" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="24" Description="" Part="MIC52053.3V" References="U1" Value="MIC5205-3.3V" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="25" Description="" Part="BADGERHACK_LOGODUMMY" References="U$2" Value="BADGERHACK_LOGODUMMY" Footprint="DUMMY" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="26" Description="" Part="SFE_LOGO_NAME_FLAME.1_INCH" References="U$1" Value="SFE_LOGO_NAME_FLAME.1_INCH" Footprint="SFE_LOGO_NAME_FLAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+	<group Row="27" Description="" Part="RESONATOR4MHZ" References="Y1" Value="4MHz" Footprint="RESONATOR-SMD_MED" Quantity_Per_PCB="1" Status=" " Datasheet="" FUNC="" DESIGNER="" VERSION=""/>
+</KiCad_BOM>

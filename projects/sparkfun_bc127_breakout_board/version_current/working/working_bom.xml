@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="24" Component_Count="38 (0 SMD/ 0 THT)" Fitted_Components="38 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="38" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-55-59" encoding="utf-8">
+	<group Row="1" Description="" Part="1UF-25V-10%(0805)" References="C2" Value="1uF" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="4.7UF-6.3V-10%(0603)0603" References="C4" Value="4.7uF" Footprint="0603-CAP" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="10UF-16V-10%(TANT)" References="C1 C3" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="B340A" References="D4 D5 D6" Value="BA340A" Footprint="SMA-DIODE" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="LED-BLUE0603" References="D3" Value="BLUE" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LED-GREEN0603" References="D1" Value="GREEN" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="LED-RED0603" References="D2" Value="RED" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="FTDI_BASICPTH" References="JP1" Value="FTDI_BASICPTH" Footprint="FTDI_BASIC" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="M02PTH" References="JP6" Value="M02PTH" Footprint="1X02" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="M06SIP" References="JP4 JP5" Value="M06SIP" Footprint="1X06" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="M15" References="JP3" Value="M15" Footprint="1X15" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="M16PTH" References="JP2" Value="M16PTH" Footprint="1X16" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="LOGO-SFENEW" References="LOGO2" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="OSHW-LOGOM" References="LOGO1" Value="OSHW-LOGOM" Footprint="OSHW-LOGO-M" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="SFE_LOGO_NAME.1_INCH" References="LOGO3" Value="SFE_LOGO_NAME.1_INCH" Footprint="SFE_LOGO_NAME_.1" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="TRANSISTOR_PNPMMBT4403" References="Q3" Value="MMBT4403" Footprint="SOT23" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="MOSFET-NCHANNELBSS138" References="Q1 Q2" Value="MOSFET-NCHANNELBSS138" Footprint="SOT23" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="0.22OHM1/4W1%(0805)" References="R12" Value="0.22" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="0.75OHM1/4W1%(0805)" References="R11" Value="0.75" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="240OHM1/10W1%(0603)" References="R2 R3 R4" Value="240" Footprint="0603-RES" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="10KOHM1/10W1%(0603)0603" References="R1 R5 R6 R7 R8 R9 R10 R13" Value="10K" Footprint="0603-RES" Quantity_Per_PCB="8" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="BC127EXTRA_PASTE" References="U1" Value="BC127" Footprint="BC127_XTRA_PASTE" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="V_REG_MIC52193.3V" References="U2" Value="MIC5219 3.3V" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="14" Component_Count="17 (0 SMD/ 0 THT)" Fitted_Components="17 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="17" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-05" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP0603-CAP" References="C2 C4" Value="0.1uF" Footprint="0603-CAP" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP1206" References="C1" Value="10uF" Footprint="1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP0805" References="C3" Value="22uF" Footprint="0805" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="FRAME-LETTER" References="FRAME1" Value="FRAME-LETTER" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="M02-JST-2MM-SMT" References="JP3" Value="JST" Footprint="JST-2-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="LOGO-SFENEW" References="JP6" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="LOGO-SFESK" References="JP2" Value="LOGO-SFESK" Footprint="SFE-LOGO-FLAME" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="M02PTH" References="JP7" Value="VIN" Footprint="1X02" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="M02PTH" References="JP1" Value="VOUT" Footprint="1X02" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="INDUCTOR." References="L1" Value="4.7uH, 1.2A" Footprint="CDRH2D09" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RESISTOR0603-RES" References="R4 R6" Value="220k" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR0603-RES" References="R5" Value="1.2M" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="RESISTOR0603-RES" References="R3 R7" Value="2M" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="TPS61200" References="U1" Value="TPS61200" Footprint="QFN-10_PAD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>

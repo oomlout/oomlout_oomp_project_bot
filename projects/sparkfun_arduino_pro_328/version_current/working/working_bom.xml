@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="26" Component_Count="36 (0 SMD/ 0 THT)" Fitted_Components="36 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="36" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-55-58" encoding="utf-8">
+	<group Row="1" Description="" Part="BUZZERPTH-NS-KIT" References="B1" Value="BUZZERPTH-NS-KIT" Footprint="BUZZER-12MM-NS-KIT" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP0402-CAP" References="C1 C2 C3 C10" Value="0.1uF" Footprint="0402-CAP" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="CAP_POL1206" References="C13 C19" Value="10uF" Footprint="EIA3216" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="LED0603" References="D3" Value="Green" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="PTCSMD" References="F1" Value="PTCSMD" Footprint="PTC-1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="M06SIP" References="J2" Value="Analog" Footprint="1X06" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="M081X08" References="J1" Value="Digital" Footprint="1X08" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="M081X08" References="J3" Value="M081X08" Footprint="1X08" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="M06SIP" References="J4" Value="POWER" Footprint="1X06" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="AVR_SPI_PRG_6PTH" References="JP3" Value="AVR_SPI_PRG_6PTH" Footprint="2X3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="M02PTH" References="JP6 JP7" Value="External" Footprint="1X02" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="M02-JST-2MM-SMT" References="JP1" Value="LiPo" Footprint="JST-2-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="POWER_JACKPTH" References="JP4" Value="POWER_JACKPTH" Footprint="POWER_JACK_PTH" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="ARDUINO_SERIAL_PROGRAMSMD" References="JP9" Value="Program" Footprint="1X06-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="LED0603" References="LED1" Value="Red" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="RESONATORSMD" References="Q1" Value="RESONATORSMD" Footprint="RESONATOR-SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="17" Description="" Part="RESISTOR0402-RES" References="R1 R3 R6" Value="1K" Footprint="0402-RES" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="18" Description="" Part="RESISTOR0402-RES" References="R11" Value="4.7K" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="19" Description="" Part="RESISTOR0402-RES" References="R2" Value="10K" Footprint="0402-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="20" Description="" Part="TAC_SWITCHSMD" References="S2" Value="Reset" Footprint="TACTILE_SWITCH_SMD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="21" Description="" Part="SWITCH-SPST-SMD-A" References="S1" Value="Select" Footprint="SWITCH-SPST-SMD-A" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="22" Description="" Part="ATMEGA168" References="U1" Value="ATMEGA168" Footprint="TQFP32-08" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="23" Description="" Part="V_REG_LDOSMD" References="U2" Value="V_REG_LDOSMD" Footprint="SOT23-5" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="24" Description="" Part="LOGO-SFENEW" References="U$11" Value="LOGO-SFENEW" Footprint="SFE-NEW-WEBLOGO" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="25" Description="" Part="OSHW-LOGOL" References="U$2" Value="OSHW-LOGOL" Footprint="OSHW-LOGO-L" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="26" Description="" Part="STAND-OFF" References="U$1 U$3 U$9 U$10" Value="STAND-OFF" Footprint="STAND-OFF" Quantity_Per_PCB="4" Status=" " Datasheet=""/>
+</KiCad_BOM>

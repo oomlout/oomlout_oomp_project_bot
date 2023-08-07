@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="15" Component_Count="20 (0 SMD/ 0 THT)" Fitted_Components="20 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="20" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-00" encoding="utf-8">
+	<group Row="1" Description="" Part="FRAME-LETTERNO_PACKAGE" References="FRAME3" Value="FRAME-LETTERNO_PACKAGE" Footprint="DUMMY" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="2" Description="" Part="HEATSINKPRT-9576" References="HS1" Value="HEATSINKPRT-9576" Footprint="HEATSINK_PRT-9576" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="3" Description="" Part="CONN_023.5MM" References="J1" Value="CONN_023.5MM" Footprint="SCREWTERMINAL-3.5MM-2" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="4" Description="" Part="CONN_05X2SHD" References="J2" Value="CONN_05X2SHD" Footprint="2X5-SHROUDED" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="5" Description="" Part="M10LOCK" References="JP7" Value="1X10 FEMALE PTH" Footprint="1X10_LOCK" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="CONN-11563"/>
+	<group Row="6" Description="" Part="M06SIP_LOCK" References="JP4" Value="1X6 FEMALE PTH" Footprint="1X06-SIP_LOCK" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID="CONN-08437"/>
+	<group Row="7" Description="" Part="M08LOCK" References="JP5 JP6 JP10" Value="1X8 FEMALE PTH" Footprint="1X08_LOCK" Quantity_Per_PCB="3" Status=" " Datasheet="" PROD_ID="CONN-08438"/>
+	<group Row="8" Description="" Part="M06X2PTH_FEMALE" References="JP8 JP9 JP11 JP12" Value="2X6 FEMALE" Footprint="2X6" Quantity_Per_PCB="4" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="9" Description="" Part="MOSFET-NCH-FQP30N06L" References="Q1" Value="MOSFET-NCH-FQP30N06L" Footprint="TO220V" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="10" Description="" Part="1KOHM-0603-1/10W-1%" References="R2" Value="1KOHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="11" Description="" Part="1OHM-AXIAL-2.0-10W-5%" References="R1" Value="1OHM-AXIAL-2.0-10W-5%" Footprint="AXIAL-2.0" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="12" Description="" Part="787OHM-0603-1/10W-1%" References="R3" Value="787OHM-0603-1/10W-1%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="13" Description="" Part="8.2KOHM-0603-1/10W-5%" References="R4" Value="8.2KOHM-0603-1/10W-5%" Footprint="0603" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="14" Description="" Part="2PT_GND_TIE" References="SUPPLY2" Value="2PT_GND_TIE" Footprint="2PT_GND_TIE" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+	<group Row="15" Description="" Part="POTENTIOMETER-PTH-9MM-1/20W-20%" References="VR1" Value="10k" Footprint="POT-PTH-ALPS" Quantity_Per_PCB="1" Status=" " Datasheet="" PROD_ID=""/>
+</KiCad_BOM>

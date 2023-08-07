@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KiCad_BOM PCB_Variant="default" KiCad_Version="7.0.6-7.0.6~ubuntu22.04.1" Component_Groups="17" Component_Count="22 (0 SMD/ 0 THT)" Fitted_Components="20 (0 SMD/ 0 THT)" Number_of_PCBs="1" Total_Components="20" Schematic_Source="working" Schematic_Revision="" Schematic_Date="2023-08-06_12-56-09" encoding="utf-8">
+	<group Row="1" Description="" Part="CAP1206" References="C1 C3 C4" Value="1uF" Footprint="1206" Quantity_Per_PCB="3" Status=" " Datasheet=""/>
+	<group Row="2" Description="" Part="CAP1206" References="C2" Value="10uF" Footprint="1206" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="3" Description="" Part="M02PTH" References="JP2" Value="IN" Footprint="1X02" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="4" Description="" Part="M02PTH" References="JP3" Value="OUT" Footprint="1X02" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="5" Description="" Part="M03PTH" References="JP1" Value="POWER" Footprint="1X03" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="6" Description="" Part="M03PTH" References="JP4" Value="VOLUME" Footprint="1X03" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="7" Description="" Part="LED0603" References="LED1" Value="LED0603" Footprint="LED-0603" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="8" Description="" Part="LOGO-SFENW2" References="LOGO1" Value="LOGO-SFENW2" Footprint="SFE-NEW-WEB" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="9" Description="" Part="LOGO-SFESK" References="LOGO2" Value="LOGO-SFESK" Footprint="SFE-LOGO-FLAME" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="10" Description="" Part="TRANSISTOR_NPNSOT23-3" References="Q1" Value="MMBT2222A" Footprint="SOT23-3" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="11" Description="" Part="RESISTOR0603-RES" References="R4" Value="330" Footprint="0603-RES" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="12" Description="" Part="RESISTOR0603-RES" References="R3 R5" Value="10K" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="13" Description="" Part="RESISTOR0603-RES" References="R1 R2" Value="150K" Footprint="0603-RES" Quantity_Per_PCB="2" Status=" " Datasheet=""/>
+	<group Row="14" Description="" Part="TPA2005D1DRB" References="U1" Value="TPA2005D1DRB" Footprint="QFN-8_PAD" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="15" Description="" Part="CREATIVE_COMMONS" References="U$1" Value="CREATIVE_COMMONS" Footprint="CREATIVE_COMMONS" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+	<group Row="16" Description="" Part="OSHW-LOGOS" References="U$2" Value="OSHW-LOGOS" Footprint="OSHW-LOGO-S" Quantity_Per_PCB="1" Status=" " Datasheet=""/>
+</KiCad_BOM>
