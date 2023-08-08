@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Necklace_HW  by nightmechanic  
   
+oomp key: oomp_projects_flat_nightmechanic_necklace_hw  
 (snippet of original readme)  
   
 Necklace_HW  

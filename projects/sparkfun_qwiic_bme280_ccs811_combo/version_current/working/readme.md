@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_BME280_CCS811_Combo  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qwiic_bme280_ccs811_combo  
 (snippet of original readme)  
   
 SparkFun CCS811/BME280 Combo Board  

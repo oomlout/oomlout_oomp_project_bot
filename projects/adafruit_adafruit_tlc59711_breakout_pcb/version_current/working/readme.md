@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TLC59711-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tlc59711_breakout_pcb  
 (snippet of original readme)  
   
 - PCB for the Adafruit TLC59711 12-LED PWM breakout board  

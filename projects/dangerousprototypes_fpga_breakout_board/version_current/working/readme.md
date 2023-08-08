@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FPGA-Breakout-Board  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_fpga_breakout_board  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MacroPad-RP2040-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_macropad_rp2040_pcb  
 (snippet of original readme)  
   
 -- Adafruit MacroPad RP2040 PCB  

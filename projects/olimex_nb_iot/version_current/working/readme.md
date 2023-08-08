@@ -1,6 +1,7 @@
 # OOMP Project  
 ## NB-IoT  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_nb_iot  
 (snippet of original readme)  
   
 - NB-IoT  

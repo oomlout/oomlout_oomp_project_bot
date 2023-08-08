@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED-Square_PT4115  by madworm  
   
+oomp key: oomp_projects_flat_madworm_led_square_pt4115  
 (snippet of original readme)  
   
   

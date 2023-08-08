@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCAD-OnHand-Lib  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_kicad_onhand_lib  
 (snippet of original readme)  
   
 - KiCAD-OnHand-Lib  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PiCowbell-Adalogger-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_picowbell_adalogger_pcb  
 (snippet of original readme)  
   
 -- Adafruit PiCowbell Adalogger for Pico - MicroSD, RTC & STEMMA QT PCB  

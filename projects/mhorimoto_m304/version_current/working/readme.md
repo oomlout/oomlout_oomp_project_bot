@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M304  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m304  
 (snippet of original readme)  
   
 - M304  

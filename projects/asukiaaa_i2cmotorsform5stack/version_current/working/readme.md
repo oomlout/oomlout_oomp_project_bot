@@ -1,6 +1,7 @@
 # OOMP Project  
 ## I2cMotorsForM5Stack  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_i2cmotorsform5stack  
 (snippet of original readme)  
   
 - I2cMotorsForM5Stack  

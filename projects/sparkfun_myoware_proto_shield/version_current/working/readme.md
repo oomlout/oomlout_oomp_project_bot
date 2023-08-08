@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MyoWare_Proto_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_myoware_proto_shield  
 (snippet of original readme)  
   
 MyoWare™ Proto Shield  

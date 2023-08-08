@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_rtc  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_rtc  
 (snippet of original readme)  
   
 SparkFun gator:RTC - micro:bit Accessory Board  

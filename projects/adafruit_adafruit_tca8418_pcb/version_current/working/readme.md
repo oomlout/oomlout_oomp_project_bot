@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TCA8418-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tca8418_pcb  
 (snippet of original readme)  
   
 -- Adafruit TCA8418 Keypad Matrix and GPIO Expander Breakout - STEMMA QT / Qwiic PCB  

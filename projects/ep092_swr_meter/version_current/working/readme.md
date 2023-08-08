@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SWR-Meter  by ep092  
   
+oomp key: oomp_projects_flat_ep092_swr_meter  
 (snippet of original readme)  
   
 - SWR-Meter  

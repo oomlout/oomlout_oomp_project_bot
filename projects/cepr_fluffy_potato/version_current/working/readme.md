@@ -1,6 +1,7 @@
 # OOMP Project  
 ## fluffy-potato  by cepr  
   
+oomp key: oomp_projects_flat_cepr_fluffy_potato  
 (snippet of original readme)  
   
 TODO  

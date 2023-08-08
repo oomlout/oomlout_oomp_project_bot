@@ -1,6 +1,7 @@
 # OOMP Project  
 ## quartet  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_quartet  
 (snippet of original readme)  
   
   

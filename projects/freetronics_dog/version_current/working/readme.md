@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DOG  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_dog  
 (snippet of original readme)  
   
 DOG  

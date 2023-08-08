@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TwilightPhotometerPCB  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_twilightphotometerpcb  
 (snippet of original readme)  
   
   

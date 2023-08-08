@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Xtal_filter  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_xtal_filter  
 (snippet of original readme)  
   
 A simple 4th order 10 MHz xtal filter for Grehack 2018 Workshop  

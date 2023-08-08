@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-VEML6070-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_veml6070_pcb  
 (snippet of original readme)  
   
 -- Adafruit VEML6070 Sensor PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MAX6675-Breakout-Board-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_max6675_breakout_board_pcb  
 (snippet of original readme)  
   
 - Thermocouple Amplifier MAX6675  

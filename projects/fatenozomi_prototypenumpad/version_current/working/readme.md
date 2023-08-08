@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PrototypeNumpad  by FateNozomi  
   
+oomp key: oomp_projects_flat_fatenozomi_prototypenumpad  
 (snippet of original readme)  
   
   

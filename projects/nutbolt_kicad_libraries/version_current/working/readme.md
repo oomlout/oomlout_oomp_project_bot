@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCad-Libraries  by nutbolt  
   
+oomp key: oomp_projects_flat_nutbolt_kicad_libraries  
 (snippet of original readme)  
   
 - KiCad Libraries  

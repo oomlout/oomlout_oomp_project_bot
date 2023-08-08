@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32_Thing  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_esp32_thing  
 (snippet of original readme)  
   
 SparkFun ESP32 Thing  

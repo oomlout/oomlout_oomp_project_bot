@@ -1,6 +1,7 @@
 # OOMP Project  
 ## delay_switch  by rigidus  
   
+oomp key: oomp_projects_flat_rigidus_delay_switch  
 (snippet of original readme)  
   
 - delay_switch  

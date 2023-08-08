@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Audio_Jack_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_audio_jack_breakout  
 (snippet of original readme)  
   
 SparkFun Audio Jack Breakout  

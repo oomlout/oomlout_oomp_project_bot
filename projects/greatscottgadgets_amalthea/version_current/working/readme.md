@@ -1,6 +1,7 @@
 # OOMP Project  
 ## amalthea  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_amalthea  
 (snippet of original readme)  
   
 - Amalthea  

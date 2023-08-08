@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TPA6138A2-headphone-driver  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_tpa6138a2_headphone_driver  
 (snippet of original readme)  
   
   

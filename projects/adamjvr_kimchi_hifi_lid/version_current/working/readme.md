@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kimchi-HiFi-lid  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_kimchi_hifi_lid  
 (snippet of original readme)  
   
 - kimchi-HiFi-lid  

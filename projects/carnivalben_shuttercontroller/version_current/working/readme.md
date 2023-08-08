@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ShutterController  by CarnivalBen  
   
+oomp key: oomp_projects_flat_carnivalben_shuttercontroller  
 (snippet of original readme)  
   
 - ShutterController  

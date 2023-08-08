@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Lumenati_8-Stick  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lumenati_8_stick  
 (snippet of original readme)  
   
 SparkFun Lumenati 8-stick  

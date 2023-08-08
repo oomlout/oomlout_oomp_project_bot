@@ -1,6 +1,7 @@
 # OOMP Project  
 ## soderpastemask  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_soderpastemask  
 (snippet of original readme)  
   
 - soderpastemask  

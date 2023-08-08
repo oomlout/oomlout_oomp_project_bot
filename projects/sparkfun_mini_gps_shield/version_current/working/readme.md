@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mini_GPS_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mini_gps_shield  
 (snippet of original readme)  
   
 SparkFun Mini GPS Shield  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## skidl  by devbisme  
   
+oomp key: oomp_projects_flat_devbisme_skidl  
 (snippet of original readme)  
   
   

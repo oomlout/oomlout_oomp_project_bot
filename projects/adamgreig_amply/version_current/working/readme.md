@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AMPly  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_amply  
 (snippet of original readme)  
   
 AMPly - An Open Source Modular Audio Amplifier  

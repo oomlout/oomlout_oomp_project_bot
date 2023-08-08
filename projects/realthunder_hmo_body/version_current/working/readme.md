@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hmo_body  by realthunder  
   
+oomp key: oomp_projects_flat_realthunder_hmo_body  
 (snippet of original readme)  
   
   

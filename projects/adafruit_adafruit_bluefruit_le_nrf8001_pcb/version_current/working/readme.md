@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Bluefruit-LE-nRF8001-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bluefruit_le_nrf8001_pcb  
 (snippet of original readme)  
   
 -- Bluefruit LE - Bluetooth Low Energy (BLE 4.0) - nRF8001 Breakout - v1.0 PCB  

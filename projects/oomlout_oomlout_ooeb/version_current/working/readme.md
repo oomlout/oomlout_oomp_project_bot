@@ -1,6 +1,7 @@
 # OOMP Project  
 ## oomlout-OOEB  by oomlout  
   
+oomp key: oomp_projects_flat_oomlout_oomlout_ooeb  
 (snippet of original readme)  
   
 - OOEB -- Oopen Electronic Blocks  

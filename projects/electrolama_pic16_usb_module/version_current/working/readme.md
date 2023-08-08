@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pic16-usb-module  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_pic16_usb_module  
 (snippet of original readme)  
   
 - pic16-usb-module  

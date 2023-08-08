@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rp2040_stamp_console_hw  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_rp2040_stamp_console_hw  
 (snippet of original readme)  
   
 - RP2040 Stamp Handheld Console (Flux Project)  

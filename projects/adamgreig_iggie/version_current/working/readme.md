@@ -1,6 +1,7 @@
 # OOMP Project  
 ## iggie  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_iggie  
 (snippet of original readme)  
   
   

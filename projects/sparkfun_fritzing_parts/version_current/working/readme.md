@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Fritzing_Parts  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_fritzing_parts  
 (snippet of original readme)  
   
 Fritzing Parts  

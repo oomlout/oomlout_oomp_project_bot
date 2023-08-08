@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ANO-Rotary-Navigation-Encoder-to-I2C  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ano_rotary_navigation_encoder_to_i2c  
 (snippet of original readme)  
   
 -- Adafruit ANO Rotary Navigation Encoder to I2C Stemma QT Adapter PCB  

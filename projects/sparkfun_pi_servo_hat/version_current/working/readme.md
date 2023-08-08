@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pi_Servo_Hat  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_pi_servo_hat  
 (snippet of original readme)  
   
 SparkFun Pi Servo pHAT  

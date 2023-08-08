@@ -1,6 +1,7 @@
 # OOMP Project  
 ## u2if  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_u2if  
 (snippet of original readme)  
   
 - u2if project  

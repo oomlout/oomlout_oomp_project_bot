@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HP6632B_binding_posts  by PatrickBaus  
   
+oomp key: oomp_projects_flat_patrickbaus_hp6632b_binding_posts  
 (snippet of original readme)  
   
 HP 66332A and HP 6632B-6634B Frontpanel Binding Post PCB  

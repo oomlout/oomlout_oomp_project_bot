@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Electric_Imp_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_electric_imp_breakout  
 (snippet of original readme)  
   
 Electric Imp Breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FW2-04-UniversalTimer  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_fw2_04_universaltimer  
 (snippet of original readme)  
   
 Universal Timer  

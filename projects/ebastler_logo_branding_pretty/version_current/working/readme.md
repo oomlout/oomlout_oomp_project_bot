@@ -1,6 +1,7 @@
 # OOMP Project  
 ## logo-branding.pretty  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_logo_branding_pretty  
 (snippet of original readme)  
   
 - Branding  

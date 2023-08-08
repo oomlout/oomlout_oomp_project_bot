@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CAP1188-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_cap1188_pcb  
 (snippet of original readme)  
   
 -- Adafruit CAP1188 I2C/SPI capacitive touch breakout PCB  

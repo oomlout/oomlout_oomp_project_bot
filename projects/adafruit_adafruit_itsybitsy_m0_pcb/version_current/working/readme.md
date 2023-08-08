@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ItsyBitsy-M0-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_itsybitsy_m0_pcb  
 (snippet of original readme)  
   
 -- Adafruit ItsyBitsy M0 microcontroller breakout PCB  

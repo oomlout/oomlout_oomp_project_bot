@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_USB_Hub-USB2514B  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_usb_hub_usb2514b  
 (snippet of original readme)  
   
 SparkFun Qwiic USB Hub - USB2514B  

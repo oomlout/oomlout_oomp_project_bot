@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_RGB_BH1749  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_rgb_bh1749  
 (snippet of original readme)  
   
 SparkFun RGB Sensor (Qwiic) - BH1749NUC  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-IoT-Button-with-NeoPixel-BFF-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_iot_button_with_neopixel_bff_pcb  
 (snippet of original readme)  
   
 -- Adafruit IoT Button with NeoPixel BFF PCB  

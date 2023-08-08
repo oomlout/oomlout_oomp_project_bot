@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Angelia_iBom  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_angelia_ibom  
 (snippet of original readme)  
   
 - Angelia_iBom  

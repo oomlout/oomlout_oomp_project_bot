@@ -1,6 +1,7 @@
 # OOMP Project  
 ## heart-rate-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_heart_rate_bricklet  
 (snippet of original readme)  
   
   

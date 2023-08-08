@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tng-bricklet4  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_tng_bricklet4  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RaspiCherryMXKeysHat  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_raspicherrymxkeyshat  
 (snippet of original readme)  
   
 - RaspiCherryMXKeysHat  

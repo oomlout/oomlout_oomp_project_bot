@@ -1,6 +1,7 @@
 # OOMP Project  
 ## whiterose  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_whiterose  
 (snippet of original readme)  
   
 - Whiterose: A DIY Rescuetime + ESP32 Productivity Monitor IOT Device  

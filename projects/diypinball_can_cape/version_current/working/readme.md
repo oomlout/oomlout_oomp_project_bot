@@ -1,6 +1,7 @@
 # OOMP Project  
 ## can-cape  by diypinball  
   
+oomp key: oomp_projects_flat_diypinball_can_cape  
 (snippet of original readme)  
   
 - can-cape  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ATmega128RFA1_Dev  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_atmega128rfa1_dev  
 (snippet of original readme)  
   
 ATmega128RFA1 Development Board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Cupcade-Adapter-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_cupcade_adapter_pcb  
 (snippet of original readme)  
   
 -- Adafruit Cupcade Arcade Adapter V1 PCB  

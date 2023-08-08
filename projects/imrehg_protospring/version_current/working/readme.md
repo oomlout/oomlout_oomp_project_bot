@@ -1,6 +1,7 @@
 # OOMP Project  
 ## protospring  by imrehg  
   
+oomp key: oomp_projects_flat_imrehg_protospring  
 (snippet of original readme)  
   
 - ProtoSpring  

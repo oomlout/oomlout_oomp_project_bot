@@ -1,6 +1,7 @@
 # OOMP Project  
 ## darling  by XenGi  
   
+oomp key: oomp_projects_flat_xengi_darling  
 (snippet of original readme)  
   
 ![maintenance](https://img.shields.io/maintenance/yes/2023)  

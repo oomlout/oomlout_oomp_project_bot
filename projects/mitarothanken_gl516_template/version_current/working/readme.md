@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GL516_Template  by mitaroThanken  
   
+oomp key: oomp_projects_flat_mitarothanken_gl516_template  
 (snippet of original readme)  
   
   

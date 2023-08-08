@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TRRS-Jack-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_trrs_jack_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit TRRS Jack Breakout PCB  

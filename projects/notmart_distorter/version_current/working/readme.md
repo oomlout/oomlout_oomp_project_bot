@@ -1,6 +1,7 @@
 # OOMP Project  
 ## distorter  by notmart  
   
+oomp key: oomp_projects_flat_notmart_distorter  
 (snippet of original readme)  
   
   

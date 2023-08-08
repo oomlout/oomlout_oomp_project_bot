@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 2-axis-joystick-breakout-board-with-mounting-holes  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_2_axis_joystick_breakout_board_with_mounting_holes  
 (snippet of original readme)  
   
 - PCB files for breakout board for Analog 2-axis Thumb Joystick with Select Button  

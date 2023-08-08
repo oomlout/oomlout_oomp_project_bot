@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 50x50_2x6_to_sma  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_50x50_2x6_to_sma  
 (snippet of original readme)  
   
   

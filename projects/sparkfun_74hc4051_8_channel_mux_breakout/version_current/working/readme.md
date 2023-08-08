@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 74HC4051_8-Channel_Mux_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_74hc4051_8_channel_mux_breakout  
 (snippet of original readme)  
   
 SparkFun Multiplexer Breakout - 8 Channel (74HC4051)  

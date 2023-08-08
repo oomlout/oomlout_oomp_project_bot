@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Step  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_step  
 (snippet of original readme)  
   
 SparkX Qwiic Step  

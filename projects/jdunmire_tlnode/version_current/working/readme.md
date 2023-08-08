@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TLnode  by jdunmire  
   
+oomp key: oomp_projects_flat_jdunmire_tlnode  
 (snippet of original readme)  
   
 Temperature and Light Sensor Node  

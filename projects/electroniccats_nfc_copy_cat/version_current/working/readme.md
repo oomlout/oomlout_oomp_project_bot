@@ -1,6 +1,7 @@
 # OOMP Project  
 ## NFC-Copy-Cat  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_nfc_copy_cat  
 (snippet of original readme)  
   
 - NFC Copy Cat  

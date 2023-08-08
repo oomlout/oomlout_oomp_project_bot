@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 8_channel_level_shifter_TXS0108E  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_8_channel_level_shifter_txs0108e  
 (snippet of original readme)  
   
 SparkFun Level Shifter - 8 Channel (TXS01018E)   

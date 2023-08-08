@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PyPortal-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pyportal_pcb  
 (snippet of original readme)  
   
 -- Adafruit PyPortal - CircuitPython Powered Internet Display PCB  

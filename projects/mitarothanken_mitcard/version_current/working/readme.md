@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mitcard  by mitaroThanken  
   
+oomp key: oomp_projects_flat_mitarothanken_mitcard  
 (snippet of original readme)  
   
 - mitcard  

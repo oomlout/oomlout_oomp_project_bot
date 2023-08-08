@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Nectar  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_nectar  
 (snippet of original readme)  
   
 - Nectar  

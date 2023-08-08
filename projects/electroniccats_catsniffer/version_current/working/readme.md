@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatSniffer  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catsniffer  
 (snippet of original readme)  
   
 - CatSniffer  

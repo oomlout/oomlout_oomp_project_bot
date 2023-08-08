@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Full_Bridge_Motor_Driver_Breakout-L298N  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_full_bridge_motor_driver_breakout_l298n  
 (snippet of original readme)  
   
 SparkFun Breakout Board for L298N Full-Bridge Motor Driver  

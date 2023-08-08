@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DoorWiringChart  by bveenema  
   
+oomp key: oomp_projects_flat_bveenema_doorwiringchart  
 (snippet of original readme)  
   
   

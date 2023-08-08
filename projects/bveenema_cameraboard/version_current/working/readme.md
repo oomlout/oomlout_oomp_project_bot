@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CameraBoard  by bveenema  
   
+oomp key: oomp_projects_flat_bveenema_cameraboard  
 (snippet of original readme)  
   
   

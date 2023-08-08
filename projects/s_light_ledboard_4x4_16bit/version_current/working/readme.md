@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LEDBoard_4x4_16bit  by s-light  
   
+oomp key: oomp_projects_flat_s_light_ledboard_4x4_16bit  
 (snippet of original readme)  
   
 <!--lint disable maximum-line-length-->  

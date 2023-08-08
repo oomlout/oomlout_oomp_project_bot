@@ -1,6 +1,7 @@
 # OOMP Project  
 ## plain60-flex-edition  by aaarsene  
   
+oomp key: oomp_projects_flat_aaarsene_plain60_flex_edition  
 (snippet of original readme)  
   
 - Plain60 Flex Edition rev2.2  

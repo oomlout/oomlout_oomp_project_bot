@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Processor-RP2040  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_processor_rp2040  
 (snippet of original readme)  
   
 SparkFun MicroMod Processor RP2040  

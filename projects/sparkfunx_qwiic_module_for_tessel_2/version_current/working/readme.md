@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Module_for_Tessel_2  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_module_for_tessel_2  
 (snippet of original readme)  
   
 Qwiic Module for Tessel 2  

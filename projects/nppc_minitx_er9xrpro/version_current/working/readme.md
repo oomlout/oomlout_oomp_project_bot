@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MiniTX_ER9xrPro  by nppc  
   
+oomp key: oomp_projects_flat_nppc_minitx_er9xrpro  
 (snippet of original readme)  
   
 - MiniTX_ER9xrPro  

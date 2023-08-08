@@ -1,6 +1,7 @@
 # OOMP Project  
 ## monochron  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_monochron  
 (snippet of original readme)  
   
 - MONOCHRON Clock kit - Open source clock platform, make clocks!  

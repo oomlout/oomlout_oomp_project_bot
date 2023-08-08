@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DIY-Multiprotocol-TX-Module  by nppc  
   
+oomp key: oomp_projects_flat_nppc_diy_multiprotocol_tx_module  
 (snippet of original readme)  
   
 - Multiprotocol TX Module  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## sakuraio-pcb-libraries  by Kazu-zamasu  
   
+oomp key: oomp_projects_flat_kazu_zamasu_sakuraio_pcb_libraries  
 (snippet of original readme)  
   
 - PCB Libraries for Sakura IoT Platform  

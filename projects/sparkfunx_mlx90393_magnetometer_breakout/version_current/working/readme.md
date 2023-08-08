@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MLX90393_Magnetometer_Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_mlx90393_magnetometer_breakout  
 (snippet of original readme)  
   
   

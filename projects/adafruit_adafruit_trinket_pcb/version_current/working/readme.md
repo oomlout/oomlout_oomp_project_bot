@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Trinket-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_trinket_pcb  
 (snippet of original readme)  
   
 -- Adafruit Trinket 3.3 and 5V Microcontroller PCBs  

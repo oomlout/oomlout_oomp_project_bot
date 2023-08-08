@@ -1,6 +1,7 @@
 # OOMP Project  
 ## vna-switchboard  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_vna_switchboard  
 (snippet of original readme)  
   
 ![Alt text](title.jpg?raw=true "Title Image")  

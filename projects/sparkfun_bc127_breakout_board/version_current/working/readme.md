@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BC127_Breakout_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_bc127_breakout_board  
 (snippet of original readme)  
   
 BC127 Breakout Board  

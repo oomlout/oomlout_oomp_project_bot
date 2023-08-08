@@ -1,6 +1,7 @@
 # OOMP Project  
 ## eurorack-with-binaries  by Drc3p0  
   
+oomp key: oomp_projects_flat_drc3p0_eurorack_with_binaries  
 (snippet of original readme)  
   
 =======  

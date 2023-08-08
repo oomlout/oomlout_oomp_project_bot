@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SOT89-5_DIP  by madworm  
   
+oomp key: oomp_projects_flat_madworm_sot89_5_dip  
 (snippet of original readme)  
   
   

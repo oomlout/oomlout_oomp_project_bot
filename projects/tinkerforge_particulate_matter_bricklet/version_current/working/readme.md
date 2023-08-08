@@ -1,6 +1,7 @@
 # OOMP Project  
 ## particulate-matter-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_particulate_matter_bricklet  
 (snippet of original readme)  
   
   

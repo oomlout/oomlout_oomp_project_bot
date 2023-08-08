@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Audio_Amplifier_Kit-STA540  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_audio_amplifier_kit_sta540  
 (snippet of original readme)  
   
 SparkFun Audio Amplifier Kit - STA540  

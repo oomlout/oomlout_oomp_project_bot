@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Protoboards  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_protoboards  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MAX98306-Class-D-Amp-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_max98306_class_d_amp_pcb  
 (snippet of original readme)  
   
 -- Adafruit MAX98306 Class D Amp PCB  

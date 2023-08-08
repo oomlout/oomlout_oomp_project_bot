@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Stereo-Speaker-Bonnet-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_stereo_speaker_bonnet_pcb  
 (snippet of original readme)  
   
 -- Adafruit Stereo Speaker Bonnet PCB  

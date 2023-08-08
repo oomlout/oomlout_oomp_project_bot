@@ -1,6 +1,7 @@
 # OOMP Project  
 ## lvds_4ch_link  by s-light  
   
+oomp key: oomp_projects_flat_s_light_lvds_4ch_link  
 (snippet of original readme)  
   
 <!--lint disable list-item-indent-->  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ET2  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_et2  
 (snippet of original readme)  
   
 Freetronics EtherTen  

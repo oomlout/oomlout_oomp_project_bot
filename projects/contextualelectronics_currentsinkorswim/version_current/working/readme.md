@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CurrentSinkOrSwim  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_currentsinkorswim  
 (snippet of original readme)  
   
 - CurrentSinkOrSwim  

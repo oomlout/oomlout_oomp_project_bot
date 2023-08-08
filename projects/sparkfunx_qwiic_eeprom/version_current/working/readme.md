@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_EEPROM  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_eeprom  
 (snippet of original readme)  
   
 Qwiic EEPROM - 512Kbit  

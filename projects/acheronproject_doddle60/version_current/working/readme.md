@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Doddle60  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_doddle60  
 (snippet of original readme)  
   
 - Acheron ISO60-SM-S-STM32-MX-TH-WI (Codename "Doddle60")  

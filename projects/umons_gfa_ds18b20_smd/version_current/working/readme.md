@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ds18b20-smd  by UMONS-GFA  
   
+oomp key: oomp_projects_flat_umons_gfa_ds18b20_smd  
 (snippet of original readme)  
   
   

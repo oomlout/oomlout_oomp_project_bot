@@ -1,6 +1,7 @@
 # OOMP Project  
 ## canbuz-1977-vw-bus-ecu  by cepr  
   
+oomp key: oomp_projects_flat_cepr_canbuz_1977_vw_bus_ecu  
 (snippet of original readme)  
   
   

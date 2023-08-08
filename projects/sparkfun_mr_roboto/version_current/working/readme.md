@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mr.Roboto  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mr_roboto  
 (snippet of original readme)  
   
 Mr. Roboto Kit  

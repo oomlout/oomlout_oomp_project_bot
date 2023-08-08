@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DS3231-Precision-RTC-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ds3231_precision_rtc_featherwing_pcb  
 (snippet of original readme)  
   
 -- DS3231 Precision RTC FeatherWing - RTC Add-on PCB  

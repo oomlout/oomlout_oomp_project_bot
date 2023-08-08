@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LSM9DS0_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lsm9ds0_breakout  
 (snippet of original readme)  
   
 LSM9DS0 Breakout Board  

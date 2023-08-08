@@ -1,6 +1,7 @@
 # OOMP Project  
 ## espriktning  by notmart  
   
+oomp key: oomp_projects_flat_notmart_espriktning  
 (snippet of original readme)  
   
   

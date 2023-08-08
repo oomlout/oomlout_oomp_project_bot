@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-USB-Serial-RGB-Character-Backpack-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_usb_serial_rgb_character_backpack_pcb  
 (snippet of original readme)  
   
 -- Adafruit USB Serial RGB Character Backpack PCB  

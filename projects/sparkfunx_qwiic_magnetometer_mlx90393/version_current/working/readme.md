@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Magnetometer-MLX90393  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_magnetometer_mlx90393  
 (snippet of original readme)  
   
   

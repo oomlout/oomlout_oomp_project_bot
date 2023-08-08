@@ -1,6 +1,7 @@
 # OOMP Project  
 ## relay_module_songle_srs_05vdc_sl  by rigidus  
   
+oomp key: oomp_projects_flat_rigidus_relay_module_songle_srs_05vdc_sl  
 (snippet of original readme)  
   
 - relay_module_songle_srs_05vdc_sl  

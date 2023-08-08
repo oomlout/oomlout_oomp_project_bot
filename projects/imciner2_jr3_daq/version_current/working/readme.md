@@ -1,6 +1,7 @@
 # OOMP Project  
 ## JR3_DAQ  by imciner2  
   
+oomp key: oomp_projects_flat_imciner2_jr3_daq  
 (snippet of original readme)  
   
 JR3_DAQ  

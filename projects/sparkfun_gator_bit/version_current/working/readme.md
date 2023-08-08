@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_bit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_bit  
 (snippet of original readme)  
   
 SparkFun gator:bit v2  

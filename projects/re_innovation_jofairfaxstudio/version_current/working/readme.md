@@ -1,6 +1,7 @@
 # OOMP Project  
 ## JoFairfaxStudio  by re-innovation  
   
+oomp key: oomp_projects_flat_re_innovation_jofairfaxstudio  
 (snippet of original readme)  
   
 - JoFairfaxStudio  

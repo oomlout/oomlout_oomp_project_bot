@@ -1,6 +1,7 @@
 # OOMP Project  
 ## USB_Current_Sensor  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_usb_current_sensor  
 (snippet of original readme)  
   
 SparkX USB Current Sensor  

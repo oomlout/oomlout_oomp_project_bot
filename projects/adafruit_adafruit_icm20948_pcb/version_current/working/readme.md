@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ICM20948-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_icm20948_pcb  
 (snippet of original readme)  
   
 -- Adafruit ICM20948 9-DoF IMU PCB  

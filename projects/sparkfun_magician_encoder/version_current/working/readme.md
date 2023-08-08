@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Magician_Encoder  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_magician_encoder  
 (snippet of original readme)  
   
 Magician Chassis Encoder  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Neocococat  by 8BitMixtape  
   
+oomp key: oomp_projects_flat_8bitmixtape_neocococat  
 (snippet of original readme)  
   
 - Neocococat  

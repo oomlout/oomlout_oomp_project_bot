@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Barometric_Pressure_Sensor_Breakout-MPL115A1  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_barometric_pressure_sensor_breakout_mpl115a1  
 (snippet of original readme)  
   
 SparkFun Barometric Pressure Sensor Breakout - MPL115A1  

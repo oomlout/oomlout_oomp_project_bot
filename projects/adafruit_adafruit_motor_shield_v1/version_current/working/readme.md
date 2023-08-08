@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Motor-Shield-v1  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_motor_shield_v1  
 (snippet of original readme)  
   
 - Adafruit Motor Shield v1  

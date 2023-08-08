@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Coin_Cell_Battery_Holder-Switched  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_coin_cell_battery_holder_switched  
 (snippet of original readme)  
   
 SparkFun LilyPad Coin Cell Battery Holder-Switched  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoPixel-Ring  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neopixel_ring  
 (snippet of original readme)  
   
 - Adafruit 12, 16, and 24 NeoPixel Rings  

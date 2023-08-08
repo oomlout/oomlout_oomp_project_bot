@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rp2040_stamp_jig_hw  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_rp2040_stamp_jig_hw  
 (snippet of original readme)  
   
   

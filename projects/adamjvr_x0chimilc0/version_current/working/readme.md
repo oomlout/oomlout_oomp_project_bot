@@ -1,6 +1,7 @@
 # OOMP Project  
 ## X0chimilc0  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_x0chimilc0  
 (snippet of original readme)  
   
 - X0chimilc0  

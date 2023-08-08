@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PiGRRL-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pigrrl_pcb  
 (snippet of original readme)  
   
 -- Adafruit PiGRRL PCBs  

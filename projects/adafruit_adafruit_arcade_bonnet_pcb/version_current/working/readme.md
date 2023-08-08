@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Arcade-Bonnet-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_arcade_bonnet_pcb  
 (snippet of original readme)  
   
 -- Adafruit Arcade Bonnet PCB  

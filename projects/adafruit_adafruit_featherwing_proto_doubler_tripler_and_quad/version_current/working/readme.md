@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_featherwing_proto_doubler_tripler_and_quad  
 (snippet of original readme)  
   
 -- FeatherWing Proto, Doubler, Tripler and Quad PCBs  

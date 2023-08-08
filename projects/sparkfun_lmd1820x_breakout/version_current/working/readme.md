@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LMD1820x_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lmd1820x_breakout  
 (snippet of original readme)  
   
 LMD1820x Breakout  

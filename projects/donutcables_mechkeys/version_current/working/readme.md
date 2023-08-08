@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mechkeys  by DonutCables  
   
+oomp key: oomp_projects_flat_donutcables_mechkeys  
 (snippet of original readme)  
   
 - mechkeys  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## maxwell  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_maxwell  
 (snippet of original readme)  
   
 - Maxwell: Bicycle Electrification  

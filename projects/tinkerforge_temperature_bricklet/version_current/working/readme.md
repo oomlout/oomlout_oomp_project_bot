@@ -1,6 +1,7 @@
 # OOMP Project  
 ## temperature-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_temperature_bricklet  
 (snippet of original readme)  
   
   

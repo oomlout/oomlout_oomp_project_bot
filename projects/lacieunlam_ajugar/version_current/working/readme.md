@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Ajugar  by LacieUnlam  
   
+oomp key: oomp_projects_flat_lacieunlam_ajugar  
 (snippet of original readme)  
   
 - Ajugar  

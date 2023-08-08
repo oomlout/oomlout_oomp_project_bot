@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mech423_final_project  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_mech423_final_project  
 (snippet of original readme)  
   
 - LitePog  

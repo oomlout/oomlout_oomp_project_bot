@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroSD_Sniffer  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_microsd_sniffer  
 (snippet of original readme)  
   
 SparkFun microSD Sniffer  

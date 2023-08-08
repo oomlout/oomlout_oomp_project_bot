@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Resistive_Arena  by nightmechanic  
   
+oomp key: oomp_projects_flat_nightmechanic_resistive_arena  
 (snippet of original readme)  
   
 Resistive_Arena  

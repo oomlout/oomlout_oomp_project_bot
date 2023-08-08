@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LSM6DS33-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lsm6ds33_pcb  
 (snippet of original readme)  
   
 -- Adafruit LSM6DS33 6-DoF Accel+Gyro IMU PCB  

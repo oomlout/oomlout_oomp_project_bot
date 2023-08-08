@@ -1,6 +1,7 @@
 # OOMP Project  
 ## uwb-beacon-board  by cvra  
   
+oomp key: oomp_projects_flat_cvra_uwb_beacon_board  
 (snippet of original readme)  
   
 - Universal beacon system board  

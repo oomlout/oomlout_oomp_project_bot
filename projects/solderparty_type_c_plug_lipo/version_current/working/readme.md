@@ -1,6 +1,7 @@
 # OOMP Project  
 ## type-c_plug_lipo  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_type_c_plug_lipo  
 (snippet of original readme)  
   
 - 3.7V/4.2V LiPo Battery Charger with USB Type-C Plug  

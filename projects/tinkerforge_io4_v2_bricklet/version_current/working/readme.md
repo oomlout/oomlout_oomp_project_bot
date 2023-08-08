@@ -1,6 +1,7 @@
 # OOMP Project  
 ## io4-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_io4_v2_bricklet  
 (snippet of original readme)  
   
   

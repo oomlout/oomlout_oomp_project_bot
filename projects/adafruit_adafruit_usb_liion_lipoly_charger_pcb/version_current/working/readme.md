@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-USB-LiIon-LiPoly-Charger-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_usb_liion_lipoly_charger_pcb  
 (snippet of original readme)  
   
 -- Adafruit USB LiIon/LiPoly Charger PCB  

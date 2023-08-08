@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ATECC608-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_atecc608_pcb  
 (snippet of original readme)  
   
 -- Adafruit Adafruit ATECC608 Breakout Board - STEMMA QT / Qwiic PCB  

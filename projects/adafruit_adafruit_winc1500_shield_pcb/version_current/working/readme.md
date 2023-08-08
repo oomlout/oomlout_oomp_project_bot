@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-WINC1500-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_winc1500_shield_pcb  
 (snippet of original readme)  
   
 -- Adafruit WINC1500 Shield PCB  

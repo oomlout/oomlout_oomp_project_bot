@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mini-Ultra-8-MHz  by rocketscream  
   
+oomp key: oomp_projects_flat_rocketscream_mini_ultra_8_mhz  
 (snippet of original readme)  
   
 - Mini-Ultra-8-MHz  

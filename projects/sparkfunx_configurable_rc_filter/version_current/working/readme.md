@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Configurable_RC_Filter  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_configurable_rc_filter  
 (snippet of original readme)  
   
 SparkX Configurable RC Filter  

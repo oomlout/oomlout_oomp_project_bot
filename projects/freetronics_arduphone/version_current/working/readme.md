@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ArduPhone  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_arduphone  
 (snippet of original readme)  
   
 Freetronics ArduPhone  

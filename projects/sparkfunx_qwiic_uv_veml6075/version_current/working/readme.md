@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_UV_VEML6075  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_uv_veml6075  
 (snippet of original readme)  
   
 SparkFun UV Sensor (Qwiic) - VEML6075  

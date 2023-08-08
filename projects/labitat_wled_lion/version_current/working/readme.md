@@ -1,6 +1,7 @@
 # OOMP Project  
 ## WLED-Lion  by labitat  
   
+oomp key: oomp_projects_flat_labitat_wled_lion  
 (snippet of original readme)  
   
 - WLED-Lion workshop and PCB files  

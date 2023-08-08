@@ -1,6 +1,7 @@
 # OOMP Project  
 ## templateNodeMCU  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_templatenodemcu  
 (snippet of original readme)  
   
 - templateNodeMCU  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CLUE-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_clue_pcb  
 (snippet of original readme)  
   
 -- Adafruit CLUE nRF52840 Express PCB  

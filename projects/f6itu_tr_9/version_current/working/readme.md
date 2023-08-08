@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TR-9  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_tr_9  
 (snippet of original readme)  
   
 - TR-9  

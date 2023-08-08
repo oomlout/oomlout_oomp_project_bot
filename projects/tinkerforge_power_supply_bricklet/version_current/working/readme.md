@@ -1,6 +1,7 @@
 # OOMP Project  
 ## power-supply-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_power_supply_bricklet  
 (snippet of original readme)  
   
   

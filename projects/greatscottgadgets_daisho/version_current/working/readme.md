@@ -1,6 +1,7 @@
 # OOMP Project  
 ## daisho  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_daisho  
 (snippet of original readme)  
   
 Daisho  

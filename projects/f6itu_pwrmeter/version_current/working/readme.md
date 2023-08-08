@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PWRmeter  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_pwrmeter  
 (snippet of original readme)  
   
 This millwattmeter project has been driven by   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Sharp-Memory-Display-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_sharp_memory_display_pcbs  
 (snippet of original readme)  
   
 - PCB for the Adafruit Sharp Memory display breakout board  

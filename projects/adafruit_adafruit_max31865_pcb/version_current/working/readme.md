@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MAX31865-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_max31865_pcb  
 (snippet of original readme)  
   
 -- Adafruit MAX31865 PCB  

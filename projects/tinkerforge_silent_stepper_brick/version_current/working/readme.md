@@ -1,6 +1,7 @@
 # OOMP Project  
 ## silent-stepper-brick  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_silent_stepper_brick  
 (snippet of original readme)  
   
   

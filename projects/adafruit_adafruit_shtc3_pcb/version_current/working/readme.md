@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SHTC3-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_shtc3_pcb  
 (snippet of original readme)  
   
 -- Adafruit Sensirion SHTC3T Temperature & Humidity Sensor PCB  

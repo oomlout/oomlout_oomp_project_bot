@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 1979-MINI-GAN-PET-103  by Alasofia  
   
+oomp key: oomp_projects_flat_alasofia_1979_mini_gan_pet_103  
 (snippet of original readme)  
   
 - 1979-MINI-GAN-PET-103  

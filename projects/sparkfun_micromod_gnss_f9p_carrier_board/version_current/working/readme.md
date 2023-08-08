@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_GNSS_F9P_Carrier_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_gnss_f9p_carrier_board  
 (snippet of original readme)  
   
 SparkFun MicroMod GNSS Carrier Board (ZED-F9P)  

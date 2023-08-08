@@ -1,6 +1,7 @@
 # OOMP Project  
 ## connector  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_connector  
 (snippet of original readme)  
   
 - Ruuvi Connector system  

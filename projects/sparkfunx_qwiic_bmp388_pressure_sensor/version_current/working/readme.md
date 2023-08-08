@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_BMP388_Pressure_Sensor  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_bmp388_pressure_sensor  
 (snippet of original readme)  
   
 Qwiic BMP388 Pressure Sensor  

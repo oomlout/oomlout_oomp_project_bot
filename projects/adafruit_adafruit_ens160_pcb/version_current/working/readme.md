@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ENS160-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ens160_pcb  
 (snippet of original readme)  
   
 -- Adafruit ENS160 MOX Gas Sensor PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-BNO08x-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bno08x_pcb  
 (snippet of original readme)  
   
 -- Adafruit BNO085  9-DOF Orientation IMU Fusion Breakout PCB  

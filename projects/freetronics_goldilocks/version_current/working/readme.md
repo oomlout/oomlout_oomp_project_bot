@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Goldilocks  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_goldilocks  
 (snippet of original readme)  
   
 Freetronics Goldilocks  

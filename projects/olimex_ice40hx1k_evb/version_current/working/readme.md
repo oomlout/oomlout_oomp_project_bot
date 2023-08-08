@@ -1,6 +1,7 @@
 # OOMP Project  
 ## iCE40HX1K-EVB  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_ice40hx1k_evb  
 (snippet of original readme)  
   
 - iCE40HX1K-EVB  

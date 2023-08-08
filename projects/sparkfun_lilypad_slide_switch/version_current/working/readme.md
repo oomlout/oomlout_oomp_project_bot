@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Slide_Switch  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_slide_switch  
 (snippet of original readme)  
   
 SparkFun LilyPad Slide Switch   

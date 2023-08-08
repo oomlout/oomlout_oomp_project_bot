@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-castellated-breakouts  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_kicad_castellated_breakouts  
 (snippet of original readme)  
   
 - Castellated Breakouts for KiCad  

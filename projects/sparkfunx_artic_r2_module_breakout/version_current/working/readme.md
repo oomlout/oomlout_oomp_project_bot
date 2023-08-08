@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ARTIC_R2_Module_Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_artic_r2_module_breakout  
 (snippet of original readme)  
   
 - A Thing Plus Breakout for the ARGOS ARTIC R2 Castellated Module  

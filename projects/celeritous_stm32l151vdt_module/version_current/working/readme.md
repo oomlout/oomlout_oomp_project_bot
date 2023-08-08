@@ -1,6 +1,7 @@
 # OOMP Project  
 ## STM32L151VDT_Module  by celeritous  
   
+oomp key: oomp_projects_flat_celeritous_stm32l151vdt_module  
 (snippet of original readme)  
   
 - STM32L151VDT_Module  

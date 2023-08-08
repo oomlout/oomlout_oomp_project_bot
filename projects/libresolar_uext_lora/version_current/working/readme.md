@@ -1,6 +1,7 @@
 # OOMP Project  
 ## uext-lora  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_uext_lora  
 (snippet of original readme)  
   
 - LoRa communication board based on HopeRF RFM95 for UEXT connector  

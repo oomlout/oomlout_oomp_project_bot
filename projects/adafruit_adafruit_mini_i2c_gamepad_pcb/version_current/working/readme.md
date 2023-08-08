@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Mini-I2C-Gamepad-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mini_i2c_gamepad_pcb  
 (snippet of original readme)  
   
 -- Adafruit Mini I2C Gamepad with seesaw and STEMMA QT PCB  

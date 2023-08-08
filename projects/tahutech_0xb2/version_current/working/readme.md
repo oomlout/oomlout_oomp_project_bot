@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 0xB2  by TahuTech  
   
+oomp key: oomp_projects_flat_tahutech_0xb2  
 (snippet of original readme)  
   
 - 0xB2 - splinky  

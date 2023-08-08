@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LeonardoBB  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_leonardobb  
 (snippet of original readme)  
   
 - LeonardoBB  

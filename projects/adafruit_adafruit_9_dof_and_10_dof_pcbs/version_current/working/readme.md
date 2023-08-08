@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-9-DOF-and-10-DOF-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_9_dof_and_10_dof_pcbs  
 (snippet of original readme)  
   
 - PCB for the Adafruit 9-DOF and 10-DOF Breakout boards  

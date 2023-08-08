@@ -1,6 +1,7 @@
 # OOMP Project  
 ## data-manager  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_data_manager  
 (snippet of original readme)  
   
 - Data Manager for Libre Solar devices  

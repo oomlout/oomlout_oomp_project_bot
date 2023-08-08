@@ -1,6 +1,7 @@
 # OOMP Project  
 ## relays_base  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_relays_base  
 (snippet of original readme)  
   
 - relays_base  

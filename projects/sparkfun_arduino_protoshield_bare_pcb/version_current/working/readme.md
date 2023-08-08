@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Arduino_ProtoShield_Bare_PCB  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_arduino_protoshield_bare_pcb  
 (snippet of original readme)  
   
 SparkFun Arduino ProtoShield - Bare PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bumps  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_bumps  
 (snippet of original readme)  
   
 Bumps  

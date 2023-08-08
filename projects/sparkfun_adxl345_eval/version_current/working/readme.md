@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ADXL345_Eval  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_adxl345_eval  
 (snippet of original readme)  
   
 ADXL345 Evaluation Board  

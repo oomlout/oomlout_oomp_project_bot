@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Alphanumeric_Display  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_alphanumeric_display  
 (snippet of original readme)  
   
 SparkX Qwiic Alphanumeric Display  

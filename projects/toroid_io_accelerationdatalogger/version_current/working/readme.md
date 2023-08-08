@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AccelerationDataLogger  by Toroid-io  
   
+oomp key: oomp_projects_flat_toroid_io_accelerationdatalogger  
 (snippet of original readme)  
   
 - AccelerationDataLogger  

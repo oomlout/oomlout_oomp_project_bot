@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Weather_Carrier_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_weather_carrier_board  
 (snippet of original readme)  
   
 SparkFun MicroMod Weather Carrier Board  

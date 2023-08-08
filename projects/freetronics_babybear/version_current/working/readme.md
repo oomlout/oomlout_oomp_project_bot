@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BABYBEAR  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_babybear  
 (snippet of original readme)  
   
 Freetronics Baby Bear  

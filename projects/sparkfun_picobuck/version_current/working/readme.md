@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PicoBuck  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_picobuck  
 (snippet of original readme)  
   
 PicoBuck LED Driver  

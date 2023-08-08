@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Youyue-858D-plus-MCU-adapter  by madworm  
   
+oomp key: oomp_projects_flat_madworm_youyue_858d_plus_mcu_adapter  
 (snippet of original readme)  
   
   

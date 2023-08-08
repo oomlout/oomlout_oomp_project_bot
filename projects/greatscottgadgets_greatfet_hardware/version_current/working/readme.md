@@ -1,6 +1,7 @@
 # OOMP Project  
 ## greatfet-hardware  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_greatfet_hardware  
 (snippet of original readme)  
   
 - GreatFET Hardware  

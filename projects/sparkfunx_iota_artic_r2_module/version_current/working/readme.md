@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IOTA-ARTIC-R2-Module  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_iota_artic_r2_module  
 (snippet of original readme)  
   
 - IOTA (Integrated Open-Source Transceiver for Argos)  

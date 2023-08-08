@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_PWM_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_pwm_block  
 (snippet of original readme)  
   
 SparkFun Edison PWM Block  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Soldering-Obstacle-Course  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_soldering_obstacle_course  
 (snippet of original readme)  
   
   

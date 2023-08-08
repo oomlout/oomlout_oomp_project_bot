@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HX711-Load-Cell-Amplifier  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_hx711_load_cell_amplifier  
 (snippet of original readme)  
   
 HX711 Load Cell Amplifier  

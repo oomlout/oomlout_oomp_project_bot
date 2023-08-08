@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Electronics-Main-Board  by S-SINKER  
   
+oomp key: oomp_projects_flat_s_sinker_electronics_main_board  
 (snippet of original readme)  
   
   

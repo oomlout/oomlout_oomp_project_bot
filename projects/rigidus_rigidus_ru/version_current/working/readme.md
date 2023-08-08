@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rigidus.ru  by rigidus  
   
+oomp key: oomp_projects_flat_rigidus_rigidus_ru  
 (snippet of original readme)  
   
   

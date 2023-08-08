@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PWM-Servo-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pwm_servo_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit PWM Servo FeatherWing PCB  

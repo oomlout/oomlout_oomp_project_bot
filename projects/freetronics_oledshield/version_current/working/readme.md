@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OLEDSHIELD  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_oledshield  
 (snippet of original readme)  
   
   

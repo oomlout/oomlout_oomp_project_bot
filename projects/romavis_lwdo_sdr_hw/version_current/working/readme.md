@@ -1,6 +1,7 @@
 # OOMP Project  
 ## lwdo-sdr-hw  by romavis  
   
+oomp key: oomp_projects_flat_romavis_lwdo_sdr_hw  
 (snippet of original readme)  
   
 - What  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Bar_Graph_Breakout_Kit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_bar_graph_breakout_kit  
 (snippet of original readme)  
   
 SparkFun Bar Graph Breakout Kit  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## EthernetShield  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_ethernetshield  
 (snippet of original readme)  
   
 Freetronics Ethernet Shield  

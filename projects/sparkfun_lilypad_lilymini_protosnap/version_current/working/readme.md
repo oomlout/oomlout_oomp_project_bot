@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_LilyMini_ProtoSnap  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_lilymini_protosnap  
 (snippet of original readme)  
   
 LilyMini ProtoSnap  

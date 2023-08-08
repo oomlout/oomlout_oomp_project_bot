@@ -1,6 +1,7 @@
 # OOMP Project  
 ## goodwatch  by esden  
   
+oomp key: oomp_projects_flat_esden_goodwatch  
 (snippet of original readme)  
   
 Howdy y'all,  

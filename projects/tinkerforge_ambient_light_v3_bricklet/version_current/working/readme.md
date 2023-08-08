@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ambient-light-v3-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_ambient_light_v3_bricklet  
 (snippet of original readme)  
   
   

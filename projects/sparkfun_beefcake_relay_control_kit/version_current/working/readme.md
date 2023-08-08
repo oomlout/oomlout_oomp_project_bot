@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Beefcake_Relay_Control_Kit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_beefcake_relay_control_kit  
 (snippet of original readme)  
   
 Beefcake Relay Control Kit  

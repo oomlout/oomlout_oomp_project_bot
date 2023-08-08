@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Large_Digit_Driver  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_large_digit_driver  
 (snippet of original readme)  
   
 SparkFun Large Digit Driver  

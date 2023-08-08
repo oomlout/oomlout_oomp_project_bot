@@ -1,6 +1,7 @@
 # OOMP Project  
 ## semi  by Alasofia  
   
+oomp key: oomp_projects_flat_alasofia_semi  
 (snippet of original readme)  
   
 - semi  

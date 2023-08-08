@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-16-Channel-PWM-Servo-Driver-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_16_channel_pwm_servo_driver_pcb  
 (snippet of original readme)  
   
 -- Adafruit 16-Channel PWM Servo Driver PCB Eagle Files  

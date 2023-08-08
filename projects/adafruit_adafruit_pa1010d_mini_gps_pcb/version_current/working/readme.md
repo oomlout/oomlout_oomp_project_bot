@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PA1010D-Mini-GPS-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pa1010d_mini_gps_pcb  
 (snippet of original readme)  
   
 -- Adafruit PA1010D Mini GPS Module PCB  

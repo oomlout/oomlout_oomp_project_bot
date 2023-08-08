@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PiratePICprog  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_piratepicprog  
 (snippet of original readme)  
   
   

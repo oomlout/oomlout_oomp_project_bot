@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LSM6DSOX-LIS3MDL-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lsm6dsox_lis3mdl_pcb  
 (snippet of original readme)  
   
 -- Adafruit LSM6DSOX + LIS3MDL Precision 9-DoF IMU PCBs  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ESP32-HUZZAH-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_esp32_huzzah_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit HUZZAH32 PCB  

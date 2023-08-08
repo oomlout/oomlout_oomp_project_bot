@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Three_Phase_Motor_Driver-TMC6300  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_three_phase_motor_driver_tmc6300  
 (snippet of original readme)  
   
 SparkFun 3-Phase BLDC Motor Driver - TMC6300  

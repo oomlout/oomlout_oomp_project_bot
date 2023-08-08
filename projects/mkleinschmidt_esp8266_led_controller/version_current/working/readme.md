@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP8266_LED_Controller  by mkleinschmidt  
   
+oomp key: oomp_projects_flat_mkleinschmidt_esp8266_led_controller  
 (snippet of original readme)  
   
   

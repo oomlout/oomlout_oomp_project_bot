@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Sno_Processor_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_sno_processor_board  
 (snippet of original readme)  
   
 SparkFun MicroMod Alorium Sno M2 Processor Board  

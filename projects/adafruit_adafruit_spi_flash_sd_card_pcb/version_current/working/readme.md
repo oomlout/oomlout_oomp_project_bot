@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SPI-Flash-SD-Card-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_spi_flash_sd_card_pcb  
 (snippet of original readme)  
   
 -- Adafruit SPI Flash SD Card PCB  

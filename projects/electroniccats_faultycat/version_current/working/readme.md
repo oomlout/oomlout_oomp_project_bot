@@ -1,6 +1,7 @@
 # OOMP Project  
 ## faultycat  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_faultycat  
 (snippet of original readme)  
   
 - Faulty Cat  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_STM32_Processor  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_stm32_processor  
 (snippet of original readme)  
   
 SparkFun STM32 MicroMod Processor  

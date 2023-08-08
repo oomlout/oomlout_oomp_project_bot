@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OpenLog_Artemis  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_openlog_artemis  
 (snippet of original readme)  
   
 SparkFun OpenLog Artemis  

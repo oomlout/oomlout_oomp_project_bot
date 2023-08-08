@@ -1,6 +1,7 @@
 # OOMP Project  
 ## led-strip-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_led_strip_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-BME680-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bme680_pcb  
 (snippet of original readme)  
   
 -- Adafruit BME680 PCB  

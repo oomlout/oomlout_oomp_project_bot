@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MPU-9250_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mpu_9250_breakout  
 (snippet of original readme)  
   
 9 Degrees of Freedom - MPU-9250 Breakout  

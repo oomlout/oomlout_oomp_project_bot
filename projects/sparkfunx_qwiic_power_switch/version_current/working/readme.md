@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Power_Switch  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_power_switch  
 (snippet of original readme)  
   
 - Qwiic Power Switch  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LPC-Link2-Board  by Kazu-zamasu  
   
+oomp key: oomp_projects_flat_kazu_zamasu_lpc_link2_board  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BSidesSD  by ANDnXOR  
   
+oomp key: oomp_projects_flat_andnxor_bsidessd  
 (snippet of original readme)  
   
 - BSidesSD  

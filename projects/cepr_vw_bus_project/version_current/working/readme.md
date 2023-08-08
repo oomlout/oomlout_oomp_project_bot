@@ -1,6 +1,7 @@
 # OOMP Project  
 ## vw-bus-project  by cepr  
   
+oomp key: oomp_projects_flat_cepr_vw_bus_project  
 (snippet of original readme)  
   
   

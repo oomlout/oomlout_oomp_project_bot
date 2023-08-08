@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MIDI-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_midi_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit MIDI FeatherWing Kit PCB  

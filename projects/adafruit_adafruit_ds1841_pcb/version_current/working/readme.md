@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DS1841-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ds1841_pcb  
 (snippet of original readme)  
   
 -- Adafruit DS1841 I2C Logarithmic Potentiometer PCB  

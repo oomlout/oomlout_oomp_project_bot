@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tng-base-usb-c  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_tng_base_usb_c  
 (snippet of original readme)  
   
   

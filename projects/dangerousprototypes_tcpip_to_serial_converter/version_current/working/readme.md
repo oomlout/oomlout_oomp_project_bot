@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TCPIP-to-serial-converter  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_tcpip_to_serial_converter  
 (snippet of original readme)  
   
   

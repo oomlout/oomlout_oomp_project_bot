@@ -1,6 +1,7 @@
 # OOMP Project  
 ## S1G-Mod  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_s1g_mod  
 (snippet of original readme)  
   
 - S1G-Mod  

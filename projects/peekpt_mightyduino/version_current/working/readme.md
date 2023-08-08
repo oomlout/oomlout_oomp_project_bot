@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mightyduino  by peekpt  
   
+oomp key: oomp_projects_flat_peekpt_mightyduino  
 (snippet of original readme)  
   
 -- Mightyduino  

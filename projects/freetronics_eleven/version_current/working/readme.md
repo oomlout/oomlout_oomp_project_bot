@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Eleven  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_eleven  
 (snippet of original readme)  
   
 Freetronics Eleven R3  

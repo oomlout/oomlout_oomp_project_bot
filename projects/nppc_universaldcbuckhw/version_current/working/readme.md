@@ -1,6 +1,7 @@
 # OOMP Project  
 ## UniversalDCBuckHW  by nppc  
   
+oomp key: oomp_projects_flat_nppc_universaldcbuckhw  
 (snippet of original readme)  
   
 - UniversalDCBuckHW  

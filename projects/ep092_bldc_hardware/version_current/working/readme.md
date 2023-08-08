@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bldc-hardware  by ep092  
   
+oomp key: oomp_projects_flat_ep092_bldc_hardware  
 (snippet of original readme)  
   
 VESC – Open Source ESC  

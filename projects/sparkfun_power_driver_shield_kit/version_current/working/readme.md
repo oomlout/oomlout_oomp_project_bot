@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Power_Driver_Shield_Kit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_power_driver_shield_kit  
 (snippet of original readme)  
   
 SparkFun Power Driver Shield Kit  

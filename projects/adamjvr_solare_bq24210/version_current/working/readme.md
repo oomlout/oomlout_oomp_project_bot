@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Solare-BQ24210  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_solare_bq24210  
 (snippet of original readme)  
   
 - Solare-BQ24210  

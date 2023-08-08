@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pi_Wedge  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_pi_wedge  
 (snippet of original readme)  
   
 **NOTE:** *This product has been retired from our catalog. For the latest version, check out [BOB-13717](https://www.sparkfun.com/products/13717).*  

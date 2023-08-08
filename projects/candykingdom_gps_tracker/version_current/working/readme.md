@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gps-tracker  by candykingdom  
   
+oomp key: oomp_projects_flat_candykingdom_gps_tracker  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_particle  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_particle  
 (snippet of original readme)  
   
 SparkFun gator:particle - micro:bit Accessory Board  

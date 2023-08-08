@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LTR-329-LTR-303-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ltr_329_ltr_303_pcb  
 (snippet of original readme)  
   
 -- Adafruit LTR-329 and LTR-303 Light Sensor PCBs  

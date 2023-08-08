@@ -1,6 +1,7 @@
 # OOMP Project  
 ## UPDI-USB-SERIAL  by rocketscream  
   
+oomp key: oomp_projects_flat_rocketscream_updi_usb_serial  
 (snippet of original readme)  
   
 - UPDI-USB-SERIAL  

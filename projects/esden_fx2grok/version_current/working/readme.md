@@ -1,6 +1,7 @@
 # OOMP Project  
 ## fx2grok  by esden  
   
+oomp key: oomp_projects_flat_esden_fx2grok  
 (snippet of original readme)  
   
   

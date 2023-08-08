@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mppt-2420-rc  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_mppt_2420_rc  
 (snippet of original readme)  
   
 - MPPT charge controller for DIN rail mounting  

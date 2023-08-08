@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Cellular-Notecarrier  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_cellular_notecarrier  
 (snippet of original readme)  
   
 SparkFun Qwiic Cellular Notecarrier - Blues Wireless  

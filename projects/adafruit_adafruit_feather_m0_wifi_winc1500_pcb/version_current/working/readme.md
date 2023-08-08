@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-M0-WiFi-WINC1500-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_m0_wifi_winc1500_pcb  
 (snippet of original readme)  
   
 - Adafruit-Feather-M0-WiFi-WINC1500-PCB  

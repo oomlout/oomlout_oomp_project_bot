@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SakuraIoT-Kicad-Module  by Kazu-zamasu  
   
+oomp key: oomp_projects_flat_kazu_zamasu_sakuraiot_kicad_module  
 (snippet of original readme)  
   
   

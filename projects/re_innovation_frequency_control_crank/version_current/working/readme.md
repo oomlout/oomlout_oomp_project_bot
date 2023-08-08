@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Frequency_Control_Crank  by re-innovation  
   
+oomp key: oomp_projects_flat_re_innovation_frequency_control_crank  
 (snippet of original readme)  
   
 - Frequency_Control_Crank  

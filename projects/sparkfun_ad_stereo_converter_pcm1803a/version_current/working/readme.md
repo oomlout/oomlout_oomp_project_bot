@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AD_Stereo_Converter-PCM1803A  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ad_stereo_converter_pcm1803a  
 (snippet of original readme)  
   
 SparkFun Analog to Digital Stereo Converter Breakout - PCM1803A  

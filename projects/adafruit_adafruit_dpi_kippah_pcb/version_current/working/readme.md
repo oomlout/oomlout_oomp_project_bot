@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DPI-Kippah-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_dpi_kippah_pcb  
 (snippet of original readme)  
   
 -- Adafruit DPI Kippah PCB  

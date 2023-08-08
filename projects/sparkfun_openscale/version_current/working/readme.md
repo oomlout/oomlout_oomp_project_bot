@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OpenScale  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_openscale  
 (snippet of original readme)  
   
 SparkFun OpenScale  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hmo_pcb_backlight  by realthunder  
   
+oomp key: oomp_projects_flat_realthunder_hmo_pcb_backlight  
 (snippet of original readme)  
   
   

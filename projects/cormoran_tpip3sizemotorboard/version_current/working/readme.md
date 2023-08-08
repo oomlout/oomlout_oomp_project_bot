@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TPIP3SizeMotorBoard  by cormoran  
   
+oomp key: oomp_projects_flat_cormoran_tpip3sizemotorboard  
 (snippet of original readme)  
   
 - TPIP3SizeMotorBoard  

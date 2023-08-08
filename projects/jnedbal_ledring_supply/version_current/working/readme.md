@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LEDring_supply  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_ledring_supply  
 (snippet of original readme)  
   
   

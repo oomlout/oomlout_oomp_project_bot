@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TPL5111-Reset-Enable-Timer-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tpl5111_reset_enable_timer_pcb  
 (snippet of original readme)  
   
 -- Adafruit TPL5111 Reset Enable Timer PCB  

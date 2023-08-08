@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MP3_Player_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mp3_player_shield  
 (snippet of original readme)  
   
 SparkFun MP3 Player Shield  

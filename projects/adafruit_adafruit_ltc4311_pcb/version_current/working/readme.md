@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LTC4311-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ltc4311_pcb  
 (snippet of original readme)  
   
 -- Adafruit LTC4311 I2C Extender / Active Terminator PCB  

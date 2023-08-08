@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ElectronicCats-KiCad-Libraries  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_electroniccats_kicad_libraries  
 (snippet of original readme)  
   
 <a href="https://electroniccats.com/blog/apoya-el-hardware-libre-con-github-sponsors/">  

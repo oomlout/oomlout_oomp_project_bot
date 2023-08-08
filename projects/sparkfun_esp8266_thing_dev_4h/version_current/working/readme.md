@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP8266_Thing_Dev_4H  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_esp8266_thing_dev_4h  
 (snippet of original readme)  
   
 SparkFun ESP8266 Thing Development Board - 4H National Youth Science Day Version  

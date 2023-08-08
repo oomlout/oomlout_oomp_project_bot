@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Arduino_USB  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_arduino_usb  
 (snippet of original readme)  
   
 LilyPad Arduino USB  

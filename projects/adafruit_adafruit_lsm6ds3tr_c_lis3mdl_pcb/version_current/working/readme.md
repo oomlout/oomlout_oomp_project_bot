@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LSM6DS3TR-C-LIS3MDL-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lsm6ds3tr_c_lis3mdl_pcb  
 (snippet of original readme)  
   
 -- Adafruit LSM6DS3TR-C + LIS3MDL  - Precision 9 DoF IMU - STEMMA QT / Qwiic PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ADC-PCM4202  by ohdsp  
   
+oomp key: oomp_projects_flat_ohdsp_adc_pcm4202  
 (snippet of original readme)  
   
 - [Open Hardware DSP Platform](http://www.ohdsp.org)  

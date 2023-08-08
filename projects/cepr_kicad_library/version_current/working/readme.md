@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by cepr  
   
+oomp key: oomp_projects_flat_cepr_kicad_library  
 (snippet of original readme)  
   
 KiCad Library  

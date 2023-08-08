@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX_smol_ESP32  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_smol_esp32  
 (snippet of original readme)  
   
 - SparkX smôl ESP32  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AVR_Programming_Adapter  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_avr_programming_adapter  
 (snippet of original readme)  
   
 **NOTE:** *This product has been retired from our catalog. We recommmend using the [SparkFun ISP Pogo Adapter](https://www.sparkfun.com/products/11591) as an alternative. If you are looking for more up-to-date info, please check out thef ollowing resource to see how other users are still hacking and improving on this product.*  

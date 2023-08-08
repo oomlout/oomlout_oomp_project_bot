@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Ringo  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_ringo  
 (snippet of original readme)  
   
   

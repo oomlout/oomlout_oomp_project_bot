@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Photon_Battery_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_photon_battery_shield  
 (snippet of original readme)  
   
 SparkFun Photon Battery Shield  

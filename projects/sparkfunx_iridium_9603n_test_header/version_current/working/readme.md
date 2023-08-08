@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Iridium_9603N_Test_Header  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_iridium_9603n_test_header  
 (snippet of original readme)  
   
 - Iridium 9603N Test Header  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_E-Sewing_Kit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_e_sewing_kit  
 (snippet of original readme)  
   
 Lilypad E-Sewing ProtoSnap  

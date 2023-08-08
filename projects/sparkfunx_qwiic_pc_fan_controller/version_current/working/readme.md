@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_PC_Fan_Controller  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_pc_fan_controller  
 (snippet of original readme)  
   
 Qwiic PC Fan Controller  

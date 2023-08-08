@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Digital_Temperature_Sensor_Breakout_-_TMP102  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_digital_temperature_sensor_breakout_tmp102  
 (snippet of original readme)  
   
 Digital Temperature Sensor Breakout - TMP102  

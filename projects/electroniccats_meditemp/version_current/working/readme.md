@@ -1,6 +1,7 @@
 # OOMP Project  
 ## meditemp  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_meditemp  
 (snippet of original readme)  
   
 - MediTemp  

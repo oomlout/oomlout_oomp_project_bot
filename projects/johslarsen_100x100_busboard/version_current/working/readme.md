@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 100x100_busboard  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_100x100_busboard  
 (snippet of original readme)  
   
   

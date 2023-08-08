@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-M0-Bluefruit-LE-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_m0_bluefruit_le_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather M0 Bluefruit LE PCB  

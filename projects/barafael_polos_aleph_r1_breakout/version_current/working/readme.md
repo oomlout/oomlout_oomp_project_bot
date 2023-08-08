@@ -1,6 +1,7 @@
 # OOMP Project  
 ## polos-aleph-r1-breakout  by barafael  
   
+oomp key: oomp_projects_flat_barafael_polos_aleph_r1_breakout  
 (snippet of original readme)  
   
 - polos-aleph-r1-breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Central-Command  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_central_command  
 (snippet of original readme)  
   
   

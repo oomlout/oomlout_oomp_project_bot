@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Minibot  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_minibot  
 (snippet of original readme)  
   
 - Minibot  

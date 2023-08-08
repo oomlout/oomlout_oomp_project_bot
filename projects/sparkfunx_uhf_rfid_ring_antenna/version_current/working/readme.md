@@ -1,6 +1,7 @@
 # OOMP Project  
 ## UHF_RFID_Ring_Antenna  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_uhf_rfid_ring_antenna  
 (snippet of original readme)  
   
 UHF RFID Ring Antenna  

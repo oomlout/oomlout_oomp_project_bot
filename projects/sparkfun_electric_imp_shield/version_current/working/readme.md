@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Electric_Imp_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_electric_imp_shield  
 (snippet of original readme)  
   
 Electric Imp Shield  

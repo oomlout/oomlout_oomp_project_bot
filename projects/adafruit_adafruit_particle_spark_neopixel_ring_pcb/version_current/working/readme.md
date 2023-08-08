@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Particle-Spark-Neopixel-Ring-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_particle_spark_neopixel_ring_pcb  
 (snippet of original readme)  
   
 -- Adafruit Particle Spark Neopixel Ring PCB  

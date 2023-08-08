@@ -1,6 +1,7 @@
 # OOMP Project  
 ## one-wire-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_one_wire_bricklet  
 (snippet of original readme)  
   
   

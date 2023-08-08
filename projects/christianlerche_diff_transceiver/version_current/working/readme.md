@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Diff_transceiver  by ChristianLerche  
   
+oomp key: oomp_projects_flat_christianlerche_diff_transceiver  
 (snippet of original readme)  
   
   

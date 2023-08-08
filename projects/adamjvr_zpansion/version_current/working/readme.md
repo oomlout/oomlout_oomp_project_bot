@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ZPansion  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_zpansion  
 (snippet of original readme)  
   
 - ZPansion  

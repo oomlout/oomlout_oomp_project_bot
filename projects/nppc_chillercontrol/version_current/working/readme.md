@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ChillerControl  by nppc  
   
+oomp key: oomp_projects_flat_nppc_chillercontrol  
 (snippet of original readme)  
   
   

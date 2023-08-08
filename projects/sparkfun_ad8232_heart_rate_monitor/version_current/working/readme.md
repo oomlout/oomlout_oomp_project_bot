@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AD8232_Heart_Rate_Monitor  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ad8232_heart_rate_monitor  
 (snippet of original readme)  
   
 SparkFun AD8232 Single Lead Heart Rate Monitor  

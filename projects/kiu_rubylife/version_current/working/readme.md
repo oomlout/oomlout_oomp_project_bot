@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rubylife  by kiu  
   
+oomp key: oomp_projects_flat_kiu_rubylife  
 (snippet of original readme)  
   
 - rubylife  

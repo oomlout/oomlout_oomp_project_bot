@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PCF8591-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pcf8591_pcb  
 (snippet of original readme)  
   
 -- Adafruit PCF8591 ADC+DAC PCB  

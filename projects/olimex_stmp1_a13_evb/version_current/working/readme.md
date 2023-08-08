@@ -1,6 +1,7 @@
 # OOMP Project  
 ## STMP1-A13-EVB  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_stmp1_a13_evb  
 (snippet of original readme)  
   
 - STMP1-A13-EVB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## industrial-push-pull-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_industrial_push_pull_bricklet  
 (snippet of original readme)  
   
   

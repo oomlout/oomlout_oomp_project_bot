@@ -1,6 +1,7 @@
 # OOMP Project  
 ## netmeter  by kiu  
   
+oomp key: oomp_projects_flat_kiu_netmeter  
 (snippet of original readme)  
   
 - netmeter  

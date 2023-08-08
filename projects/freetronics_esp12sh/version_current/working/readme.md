@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP12SH  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_esp12sh  
 (snippet of original readme)  
   
 Freetronics ESP8266 / ESP-12 (WiFi) Breakout Shield  

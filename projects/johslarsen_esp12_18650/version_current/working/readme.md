@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP12_18650  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_esp12_18650  
 (snippet of original readme)  
   
 - ESP12-18650  

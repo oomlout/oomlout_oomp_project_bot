@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tekcaps  by peekpt  
   
+oomp key: oomp_projects_flat_peekpt_tekcaps  
 (snippet of original readme)  
   
 - tekcaps  

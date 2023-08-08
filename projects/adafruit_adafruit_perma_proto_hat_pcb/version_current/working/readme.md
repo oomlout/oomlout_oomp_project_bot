@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Perma-Proto-HAT-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_perma_proto_hat_pcb  
 (snippet of original readme)  
   
 - Adafruit Perma-Proto HAT for Raspberry Pi Computers  

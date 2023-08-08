@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MiP_Proto-Back  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mip_proto_back  
 (snippet of original readme)  
   
 MiP_Proto-Pack  

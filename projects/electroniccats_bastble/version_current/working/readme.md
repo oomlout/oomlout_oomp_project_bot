@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BastBLE  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_bastble  
 (snippet of original readme)  
   
 - Bast BLE  

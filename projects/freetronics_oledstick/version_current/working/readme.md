@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OLEDSTICK  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_oledstick  
 (snippet of original readme)  
   
   

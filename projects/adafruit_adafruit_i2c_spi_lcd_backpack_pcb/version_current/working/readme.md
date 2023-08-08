@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-I2C-SPI-LCD-Backpack-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_i2c_spi_lcd_backpack_pcb  
 (snippet of original readme)  
   
 - i2c / SPI character LCD backpack  

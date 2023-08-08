@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pi-shield  by cvra  
   
+oomp key: oomp_projects_flat_cvra_pi_shield  
 (snippet of original readme)  
   
 - CVRA CAN Raspberry Pi Shield  

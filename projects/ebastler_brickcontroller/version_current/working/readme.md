@@ -1,6 +1,7 @@
 # OOMP Project  
 ## brickcontroller  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_brickcontroller  
 (snippet of original readme)  
   
 - brickcontroller  

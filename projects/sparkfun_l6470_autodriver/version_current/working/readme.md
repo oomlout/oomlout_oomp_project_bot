@@ -1,6 +1,7 @@
 # OOMP Project  
 ## L6470-AutoDriver  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_l6470_autodriver  
 (snippet of original readme)  
   
 SparkFun AutoDriver - Stepper Motor Driver  

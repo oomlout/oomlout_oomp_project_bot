@@ -1,6 +1,7 @@
 # OOMP Project  
 ## colorchord  by fruchti  
   
+oomp key: oomp_projects_flat_fruchti_colorchord  
 (snippet of original readme)  
   
 ColorChord  

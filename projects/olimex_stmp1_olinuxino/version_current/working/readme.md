@@ -1,6 +1,7 @@
 # OOMP Project  
 ## STMP1-OLinuXino  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_stmp1_olinuxino  
 (snippet of original readme)  
   
 - STMP1-OLinuXino  

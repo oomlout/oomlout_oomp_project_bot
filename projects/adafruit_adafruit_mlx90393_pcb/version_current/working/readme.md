@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MLX90393-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mlx90393_pcb  
 (snippet of original readme)  
   
 -- Adafruit Wide-Range Triple-axis Magnetometer - MLX90393 PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## USB-GIGABIT  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_usb_gigabit  
 (snippet of original readme)  
   
 - USB-GIGABIT  

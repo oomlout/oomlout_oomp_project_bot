@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-RGB-LCD-shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_rgb_lcd_shield_pcb  
 (snippet of original readme)  
   
 - RGB LCD Shield Kit  

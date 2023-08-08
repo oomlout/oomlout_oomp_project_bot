@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OLINUXINO  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_olinuxino  
 (snippet of original readme)  
   
   

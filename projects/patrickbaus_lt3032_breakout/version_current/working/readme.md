@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LT3032_breakout  by PatrickBaus  
   
+oomp key: oomp_projects_flat_patrickbaus_lt3032_breakout  
 (snippet of original readme)  
   
 LT3032  

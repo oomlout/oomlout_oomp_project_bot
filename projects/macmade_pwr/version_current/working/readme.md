@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PWR  by macmade  
   
+oomp key: oomp_projects_flat_macmade_pwr  
 (snippet of original readme)  
   
 PWR  

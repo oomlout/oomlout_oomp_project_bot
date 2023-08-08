@@ -1,6 +1,7 @@
 # OOMP Project  
 ## A45-Keyboard  by TahuTech  
   
+oomp key: oomp_projects_flat_tahutech_a45_keyboard  
 (snippet of original readme)  
   
 - A45-Keyboard  

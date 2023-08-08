@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OpAmp_Breakout-LMV358  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_opamp_breakout_lmv358  
 (snippet of original readme)  
   
 SparkFun OpAmp Breakout - LMV358  

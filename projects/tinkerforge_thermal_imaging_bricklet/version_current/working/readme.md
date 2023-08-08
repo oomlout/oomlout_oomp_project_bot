@@ -1,6 +1,7 @@
 # OOMP Project  
 ## thermal-imaging-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_thermal_imaging_bricklet  
 (snippet of original readme)  
   
   

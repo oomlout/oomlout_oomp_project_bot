@@ -1,6 +1,7 @@
 # OOMP Project  
 ## usb-probe-board  by JonasNorling  
   
+oomp key: oomp_projects_flat_jonasnorling_usb_probe_board  
 (snippet of original readme)  
   
   

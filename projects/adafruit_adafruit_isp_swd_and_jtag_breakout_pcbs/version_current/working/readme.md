@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_isp_swd_and_jtag_breakout_pcbs  
 (snippet of original readme)  
   
 -- Adafruit SWD and JTAG Breakout PCBs  

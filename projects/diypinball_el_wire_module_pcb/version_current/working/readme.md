@@ -1,6 +1,7 @@
 # OOMP Project  
 ## el-wire-module-pcb  by diypinball  
   
+oomp key: oomp_projects_flat_diypinball_el_wire_module_pcb  
 (snippet of original readme)  
   
 - el-wire-module-pcb  

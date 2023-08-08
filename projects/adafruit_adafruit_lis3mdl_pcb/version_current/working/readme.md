@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LIS3MDL-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lis3mdl_pcb  
 (snippet of original readme)  
   
 -- Adafruit LIS3MDL Triple-axis Magnetometer PCB  

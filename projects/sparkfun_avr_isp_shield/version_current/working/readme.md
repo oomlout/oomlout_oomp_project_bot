@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AVR_ISP_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_avr_isp_shield  
 (snippet of original readme)  
   
 SparkFun AVR ISP Shield  

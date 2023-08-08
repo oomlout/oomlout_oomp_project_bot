@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MoonLander  by graycatlabs  
   
+oomp key: oomp_projects_flat_graycatlabs_moonlander  
 (snippet of original readme)  
   
 - MoonLander  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DynamixelShield  by descampsa  
   
+oomp key: oomp_projects_flat_descampsa_dynamixelshield  
 (snippet of original readme)  
   
 - Dynamixel shield  

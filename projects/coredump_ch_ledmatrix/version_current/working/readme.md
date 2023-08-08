@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ledmatrix  by coredump-ch  
   
+oomp key: oomp_projects_flat_coredump_ch_ledmatrix  
 (snippet of original readme)  
   
   

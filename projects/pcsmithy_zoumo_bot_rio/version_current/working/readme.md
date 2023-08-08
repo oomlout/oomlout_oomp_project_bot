@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Zoumo-Bot-Rio  by PCSmithy  
   
+oomp key: oomp_projects_flat_pcsmithy_zoumo_bot_rio  
 (snippet of original readme)  
   
 - Zoumo-Bot-Rio  

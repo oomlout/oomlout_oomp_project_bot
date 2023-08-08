@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HierPlace  by devbisme  
   
+oomp key: oomp_projects_flat_devbisme_hierplace  
 (snippet of original readme)  
   
   

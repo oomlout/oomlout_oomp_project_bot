@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Bluefruit-Classic-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bluefruit_classic_pcbs  
 (snippet of original readme)  
   
 -- Bluefruit EZ-Link - Bluetooth Serial Link & Arduino Programmer - v1.3 PCBs (Discontinued)  

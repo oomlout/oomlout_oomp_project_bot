@@ -1,6 +1,7 @@
 # OOMP Project  
 ## type-c_plug_cp2102  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_type_c_plug_cp2102  
 (snippet of original readme)  
   
 - CP2102 USB to Serial/UART with USB Type-C Plug  

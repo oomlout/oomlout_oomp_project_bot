@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Photodetector_2stage_OPA818  by aewallin  
   
+oomp key: oomp_projects_flat_aewallin_photodetector_2stage_opa818  
 (snippet of original readme)  
   
 - Photodetector_2stage_OPA818  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PCT2075-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pct2075_pcb  
 (snippet of original readme)  
   
 -- Adafruit PCT2075 Temperature Sensor PCB  

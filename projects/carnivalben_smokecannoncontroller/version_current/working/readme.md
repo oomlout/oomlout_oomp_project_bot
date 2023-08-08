@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SmokeCannonController  by CarnivalBen  
   
+oomp key: oomp_projects_flat_carnivalben_smokecannoncontroller  
 (snippet of original readme)  
   
 - SmokeCannonController  

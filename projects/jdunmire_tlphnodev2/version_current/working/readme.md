@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TLPHnodeV2  by jdunmire  
   
+oomp key: oomp_projects_flat_jdunmire_tlphnodev2  
 (snippet of original readme)  
   
 TLPHnodeV2  

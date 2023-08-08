@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kbpcb  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_kbpcb  
 (snippet of original readme)  
   
 - MrKeebs PCB Generator   

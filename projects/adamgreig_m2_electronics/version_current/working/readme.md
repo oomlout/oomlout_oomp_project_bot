@@ -1,6 +1,7 @@
 # OOMP Project  
 ## m2-electronics  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_m2_electronics  
 (snippet of original readme)  
   
 - Martlet 2 Flight Computers  

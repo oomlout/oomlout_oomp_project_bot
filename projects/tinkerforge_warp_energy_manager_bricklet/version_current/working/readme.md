@@ -1,6 +1,7 @@
 # OOMP Project  
 ## warp-energy-manager-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_warp_energy_manager_bricklet  
 (snippet of original readme)  
   
   

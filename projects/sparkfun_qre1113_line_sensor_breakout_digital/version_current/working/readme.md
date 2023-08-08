@@ -1,6 +1,7 @@
 # OOMP Project  
 ## QRE1113_Line_Sensor_Breakout-Digital  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qre1113_line_sensor_breakout_digital  
 (snippet of original readme)  
   
 SparkFun Line Sensor Breakout - QRE1113 (Digital)  

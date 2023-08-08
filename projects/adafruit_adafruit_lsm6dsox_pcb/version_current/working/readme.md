@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LSM6DSOX-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lsm6dsox_pcb  
 (snippet of original readme)  
   
 -- Adafruit LSM6DSOX 6-DoF Accelerometer and Gyro PCB  

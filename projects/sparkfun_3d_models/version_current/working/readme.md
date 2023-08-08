@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 3D_Models  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_3d_models  
 (snippet of original readme)  
   
 3D Models for SparkFun Products!  

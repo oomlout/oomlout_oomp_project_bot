@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pullometer  by pbrook  
   
+oomp key: oomp_projects_flat_pbrook_pullometer  
 (snippet of original readme)  
   
   

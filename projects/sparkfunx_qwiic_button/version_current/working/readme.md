@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Button  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_button  
 (snippet of original readme)  
   
 SparkFun Qwiic Button  

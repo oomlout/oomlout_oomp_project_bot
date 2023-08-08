@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 5670-6922-adapter  by ai03-2725  
   
+oomp key: oomp_projects_flat_ai03_2725_5670_6922_adapter  
 (snippet of original readme)  
   
 - 5670-6922-adapter  

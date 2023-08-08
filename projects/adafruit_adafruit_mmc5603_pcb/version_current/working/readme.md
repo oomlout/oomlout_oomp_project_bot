@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MMC5603-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mmc5603_pcb  
 (snippet of original readme)  
   
 -- Adafruit MMC5603 Triple-axis Magnetometer PCB  

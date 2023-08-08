@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MKR_shield_template  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_mkr_shield_template  
 (snippet of original readme)  
   
 - MKR Shield Template  

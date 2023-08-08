@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_UART_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_uart_block  
 (snippet of original readme)  
   
 SparkFun Edison UART Block  

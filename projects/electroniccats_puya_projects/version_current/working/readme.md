@@ -1,6 +1,7 @@
 # OOMP Project  
 ## puya-projects  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_puya_projects  
 (snippet of original readme)  
   
   

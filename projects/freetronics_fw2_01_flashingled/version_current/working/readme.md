@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FW2-01-FlashingLED  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_fw2_01_flashingled  
 (snippet of original readme)  
   
 Flashing LED  

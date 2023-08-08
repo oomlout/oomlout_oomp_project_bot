@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mini_FET_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mini_fet_shield  
 (snippet of original readme)  
   
 SparkFun Mini FET Shield  

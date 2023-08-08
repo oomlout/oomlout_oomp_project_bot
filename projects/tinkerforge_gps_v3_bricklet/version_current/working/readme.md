@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gps-v3-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_gps_v3_bricklet  
 (snippet of original readme)  
   
   

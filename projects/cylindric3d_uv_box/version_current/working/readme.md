@@ -1,6 +1,7 @@
 # OOMP Project  
 ## uv-box  by Cylindric3D  
   
+oomp key: oomp_projects_flat_cylindric3d_uv_box  
 (snippet of original readme)  
   
 Note that documentation and schematics are also available as images in the [GitHub Pages](https://cylindric3d.github.io/uv-box/) site for this project.  

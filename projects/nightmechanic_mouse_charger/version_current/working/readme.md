@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mouse-charger  by nightmechanic  
   
+oomp key: oomp_projects_flat_nightmechanic_mouse_charger  
 (snippet of original readme)  
   
 - Mouse-charger  

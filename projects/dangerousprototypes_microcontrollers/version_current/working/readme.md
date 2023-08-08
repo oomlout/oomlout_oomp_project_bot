@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Microcontrollers  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_microcontrollers  
 (snippet of original readme)  
   
   

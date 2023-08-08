@@ -1,6 +1,7 @@
 # OOMP Project  
 ## motorized-linear-poti-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_motorized_linear_poti_bricklet  
 (snippet of original readme)  
   
   

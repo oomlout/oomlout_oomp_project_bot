@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cringe65  by notsockx  
   
+oomp key: oomp_projects_flat_notsockx_cringe65  
 (snippet of original readme)  
   
 - cringe65  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mono_Audio_Amp_Breakout-TPA2005D1  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mono_audio_amp_breakout_tpa2005d1  
 (snippet of original readme)  
   
 SparkFun Mono Audio Amp Breakout - TPA2005D1  

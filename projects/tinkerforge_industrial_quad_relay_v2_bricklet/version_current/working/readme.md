@@ -1,6 +1,7 @@
 # OOMP Project  
 ## industrial-quad-relay-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_industrial_quad_relay_v2_bricklet  
 (snippet of original readme)  
   
   

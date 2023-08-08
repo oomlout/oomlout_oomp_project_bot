@@ -1,6 +1,7 @@
 # OOMP Project  
 ## stepper-brick  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_stepper_brick  
 (snippet of original readme)  
   
   

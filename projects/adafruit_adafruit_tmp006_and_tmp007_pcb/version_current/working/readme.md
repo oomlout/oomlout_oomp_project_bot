@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TMP006-and-TMP007-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tmp006_and_tmp007_pcb  
 (snippet of original readme)  
   
 - Adafruit TMP006 and TMP007 PCBs  

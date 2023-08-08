@@ -1,6 +1,7 @@
 # OOMP Project  
 ## j0xx  by jakobkg  
   
+oomp key: oomp_projects_flat_jakobkg_j0xx  
 (snippet of original readme)  
   
 - j0xx  

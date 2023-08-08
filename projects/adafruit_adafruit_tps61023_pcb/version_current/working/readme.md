@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TPS61023-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tps61023_pcb  
 (snippet of original readme)  
   
 -- Adafruit Adafruit MiniBoost 5V at 1A - TPS61023 PCB  

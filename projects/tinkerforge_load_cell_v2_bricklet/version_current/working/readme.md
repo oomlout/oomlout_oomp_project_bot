@@ -1,6 +1,7 @@
 # OOMP Project  
 ## load-cell-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_load_cell_v2_bricklet  
 (snippet of original readme)  
   
   

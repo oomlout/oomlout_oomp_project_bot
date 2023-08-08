@@ -1,6 +1,7 @@
 # OOMP Project  
 ## temperature-ir-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_temperature_ir_bricklet  
 (snippet of original readme)  
   
   

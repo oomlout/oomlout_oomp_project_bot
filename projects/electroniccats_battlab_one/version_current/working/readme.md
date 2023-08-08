@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Battlab-One  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_battlab_one  
 (snippet of original readme)  
   
 - BattLab-One  

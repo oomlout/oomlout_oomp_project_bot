@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BCN3DSigma-Electronics  by BCN3D  
   
+oomp key: oomp_projects_flat_bcn3d_bcn3dsigma_electronics  
 (snippet of original readme)  
   
 [![Gitter](https://badges.gitter.im/BCN3D/BCN3DSigma-Electronics.svg)](https://gitter.im/BCN3D/BCN3DSigma-Electronics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  

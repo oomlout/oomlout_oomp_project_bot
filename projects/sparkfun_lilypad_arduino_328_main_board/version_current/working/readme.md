@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Arduino_328_Main_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_arduino_328_main_board  
 (snippet of original readme)  
   
 SparkFun LilyPad Arduino 328 Main Board  

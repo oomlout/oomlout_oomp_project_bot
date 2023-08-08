@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BB-ADS1220  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_bb_ads1220  
 (snippet of original readme)  
   
 - BB-ADS1220  

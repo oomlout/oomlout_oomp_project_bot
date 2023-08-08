@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Standalone-Capacitive-Sensor-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_standalone_capacitive_sensor_pcb  
 (snippet of original readme)  
   
 - Adafruit Standalone Capacitive Sensor PCBs  

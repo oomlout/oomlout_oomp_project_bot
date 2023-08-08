@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PiBot  by TDHolmes  
   
+oomp key: oomp_projects_flat_tdholmes_pibot  
 (snippet of original readme)  
   
 - PiBot  

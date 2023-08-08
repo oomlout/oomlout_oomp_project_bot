@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ClimateSprinklerController  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_climatesprinklercontroller  
 (snippet of original readme)  
   
 - kbx's Climate and Sprinkler Controller  

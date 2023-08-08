@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rs485-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_rs485_bricklet  
 (snippet of original readme)  
   
   

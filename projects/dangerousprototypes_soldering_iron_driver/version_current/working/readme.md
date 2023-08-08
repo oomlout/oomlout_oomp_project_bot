@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Soldering-Iron-Driver  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_soldering_iron_driver  
 (snippet of original readme)  
   
   

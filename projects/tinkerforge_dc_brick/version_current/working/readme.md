@@ -1,6 +1,7 @@
 # OOMP Project  
 ## dc-brick  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_dc_brick  
 (snippet of original readme)  
   
   

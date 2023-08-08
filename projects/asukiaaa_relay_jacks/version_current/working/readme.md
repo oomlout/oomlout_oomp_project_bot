@@ -1,6 +1,7 @@
 # OOMP Project  
 ## relay_jacks  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_relay_jacks  
 (snippet of original readme)  
   
 - relay_jacks  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ledeaf  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_ledeaf  
 (snippet of original readme)  
   
 - LEDEAF  

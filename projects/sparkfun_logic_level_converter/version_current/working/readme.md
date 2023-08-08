@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Logic_Level_Converter  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_logic_level_converter  
 (snippet of original readme)  
   
 **NOTE:** *This product has been retired from our catalog. For a more up-to-date version, try looking at the [bi-directional logic level converter](https://www.sparkfun.com/products/12009).*  

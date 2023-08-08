@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Proximity-Trinkey-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_proximity_trinkey_pcb  
 (snippet of original readme)  
   
 -- Adafruit Proximity Trinkey PCB  

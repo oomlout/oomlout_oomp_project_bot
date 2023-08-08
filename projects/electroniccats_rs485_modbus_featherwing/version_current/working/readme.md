@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RS485_Modbus_FeatherWing  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_rs485_modbus_featherwing  
 (snippet of original readme)  
   
 - RS485 Modbus FeatherWing  

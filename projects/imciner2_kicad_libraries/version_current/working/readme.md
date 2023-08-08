@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCad-Libraries  by imciner2  
   
+oomp key: oomp_projects_flat_imciner2_kicad_libraries  
 (snippet of original readme)  
   
 - KiCad Libraries  

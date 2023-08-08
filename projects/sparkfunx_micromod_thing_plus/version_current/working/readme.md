@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Thing_Plus  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_micromod_thing_plus  
 (snippet of original readme)  
   
   

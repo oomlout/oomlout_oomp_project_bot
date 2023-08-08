@@ -1,6 +1,7 @@
 # OOMP Project  
 ## industrial-digital-out-hs-4-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_industrial_digital_out_hs_4_bricklet  
 (snippet of original readme)  
   
   

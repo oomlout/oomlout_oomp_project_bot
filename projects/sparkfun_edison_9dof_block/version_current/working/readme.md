@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_9DOF_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_9dof_block  
 (snippet of original readme)  
   
 SparkFun Edison 9 Degrees of Freedom  

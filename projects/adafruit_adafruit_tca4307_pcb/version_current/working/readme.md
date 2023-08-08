@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TCA4307-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tca4307_pcb  
 (snippet of original readme)  
   
 -- Adafruit TCA4307 Hot-Swap I2C Buffer with Stuck Bus Recovery PCB  

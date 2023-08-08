@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HBridge  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_hbridge  
 (snippet of original readme)  
   
   

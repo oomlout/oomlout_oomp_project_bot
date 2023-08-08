@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ADA4898_LNA  by aewallin  
   
+oomp key: oomp_projects_flat_aewallin_ada4898_lna  
 (snippet of original readme)  
   
 - ADA4898_LNA  

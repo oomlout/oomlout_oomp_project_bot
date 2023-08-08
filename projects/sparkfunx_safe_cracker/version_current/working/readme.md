@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Safe_Cracker  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_safe_cracker  
 (snippet of original readme)  
   
 SparkFun Safe Cracker  

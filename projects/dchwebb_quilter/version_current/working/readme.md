@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Quilter  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_quilter  
 (snippet of original readme)  
   
 - Quilter  

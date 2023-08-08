@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FT245RL_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ft245rl_breakout  
 (snippet of original readme)  
   
 SparkFun USB to FIFO- FT245RL Breakout  

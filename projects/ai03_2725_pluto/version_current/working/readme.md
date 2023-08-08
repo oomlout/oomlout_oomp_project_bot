@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pluto  by ai03-2725  
   
+oomp key: oomp_projects_flat_ai03_2725_pluto  
 (snippet of original readme)  
   
 - Pluto  

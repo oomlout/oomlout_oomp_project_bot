@@ -1,6 +1,7 @@
 # OOMP Project  
 ## P0wArduino  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_p0warduino  
 (snippet of original readme)  
   
 - P0wArduino  

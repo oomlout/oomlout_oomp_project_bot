@@ -1,6 +1,7 @@
 # OOMP Project  
 ## USB_IR_Toy_shield  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_usb_ir_toy_shield  
 (snippet of original readme)  
   
   

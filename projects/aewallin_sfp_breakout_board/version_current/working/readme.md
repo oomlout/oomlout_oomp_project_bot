@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SFP-Breakout-Board  by aewallin  
   
+oomp key: oomp_projects_flat_aewallin_sfp_breakout_board  
 (snippet of original readme)  
   
 - SFP-Breakout-Board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Grand-Central-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_grand_central_pcb  
 (snippet of original readme)  
   
 -- Adafruit Grand Central M4 Express featuring the SAMD51 PCB  

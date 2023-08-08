@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PicoWAN  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_picowan  
 (snippet of original readme)  
   
 - PicoWAN  

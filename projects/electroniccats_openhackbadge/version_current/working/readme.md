@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OpenHackBadge  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_openhackbadge  
 (snippet of original readme)  
   
 - Badge OpenHack Guatemala  

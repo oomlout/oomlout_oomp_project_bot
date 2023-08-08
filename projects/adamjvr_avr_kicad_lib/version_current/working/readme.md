@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AVR-KiCAD-Lib  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_avr_kicad_lib  
 (snippet of original readme)  
   
 - AVR-KiCAD-Lib  

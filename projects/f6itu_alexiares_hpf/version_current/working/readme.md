@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Alexiares_HPF  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_alexiares_hpf  
 (snippet of original readme)  
   
 - Alexiares_HPF  

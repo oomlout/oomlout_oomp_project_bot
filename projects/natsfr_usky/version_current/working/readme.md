@@ -1,6 +1,7 @@
 # OOMP Project  
 ## usky  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_usky  
 (snippet of original readme)  
   
 - usky  

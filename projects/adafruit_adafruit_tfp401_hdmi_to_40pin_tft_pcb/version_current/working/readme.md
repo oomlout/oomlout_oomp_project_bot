@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tfp401_hdmi_to_40pin_tft_pcb  
 (snippet of original readme)  
   
 -- Adafruit TFP401 HDMI Decoder Breakout PCB  

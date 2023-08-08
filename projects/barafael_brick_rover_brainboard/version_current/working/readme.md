@@ -1,6 +1,7 @@
 # OOMP Project  
 ## brick-rover-brainboard  by barafael  
   
+oomp key: oomp_projects_flat_barafael_brick_rover_brainboard  
 (snippet of original readme)  
   
 - brick-rover-brainboard  

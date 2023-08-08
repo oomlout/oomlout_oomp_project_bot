@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Airlift-Bitsy-Add-On-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_airlift_bitsy_add_on_pcb  
 (snippet of original readme)  
   
 -- Adafruit Adafruit Airlift Bitsy Add-On PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LEDBoard_4x4_HD  by s-light  
   
+oomp key: oomp_projects_flat_s_light_ledboard_4x4_hd  
 (snippet of original readme)  
   
 <!--lint disable list-item-indent-->  

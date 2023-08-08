@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IMU_Digital_Combo_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_imu_digital_combo_board  
 (snippet of original readme)  
   
 IMU Digital Combo Board-6 Degrees of Freedom-ITG3200/ADXL345  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-QT-3V-to-5V-Level-Booster-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_qt_3v_to_5v_level_booster_pcb  
 (snippet of original readme)  
   
 -- Adafruit QT 3V to 5V Level Booster Breakout - STEMMA QT / Qwiic PCB  

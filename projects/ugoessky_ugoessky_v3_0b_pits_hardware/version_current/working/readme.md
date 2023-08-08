@@ -1,6 +1,7 @@
 # OOMP Project  
 ## UgoesSky-V3.0b-PITS-Hardware  by UgoesSky  
   
+oomp key: oomp_projects_flat_ugoessky_ugoessky_v3_0b_pits_hardware  
 (snippet of original readme)  
   
 - UgoesSky-V3.0b-PITS-Hardware  

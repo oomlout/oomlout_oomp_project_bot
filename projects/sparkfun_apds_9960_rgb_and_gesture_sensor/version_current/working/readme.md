@@ -1,6 +1,7 @@
 # OOMP Project  
 ## APDS-9960_RGB_and_Gesture_Sensor  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_apds_9960_rgb_and_gesture_sensor  
 (snippet of original readme)  
   
 SparkFun APDS-9960 RGB and Gesture Sensor  

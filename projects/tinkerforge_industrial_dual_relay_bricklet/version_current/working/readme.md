@@ -1,6 +1,7 @@
 # OOMP Project  
 ## industrial-dual-relay-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_industrial_dual_relay_bricklet  
 (snippet of original readme)  
   
   

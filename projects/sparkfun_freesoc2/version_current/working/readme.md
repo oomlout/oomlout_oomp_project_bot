@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FreeSoc2  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_freesoc2  
 (snippet of original readme)  
   
 SparkFun FreeSoc2  

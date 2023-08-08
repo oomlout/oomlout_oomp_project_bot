@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoPXL8-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neopxl8_pcbs  
 (snippet of original readme)  
   
 -- Adafruit NeoPXL8 Friend and FeatherWing PCB  

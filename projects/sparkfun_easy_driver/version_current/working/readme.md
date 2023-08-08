@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Easy_Driver  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_easy_driver  
 (snippet of original readme)  
   
 Easy Driver  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## arinc429-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_arinc429_bricklet  
 (snippet of original readme)  
   
   

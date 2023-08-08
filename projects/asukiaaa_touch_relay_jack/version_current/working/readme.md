@@ -1,6 +1,7 @@
 # OOMP Project  
 ## touch_relay_jack  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_touch_relay_jack  
 (snippet of original readme)  
   
 - touch_relay_jack  

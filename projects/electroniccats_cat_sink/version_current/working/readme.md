@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Cat-Sink  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_cat_sink  
 (snippet of original readme)  
   
 - CatSink - USB power supply with PD  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BreadBoardSynthDevelopmentUtilities  by AkiyukiOkayasu  
   
+oomp key: oomp_projects_flat_akiyukiokayasu_breadboardsynthdevelopmentutilities  
 (snippet of original readme)  
   
 - BreadBoardSynthDevelopmentUtilities    

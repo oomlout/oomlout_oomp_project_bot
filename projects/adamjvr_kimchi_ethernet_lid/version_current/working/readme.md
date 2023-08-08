@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kimchi-ethernet-lid  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_kimchi_ethernet_lid  
 (snippet of original readme)  
   
 - kimchi-ethernet-lid  

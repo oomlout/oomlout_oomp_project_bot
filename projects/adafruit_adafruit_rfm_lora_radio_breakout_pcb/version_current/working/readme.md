@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-RFM-LoRa-Radio-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_rfm_lora_radio_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit RFM LoRa Radio Breakout PCB  

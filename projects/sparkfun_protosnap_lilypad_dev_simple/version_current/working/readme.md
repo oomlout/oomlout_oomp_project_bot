@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ProtoSnap-LilyPad_Dev_Simple  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_protosnap_lilypad_dev_simple  
 (snippet of original readme)  
   
 SparkFun ProtoSnap - LilyPad Development Simple  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Bluefruit-LE-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bluefruit_le_shield_pcb  
 (snippet of original readme)  
   
 -- Adafruit Bluefruit LE Shield PCB  

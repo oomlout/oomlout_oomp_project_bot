@@ -1,6 +1,7 @@
 # OOMP Project  
 ## oshcamp23-badge  by electrolama  
   
+oomp key: oomp_electrolama_oshcamp23_badge  
 (snippet of original readme)  
   
 - oshcamp23-badge  

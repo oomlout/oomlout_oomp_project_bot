@@ -1,6 +1,7 @@
 # OOMP Project  
 ## altESProg  by altLab  
   
+oomp key: oomp_projects_flat_altlab_altesprog  
 (snippet of original readme)  
   
 - ESP8266 11-11-2016  

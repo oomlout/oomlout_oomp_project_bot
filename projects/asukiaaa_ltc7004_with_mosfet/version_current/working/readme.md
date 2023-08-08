@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LTC7004-with-mosfet  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_ltc7004_with_mosfet  
 (snippet of original readme)  
   
 - LTC7004-with-MOSFET  

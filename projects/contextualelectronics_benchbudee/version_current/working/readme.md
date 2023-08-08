@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BenchBudEE  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_benchbudee  
 (snippet of original readme)  
   
 BenchBuddy  

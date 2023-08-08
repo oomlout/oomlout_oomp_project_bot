@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-RGB-Matrix-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_rgb_matrix_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit RGB Matrix Featherwing Kit PCB - For M0 and M4 Feathers  

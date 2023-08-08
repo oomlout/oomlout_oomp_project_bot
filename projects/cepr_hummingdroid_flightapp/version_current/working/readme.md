@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hummingdroid-flightapp  by cepr  
   
+oomp key: oomp_projects_flat_cepr_hummingdroid_flightapp  
 (snippet of original readme)  
   
   

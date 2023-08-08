@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RedBoard_Edge  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_redboard_edge  
 (snippet of original readme)  
   
 - RedBoard_Edge  

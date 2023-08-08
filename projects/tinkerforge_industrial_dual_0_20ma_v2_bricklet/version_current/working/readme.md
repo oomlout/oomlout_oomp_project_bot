@@ -1,6 +1,7 @@
 # OOMP Project  
 ## industrial-dual-0-20ma-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_industrial_dual_0_20ma_v2_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DS1307-breakout-board  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_ds1307_breakout_board  
 (snippet of original readme)  
   
 -- Adafruit DS1307 Real Time Clock Assembled Breakout Board PCB  

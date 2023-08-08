@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ruuvitag_hw  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_ruuvitag_hw  
 (snippet of original readme)  
   
 - RuuviTag: Open Source Bluetooth Smart Sensor Beacon Platform  

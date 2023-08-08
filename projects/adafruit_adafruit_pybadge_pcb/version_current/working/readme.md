@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PyBadge-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pybadge_pcb  
 (snippet of original readme)  
   
 -- Adafruit PyBadge PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## e3pb  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_e3pb  
 (snippet of original readme)  
   
 - Ender 3 (Pro) Printbed  

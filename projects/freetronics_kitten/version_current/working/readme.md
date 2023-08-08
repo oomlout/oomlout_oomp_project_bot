@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KitTen  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_kitten  
 (snippet of original readme)  
   
 Freetronics KitTen  

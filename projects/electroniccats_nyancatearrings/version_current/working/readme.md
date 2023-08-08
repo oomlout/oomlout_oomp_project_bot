@@ -1,6 +1,7 @@
 # OOMP Project  
 ## NyanCatEarrings  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_nyancatearrings  
 (snippet of original readme)  
   
 NyanCatEarrings  

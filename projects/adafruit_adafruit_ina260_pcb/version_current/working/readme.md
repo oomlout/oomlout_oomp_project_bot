@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-INA260-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ina260_pcb  
 (snippet of original readme)  
   
 -- Adafruit INA260 High or Low Side Current and Power Sensor PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-VEML7700-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_veml7700_pcb  
 (snippet of original readme)  
   
 -- Adafruit VEML7700 Lux Sensor PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MOSFET-Driver-STEMMA-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mosfet_driver_stemma_pcb  
 (snippet of original readme)  
   
 -- Adafruit Adafruit MOSFET Driver STEMMA PCB  

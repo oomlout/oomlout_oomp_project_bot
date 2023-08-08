@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nandcat  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_nandcat  
 (snippet of original readme)  
   
 - nandcat  

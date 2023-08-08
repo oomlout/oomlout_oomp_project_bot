@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nRF2401A_Transceiver-Trace_Antenna  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_nrf2401a_transceiver_trace_antenna  
 (snippet of original readme)  
   
 nRF2401A Transceiver- Trace Antenna  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nRF9160_Thing_Plus  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_nrf9160_thing_plus  
 (snippet of original readme)  
   
 SparkFun nRF9160 Thing Plus  

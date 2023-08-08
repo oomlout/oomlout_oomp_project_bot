@@ -1,6 +1,7 @@
 # OOMP Project  
 ## as-03200  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_as_03200  
 (snippet of original readme)  
   
   

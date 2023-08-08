@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroSD-breakout-board  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_microsd_breakout_board  
 (snippet of original readme)  
   
 -- Adafruit MicroSD breakout board PCB  

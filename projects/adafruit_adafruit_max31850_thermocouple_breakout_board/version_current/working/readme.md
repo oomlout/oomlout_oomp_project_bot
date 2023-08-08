@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MAX31850-thermocouple-breakout-board  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_max31850_thermocouple_breakout_board  
 (snippet of original readme)  
   
 - PCB files for Adafruit MAX31850 1-Wire Thermocouple Breakout Board  

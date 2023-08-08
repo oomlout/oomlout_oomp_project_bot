@@ -1,6 +1,7 @@
 # OOMP Project  
 ## iCE40-DAC  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_ice40_dac  
 (snippet of original readme)  
   
 - iCE40-DAC  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Robotic_Finger_Sensor  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_robotic_finger_sensor  
 (snippet of original readme)  
   
 Robotic Finger Sensor   

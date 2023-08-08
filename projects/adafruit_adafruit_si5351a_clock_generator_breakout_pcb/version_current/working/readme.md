@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Si5351A-Clock-Generator-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_si5351a_clock_generator_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit Si5351A Clock Generator Breakout PCB  

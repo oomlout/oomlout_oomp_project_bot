@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Micro_Constant_Current  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_micro_constant_current  
 (snippet of original readme)  
   
   

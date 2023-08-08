@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ATWINC1500-WiFi-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_atwinc1500_wifi_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit ATWINC1500 WiFi Breakout PCB  

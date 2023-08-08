@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RPiSU  by jerome-labidurie  
   
+oomp key: oomp_projects_flat_jerome_labidurie_rpisu  
 (snippet of original readme)  
   
 INSTALL:  

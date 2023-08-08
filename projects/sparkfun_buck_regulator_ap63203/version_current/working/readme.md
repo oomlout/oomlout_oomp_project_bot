@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Buck_Regulator_AP63203  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_buck_regulator_ap63203  
 (snippet of original readme)  
   
 SparkFun Buck Regulator and Baby Buck Regulator  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## heater  by altLab  
   
+oomp key: oomp_projects_flat_altlab_heater  
 (snippet of original readme)  
   
 - rc-heater-electronics  

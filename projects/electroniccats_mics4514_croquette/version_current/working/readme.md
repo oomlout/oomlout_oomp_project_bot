@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MICS4514-Croquette  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_mics4514_croquette  
 (snippet of original readme)  
   
 - Electronic Cats Croquette MICS4514  

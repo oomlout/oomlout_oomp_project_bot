@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Lidar_Lite  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_lidar_lite  
 (snippet of original readme)  
   
 SparkFun Qwiic LIDAR Lite v4  

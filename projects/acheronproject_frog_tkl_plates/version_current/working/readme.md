@@ -1,6 +1,7 @@
 # OOMP Project  
 ## frog_tkl_plates  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_frog_tkl_plates  
 (snippet of original readme)  
   
 - Geonwork Frog TKL plate files  

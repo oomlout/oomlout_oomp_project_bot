@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LSM9DS0-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lsm9ds0_pcb  
 (snippet of original readme)  
   
 - Adafruit LSM9DS0 PCB (Discontinued)  

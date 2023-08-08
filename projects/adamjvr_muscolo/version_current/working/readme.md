@@ -1,6 +1,7 @@
 # OOMP Project  
 ## muscolo  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_muscolo  
 (snippet of original readme)  
   
 - muscolo  

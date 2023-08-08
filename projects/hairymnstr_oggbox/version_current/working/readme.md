@@ -1,6 +1,7 @@
 # OOMP Project  
 ## oggbox  by hairymnstr  
   
+oomp key: oomp_projects_flat_hairymnstr_oggbox  
 (snippet of original readme)  
   
 OggBox  

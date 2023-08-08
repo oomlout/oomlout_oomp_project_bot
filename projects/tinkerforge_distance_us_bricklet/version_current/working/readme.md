@@ -1,6 +1,7 @@
 # OOMP Project  
 ## distance-us-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_distance_us_bricklet  
 (snippet of original readme)  
   
   

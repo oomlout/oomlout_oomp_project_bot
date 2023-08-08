@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MCP2221-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mcp2221_pcb  
 (snippet of original readme)  
   
 -- Adafruit MCP2221 PCB  

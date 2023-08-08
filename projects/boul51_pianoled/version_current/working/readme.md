@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pianoled  by boul51  
   
+oomp key: oomp_projects_flat_boul51_pianoled  
 (snippet of original readme)  
   
 - Si picasol, siiii !!!  

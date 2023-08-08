@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Bast-Pro-Mini-M0  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_bast_pro_mini_m0  
 (snippet of original readme)  
   
 - Bast Pro Mini M0  

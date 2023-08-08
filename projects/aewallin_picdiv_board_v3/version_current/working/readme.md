@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PICDIV_Board_v3  by aewallin  
   
+oomp key: oomp_projects_flat_aewallin_picdiv_board_v3  
 (snippet of original readme)  
   
 - PICDIV_Board_v3  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by ashtonchase  
   
+oomp key: oomp_projects_flat_ashtonchase_kicad_library  
 (snippet of original readme)  
   
 KiCad Library  

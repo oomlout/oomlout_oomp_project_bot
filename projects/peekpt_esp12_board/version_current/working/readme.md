@@ -1,6 +1,7 @@
 # OOMP Project  
 ## esp12-board  by peekpt  
   
+oomp key: oomp_projects_flat_peekpt_esp12_board  
 (snippet of original readme)  
   
 - esp12-board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_GPS_SAM-M8Q  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_gps_sam_m8q  
 (snippet of original readme)  
   
 SparkFun Ublox GPS Breakout - SAM-M8Q  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Pi-Cobber-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pi_cobber_pcbs  
 (snippet of original readme)  
   
 -- Adafruit Pi Cobber PCBs  

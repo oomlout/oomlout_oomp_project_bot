@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GSMGPSShield  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_gsmgpsshield  
 (snippet of original readme)  
   
   

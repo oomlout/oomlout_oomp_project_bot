@@ -1,6 +1,7 @@
 # OOMP Project  
 ## stmwerk  by esden  
   
+oomp key: oomp_projects_flat_esden_stmwerk  
 (snippet of original readme)  
   
   

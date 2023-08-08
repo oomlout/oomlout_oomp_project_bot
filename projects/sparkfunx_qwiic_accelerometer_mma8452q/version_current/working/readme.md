@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Accelerometer-MMA8452Q  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_accelerometer_mma8452q  
 (snippet of original readme)  
   
 View this project on [CADLAB.io](https://cadlab.io/node/733).   

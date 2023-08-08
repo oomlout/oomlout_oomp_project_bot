@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qduino_Mini  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qduino_mini  
 (snippet of original readme)  
   
 ***NOTE:*** *This product was a Kickstarter product. If you are looking for more up-to-date info and the current version of this board, please check out the [current (Storefront) version](https://github.com/sparkfun/Qduino_Mini_SFE), [Qduino Mini product page](https://www.sparkfun.com/products/13614), or the [Arduino board support and library](https://github.com/sparkfun/Arduino_Boards).*  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mutable  by cosmikwolf  
   
+oomp key: oomp_projects_flat_cosmikwolf_mutable  
 (snippet of original readme)  
   
 Mutable Instruments' Eurorack Modules.  

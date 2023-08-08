@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Brain-Machine-Kit  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_brain_machine_kit  
 (snippet of original readme)  
   
 - The Brain Machine Kit  

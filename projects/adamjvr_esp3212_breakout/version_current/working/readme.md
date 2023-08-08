@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP3212-breakout  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_esp3212_breakout  
 (snippet of original readme)  
   
 - ESP3212-breakout  

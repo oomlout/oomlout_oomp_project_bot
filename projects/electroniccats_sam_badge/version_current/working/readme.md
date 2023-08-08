@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Sam-badge  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_sam_badge  
 (snippet of original readme)  
   
 - Badge Sam Dulces Sueños  

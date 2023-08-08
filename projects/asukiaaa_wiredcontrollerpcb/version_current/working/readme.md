@@ -1,6 +1,7 @@
 # OOMP Project  
 ## WiredControllerPcb  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_wiredcontrollerpcb  
 (snippet of original readme)  
   
 - WiredControllerPcb  

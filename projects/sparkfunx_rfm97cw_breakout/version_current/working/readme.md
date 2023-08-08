@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RFM97CW_Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_rfm97cw_breakout  
 (snippet of original readme)  
   
 SparkFun RFM97C Mini Shield LoRa - 100mW  

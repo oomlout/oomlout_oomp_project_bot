@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M913  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m913  
 (snippet of original readme)  
   
 - M913 いちご号スイッチ回路図  

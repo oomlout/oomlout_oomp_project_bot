@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoTrellis-M4-PCB-and-Enclosure  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neotrellis_m4_pcb_and_enclosure  
 (snippet of original readme)  
   
 - Adafruit-NeoTrellis-M4-PCB-and-Enclosure  

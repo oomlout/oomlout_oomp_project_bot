@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MatrixPortal-M4-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_matrixportal_m4_pcb  
 (snippet of original readme)  
   
 -- Adafruit MatrixPortal M4 - CircuitPython Powered Internet Display PCB  

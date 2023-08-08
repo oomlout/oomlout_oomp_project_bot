@@ -1,6 +1,7 @@
 # OOMP Project  
 ## crazyflie-usd-spi3  by ZaneKaminski  
   
+oomp key: oomp_projects_flat_zanekaminski_crazyflie_usd_spi3  
 (snippet of original readme)  
   
   

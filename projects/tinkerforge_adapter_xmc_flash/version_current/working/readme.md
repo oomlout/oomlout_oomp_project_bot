@@ -1,6 +1,7 @@
 # OOMP Project  
 ## adapter-xmc-flash  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_adapter_xmc_flash  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoPixel-8x8-Matrix  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neopixel_8x8_matrix  
 (snippet of original readme)  
   
 - Adafruit-NeoPixel-8x8-Matrix   

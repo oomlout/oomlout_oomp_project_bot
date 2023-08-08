@@ -1,6 +1,7 @@
 # OOMP Project  
 ## QwiicBus_MidPoint  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qwiicbus_midpoint  
 (snippet of original readme)  
   
 SparkFun QwiicBus MidPoint  

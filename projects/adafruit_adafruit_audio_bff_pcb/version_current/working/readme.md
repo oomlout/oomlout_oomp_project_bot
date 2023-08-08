@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Audio-BFF-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_audio_bff_pcb  
 (snippet of original readme)  
   
 -- Adafruit Audio BFF Add-on for QT Py and Xiao PCB  

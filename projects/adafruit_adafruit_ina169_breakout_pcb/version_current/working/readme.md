@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-INA169-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ina169_breakout_pcb  
 (snippet of original readme)  
   
 - Adafruit INA169 Breakout PCB  

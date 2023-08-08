@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LNA3030  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_lna3030  
 (snippet of original readme)  
   
 - LNA3030  

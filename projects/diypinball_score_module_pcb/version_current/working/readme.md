@@ -1,6 +1,7 @@
 # OOMP Project  
 ## score-module-pcb  by diypinball  
   
+oomp key: oomp_projects_flat_diypinball_score_module_pcb  
 (snippet of original readme)  
   
 - score-module-pcb  

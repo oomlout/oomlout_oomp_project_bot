@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MCP9601-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mcp9601_pcb  
 (snippet of original readme)  
   
 -- Adafruit MCP9601 (MCP96L01) I2C Thermocouple Amplifier - STEMMA QT / Qwiic PCB  

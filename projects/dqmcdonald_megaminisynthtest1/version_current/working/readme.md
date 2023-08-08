@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MegaMiniSynthTest1  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_megaminisynthtest1  
 (snippet of original readme)  
   
   

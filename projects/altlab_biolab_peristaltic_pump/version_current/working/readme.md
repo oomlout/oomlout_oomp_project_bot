@@ -1,6 +1,7 @@
 # OOMP Project  
 ## biolab-peristaltic-pump  by altLab  
   
+oomp key: oomp_projects_flat_altlab_biolab_peristaltic_pump  
 (snippet of original readme)  
   
 - biolab-peristaltic-pump  

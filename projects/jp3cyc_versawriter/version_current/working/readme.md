@@ -1,6 +1,7 @@
 # OOMP Project  
 ## versaWriter  by jp3cyc  
   
+oomp key: oomp_projects_flat_jp3cyc_versawriter  
 (snippet of original readme)  
   
 - versaWriter  

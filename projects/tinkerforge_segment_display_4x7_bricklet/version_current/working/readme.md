@@ -1,6 +1,7 @@
 # OOMP Project  
 ## segment-display-4x7-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_segment_display_4x7_bricklet  
 (snippet of original readme)  
   
   

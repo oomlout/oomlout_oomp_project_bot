@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bikedar  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_bikedar  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Battery_Babysitter  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_battery_babysitter  
 (snippet of original readme)  
   
 SparkFun Battery Babysitter  

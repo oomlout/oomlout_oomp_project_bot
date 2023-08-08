@@ -1,6 +1,7 @@
 # OOMP Project  
 ## toorcamp2018badge  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_toorcamp2018badge  
 (snippet of original readme)  
   
 - Toorcamp 2018 Badge  

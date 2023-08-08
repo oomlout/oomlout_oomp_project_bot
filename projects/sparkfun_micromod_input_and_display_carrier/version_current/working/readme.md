@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Input_and_Display_Carrier  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_input_and_display_carrier  
 (snippet of original readme)  
   
 - SparkFun MicroMod Input and Display Carrier Board  

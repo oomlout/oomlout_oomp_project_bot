@@ -1,6 +1,7 @@
 # OOMP Project  
 ## APDS-9301_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_apds_9301_breakout  
 (snippet of original readme)  
   
 SparkFun APDS-9301 Lux Sensor Breakout  

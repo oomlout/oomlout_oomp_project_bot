@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Prop-Maker-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_prop_maker_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit Prop-Maker FeatherWing PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Elongate  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_elongate  
 (snippet of original readme)  
   
 - Acheron 50-SM-S-F072-MX-TH-WI (Codename "Elongate")  

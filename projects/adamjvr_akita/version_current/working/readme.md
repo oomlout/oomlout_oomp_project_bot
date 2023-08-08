@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Akita  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_akita  
 (snippet of original readme)  
   
 - Akita  

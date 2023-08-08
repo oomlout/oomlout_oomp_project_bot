@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BastWAN-WLE  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_bastwan_wle  
 (snippet of original readme)  
   
 - BastWAN-WLE  

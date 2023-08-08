@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LoudMouth  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_loudmouth  
 (snippet of original readme)  
   
 - LoudMouth  

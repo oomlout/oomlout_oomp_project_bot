@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hvac-v2  by candykingdom  
   
+oomp key: oomp_projects_flat_candykingdom_hvac_v2  
 (snippet of original readme)  
   
   

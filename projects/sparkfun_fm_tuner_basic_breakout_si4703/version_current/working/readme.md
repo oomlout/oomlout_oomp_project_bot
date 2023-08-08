@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FM_Tuner_Basic_Breakout-Si4703  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_fm_tuner_basic_breakout_si4703  
 (snippet of original readme)  
   
 SparkFun FM Tuner Basic Breakout - Si4703  

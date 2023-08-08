@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Programmable-Battery-Power-Saving-Board  by nickgagnon  
   
+oomp key: oomp_projects_flat_nickgagnon_programmable_battery_power_saving_board  
 (snippet of original readme)  
   
 - Programmable-Battery-Power-Saving-Board  

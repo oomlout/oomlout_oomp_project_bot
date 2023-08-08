@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LNA1109  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_lna1109  
 (snippet of original readme)  
   
 - LNA1109  

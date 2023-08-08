@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Satellite_Transceiver_Function_Board__Swarm_M138  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_satellite_transceiver_function_board_swarm_m138  
 (snippet of original readme)  
   
 SparkX Satellite Transceiver Function Board - Swarm M138  

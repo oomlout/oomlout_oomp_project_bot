@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Music_Instrument_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_music_instrument_shield  
 (snippet of original readme)  
   
 SparkFun Music Instrument Shield  

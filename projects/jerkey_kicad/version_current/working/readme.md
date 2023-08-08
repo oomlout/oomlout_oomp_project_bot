@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_kicad  
 (snippet of original readme)  
   
   

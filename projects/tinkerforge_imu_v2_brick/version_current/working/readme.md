@@ -1,6 +1,7 @@
 # OOMP Project  
 ## imu-v2-brick  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_imu_v2_brick  
 (snippet of original readme)  
   
   

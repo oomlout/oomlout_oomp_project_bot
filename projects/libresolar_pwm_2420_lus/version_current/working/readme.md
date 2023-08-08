@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pwm-2420-lus  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_pwm_2420_lus  
 (snippet of original readme)  
   
 - PWM Solar Charge Controller (10-20A)  

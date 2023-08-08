@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Differential_Pressure_Sensor-SDP31  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_differential_pressure_sensor_sdp31  
 (snippet of original readme)  
   
 SparkX Differential Pressure Sensor - SDP31 (Qwiic)  

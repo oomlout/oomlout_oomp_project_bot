@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rigchip  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_rigchip  
 (snippet of original readme)  
   
 - rigchip  

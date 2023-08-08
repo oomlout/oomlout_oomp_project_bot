@@ -1,6 +1,7 @@
 # OOMP Project  
 ## High-density-proto-board  by madworm  
   
+oomp key: oomp_projects_flat_madworm_high_density_proto_board  
 (snippet of original readme)  
   
   

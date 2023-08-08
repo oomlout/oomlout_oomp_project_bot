@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-ESP8266-HUZZAH-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_esp8266_huzzah_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather HUZZAH with ESP8266 - Loose Headers PCB  

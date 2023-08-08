@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Led_Panel  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_led_panel  
 (snippet of original readme)  
   
   

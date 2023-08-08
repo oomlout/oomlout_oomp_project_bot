@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-2.8-TFT-Shield-v2-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_2_8_tft_shield_v2_pcb  
 (snippet of original readme)  
   
 - Adafruit 2.8 TFT LCD Display Shield v2 PCBs  

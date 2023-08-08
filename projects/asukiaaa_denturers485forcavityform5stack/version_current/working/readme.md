@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DentureRS485ForCavityForM5Stack  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_denturers485forcavityform5stack  
 (snippet of original readme)  
   
 - DentureRS485ForCavityForM5Stack  

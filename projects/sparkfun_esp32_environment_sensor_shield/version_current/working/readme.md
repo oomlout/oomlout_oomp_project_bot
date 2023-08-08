@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32_Environment_Sensor_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_esp32_environment_sensor_shield  
 (snippet of original readme)  
   
 SparkFun ESP32 Environment Sensor Shield  

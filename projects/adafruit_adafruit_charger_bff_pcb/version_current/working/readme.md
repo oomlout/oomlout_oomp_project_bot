@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Charger-BFF-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_charger_bff_pcb  
 (snippet of original readme)  
   
 -- Adafruit Charger BFF for QT Py PCB  

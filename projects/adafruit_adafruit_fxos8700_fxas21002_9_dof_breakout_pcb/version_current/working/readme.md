@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_fxos8700_fxas21002_9_dof_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit FXOS8700 FXAS21002 9-DoF Breakout PCB  

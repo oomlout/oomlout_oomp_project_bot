@@ -1,6 +1,7 @@
 # OOMP Project  
 ## NAIAD-AUIPS7111S  by MDHSweden  
   
+oomp key: oomp_projects_flat_mdhsweden_naiad_auips7111s  
 (snippet of original readme)  
   
   

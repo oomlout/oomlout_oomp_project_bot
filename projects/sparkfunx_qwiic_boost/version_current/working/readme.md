@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Boost  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_boost  
 (snippet of original readme)  
   
 Qwiic Boost  

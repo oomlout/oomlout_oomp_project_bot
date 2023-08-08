@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Korg_Poly-800_Mods  by Jeff-Russ  
   
+oomp key: oomp_projects_flat_jeff_russ_korg_poly_800_mods  
 (snippet of original readme)  
   
   

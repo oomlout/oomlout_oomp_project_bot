@@ -1,6 +1,7 @@
 # OOMP Project  
 ## USB-DC-Solar-Lithium-Ion-Polymer-charger  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_usb_dc_solar_lithium_ion_polymer_charger  
 (snippet of original readme)  
   
 - Adafruit USB/DC/Solar LiIon/LiPoly charger  

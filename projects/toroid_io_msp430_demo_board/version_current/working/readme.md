@@ -1,6 +1,7 @@
 # OOMP Project  
 ## msp430_demo_board  by Toroid-io  
   
+oomp key: oomp_projects_flat_toroid_io_msp430_demo_board  
 (snippet of original readme)  
   
   

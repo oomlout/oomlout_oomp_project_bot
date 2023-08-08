@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LoranC  by romavis  
   
+oomp key: oomp_projects_flat_romavis_loranc  
 (snippet of original readme)  
   
 LORAN C (USSR "Chayka") receiver project  

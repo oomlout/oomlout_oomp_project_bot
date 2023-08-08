@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Logic_Shrimp  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_logic_shrimp  
 (snippet of original readme)  
   
   

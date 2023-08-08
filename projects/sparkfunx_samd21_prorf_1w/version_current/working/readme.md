@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SAMD21_ProRF_1W  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_samd21_prorf_1w  
 (snippet of original readme)  
   
 SparkFun SAMD21 Pro RF 1W   

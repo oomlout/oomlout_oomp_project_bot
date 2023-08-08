@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Si7021-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_si7021_pcb  
 (snippet of original readme)  
   
 -- Adafruit Si7021 Temperature & Humidity Sensor Breakout PCB  

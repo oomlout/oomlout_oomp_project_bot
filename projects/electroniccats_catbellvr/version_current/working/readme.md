@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatBellVR  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catbellvr  
 (snippet of original readme)  
   
 - CatBellVR  

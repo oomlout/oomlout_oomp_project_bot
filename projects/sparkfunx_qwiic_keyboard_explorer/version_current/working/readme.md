@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Keyboard_Explorer  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_keyboard_explorer  
 (snippet of original readme)  
   
 Qwiic_Keyboard_Explorer  

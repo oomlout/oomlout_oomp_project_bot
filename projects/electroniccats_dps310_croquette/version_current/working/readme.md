@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DPS310-Croquette  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_dps310_croquette  
 (snippet of original readme)  
   
 - ElectronicCats Croquette DPS310  

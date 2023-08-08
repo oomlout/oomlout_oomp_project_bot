@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ALS-PT19-Sensor-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_als_pt19_sensor_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit ALS-PT19 Analog Light Sensor Breakout PCB  

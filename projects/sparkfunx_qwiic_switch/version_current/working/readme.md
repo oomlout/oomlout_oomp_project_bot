@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Switch  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_switch  
 (snippet of original readme)  
   
 SparkFun Qwiic Switch/Arcade  

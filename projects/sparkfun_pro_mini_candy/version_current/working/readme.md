@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pro_Mini_Candy  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_pro_mini_candy  
 (snippet of original readme)  
   
 **NOTE:** *This product has been retired from our catalog as this was for a special promotion. If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking, improving, and using on this product with the [Arduino Pro Mini 5V/16MHz](https://www.sparkfun.com/products/11113).*  

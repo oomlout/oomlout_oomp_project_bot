@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-STEMMA-Audio-Amp-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_stemma_audio_amp_pcb  
 (snippet of original readme)  
   
 -- Adafruit STEMMA Audio Amp PCB  

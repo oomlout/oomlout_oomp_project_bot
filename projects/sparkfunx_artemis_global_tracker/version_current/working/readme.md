@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Artemis_Global_Tracker  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_artemis_global_tracker  
 (snippet of original readme)  
   
 - Artemis Global Tracker  

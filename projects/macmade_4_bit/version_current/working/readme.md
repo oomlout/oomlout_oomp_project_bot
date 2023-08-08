@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 4-bit  by macmade  
   
+oomp key: oomp_projects_flat_macmade_4_bit  
 (snippet of original readme)  
   
 4-Bit Computer  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Blynk_Board_ESP8266  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_blynk_board_esp8266  
 (snippet of original readme)  
   
 SparkFun Blynk Board - ESP8266  

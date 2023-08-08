@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kon-41.3131  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_kon_41_3131  
 (snippet of original readme)  
   
 - kon-41.3131  

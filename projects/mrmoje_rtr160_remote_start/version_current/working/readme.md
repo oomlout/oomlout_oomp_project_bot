@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RTR160_REMOTE_START  by mrmoje  
   
+oomp key: oomp_projects_flat_mrmoje_rtr160_remote_start  
 (snippet of original readme)  
   
   

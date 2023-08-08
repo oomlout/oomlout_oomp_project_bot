@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mega1284RFM69_PCB  by s-light  
   
+oomp key: oomp_projects_flat_s_light_mega1284rfm69_pcb  
 (snippet of original readme)  
   
 - Mega1284RFM69_PCB  

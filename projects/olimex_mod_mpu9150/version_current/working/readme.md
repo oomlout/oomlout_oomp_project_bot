@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MOD-MPU9150  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_mod_mpu9150  
 (snippet of original readme)  
   
 - MOD-MPU9150  

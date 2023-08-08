@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Breadboard_Power_Supply_Stick_5V-3.3V  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_breadboard_power_supply_stick_5v_3_3v  
 (snippet of original readme)  
   
 SparkFun Breadboard Power Supply Stick 5V/3.3V  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CAN-Bus-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_can_bus_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit CAN Bus FeatherWing - MCP2515 PCB  

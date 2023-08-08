@@ -1,6 +1,7 @@
 # OOMP Project  
 ## EtherMega  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_ethermega  
 (snippet of original readme)  
   
 Freetronics EtherMega  

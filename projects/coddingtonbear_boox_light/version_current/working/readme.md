@@ -1,6 +1,7 @@
 # OOMP Project  
 ## boox-light  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_boox_light  
 (snippet of original readme)  
   
   

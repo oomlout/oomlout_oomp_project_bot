@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Spectral_Sensor-AS726x  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_spectral_sensor_as726x  
 (snippet of original readme)  
   
   

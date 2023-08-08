@@ -1,6 +1,7 @@
 # OOMP Project  
 ## STP240320_0200B_b2b  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_stp240320_0200b_b2b  
 (snippet of original readme)  
   
 - STP240320_0200B_b2b  

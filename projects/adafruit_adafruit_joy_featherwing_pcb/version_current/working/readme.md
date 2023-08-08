@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Joy-Featherwing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_joy_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit Joy FeatherWing PCB  

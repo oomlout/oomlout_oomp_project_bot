@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by bveenema  
   
+oomp key: oomp_projects_flat_bveenema_kicad_library  
 (snippet of original readme)  
   
 KiCad Library  

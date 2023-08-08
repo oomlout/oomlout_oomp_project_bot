@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MMA8452_Accelerometer  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mma8452_accelerometer  
 (snippet of original readme)  
   
 SparkFun Triple Axis Accelerometer Breakout - MMA8452Q  

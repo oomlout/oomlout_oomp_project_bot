@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroView  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_microview  
 (snippet of original readme)  
   
 MicroView  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## poppimASiina  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_poppimasiina  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LED-Arcade-Button-1x4-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_led_arcade_button_1x4_pcb  
 (snippet of original readme)  
   
 -- Adafruit LED Arcade Button 1x4 - STEMMA QT I2C Breakout PCB  

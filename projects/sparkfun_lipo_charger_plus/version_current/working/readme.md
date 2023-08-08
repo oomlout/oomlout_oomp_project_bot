@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LiPo_Charger_Plus  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lipo_charger_plus  
 (snippet of original readme)  
   
 SparkFun LiPo Charger Plus  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_huzzah_esp8266_basic_breakout_pcb  
 (snippet of original readme)  
   
 - Adafruit Huzzah ESP8266 Basic Breakout PCB  

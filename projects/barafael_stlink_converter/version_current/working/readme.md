@@ -1,6 +1,7 @@
 # OOMP Project  
 ## stlink-converter  by barafael  
   
+oomp key: oomp_projects_flat_barafael_stlink_converter  
 (snippet of original readme)  
   
 - stlink-converter  

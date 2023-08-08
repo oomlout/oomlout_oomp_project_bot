@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GAME  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_game  
 (snippet of original readme)  
   
 Freetronics Game Controller Shield  

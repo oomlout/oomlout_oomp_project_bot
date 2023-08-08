@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Breakout_OPT3002  by newAM  
   
+oomp key: oomp_projects_flat_newam_breakout_opt3002  
 (snippet of original readme)  
   
 -- OPT3002 I2C Ambient Light Sensor Breakout  

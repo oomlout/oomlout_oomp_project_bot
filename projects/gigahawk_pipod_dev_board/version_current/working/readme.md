@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pipod_dev_board  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_pipod_dev_board  
 (snippet of original readme)  
   
   

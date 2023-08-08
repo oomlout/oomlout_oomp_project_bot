@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Mux_PCA9846  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_mux_pca9846  
 (snippet of original readme)  
   
 SparkFun PCA9846 Qwiic I2C Mux  

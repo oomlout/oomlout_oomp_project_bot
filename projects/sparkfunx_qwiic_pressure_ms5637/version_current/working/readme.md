@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Pressure-MS5637  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_pressure_ms5637  
 (snippet of original readme)  
   
 SparkFun Qwiic Pressure with MS5637  

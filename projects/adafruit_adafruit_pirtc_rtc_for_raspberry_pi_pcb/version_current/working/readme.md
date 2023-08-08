@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pirtc_rtc_for_raspberry_pi_pcb  
 (snippet of original readme)  
   
 -- Adafruit PiRTC RTC for Raspberry Pi PCB  

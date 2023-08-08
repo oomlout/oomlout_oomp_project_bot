@@ -1,6 +1,7 @@
 # OOMP Project  
 ## I2cBrushlessMotors  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_i2cbrushlessmotors  
 (snippet of original readme)  
   
 - I2cBrushlessMotors-PCB  

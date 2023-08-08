@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Distance-RFD77402  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_distance_rfd77402  
 (snippet of original readme)  
   
 Qwiic Distance Sensor - RFD77402  

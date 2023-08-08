@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Asset_Tracker_Update_Tool  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_asset_tracker_update_tool  
 (snippet of original readme)  
   
 - MicroMod Asset Tracker Firmware Update Tool  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MCP9600-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mcp9600_pcb  
 (snippet of original readme)  
   
 - Adafruit-MCP9600-PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## USB_inspection-light  by madworm  
   
+oomp key: oomp_projects_flat_madworm_usb_inspection_light  
 (snippet of original readme)  
   
   

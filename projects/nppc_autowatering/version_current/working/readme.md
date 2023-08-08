@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AutoWatering  by nppc  
   
+oomp key: oomp_projects_flat_nppc_autowatering  
 (snippet of original readme)  
   
 - Periodic watering  

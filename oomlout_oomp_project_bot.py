@@ -94,9 +94,12 @@ def get_readme(**kwargs):
         if links != "none":
             repo_link = links.get("github_src", "none")
 
+        oomp_key = yaml_dict.get("oomp_key", "")
+
         p2["name"] = name
         p2["owner"] = owner
         p2["repo_link"] = repo_link
+        p2["oomp_key"] = oomp_key
 
         p2["readme"] = readme
         readme += get_intro(**p2)
@@ -122,12 +125,14 @@ def get_intro(**kwargs):
     name = kwargs.get("name","none")
     owner = kwargs.get("owner","none")
     repo_link = kwargs.get("repo_link","none")
+    oomp_key = kwargs.get("oomp_key","")
     readme = ""
     directory = kwargs.get("directory","none")
     ###### introduction
 
     readme += f'## {name}  by {owner}  \n'
     readme += f'  \n'
+    readme += f'oomp key: {oomp_key}  \n'
     readme += f'(snippet of original readme)  \n'
     readme += f'  \n'
     #get first 300 charachters from readme_src.md in directory if it exists
@@ -198,21 +203,4 @@ def get_images(**kwargs):
 
 
     return readme
-
-
-
-
-
-
-        
-
-                
-
-
-
-
-
-    return readme    
-
-
 

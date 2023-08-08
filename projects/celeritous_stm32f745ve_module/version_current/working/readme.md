@@ -1,6 +1,7 @@
 # OOMP Project  
 ## STM32F745VE_Module  by celeritous  
   
+oomp key: oomp_projects_flat_celeritous_stm32f745ve_module  
 (snippet of original readme)  
   
 - STM32F745VE_Module  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCadTeensyFolkracePro  by NorbotNorway  
   
+oomp key: oomp_projects_flat_norbotnorway_kicadteensyfolkracepro  
 (snippet of original readme)  
   
 - KiCadTeensyFolkracePro  

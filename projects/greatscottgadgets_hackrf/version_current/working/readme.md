@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hackrf  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_hackrf  
 (snippet of original readme)  
   
 - HackRF  

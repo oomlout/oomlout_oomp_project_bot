@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BEESP12  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_beesp12  
 (snippet of original readme)  
   
   

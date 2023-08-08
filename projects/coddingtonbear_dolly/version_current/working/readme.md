@@ -1,6 +1,7 @@
 # OOMP Project  
 ## dolly  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_dolly  
 (snippet of original readme)  
   
 - Dolly  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Bluetooth_Mate  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_bluetooth_mate  
 (snippet of original readme)  
   
 Bluetooth Mate  

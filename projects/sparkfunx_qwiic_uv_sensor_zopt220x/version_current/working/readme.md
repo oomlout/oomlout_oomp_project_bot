@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_UV_Sensor-ZOPT220x  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_uv_sensor_zopt220x  
 (snippet of original readme)  
   
 Qwiic UV Sensor - ZZOPT2201  

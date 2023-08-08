@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Keyboard-Controller  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_keyboard_controller  
 (snippet of original readme)  
   
   

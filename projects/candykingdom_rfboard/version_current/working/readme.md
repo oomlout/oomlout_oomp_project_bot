@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rfboard  by candykingdom  
   
+oomp key: oomp_projects_flat_candykingdom_rfboard  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## clickwheel_breakout_4th_gen  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_clickwheel_breakout_4th_gen  
 (snippet of original readme)  
   
   

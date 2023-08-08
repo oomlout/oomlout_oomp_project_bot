@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MPU-6050_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mpu_6050_breakout  
 (snippet of original readme)  
   
 Triple Axis Accelerometer & Gyro Breakout - MPU-6050  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M400-k2005111  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m400_k2005111  
 (snippet of original readme)  
   
 - 音声切り替え装置 (A26)  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FOSDEM-MUSIC-BOX  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_fosdem_music_box  
 (snippet of original readme)  
   
 - FOSDEM-MUSIC-BOX  

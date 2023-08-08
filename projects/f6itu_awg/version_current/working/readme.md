@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AWG  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_awg  
 (snippet of original readme)  
   
 - AWG  

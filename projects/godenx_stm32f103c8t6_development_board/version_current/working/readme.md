@@ -1,6 +1,7 @@
 # OOMP Project  
 ## stm32f103c8t6_development_board  by GodenX  
   
+oomp key: oomp_projects_flat_godenx_stm32f103c8t6_development_board  
 (snippet of original readme)  
   
   

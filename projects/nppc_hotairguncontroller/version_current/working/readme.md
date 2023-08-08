@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HotAirGunController  by nppc  
   
+oomp key: oomp_projects_flat_nppc_hotairguncontroller  
 (snippet of original readme)  
   
 - HotAirGunController  

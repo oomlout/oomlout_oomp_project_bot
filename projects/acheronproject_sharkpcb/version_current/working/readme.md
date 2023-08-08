@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SharkPCB  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_sharkpcb  
 (snippet of original readme)  
   
 - Acheron SharkPCB  

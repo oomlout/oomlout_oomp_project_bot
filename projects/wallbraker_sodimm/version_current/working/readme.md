@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SODIMM  by Wallbraker  
   
+oomp key: oomp_projects_flat_wallbraker_sodimm  
 (snippet of original readme)  
   
 - SODIMM  

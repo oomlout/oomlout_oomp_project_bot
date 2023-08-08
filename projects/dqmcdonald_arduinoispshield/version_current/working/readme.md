@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ArduinoISPShield  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_arduinoispshield  
 (snippet of original readme)  
   
   

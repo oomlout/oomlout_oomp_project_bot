@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Pro-Trinket-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pro_trinket_pcbs  
 (snippet of original readme)  
   
 - Adafruit Pro Trinket 3.3V and 5.0V PCB  

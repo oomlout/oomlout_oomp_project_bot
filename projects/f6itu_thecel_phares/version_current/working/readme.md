@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Thecel_phares  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_thecel_phares  
 (snippet of original readme)  
   
 - Thecel_phares  

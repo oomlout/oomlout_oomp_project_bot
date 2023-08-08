@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PiHPSDR_frontplate  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_pihpsdr_frontplate  
 (snippet of original readme)  
   
 - PiHPSDR_frontplate  

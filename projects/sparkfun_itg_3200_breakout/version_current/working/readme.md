@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ITG-3200_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_itg_3200_breakout  
 (snippet of original readme)  
   
 ITG-3200 Breakout Board  

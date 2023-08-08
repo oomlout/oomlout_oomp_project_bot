@@ -1,6 +1,7 @@
 # OOMP Project  
 ## dual-button-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_dual_button_bricklet  
 (snippet of original readme)  
   
   

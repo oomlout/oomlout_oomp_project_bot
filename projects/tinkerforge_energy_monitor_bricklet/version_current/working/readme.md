@@ -1,6 +1,7 @@
 # OOMP Project  
 ## energy-monitor-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_energy_monitor_bricklet  
 (snippet of original readme)  
   
   

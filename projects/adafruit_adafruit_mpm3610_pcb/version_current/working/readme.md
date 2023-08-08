@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MPM3610-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mpm3610_pcb  
 (snippet of original readme)  
   
 -- Adafruit MPM3610 3.3V Buck Converter Breakout PCB  

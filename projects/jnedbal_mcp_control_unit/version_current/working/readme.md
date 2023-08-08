@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MCP_control_unit  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_mcp_control_unit  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IMU9  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_imu9  
 (snippet of original readme)  
   
 IMU9  

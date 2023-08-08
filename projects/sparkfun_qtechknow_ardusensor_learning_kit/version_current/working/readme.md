@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qtechknow_ArduSensor_Learning_Kit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qtechknow_ardusensor_learning_kit  
 (snippet of original readme)  
   
 Qtechknow ArduSensor Learning Kit  

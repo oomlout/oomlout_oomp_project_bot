@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-projects  by UMONS-GFA  
   
+oomp key: oomp_projects_flat_umons_gfa_kicad_projects  
 (snippet of original readme)  
   
 - kicad-projects (NOT USED ANYMORE !)  

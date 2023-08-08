@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ESP32-Feather-V2-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_esp32_feather_v2_pcb  
 (snippet of original readme)  
   
 -- Adafruit ESP32 Feather V2 PCB  

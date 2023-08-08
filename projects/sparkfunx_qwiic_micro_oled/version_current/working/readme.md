@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Micro_OLED  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_micro_oled  
 (snippet of original readme)  
   
 Qwiic_Micro_OLED  

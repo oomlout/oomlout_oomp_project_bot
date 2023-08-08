@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gateway-expansion  by ruuvi  
   
+oomp key: oomp_projects_flat_ruuvi_gateway_expansion  
 (snippet of original readme)  
   
 - gateway-expansion  

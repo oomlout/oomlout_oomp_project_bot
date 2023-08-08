@@ -1,6 +1,7 @@
 # OOMP Project  
 ## distance-us-v2-bricklet-techniker  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_distance_us_v2_bricklet_techniker  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DONKEY  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_donkey  
 (snippet of original readme)  
   
 Donkey Car Hat for Raspberry Pi  

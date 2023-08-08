@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Electret_Microphone_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_electret_microphone_breakout  
 (snippet of original readme)  
   
 Electret Microphone Breakout  

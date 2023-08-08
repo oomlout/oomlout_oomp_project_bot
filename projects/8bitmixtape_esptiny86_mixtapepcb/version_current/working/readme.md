@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESPTINY86_MixtapePCB  by 8BitMixtape  
   
+oomp key: oomp_projects_flat_8bitmixtape_esptiny86_mixtapepcb  
 (snippet of original readme)  
   
 - ESPTINY86_MixtapePCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## golden-key  by CarnivalBen  
   
+oomp key: oomp_projects_flat_carnivalben_golden_key  
 (snippet of original readme)  
   
 - Golden Key Model Railway  

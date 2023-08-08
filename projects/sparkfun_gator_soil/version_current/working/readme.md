@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_soil  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_soil  
 (snippet of original readme)  
   
 SparkFun gator:soil - micro:bit Accessory Board   

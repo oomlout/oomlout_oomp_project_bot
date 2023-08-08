@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoKey-CHOC-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neokey_choc_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit NeoKey CHOC Breakout PCB  

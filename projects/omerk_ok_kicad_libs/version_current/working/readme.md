@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ok-kicad-libs  by omerk  
   
+oomp key: oomp_projects_flat_omerk_ok_kicad_libs  
 (snippet of original readme)  
   
 - ok-kicad-libs  

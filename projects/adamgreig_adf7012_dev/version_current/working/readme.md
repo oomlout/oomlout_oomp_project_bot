@@ -1,6 +1,7 @@
 # OOMP Project  
 ## adf7012_dev  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_adf7012_dev  
 (snippet of original readme)  
   
 STM32 ChibiOS Project  

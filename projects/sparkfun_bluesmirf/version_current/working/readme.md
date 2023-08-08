@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BlueSMiRF  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_bluesmirf  
 (snippet of original readme)  
   
 BlueSMiRF  

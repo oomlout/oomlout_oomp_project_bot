@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroFLiC_junction_shield_1_1  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_microflic_junction_shield_1_1  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## freecad-export-action-test  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_freecad_export_action_test  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CAT-Board  by devbisme  
   
+oomp key: oomp_projects_flat_devbisme_cat_board  
 (snippet of original readme)  
   
 - CAT  

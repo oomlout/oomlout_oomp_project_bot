@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bms-8s50-ic  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_bms_8s50_ic  
 (snippet of original readme)  
   
 - BMS 8S50 IC  

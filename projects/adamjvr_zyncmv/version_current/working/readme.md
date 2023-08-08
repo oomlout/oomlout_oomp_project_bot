@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ZyncMV  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_zyncmv  
 (snippet of original readme)  
   
 - ZyncMV  

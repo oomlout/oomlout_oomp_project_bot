@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Hall-Effect_Current_Sensor_Breakout-ACS712  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_hall_effect_current_sensor_breakout_acs712  
 (snippet of original readme)  
   
 **NOTE:** *This product has been retired from our catalog. There is an updated drop-in replacement with the ACS723 available: [SEN-13679](https://github.com/sparkfun/Current_Sensor_Breakout-ACS723). If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking and improving on this product version.*  

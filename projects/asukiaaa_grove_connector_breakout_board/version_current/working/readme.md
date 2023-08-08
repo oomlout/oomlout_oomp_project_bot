@@ -1,6 +1,7 @@
 # OOMP Project  
 ## grove-connector-breakout-board  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_grove_connector_breakout_board  
 (snippet of original readme)  
   
 - grove-connector-breakout-board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## EtherDue  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_etherdue  
 (snippet of original readme)  
   
 - EtherDue  

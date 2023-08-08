@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hackrf  by nqbit  
   
+oomp key: oomp_projects_flat_nqbit_hackrf  
 (snippet of original readme)  
   
 This repository contains hardware designs and software for HackRF,  

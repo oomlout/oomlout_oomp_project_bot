@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Serial-Knob  by madworm  
   
+oomp key: oomp_projects_flat_madworm_serial_knob  
 (snippet of original readme)  
   
   

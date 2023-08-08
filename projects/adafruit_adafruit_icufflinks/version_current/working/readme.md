@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_iCufflinks  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_icufflinks  
 (snippet of original readme)  
   
 - iCufflinks  

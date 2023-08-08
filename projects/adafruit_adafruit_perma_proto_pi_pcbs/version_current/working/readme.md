@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Perma-Proto-Pi-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_perma_proto_pi_pcbs  
 (snippet of original readme)  
   
 -- Adafruit Perma Proto Pi PCBs  

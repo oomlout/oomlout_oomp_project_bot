@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SynthDrumTrigger  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_synthdrumtrigger  
 (snippet of original readme)  
   
   

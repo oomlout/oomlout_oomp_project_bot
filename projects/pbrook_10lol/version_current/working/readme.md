@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 10lol  by pbrook  
   
+oomp key: oomp_projects_flat_pbrook_10lol  
 (snippet of original readme)  
   
   

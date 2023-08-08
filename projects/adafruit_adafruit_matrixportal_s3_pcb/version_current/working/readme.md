@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MatrixPortal-S3-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_matrixportal_s3_pcb  
 (snippet of original readme)  
   
 -- Adafruit Matrix Portal S3 CircuitPython Powered Internet Display PCB  

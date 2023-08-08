@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_Arduino_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_arduino_block  
 (snippet of original readme)  
   
 SparkFun Edison Arduino Block  

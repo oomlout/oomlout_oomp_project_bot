@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Jiu  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_jiu  
 (snippet of original readme)  
   
 - Jiu PCB  

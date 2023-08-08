@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Bluefruit-EZ-Key-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bluefruit_ez_key_pcb  
 (snippet of original readme)  
   
 -- Adafruit Bluefruit EZ Key PCB (Discontinued)  

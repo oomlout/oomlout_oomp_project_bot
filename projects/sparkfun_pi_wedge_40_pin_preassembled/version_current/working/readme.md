@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pi_Wedge_40-Pin_PreAssembled  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_pi_wedge_40_pin_preassembled  
 (snippet of original readme)  
   
 Pi Wedge 40-Pin PreAssembled - Breakout For 40-Pin, Second Generation Raspberry Pi GPIO Connector.  

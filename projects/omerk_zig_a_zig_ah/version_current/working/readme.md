@@ -1,6 +1,7 @@
 # OOMP Project  
 ## zig-a-zig-ah  by omerk  
   
+oomp key: oomp_projects_flat_omerk_zig_a_zig_ah  
 (snippet of original readme)  
   
 - zig-a-zig-ah  

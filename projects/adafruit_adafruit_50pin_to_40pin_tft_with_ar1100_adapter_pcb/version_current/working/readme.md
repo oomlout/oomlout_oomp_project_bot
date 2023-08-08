@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_50pin_to_40pin_tft_with_ar1100_adapter_pcb  
 (snippet of original readme)  
   
 -- Adafruit 50pin to 40pin TFT with AR1100 Adapter PCB  

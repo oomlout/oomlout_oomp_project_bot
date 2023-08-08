@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Feather-RISC-V-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_feather_risc_v_pcb  
 (snippet of original readme)  
   
 - Feather RISC-V -  

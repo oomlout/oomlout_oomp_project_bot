@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MINI4  by antonchromjak  
   
+oomp key: oomp_projects_flat_antonchromjak_mini4  
 (snippet of original readme)  
   
   

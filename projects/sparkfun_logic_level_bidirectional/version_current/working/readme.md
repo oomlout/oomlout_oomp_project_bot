@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Logic_Level_Bidirectional  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_logic_level_bidirectional  
 (snippet of original readme)  
   
 Logic Level Converter Bidirectional  

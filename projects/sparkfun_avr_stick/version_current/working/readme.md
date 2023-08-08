@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AVR_Stick  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_avr_stick  
 (snippet of original readme)  
   
 SparkFun AVR Stick  

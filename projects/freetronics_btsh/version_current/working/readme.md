@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BTSH  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_btsh  
 (snippet of original readme)  
   
 Freetronics Bluetooth Shield  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## antialiasing_filter  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_antialiasing_filter  
 (snippet of original readme)  
   
 Cerberus, a triple path antialiasing filter for RF Software defined radio  

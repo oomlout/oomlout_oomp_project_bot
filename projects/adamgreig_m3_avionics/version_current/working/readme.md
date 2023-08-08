@@ -1,6 +1,7 @@
 # OOMP Project  
 ## m3-avionics  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_m3_avionics  
 (snippet of original readme)  
   
 - Martlet III Avionics  

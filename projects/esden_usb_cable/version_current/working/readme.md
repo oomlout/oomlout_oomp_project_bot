@@ -1,6 +1,7 @@
 # OOMP Project  
 ## usb-cable  by esden  
   
+oomp key: oomp_projects_flat_esden_usb_cable  
 (snippet of original readme)  
   
 This repository contains random board designs related to USB cables.  

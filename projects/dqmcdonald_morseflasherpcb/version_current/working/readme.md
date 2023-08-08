@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MorseFlasherPCB  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_morseflasherpcb  
 (snippet of original readme)  
   
   

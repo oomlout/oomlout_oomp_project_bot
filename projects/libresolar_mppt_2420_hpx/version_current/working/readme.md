@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mppt-2420-hpx  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_mppt_2420_hpx  
 (snippet of original readme)  
   
 - Libre Solar MPPT 2420 HPX  

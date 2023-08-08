@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Accelerometer_MMA8452Q  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qwiic_accelerometer_mma8452q  
 (snippet of original readme)  
   
 Qwiic Accelerometer - MMA8452Q  

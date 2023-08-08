@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Multi_Distance_VL53L3CX  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_multi_distance_vl53l3cx  
 (snippet of original readme)  
   
 SparkX Qwiic Multi Distance Sensor - VL53L3CX  

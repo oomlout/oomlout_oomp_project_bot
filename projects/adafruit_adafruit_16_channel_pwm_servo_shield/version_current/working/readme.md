@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-16-channel-PWM-Servo-Shield  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_16_channel_pwm_servo_shield  
 (snippet of original readme)  
   
 - PCB for the Adafruit 16-channel PWM/Servo shield  

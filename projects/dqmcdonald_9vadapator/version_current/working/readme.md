@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 9VAdapator  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_9vadapator  
 (snippet of original readme)  
   
   

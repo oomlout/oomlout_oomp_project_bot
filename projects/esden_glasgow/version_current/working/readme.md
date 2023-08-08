@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Glasgow  by esden  
   
+oomp key: oomp_projects_flat_esden_glasgow  
 (snippet of original readme)  
   
 - Glasgow Debug Tool  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OpenLog  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_openlog  
 (snippet of original readme)  
   
 SparkFun OpenLog  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX_smol_Power_Board_LiPo  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_smol_power_board_lipo  
 (snippet of original readme)  
   
 - SparkX smôl Power Board : LiPo  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DPbadge  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_dpbadge  
 (snippet of original readme)  
   
   

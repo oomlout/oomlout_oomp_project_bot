@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Animated-Eyes-Bonnet-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_animated_eyes_bonnet_pcb  
 (snippet of original readme)  
   
 -- Adafruit Animated Eyes Bonnet PCB  

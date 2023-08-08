@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Lumenati_90L  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lumenati_90l  
 (snippet of original readme)  
   
 SparkFun Lumenati 90L  

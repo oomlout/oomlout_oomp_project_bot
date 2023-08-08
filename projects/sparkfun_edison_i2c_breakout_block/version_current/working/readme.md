@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_I2C_Breakout_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_i2c_breakout_block  
 (snippet of original readme)  
   
 SparkFun Edison I2C Breakout Block  

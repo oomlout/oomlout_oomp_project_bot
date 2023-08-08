@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_CO2_Sensor-SCD4x  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_co2_sensor_scd4x  
 (snippet of original readme)  
   
   

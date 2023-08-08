@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Flora-Mainboard  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_flora_mainboard  
 (snippet of original readme)  
   
 - Adafruit Flora Mainboard PCB Files  

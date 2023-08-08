@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rack_frontpanel_leds  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_rack_frontpanel_leds  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TPL5110-Power-Timer-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tpl5110_power_timer_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit TPL5110 Power Timer Breakout PCB  

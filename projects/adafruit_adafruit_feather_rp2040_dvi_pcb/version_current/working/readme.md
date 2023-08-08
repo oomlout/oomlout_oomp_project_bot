@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-RP2040-DVI-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_rp2040_dvi_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather RP2040 DVI PCB  

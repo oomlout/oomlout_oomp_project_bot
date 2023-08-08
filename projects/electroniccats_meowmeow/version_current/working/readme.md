@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MeowMeow  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_meowmeow  
 (snippet of original readme)  
   
 ![Meow MeowLogo](https://github.com/ElectronicCats/MeowMeow/raw/master/Recursos/meowmeow_logo.png)  

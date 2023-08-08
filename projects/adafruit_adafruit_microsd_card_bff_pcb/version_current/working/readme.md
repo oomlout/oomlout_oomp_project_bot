@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-microSD-Card-BFF-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_microsd_card_bff_pcb  
 (snippet of original readme)  
   
 -- Adafruit microSD Card BFF Add-On for QT Py and Xiao PCB  

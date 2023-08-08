@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CCS811_Air_Quality_Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_ccs811_air_quality_breakout  
 (snippet of original readme)  
   
   

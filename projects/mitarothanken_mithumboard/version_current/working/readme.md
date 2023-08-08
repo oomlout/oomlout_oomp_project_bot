@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mithumboard  by mitaroThanken  
   
+oomp key: oomp_projects_flat_mitarothanken_mithumboard  
 (snippet of original readme)  
   
 - mithumboard  

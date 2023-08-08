@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Hypersoniq  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_hypersoniq  
 (snippet of original readme)  
   
 - Hypersoniq  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## wifi-v2-extension  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_wifi_v2_extension  
 (snippet of original readme)  
   
   

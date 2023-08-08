@@ -1,6 +1,7 @@
 # OOMP Project  
 ## video_card  by hairymnstr  
   
+oomp key: oomp_projects_flat_hairymnstr_video_card  
 (snippet of original readme)  
   
 - ECB Video Card  

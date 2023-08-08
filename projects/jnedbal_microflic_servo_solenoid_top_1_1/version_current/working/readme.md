@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroFLiC_servo_solenoid_top_1_1  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_microflic_servo_solenoid_top_1_1  
 (snippet of original readme)  
   
   

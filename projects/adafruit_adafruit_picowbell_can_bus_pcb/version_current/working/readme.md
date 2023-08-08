@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PiCowbell-CAN-Bus-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_picowbell_can_bus_pcb  
 (snippet of original readme)  
   
 -- Adafruit PiCowbell CAN Bus for Pico - MCP2515 CAN Controller PCB  

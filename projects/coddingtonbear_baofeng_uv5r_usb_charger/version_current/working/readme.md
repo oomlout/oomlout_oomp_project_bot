@@ -1,6 +1,7 @@
 # OOMP Project  
 ## baofeng-uv5r-usb-charger  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_baofeng_uv5r_usb_charger  
 (snippet of original readme)  
   
   

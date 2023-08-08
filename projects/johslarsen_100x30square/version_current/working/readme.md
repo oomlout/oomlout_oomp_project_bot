@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 100x30square  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_100x30square  
 (snippet of original readme)  
   
   

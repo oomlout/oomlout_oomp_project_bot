@@ -1,6 +1,7 @@
 # OOMP Project  
 ## EtherMegaR3  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_ethermegar3  
 (snippet of original readme)  
   
 Freetronics EtherMega R3  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## iCE40-IO  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_ice40_io  
 (snippet of original readme)  
   
 - iCE40-IO  

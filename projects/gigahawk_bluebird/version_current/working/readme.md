@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bluebird  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_bluebird  
 (snippet of original readme)  
   
   

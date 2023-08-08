@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GhettoTMC  by leptun  
   
+oomp key: oomp_projects_flat_leptun_ghettotmc  
 (snippet of original readme)  
   
 GhettoTMC  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AudioExperiments  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_audioexperiments  
 (snippet of original readme)  
   
 - AudioExperiments  

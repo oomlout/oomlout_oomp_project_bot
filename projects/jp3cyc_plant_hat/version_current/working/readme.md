@@ -1,6 +1,7 @@
 # OOMP Project  
 ## plant-hat  by jp3cyc  
   
+oomp key: oomp_projects_flat_jp3cyc_plant_hat  
 (snippet of original readme)  
   
 - plant-hat  

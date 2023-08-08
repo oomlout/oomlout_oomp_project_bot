@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tng-ptc4  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_tng_ptc4  
 (snippet of original readme)  
   
   

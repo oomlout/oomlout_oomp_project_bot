@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Bike-TSL-Kit  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_bike_tsl_kit  
 (snippet of original readme)  
   
 - Bike-TSL-Kit  

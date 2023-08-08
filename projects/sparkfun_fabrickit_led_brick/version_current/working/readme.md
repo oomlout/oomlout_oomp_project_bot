@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Fabrickit_LED_Brick  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_fabrickit_led_brick  
 (snippet of original readme)  
   
 Fabrickit LED Brick  

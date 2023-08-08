@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_PT100_ADS122C04  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_pt100_ads122c04  
 (snippet of original readme)  
   
 - Qwiic PT100 ADS122C04  

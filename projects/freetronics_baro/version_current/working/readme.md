@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BARO  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_baro  
 (snippet of original readme)  
   
   

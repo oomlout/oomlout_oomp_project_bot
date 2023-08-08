@@ -1,6 +1,7 @@
 # OOMP Project  
 ## basebandboard  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_basebandboard  
 (snippet of original readme)  
   
 - basebandboard  

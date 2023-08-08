@@ -1,6 +1,7 @@
 # OOMP Project  
 ## guitarboard  by JonasNorling  
   
+oomp key: oomp_projects_flat_jonasnorling_guitarboard  
 (snippet of original readme)  
   
 The Cortex Guitar Board  

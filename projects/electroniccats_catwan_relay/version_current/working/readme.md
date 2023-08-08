@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatWAN_Relay  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catwan_relay  
 (snippet of original readme)  
   
 - CatWAN Relay  

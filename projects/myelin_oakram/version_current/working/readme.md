@@ -1,6 +1,7 @@
 # OOMP Project  
 ## oakram  by myelin  
   
+oomp key: oomp_projects_flat_myelin_oakram  
 (snippet of original readme)  
   
 - A3010 RAM board  

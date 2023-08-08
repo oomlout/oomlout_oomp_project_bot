@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BLM-Badge-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_blm_badge_pcb  
 (snippet of original readme)  
   
 - BLM-Badge-PCB  

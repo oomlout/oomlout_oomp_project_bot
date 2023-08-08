@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ADXL345_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_adxl345_breakout  
 (snippet of original readme)  
   
 ADXL345 Breakout Board  

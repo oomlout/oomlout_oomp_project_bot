@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-HTU31-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_htu31_pcb  
 (snippet of original readme)  
   
 -- Adafruit HTU31 Temperature & Humidity Sensor Breakout Board PCB  

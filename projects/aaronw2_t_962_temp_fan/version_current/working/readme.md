@@ -1,6 +1,7 @@
 # OOMP Project  
 ##   by   
   
+oomp key:   
 (snippet of original readme)  
   
 This board provides support for up to 4 K-type temperature probes as  

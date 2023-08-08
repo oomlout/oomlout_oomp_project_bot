@@ -1,6 +1,7 @@
 # OOMP Project  
 ## blinkenlights  by barafael  
   
+oomp key: oomp_projects_flat_barafael_blinkenlights  
 (snippet of original readme)  
   
 - blinkenlights: Blink lights and control other things, controlled by up to 5 input channels  

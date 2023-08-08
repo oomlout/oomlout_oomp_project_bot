@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mics_5524_gas_sensor_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit MiCS 5524 Gas Sensor Breakout PCB  

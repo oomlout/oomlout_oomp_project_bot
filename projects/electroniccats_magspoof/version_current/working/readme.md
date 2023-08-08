@@ -1,6 +1,7 @@
 # OOMP Project  
 ## magspoof  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_magspoof  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PCF8574-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pcf8574_pcb  
 (snippet of original readme)  
   
 -- Adafruit PCF8574 I2C GPIO Expander Breakout - STEMMA QT / Qwiic PCB  

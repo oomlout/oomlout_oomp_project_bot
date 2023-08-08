@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CE_Soldering_Practice  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_ce_soldering_practice  
 (snippet of original readme)  
   
   

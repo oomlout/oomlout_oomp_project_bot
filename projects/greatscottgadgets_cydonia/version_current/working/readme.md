@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cydonia  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_cydonia  
 (snippet of original readme)  
   
 - Cydonia  

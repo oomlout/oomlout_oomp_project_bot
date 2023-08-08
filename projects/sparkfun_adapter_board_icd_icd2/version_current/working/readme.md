@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adapter_Board-ICD_ICD2  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_adapter_board_icd_icd2  
 (snippet of original readme)  
   
 SparkFun Adapter Board-ICD/ICD2  

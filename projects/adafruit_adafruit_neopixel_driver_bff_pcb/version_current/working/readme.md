@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoPixel-Driver-BFF-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neopixel_driver_bff_pcb  
 (snippet of original readme)  
   
 -- Adafruit NeoPixel Driver BFF PCB  

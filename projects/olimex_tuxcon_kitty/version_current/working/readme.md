@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TuxCon-Kitty  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_tuxcon_kitty  
 (snippet of original readme)  
   
 - TuxCon-Kitty  

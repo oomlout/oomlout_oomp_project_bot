@@ -1,6 +1,7 @@
 # OOMP Project  
 ## colorchord  by pelrun  
   
+oomp key: oomp_projects_flat_pelrun_colorchord  
 (snippet of original readme)  
   
 ColorChord  

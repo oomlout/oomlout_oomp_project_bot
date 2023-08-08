@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adapter_JTAG20PinTo6Pin  by newAM  
   
+oomp key: oomp_projects_flat_newam_adapter_jtag20pinto6pin  
 (snippet of original readme)  
   
 -- 20-Pin to 6-Pin adapter for JTAG debuggers  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-USB-C-Downstream-Breakout  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_usb_c_downstream_breakout  
 (snippet of original readme)  
   
 -- Adafruit USB C Breakout Board - Downstream Connection PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PIC_Z_Machine_Emulator  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_pic_z_machine_emulator  
 (snippet of original readme)  
   
   

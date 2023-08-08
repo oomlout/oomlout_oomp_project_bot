@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-FPC-SMT-Adapter-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_fpc_smt_adapter_pcbs  
 (snippet of original readme)  
   
 -- Adafruit FPC SMT Adapter PCBs  

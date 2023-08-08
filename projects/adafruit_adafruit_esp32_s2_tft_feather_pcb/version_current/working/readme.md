@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ESP32-S2-TFT-Feather-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_esp32_s2_tft_feather_pcb  
 (snippet of original readme)  
   
 -- Adafruit ESP32-S2 TFT Feather - 4MB Flash, 2MB PSRAM, STEMMA QT PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## raspi-hardware  by diypinball  
   
+oomp key: oomp_projects_flat_diypinball_raspi_hardware  
 (snippet of original readme)  
   
   

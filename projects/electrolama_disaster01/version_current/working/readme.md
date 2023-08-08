@@ -1,6 +1,7 @@
 # OOMP Project  
 ## disaster01  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_disaster01  
 (snippet of original readme)  
   
 - disaster01  

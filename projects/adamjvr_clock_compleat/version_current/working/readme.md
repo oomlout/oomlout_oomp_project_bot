@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Clock-Compleat  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_clock_compleat  
 (snippet of original readme)  
   
   

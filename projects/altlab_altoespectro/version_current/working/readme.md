@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AltoEspectro  by altLab  
   
+oomp key: oomp_projects_flat_altlab_altoespectro  
 (snippet of original readme)  
   
 - AltoEspectro  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## glasgow  by dragonmux  
   
+oomp key: oomp_projects_flat_dragonmux_glasgow  
 (snippet of original readme)  
   
 - Glasgow Debug Tool  

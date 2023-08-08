@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LPS3X-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lps3x_pcb  
 (snippet of original readme)  
   
 - Adafruit-LPS35X-PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CPLD_Breakout  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_cpld_breakout  
 (snippet of original readme)  
   
   

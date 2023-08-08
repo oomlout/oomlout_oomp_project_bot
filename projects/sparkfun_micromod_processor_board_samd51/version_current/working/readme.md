@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Processor_Board-SAMD51  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_processor_board_samd51  
 (snippet of original readme)  
   
 SparkFun MicroMod SAMD51 Processor  

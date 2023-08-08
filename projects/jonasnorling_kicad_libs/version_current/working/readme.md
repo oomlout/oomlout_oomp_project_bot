@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-libs  by JonasNorling  
   
+oomp key: oomp_projects_flat_jonasnorling_kicad_libs  
 (snippet of original readme)  
   
 kicad-libs  

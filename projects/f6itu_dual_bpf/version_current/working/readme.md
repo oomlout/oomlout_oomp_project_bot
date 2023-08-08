@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Dual_BPF  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_dual_bpf  
 (snippet of original readme)  
   
 - Alexiares dual BPF for Orion/Anvelina SDR Board  

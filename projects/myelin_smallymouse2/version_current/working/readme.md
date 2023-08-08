@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SmallyMouse2  by myelin  
   
+oomp key: oomp_projects_flat_myelin_smallymouse2  
 (snippet of original readme)  
   
 -- Synopsis  

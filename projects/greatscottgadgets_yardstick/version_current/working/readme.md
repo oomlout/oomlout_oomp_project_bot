@@ -1,6 +1,7 @@
 # OOMP Project  
 ## yardstick  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_yardstick  
 (snippet of original readme)  
   
 - YARD Stick One  

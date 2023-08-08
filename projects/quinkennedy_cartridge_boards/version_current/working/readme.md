@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cartridge-boards  by quinkennedy  
   
+oomp key: oomp_projects_flat_quinkennedy_cartridge_boards  
 (snippet of original readme)  
   
 This repository is designed to hold various schematics,   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## wifly-remote-android  by cepr  
   
+oomp key: oomp_projects_flat_cepr_wifly_remote_android  
 (snippet of original readme)  
   
 wifly-remote-android  

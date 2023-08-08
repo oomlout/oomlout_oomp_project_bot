@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CourseBipBiere  by nickgagnon  
   
+oomp key: oomp_projects_flat_nickgagnon_coursebipbiere  
 (snippet of original readme)  
   
 - CourseBipBière  

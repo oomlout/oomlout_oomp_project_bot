@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ADXL343-ADT7410-Featherwing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_adxl343_adt7410_featherwing_pcb  
 (snippet of original readme)  
   
 - Adafruit-ADXL353-ADT7410-Featherwing-PCB  

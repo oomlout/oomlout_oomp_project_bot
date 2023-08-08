@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-boards  by nqbit  
   
+oomp key: oomp_projects_flat_nqbit_kicad_boards  
 (snippet of original readme)  
   
 - kicad-boards  

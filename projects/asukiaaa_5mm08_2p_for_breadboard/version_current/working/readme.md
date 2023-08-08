@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 5mm08_2p_for_breadboard  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_5mm08_2p_for_breadboard  
 (snippet of original readme)  
   
 - 5mm08_2p_for_breadboard  

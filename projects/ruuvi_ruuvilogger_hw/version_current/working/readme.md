@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ruuvilogger_hw  by ruuvi  
   
+oomp key: oomp_projects_flat_ruuvi_ruuvilogger_hw  
 (snippet of original readme)  
   
 - RuuviLogger: Open-Source GPS logging device  

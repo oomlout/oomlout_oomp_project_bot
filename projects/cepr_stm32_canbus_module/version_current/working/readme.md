@@ -1,6 +1,7 @@
 # OOMP Project  
 ## stm32-canbus-module  by cepr  
   
+oomp key: oomp_projects_flat_cepr_stm32_canbus_module  
 (snippet of original readme)  
   
   

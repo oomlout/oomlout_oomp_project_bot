@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ppm_to_spektrum_encoder  by esden  
   
+oomp key: oomp_projects_flat_esden_ppm_to_spektrum_encoder  
 (snippet of original readme)  
   
   

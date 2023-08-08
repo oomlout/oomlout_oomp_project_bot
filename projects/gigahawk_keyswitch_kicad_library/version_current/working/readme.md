@@ -1,6 +1,7 @@
 # OOMP Project  
 ## keyswitch-kicad-library  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_keyswitch_kicad_library  
 (snippet of original readme)  
   
 - Keyswitch Kicad Library  

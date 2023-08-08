@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-KB2040-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_kb2040_pcb  
 (snippet of original readme)  
   
 -- Adafruit KB2040 - RP2040 Kee Boar Driver PCB  

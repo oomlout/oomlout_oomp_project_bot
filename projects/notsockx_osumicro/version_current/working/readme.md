@@ -1,6 +1,7 @@
 # OOMP Project  
 ## osumicro  by notsockx  
   
+oomp key: oomp_projects_flat_notsockx_osumicro  
 (snippet of original readme)  
   
 - osumicro  

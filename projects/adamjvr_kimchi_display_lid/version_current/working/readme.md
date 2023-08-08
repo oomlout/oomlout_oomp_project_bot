@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kimchi-display-lid  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_kimchi_display_lid  
 (snippet of original readme)  
   
 - kimχ micro display lid  

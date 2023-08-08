@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ruuvitag_hw  by ruuvi  
   
+oomp key: oomp_projects_flat_ruuvi_ruuvitag_hw  
 (snippet of original readme)  
   
 - RuuviTag: Open-Source Sensor Platform  

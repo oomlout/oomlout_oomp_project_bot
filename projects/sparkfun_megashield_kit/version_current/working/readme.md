@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MegaShield_Kit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_megashield_kit  
 (snippet of original readme)  
   
 SparkFun MegaShield Kit  

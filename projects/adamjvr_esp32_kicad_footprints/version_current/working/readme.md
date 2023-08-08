@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32-kiCAD-Footprints  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_esp32_kicad_footprints  
 (snippet of original readme)  
   
 - ESP32-kiCAD-Footprints  

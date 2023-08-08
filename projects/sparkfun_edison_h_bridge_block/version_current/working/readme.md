@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_H-Bridge_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_h_bridge_block  
 (snippet of original readme)  
   
 Dual H-bridge  

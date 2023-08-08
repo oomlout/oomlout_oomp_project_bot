@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ardas-shield  by UMONS-GFA  
   
+oomp key: oomp_projects_flat_umons_gfa_ardas_shield  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoTrellis-4x4-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neotrellis_4x4_pcb  
 (snippet of original readme)  
   
 -- Adafruit NeoTrellis RGB Driver PCB for 4x4 Keypad PCB  

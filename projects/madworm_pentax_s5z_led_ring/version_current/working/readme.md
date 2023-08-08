@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pentax-S5z-LED-ring  by madworm  
   
+oomp key: oomp_projects_flat_madworm_pentax_s5z_led_ring  
 (snippet of original readme)  
   
   

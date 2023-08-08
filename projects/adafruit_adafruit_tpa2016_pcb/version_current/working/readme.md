@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TPA2016-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tpa2016_pcb  
 (snippet of original readme)  
   
 - Adafruit Stereo 2.8W Class D Audio Amplifier TPA2016 PCB  

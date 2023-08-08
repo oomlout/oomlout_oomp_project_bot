@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Accelerometer_LIS2DH12  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_accelerometer_lis2dh12  
 (snippet of original readme)  
   
 Qwiic Accelerometer LIS2DH12  

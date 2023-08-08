@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-AW9523-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_aw9523_pcb  
 (snippet of original readme)  
   
 -- Adafruit AW9523 GPIO Expander and LED Driver PCB  

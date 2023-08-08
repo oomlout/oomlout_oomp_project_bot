@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Bluefruit-EZ-Link-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bluefruit_ez_link_shield_pcb  
 (snippet of original readme)  
   
 -- Adafruit Bluefruit EZ Link Shield PCB  

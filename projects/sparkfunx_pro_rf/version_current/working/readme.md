@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pro_RF  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_pro_rf  
 (snippet of original readme)  
   
 SparkFun ProRF with RFM69/RFM95 LoRa  

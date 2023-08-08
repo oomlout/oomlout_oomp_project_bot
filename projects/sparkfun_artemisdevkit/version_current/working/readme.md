@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ArtemisDevKit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_artemisdevkit  
 (snippet of original readme)  
   
 SparkFun Artemis Development Kit  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## lpc1114_universal  by jp3cyc  
   
+oomp key: oomp_projects_flat_jp3cyc_lpc1114_universal  
 (snippet of original readme)  
   
   

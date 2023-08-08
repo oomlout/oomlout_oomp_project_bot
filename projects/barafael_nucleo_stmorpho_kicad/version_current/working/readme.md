@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nucleo-stmorpho-kicad  by barafael  
   
+oomp key: oomp_projects_flat_barafael_nucleo_stmorpho_kicad  
 (snippet of original readme)  
   
 - nucleo-stmorpho-kicad  

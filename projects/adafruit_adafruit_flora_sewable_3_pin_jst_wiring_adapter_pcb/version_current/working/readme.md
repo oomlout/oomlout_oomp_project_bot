@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_flora_sewable_3_pin_jst_wiring_adapter_pcb  
 (snippet of original readme)  
   
 -- Adafruit Flora Sewable 3-Pin JST Wiring Adapter PCB  

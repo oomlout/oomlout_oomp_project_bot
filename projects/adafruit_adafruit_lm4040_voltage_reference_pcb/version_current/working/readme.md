@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LM4040-Voltage-Reference-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lm4040_voltage_reference_pcb  
 (snippet of original readme)  
   
 -- Adafruit LM4040 Voltage Reference PCB  

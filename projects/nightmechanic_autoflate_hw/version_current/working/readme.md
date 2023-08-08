@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Autoflate_HW  by nightmechanic  
   
+oomp key: oomp_projects_flat_nightmechanic_autoflate_hw  
 (snippet of original readme)  
   
   

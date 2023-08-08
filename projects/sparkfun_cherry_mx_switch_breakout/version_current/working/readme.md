@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Cherry_MX_Switch_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_cherry_mx_switch_breakout  
 (snippet of original readme)  
   
 SparkFun Cherry MX Switch Breakout  

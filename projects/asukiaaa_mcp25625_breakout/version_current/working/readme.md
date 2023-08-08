@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MCP25625-breakout  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_mcp25625_breakout  
 (snippet of original readme)  
   
 - MCP25625-breakout  

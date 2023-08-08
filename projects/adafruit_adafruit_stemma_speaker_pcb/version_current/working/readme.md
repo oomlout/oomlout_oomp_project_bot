@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-STEMMA-Speaker-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_stemma_speaker_pcb  
 (snippet of original readme)  
   
 -- Adafruit STEMMA Speaker Plug and Play Audio Amplifier PCB  

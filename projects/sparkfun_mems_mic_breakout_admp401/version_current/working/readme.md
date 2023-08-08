@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MEMS_Mic_Breakout-ADMP401  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mems_mic_breakout_admp401  
 (snippet of original readme)  
   
 **NOTE:** *This product has been retired from our catalog due to the IC being EOL. We recommend checking out the [ICS-40180](https://www.sparkfun.com/products/18011) as an alternative. While the ICS-40180 has similar characteristics, note that the footprint is different than the ADMP401. If you are looking for more up-to-date info, please check out the following resource to see how other users are still hacking and improving on this product.*  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PiLevenMini  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_pilevenmini  
 (snippet of original readme)  
   
   

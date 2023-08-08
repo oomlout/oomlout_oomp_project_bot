@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Flora-Bluefruit-LE-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_flora_bluefruit_le_pcb  
 (snippet of original readme)  
   
 -- Adafruit Flora Bluefruit LE PCB  

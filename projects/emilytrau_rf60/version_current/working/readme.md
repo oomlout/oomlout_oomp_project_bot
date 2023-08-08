@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rf60  by emilytrau  
   
+oomp key: oomp_projects_flat_emilytrau_rf60  
 (snippet of original readme)  
   
   

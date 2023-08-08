@@ -1,6 +1,7 @@
 # OOMP Project  
 ## S3-OLinuXino  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_s3_olinuxino  
 (snippet of original readme)  
   
 - S3-OLinuXino  

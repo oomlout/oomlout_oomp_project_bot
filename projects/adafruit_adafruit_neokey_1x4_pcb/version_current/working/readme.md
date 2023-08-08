@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoKey-1x4-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neokey_1x4_pcb  
 (snippet of original readme)  
   
 -- Adafruit NeoKey 1x4 QT I2C PCB  

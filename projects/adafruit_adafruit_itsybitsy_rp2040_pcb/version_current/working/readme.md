@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ItsyBitsy-RP2040-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_itsybitsy_rp2040_pcb  
 (snippet of original readme)  
   
 -- Adafruit ItsyBitsy RP2040 PCB  

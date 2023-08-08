@@ -1,6 +1,7 @@
 # OOMP Project  
 ## simplified-open-source-hardware-template-for-GitHub-Pages  by Drc3p0  
   
+oomp key: oomp_projects_flat_drc3p0_simplified_open_source_hardware_template_for_github_pages  
 (snippet of original readme)  
   
 Open Hardware Project Template  

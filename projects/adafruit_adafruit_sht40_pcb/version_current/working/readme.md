@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SHT40-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_sht40_pcb  
 (snippet of original readme)  
   
 -- Adafruit SHT40, SHT41, and SHT45 Temperature & Humidity Sensor PCBs  

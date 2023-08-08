@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-FONA-808-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_fona_808_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit FONA 808 Breakout PCB  

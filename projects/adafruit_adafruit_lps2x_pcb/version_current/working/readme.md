@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LPS2X-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lps2x_pcb  
 (snippet of original readme)  
   
 -- Adafruit LPS2X family of absolute pressure sensors PCB  

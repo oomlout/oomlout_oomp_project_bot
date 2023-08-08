@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatWAN_Citizen  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catwan_citizen  
 (snippet of original readme)  
   
 - CatWAN Citizen Sensor Board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Ultimate-GPS-HAT-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ultimate_gps_hat_pcb  
 (snippet of original readme)  
   
 -- Adafruit Ultimate GPS HAT PCB  

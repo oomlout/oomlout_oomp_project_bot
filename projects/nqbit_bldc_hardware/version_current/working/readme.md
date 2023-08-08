@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bldc-hardware  by nqbit  
   
+oomp key: oomp_projects_flat_nqbit_bldc_hardware  
 (snippet of original readme)  
   
 bldc-hardware  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Vento  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_vento  
 (snippet of original readme)  
   
 - Vento  

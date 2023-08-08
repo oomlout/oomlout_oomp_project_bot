@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DRV2605-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_drv2605_pcb  
 (snippet of original readme)  
   
 - Adafruit DRV2605 Haptic Motor Controller PCB  

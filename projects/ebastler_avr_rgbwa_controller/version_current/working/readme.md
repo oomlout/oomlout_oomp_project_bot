@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AVR-RGBWA-Controller  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_avr_rgbwa_controller  
 (snippet of original readme)  
   
 -- AVR RGBWA Controller  

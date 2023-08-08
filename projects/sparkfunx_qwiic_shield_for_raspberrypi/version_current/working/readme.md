@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Shield_for_RaspberryPi  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_shield_for_raspberrypi  
 (snippet of original readme)  
   
 Qwiic Shield for Raspberry Pi  

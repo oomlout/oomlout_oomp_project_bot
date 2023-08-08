@@ -1,6 +1,7 @@
 # OOMP Project  
 ## samd21-template  by candykingdom  
   
+oomp key: oomp_projects_flat_candykingdom_samd21_template  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## breakout-boards  by myelin  
   
+oomp key: oomp_projects_flat_myelin_breakout_boards  
 (snippet of original readme)  
   
 - breakout-boards  

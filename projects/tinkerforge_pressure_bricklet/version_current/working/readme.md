@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pressure-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_pressure_bricklet  
 (snippet of original readme)  
   
   

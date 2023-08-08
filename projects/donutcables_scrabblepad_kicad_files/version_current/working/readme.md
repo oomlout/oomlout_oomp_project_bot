@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ScrabblePad-Kicad-Files  by DonutCables  
   
+oomp key: oomp_projects_flat_donutcables_scrabblepad_kicad_files  
 (snippet of original readme)  
   
 - ScrabblePad_Kicad_Files  

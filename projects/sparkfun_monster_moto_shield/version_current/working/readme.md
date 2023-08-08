@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Monster_Moto_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_monster_moto_shield  
 (snippet of original readme)  
   
 Monster Moto Shield  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-source-mirror  by asutp  
   
+oomp key: oomp_projects_flat_asutp_kicad_source_mirror  
 (snippet of original readme)  
   
   

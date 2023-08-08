@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MacVRAMSIMM  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_macvramsimm  
 (snippet of original readme)  
   
   

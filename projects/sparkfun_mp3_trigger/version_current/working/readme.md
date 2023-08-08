@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MP3_Trigger  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mp3_trigger  
 (snippet of original readme)  
   
 MP3 Trigger  

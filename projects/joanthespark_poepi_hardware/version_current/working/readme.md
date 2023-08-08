@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PoEPi-hardware  by JoanTheSpark  
   
+oomp key: oomp_projects_flat_joanthespark_poepi_hardware  
 (snippet of original readme)  
   
 -- Raspberry Pi Zero - PoEPi  

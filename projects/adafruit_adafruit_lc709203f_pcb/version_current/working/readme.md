@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LC709203F-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lc709203f_pcb  
 (snippet of original readme)  
   
 -- Adafruit LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor PCB  

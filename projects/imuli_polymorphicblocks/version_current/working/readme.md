@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PolymorphicBlocks  by imuli  
   
+oomp key: oomp_projects_flat_imuli_polymorphicblocks  
 (snippet of original readme)  
   
 - Polymorphic Blocks  

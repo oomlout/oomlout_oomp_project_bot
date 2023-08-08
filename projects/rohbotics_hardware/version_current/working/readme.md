@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hardware  by rohbotics  
   
+oomp key: oomp_projects_flat_rohbotics_hardware  
 (snippet of original readme)  
   
 - Hardware  

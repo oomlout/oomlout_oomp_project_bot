@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nucleo-harness  by barafael  
   
+oomp key: oomp_projects_flat_barafael_nucleo_harness  
 (snippet of original readme)  
   
 - Nucleo Harness  

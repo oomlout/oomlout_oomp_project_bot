@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Rechargeable_battery_capacity_tester_shield  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_rechargeable_battery_capacity_tester_shield  
 (snippet of original readme)  
   
   

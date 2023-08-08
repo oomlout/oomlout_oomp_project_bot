@@ -1,6 +1,7 @@
 # OOMP Project  
 ## raspican  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_raspican  
 (snippet of original readme)  
   
 - raspican  

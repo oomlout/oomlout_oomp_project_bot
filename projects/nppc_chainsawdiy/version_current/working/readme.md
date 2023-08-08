@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ChainSawDIY  by nppc  
   
+oomp key: oomp_projects_flat_nppc_chainsawdiy  
 (snippet of original readme)  
   
 - ChainSawDIY  

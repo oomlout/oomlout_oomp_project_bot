@@ -1,6 +1,7 @@
 # OOMP Project  
 ## minievse  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_minievse  
 (snippet of original readme)  
   
 - miniEVSE  

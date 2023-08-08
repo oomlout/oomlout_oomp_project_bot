@@ -1,6 +1,7 @@
 # OOMP Project  
 ## eAVR  by kiu  
   
+oomp key: oomp_projects_flat_kiu_eavr  
 (snippet of original readme)  
   
 ![eAVR-banner](https://raw.githubusercontent.com/kiu/eAVR/main/img/eAVR-banner.jpg)  

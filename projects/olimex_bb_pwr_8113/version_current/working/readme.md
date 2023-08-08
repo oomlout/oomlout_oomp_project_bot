@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BB-PWR-8113  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_bb_pwr_8113  
 (snippet of original readme)  
   
 - BB-PWR-8113  

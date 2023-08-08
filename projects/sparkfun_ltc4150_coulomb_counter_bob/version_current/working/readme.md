@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LTC4150_Coulomb_Counter_BOB  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ltc4150_coulomb_counter_bob  
 (snippet of original readme)  
   
 SparkFun Coulomb Counter Breakout - LTC4150  

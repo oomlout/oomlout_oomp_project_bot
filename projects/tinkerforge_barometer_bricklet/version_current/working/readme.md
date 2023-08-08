@@ -1,6 +1,7 @@
 # OOMP Project  
 ## barometer-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_barometer_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP1SH  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_esp1sh  
 (snippet of original readme)  
   
 Freetronics ESP8266 / ESP-01 (WiFi) Breakout Shield  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TorretaWiFi  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_torretawifi  
 (snippet of original readme)  
   
 - Torreta ESP  

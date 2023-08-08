@@ -1,6 +1,7 @@
 # OOMP Project  
 ## WiFiTracker  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_wifitracker  
 (snippet of original readme)  
   
 - WiFiTracker  

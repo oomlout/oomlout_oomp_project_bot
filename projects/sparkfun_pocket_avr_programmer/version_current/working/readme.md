@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pocket_AVR_Programmer  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_pocket_avr_programmer  
 (snippet of original readme)  
   
 Pocket AVR Programmer  

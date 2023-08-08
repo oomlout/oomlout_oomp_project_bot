@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SilentStepStick  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_silentstepstick  
 (snippet of original readme)  
   
 - SilentStepStick  

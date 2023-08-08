@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pic-bps-display  by gutierrezps  
   
+oomp key: oomp_projects_flat_gutierrezps_pic_bps_display  
 (snippet of original readme)  
   
 - PIC Bench Power Supply display  

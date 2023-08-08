@@ -1,6 +1,7 @@
 # OOMP Project  
 ## sp3485-breakout  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_sp3485_breakout  
 (snippet of original readme)  
   
 - sp3485-breakout  

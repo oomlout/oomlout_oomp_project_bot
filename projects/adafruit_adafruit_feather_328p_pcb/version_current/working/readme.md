@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-328P-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_328p_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather 328P PCB  

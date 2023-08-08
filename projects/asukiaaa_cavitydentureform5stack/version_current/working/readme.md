@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CavityDentureForM5Stack  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_cavitydentureform5stack  
 (snippet of original readme)  
   
 - CavityDentureForM5Stack  

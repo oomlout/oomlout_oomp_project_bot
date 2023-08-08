@@ -1,6 +1,7 @@
 # OOMP Project  
 ## helix  by cormoran  
   
+oomp key: oomp_projects_flat_cormoran_helix  
 (snippet of original readme)  
   
 - Helix  

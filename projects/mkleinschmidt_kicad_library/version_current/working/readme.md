@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by mkleinschmidt  
   
+oomp key: oomp_projects_flat_mkleinschmidt_kicad_library  
 (snippet of original readme)  
   
 **This is a legacy repository for use with KiCad 4.0.x. It will no longer be maintained.**  

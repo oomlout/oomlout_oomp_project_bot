@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PC-Case-Modding-tool  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_pc_case_modding_tool  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Mini-PiTFT-240x135-TFT-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mini_pitft_240x135_tft_pcb  
 (snippet of original readme)  
   
 -- Adafruit Mini PiTFT - 135x240 and 240x240 Color TFT Add-ons for Raspberry Pi PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MiniPOV4-Kit  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_minipov4_kit  
 (snippet of original readme)  
   
 MiniPOV4-Kit  

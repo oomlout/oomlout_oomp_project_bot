@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Air_Quality_Sensor_SGP40  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qwiic_air_quality_sensor_sgp40  
 (snippet of original readme)  
   
 SparkFun Air Quality Sensor Breakout - SGP40 (Qwiic)  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_UV  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_uv  
 (snippet of original readme)  
   
 SparkFun gator:UV - micro:bit Accessory Board  

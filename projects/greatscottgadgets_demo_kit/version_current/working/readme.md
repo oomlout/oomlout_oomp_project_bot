@@ -1,6 +1,7 @@
 # OOMP Project  
 ## demo-kit  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_demo_kit  
 (snippet of original readme)  
   
 - demo-kit  

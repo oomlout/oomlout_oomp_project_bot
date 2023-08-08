@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_ATP_Carrier_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_atp_carrier_board  
 (snippet of original readme)  
   
 SparkFun MicroMod ATP Carrier Board  

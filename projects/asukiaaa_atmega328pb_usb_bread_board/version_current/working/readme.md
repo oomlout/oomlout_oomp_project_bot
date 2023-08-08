@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ATmega328PB-usb-bread-board  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_atmega328pb_usb_bread_board  
 (snippet of original readme)  
   
 - ATmega328PB-usb-bread-board  

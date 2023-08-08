@@ -1,6 +1,7 @@
 # OOMP Project  
 ## flattree  by kiu  
   
+oomp key: oomp_projects_flat_kiu_flattree  
 (snippet of original readme)  
   
 - flattree  

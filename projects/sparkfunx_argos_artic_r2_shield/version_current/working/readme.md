@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ARGOS-ARTIC-R2-Shield  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_argos_artic_r2_shield  
 (snippet of original readme)  
   
 - ARGOS Satellite Transceiver Shield  

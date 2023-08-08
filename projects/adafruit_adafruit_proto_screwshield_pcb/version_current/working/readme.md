@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Proto-Screwshield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_proto_screwshield_pcb  
 (snippet of original readme)  
   
 - Proto-Screwshield (Wingshield) R3 Kit for Arduino  

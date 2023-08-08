@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_NonContact_Thermo_MLX90632  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_noncontact_thermo_mlx90632  
 (snippet of original readme)  
   
 SparkFun Melexis MLX90632 Qwiic Breakout  

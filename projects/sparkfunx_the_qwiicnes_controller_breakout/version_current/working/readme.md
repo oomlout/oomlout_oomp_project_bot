@@ -1,6 +1,7 @@
 # OOMP Project  
 ## The_QwiicNES_Controller_Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_the_qwiicnes_controller_breakout  
 (snippet of original readme)  
   
 - The_QwiicNES_Controller_Breakout  

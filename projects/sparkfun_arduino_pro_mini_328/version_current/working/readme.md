@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Arduino_Pro_Mini_328  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_arduino_pro_mini_328  
 (snippet of original readme)  
   
 Arduino Pro Mini 328  

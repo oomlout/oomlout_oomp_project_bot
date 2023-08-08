@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Desktop-PickAndPlace-CHMT36VA  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_desktop_pickandplace_chmt36va  
 (snippet of original readme)  
   
 SparkFun Charm High Desktop Pick and Place  

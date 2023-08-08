@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-128x32-SPI-OLED-breakout-board-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_128x32_spi_oled_breakout_board_pcb  
 (snippet of original readme)  
   
 - Monochrome 128x32 SPI OLED graphic display  

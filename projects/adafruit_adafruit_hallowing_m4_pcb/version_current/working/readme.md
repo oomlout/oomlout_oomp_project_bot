@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Hallowing-M4-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_hallowing_m4_pcb  
 (snippet of original readme)  
   
 -- Adafruit Hallowing M4 PCB  

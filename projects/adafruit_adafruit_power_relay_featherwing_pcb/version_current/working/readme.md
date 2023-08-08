@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Power-Relay-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_power_relay_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit Power Relay FeatherWing PCB  

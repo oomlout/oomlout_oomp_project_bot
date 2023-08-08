@@ -1,6 +1,7 @@
 # OOMP Project  
 ## keyboard_featherwing_zero_adapter  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_keyboard_featherwing_zero_adapter  
 (snippet of original readme)  
   
 - Raspberry Pi Zero Adapter for the Keyboard FeatherWing  

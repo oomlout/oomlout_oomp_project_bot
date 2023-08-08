@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CircuitPython_Badge_README  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_circuitpython_badge_readme  
 (snippet of original readme)  
   
 - CircuitPython_Badge_README  

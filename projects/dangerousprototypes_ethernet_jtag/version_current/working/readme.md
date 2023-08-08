@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Ethernet_JTAG  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_ethernet_jtag  
 (snippet of original readme)  
   
   

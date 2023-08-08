@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Flora-LSM303-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_flora_lsm303_pcb  
 (snippet of original readme)  
   
 - Adafruit Flora LSM303 Sensor PCB  

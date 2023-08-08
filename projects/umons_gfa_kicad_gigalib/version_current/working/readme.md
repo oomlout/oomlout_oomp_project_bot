@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-gigalib  by UMONS-GFA  
   
+oomp key: oomp_projects_flat_umons_gfa_kicad_gigalib  
 (snippet of original readme)  
   
 kicad-library  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX_smol_Environmental  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_smol_environmental  
 (snippet of original readme)  
   
 - SparkX smôl Environmental Peripheral Board  

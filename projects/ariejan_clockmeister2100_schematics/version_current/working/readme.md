@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ClockMeister2100-Schematics  by ariejan  
   
+oomp key: oomp_projects_flat_ariejan_clockmeister2100_schematics  
 (snippet of original readme)  
   
 - ClockMeister 2100 Schematics  

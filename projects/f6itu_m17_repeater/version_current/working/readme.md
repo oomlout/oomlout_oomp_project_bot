@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M17_Repeater  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_m17_repeater  
 (snippet of original readme)  
   
 - M17_Repeater  

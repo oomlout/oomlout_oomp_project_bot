@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Data_Logging_Carrier  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_data_logging_carrier  
 (snippet of original readme)  
   
 SparkFun MicroMod Data Logging Carrier Board  

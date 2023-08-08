@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mprls_pressure_sensor_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit MPRLS Ported Pressure Sensor Breakout - 0 to 25 PSI PCB  

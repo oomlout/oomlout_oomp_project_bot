@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AD5254Breakout  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_ad5254breakout  
 (snippet of original readme)  
   
 - AD5254 Breakout  

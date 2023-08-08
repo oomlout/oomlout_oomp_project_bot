@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Micro_OLED_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micro_oled_breakout  
 (snippet of original readme)  
   
 Micro OLED Breakout  

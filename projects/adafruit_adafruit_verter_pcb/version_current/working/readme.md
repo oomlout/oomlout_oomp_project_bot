@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Verter-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_verter_pcb  
 (snippet of original readme)  
   
 -- Adafruit Verter Buck/Boost Breakout PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cvra-cape  by cvra  
   
+oomp key: oomp_projects_flat_cvra_cvra_cape  
 (snippet of original readme)  
   
 - CVRA cape  

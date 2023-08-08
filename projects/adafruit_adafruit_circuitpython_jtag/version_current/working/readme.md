@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_CircuitPython_JTAG  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_circuitpython_jtag  
 (snippet of original readme)  
   
 - TinyFPGA Programmer  

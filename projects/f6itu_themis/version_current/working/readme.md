@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Themis  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_themis  
 (snippet of original readme)  
   
 - Themis  

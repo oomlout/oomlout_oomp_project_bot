@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by realthunder  
   
+oomp key: oomp_projects_flat_realthunder_kicad_library  
 (snippet of original readme)  
   
 kicad-library  

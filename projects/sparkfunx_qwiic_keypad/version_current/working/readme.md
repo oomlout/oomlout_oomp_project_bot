@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Keypad  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_keypad  
 (snippet of original readme)  
   
 SparkFun Qwiic KeyPad  

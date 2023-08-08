@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ElectronFpga  by myelin  
   
+oomp key: oomp_projects_flat_myelin_electronfpga  
 (snippet of original readme)  
   
 - ElectronFpga  

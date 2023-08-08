@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Youyue-858D-plus-FAN-speed-mod  by madworm  
   
+oomp key: oomp_projects_flat_madworm_youyue_858d_plus_fan_speed_mod  
 (snippet of original readme)  
   
   

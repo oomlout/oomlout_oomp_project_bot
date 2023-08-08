@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CCS811_Air_Quality_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ccs811_air_quality_breakout  
 (snippet of original readme)  
   
 SparkFun CCS811 Air Quality Breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## K_Relay_Board  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_k_relay_board  
 (snippet of original readme)  
   
 - K_Relay_Board  

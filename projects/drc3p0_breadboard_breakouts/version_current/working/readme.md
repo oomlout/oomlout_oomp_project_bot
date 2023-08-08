@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Breadboard_Breakouts  by Drc3p0  
   
+oomp key: oomp_projects_flat_drc3p0_breadboard_breakouts  
 (snippet of original readme)  
   
 - Breadboard_Breakouts  

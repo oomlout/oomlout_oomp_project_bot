@@ -1,6 +1,7 @@
 # OOMP Project  
 ## line-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_line_bricklet  
 (snippet of original readme)  
   
   

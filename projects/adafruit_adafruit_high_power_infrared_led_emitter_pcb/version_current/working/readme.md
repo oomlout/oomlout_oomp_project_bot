@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-High-Power-Infrared-LED-Emitter-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_high_power_infrared_led_emitter_pcb  
 (snippet of original readme)  
   
 -- Adafruit High Power Infrared LED Emitter PCB  

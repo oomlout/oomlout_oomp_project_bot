@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TinyReflowController  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_tinyreflowcontroller  
 (snippet of original readme)  
   
 - Tiny Reflow Controller  

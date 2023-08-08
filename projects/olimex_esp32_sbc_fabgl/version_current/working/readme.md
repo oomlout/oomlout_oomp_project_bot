@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32-SBC-FabGL  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_esp32_sbc_fabgl  
 (snippet of original readme)  
   
 - ESP32-SBC-FabGL  

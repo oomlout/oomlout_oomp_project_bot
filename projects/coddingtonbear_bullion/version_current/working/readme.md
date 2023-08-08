@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bullion  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_bullion  
 (snippet of original readme)  
   
 - USB & SPI Interface for FS9721-based Multimeter (Bullion)  

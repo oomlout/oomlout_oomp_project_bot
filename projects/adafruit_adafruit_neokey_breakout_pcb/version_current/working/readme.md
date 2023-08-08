@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoKey-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neokey_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit NeoKey Breakout with NeoPixel PCB  

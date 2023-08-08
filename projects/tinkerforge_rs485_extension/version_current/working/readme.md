@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rs485-extension  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_rs485_extension  
 (snippet of original readme)  
   
   

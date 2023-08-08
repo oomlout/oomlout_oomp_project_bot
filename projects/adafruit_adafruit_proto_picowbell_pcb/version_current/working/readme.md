@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Proto-PiCowbell-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_proto_picowbell_pcb  
 (snippet of original readme)  
   
 -- Adafruit PiCowbell Proto for Pico PCB  

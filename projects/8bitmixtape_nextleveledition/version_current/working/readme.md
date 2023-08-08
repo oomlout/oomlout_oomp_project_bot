@@ -1,6 +1,7 @@
 # OOMP Project  
 ## NextLevelEdition  by 8BitMixtape  
   
+oomp key: oomp_projects_flat_8bitmixtape_nextleveledition  
 (snippet of original readme)  
   
 NextLevelEdition  

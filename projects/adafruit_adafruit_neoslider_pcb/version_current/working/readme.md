@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoSlider-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neoslider_pcb  
 (snippet of original readme)  
   
 -- Adafruit NeoSlider I2C QT Slide Potentiometer with 4 NeoPixels - STEMMA QT/QWIIC PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## line_injector  by PatrickBaus  
   
+oomp key: oomp_projects_flat_patrickbaus_line_injector  
 (snippet of original readme)  
   
 Line Injector  

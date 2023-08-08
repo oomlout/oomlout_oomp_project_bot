@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Q916  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_q916  
 (snippet of original readme)  
   
 - Q916  

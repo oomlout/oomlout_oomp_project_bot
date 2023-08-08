@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LT3045_breakout  by PatrickBaus  
   
+oomp key: oomp_projects_flat_patrickbaus_lt3045_breakout  
 (snippet of original readme)  
   
 LT3042/LT3045 Breakout Board  

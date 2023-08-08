@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-I2S-Amplifier-BFF-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_i2s_amplifier_bff_pcb  
 (snippet of original readme)  
   
 -- Adafruit I2S Amplifier BFF PCB  

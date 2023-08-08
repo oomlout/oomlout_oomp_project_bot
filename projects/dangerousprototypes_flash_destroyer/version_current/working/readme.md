@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Flash_Destroyer  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_flash_destroyer  
 (snippet of original readme)  
   
   

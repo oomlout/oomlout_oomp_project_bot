@@ -1,6 +1,7 @@
 # OOMP Project  
 ## outdoor-weather-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_outdoor_weather_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## WindLogger  by re-innovation  
   
+oomp key: oomp_projects_flat_re_innovation_windlogger  
 (snippet of original readme)  
   
 - Low Cost Data Logger for Wind Speed Parameters  

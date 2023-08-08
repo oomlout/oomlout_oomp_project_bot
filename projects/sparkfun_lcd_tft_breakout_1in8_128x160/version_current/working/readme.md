@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LCD_TFT_Breakout_1in8_128x160  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lcd_tft_breakout_1in8_128x160  
 (snippet of original readme)  
   
 SparkFun LCD TFT Breakout 1.8" 128x160  

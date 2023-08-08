@@ -1,6 +1,7 @@
 # OOMP Project  
 ## fortitude60  by haru-ake  
   
+oomp key: oomp_projects_flat_haru_ake_fortitude60  
 (snippet of original readme)  
   
 - Fortitude60  

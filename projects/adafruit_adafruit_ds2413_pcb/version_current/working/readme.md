@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DS2413-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ds2413_pcb  
 (snippet of original readme)  
   
 -- DS2413 1-Wire Two GPIO Controller Breakout PCB  

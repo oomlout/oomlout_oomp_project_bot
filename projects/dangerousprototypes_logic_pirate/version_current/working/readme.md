@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Logic_Pirate  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_logic_pirate  
 (snippet of original readme)  
   
   

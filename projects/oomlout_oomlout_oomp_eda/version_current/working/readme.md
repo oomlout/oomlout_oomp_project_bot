@@ -1,6 +1,7 @@
 # OOMP Project  
 ## oomlout_OOMP_eda  by oomlout  
   
+oomp key: oomp_projects_flat_oomlout_oomlout_oomp_eda  
 (snippet of original readme)  
   
 - oomlout_OOMP_eda  

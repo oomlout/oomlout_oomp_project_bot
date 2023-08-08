@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Stepper-Driver-testbench  by BCN3D  
   
+oomp key: oomp_projects_flat_bcn3d_stepper_driver_testbench  
 (snippet of original readme)  
   
 - Stepper Driver Test Bench  

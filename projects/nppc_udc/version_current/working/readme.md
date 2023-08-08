@@ -1,6 +1,7 @@
 # OOMP Project  
 ## uDC  by nppc  
   
+oomp key: oomp_projects_flat_nppc_udc  
 (snippet of original readme)  
   
   

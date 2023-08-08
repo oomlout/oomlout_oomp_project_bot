@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MOD-RTC2  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_mod_rtc2  
 (snippet of original readme)  
   
 - MOD-RTC2  

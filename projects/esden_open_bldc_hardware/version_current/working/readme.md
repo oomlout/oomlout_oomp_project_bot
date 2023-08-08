@@ -1,6 +1,7 @@
 # OOMP Project  
 ## open-bldc-hardware  by esden  
   
+oomp key: oomp_projects_flat_esden_open_bldc_hardware  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mouserial-prototype  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_mouserial_prototype  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## simplified-open-source-hardware-template  by Drc3p0  
   
+oomp key: oomp_projects_flat_drc3p0_simplified_open_source_hardware_template  
 (snippet of original readme)  
   
 Open Hardware Project Template  

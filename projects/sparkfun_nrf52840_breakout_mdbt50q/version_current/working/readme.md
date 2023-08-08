@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nRF52840_Breakout_MDBT50Q  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_nrf52840_breakout_mdbt50q  
 (snippet of original readme)  
   
 SparkFun Pro nRF52840 Mini - Bluetooth Development Board  

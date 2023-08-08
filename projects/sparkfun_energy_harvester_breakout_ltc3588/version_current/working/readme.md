@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Energy_Harvester_Breakout-LTC3588  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_energy_harvester_breakout_ltc3588  
 (snippet of original readme)  
   
 SparkFun Energy Harvester Breakout - LTC3588  

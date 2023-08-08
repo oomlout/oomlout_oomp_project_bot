@@ -1,6 +1,7 @@
 # OOMP Project  
 ## coaster  by jp3cyc  
   
+oomp key: oomp_projects_flat_jp3cyc_coaster  
 (snippet of original readme)  
   
 - coaster  

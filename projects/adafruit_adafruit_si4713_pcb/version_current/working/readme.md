@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Si4713-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_si4713_pcb  
 (snippet of original readme)  
   
 - Adafruit Si4713 FM Transmitter Breakout PCB  

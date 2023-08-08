@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED-strip_90x4mm  by madworm  
   
+oomp key: oomp_projects_flat_madworm_led_strip_90x4mm  
 (snippet of original readme)  
   
   

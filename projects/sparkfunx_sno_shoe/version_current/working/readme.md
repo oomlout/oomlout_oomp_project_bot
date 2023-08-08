@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Sno_Shoe  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sno_shoe  
 (snippet of original readme)  
   
 - Snō Shoe  

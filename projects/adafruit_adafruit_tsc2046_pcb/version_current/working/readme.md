@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TSC2046-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tsc2046_pcb  
 (snippet of original readme)  
   
 -- Adafruit TSC2046 SPI Resistive Touch Screen Controller PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LogicBlocks  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_logicblocks  
 (snippet of original readme)  
   
 LogicBlocks Kit  

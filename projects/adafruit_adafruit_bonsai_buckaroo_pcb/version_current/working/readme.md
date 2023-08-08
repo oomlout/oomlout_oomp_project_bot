@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Bonsai-Buckaroo-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bonsai_buckaroo_pcb  
 (snippet of original readme)  
   
 -- Adafruit Bonsai Buckaroo PCB  

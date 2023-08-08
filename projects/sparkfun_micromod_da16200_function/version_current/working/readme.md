@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_DA16200_Function  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_da16200_function  
 (snippet of original readme)  
   
 SparkFun MicroMod DA16200 Function Board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MCP4728-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mcp4728_pcb  
 (snippet of original readme)  
   
 -- Adafruit MCP4728 Quad 12-bit I2C DAC PCB  

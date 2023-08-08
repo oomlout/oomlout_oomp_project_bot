@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BLEMod  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_blemod  
 (snippet of original readme)  
   
   

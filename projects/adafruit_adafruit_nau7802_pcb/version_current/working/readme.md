@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NAU7802-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_nau7802_pcb  
 (snippet of original readme)  
   
 -- Adafruit NAU7802 24-Bit ADC - STEMMA QT / Qwiic PCB  

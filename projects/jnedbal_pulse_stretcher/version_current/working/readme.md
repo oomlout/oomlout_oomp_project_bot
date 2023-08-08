@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pulse_stretcher  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_pulse_stretcher  
 (snippet of original readme)  
   
   

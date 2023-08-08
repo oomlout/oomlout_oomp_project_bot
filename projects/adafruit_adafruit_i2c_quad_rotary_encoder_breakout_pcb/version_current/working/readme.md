@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-I2C-Quad-Rotary-Encoder-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_i2c_quad_rotary_encoder_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit I2C Quad Rotary Encoder Breakout with NeoPixel - STEMMA QT / Qwiic PCB  

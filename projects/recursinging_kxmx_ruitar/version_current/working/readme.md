@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kxmx_ruitar  by recursinging  
   
+oomp key: oomp_projects_flat_recursinging_kxmx_ruitar  
 (snippet of original readme)  
   
 - kxmx_ruitar  

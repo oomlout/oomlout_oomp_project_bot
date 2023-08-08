@@ -1,6 +1,7 @@
 # OOMP Project  
 ## module-current-measurer  by joem  
   
+oomp key: oomp_projects_flat_joem_module_current_measurer  
 (snippet of original readme)  
   
   

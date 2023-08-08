@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Teensy-3.x-Feather-Adapter-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_teensy_3_x_feather_adapter_pcb  
 (snippet of original readme)  
   
 -- Adafruit Teensy 3.x Feather Adapter PCB  

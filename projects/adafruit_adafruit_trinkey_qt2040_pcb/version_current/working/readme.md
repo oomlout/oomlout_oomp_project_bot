@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Trinkey-QT2040-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_trinkey_qt2040_pcb  
 (snippet of original readme)  
   
 -- Adafruit Trinkey QT2040 PCB  

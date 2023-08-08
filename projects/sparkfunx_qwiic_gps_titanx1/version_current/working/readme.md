@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_GPS-TitanX1  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_gps_titanx1  
 (snippet of original readme)  
   
 Qwiic GPS - Titan X1  

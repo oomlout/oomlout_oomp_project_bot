@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-EMC2101-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_emc2101_pcb  
 (snippet of original readme)  
   
 -- Adafruit EMC2101 Tempature Sensor and Fan Controller PCB  

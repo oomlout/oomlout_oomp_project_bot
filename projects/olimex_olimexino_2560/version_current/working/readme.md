@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OLIMEXINO-2560  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_olimexino_2560  
 (snippet of original readme)  
   
 - OLIMEXINO-2560  

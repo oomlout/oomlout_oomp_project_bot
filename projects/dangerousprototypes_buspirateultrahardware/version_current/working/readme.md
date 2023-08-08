@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BusPirateUltraHardware  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_buspirateultrahardware  
 (snippet of original readme)  
   
 - BusPirateUltraHardware  

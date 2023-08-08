@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicon19-badge-hw  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_kicon19_badge_hw  
 (snippet of original readme)  
   
 - Official [KiCon 2019](https://kicad-kicon.com/) badge (hardware design)  

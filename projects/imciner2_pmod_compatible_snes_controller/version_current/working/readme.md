@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PMOD-Compatible_SNES_Controller  by imciner2  
   
+oomp key: oomp_projects_flat_imciner2_pmod_compatible_snes_controller  
 (snippet of original readme)  
   
 - PMOD-Compatible_SNES_Controller  

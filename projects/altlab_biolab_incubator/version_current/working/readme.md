@@ -1,6 +1,7 @@
 # OOMP Project  
 ## biolab-incubator  by altLab  
   
+oomp key: oomp_projects_flat_altlab_biolab_incubator  
 (snippet of original readme)  
   
 Kicad Drawings for an incubator based on  

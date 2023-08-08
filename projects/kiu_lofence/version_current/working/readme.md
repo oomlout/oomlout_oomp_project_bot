@@ -1,6 +1,7 @@
 # OOMP Project  
 ## lofence  by kiu  
   
+oomp key: oomp_projects_flat_kiu_lofence  
 (snippet of original readme)  
   
   

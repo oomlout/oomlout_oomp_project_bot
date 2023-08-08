@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad_fablab_sion  by cschopfer  
   
+oomp key: oomp_projects_flat_cschopfer_kicad_fablab_sion  
 (snippet of original readme)  
   
   

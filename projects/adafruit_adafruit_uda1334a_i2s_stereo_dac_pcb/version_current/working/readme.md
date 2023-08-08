@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-UDA1334A-I2S-Stereo-DAC-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_uda1334a_i2s_stereo_dac_pcb  
 (snippet of original readme)  
   
 -- Adafruit UDA1334A I2S Stereo DAC PCB  

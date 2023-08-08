@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ruuvitag-devshield  by ruuvi  
   
+oomp key: oomp_projects_flat_ruuvi_ruuvitag_devshield  
 (snippet of original readme)  
   
 - RuuviTag DevShield  

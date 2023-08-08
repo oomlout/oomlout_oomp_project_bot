@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rodi-pcb  by rodibot  
   
+oomp key: oomp_projects_flat_rodibot_rodi_pcb  
 (snippet of original readme)  
   
 - rodi-pcb  

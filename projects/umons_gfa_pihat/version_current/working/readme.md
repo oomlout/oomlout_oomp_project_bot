@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pihat  by UMONS-GFA  
   
+oomp key: oomp_projects_flat_umons_gfa_pihat  
 (snippet of original readme)  
   
 - Raspberry Pi Hat Template -  

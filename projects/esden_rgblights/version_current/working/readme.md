@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rgblights  by esden  
   
+oomp key: oomp_projects_flat_esden_rgblights  
 (snippet of original readme)  
   
   

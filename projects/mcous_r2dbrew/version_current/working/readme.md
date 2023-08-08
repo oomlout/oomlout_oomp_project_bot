@@ -1,6 +1,7 @@
 # OOMP Project  
 ## r2dbrew  by mcous  
   
+oomp key: oomp_projects_flat_mcous_r2dbrew  
 (snippet of original readme)  
   
   

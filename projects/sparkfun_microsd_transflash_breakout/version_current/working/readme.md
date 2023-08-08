@@ -1,6 +1,7 @@
 # OOMP Project  
 ## microSD_Transflash_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_microsd_transflash_breakout  
 (snippet of original readme)  
   
 SparkFun microSD Transflash Breakout  

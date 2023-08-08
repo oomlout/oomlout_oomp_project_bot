@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bit-preserve  by pelrun  
   
+oomp key: oomp_projects_flat_pelrun_bit_preserve  
 (snippet of original readme)  
   
 - Bit Preserve  

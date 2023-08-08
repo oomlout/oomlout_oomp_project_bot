@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TV-B-Gone-kit  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_tv_b_gone_kit  
 (snippet of original readme)  
   
   

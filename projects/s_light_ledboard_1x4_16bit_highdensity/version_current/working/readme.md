@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LEDBoard_1x4_16bit_highdensity  by s-light  
   
+oomp key: oomp_projects_flat_s_light_ledboard_1x4_16bit_highdensity  
 (snippet of original readme)  
   
 <!--lint disable maximum-line-length-->  

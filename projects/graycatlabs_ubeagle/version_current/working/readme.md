@@ -1,6 +1,7 @@
 # OOMP Project  
 ## uBeagle  by graycatlabs  
   
+oomp key: oomp_projects_flat_graycatlabs_ubeagle  
 (snippet of original readme)  
   
 - μBeagle  

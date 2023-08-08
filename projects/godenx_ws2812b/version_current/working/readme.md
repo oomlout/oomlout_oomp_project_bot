@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ws2812b  by GodenX  
   
+oomp key: oomp_projects_flat_godenx_ws2812b  
 (snippet of original readme)  
   
   

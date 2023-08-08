@@ -1,6 +1,7 @@
 # OOMP Project  
 ## zmk-designguide  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_zmk_designguide  
 (snippet of original readme)  
   
 -- Please note: This guide in its latest revision has just been published and may contain spelling mistakes as well as explanations referring to wrong components due to being written at an earlier stage, before re-annotation of the schematic. Please report any possible erorrs.  

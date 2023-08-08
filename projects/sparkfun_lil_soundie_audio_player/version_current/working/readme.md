@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Lil_Soundie_Audio_Player  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lil_soundie_audio_player  
 (snippet of original readme)  
   
 SparkFun Little Soundie Audio Player  

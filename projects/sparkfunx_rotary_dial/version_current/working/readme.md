@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Rotary_Dial  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_rotary_dial  
 (snippet of original readme)  
   
 - Rotary_Dial  

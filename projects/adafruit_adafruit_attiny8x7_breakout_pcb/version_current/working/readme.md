@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ATtiny8x7-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_attiny8x7_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit ATtiny8x7 Breakout PCB  

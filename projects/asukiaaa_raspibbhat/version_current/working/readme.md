@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RaspiBBHat  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_raspibbhat  
 (snippet of original readme)  
   
 - RaspiBBHat  

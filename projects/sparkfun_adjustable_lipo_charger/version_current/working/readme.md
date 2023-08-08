@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adjustable_Lipo_Charger  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_adjustable_lipo_charger  
 (snippet of original readme)  
   
 SparkFun Adjustable LiPo Charger  

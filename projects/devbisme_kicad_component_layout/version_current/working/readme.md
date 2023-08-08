@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad_component_layout  by devbisme  
   
+oomp key: oomp_projects_flat_devbisme_kicad_component_layout  
 (snippet of original readme)  
   
 - Kicad Component Layout Plugin  

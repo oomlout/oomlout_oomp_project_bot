@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Flora-TCS34725-Color-Sensor-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_flora_tcs34725_color_sensor_pcb  
 (snippet of original readme)  
   
 -- Adafruit Flora TCS34725 Color Sensor PCB  

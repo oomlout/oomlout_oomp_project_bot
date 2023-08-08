@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_2.8_Inch_TFT_Shield_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_2_8_inch_tft_shield_pcb  
 (snippet of original readme)  
   
 - 2.8" TFT Touch Shield for Arduino   

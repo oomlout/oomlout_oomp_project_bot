@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TS65AVR  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_ts65avr  
 (snippet of original readme)  
   
 - TS65 - AVR Based  

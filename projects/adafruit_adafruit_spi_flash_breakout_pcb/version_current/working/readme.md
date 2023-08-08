@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SPI-Flash-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_spi_flash_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit SPI Flash Breakouts  

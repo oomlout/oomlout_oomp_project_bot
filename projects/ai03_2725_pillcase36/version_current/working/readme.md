@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pillcase36  by ai03-2725  
   
+oomp key: oomp_projects_flat_ai03_2725_pillcase36  
 (snippet of original readme)  
   
 ![pillcase36_logo](https://i.imgur.com/oqMpWmP.png)  

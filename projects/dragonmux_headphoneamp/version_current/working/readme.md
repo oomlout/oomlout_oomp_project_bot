@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HeadphoneAmp  by dragonmux  
   
+oomp key: oomp_projects_flat_dragonmux_headphoneamp  
 (snippet of original readme)  
   
   

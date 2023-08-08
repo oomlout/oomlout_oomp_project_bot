@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kxmx  by recursinging  
   
+oomp key: oomp_projects_flat_recursinging_kxmx  
 (snippet of original readme)  
   
 - kxmx  

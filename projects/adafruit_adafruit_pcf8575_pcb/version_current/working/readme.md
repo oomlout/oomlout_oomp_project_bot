@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PCF8575-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pcf8575_pcb  
 (snippet of original readme)  
   
 -- Adafruit PCF8575 I2C 16 GPIO Expander PCB  

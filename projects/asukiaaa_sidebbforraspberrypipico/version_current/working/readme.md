@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SideBBForRaspberryPiPico  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_sidebbforraspberrypipico  
 (snippet of original readme)  
   
 - SideBBForRaspberryPiPico  

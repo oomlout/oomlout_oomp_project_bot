@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M800-NCxPoE  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m800_ncxpoe  
 (snippet of original readme)  
   
 - NCxPoE  

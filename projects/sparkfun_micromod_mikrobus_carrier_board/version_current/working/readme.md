@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_mikroBUS_Carrier_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_mikrobus_carrier_board  
 (snippet of original readme)  
   
 MicroMod mikroBUS™ Carrier Board  

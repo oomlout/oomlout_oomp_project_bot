@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AVR28ZIF  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_avr28zif  
 (snippet of original readme)  
   
 Freetronics 28-Pin AVR ZIF Breakout  

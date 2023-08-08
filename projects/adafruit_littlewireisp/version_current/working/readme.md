@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LittleWireISP  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_littlewireisp  
 (snippet of original readme)  
   
   

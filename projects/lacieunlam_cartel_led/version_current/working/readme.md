@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cartel-led  by LacieUnlam  
   
+oomp key: oomp_projects_flat_lacieunlam_cartel_led  
 (snippet of original readme)  
   
   

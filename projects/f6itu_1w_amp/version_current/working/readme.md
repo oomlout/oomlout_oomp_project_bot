@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 1W_Amp  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_1w_amp  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ESP32-S3-TFT-Feather-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_esp32_s3_tft_feather_pcb  
 (snippet of original readme)  
   
 -- Adafruit ESP32-S3 TFT Feather PCB  

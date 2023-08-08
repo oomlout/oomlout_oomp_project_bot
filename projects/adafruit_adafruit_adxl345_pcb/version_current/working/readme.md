@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_ADXL345_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_adxl345_pcb  
 (snippet of original readme)  
   
 - PCB for the Adafruit 5V ready ADXL345 Digital Triple-Axis Acceleromter (I2C or SPI)  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoDriver-STEMMA-QT-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neodriver_stemma_qt_pcb  
 (snippet of original readme)  
   
 -- Adafruit NeoDriver - I2C to NeoPixel Driver Board - Stemma QT PCB  

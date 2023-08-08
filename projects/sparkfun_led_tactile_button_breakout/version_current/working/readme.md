@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED_Tactile_Button_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_led_tactile_button_breakout  
 (snippet of original readme)  
   
 LED Tactile Button Breakout  

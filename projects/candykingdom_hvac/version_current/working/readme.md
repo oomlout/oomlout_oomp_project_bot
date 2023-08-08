@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hvac  by candykingdom  
   
+oomp key: oomp_projects_flat_candykingdom_hvac  
 (snippet of original readme)  
   
 - Playa engineering!  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_kicad_library  
 (snippet of original readme)  
   
 kicad-library  

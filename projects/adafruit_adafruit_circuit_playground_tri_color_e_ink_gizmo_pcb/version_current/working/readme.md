@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_circuit_playground_tri_color_e_ink_gizmo_pcb  
 (snippet of original readme)  
   
 -- Adafruit Circuit Playgound Tri-Color E-Ink Gizmo PCB  

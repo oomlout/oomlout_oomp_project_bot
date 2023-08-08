@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Cheshire  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_cheshire  
 (snippet of original readme)  
   
 - Acheron Alice-SM-S-STM32-MX-TH-WI (Codename "Cheshire")  

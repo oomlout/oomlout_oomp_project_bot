@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MiniUltraPro  by rocketscream  
   
+oomp key: oomp_projects_flat_rocketscream_miniultrapro  
 (snippet of original readme)  
   
 - Mini Ultra Pro  

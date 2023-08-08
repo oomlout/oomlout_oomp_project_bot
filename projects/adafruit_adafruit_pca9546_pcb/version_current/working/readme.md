@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PCA9546-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pca9546_pcb  
 (snippet of original readme)  
   
 -- Adafruit PCA9546 4-Channel I2C Multiplexer PCB  

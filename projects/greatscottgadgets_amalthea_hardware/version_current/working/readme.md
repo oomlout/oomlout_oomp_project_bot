@@ -1,6 +1,7 @@
 # OOMP Project  
 ## amalthea-hardware  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_amalthea_hardware  
 (snippet of original readme)  
   
 - amalthea-hardware  

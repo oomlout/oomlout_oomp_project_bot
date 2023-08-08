@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Shield_for_Arduino  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_shield_for_arduino  
 (snippet of original readme)  
   
 Qwiic Shield for Arduino  

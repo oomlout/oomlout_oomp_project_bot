@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PicoDVI  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_picodvi  
 (snippet of original readme)  
   
 PicoDVI - Adafruit Fork for Arduino IDE + Adafruit_GFX compatibility  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Stryfe_Tray_Fuse_Board  by DonutCables  
   
+oomp key: oomp_projects_flat_donutcables_stryfe_tray_fuse_board  
 (snippet of original readme)  
   
 - Stryfe_Tray_Fuse_Board  

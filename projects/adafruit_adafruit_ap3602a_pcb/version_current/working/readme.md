@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-AP3602A-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ap3602a_pcb  
 (snippet of original readme)  
   
 -- Adafruit MiniBoost 5V @ 100mA Charge Pump - AP3602A PCB  

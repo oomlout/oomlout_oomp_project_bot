@@ -1,6 +1,7 @@
 # OOMP Project  
 ## blutwid  by pelrun  
   
+oomp key: oomp_projects_flat_pelrun_blutwid  
 (snippet of original readme)  
   
   

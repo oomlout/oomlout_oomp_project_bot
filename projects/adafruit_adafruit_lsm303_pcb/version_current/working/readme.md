@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LSM303-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lsm303_pcb  
 (snippet of original readme)  
   
 - PCB for the Adafruit LSM303 3-axis Compass + 3-axis Accelerometer  

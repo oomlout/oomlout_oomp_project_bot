@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ADS1X15-Breakout-Board-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_ads1x15_breakout_board_pcbs  
 (snippet of original readme)  
   
 - PCB for the Adafruit 12 and 16 bit I2C ADC's with PGA  

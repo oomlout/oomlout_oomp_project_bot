@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-M4-Express-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_m4_express_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather M4 Express microcontroller board PCB  

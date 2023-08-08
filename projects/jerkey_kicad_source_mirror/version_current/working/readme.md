@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-source-mirror  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_kicad_source_mirror  
 (snippet of original readme)  
   
   

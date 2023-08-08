@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DangerShield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_dangershield  
 (snippet of original readme)  
   
 Danger Shield  

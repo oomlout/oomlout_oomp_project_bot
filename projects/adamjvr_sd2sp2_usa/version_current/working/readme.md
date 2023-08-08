@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SD2SP2-USA  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_sd2sp2_usa  
 (snippet of original readme)  
   
 - SD2SP2-USA  

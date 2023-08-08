@@ -1,6 +1,7 @@
 # OOMP Project  
 ## esp32bb  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_esp32bb  
 (snippet of original readme)  
   
 - ESP32BB  

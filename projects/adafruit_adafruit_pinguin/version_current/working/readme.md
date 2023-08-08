@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Pinguin  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pinguin  
 (snippet of original readme)  
   
 - Adafruit_Pinguin  

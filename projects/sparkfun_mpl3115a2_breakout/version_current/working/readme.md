@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MPL3115A2_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mpl3115a2_breakout  
 (snippet of original readme)  
   
 SparkFun MPL3115A2 Altitude/Pressure Sensor Breakout  

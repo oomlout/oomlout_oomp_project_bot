@@ -1,6 +1,7 @@
 # OOMP Project  
 ## StepDC  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_stepdc  
 (snippet of original readme)  
   
 - StepDC  

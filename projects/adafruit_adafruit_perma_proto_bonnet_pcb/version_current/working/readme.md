@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Perma-Proto-Bonnet-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_perma_proto_bonnet_pcb  
 (snippet of original readme)  
   
 -- Adafruit Perma Proto Bonnet PCB  

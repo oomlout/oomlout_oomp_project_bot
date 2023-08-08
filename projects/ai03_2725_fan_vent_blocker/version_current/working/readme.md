@@ -1,6 +1,7 @@
 # OOMP Project  
 ## fan-vent-blocker  by ai03-2725  
   
+oomp key: oomp_projects_flat_ai03_2725_fan_vent_blocker  
 (snippet of original readme)  
   
 - fan-vent-blocker  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bms-c1  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_bms_c1  
 (snippet of original readme)  
   
 - Libre Solar BMS C1  

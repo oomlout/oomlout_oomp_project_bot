@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MLX90640-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mlx90640_pcb  
 (snippet of original readme)  
   
 -- Adafruit MLX90640 IR Thermal Camera Breakout PCB  

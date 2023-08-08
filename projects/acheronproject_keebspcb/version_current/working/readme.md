@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KeebsPCB  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_keebspcb  
 (snippet of original readme)  
   
 - Acheron 60-SM-S-STM32-MXH-TH-WI (Codename "KeebsPCB")  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-templates  by mkleinschmidt  
   
+oomp key: oomp_projects_flat_mkleinschmidt_kicad_templates  
 (snippet of original readme)  
   
 -- :warning: 301 Moved Permanently  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SST60  by aaarsene  
   
+oomp key: oomp_projects_flat_aaarsene_sst60  
 (snippet of original readme)  
   
 - SST60  

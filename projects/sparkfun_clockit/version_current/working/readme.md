@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ClockIt  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_clockit  
 (snippet of original readme)  
   
 SparkFun ClockIt  

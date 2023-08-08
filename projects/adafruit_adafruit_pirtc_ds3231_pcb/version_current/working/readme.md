@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PiRTC-DS3231-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pirtc_ds3231_pcb  
 (snippet of original readme)  
   
 -- Adafruit PiRTC Precise DS3231 Real Time Clock for Raspberry Pi PCB  

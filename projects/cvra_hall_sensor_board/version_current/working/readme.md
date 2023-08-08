@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hall-sensor-board  by cvra  
   
+oomp key: oomp_projects_flat_cvra_hall_sensor_board  
 (snippet of original readme)  
   
   

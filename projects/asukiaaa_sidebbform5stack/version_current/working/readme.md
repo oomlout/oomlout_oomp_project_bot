@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SideBBForM5Stack  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_sidebbform5stack  
 (snippet of original readme)  
   
 - SideBBForM5Stack  

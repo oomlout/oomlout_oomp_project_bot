@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Dangerous_DSO  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_dangerous_dso  
 (snippet of original readme)  
   
   

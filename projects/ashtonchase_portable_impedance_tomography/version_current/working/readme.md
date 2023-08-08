@@ -1,6 +1,7 @@
 # OOMP Project  
 ## portable_impedance_tomography  by ashtonchase  
   
+oomp key: oomp_projects_flat_ashtonchase_portable_impedance_tomography  
 (snippet of original readme)  
   
   

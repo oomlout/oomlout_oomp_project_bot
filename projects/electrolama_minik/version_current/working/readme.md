@@ -1,6 +1,7 @@
 # OOMP Project  
 ## minik  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_minik  
 (snippet of original readme)  
   
 - minik  

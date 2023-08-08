@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_USB_Boarduino_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_usb_boarduino_pcb  
 (snippet of original readme)  
   
 - USB Boarduino (Arduino compatible) Kit w/ATmega328 - v2.0  

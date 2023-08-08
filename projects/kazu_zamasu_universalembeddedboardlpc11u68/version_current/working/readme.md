@@ -1,6 +1,7 @@
 # OOMP Project  
 ## UniversalEmbeddedBoardLPC11U68  by Kazu-zamasu  
   
+oomp key: oomp_projects_flat_kazu_zamasu_universalembeddedboardlpc11u68  
 (snippet of original readme)  
   
   

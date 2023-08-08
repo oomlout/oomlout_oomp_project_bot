@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rotary-encoder-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_rotary_encoder_bricklet  
 (snippet of original readme)  
   
   

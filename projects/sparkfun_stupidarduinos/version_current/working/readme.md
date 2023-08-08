@@ -1,6 +1,7 @@
 # OOMP Project  
 ## StupidArduinos  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_stupidarduinos  
 (snippet of original readme)  
   
 - StupidArduinos  

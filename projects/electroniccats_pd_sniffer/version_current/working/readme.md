@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PD-sniffer  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_pd_sniffer  
 (snippet of original readme)  
   
 - PD-Sniffer  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-VCNL4040-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_vcnl4040_pcb  
 (snippet of original readme)  
   
 -- Adafruit VCNL4040 Proximity and Lux Sensor PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Metro-M7-with-AirLift-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_metro_m7_with_airlift_pcb  
 (snippet of original readme)  
   
 -- Adafruit Metro M7 with AirLift - Featuring NXP iMX RT1011 PCB  

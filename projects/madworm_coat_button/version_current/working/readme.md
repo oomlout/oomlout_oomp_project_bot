@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Coat-Button  by madworm  
   
+oomp key: oomp_projects_flat_madworm_coat_button  
 (snippet of original readme)  
   
   

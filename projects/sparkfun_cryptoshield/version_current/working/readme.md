@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CryptoShield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_cryptoshield  
 (snippet of original readme)  
   
 SparkFun CryptoShield  

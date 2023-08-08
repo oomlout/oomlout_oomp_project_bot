@@ -1,6 +1,7 @@
 # OOMP Project  
 ## glasgow  by Toroid-io  
   
+oomp key: oomp_projects_flat_toroid_io_glasgow  
 (snippet of original readme)  
   
 - Glasgow Debug Tool  

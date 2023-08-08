@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Quadraphone  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_quadraphone  
 (snippet of original readme)  
   
 - Quadraphone  

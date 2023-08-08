@@ -1,6 +1,7 @@
 # OOMP Project  
 ## eurorack_headphones  by russellmcc  
   
+oomp key: oomp_projects_flat_russellmcc_eurorack_headphones  
 (snippet of original readme)  
   
 This is a tested design for a small headphone amp/line output module for eurorack modular synthesizers.  

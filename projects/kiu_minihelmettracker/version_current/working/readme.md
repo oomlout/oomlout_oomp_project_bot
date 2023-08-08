@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MiniHelmetTracker  by kiu  
   
+oomp key: oomp_projects_flat_kiu_minihelmettracker  
 (snippet of original readme)  
   
 - MiniHelmetTracker  

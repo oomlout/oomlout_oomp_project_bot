@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LEOPADMINI  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_leopadmini  
 (snippet of original readme)  
   
 Freetronics LeoPad Mini  

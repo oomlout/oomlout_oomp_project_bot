@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Metro-ESP32-S2-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_metro_esp32_s2_pcb  
 (snippet of original readme)  
   
 -- Adafruit Metro ESP32-S2 PCB  

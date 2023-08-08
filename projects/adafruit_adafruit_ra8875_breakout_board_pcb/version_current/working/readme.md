@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-RA8875-Breakout-Board-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ra8875_breakout_board_pcb  
 (snippet of original readme)  
   
 -- Adafruit RA8875 Driver Board for 40-pin TFT Touch Displays - 800x480 Max PCB  

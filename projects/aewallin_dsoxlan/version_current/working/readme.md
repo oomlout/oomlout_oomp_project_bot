@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DSOXLAN  by aewallin  
   
+oomp key: oomp_projects_flat_aewallin_dsoxlan  
 (snippet of original readme)  
   
 DSOXLAN  

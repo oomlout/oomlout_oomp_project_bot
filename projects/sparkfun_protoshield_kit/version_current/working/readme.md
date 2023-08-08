@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ProtoShield_Kit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_protoshield_kit  
 (snippet of original readme)  
   
 SparkFun ProtoShield Kit  

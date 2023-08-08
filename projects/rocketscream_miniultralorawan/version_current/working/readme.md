@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MiniUltraLoRaWAN  by rocketscream  
   
+oomp key: oomp_projects_flat_rocketscream_miniultralorawan  
 (snippet of original readme)  
   
 - Mini Ultra LoRaWAN  

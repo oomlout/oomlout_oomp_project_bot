@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ThinkerShield  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_thinkershield  
 (snippet of original readme)  
   
   

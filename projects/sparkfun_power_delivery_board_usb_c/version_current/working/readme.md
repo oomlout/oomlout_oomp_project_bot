@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Power_Delivery_Board-USB-C  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_power_delivery_board_usb_c  
 (snippet of original readme)  
   
 SparkFun Power Delivery Board - USB-C  

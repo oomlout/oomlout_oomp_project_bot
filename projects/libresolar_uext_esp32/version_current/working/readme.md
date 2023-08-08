@@ -1,6 +1,7 @@
 # OOMP Project  
 ## uext-esp32  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_uext_esp32  
 (snippet of original readme)  
   
 - WiFi/Bluetooth communication board based on ESP32 for UEXT connector  

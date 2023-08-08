@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OLIMEXINO-STM32F3  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_olimexino_stm32f3  
 (snippet of original readme)  
   
 - OLIMEXINO-STM32F3  

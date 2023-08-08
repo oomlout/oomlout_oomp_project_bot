@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Bluetooth_Module_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_bluetooth_module_breakout  
 (snippet of original readme)  
   
 SparkFun Bluetooth Module Breakout - RN41  

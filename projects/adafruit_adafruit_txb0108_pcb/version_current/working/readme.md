@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TXB0108-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_txb0108_pcb  
 (snippet of original readme)  
   
 - PCB for the Adafruit TXB0108 breakout board  

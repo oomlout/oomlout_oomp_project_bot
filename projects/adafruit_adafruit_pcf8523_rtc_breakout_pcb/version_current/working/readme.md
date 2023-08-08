@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PCF8523-RTC-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pcf8523_rtc_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit PCF8523 RTC Breakout PCB  

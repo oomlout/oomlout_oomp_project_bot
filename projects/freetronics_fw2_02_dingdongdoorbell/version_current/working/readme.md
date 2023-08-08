@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FW2-02-DingDongDoorbell  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_fw2_02_dingdongdoorbell  
 (snippet of original readme)  
   
 Ding Dong Doorbell  

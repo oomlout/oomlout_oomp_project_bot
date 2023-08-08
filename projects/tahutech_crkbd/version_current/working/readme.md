@@ -1,6 +1,7 @@
 # OOMP Project  
 ## crkbd  by TahuTech  
   
+oomp key: oomp_projects_flat_tahutech_crkbd  
 (snippet of original readme)  
   
 - Corne keyboard  

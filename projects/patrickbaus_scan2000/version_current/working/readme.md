@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SCAN2000  by PatrickBaus  
   
+oomp key: oomp_projects_flat_patrickbaus_scan2000  
 (snippet of original readme)  
   
 Keithley SCAN2000 SSR Replacement  

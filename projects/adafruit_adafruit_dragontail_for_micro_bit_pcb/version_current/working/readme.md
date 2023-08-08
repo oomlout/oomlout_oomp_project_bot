@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DragonTail-for-micro-bit-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_dragontail_for_micro_bit_pcb  
 (snippet of original readme)  
   
 -- Adafruit DragonTail for micro:bit breadboard pin breakout PCB  

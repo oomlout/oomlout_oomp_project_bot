@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Amethyst  by rigidus  
   
+oomp key: oomp_projects_flat_rigidus_amethyst  
 (snippet of original readme)  
   
 - The Amethyst Colour Video System  

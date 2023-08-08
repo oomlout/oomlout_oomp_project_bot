@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rgb-led  by coredump-ch  
   
+oomp key: oomp_projects_flat_coredump_ch_rgb_led  
 (snippet of original readme)  
   
 - RGB LED  

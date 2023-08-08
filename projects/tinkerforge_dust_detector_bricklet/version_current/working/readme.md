@@ -1,6 +1,7 @@
 # OOMP Project  
 ## dust-detector-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_dust_detector_bricklet  
 (snippet of original readme)  
   
   

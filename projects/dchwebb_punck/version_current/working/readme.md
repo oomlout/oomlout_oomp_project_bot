@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Punck  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_punck  
 (snippet of original readme)  
   
 - Punck  

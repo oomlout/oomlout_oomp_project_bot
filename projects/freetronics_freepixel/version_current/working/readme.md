@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FREEPIXEL  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_freepixel  
 (snippet of original readme)  
   
 Freetronics FreePixel Addressable RGB LED Module  

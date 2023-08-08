@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-github-example  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_kicad_github_example  
 (snippet of original readme)  
   
 - kicad-github-example  

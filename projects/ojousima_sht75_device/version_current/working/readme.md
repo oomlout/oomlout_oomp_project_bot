@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SHT75-device  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_sht75_device  
 (snippet of original readme)  
   
 - SHT75-device  

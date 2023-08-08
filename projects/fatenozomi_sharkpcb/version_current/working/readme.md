@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SharkPCB  by FateNozomi  
   
+oomp key: oomp_projects_flat_fatenozomi_sharkpcb  
 (snippet of original readme)  
   
 ﻿- Acheron Aχξρων 40-SM-O-MX-TH-WI (Codename "SharkPCB")  

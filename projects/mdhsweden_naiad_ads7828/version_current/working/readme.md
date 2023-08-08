@@ -1,6 +1,7 @@
 # OOMP Project  
 ## NAIAD-ADS7828  by MDHSweden  
   
+oomp key: oomp_projects_flat_mdhsweden_naiad_ads7828  
 (snippet of original readme)  
   
 - ADC to I2C test circuit for PDB  

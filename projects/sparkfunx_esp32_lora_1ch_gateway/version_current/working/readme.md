@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32_LoRa_1CH_Gateway  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_esp32_lora_1ch_gateway  
 (snippet of original readme)  
   
 SparkX ESP32 LoRa Single-Channel Gateway  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## EMVTracer  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_emvtracer  
 (snippet of original readme)  
   
 - EMVTracer  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## daqnet  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_daqnet  
 (snippet of original readme)  
   
 - DAQnet  

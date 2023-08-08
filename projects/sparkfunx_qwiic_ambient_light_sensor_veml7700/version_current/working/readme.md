@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Ambient_Light_Sensor_VEML7700  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_ambient_light_sensor_veml7700  
 (snippet of original readme)  
   
 SparkX Ambient Light Sensor - VEML7700 (Qwiic)  

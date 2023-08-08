@@ -1,6 +1,7 @@
 # OOMP Project  
 ## e-paper-296x128-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_e_paper_296x128_bricklet  
 (snippet of original readme)  
   
   

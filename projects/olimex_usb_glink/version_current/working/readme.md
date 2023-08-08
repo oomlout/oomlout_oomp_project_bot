@@ -1,6 +1,7 @@
 # OOMP Project  
 ## USB-gLINK  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_usb_glink  
 (snippet of original readme)  
   
 - USB-gLINK  

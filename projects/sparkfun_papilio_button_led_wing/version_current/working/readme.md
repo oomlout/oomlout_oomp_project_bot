@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Papilio_Button_LED_Wing  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_papilio_button_led_wing  
 (snippet of original readme)  
   
 Papilio Button LED Wing  

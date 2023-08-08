@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-24LC32-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_24lc32_pcb  
 (snippet of original readme)  
   
 -- Adafruit 24LC32 I2C EEPROM Breakout PCB  

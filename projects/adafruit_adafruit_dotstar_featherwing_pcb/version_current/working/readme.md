@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DotStar-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_dotstar_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit DotStar FeatherWing PCB  

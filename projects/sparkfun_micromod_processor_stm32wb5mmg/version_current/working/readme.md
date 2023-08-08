@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Processor_STM32WB5MMG  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_processor_stm32wb5mmg  
 (snippet of original readme)  
   
 SparkFun MicroMod Processor Board - STM32WB5MMG   

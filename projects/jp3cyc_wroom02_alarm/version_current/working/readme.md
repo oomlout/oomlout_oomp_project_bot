@@ -1,6 +1,7 @@
 # OOMP Project  
 ## wroom02_alarm  by jp3cyc  
   
+oomp key: oomp_projects_flat_jp3cyc_wroom02_alarm  
 (snippet of original readme)  
   
 - wroom02_alarm  

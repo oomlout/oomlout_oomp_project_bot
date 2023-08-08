@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Tri-Color_LED  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_tri_color_led  
 (snippet of original readme)  
   
 SparkFun LilyPad RGB LED  

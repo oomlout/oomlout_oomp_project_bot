@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Part-Ninja  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_part_ninja  
 (snippet of original readme)  
   
   

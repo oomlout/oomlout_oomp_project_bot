@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BatteryProtection  by nppc  
   
+oomp key: oomp_projects_flat_nppc_batteryprotection  
 (snippet of original readme)  
   
 - Protection circuit for 5S LiIon Battery  

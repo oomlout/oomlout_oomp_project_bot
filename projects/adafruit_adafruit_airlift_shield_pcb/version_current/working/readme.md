@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Airlift-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_airlift_shield_pcb  
 (snippet of original readme)  
   
 - Adafruit-Airlift-Shield-PCB  

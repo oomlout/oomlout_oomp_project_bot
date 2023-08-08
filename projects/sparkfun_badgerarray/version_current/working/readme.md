@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BadgerArray  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_badgerarray  
 (snippet of original readme)  
   
 Interactive Badges -Charlieplexed 8x7 LED Array  

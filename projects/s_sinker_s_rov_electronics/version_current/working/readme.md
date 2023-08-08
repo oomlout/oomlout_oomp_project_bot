@@ -1,6 +1,7 @@
 # OOMP Project  
 ## S-ROV-Electronics  by S-SINKER  
   
+oomp key: oomp_projects_flat_s_sinker_s_rov_electronics  
 (snippet of original readme)  
   
   

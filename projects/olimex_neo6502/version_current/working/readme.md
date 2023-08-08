@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Neo6502  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_neo6502  
 (snippet of original readme)  
   
 - Neo6502  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-EyeLights-LED-Glasses-and-Driver-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_eyelights_led_glasses_and_driver_pcb  
 (snippet of original readme)  
   
 -- Adafruit EyeLights LED Glasses and Driver PCB  

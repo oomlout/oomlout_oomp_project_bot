@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-METRO-328-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_metro_328_pcb  
 (snippet of original readme)  
   
 -- Adafruit METRO 328 PCB  

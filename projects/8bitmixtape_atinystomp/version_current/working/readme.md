@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ATinyStomp  by 8BitMixtape  
   
+oomp key: oomp_projects_flat_8bitmixtape_atinystomp  
 (snippet of original readme)  
   
 - ATinyStomp  

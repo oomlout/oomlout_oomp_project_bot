@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CP2104-Friend-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_cp2104_friend_pcb  
 (snippet of original readme)  
   
 -- Adafruit CP2104 Friend PCB  

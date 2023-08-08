@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP-09-Test  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_esp_09_test  
 (snippet of original readme)  
   
 - ESP-09-Test  

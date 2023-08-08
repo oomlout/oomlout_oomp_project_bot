@@ -1,6 +1,7 @@
 # OOMP Project  
 ## front-panel-board  by cvra  
   
+oomp key: oomp_projects_flat_cvra_front_panel_board  
 (snippet of original readme)  
   
 - Front Panel PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_environment  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_environment  
 (snippet of original readme)  
   
 SparkFun gator:environment - micro:bit Accessory Board   

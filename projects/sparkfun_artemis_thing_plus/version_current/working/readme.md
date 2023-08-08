@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Artemis_Thing_Plus  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_artemis_thing_plus  
 (snippet of original readme)  
   
 SparkFun Artemis Thing Plus  

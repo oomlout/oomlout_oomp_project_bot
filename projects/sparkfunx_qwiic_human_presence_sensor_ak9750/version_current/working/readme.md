@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Human_Presence_Sensor-AK9750  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_human_presence_sensor_ak9750  
 (snippet of original readme)  
   
 Qwiic Human Presence Sensor - AK9750  

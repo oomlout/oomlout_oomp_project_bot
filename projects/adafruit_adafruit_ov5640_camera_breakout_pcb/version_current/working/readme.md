@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-OV5640-Camera-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ov5640_camera_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit OV5640 Camera Breakout - 120 Degree Lens PCB  

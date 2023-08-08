@@ -1,6 +1,7 @@
 # OOMP Project  
 ##   by   
   
+oomp key:   
 (snippet of original readme)  
   
 Note that there are some issues with this programmer. I suggest moving to  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## lab-notes  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_lab_notes  
 (snippet of original readme)  
   
 - lab-notes  

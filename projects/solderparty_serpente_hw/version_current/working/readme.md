@@ -1,6 +1,7 @@
 # OOMP Project  
 ## serpente_hw  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_serpente_hw  
 (snippet of original readme)  
   
 - Serpente  

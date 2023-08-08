@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Multi_Port_Board  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_multi_port_board  
 (snippet of original readme)  
   
 Qwiic Multi Port Board  

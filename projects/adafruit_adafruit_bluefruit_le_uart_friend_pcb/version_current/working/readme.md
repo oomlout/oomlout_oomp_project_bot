@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Bluefruit-LE-UART-Friend-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bluefruit_le_uart_friend_pcb  
 (snippet of original readme)  
   
 - Adafruit Bluefruit LE UART Friend PCB  

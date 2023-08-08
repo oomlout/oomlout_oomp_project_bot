@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_i2s_audio_bonnet_for_raspberry_pi_pcb  
 (snippet of original readme)  
   
 -- Adafruit I2S Audio Bonnet for Raspberry Pi - UDA1334A PCB  

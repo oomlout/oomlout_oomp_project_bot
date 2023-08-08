@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PowerMonitor  by nightmechanic  
   
+oomp key: oomp_projects_flat_nightmechanic_powermonitor  
 (snippet of original readme)  
   
   

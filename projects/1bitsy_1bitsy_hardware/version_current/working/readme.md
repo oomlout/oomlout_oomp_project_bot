@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 1bitsy-hardware  by 1Bitsy  
   
+oomp key: oomp_projects_flat_1bitsy_1bitsy_hardware  
 (snippet of original readme)  
   
 - 1BitSy  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoKey-Snap-Apart-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neokey_snap_apart_pcb  
 (snippet of original readme)  
   
 -- Adafruit NeoKey Snap-Apart 5x6 Ortho Mechanical Key Switches with NeoPixel PCB  

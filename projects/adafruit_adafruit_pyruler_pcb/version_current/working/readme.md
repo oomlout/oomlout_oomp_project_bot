@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PyRuler-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pyruler_pcb  
 (snippet of original readme)  
   
 -- Adafruit PyRuler - Engineer Reference Ruler with CircuitPython PCB  

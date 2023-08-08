@@ -1,6 +1,7 @@
 # OOMP Project  
 ## lcd-20x4-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_lcd_20x4_bricklet  
 (snippet of original readme)  
   
   

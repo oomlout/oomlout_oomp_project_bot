@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rpi0_room_node  by JonasNorling  
   
+oomp key: oomp_projects_flat_jonasnorling_rpi0_room_node  
 (snippet of original readme)  
   
 - Raspberry Pi Zero Room Board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hall-effect-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_hall_effect_v2_bricklet  
 (snippet of original readme)  
   
   

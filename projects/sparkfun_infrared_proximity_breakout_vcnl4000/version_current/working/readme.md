@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Infrared_Proximity_Breakout-VCNL4000  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_infrared_proximity_breakout_vcnl4000  
 (snippet of original readme)  
   
 **NOTE:** *This product has been retired from our catalog. If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking and improving on this product.*  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PadPainter  by devbisme  
   
+oomp key: oomp_projects_flat_devbisme_padpainter  
 (snippet of original readme)  
   
 - PadPainter Plugin  

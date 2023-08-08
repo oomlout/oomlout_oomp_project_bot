@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Radio-Bonnet-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_radio_bonnet_pcb  
 (snippet of original readme)  
   
 -- Adafruit LoRa Radio Bonnet with OLED - RFM95W @ 915MHz - RadioFruit PCB  

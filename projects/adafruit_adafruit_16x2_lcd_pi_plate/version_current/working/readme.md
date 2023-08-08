@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-16x2-LCD-Pi-Plate  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_16x2_lcd_pi_plate  
 (snippet of original readme)  
   
 - PCB files for Adafruit 16x2 LCD Pi Plate for Raspberry Pi  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MAX9814-AGC-Microphone-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_max9814_agc_microphone_pcb  
 (snippet of original readme)  
   
 - Adafruit MAX9814 AGC Microphone PCB  

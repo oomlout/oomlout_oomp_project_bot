@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Maple_Mini_Template  by S-SINKER  
   
+oomp key: oomp_projects_flat_s_sinker_maple_mini_template  
 (snippet of original readme)  
   
 Maple Mini KiCad Template  

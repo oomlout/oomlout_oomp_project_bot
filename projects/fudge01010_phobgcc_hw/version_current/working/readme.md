@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PhobGCC-HW  by fudge01010  
   
+oomp key: oomp_projects_flat_fudge01010_phobgcc_hw  
 (snippet of original readme)  
   
 - PhobGCC-HW  

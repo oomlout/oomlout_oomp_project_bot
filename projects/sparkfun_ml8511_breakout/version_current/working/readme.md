@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ML8511_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ml8511_breakout  
 (snippet of original readme)  
   
 ML8511 UV Sensor Breakout  

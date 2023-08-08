@@ -1,6 +1,7 @@
 # OOMP Project  
 ## co2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_co2_bricklet  
 (snippet of original readme)  
   
   

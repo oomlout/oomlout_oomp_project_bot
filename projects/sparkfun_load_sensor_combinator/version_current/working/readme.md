@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Load_Sensor_Combinator  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_load_sensor_combinator  
 (snippet of original readme)  
   
 SparkFun Load Sensor Combinator  

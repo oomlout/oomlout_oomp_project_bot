@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rp2040_stamp_round_carrier_hw  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_rp2040_stamp_round_carrier_hw  
 (snippet of original readme)  
   
 - The RP2040 Stamp Round Carrier  

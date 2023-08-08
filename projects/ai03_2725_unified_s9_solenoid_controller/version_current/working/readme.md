@@ -1,6 +1,7 @@
 # OOMP Project  
 ## unified-s9-solenoid-controller  by ai03-2725  
   
+oomp key: oomp_projects_flat_ai03_2725_unified_s9_solenoid_controller  
 (snippet of original readme)  
   
 -- **Unified-S9 9V Solenoid Driver**  

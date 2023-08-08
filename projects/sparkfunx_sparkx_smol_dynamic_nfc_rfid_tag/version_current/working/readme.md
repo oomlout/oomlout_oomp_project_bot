@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX_smol_Dynamic_NFC_RFID_Tag  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_smol_dynamic_nfc_rfid_tag  
 (snippet of original readme)  
   
 - SparkX smôl Dynamic NFC/RFID Tag  

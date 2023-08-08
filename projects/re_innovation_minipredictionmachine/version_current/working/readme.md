@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MiniPredictionMachine  by re-innovation  
   
+oomp key: oomp_projects_flat_re_innovation_minipredictionmachine  
 (snippet of original readme)  
   
 - MiniPredictionMachine  

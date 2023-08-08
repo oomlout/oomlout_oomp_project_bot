@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-GA1A1S202WP-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ga1a1s202wp_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit GA1A1S202WP Breakout PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## drone-kicad-sample  by Toroid-io  
   
+oomp key: oomp_projects_flat_toroid_io_drone_kicad_sample  
 (snippet of original readme)  
   
 [![Build Status](https://bianca.toroid.io/api/badges/Toroid-io/drone-kicad-sample/status.svg?branch=master)](https://bianca.toroid.io/Toroid-io/drone-kicad-sample) [![Build Status](https://cloud.drone.io/api/badges/Toroid-io/drone-kicad-sample/status.svg)](https://cloud.drone.io/Toroid-io/drone-kicad-sample)  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## can-hat  by diypinball  
   
+oomp key: oomp_projects_flat_diypinball_can_hat  
 (snippet of original readme)  
   
 - can-hat  

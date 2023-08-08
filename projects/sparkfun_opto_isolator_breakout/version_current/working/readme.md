@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Opto_Isolator_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_opto_isolator_breakout  
 (snippet of original readme)  
   
 SparkFun Opto-isolator Breakout   

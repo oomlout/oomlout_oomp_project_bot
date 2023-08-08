@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Badge-BugCON-2022  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_badge_bugcon_2022  
 (snippet of original readme)  
   
 - Badge BugCON 2022  

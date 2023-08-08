@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rpi0_extern_board  by GodenX  
   
+oomp key: oomp_projects_flat_godenx_rpi0_extern_board  
 (snippet of original readme)  
   
   

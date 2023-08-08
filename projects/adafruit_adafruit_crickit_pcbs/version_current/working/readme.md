@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Crickit_PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_crickit_pcbs  
 (snippet of original readme)  
   
 - Adafruit_Crickit_PCBs  

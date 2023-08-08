@@ -1,6 +1,7 @@
 # OOMP Project  
 ## zoe  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_zoe  
 (snippet of original readme)  
   
 - zoe  

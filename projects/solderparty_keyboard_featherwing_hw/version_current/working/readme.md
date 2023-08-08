@@ -1,6 +1,7 @@
 # OOMP Project  
 ## keyboard_featherwing_hw  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_keyboard_featherwing_hw  
 (snippet of original readme)  
   
   

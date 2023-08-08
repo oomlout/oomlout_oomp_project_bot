@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BlackBoard_Artemis_Nano  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_blackboard_artemis_nano  
 (snippet of original readme)  
   
 **NOTE:** *This product has been retired from our catalog. There is an updated RedBoard version available: [DEV-15443](https://www.sparkfun.com/products/15443). If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking and improving on this product version.*  

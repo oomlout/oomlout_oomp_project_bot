@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GroveSignalRepeater  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_grovesignalrepeater  
 (snippet of original readme)  
   
 - GroveSignalRepeater  

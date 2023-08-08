@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DRV8833-Motor-Driver-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_drv8833_motor_driver_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit DRV8833 Motor Driver Breakout PCB  

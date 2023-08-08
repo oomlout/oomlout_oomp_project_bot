@@ -1,6 +1,7 @@
 # OOMP Project  
 ## btn-gate-modular  by quinkennedy  
   
+oomp key: oomp_projects_flat_quinkennedy_btn_gate_modular  
 (snippet of original readme)  
   
 Basic module for testing gate inputs on other modules.  

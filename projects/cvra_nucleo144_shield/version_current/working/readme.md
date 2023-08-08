@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nucleo144-shield  by cvra  
   
+oomp key: oomp_projects_flat_cvra_nucleo144_shield  
 (snippet of original readme)  
   
 - CVRA Nucleo144 shield  

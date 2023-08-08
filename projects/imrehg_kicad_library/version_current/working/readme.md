@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by imrehg  
   
+oomp key: oomp_projects_flat_imrehg_kicad_library  
 (snippet of original readme)  
   
 kicad-library  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## amp  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_amp  
 (snippet of original readme)  
   
 - Adam Magic Probe  

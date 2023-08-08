@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RAMSIMM-30  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_ramsimm_30  
 (snippet of original readme)  
   
   

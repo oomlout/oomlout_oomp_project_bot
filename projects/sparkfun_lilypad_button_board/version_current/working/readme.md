@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Button_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_button_board  
 (snippet of original readme)  
   
 SparkFun LilyPad Button Board  

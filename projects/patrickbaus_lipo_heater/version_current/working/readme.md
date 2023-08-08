@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LiPo_heater  by PatrickBaus  
   
+oomp key: oomp_projects_flat_patrickbaus_lipo_heater  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Capacitive-Touch-HAT-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_capacitive_touch_hat_pcb  
 (snippet of original readme)  
   
 -- Adafruit Capacitive Touch HAT PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DP_tape_cutting_robot  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_dp_tape_cutting_robot  
 (snippet of original readme)  
   
   

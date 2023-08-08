@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 9DOF_Sensor_Stick  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_9dof_sensor_stick  
 (snippet of original readme)  
   
 SparkFun 9 Degrees of Freedom - Sensor Stick  

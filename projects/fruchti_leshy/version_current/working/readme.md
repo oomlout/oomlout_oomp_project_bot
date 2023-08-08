@@ -1,6 +1,7 @@
 # OOMP Project  
 ## leshy  by fruchti  
   
+oomp key: oomp_projects_flat_fruchti_leshy  
 (snippet of original readme)  
   
 - leshy  

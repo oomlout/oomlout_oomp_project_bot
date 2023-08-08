@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LED-Backpack-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_led_backpack_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit LED Backpack FeatherWing PCB  

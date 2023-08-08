@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MyoWare_Cable_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_myoware_cable_shield  
 (snippet of original readme)  
   
 MyoWare™ Cable Shield  

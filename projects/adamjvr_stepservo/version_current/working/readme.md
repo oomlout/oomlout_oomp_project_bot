@@ -1,6 +1,7 @@
 # OOMP Project  
 ## StepServo  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_stepservo  
 (snippet of original readme)  
   
 - StepServo  

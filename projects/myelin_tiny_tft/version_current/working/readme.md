@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tiny-tft  by myelin  
   
+oomp key: oomp_projects_flat_myelin_tiny_tft  
 (snippet of original readme)  
   
 This is a dumping ground for all the info I can find on a few tiny TFT  

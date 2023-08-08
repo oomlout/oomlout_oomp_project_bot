@@ -1,6 +1,7 @@
 # OOMP Project  
 ## stack-breakout-brick  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_stack_breakout_brick  
 (snippet of original readme)  
   
   

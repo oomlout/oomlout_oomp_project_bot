@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CAN-USB-dongle  by cvra  
   
+oomp key: oomp_projects_flat_cvra_can_usb_dongle  
 (snippet of original readme)  
   
 - CAN to USB adapter dongle  

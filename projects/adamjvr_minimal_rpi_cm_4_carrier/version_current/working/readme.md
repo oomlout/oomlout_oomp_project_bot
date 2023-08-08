@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Minimal-RPi-CM-4-Carrier  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_minimal_rpi_cm_4_carrier  
 (snippet of original readme)  
   
 Some photos can be found here: https://hackaday.io/project/175832-minimal-raspberry-pi-cm-4-carrier  

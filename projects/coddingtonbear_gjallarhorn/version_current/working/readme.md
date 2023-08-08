@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gjallarhorn  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_gjallarhorn  
 (snippet of original readme)  
   
   

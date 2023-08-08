@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Quango  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_quango  
 (snippet of original readme)  
   
   

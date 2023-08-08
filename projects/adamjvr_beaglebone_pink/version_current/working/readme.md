@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Beaglebone-Pink  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_beaglebone_pink  
 (snippet of original readme)  
   
 - Beaglebone-Pink  

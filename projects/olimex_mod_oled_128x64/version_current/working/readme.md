@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MOD-OLED-128x64  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_mod_oled_128x64  
 (snippet of original readme)  
   
 - MOD-OLED-128x64  

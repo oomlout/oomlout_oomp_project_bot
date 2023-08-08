@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HD44780_LCD  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_hd44780_lcd  
 (snippet of original readme)  
   
   

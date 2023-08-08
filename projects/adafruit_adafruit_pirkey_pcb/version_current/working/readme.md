@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-pIRKey-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pirkey_pcb  
 (snippet of original readme)  
   
 -- Adafruit pIRKey PCB  

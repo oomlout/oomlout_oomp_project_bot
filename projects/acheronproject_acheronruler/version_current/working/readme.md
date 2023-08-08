@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AcheronRuler  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_acheronruler  
 (snippet of original readme)  
   
 - Acheron Ruler   

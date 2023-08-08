@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MPU6050-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mpu6050_pcb  
 (snippet of original readme)  
   
 -- Adafruit MPU6050 6-DoF Accelerometer and Gyro PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-RP2040-CAN-Bus-Feather-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_rp2040_can_bus_feather_pcb  
 (snippet of original readme)  
   
 -- Adafruit RP2040 CAN Bus Feather with MCP2515 CAN Controller - STEMMA QT PCB  

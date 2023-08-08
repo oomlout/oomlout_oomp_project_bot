@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Iridium_9603N  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_iridium_9603n  
 (snippet of original readme)  
   
 - Qwiic Iridium 9603N  

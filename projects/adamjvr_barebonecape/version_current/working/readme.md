@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BareBoneCape  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_barebonecape  
 (snippet of original readme)  
   
 - BareBone Cape  

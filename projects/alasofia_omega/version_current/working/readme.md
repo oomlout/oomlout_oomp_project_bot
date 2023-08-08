@@ -1,6 +1,7 @@
 # OOMP Project  
 ## omega  by Alasofia  
   
+oomp key: oomp_projects_flat_alasofia_omega  
 (snippet of original readme)  
   
 - Omega  

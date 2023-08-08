@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-96x64-RGB-OLED-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_96x64_rgb_oled_breakout_pcb  
 (snippet of original readme)  
   
 - PCB for the Adafruit Mini Color OLED breakout board  

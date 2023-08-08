@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Decade_Resistance_Box  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_decade_resistance_box  
 (snippet of original readme)  
   
 Decade Resistance Box - KIT-13006  

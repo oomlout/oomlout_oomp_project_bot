@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LIS331-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lis331_pcb  
 (snippet of original readme)  
   
 -- PCB files for the Adafruit LIS331 Family of High-g 3-Axis Accelerometers  

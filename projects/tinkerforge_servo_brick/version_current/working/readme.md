@@ -1,6 +1,7 @@
 # OOMP Project  
 ## servo-brick  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_servo_brick  
 (snippet of original readme)  
   
   

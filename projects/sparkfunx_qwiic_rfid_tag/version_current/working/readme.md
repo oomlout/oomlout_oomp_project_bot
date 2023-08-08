@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_RFID_Tag  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_rfid_tag  
 (snippet of original readme)  
   
 - SparkX ST25DV64KC Dynamic NFC/RFID Tag  

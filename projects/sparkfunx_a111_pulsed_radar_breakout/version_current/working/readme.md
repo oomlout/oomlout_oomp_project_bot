@@ -1,6 +1,7 @@
 # OOMP Project  
 ## A111_Pulsed_Radar_Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_a111_pulsed_radar_breakout  
 (snippet of original readme)  
   
 SparkX A111 Pulsed Radar Breakout  

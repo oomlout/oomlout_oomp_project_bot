@@ -1,6 +1,7 @@
 # OOMP Project  
 ## wombat  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_wombat  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-templates  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_kicad_templates  
 (snippet of original readme)  
   
 - templates  

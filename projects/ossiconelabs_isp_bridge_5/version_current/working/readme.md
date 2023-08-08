@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ISP-Bridge-5  by OssiconeLabs  
   
+oomp key: oomp_projects_flat_ossiconelabs_isp_bridge_5  
 (snippet of original readme)  
   
 - ISP-Bridge-5  

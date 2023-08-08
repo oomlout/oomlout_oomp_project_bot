@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MAX31855-breakout-board  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_max31855_breakout_board  
 (snippet of original readme)  
   
 - Adafruit MAX31885 Thermocouple Amp breakout  

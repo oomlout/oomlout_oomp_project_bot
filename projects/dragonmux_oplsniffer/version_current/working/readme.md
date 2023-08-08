@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OPLSniffer  by dragonmux  
   
+oomp key: oomp_projects_flat_dragonmux_oplsniffer  
 (snippet of original readme)  
   
   

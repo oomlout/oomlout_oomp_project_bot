@@ -1,6 +1,7 @@
 # OOMP Project  
 ## solderstation  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_solderstation  
 (snippet of original readme)  
   
 Kicad files for the Soldestation project,   

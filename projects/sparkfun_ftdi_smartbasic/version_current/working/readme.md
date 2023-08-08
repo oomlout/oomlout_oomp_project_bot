@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FTDI_SmartBasic  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ftdi_smartbasic  
 (snippet of original readme)  
   
 FTDI_SmartBasic  

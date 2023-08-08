@@ -1,6 +1,7 @@
 # OOMP Project  
 ## terminalmodelmtousb  by notmart  
   
+oomp key: oomp_projects_flat_notmart_terminalmodelmtousb  
 (snippet of original readme)  
   
   

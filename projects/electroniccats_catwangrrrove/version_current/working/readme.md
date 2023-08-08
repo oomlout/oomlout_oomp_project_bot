@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatWANGrrrove  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catwangrrrove  
 (snippet of original readme)  
   
 - LoRa Cat: Grrrove  

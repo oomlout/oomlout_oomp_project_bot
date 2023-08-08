@@ -1,6 +1,7 @@
 # OOMP Project  
 ## uv-light-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_uv_light_bricklet  
 (snippet of original readme)  
   
   

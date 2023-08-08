@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 3phase-board  by cvra  
   
+oomp key: oomp_projects_flat_cvra_3phase_board  
 (snippet of original readme)  
   
 CVRA 3 Phases Controller  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## marbastlib  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_marbastlib  
 (snippet of original readme)  
   
 - marbastlib  

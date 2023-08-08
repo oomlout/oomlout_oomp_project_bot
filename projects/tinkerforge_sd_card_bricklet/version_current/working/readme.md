@@ -1,6 +1,7 @@
 # OOMP Project  
 ## sd-card-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_sd_card_bricklet  
 (snippet of original readme)  
   
   

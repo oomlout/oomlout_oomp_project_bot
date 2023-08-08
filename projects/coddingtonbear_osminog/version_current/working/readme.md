@@ -1,6 +1,7 @@
 # OOMP Project  
 ## osminog  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_osminog  
 (snippet of original readme)  
   
 - Octoprint-3D Printer Extras (Osminog)  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TLC5947-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tlc5947_pcb  
 (snippet of original readme)  
   
 -- Adafruit 24-Channel 12-bit PWM LED Driver - SPI Interface TLC5947 PCB  

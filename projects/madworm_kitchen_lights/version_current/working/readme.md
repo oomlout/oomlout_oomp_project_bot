@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Kitchen_Lights  by madworm  
   
+oomp key: oomp_projects_flat_madworm_kitchen_lights  
 (snippet of original readme)  
   
   

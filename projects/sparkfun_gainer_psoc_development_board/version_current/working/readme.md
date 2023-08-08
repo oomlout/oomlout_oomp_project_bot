@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Gainer_PSoC_Development_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gainer_psoc_development_board  
 (snippet of original readme)  
   
 SparkFun Gainer PSoC Development Board  

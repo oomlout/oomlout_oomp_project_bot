@@ -1,6 +1,7 @@
 # OOMP Project  
 ## quad-bicycle-magneto-rectifier  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_quad_bicycle_magneto_rectifier  
 (snippet of original readme)  
   
   

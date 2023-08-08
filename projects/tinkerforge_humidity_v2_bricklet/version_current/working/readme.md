@@ -1,6 +1,7 @@
 # OOMP Project  
 ## humidity-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_humidity_v2_bricklet  
 (snippet of original readme)  
   
   

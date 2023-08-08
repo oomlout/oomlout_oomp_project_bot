@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Haptic_Motor_Driver  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_haptic_motor_driver  
 (snippet of original readme)  
   
 SparkFun Haptic Motor Driver  

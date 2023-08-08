@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Anubis  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_anubis  
 (snippet of original readme)  
   
 - Acheron Anubis  

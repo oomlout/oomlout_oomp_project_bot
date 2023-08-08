@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BedLevelingSensor  by nppc  
   
+oomp key: oomp_projects_flat_nppc_bedlevelingsensor  
 (snippet of original readme)  
   
 - BedLevelingSensor  

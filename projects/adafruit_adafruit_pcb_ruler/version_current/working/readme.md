@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PCB-Ruler  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pcb_ruler  
 (snippet of original readme)  
   
 - PCB for the Adafruit PCB Ruler  

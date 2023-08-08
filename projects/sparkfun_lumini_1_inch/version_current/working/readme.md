@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LuMini_1_Inch  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lumini_1_inch  
 (snippet of original readme)  
   
 SparkFun LuMini 1 Inch Ring  

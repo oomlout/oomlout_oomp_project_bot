@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kbd67mkii_plates  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_kbd67mkii_plates  
 (snippet of original readme)  
   
 ﻿- KBD67 MKII replacement plates  

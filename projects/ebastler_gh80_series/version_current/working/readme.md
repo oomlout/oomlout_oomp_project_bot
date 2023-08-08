@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gh80-series  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_gh80_series  
 (snippet of original readme)  
   
 - GH80 series keyboard PCBs for Cherry boards  

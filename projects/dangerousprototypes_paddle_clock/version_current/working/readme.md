@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Paddle_Clock  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_paddle_clock  
 (snippet of original readme)  
   
   

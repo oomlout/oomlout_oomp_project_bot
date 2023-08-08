@@ -1,6 +1,7 @@
 # OOMP Project  
 ## A20-CAN  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_a20_can  
 (snippet of original readme)  
   
 - A20-CAN  

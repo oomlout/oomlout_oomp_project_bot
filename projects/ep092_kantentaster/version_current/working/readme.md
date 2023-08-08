@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Kantentaster  by ep092  
   
+oomp key: oomp_projects_flat_ep092_kantentaster  
 (snippet of original readme)  
   
 - Kantentaster  

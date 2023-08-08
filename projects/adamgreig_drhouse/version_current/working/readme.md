@@ -1,6 +1,7 @@
 # OOMP Project  
 ## drhouse  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_drhouse  
 (snippet of original readme)  
   
 DrHouse  

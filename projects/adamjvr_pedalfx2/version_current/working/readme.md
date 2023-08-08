@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PedalFX2  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_pedalfx2  
 (snippet of original readme)  
   
 - PedalFX2  

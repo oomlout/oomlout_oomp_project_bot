@@ -1,6 +1,7 @@
 # OOMP Project  
 ## H2OhNo  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_h2ohno  
 (snippet of original readme)  
   
   

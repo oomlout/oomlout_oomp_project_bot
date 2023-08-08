@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LTR390-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ltr390_pcb  
 (snippet of original readme)  
   
 -- Adafruit LTR390 UV and Ambient Light Sensor PCB  

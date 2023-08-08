@@ -1,6 +1,7 @@
 # OOMP Project  
 ## XTIDE_CPLD  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_xtide_cpld  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TPA2012-or-TS2012-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tpa2012_or_ts2012_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit TPA2012 or TS2012 Breakout PCB  

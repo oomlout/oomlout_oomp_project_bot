@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic-SGP30-Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_sgp30_breakout  
 (snippet of original readme)  
   
 Qwiic SGP30 Breakout  

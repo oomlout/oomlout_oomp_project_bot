@@ -1,6 +1,7 @@
 # OOMP Project  
 ## icebreaker  by nqbit  
   
+oomp key: oomp_projects_flat_nqbit_icebreaker  
 (snippet of original readme)  
   
 - ICEBreaker FPGA  

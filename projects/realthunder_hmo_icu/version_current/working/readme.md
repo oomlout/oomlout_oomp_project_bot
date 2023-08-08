@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hmo_icu  by realthunder  
   
+oomp key: oomp_projects_flat_realthunder_hmo_icu  
 (snippet of original readme)  
   
   

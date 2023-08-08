@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IMU_Fusion_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_imu_fusion_board  
 (snippet of original readme)  
   
 SparkFun IMU Fusion Board - ADXL345 & IMU3000  

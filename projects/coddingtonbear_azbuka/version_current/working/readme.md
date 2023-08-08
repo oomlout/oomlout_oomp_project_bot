@@ -1,6 +1,7 @@
 # OOMP Project  
 ## azbuka  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_azbuka  
 (snippet of original readme)  
   
 - Azbuka: Morse Code USB Keyboard  

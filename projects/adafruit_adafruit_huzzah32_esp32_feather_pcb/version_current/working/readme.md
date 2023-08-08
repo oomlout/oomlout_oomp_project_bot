@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-HUZZAH32-ESP32-Feather-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_huzzah32_esp32_feather_pcb  
 (snippet of original readme)  
   
 -- Adafruit HUZZAH32 ESP32 Feather  

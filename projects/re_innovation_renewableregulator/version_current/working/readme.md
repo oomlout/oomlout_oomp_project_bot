@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RenewableRegulator  by re-innovation  
   
+oomp key: oomp_projects_flat_re_innovation_renewableregulator  
 (snippet of original readme)  
   
 - Renewable Regulator  

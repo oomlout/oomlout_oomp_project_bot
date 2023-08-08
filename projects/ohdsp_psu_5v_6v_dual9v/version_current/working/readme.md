@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PSU-5V-6V-Dual9V  by ohdsp  
   
+oomp key: oomp_projects_flat_ohdsp_psu_5v_6v_dual9v  
 (snippet of original readme)  
   
 - [Open Hardware DSP Platform](http://www.ohdsp.org)  

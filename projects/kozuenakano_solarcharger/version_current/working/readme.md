@@ -1,6 +1,7 @@
 # OOMP Project  
 ## solarCharger  by KozueNakano  
   
+oomp key: oomp_projects_flat_kozuenakano_solarcharger  
 (snippet of original readme)  
   
   

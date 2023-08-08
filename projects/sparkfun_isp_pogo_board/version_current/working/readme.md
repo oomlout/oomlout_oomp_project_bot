@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ISP_Pogo_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_isp_pogo_board  
 (snippet of original readme)  
   
 ISP Pogo Adapter  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## industrial-encoder-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_industrial_encoder_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TXB0104-Level-Shifter-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_txb0104_level_shifter_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit TXB0104 Level Shifter Breakout PCB  

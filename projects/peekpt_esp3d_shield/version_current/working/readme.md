@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP3D-shield  by peekpt  
   
+oomp key: oomp_projects_flat_peekpt_esp3d_shield  
 (snippet of original readme)  
   
 -- ESP3D-SHIELD  

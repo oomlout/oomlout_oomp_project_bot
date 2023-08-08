@@ -1,6 +1,7 @@
 # OOMP Project  
 ## smanou02  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_smanou02  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MCP4725_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mcp4725_breakout  
 (snippet of original readme)  
   
 MCP4725_Breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LoRa_1W_Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_lora_1w_breakout  
 (snippet of original readme)  
   
 SparkFun LoRa 1W Breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BLEShield  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_bleshield  
 (snippet of original readme)  
   
   

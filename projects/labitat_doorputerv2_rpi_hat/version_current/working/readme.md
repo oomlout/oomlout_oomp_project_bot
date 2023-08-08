@@ -1,6 +1,7 @@
 # OOMP Project  
 ## doorputerv2_rpi_hat  by labitat  
   
+oomp key: oomp_projects_flat_labitat_doorputerv2_rpi_hat  
 (snippet of original readme)  
   
   

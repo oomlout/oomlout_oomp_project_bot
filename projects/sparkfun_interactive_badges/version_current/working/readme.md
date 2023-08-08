@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Interactive_Badges  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_interactive_badges  
 (snippet of original readme)  
   
 Interactive Badges  

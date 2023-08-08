@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX_smol_FPC_16-way_36mm  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_smol_fpc_16_way_36mm  
 (snippet of original readme)  
   
 - SparkX smôl FPC 16-way 36mm  

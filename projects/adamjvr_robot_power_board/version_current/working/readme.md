@@ -1,6 +1,7 @@
 # OOMP Project  
 ## robot-power-board  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_robot_power_board  
 (snippet of original readme)  
   
 - robot-power-board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tut-cc_lpc1114_mbedLike  by jp3cyc  
   
+oomp key: oomp_projects_flat_jp3cyc_tut_cc_lpc1114_mbedlike  
 (snippet of original readme)  
   
 - tut-cc_lpc1114_mbed  

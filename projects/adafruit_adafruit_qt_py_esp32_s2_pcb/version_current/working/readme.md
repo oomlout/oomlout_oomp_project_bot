@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-QT-Py-ESP32-S2-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_qt_py_esp32_s2_pcb  
 (snippet of original readme)  
   
 -- Adafruit QT Py ESP32-S2 WiFi Dev Board with STEMMA QT PCB  

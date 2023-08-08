@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatWAN_Farmer  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catwan_farmer  
 (snippet of original readme)  
   
 - CatWAN Farmer by Electronic Cats  

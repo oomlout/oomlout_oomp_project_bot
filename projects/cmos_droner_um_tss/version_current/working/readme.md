@@ -1,6 +1,7 @@
 # OOMP Project  
 ## UM-TSS  by cmos-droner  
   
+oomp key: oomp_projects_flat_cmos_droner_um_tss  
 (snippet of original readme)  
   
 - UM-TSS - CMOS Drumsynth  

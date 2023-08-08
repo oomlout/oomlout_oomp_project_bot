@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pcb-test-swatch  by joem  
   
+oomp key: oomp_projects_flat_joem_pcb_test_swatch  
 (snippet of original readme)  
   
   

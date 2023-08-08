@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qduino_Mini_SFE  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qduino_mini_sfe  
 (snippet of original readme)  
   
 Qduino Mini  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cheapsplit  by notsockx  
   
+oomp key: oomp_projects_flat_notsockx_cheapsplit  
 (snippet of original readme)  
   
 - cheapsplit  

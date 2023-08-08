@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ampli_FET  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_ampli_fet  
 (snippet of original readme)  
   
 - ampli_FET  

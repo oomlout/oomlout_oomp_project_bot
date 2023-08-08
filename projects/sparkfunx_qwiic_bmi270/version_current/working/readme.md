@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_BMI270  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_bmi270  
 (snippet of original readme)  
   
 Qwiic BMI270  

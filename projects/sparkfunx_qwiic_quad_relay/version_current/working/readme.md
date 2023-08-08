@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Quad_Relay  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_quad_relay  
 (snippet of original readme)  
   
 SparkX Qwiic Quad Relay  

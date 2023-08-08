@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-AHT20-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_aht20_pcb  
 (snippet of original readme)  
   
 -- Adafruit AHT20 Temperature and Humidity Sensor PCB  

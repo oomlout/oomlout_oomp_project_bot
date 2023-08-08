@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mcore-h616-breakout  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_mcore_h616_breakout  
 (snippet of original readme)  
   
 - mcore-h616-breakout  

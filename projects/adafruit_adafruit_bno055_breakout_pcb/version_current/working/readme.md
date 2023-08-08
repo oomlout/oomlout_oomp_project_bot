@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-BNO055-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bno055_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit BNO055 Breakout PCB  

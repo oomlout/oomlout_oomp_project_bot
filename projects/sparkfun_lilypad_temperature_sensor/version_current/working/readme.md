@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Temperature_Sensor  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_temperature_sensor  
 (snippet of original readme)  
   
 LilyPad Temperature Sensor  

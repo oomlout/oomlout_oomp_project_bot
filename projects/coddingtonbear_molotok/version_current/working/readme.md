@@ -1,6 +1,7 @@
 # OOMP Project  
 ## molotok  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_molotok  
 (snippet of original readme)  
   
 - Molotok: ATtiny85-based WS2812b Controller  

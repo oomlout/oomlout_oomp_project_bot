@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AT42QT1010_Capacitive_Touch_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_at42qt1010_capacitive_touch_breakout  
 (snippet of original readme)  
   
 SparkFun Capacitive Touch Breakout - AT42QT101X  

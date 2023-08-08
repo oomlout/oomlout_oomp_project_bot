@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bfo-9000-case  by keebio  
   
+oomp key: oomp_projects_flat_keebio_bfo_9000_case  
 (snippet of original readme)  
   
 - BFO-9000 Plate Files  

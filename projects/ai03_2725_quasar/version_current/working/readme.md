@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Quasar  by ai03-2725  
   
+oomp key: oomp_projects_flat_ai03_2725_quasar  
 (snippet of original readme)  
   
 - Quasar  

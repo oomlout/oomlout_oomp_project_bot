@@ -1,6 +1,7 @@
 # OOMP Project  
 ## QuadMod  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_quadmod  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Function_LoRa_1W  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_function_lora_1w  
 (snippet of original readme)  
   
 SparkFun MicroMod LoRa Function Board  

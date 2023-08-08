@@ -1,6 +1,7 @@
 # OOMP Project  
 ## keithley2015_aux_breakout  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_keithley2015_aux_breakout  
 (snippet of original readme)  
   
   

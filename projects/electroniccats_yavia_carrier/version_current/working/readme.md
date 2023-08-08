@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Yavia_Carrier  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_yavia_carrier  
 (snippet of original readme)  
   
 - Yavia_Carrier  

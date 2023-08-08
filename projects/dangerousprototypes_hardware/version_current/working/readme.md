@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hardware  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_hardware  
 (snippet of original readme)  
   
   

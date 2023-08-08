@@ -1,6 +1,7 @@
 # OOMP Project  
 ## suzibot  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_suzibot  
 (snippet of original readme)  
   
   

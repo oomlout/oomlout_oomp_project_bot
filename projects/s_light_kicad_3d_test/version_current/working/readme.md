@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCAD_3D_test  by s-light  
   
+oomp key: oomp_projects_flat_s_light_kicad_3d_test  
 (snippet of original readme)  
   
 - KiCAD_3D_test  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CryptoCape  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_cryptocape  
 (snippet of original readme)  
   
 CryptoCape  

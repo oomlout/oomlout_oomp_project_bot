@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LoRa-STM32WL-DevKIT  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_lora_stm32wl_devkit  
 (snippet of original readme)  
   
 - LoRa-STM32WL-DevKIT  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## industrial-digital-in-4-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_industrial_digital_in_4_v2_bricklet  
 (snippet of original readme)  
   
   

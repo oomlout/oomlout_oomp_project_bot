@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mCore_Mixtape  by 8BitMixtape  
   
+oomp key: oomp_projects_flat_8bitmixtape_mcore_mixtape  
 (snippet of original readme)  
   
 - mCore_Mixtape  

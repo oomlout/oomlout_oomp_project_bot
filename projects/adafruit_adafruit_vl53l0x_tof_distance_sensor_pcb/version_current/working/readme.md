@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-VL53L0X-ToF-Distance-Sensor-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_vl53l0x_tof_distance_sensor_pcb  
 (snippet of original readme)  
   
 - PCB files for the Adafruit VL53L0X ToF Distance Sensor  

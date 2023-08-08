@@ -1,6 +1,7 @@
 # OOMP Project  
 ## URC  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_urc  
 (snippet of original readme)  
   
 - URC  

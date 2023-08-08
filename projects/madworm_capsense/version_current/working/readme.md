@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CapSense  by madworm  
   
+oomp key: oomp_projects_flat_madworm_capsense  
 (snippet of original readme)  
   
   

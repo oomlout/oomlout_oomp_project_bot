@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DPS310-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_dps310_pcb  
 (snippet of original readme)  
   
 -- Adafruit DPS310 Precision Barometric Pressure and Altitude Sensor PCB  

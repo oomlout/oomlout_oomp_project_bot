@@ -1,6 +1,7 @@
 # OOMP Project  
 ## thesis  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_thesis  
 (snippet of original readme)  
   
 - Energy Harvester Design for Intelligent Tyre Systems  

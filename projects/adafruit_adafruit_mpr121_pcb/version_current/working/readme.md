@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MPR121-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mpr121_pcb  
 (snippet of original readme)  
   
 -- Adafruit MPR121 capacitive touch breakout PCB  

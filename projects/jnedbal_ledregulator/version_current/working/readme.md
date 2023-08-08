@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LEDregulator  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_ledregulator  
 (snippet of original readme)  
   
 - LEDregulator  

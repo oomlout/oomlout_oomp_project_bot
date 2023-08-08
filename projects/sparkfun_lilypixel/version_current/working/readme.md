@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPixel  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypixel  
 (snippet of original readme)  
   
 LilyPad Pixel Board  

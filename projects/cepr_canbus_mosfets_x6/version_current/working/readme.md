@@ -1,6 +1,7 @@
 # OOMP Project  
 ## canbus-mosfets-x6  by cepr  
   
+oomp key: oomp_projects_flat_cepr_canbus_mosfets_x6  
 (snippet of original readme)  
   
   

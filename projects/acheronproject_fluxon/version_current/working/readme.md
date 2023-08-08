@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Fluxon  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_fluxon  
 (snippet of original readme)  
   
 - Acheron 40-SM-S-STM32-MX-TH-WI (Codename "Fluxon")  

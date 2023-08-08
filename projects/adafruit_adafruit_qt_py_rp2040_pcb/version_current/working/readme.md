@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-QT-Py-RP2040-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_qt_py_rp2040_pcb  
 (snippet of original readme)  
   
 -- Adafruit QT Py RP2040 PCB  

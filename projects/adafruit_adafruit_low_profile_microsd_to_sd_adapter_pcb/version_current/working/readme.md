@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Low-profile-microSD-to-SD-Adapter-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_low_profile_microsd_to_sd_adapter_pcb  
 (snippet of original readme)  
   
 -- Adafruit Low profile microSD to SD Adapter PCB (discontinued)  

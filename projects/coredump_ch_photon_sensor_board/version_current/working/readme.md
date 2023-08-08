@@ -1,6 +1,7 @@
 # OOMP Project  
 ## photon-sensor-board  by coredump-ch  
   
+oomp key: oomp_projects_flat_coredump_ch_photon_sensor_board  
 (snippet of original readme)  
   
 - Photon Sensor Board  

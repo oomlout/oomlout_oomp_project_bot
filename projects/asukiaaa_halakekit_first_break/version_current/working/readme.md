@@ -1,6 +1,7 @@
 # OOMP Project  
 ## halakekit_first_break  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_halakekit_first_break  
 (snippet of original readme)  
   
 - HaLakeKitFirstBreak  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Pressure-LPS25HB  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_pressure_lps25hb  
 (snippet of original readme)  
   
 SparkFun Qwiic Pressure with LPS25HB  

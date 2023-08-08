@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Humidity_AHT20  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_humidity_aht20  
 (snippet of original readme)  
   
 SparkFun Qwiic Humidity AHT20  

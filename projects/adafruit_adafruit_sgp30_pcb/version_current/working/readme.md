@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SGP30-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_sgp30_pcb  
 (snippet of original readme)  
   
 -- Adafruit SGP30 Air Quality Sensor PCB  

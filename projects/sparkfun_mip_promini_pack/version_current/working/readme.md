@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MiP_ProMini-Pack  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mip_promini_pack  
 (snippet of original readme)  
   
 SparkFun MiP ProMini-Pack  

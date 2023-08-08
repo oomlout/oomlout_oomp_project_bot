@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-32u4-Adalogger-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_32u4_adalogger_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather 32u4 Adalogger PCB  

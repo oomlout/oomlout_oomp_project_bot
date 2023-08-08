@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad_templates  by ashtonchase  
   
+oomp key: oomp_projects_flat_ashtonchase_kicad_templates  
 (snippet of original readme)  
   
   

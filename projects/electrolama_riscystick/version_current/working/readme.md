@@ -1,6 +1,7 @@
 # OOMP Project  
 ## riscystick  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_riscystick  
 (snippet of original readme)  
   
 - riscystick  

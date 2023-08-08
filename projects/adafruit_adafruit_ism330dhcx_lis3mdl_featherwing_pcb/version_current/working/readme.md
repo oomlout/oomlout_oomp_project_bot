@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ism330dhcx_lis3mdl_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit ISM330DHCX + LIS3MDL FeatherWing - High Precision 9-DoF IMU PCB  

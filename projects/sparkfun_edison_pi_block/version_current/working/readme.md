@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_Pi_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_pi_block  
 (snippet of original readme)  
   
 SparkFun Edison Pi Block  

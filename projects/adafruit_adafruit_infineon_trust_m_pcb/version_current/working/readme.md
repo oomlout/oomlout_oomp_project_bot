@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Infineon-Trust-M-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_infineon_trust_m_pcb  
 (snippet of original readme)  
   
 -- Adafruit Infineon Trust M Breakout Board PCB  

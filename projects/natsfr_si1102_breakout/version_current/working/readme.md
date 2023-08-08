@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SI1102_Breakout  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_si1102_breakout  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Blower_Fan  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_blower_fan  
 (snippet of original readme)  
   
 Qwiic Blower Fan  

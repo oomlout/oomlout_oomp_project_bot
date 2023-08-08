@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Ethernet_LEDs  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_ethernet_leds  
 (snippet of original readme)  
   
   

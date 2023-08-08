@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PowerBoost-500-Basic-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_powerboost_500_basic_pcb  
 (snippet of original readme)  
   
 -- Adafruit PowerBoost 500 Basic PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Qwiic-Stemma-QT-5-Port-Hub-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_qwiic_stemma_qt_5_port_hub_pcb  
 (snippet of original readme)  
   
 -- Adafruit Qwiic / Stemma QT 5 Port Hub PCB  

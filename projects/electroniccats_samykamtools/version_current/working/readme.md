@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SamyKamTools  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_samykamtools  
 (snippet of original readme)  
   
 <a href="https://github.com/sponsors/ElectronicCats">  

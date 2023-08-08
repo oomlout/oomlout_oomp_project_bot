@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_High_Performance_Magnetometer_MMC5983MA  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_high_performance_magnetometer_mmc5983ma  
 (snippet of original readme)  
   
 - SparkX MMC5983MA Magnetometer Breakout  

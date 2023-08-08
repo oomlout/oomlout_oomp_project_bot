@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-OLED-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_oled_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit FeatherWing OLED - 128x32 and 128x64 OLED Add-on For Feather PCB  

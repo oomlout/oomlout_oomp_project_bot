@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TI_FDC1004_Breakout  by s-light  
   
+oomp key: oomp_projects_flat_s_light_ti_fdc1004_breakout  
 (snippet of original readme)  
   
 - TI_FDC1004_Breakout  

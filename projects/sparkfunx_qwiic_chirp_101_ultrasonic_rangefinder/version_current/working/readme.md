@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Chirp_101_Ultrasonic_Rangefinder  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_chirp_101_ultrasonic_rangefinder  
 (snippet of original readme)  
   
 Qwiic Chirp 101 Ultrasonic Rangefinder  

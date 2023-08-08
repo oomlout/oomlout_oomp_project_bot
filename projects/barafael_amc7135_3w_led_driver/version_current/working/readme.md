@@ -1,6 +1,7 @@
 # OOMP Project  
 ## amc7135-3W-LED-driver  by barafael  
   
+oomp key: oomp_projects_flat_barafael_amc7135_3w_led_driver  
 (snippet of original readme)  
   
 - amc7135-3W-LED-driver  

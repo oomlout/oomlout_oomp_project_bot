@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_ADXL343_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_adxl343_pcb  
 (snippet of original readme)  
   
 -- Adafruit ADXL343 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) w/ I2C/SPI PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 50W_RF_Amp  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_50w_rf_amp  
 (snippet of original readme)  
   
 - 50W_RF_Amp, Codename Diomedes  

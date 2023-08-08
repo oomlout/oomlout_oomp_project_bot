@@ -1,6 +1,7 @@
 # OOMP Project  
 ## facewhisperer  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_facewhisperer  
 (snippet of original readme)  
   
 FaceWhisperer  

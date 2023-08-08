@@ -1,6 +1,7 @@
 # OOMP Project  
 ## usb_uart  by descampsa  
   
+oomp key: oomp_projects_flat_descampsa_usb_uart  
 (snippet of original readme)  
   
 Isolated uart-usb converter.  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kxmx_trig  by recursinging  
   
+oomp key: oomp_projects_flat_recursinging_kxmx_trig  
 (snippet of original readme)  
   
 - kxmx_trig  

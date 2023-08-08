@@ -1,6 +1,7 @@
 # OOMP Project  
 ## sound-pressure-level-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_sound_pressure_level_bricklet  
 (snippet of original readme)  
   
   

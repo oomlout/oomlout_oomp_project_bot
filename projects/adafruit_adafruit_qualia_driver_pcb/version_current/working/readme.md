@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Qualia-Driver-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_qualia_driver_pcb  
 (snippet of original readme)  
   
 -- Adafruit Qualia Driver PCB  

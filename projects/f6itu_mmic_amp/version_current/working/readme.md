@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MMIC_Amp  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_mmic_amp  
 (snippet of original readme)  
   
 - MMIC_Amp  

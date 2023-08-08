@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MAX31855K_Thermocouple_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_max31855k_thermocouple_breakout  
 (snippet of original readme)  
   
 MAX31855K Thermocouple Breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## laser-range-finder-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_laser_range_finder_bricklet  
 (snippet of original readme)  
   
   

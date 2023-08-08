@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bfo9000-pcb  by keebio  
   
+oomp key: oomp_projects_flat_keebio_bfo9000_pcb  
 (snippet of original readme)  
   
 - BFO-9000 PCB  

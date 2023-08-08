@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GNSS_Splitter  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_gnss_splitter  
 (snippet of original readme)  
   
 - SparkX GNSS Antenna Splitter (Power Divider) with DC Pass  

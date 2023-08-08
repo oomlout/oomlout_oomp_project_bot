@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32_LoRa_1Ch_Gateway  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_esp32_lora_1ch_gateway  
 (snippet of original readme)  
   
 SparkFun LoRa Gateway 1-Channel  

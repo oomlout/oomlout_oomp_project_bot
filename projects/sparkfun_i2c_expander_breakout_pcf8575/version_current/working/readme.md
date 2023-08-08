@@ -1,6 +1,7 @@
 # OOMP Project  
 ## I2C_Expander_Breakout-PCF8575  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_i2c_expander_breakout_pcf8575  
 (snippet of original readme)  
   
 SparkFun I2C Expander Breakout - PCF8575  

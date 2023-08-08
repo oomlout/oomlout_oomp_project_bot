@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Yvette  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_yvette  
 (snippet of original readme)  
   
 - Yvette  

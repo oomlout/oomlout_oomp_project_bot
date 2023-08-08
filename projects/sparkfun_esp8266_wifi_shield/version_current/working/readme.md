@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP8266_WiFi_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_esp8266_wifi_shield  
 (snippet of original readme)  
   
 SparkFun ESP8266 WiFi Shield  

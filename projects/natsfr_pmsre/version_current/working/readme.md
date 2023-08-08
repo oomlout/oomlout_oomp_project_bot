@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pmsre  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_pmsre  
 (snippet of original readme)  
   
 -Powerful Motor System that Rocks Everything  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Embedded  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_embedded  
 (snippet of original readme)  
   
 - CElectronics  

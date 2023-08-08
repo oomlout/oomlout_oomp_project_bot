@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-BQ24074-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bq24074_pcb  
 (snippet of original readme)  
   
 -- Adafruit BQ24074 Solar Charger PCB  

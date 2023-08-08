@@ -1,6 +1,7 @@
 # OOMP Project  
 ## linetime  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_linetime  
 (snippet of original readme)  
   
 - Linetime  

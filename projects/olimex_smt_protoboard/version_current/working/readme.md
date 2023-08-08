@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SMT-PROTOBOARD  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_smt_protoboard  
 (snippet of original readme)  
   
 - SMT-PROTOBOARD  

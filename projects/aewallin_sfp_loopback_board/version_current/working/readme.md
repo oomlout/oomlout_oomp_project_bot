@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SFP-Loopback-Board  by aewallin  
   
+oomp key: oomp_projects_flat_aewallin_sfp_loopback_board  
 (snippet of original readme)  
   
 - SFP-Loopback-Board  

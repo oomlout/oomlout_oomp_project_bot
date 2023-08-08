@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IKEA-Samtid_mood-light  by madworm  
   
+oomp key: oomp_projects_flat_madworm_ikea_samtid_mood_light  
 (snippet of original readme)  
   
   

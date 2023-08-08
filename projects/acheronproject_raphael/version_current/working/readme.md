@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Raphael  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_raphael  
 (snippet of original readme)  
   
 - Acheron Raphael  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rj45_injector  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_rj45_injector  
 (snippet of original readme)  
   
   

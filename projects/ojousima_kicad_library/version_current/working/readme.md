@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_kicad_library  
 (snippet of original readme)  
   
 kicad-library  

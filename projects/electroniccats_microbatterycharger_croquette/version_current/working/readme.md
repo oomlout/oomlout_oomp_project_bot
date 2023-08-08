@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroBatteryCharger-Croquette  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_microbatterycharger_croquette  
 (snippet of original readme)  
   
 - Electronic Cats Croquette Micro Lipo/Lion Battery Charger  

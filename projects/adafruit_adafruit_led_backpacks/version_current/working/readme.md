@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LED-Backpacks  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_led_backpacks  
 (snippet of original readme)  
   
 - Adafruit LED Matrix backpacks PCBs  

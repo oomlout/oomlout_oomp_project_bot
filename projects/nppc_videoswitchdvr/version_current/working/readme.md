@@ -1,6 +1,7 @@
 # OOMP Project  
 ## VideoSwitchDVR  by nppc  
   
+oomp key: oomp_projects_flat_nppc_videoswitchdvr  
 (snippet of original readme)  
   
 - Control Board for Eachine Pro DVR (to install to EV100 Goggles)  

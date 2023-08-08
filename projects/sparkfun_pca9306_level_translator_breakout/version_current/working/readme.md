@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PCA9306_Level_Translator_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_pca9306_level_translator_breakout  
 (snippet of original readme)  
   
 PCA9306 Level Translator Breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-USB-Isolator-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_usb_isolator_pcb  
 (snippet of original readme)  
   
 - Adafruit USB Isolator PCB  

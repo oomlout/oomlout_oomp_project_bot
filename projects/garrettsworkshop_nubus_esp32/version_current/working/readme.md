@@ -1,6 +1,7 @@
 # OOMP Project  
 ## NuBus-ESP32  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_nubus_esp32  
 (snippet of original readme)  
   
   

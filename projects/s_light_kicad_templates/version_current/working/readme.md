@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-templates  by s-light  
   
+oomp key: oomp_projects_flat_s_light_kicad_templates  
 (snippet of original readme)  
   
 -- :warning: Deprecation warning  

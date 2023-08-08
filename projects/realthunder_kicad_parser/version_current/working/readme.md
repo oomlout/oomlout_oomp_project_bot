@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad_parser  by realthunder  
   
+oomp key: oomp_projects_flat_realthunder_kicad_parser  
 (snippet of original readme)  
   
   

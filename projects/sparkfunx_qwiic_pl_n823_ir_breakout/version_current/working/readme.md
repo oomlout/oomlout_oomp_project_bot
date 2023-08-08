@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_PL-N823_IR_Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_pl_n823_ir_breakout  
 (snippet of original readme)  
   
 SparkFun Qwiic PL-N823 IR Breakout  

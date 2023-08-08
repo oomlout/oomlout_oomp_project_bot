@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BastWiFi  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_bastwifi  
 (snippet of original readme)  
   
 - BastWiFi  

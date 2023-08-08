@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Gyro_Breakout-LPY503AL  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gyro_breakout_lpy503al  
 (snippet of original readme)  
   
 SparkFun Gyro Breakout - LPY503AL (Dual 30°/s)  

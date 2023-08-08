@@ -1,6 +1,7 @@
 # OOMP Project  
 ## powertroll-pcb  by bveenema  
   
+oomp key: oomp_projects_flat_bveenema_powertroll_pcb  
 (snippet of original readme)  
   
   

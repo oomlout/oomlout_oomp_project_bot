@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MyoWare_Power_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_myoware_power_shield  
 (snippet of original readme)  
   
 MyoWare™ Power Shield  

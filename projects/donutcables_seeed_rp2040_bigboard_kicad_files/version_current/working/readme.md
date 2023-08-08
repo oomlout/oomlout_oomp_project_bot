@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Seeed-RP2040-BigBoard-Kicad-Files  by DonutCables  
   
+oomp key: oomp_projects_flat_donutcables_seeed_rp2040_bigboard_kicad_files  
 (snippet of original readme)  
   
   

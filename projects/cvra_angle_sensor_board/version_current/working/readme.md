@@ -1,6 +1,7 @@
 # OOMP Project  
 ## angle-sensor-board  by cvra  
   
+oomp key: oomp_projects_flat_cvra_angle_sensor_board  
 (snippet of original readme)  
   
 ﻿- Carte Codeur Absolu  

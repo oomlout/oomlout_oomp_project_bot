@@ -1,6 +1,7 @@
 # OOMP Project  
 ## yuletronics  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_yuletronics  
 (snippet of original readme)  
   
 - Yuletronics: Electronics Club Project Michaelmas 2016  

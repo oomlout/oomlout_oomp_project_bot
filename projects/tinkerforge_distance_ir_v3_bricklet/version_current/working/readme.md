@@ -1,6 +1,7 @@
 # OOMP Project  
 ## distance-ir-v3-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_distance_ir_v3_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Line_Follower_Array  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_line_follower_array  
 (snippet of original readme)  
   
 SparkFun Line Follower Array  

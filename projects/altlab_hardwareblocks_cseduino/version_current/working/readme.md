@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HardwareBlocks_CSEduino  by altLab  
   
+oomp key: oomp_projects_flat_altlab_hardwareblocks_cseduino  
 (snippet of original readme)  
   
 - CSEduino  

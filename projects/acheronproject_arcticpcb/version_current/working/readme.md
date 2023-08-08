@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ArcticPCB  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_arcticpcb  
 (snippet of original readme)  
   
 - Acheron 60-SM-S-STM32-MX-TH-WI (Codename "ArcticPCB")  

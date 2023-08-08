@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mentor  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_mentor  
 (snippet of original readme)  
   
 - Mentor  

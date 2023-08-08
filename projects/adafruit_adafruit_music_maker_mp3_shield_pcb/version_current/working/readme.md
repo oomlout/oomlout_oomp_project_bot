@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Music-Maker-MP3-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_music_maker_mp3_shield_pcb  
 (snippet of original readme)  
   
 - Adafruit Music Maker MP3 Shields PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## icepill  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_icepill  
 (snippet of original readme)  
   
 - iCE Pill  

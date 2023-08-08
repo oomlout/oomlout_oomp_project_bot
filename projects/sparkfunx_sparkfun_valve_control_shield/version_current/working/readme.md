@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkFun_Valve_Control_Shield  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkfun_valve_control_shield  
 (snippet of original readme)  
   
 SparkFun Dual Valve and Solenoid Control  

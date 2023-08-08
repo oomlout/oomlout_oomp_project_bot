@@ -1,6 +1,7 @@
 # OOMP Project  
 ## michi  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_michi  
 (snippet of original readme)  
   
 - Michi  

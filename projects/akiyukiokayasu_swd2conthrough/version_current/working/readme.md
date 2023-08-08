@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SWD2Conthrough  by AkiyukiOkayasu  
   
+oomp key: oomp_projects_flat_akiyukiokayasu_swd2conthrough  
 (snippet of original readme)  
   
 - SWD2Conthrough  

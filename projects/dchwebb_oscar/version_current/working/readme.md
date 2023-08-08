@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Oscar  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_oscar  
 (snippet of original readme)  
   
 - Oscar  

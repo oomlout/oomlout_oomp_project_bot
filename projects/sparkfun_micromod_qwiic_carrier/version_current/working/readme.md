@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Qwiic_Carrier  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_qwiic_carrier  
 (snippet of original readme)  
   
 SparkFun MicroMod Qwiic Carrier Board  

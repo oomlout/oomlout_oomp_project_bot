@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RaspiUniversalHat  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_raspiuniversalhat  
 (snippet of original readme)  
   
 - RaspiUniversalHat  

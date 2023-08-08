@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mixer  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_mixer  
 (snippet of original readme)  
   
 - Mixer  

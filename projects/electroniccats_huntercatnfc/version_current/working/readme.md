@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HunterCatNFC  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_huntercatnfc  
 (snippet of original readme)  
   
 - Hunter Cat NFC  

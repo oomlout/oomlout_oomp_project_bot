@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Circuit-Playground-Express-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_circuit_playground_express_pcb  
 (snippet of original readme)  
   
 -- Adafruit Circuit Playground Express PCB  

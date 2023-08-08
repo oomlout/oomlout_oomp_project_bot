@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MPL115A2-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mpl115a2_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit MPL115A2 Breakout PCB  

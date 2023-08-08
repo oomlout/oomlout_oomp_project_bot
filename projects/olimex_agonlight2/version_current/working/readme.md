@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AgonLight2  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_agonlight2  
 (snippet of original readme)  
   
 - AgonLight2  

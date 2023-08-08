@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IOIO-OTG  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ioio_otg  
 (snippet of original readme)  
   
 IOIO-OTG  

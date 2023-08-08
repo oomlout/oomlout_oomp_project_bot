@@ -1,6 +1,7 @@
 # OOMP Project  
 ## usb_c_plug_breakout  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_usb_c_plug_breakout  
 (snippet of original readme)  
   
 - USB Type-C Plug Breakout Boards  

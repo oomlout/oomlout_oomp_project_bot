@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MAX3232_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_max3232_breakout  
 (snippet of original readme)  
   
 SparkFun Transceiver Breakout - MAX3232  

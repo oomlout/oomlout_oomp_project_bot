@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCad-PCB-Template  by AkiyukiOkayasu  
   
+oomp key: oomp_projects_flat_akiyukiokayasu_kicad_pcb_template  
 (snippet of original readme)  
   
 - KiCad-PCB-Template  

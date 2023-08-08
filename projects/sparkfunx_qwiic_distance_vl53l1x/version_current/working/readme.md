@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Distance_VL53L1X  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_distance_vl53l1x  
 (snippet of original readme)  
   
 SparkFun Qwiic 4m Distance Sensor with VL53L1X  

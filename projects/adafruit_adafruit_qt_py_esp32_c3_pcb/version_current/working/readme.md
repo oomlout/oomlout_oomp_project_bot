@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-QT-Py-ESP32-C3-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_qt_py_esp32_c3_pcb  
 (snippet of original readme)  
   
 -- Adafruit QT Py ESP32-C3 WiFi Dev Board with STEMMA QT PCB  

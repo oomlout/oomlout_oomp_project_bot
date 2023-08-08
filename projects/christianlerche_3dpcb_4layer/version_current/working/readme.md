@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 3DPCB-4LAYER  by ChristianLerche  
   
+oomp key: oomp_projects_flat_christianlerche_3dpcb_4layer  
 (snippet of original readme)  
   
 - 3DPCB-4LAYER  

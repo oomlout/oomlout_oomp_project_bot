@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Voyager50  by ai03-2725  
   
+oomp key: oomp_projects_flat_ai03_2725_voyager50  
 (snippet of original readme)  
   
 - Voyager50  

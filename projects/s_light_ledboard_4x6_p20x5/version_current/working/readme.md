@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LEDBoard_4x6_p20x5  by s-light  
   
+oomp key: oomp_projects_flat_s_light_ledboard_4x6_p20x5  
 (snippet of original readme)  
   
 <!--lint disable maximum-line-length-->  

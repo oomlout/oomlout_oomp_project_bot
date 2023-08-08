@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32Bee  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_esp32bee  
 (snippet of original readme)  
   
 - ESP32Bee  

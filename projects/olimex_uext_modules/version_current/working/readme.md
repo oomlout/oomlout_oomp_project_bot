@@ -1,6 +1,7 @@
 # OOMP Project  
 ## UEXT-MODULES  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_uext_modules  
 (snippet of original readme)  
   
 - UEXT-MODULES  

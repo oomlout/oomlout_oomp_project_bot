@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-FONA-SIMCOM-3G-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_fona_simcom_3g_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit FONA SIMCOM 3G Breakouts PCB  

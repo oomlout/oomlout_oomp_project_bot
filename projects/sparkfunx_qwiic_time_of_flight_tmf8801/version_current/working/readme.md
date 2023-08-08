@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Time-of-Flight-TMF8801  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_time_of_flight_tmf8801  
 (snippet of original readme)  
   
 SparkFun Qwiic Time-of-Flight Sensor TMF8801  

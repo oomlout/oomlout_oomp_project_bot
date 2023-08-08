@@ -1,6 +1,7 @@
 # OOMP Project  
 ## arisu-pcb  by FateNozomi  
   
+oomp key: oomp_projects_flat_fatenozomi_arisu_pcb  
 (snippet of original readme)  
   
 - Arisu Keyboard PCB  

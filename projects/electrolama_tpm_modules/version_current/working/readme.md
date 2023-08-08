@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tpm-modules  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_tpm_modules  
 (snippet of original readme)  
   
 - tpm-modules  

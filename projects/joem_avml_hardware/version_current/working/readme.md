@@ -1,6 +1,7 @@
 # OOMP Project  
 ## avml-hardware  by joem  
   
+oomp key: oomp_projects_flat_joem_avml_hardware  
 (snippet of original readme)  
   
 AVML Hardware  

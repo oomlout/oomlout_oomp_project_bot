@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED_Matrix_Serial_Interface_RGB  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_led_matrix_serial_interface_rgb  
 (snippet of original readme)  
   
 LED Matrix Serial Interface-RGB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-HMC5883-Mag-Compass-Sensor-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_hmc5883_mag_compass_sensor_pcb  
 (snippet of original readme)  
   
 - Adafruit HMC5883 Magnetic Compass Sensor PCB (Discontinued)  

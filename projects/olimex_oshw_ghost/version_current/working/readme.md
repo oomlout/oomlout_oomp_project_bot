@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OSHW-GHOST  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_oshw_ghost  
 (snippet of original readme)  
   
 - OSHW-GHOST  

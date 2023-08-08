@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-7x15-CharliePlex-LED-FeatherWing  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_7x15_charlieplex_led_featherwing  
 (snippet of original readme)  
   
 -- Adafruit 7x15 CharliePlex LED FeatherWings PCB  

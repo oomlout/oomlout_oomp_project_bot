@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PoE_Power_Supply  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_poe_power_supply  
 (snippet of original readme)  
   
 SparkFun PoE to USB Power Supply  

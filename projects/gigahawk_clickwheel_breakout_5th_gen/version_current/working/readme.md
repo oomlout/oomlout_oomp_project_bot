@@ -1,6 +1,7 @@
 # OOMP Project  
 ## clickwheel_breakout_5th_gen  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_clickwheel_breakout_5th_gen  
 (snippet of original readme)  
   
 - iPod Clickwheel Breakout  

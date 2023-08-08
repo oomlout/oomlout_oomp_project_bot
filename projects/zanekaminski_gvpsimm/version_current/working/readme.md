@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gvpsimm  by ZaneKaminski  
   
+oomp key: oomp_projects_flat_zanekaminski_gvpsimm  
 (snippet of original readme)  
   
 - GVP-Compatible 64-Pin 4MB SIMM  

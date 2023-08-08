@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BadgerStick  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_badgerstick  
 (snippet of original readme)  
   
 Interactive Badges  

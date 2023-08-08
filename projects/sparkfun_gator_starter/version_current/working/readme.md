@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_starter  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_starter  
 (snippet of original readme)  
   
 SparkFun gator:starter Protosnap  

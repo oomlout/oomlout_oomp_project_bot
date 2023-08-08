@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kiplot  by rdeterre  
   
+oomp key: oomp_projects_flat_rdeterre_kiplot  
 (snippet of original readme)  
   
 - KiPlot  

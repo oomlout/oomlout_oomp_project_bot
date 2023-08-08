@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Ouroboros  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_ouroboros  
 (snippet of original readme)  
   
 ﻿- Acheron Ouroboros  

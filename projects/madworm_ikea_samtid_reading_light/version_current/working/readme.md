@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IKEA-Samtid_reading-light  by madworm  
   
+oomp key: oomp_projects_flat_madworm_ikea_samtid_reading_light  
 (snippet of original readme)  
   
   

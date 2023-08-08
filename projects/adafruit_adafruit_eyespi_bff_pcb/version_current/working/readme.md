@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-EYESPI-BFF-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_eyespi_bff_pcb  
 (snippet of original readme)  
   
 -- Adafruit EYESPI BFF for QT Py or Xiao - 18 Pin FPC Connector PCB  

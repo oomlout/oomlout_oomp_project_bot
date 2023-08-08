@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MIDI_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_midi_breakout  
 (snippet of original readme)  
   
 SparkFun MIDI Breakout - MIDI In/Out/Thru For Microcontrollers  

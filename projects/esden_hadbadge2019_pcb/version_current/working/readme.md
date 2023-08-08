@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hadbadge2019_pcb  by esden  
   
+oomp key: oomp_projects_flat_esden_hadbadge2019_pcb  
 (snippet of original readme)  
   
 Hackaday Supercon 2019 Badge: PCB/schematics  

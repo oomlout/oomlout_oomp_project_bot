@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Micro_Bit_Moto_Bit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micro_bit_moto_bit  
 (snippet of original readme)  
   
 SparkFun moto:bit  

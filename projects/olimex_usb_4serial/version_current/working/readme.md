@@ -1,6 +1,7 @@
 # OOMP Project  
 ## USB-4SERIAL  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_usb_4serial  
 (snippet of original readme)  
   
 - USB-4SERIAL  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gtimer  by kiu  
   
+oomp key: oomp_projects_flat_kiu_gtimer  
 (snippet of original readme)  
   
 - gtimer  

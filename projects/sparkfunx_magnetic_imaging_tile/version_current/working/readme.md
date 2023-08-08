@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Magnetic_Imaging_Tile  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_magnetic_imaging_tile  
 (snippet of original readme)  
   
 Magnetic Imaging Tile  

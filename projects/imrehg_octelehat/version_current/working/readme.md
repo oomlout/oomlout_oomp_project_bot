@@ -1,6 +1,7 @@
 # OOMP Project  
 ## octelehat  by imrehg  
   
+oomp key: oomp_projects_flat_imrehg_octelehat  
 (snippet of original readme)  
   
 - Overclocking Telemetry HAT  

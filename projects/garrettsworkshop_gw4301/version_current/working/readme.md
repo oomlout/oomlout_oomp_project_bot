@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GW4301  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_gw4301  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 50x50_rj45_usb_injectors  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_50x50_rj45_usb_injectors  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PiOLED-128x32-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pioled_128x32_pcb  
 (snippet of original readme)  
   
 -- Adafruit PiOLED 128x32 PCB  

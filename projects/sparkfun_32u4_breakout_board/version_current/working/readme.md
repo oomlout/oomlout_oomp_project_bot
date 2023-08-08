@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 32U4_Breakout_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_32u4_breakout_board  
 (snippet of original readme)  
   
 ATMEGA32U4 Breakout Board  

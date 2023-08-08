@@ -1,6 +1,7 @@
 # OOMP Project  
 ## floss-jtag  by esden  
   
+oomp key: oomp_projects_flat_esden_floss_jtag  
 (snippet of original readme)  
   
 Free Libre Open-Source/-Hardware JTAG/UART Adapter based on the FT2232H chip.  

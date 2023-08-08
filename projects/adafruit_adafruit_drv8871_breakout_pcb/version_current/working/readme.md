@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DRV8871-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_drv8871_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit DRV8871 DC Motor Driver Breakout Board PCB  

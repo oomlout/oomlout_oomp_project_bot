@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Thermostat_ADT6401_Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_thermostat_adt6401_breakout  
 (snippet of original readme)  
   
 SparkFun Auto-Digital Thermostat - ADT6401  

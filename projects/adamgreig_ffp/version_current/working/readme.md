@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ffp  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_ffp  
 (snippet of original readme)  
   
 - FFP: Flash/FPGA Programmer  

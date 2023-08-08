@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FeatherWing-HUBUSB  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_featherwing_hubusb  
 (snippet of original readme)  
   
 - WingHub  

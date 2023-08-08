@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Athena  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_athena  
 (snippet of original readme)  
   
 - Acheron Athena  

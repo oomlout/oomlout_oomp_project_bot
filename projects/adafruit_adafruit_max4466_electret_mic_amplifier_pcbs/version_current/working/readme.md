@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_max4466_electret_mic_amplifier_pcbs  
 (snippet of original readme)  
   
 - Adafruit MAX4466 Electret Mic Amplifier PCBs  

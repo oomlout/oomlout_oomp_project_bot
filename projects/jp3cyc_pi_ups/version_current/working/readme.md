@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pi-UPS  by jp3cyc  
   
+oomp key: oomp_projects_flat_jp3cyc_pi_ups  
 (snippet of original readme)  
   
 - Pi-UPS  

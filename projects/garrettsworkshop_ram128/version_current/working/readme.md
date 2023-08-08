@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RAM128  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_ram128  
 (snippet of original readme)  
   
   

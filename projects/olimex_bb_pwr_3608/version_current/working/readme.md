@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BB-PWR-3608  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_bb_pwr_3608  
 (snippet of original readme)  
   
 - BB-PWR-2608  

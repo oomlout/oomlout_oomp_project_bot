@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad_templates  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_kicad_templates  
 (snippet of original readme)  
   
 - KiCad Templates for new projects  

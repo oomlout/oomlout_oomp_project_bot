@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by kicad-rleh  
   
+oomp key: oomp_projects_flat_kicad_rleh_kicad_library  
 (snippet of original readme)  
   
 KiCad Library  

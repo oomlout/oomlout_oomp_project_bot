@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ethernet-extension  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_ethernet_extension  
 (snippet of original readme)  
   
   

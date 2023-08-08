@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32-PRO  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_esp32_pro  
 (snippet of original readme)  
   
 - ESP32-PRO  

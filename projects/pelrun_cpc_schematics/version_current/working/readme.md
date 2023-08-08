@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cpc-schematics  by pelrun  
   
+oomp key: oomp_projects_flat_pelrun_cpc_schematics  
 (snippet of original readme)  
   
 -- Amstrad CPC6128 version 2 (MC0020x) schematic and pcb.  

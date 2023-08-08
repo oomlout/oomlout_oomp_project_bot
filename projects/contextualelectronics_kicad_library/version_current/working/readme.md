@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_kicad_library  
 (snippet of original readme)  
   
 kicad-library  

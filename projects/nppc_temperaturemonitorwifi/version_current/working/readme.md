@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TemperatureMonitorWIFI  by nppc  
   
+oomp key: oomp_projects_flat_nppc_temperaturemonitorwifi  
 (snippet of original readme)  
   
   

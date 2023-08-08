@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-VL53L1X-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_vl53l1x_pcb  
 (snippet of original readme)  
   
 -- Adafruit VL53L1X Time of Flight Distance Sensor PCB  

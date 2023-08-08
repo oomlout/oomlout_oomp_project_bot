@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LoRaCatKitty  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_loracatkitty  
 (snippet of original readme)  
   
 - LoRa Cat: Kitty  

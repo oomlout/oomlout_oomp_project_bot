@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-5x5-NeoPixel-Grid-BFF-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_5x5_neopixel_grid_bff_pcb  
 (snippet of original readme)  
   
 -- Adafruit 5x5 NeoPixel Grid BFF PCB  

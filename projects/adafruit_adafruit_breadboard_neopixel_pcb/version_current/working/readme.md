@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Breadboard_NeoPixel_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_breadboard_neopixel_pcb  
 (snippet of original readme)  
   
 - PCB for the Adafruit Breadboard-able NeoPixels  

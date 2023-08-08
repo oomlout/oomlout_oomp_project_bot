@@ -1,6 +1,7 @@
 # OOMP Project  
 ## alphaosc  by russellmcc  
   
+oomp key: oomp_projects_flat_russellmcc_alphaosc  
 (snippet of original readme)  
   
   

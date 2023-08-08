@@ -1,6 +1,7 @@
 # OOMP Project  
 ## walkclock-public  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_walkclock_public  
 (snippet of original readme)  
   
 - walkclock  

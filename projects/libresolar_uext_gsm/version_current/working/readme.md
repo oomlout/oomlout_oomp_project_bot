@@ -1,6 +1,7 @@
 # OOMP Project  
 ## uext-gsm  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_uext_gsm  
 (snippet of original readme)  
   
 - GSM board based on SIM800L for UEXT connector  

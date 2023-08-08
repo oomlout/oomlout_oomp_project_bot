@@ -1,6 +1,7 @@
 # OOMP Project  
 ## usb_ht73xx  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_usb_ht73xx  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DigitalPot_OptoIsolator  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_digitalpot_optoisolator  
 (snippet of original readme)  
   
   

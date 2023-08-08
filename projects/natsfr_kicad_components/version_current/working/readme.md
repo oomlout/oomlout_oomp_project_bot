@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-components  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_kicad_components  
 (snippet of original readme)  
   
   

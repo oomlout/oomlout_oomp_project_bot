@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 8Bit_JogjaNoise  by 8BitMixtape  
   
+oomp key: oomp_projects_flat_8bitmixtape_8bit_jogjanoise  
 (snippet of original readme)  
   
 - 8Bit NoiseBomb - Jogjarmageddon  

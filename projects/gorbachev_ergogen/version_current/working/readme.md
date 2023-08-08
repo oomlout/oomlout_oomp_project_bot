@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ergogen  by gorbachev  
   
+oomp key: oomp_projects_flat_gorbachev_ergogen  
 (snippet of original readme)  
   
 - Ergogen  

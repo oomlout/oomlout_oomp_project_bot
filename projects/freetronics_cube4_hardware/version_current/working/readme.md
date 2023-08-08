@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Cube4-hardware  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_cube4_hardware  
 (snippet of original readme)  
   
 Freetronics Cube  

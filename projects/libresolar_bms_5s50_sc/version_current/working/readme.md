@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bms-5s50-sc  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_bms_5s50_sc  
 (snippet of original readme)  
   
 - BMS 5s (12 V)  

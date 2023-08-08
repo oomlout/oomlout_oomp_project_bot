@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Prototyping-Pi-Plate-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_prototyping_pi_plate_pcb  
 (snippet of original readme)  
   
 - Adafruit Prototyping Pi Plate  

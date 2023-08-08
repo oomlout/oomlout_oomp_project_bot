@@ -1,6 +1,7 @@
 # OOMP Project  
 ## INA169_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ina169_breakout  
 (snippet of original readme)  
   
 SparkFun INA169 Current Sensing Breakout  

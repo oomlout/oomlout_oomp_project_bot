@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FreeCAD-PCB  by realthunder  
   
+oomp key: oomp_projects_flat_realthunder_freecad_pcb  
 (snippet of original readme)  
   
 Printed Circuit Board Workbench for FreeCAD PCB   

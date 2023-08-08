@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_log  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_log  
 (snippet of original readme)  
   
 SparkFun gator:log - micro:bit Accessory Board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## radio  by esden  
   
+oomp key: oomp_projects_flat_esden_radio  
 (snippet of original readme)  
   
 radio  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MicroSD-SPI-or-SDIO-card-breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_microsd_spi_or_sdio_card_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit MicroSD SPI or SDIO card breakout board PCB  

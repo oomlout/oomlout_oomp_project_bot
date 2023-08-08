@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ADAU1701-RPPico-module  by AkiyukiOkayasu  
   
+oomp key: oomp_projects_flat_akiyukiokayasu_adau1701_rppico_module  
 (snippet of original readme)  
   
 - KiBot CI/CD template repository  

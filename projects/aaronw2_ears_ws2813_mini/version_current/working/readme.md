@@ -1,6 +1,7 @@
 # OOMP Project  
 ##   by   
   
+oomp key:   
 (snippet of original readme)  
   
 - ears-ws2813-mini  

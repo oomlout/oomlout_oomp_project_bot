@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mobile-sensor-pcb  by rascalmicro  
   
+oomp key: oomp_projects_flat_rascalmicro_mobile_sensor_pcb  
 (snippet of original readme)  
   
   

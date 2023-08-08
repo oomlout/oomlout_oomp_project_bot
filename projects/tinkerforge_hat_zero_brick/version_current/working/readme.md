@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hat-zero-brick  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_hat_zero_brick  
 (snippet of original readme)  
   
   

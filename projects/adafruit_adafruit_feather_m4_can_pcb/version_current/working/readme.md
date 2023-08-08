@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-M4-CAN-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_m4_can_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather M4 CAN Express PCB  

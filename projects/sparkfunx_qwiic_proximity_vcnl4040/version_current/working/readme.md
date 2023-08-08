@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Proximity_VCNL4040  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_proximity_vcnl4040  
 (snippet of original readme)  
   
 SparkFun VCNL4040 Proximity Sensor (Qwiic) - VCNL4040  

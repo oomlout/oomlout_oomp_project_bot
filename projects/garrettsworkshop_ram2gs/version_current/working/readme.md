@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RAM2GS  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_ram2gs  
 (snippet of original readme)  
   
   

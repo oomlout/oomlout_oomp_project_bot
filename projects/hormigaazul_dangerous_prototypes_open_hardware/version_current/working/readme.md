@@ -1,6 +1,7 @@
 # OOMP Project  
 ## dangerous-prototypes-open-hardware  by hormigaAzul  
   
+oomp key: oomp_projects_flat_hormigaazul_dangerous_prototypes_open_hardware  
 (snippet of original readme)  
   
   

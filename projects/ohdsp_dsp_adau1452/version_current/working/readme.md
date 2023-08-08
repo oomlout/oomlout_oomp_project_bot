@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DSP-ADAU1452  by ohdsp  
   
+oomp key: oomp_projects_flat_ohdsp_dsp_adau1452  
 (snippet of original readme)  
   
 - [Open Hardware DSP Platform](http://www.ohdsp.org)  

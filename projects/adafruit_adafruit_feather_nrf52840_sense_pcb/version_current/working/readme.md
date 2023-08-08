@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-nRF52840-Sense-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_nrf52840_sense_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather nRF52840 Sense PCB  

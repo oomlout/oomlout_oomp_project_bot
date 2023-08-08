@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Asset_Tracker  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_asset_tracker  
 (snippet of original readme)  
   
 - MicroMod Asset Tracker Carrier Board  

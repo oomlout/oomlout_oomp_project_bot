@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Light_Sensor  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_light_sensor  
 (snippet of original readme)  
   
 LilyPad Light Sensor  

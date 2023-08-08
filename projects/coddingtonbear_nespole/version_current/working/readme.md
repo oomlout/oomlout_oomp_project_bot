@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nespole  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_nespole  
 (snippet of original readme)  
   
 - Microcontroller-controlled Laminator (Nespole)  

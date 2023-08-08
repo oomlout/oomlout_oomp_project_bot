@@ -1,6 +1,7 @@
 # OOMP Project  
 ## dc-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_dc_v2_bricklet  
 (snippet of original readme)  
   
   

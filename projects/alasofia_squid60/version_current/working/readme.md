@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Squid60  by Alasofia  
   
+oomp key: oomp_projects_flat_alasofia_squid60  
 (snippet of original readme)  
   
 - Squid60  

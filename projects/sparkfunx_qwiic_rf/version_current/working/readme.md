@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_RF  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_rf  
 (snippet of original readme)  
   
 - Qwiic_RF  

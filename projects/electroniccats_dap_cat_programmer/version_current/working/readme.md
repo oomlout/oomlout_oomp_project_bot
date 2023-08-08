@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DAP-Cat-Programmer  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_dap_cat_programmer  
 (snippet of original readme)  
   
 - CMSIS-DAP Cat Programmer  

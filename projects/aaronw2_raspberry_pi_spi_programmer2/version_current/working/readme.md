@@ -1,6 +1,7 @@
 # OOMP Project  
 ##   by   
   
+oomp key:   
 (snippet of original readme)  
   
 SOIC-8 and SOIC-16 SPI Flash Programming Hat for Raspberry PI  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Lumenati_3x3  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lumenati_3x3  
 (snippet of original readme)  
   
 SparkFun Lumenati 3x3  

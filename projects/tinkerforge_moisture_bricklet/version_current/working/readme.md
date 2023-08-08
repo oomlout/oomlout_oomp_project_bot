@@ -1,6 +1,7 @@
 # OOMP Project  
 ## moisture-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_moisture_bricklet  
 (snippet of original readme)  
   
   

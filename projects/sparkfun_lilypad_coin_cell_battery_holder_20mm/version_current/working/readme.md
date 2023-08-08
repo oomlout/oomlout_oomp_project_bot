@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Coin_Cell_Battery_Holder-20mm  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_coin_cell_battery_holder_20mm  
 (snippet of original readme)  
   
 **NOTE:** *This product has been retired from our catalog. If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking and improving on this product.*  

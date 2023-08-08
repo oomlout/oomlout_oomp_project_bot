@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 67mk_E  by jakobkg  
   
+oomp key: oomp_projects_flat_jakobkg_67mk_e  
 (snippet of original readme)  
   
 - 67mk_E  

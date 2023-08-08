@@ -1,6 +1,7 @@
 # OOMP Project  
 ## supervide  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_supervide  
 (snippet of original readme)  
   
   

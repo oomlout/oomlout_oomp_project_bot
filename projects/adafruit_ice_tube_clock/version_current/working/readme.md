@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Ice-Tube-Clock  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_ice_tube_clock  
 (snippet of original readme)  
   
 - Ice Tube Clock kit - v1.1  

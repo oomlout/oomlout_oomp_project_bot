@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Rotary-Trinkey-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_rotary_trinkey_pcb  
 (snippet of original readme)  
   
 -- Adafruit Rotary Trinkey PCB  

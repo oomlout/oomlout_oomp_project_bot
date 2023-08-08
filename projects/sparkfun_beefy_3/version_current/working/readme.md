@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Beefy_3  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_beefy_3  
 (snippet of original readme)  
   
 SparkFun FTDI Basic Breakout Board-3.3V  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ProtoSnap-LilyPad_Development_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_protosnap_lilypad_development_board  
 (snippet of original readme)  
   
 ProtoSnap- LilyPad Development Board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Alphanumeric_Display_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qwiic_alphanumeric_display_breakout  
 (snippet of original readme)  
   
 SparkFun Qwiic Alphanumeric Display  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Protoboard_Large  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_protoboard_large  
 (snippet of original readme)  
   
 LilyPad Protoboard Large  

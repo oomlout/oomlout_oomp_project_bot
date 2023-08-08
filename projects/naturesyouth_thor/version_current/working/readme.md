@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Thor  by naturesyouth  
   
+oomp key: oomp_projects_flat_naturesyouth_thor  
 (snippet of original readme)  
   
 <img src="doc/logo.png" width="500" align="center">  

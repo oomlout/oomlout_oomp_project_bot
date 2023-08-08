@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DAC-ADAU1966  by ohdsp  
   
+oomp key: oomp_projects_flat_ohdsp_dac_adau1966  
 (snippet of original readme)  
   
 - [Open Hardware DSP Platform](http://www.ohdsp.org)  

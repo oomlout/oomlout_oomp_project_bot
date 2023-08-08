@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_ADXL375_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_adxl375_pcb  
 (snippet of original readme)  
   
 -- Adafruit ADXL375 - High G Accelerometer (+-200g) PCB  

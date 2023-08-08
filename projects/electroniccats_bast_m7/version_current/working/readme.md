@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Bast-M7  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_bast_m7  
 (snippet of original readme)  
   
 - Bast M7  

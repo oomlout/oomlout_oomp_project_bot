@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-1.44-TFT-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_1_44_tft_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit 1.44" TFT LCD Color Display Breakout PCB  

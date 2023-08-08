@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FanController  by newAM  
   
+oomp key: oomp_projects_flat_newam_fancontroller  
 (snippet of original readme)  
   
 -- IR Fan Controller  

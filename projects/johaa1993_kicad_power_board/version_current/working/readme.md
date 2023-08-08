@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCad-Power_Board  by johaa1993  
   
+oomp key: oomp_projects_flat_johaa1993_kicad_power_board  
 (snippet of original readme)  
   
   

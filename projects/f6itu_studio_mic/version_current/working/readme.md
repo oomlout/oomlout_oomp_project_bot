@@ -1,6 +1,7 @@
 # OOMP Project  
 ## studio_mic  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_studio_mic  
 (snippet of original readme)  
   
 - Simple, high quality condenser microphone for under $100  

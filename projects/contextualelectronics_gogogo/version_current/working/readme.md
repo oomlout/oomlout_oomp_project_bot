@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GoGoGo  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_gogogo  
 (snippet of original readme)  
   
   

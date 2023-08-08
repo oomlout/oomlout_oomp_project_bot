@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pmod_bbq10_keyboard  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_pmod_bbq10_keyboard  
 (snippet of original readme)  
   
 - BB Q10 Keyboard PMOD  

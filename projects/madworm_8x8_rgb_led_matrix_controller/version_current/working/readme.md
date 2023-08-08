@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 8x8_RGB_LED_Matrix_Controller  by madworm  
   
+oomp key: oomp_projects_flat_madworm_8x8_rgb_led_matrix_controller  
 (snippet of original readme)  
   
   

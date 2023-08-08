@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-E-Paper-Display-Breakout-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_e_paper_display_breakout_pcbs  
 (snippet of original readme)  
   
 - Adafruit-E-Paper-Display-Breakout-PCBs  

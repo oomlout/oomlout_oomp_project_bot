@@ -1,6 +1,7 @@
 # OOMP Project  
 ## minicube  by pbrook  
   
+oomp key: oomp_projects_flat_pbrook_minicube  
 (snippet of original readme)  
   
   

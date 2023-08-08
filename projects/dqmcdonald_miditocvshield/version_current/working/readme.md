@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MidiToCVShield  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_miditocvshield  
 (snippet of original readme)  
   
   

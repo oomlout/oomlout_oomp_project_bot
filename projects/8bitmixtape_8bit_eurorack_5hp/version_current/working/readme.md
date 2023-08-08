@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 8Bit_EuroRack-5hp  by 8BitMixtape  
   
+oomp key: oomp_projects_flat_8bitmixtape_8bit_eurorack_5hp  
 (snippet of original readme)  
   
 - 8Bit_EuroRack-5hp  

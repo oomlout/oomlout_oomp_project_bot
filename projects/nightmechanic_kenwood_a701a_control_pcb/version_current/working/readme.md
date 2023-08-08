@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Kenwood_A701A_control_pcb  by nightmechanic  
   
+oomp key: oomp_projects_flat_nightmechanic_kenwood_a701a_control_pcb  
 (snippet of original readme)  
   
 Kenwood_A701A_control_pcb  

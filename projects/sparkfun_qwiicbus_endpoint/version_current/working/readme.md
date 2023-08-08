@@ -1,6 +1,7 @@
 # OOMP Project  
 ## QwiicBus_EndPoint  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qwiicbus_endpoint  
 (snippet of original readme)  
   
 SparkFun QwiicBus - EndPoint  

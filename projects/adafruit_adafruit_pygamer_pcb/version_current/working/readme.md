@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PyGamer-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pygamer_pcb  
 (snippet of original readme)  
   
 - Adafruit-PyGamer-PCB  

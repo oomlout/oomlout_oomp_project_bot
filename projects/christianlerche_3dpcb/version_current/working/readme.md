@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 3DPCB  by ChristianLerche  
   
+oomp key: oomp_projects_flat_christianlerche_3dpcb  
 (snippet of original readme)  
   
 - 3DPCB  

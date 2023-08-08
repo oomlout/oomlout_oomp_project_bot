@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_color  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_color  
 (snippet of original readme)  
   
 SparkFun gator:color  

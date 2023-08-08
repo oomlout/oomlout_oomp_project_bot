@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GPS_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gps_breakout  
 (snippet of original readme)  
   
 GPS Breakout  

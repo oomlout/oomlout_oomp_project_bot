@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_is31fl3731_charlieplex_led_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit IS31FL3731 CharliePlex LED Breakout PCB  

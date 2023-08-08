@@ -1,6 +1,7 @@
 # OOMP Project  
 ## discipline  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_discipline  
 (snippet of original readme)  
   
 - DISCIPLINE V2  

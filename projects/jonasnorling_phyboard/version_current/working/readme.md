@@ -1,6 +1,7 @@
 # OOMP Project  
 ## phyboard  by JonasNorling  
   
+oomp key: oomp_projects_flat_jonasnorling_phyboard  
 (snippet of original readme)  
   
   

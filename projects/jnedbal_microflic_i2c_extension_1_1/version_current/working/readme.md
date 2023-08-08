@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroFLiC_I2C_extension_1_1  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_microflic_i2c_extension_1_1  
 (snippet of original readme)  
   
   

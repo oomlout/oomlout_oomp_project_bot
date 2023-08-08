@@ -1,6 +1,7 @@
 # OOMP Project  
 ## NDriveShield  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_ndriveshield  
 (snippet of original readme)  
   
   

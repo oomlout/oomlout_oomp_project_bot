@@ -1,6 +1,7 @@
 # OOMP Project  
 ## iSpindel-PCB  by nppc  
   
+oomp key: oomp_projects_flat_nppc_ispindel_pcb  
 (snippet of original readme)  
   
   

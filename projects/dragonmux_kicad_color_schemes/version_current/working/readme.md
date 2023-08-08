@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-color-schemes  by dragonmux  
   
+oomp key: oomp_projects_flat_dragonmux_kicad_color_schemes  
 (snippet of original readme)  
   
 - kicad-color-schemes  

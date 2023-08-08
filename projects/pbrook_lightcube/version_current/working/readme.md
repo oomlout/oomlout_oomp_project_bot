@@ -1,6 +1,7 @@
 # OOMP Project  
 ## lightcube  by pbrook  
   
+oomp key: oomp_projects_flat_pbrook_lightcube  
 (snippet of original readme)  
   
   

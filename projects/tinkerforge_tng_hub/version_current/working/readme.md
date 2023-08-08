@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tng-hub  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_tng_hub  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Analog-Accelerometers-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_analog_accelerometers_pcbs  
 (snippet of original readme)  
   
 - PCBs for the Adafruit Analog Accelerometers - ADXL335, ADXL377 and ADXL326  

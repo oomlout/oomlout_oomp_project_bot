@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_control  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_control  
 (snippet of original readme)  
   
 SparkFun gator:control ProtoSnap  

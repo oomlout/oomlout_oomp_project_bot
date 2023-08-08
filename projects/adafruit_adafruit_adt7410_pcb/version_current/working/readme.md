@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ADT7410-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_adt7410_pcb  
 (snippet of original readme)  
   
 -- Adafruit ADT7410 High Accuracy I2C Temperature Sensor Breakout Board PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Reed_Switch  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_reed_switch  
 (snippet of original readme)  
   
 SparkFun LilyPad Reed Switch  

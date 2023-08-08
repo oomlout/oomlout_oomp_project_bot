@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LIS3DH-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lis3dh_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit LIS3DH Triple-Axis Accelerometer (+-2g/4g/8g/16g) PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Accelerometer-ADXL335  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_accelerometer_adxl335  
 (snippet of original readme)  
   
 SparkFun LilyPad Accelerometer -ADXL335  

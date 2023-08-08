@@ -1,6 +1,7 @@
 # OOMP Project  
 ## isometria-75  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_isometria_75  
 (snippet of original readme)  
   
 - isometria<sup>75</sup>  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Lumini_8x8  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lumini_8x8  
 (snippet of original readme)  
   
 SparkFun LuMini 8x8 Matrix  

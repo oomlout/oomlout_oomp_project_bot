@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Logomatic  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_logomatic  
 (snippet of original readme)  
   
 Logomatic v2 Serial SD Datalogger (FAT32)  

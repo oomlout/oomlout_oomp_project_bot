@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GeoFence  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_geofence  
 (snippet of original readme)  
   
 - GeoFence  

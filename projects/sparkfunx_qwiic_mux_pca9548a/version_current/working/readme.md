@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Mux-PCA9548A  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_mux_pca9548a  
 (snippet of original readme)  
   
   

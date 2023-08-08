@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HumidityModule  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_humiditymodule  
 (snippet of original readme)  
   
   

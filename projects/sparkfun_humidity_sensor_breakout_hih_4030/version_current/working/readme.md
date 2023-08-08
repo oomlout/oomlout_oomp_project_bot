@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Humidity_Sensor_Breakout-HIH-4030  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_humidity_sensor_breakout_hih_4030  
 (snippet of original readme)  
   
 SparkFun Humidity Sensor Breakout - HIH-4030  

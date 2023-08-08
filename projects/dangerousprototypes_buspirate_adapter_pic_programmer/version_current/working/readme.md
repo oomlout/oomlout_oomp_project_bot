@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Buspirate_Adapter_Pic_Programmer  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_buspirate_adapter_pic_programmer  
 (snippet of original readme)  
   
   

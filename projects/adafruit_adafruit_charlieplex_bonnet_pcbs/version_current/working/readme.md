@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CharliePlex-Bonnet-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_charlieplex_bonnet_pcbs  
 (snippet of original readme)  
   
 -- Adafruit CharliePlex LED Matrix Bonnet PCB  

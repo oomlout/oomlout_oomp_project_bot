@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IRIS-OHYAMA-IHK-T35-I2C-Controller-PCB  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_iris_ohyama_ihk_t35_i2c_controller_pcb  
 (snippet of original readme)  
   
 - IRIS-OHYAMA-IHK-T35-I2C-Controller-PCB  

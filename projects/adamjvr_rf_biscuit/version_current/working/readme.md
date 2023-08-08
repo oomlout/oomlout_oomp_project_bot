@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rf-biscuit  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_rf_biscuit  
 (snippet of original readme)  
   
 - rf-biscuit  

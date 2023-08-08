@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PortableSpeaker  by nppc  
   
+oomp key: oomp_projects_flat_nppc_portablespeaker  
 (snippet of original readme)  
   
   

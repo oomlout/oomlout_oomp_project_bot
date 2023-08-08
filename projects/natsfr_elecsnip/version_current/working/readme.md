@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ElecSnip  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_elecsnip  
 (snippet of original readme)  
   
 - ElecSnip  

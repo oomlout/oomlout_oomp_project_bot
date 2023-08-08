@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Micro-USB-Breakout  by bveenema  
   
+oomp key: oomp_projects_flat_bveenema_micro_usb_breakout  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## silent-stepper-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_silent_stepper_v2_bricklet  
 (snippet of original readme)  
   
   

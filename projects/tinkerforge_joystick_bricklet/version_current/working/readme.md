@@ -1,6 +1,7 @@
 # OOMP Project  
 ## joystick-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_joystick_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ozone-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_ozone_bricklet  
 (snippet of original readme)  
   
   

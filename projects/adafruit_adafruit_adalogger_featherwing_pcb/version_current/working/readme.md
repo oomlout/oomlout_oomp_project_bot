@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Adalogger-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_adalogger_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit FeatherWing - RTC + SD Add-on For All Feather Boards PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Zeus  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_zeus  
 (snippet of original readme)  
   
 ﻿- Zeus linear rectified power supply  

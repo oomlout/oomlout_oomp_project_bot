@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DotStar-2020-8x8-Matrix-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_dotstar_2020_8x8_matrix_pcb  
 (snippet of original readme)  
   
 -- Adafruit DotStar High Density 8x8 Grid - 64 RGB LED Pixel Matrix PCB  

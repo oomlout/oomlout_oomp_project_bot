@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RaspberryPiZero-XadowNFC-Adapter  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_raspberrypizero_xadownfc_adapter  
 (snippet of original readme)  
   
 - RaspberryPiZero-XadowNFC-Adapter  

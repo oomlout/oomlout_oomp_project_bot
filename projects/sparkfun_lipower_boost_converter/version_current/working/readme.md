@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LiPower_Boost_Converter  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lipower_boost_converter  
 (snippet of original readme)  
   
 LiPower - Boost Converter  

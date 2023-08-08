@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by cschopfer  
   
+oomp key: oomp_projects_flat_cschopfer_kicad_library  
 (snippet of original readme)  
   
 KiCad Library  

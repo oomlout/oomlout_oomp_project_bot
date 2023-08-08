@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KIS-3R33S_breakout  by madworm  
   
+oomp key: oomp_projects_flat_madworm_kis_3r33s_breakout  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## baby8  by cmos-droner  
   
+oomp key: oomp_projects_flat_cmos_droner_baby8  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyTwinkle_ProtoSnap  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilytwinkle_protosnap  
 (snippet of original readme)  
   
 LilyTwinkle ProtoSnap  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Color_Light_Sensor_Evaluation_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_color_light_sensor_evaluation_board  
 (snippet of original readme)  
   
 Color Light Sensor Evaluation Board  

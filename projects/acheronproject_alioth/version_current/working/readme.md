@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Alioth  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_alioth  
 (snippet of original readme)  
   
 ﻿- Acheron Alioth PCB  

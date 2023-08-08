@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FW2-15-Alarm  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_fw2_15_alarm  
 (snippet of original readme)  
   
 Home and Car Alarm  

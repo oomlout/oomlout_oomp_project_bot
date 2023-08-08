@@ -1,6 +1,7 @@
 # OOMP Project  
 ## arachnouphobia  by fruchti  
   
+oomp key: oomp_projects_flat_fruchti_arachnouphobia  
 (snippet of original readme)  
   
 - Arachnouphobia  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## YauDL  by madworm  
   
+oomp key: oomp_projects_flat_madworm_yaudl  
 (snippet of original readme)  
   
 YauDL  

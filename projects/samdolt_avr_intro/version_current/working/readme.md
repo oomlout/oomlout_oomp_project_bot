@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AVR-Intro  by samdolt  
   
+oomp key: oomp_projects_flat_samdolt_avr_intro  
 (snippet of original readme)  
   
 - AVR-Intro  

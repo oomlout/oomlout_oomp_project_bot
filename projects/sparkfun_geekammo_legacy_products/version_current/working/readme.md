@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GeekAmmo_Legacy_Products  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_geekammo_legacy_products  
 (snippet of original readme)  
   
 GeekAmmo Legacy Products  

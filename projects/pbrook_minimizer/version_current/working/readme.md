@@ -1,6 +1,7 @@
 # OOMP Project  
 ## minimizer  by pbrook  
   
+oomp key: oomp_projects_flat_pbrook_minimizer  
 (snippet of original readme)  
   
   

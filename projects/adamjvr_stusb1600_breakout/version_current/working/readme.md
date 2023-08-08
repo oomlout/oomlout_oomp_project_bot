@@ -1,6 +1,7 @@
 # OOMP Project  
 ## stusb1600_breakout  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_stusb1600_breakout  
 (snippet of original readme)  
   
 - STUSB1600 USB Type-C Controller Breakout Board  

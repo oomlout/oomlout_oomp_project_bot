@@ -1,6 +1,7 @@
 # OOMP Project  
 ## esp-wroom-02-break  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_esp_wroom_02_break  
 (snippet of original readme)  
   
 - esp-wroom-02-break  

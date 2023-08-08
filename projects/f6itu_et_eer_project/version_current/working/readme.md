@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ET-EER-Project  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_et_eer_project  
 (snippet of original readme)  
   
 - ET-EER-Project  

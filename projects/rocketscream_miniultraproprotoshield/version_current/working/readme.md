@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MiniUltraProProtoShield  by rocketscream  
   
+oomp key: oomp_projects_flat_rocketscream_miniultraproprotoshield  
 (snippet of original readme)  
   
 - MiniUltraProProtoShield  

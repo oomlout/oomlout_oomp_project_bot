@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32-C6-EVB  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_esp32_c6_evb  
 (snippet of original readme)  
   
 - ESP32-C6-EVB  

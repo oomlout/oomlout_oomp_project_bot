@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RocketCat  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_rocketcat  
 (snippet of original readme)  
   
 - RocketCat: Kit of Water Rocket WiFi  

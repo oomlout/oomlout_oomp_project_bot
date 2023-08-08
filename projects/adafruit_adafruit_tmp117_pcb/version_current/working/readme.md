@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TMP117-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tmp117_pcb  
 (snippet of original readme)  
   
 -- Adafruit TMP117 High-accuracy Temperature Sensor PCB  

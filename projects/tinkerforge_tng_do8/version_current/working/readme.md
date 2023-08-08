@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tng-do8  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_tng_do8  
 (snippet of original readme)  
   
   

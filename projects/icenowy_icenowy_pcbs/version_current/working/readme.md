@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Icenowy-PCBs  by Icenowy  
   
+oomp key: oomp_projects_flat_icenowy_icenowy_pcbs  
 (snippet of original readme)  
   
 - Icenowy-PCBs  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_GridEye  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_grideye  
 (snippet of original readme)  
   
 SparkFun Qwiic Panasonic Grid-EYE AMG88xx  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## attiny-programmer  by barafael  
   
+oomp key: oomp_projects_flat_barafael_attiny_programmer  
 (snippet of original readme)  
   
 - attiny-programmer  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## monostable.github.io  by monostable  
   
+oomp key: oomp_projects_flat_monostable_monostable_github_io  
 (snippet of original readme)  
   
   

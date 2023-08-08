@@ -1,6 +1,7 @@
 # OOMP Project  
 ## skarsta-plus  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_skarsta_plus  
 (snippet of original readme)  
   
 - Skarsta Plus: Motorize your Skarsta Standing Desk  

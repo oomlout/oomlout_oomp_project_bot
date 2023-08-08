@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Radio-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_radio_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit Radio FeatherWings PCB  

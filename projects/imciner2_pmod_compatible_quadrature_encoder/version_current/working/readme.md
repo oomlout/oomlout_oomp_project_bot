@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PMOD-Compatible_Quadrature-Encoder  by imciner2  
   
+oomp key: oomp_projects_flat_imciner2_pmod_compatible_quadrature_encoder  
 (snippet of original readme)  
   
 - PMOD-Compatible_Quadrature-Encoder  

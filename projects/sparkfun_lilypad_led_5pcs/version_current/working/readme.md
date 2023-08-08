@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_LED_5pcs  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_led_5pcs  
 (snippet of original readme)  
   
 SparkFun <PRODUCT NAME>  

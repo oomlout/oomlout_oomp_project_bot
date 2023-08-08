@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rotary-poti-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_rotary_poti_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DAF021_ECM_3G-Hardware  by bveenema  
   
+oomp key: oomp_projects_flat_bveenema_daf021_ecm_3g_hardware  
 (snippet of original readme)  
   
   

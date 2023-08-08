@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-AirLift-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_airlift_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit AirLift – ESP32 WiFi Co-Processor Breakout Board PCB  

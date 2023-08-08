@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Lipo_Fuel_Gauge  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lipo_fuel_gauge  
 (snippet of original readme)  
   
 SparkFun LiPo Fuel Gauge - MAX17043  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Current_Sensor_Breakout-ACS723-Low_Current  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_current_sensor_breakout_acs723_low_current  
 (snippet of original readme)  
   
 SparkFun Low Current Sensor Breakout Board - ACS723  

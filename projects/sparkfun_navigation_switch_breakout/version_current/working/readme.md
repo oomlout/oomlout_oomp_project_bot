@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Navigation_Switch_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_navigation_switch_breakout  
 (snippet of original readme)  
   
 Navigation Switch Breakout  

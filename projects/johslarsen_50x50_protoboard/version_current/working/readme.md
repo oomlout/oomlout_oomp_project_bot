@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 50x50_protoboard  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_50x50_protoboard  
 (snippet of original readme)  
   
   

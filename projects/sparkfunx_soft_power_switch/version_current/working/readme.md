@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Soft_Power_Switch  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_soft_power_switch  
 (snippet of original readme)  
   
 SparkX Soft Power Switch  

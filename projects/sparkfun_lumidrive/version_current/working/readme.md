@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LumiDrive  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lumidrive  
 (snippet of original readme)  
   
 SparkFun LumiDrive LED Driver   

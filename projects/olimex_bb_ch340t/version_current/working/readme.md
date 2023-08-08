@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BB-CH340T  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_bb_ch340t  
 (snippet of original readme)  
   
 - BB-CH340T  

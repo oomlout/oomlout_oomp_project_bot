@@ -1,6 +1,7 @@
 # OOMP Project  
 ## accelerometer-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_accelerometer_bricklet  
 (snippet of original readme)  
   
   

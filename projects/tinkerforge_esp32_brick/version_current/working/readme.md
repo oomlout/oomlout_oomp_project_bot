@@ -1,6 +1,7 @@
 # OOMP Project  
 ## esp32-brick  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_esp32_brick  
 (snippet of original readme)  
   
   

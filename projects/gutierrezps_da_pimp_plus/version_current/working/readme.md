@@ -1,6 +1,7 @@
 # OOMP Project  
 ## da-pimp-plus  by gutierrezps  
   
+oomp key: oomp_projects_flat_gutierrezps_da_pimp_plus  
 (snippet of original readme)  
   
 - DA PIMP Plus  

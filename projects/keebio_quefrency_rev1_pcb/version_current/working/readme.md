@@ -1,6 +1,7 @@
 # OOMP Project  
 ## quefrency-rev1-pcb  by keebio  
   
+oomp key: oomp_projects_flat_keebio_quefrency_rev1_pcb  
 (snippet of original readme)  
   
 Quefrency Rev. 1 Keyboard PCB  

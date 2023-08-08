@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LSM9DS1-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lsm9ds1_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit LSM9DS1 Breakout PCB  

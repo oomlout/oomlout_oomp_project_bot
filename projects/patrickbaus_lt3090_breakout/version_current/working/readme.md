@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LT3090_breakout  by PatrickBaus  
   
+oomp key: oomp_projects_flat_patrickbaus_lt3090_breakout  
 (snippet of original readme)  
   
 LT3090 Breakout Board  

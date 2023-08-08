@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ADG801Inline  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_adg801inline  
 (snippet of original readme)  
   
   

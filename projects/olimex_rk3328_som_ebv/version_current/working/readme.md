@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RK3328-SOM-EBV  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_rk3328_som_ebv  
 (snippet of original readme)  
   
 - RK3328-SOM-EVB  

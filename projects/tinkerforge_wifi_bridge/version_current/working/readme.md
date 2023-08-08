@@ -1,6 +1,7 @@
 # OOMP Project  
 ## wifi-bridge  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_wifi_bridge  
 (snippet of original readme)  
   
   

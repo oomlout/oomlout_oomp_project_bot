@@ -1,6 +1,7 @@
 # OOMP Project  
 ## dmx-eth-dimmer  by CarnivalBen  
   
+oomp key: oomp_projects_flat_carnivalben_dmx_eth_dimmer  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Blue_Pill_TrueStudio_STM32CubeMX_Template  by celeritous  
   
+oomp key: oomp_projects_flat_celeritous_blue_pill_truestudio_stm32cubemx_template  
 (snippet of original readme)  
   
   

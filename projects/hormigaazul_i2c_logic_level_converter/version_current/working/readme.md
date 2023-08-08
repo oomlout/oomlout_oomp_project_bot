@@ -1,6 +1,7 @@
 # OOMP Project  
 ## i2c-logic-level-converter  by hormigaAzul  
   
+oomp key: oomp_projects_flat_hormigaazul_i2c_logic_level_converter  
 (snippet of original readme)  
   
 i2c-logic-level-converter  

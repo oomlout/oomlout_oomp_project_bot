@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AVRBoard2  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_avrboard2  
 (snippet of original readme)  
   
 AVRBoard2  

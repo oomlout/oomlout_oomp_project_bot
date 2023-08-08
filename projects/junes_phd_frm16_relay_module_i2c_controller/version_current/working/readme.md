@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FRM16_Relay_Module_I2C_Controller  by Junes-PhD  
   
+oomp key: oomp_projects_flat_junes_phd_frm16_relay_module_i2c_controller  
 (snippet of original readme)  
   
 - FRM16_Relay_Module_I2C_Controller  

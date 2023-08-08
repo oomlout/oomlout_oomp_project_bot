@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BufferSaver  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_buffersaver  
 (snippet of original readme)  
   
 SparkX SPI Buffer Saver  

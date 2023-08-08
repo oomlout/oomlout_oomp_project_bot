@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Atmega32u4_Breakout_Board  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_atmega32u4_breakout_board  
 (snippet of original readme)  
   
 - Atmega32u4 Breakout Board  

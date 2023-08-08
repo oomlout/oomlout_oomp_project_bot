@@ -1,6 +1,7 @@
 # OOMP Project  
 ## va4-keyboard  by gorbachev  
   
+oomp key: oomp_projects_flat_gorbachev_va4_keyboard  
 (snippet of original readme)  
   
 - The DIY Keyboard `va4` (v0.4.x)  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BLE_Mate2  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ble_mate2  
 (snippet of original readme)  
   
 SparkFun BLE Mate 2  

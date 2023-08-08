@@ -1,6 +1,7 @@
 # OOMP Project  
 ## dodeca-blink-pcb  by barafael  
   
+oomp key: oomp_projects_flat_barafael_dodeca_blink_pcb  
 (snippet of original readme)  
   
 - dodeca-blink-pcb  

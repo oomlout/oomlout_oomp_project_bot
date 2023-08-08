@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-WICED-WiFi-Feather-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_wiced_wifi_feather_pcb  
 (snippet of original readme)  
   
 -- Adafruit WICED WiFi Feather PCB  

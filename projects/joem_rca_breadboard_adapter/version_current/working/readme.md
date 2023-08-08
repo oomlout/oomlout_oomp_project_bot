@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rca_breadboard_adapter  by joem  
   
+oomp key: oomp_projects_flat_joem_rca_breadboard_adapter  
 (snippet of original readme)  
   
   

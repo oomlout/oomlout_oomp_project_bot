@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Floppy_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_floppy_pcb  
 (snippet of original readme)  
   
 - Adafruit_Floppy_PCB  

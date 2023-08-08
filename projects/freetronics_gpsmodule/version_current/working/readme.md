@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GPSModule  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_gpsmodule  
 (snippet of original readme)  
   
   

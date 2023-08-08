@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mppt-2420-hc  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_mppt_2420_hc  
 (snippet of original readme)  
   
 - MPPT charge controller with HS load switch and CAN  

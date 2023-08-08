@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pioneer_IoT_Kit_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_pioneer_iot_kit_shield  
 (snippet of original readme)  
   
 Pioneer IoT Kit Shield  

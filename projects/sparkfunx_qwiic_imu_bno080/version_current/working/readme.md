@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_IMU_BNO080  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_imu_bno080  
 (snippet of original readme)  
   
 SparkFun Qwiic VR IMU with the BNO080  

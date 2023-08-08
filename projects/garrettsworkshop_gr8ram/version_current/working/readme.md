@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GR8RAM  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_gr8ram  
 (snippet of original readme)  
   
   

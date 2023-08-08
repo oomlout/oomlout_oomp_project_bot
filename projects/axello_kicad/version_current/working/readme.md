@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad  by axello  
   
+oomp key: oomp_projects_flat_axello_kicad  
 (snippet of original readme)  
   
 - kicad playground  

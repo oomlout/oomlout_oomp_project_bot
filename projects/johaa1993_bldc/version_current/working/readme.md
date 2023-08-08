@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bldc  by johaa1993  
   
+oomp key: oomp_projects_flat_johaa1993_bldc  
 (snippet of original readme)  
   
 bldc-hardware  

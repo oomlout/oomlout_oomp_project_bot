@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DisPhaze  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_disphaze  
 (snippet of original readme)  
   
 - Dis Phaze  

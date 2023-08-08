@@ -1,6 +1,7 @@
 # OOMP Project  
 ## UseProMicro  by mitaroThanken  
   
+oomp key: oomp_projects_flat_mitarothanken_usepromicro  
 (snippet of original readme)  
   
 - Pro Micro を使ったキーボードを書いてみる  

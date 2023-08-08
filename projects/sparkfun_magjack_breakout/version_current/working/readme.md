@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MagJack_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_magjack_breakout  
 (snippet of original readme)  
   
 SparkFun RJ45 MagJack Breakout  

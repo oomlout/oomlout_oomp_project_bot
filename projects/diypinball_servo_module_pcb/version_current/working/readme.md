@@ -1,6 +1,7 @@
 # OOMP Project  
 ## servo-module-pcb  by diypinball  
   
+oomp key: oomp_projects_flat_diypinball_servo_module_pcb  
 (snippet of original readme)  
   
 - servo-module-pcb  

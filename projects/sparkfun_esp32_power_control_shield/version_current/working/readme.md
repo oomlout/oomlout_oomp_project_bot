@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32_Power_Control_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_esp32_power_control_shield  
 (snippet of original readme)  
   
 ESP32 Thing Power Control Shield  

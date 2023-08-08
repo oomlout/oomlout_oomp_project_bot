@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GPS_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gps_shield  
 (snippet of original readme)  
   
 SparkFun GPS Logger Shield  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PCA9548-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pca9548_pcb  
 (snippet of original readme)  
   
 -- Adafruit PCA9548 8-Channel STEMMA QT I2C Multiplexer PCB  

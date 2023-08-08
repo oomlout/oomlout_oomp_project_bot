@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_Console_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_console_block  
 (snippet of original readme)  
   
 Console  

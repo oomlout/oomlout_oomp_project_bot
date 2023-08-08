@@ -1,6 +1,7 @@
 # OOMP Project  
 ## EtherTen  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_etherten  
 (snippet of original readme)  
   
 Freetronics EtherTen  

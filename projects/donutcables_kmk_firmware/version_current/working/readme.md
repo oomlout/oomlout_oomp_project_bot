@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kmk_firmware  by DonutCables  
   
+oomp key: oomp_projects_flat_donutcables_kmk_firmware  
 (snippet of original readme)  
   
 - KMK: Clackety Keyboards Powered by Python  

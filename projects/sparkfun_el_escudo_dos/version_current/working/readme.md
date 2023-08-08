@@ -1,6 +1,7 @@
 # OOMP Project  
 ## EL_Escudo_Dos  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_el_escudo_dos  
 (snippet of original readme)  
   
 SparkFun EL Escudo Dos  

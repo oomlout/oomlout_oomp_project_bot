@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ANO-Rotary-Navigation-Encoder-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ano_rotary_navigation_encoder_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit ANO Rotary Navigation Encoder Breakout PCB  

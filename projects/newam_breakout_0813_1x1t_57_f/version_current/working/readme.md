@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Breakout_0813-1X1T-57-F  by newAM  
   
+oomp key: oomp_projects_flat_newam_breakout_0813_1x1t_57_f  
 (snippet of original readme)  
   
 -- PoE 10/100 Magjack 0813-1X1T-57-F Breakout  

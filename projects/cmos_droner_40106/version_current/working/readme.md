@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 40106  by cmos-droner  
   
+oomp key: oomp_projects_flat_cmos_droner_40106  
 (snippet of original readme)  
   
 - 40106 - CMOS Dronesynth  

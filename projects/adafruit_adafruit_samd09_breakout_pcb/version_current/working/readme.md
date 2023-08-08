@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SAMD09-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_samd09_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit SAMD09 Breakout PCB  

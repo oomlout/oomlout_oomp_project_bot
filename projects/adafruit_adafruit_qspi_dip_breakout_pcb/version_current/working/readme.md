@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-QSPI-DIP-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_qspi_dip_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit QSPI DIP Breakout Board PCB  

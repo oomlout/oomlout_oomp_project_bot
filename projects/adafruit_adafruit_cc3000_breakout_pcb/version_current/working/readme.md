@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CC3000-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_cc3000_breakout_pcb  
 (snippet of original readme)  
   
 - Adafruit CC3000 Breakout PCB  

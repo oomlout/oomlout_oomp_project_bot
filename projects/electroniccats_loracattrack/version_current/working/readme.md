@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LoRaCatTrack  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_loracattrack  
 (snippet of original readme)  
   
 - LoRaCat: Track  

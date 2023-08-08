@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BeeBlue  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_beeblue  
 (snippet of original readme)  
   
 Freetronics Bluetooth Module for XBee  

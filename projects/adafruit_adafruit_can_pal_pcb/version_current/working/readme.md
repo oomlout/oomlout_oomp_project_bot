@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CAN-Pal-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_can_pal_pcb  
 (snippet of original readme)  
   
 -- Adafruit CAN Pal - CAN Bus Transciever - TJA1051T/3 PCB  

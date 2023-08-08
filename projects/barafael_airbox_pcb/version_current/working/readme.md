@@ -1,6 +1,7 @@
 # OOMP Project  
 ## airbox-pcb  by barafael  
   
+oomp key: oomp_projects_flat_barafael_airbox_pcb  
 (snippet of original readme)  
   
 - airbox-pcb  

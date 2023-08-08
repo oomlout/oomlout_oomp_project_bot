@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CAN-Bus_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_can_bus_shield  
 (snippet of original readme)  
   
 SparkFun CAN-Bus Shield  

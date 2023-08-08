@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_OLED_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_oled_block  
 (snippet of original readme)  
   
 SparkFun Edison OLED Block  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PlayDice  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_playdice  
 (snippet of original readme)  
   
   

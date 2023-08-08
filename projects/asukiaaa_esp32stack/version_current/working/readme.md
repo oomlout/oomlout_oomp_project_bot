@@ -1,6 +1,7 @@
 # OOMP Project  
 ## esp32stack  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_esp32stack  
 (snippet of original readme)  
   
 - ESP32Stack  

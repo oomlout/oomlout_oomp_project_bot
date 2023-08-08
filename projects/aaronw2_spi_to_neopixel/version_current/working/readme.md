@@ -1,6 +1,7 @@
 # OOMP Project  
 ##   by   
   
+oomp key:   
 (snippet of original readme)  
   
 - spi_to_neopixel  

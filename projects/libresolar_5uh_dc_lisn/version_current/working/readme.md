@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 5uh-dc-lisn  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_5uh_dc_lisn  
 (snippet of original readme)  
   
 - 5uH-DC-LISN  

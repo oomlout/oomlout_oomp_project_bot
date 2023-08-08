@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Inline-DC-Panel-Meter  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_inline_dc_panel_meter  
 (snippet of original readme)  
   
 SparkFun Inline DC Panel Meter  

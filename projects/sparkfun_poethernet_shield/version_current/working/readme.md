@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PoEthernet_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_poethernet_shield  
 (snippet of original readme)  
   
 SparkFun PoEthernet Shield  

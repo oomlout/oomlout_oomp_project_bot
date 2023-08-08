@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_Arduino_Simple  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_arduino_simple  
 (snippet of original readme)  
   
 LilyPad Arduino Simple  

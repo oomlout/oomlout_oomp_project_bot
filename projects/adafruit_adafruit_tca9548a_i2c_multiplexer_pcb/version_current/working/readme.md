@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TCA9548A-I2C-Multiplexer-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tca9548a_i2c_multiplexer_pcb  
 (snippet of original readme)  
   
 -- Adafruit TCA9548A I2C Multiplexer PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_Battery_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_battery_block  
 (snippet of original readme)  
   
 SparkFun Block for Intel Edison - Battery/Power  

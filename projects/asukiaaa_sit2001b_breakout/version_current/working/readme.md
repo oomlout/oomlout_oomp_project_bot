@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SIT2001B-breakout  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_sit2001b_breakout  
 (snippet of original readme)  
   
 - SIT2001B-breakout  

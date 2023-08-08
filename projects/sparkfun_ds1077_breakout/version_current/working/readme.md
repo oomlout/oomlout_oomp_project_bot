@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DS1077_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ds1077_breakout  
 (snippet of original readme)  
   
 DS1077 Breakout  

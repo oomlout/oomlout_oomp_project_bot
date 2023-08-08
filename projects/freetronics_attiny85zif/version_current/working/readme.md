@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ATTINY85ZIF  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_attiny85zif  
 (snippet of original readme)  
   
 Freetronics ATtiny85 AVR ZIF Breakout  

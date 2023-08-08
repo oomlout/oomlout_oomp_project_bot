@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Alice-Reference  by audrentis  
   
+oomp key: oomp_projects_flat_audrentis_alice_reference  
 (snippet of original readme)  
   
 - Alice-Reference  

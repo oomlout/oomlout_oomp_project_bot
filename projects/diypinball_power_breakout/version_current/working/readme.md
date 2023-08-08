@@ -1,6 +1,7 @@
 # OOMP Project  
 ## power-breakout  by diypinball  
   
+oomp key: oomp_projects_flat_diypinball_power_breakout  
 (snippet of original readme)  
   
 - power-breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bbc  by jerome-labidurie  
   
+oomp key: oomp_projects_flat_jerome_labidurie_bbc  
 (snippet of original readme)  
   
 - About  

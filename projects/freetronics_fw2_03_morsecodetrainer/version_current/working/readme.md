@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FW2-03-MorseCodeTrainer  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_fw2_03_morsecodetrainer  
 (snippet of original readme)  
   
 Morse Code Trainer  

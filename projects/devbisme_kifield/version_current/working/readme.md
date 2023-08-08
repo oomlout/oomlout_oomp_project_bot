@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiField  by devbisme  
   
+oomp key: oomp_projects_flat_devbisme_kifield  
 (snippet of original readme)  
   
   

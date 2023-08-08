@@ -1,6 +1,7 @@
 # OOMP Project  
 ## uCosm-observer  by barafael  
   
+oomp key: oomp_projects_flat_barafael_ucosm_observer  
 (snippet of original readme)  
   
 - uCosm-observer  

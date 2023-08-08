@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AccelerometerModule  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_accelerometermodule  
 (snippet of original readme)  
   
   

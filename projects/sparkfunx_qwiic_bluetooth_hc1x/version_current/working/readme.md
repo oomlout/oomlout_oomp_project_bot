@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Bluetooth_HC1x  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_bluetooth_hc1x  
 (snippet of original readme)  
   
 SparkFun Qwiic Bluetooth  

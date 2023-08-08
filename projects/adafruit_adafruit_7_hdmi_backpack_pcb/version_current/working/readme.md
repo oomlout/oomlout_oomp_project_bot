@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-7-HDMI-Backpack-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_7_hdmi_backpack_pcb  
 (snippet of original readme)  
   
 -- Adafruit 7" HDMI Backpack PCB  

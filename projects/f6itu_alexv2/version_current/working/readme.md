@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AlexV2  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_alexv2  
 (snippet of original readme)  
   
 - Alexandrie_V2  

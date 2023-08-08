@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MONSTER-M4SK-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_monster_m4sk_pcb  
 (snippet of original readme)  
   
 -- Adafruit Adafruit MONSTER M4SK - DIY Electronic Eyes Mask PCB  

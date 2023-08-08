@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tng-mpcie-msata  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_tng_mpcie_msata  
 (snippet of original readme)  
   
   

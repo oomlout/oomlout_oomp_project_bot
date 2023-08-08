@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-128x64-Monochrome-OLED-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_128x64_monochrome_oled_pcb  
 (snippet of original readme)  
   
 -- Adafruit 128x64 Monochrome OLED PCB  

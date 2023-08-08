@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LSM303AGR-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lsm303agr_pcb  
 (snippet of original readme)  
   
 -- Adafruit LSM303AGR Triple-axis Accelerometer+Magnetometer PCB  

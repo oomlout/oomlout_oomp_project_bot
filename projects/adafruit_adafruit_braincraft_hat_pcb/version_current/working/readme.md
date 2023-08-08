@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-BrainCraft-HAT-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_braincraft_hat_pcb  
 (snippet of original readme)  
   
 -- Adafruit Adafruit BrainCraft HAT - Machine Learning for Raspberry Pi 4 PCB  

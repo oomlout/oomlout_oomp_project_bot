@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DevBoard_W5500  by newAM  
   
+oomp key: oomp_projects_flat_newam_devboard_w5500  
 (snippet of original readme)  
   
 -- Bear-bones W5500 Development Board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DADB  by oomlout  
   
+oomp key: oomp_projects_flat_oomlout_dadb  
 (snippet of original readme)  
   
   

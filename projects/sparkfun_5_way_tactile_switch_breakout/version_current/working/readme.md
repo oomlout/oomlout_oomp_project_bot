@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 5-Way_Tactile_Switch_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_5_way_tactile_switch_breakout  
 (snippet of original readme)  
   
 SparkFun 5-Way Tactile Switch Breakout  

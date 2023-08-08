@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OLED128  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_oled128  
 (snippet of original readme)  
   
 Kicad Schematic and PCB layout files for the Freetronics OLED128 module. Based around the SSD1351 OLED controller chip.  

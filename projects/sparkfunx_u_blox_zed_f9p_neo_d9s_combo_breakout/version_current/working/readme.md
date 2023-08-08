@@ -1,6 +1,7 @@
 # OOMP Project  
 ## u-blox_ZED-F9P_NEO-D9S_Combo_Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_u_blox_zed_f9p_neo_d9s_combo_breakout  
 (snippet of original readme)  
   
 - SparkX u-blox ZED-F9P NEO-D9S Combo Breakout  

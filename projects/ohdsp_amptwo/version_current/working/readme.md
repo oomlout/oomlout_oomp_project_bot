@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AmpTwo  by ohdsp  
   
+oomp key: oomp_projects_flat_ohdsp_amptwo  
 (snippet of original readme)  
   
 - [Open Hardware DSP Platform](http://www.ohdsp.org)  

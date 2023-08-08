@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Full-Charge-Ahead  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_full_charge_ahead  
 (snippet of original readme)  
   
 - Full-Charge-Ahead  

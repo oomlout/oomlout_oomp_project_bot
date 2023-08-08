@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_PHT_MS8607  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_pht_ms8607  
 (snippet of original readme)  
   
 - Qwiic PHT Sensor MS8607  

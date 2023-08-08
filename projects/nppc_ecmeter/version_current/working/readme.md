@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ECmeter  by nppc  
   
+oomp key: oomp_projects_flat_nppc_ecmeter  
 (snippet of original readme)  
   
 - ECmeter  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## speeduino  by cepr  
   
+oomp key: oomp_projects_flat_cepr_speeduino  
 (snippet of original readme)  
   
   

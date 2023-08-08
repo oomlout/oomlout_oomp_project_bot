@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MCP9808-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mcp9808_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit MCP9808 High Accuracy I2C Temperature Sensor Breakout PCB  

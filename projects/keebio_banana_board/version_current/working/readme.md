@@ -1,6 +1,7 @@
 # OOMP Project  
 ## banana-board  by keebio  
   
+oomp key: oomp_projects_flat_keebio_banana_board  
 (snippet of original readme)  
   
   

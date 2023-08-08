@@ -1,6 +1,7 @@
 # OOMP Project  
 ## inductor_test  by benkev  
   
+oomp key: oomp_projects_flat_benkev_inductor_test  
 (snippet of original readme)  
   
 "- inductor_test"   

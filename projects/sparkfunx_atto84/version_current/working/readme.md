@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Atto84  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_atto84  
 (snippet of original readme)  
   
 - SparkX Atto84  

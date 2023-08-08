@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Bluefruit-LE-Micro-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bluefruit_le_micro_pcb  
 (snippet of original readme)  
   
 -- Adafruit Bluefruit LE Micro PCB (Discontinued)  

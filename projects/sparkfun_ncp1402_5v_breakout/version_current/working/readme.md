@@ -1,6 +1,7 @@
 # OOMP Project  
 ## NCP1402-5V_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ncp1402_5v_breakout  
 (snippet of original readme)  
   
 NCP1402-5V Step-Up Breakout  

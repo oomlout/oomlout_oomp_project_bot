@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP8266_Thing_Dev  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_esp8266_thing_dev  
 (snippet of original readme)  
   
 SparkFun ESP8266 Thing Development Board  

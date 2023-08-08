@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-VS1053-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_vs1053_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit VS1053 Music Breakout PCB  

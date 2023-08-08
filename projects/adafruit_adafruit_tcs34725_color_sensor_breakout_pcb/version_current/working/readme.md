@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TCS34725-Color-Sensor-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tcs34725_color_sensor_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit TCS34725 Color Sensor Breakout PCBs  

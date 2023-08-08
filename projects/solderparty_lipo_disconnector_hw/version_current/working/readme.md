@@ -1,6 +1,7 @@
 # OOMP Project  
 ## lipo_disconnector_hw  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_lipo_disconnector_hw  
 (snippet of original readme)  
   
 - LiPo Disconnector  

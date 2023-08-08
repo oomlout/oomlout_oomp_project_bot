@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ntpclock  by jerome-labidurie  
   
+oomp key: oomp_projects_flat_jerome_labidurie_ntpclock  
 (snippet of original readme)  
   
   

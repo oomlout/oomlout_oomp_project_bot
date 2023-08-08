@@ -1,6 +1,7 @@
 # OOMP Project  
 ## t13-DFN10-prog-adapter  by madworm  
   
+oomp key: oomp_projects_flat_madworm_t13_dfn10_prog_adapter  
 (snippet of original readme)  
   
   

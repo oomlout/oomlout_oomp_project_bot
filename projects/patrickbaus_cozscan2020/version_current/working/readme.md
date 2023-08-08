@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CozScan2020  by PatrickBaus  
   
+oomp key: oomp_projects_flat_patrickbaus_cozscan2020  
 (snippet of original readme)  
   
 - CozScan2020  

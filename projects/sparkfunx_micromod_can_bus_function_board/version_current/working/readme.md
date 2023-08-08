@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_CAN-Bus_Function_Board  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_micromod_can_bus_function_board  
 (snippet of original readme)  
   
 SparkX MicroMod CAN Bus Function Board  

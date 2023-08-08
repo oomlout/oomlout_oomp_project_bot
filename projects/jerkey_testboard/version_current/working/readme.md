@@ -1,6 +1,7 @@
 # OOMP Project  
 ## testboard  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_testboard  
 (snippet of original readme)  
   
   

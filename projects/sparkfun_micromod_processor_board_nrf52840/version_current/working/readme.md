@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Processor_Board-nRF52840  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_processor_board_nrf52840  
 (snippet of original readme)  
   
 SparkFun MicroMod Processor - nRF52840  

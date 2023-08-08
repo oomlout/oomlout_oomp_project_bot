@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Motor_Driver-Dual_TB6612FNG  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_motor_driver_dual_tb6612fng  
 (snippet of original readme)  
   
 SparkFun Motor Driver - Dual TB6612FNG (1A)  

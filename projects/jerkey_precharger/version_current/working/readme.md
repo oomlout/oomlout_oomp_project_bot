@@ -1,6 +1,7 @@
 # OOMP Project  
 ## precharger  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_precharger  
 (snippet of original readme)  
   
 -precharger  

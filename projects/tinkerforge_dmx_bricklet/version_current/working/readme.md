@@ -1,6 +1,7 @@
 # OOMP Project  
 ## dmx-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_dmx_bricklet  
 (snippet of original readme)  
   
   

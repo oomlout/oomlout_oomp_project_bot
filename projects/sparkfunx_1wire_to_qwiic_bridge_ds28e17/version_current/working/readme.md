@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 1Wire_to_Qwiic_Bridge_DS28E17  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_1wire_to_qwiic_bridge_ds28e17  
 (snippet of original readme)  
   
 - Qwiic_1Wire_to_I2C_Bridge_DS28E17  

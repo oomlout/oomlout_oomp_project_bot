@@ -1,6 +1,7 @@
 # OOMP Project  
 ## F1-69_plates  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_f1_69_plates  
 (snippet of original readme)  
   
 - Plate files for Geonworks F1-69  

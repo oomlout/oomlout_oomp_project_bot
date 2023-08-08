@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Arduino_Fio  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_arduino_fio  
 (snippet of original readme)  
   
 Arduino Fio  

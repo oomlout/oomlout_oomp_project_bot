@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Atmospheric_Sensor_Breakout_BME280  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qwiic_atmospheric_sensor_breakout_bme280  
 (snippet of original readme)  
   
 SparkFun Atmospheric Sensor Breakout - BME280 (Qwiic)  

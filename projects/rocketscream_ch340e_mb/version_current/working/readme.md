@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CH340E-MB  by rocketscream  
   
+oomp key: oomp_projects_flat_rocketscream_ch340e_mb  
 (snippet of original readme)  
   
 - CH340E-MB  

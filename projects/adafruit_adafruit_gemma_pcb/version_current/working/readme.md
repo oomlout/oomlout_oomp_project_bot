@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Gemma-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_gemma_pcb  
 (snippet of original readme)  
   
 -- Adafruit Gemma Classic (ATtiny85) PCB  

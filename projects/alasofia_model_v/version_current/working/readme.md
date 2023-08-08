@@ -1,6 +1,7 @@
 # OOMP Project  
 ## model-v  by Alasofia  
   
+oomp key: oomp_projects_flat_alasofia_model_v  
 (snippet of original readme)  
   
 - model-v  

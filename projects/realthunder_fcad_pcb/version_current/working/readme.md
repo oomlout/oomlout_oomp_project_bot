@@ -1,6 +1,7 @@
 # OOMP Project  
 ## fcad_pcb  by realthunder  
   
+oomp key: oomp_projects_flat_realthunder_fcad_pcb  
 (snippet of original readme)  
   
 -- FreeCAD scripts for PCB CAD/CAM & FEM  

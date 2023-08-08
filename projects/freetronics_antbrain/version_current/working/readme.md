@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ANTBRAIN  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_antbrain  
 (snippet of original readme)  
   
 AntBrain Robot Controller  

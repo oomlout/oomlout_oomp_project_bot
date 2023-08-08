@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DevBoard  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_devboard  
 (snippet of original readme)  
   
   

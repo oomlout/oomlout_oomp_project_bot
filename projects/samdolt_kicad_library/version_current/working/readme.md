@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by samdolt  
   
+oomp key: oomp_projects_flat_samdolt_kicad_library  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## jade  by AkiyukiOkayasu  
   
+oomp key: oomp_projects_flat_akiyukiokayasu_jade  
 (snippet of original readme)  
   
 - jade  

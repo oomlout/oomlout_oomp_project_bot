@@ -1,6 +1,7 @@
 # OOMP Project  
 ## magic_sensor_pcb  by s-light  
   
+oomp key: oomp_projects_flat_s_light_magic_sensor_pcb  
 (snippet of original readme)  
   
 <!--lint disable list-item-indent-->  

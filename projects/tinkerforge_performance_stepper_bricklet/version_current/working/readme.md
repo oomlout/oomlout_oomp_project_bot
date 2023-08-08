@@ -1,6 +1,7 @@
 # OOMP Project  
 ## performance-stepper-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_performance_stepper_bricklet  
 (snippet of original readme)  
   
   

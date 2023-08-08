@@ -1,6 +1,7 @@
 # OOMP Project  
 ## misc  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_misc  
 (snippet of original readme)  
   
 misc  

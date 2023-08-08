@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Current_Sensor_Breakout-ACS723  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_current_sensor_breakout_acs723  
 (snippet of original readme)  
   
 SparkFun Current Sensor Breakout - ACS723  

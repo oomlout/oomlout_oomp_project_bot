@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Sound_Trigger  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_sound_trigger  
 (snippet of original readme)  
   
 - Qwiic Sound Trigger  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED-strip_PWM  by madworm  
   
+oomp key: oomp_projects_flat_madworm_led_strip_pwm  
 (snippet of original readme)  
   
   

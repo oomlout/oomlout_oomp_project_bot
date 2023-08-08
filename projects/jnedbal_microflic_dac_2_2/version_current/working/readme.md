@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroFLiC_DAC_2_2  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_microflic_dac_2_2  
 (snippet of original readme)  
   
   

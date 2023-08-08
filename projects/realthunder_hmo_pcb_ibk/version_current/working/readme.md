@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hmo_pcb_ibk  by realthunder  
   
+oomp key: oomp_projects_flat_realthunder_hmo_pcb_ibk  
 (snippet of original readme)  
   
   

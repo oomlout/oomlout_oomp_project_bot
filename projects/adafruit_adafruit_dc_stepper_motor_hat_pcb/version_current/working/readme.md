@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DC-Stepper-Motor-HAT-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_dc_stepper_motor_hat_pcb  
 (snippet of original readme)  
   
 -- Adafruit DC Stepper Motor HAT and Bonnet PCB  

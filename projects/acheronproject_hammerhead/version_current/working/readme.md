@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Hammerhead  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_hammerhead  
 (snippet of original readme)  
   
 - Acheron 40-SM-S-STM32-MXSM-TH-WI (Codename "Hammerhead")  

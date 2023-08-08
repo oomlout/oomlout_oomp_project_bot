@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Flashlight  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_flashlight  
 (snippet of original readme)  
   
 SparkFun Flashlight Kit  

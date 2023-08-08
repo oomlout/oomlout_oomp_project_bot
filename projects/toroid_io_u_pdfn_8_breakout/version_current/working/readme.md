@@ -1,6 +1,7 @@
 # OOMP Project  
 ## U-PDFN-8_Breakout  by Toroid-io  
   
+oomp key: oomp_projects_flat_toroid_io_u_pdfn_8_breakout  
 (snippet of original readme)  
   
   

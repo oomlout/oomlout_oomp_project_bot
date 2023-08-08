@@ -1,6 +1,7 @@
 # OOMP Project  
 ## VFO-DO  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_vfo_do  
 (snippet of original readme)  
   
 VFO-DO  

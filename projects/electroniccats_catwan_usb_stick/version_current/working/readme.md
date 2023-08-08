@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatWAN_USB_Stick  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catwan_usb_stick  
 (snippet of original readme)  
   
 - LoRA USB Stick  

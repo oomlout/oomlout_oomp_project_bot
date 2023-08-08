@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mic_Preamp  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mic_preamp  
 (snippet of original readme)  
   
 Mic_Preamp  

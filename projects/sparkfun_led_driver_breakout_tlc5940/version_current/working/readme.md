@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED_Driver_Breakout-TLC5940  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_led_driver_breakout_tlc5940  
 (snippet of original readme)  
   
 SparkFun LED Driver Breakout -TLC5940  

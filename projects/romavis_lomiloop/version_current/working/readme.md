@@ -1,6 +1,7 @@
 # OOMP Project  
 ## lomiloop  by romavis  
   
+oomp key: oomp_projects_flat_romavis_lomiloop  
 (snippet of original readme)  
   
 - About  

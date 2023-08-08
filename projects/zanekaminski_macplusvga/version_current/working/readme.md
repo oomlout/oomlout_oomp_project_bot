@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MacPlusVGA  by ZaneKaminski  
   
+oomp key: oomp_projects_flat_zanekaminski_macplusvga  
 (snippet of original readme)  
   
   

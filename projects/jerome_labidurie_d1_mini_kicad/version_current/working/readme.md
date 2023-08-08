@@ -1,6 +1,7 @@
 # OOMP Project  
 ## d1_mini_kicad  by jerome-labidurie  
   
+oomp key: oomp_projects_flat_jerome_labidurie_d1_mini_kicad  
 (snippet of original readme)  
   
   

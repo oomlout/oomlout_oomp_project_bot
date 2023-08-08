@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pmod_to_qwiic_adapter  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_pmod_to_qwiic_adapter  
 (snippet of original readme)  
   
 - PMOD to Qwiic/Stemma QT Adapter with Daisy Chaining  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RP2040-Based-Tester-Brains-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_rp2040_based_tester_brains_pcb  
 (snippet of original readme)  
   
 -- Adafruit RP2040 Based Tester Brains PCB  

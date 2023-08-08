@@ -1,6 +1,7 @@
 # OOMP Project  
 ## crkbd  by 50an6xy06r6n  
   
+oomp key: oomp_projects_flat_50an6xy06r6n_crkbd  
 (snippet of original readme)  
   
 - Corne keyboard  

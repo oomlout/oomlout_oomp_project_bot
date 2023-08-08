@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Satellite_Transceiver_Breakout__Swarm_M138  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_satellite_transceiver_breakout_swarm_m138  
 (snippet of original readme)  
   
 - Satellite Transceiver Breakout - Swarm M138  

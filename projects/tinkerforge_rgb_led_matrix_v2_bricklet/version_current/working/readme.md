@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rgb-led-matrix-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_rgb_led_matrix_v2_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nodePWR  by jdunmire  
   
+oomp key: oomp_projects_flat_jdunmire_nodepwr  
 (snippet of original readme)  
   
 TLPHnode  

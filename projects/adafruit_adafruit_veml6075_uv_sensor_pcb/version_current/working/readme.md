@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-VEML6075-UV-Sensor-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_veml6075_uv_sensor_pcb  
 (snippet of original readme)  
   
 -- Adafruit VEML6075 UVA UVB and UV Index Sensor Breakout PCB  

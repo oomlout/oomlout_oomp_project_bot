@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MXMLP-Corne  by Alasofia  
   
+oomp key: oomp_projects_flat_alasofia_mxmlp_corne  
 (snippet of original readme)  
   
 - MXMLP-Corne  

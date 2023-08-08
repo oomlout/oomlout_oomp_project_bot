@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-AMG8833-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_amg8833_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit AMG8833 Breakout PCB  

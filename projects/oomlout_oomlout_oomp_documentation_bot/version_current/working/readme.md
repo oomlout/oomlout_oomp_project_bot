@@ -1,6 +1,7 @@
 # OOMP Project  
 ## oomlout_oomp_documentation_bot  by oomlout  
   
+oomp key: oomp_projects_flat_oomlout_oomlout_oomp_documentation_bot  
 (snippet of original readme)  
   
   

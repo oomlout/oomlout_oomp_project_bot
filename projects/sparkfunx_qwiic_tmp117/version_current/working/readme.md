@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_TMP117  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_tmp117  
 (snippet of original readme)  
   
 SparkX Qwiic TMP117  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SPW2430-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_spw2430_pcb  
 (snippet of original readme)  
   
 -- Adafruit Silicon MEMS Microphone Breakout SPW2430 PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## STM32L152CCx_MODULE  by celeritous  
   
+oomp key: oomp_projects_flat_celeritous_stm32l152ccx_module  
 (snippet of original readme)  
   
 This repository contains the hardware design and firmware templates for Celeritous' newest processor module. This board is based on the ST Micro Cortex M3 Low power STM32L151/152 processor line.   

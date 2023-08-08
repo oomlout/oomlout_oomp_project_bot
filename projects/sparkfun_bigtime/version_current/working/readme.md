@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BigTime  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_bigtime  
 (snippet of original readme)  
   
 BigTime Watch Kit  

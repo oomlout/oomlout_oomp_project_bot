@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_MintyBoost_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mintyboost_pcb  
 (snippet of original readme)  
   
 - MintyBoost Kit  

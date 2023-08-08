@@ -1,6 +1,7 @@
 # OOMP Project  
 ## piezo-speaker-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_piezo_speaker_bricklet  
 (snippet of original readme)  
   
   

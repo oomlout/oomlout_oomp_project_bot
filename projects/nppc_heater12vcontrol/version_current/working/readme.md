@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Heater12VControl  by nppc  
   
+oomp key: oomp_projects_flat_nppc_heater12vcontrol  
 (snippet of original readme)  
   
 - uReflow Station  

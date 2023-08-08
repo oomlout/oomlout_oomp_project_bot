@@ -1,6 +1,7 @@
 # OOMP Project  
 ## unified-usb-pcb  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_unified_usb_pcb  
 (snippet of original readme)  
   
 - Unified USB type-C PCB  

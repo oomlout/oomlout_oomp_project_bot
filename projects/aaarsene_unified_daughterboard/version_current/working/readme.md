@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Unified-Daughterboard  by aaarsene  
   
+oomp key: oomp_projects_flat_aaarsene_unified_daughterboard  
 (snippet of original readme)  
   
 - Unified Daughterboard Project  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DLOCK  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_dlock  
 (snippet of original readme)  
   
 Freetronics RFID Door Lock Shield  

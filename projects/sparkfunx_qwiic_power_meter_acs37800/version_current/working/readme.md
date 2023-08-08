@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Power_Meter-ACS37800  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_power_meter_acs37800  
 (snippet of original readme)  
   
 SparkX Power Meter - ACS37800 (Qwiic)  

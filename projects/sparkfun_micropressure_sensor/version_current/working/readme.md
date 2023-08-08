@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroPressure_Sensor  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micropressure_sensor  
 (snippet of original readme)  
   
 - SparkFun MicroPressure Sensor  

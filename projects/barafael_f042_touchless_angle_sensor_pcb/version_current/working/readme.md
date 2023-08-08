@@ -1,6 +1,7 @@
 # OOMP Project  
 ## f042-touchless-angle-sensor-pcb  by barafael  
   
+oomp key: oomp_projects_flat_barafael_f042_touchless_angle_sensor_pcb  
 (snippet of original readme)  
   
 - f042-touchless-angle-sensor-pcb  

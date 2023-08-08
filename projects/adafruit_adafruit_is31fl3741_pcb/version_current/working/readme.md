@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-IS31FL3741-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_is31fl3741_pcb  
 (snippet of original readme)  
   
 -- Adafruit IS31FL3741 13x9 PWM RGB LED Matrix Driver PCB  

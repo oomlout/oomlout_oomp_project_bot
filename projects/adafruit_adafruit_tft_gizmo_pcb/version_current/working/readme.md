@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TFT-Gizmo-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tft_gizmo_pcb  
 (snippet of original readme)  
   
 -- Adafruit Circuit Playground TFT Gizmo - Bolt-on Display + Audio Amplifier PCB  

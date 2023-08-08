@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Microchip-TQFP100-BB  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_microchip_tqfp100_bb  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MG2639_Cellular_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mg2639_cellular_shield  
 (snippet of original readme)  
   
 **Note:Retired Product**  

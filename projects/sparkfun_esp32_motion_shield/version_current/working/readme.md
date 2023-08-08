@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32_Motion_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_esp32_motion_shield  
 (snippet of original readme)  
   
 SparkFun <PRODUCT NAME>  

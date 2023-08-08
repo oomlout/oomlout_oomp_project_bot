@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Feather-ICE40-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_feather_ice40_pcb  
 (snippet of original readme)  
   
 - Feather ICE40 -  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoKey-BFF-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neokey_bff_pcb  
 (snippet of original readme)  
   
 -- Adafruit NeoKey BFF for Mechanical Key Add-On for QT Py and Xiao - For MX Compatible Switches PCB  

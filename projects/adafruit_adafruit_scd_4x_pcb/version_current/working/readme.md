@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SCD-4x-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_scd_4x_pcb  
 (snippet of original readme)  
   
 -- Adafruit SCD-4x CO2, Temperature and Humidity Sensor PCB  

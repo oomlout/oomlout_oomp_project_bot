@@ -1,6 +1,7 @@
 # OOMP Project  
 ## esp32-cnc-wifi  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_esp32_cnc_wifi  
 (snippet of original readme)  
   
   

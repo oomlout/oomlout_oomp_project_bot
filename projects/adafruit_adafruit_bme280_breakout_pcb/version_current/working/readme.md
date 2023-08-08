@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-BME280-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bme280_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit BME280 Breakout PCB  

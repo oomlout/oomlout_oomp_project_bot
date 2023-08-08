@@ -1,6 +1,7 @@
 # OOMP Project  
 ## usb-led-matrix  by JonasNorling  
   
+oomp key: oomp_projects_flat_jonasnorling_usb_led_matrix  
 (snippet of original readme)  
   
 A USB connected LED matrix  

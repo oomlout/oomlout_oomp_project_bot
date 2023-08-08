@@ -1,6 +1,7 @@
 # OOMP Project  
 ## performance-dc-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_performance_dc_bricklet  
 (snippet of original readme)  
   
   

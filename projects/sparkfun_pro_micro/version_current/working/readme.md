@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pro_Micro  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_pro_micro  
 (snippet of original readme)  
   
 SparkFun Pro Micro and Qwiic Pro Micro USB-C  

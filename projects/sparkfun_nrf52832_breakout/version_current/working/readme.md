@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nRF52832_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_nrf52832_breakout  
 (snippet of original readme)  
   
 SparkFun nRF52832 Breakout  

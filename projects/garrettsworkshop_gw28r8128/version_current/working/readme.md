@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GW28R8128  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_gw28r8128  
 (snippet of original readme)  
   
   

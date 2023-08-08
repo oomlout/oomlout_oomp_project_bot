@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-WCH-CH9102F-Friend-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_wch_ch9102f_friend_pcb  
 (snippet of original readme)  
   
 -- Adafruit WCH CH9102F Friend - USB to Serial Converter PCB  

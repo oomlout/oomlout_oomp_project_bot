@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-AD8495-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ad8495_breakout_pcb  
 (snippet of original readme)  
   
   

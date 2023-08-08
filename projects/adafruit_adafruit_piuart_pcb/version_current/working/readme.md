@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PiUART-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_piuart_pcb  
 (snippet of original readme)  
   
 -- Adafruit PiUART PCB  

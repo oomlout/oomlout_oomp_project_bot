@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DeadOn_RTC  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_deadon_rtc  
 (snippet of original readme)  
   
 DeadOn RTC-DS3234 Breakout Board  

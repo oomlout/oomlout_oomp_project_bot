@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ieeeIV16  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_ieeeiv16  
 (snippet of original readme)  
   
 - ieeeIV16  

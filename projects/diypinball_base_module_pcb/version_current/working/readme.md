@@ -1,6 +1,7 @@
 # OOMP Project  
 ## base-module-pcb  by diypinball  
   
+oomp key: oomp_projects_flat_diypinball_base_module_pcb  
 (snippet of original readme)  
   
   

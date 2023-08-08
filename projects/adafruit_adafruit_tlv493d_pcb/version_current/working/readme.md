@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TLV493D-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tlv493d_pcb  
 (snippet of original readme)  
   
 -- Adafruit TLV493D Triple-Axis Magnetometer PCB  

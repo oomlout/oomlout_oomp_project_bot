@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SFP2SMA_2018.03  by aewallin  
   
+oomp key: oomp_projects_flat_aewallin_sfp2sma_2018_03  
 (snippet of original readme)  
   
 - SFP-2-SMA Board, 2018-03  

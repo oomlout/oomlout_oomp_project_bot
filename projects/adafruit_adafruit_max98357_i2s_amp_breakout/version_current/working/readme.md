@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MAX98357-I2S-Amp-Breakout  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_max98357_i2s_amp_breakout  
 (snippet of original readme)  
   
 -- Adafruit MAX98357 I2S Amp Breakout PCB  

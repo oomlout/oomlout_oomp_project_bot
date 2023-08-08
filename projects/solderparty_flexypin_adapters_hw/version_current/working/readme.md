@@ -1,6 +1,7 @@
 # OOMP Project  
 ## flexypin_adapters_hw  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_flexypin_adapters_hw  
 (snippet of original readme)  
   
 - FlexyPin Adapters  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_Micro_SD_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_micro_sd_block  
 (snippet of original readme)  
   
 SparkFun Edison microSD Block  

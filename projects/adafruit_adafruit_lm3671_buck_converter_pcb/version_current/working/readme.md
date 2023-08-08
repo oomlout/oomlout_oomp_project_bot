@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LM3671-Buck-Converter-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lm3671_buck_converter_pcb  
 (snippet of original readme)  
   
 -- Adafruit LM3671 Buck Converter PCB  

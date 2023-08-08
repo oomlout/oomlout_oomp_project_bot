@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gas-detector-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_gas_detector_bricklet  
 (snippet of original readme)  
   
   

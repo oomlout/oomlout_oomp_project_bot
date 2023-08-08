@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32_Thing_Plus_U.FL  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_esp32_thing_plus_u_fl  
 (snippet of original readme)  
   
 SparkFun ESP32 Thing Plus (U.FL)  

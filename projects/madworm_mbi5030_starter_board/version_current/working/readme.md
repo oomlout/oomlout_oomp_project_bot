@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MBI5030_starter-board  by madworm  
   
+oomp key: oomp_projects_flat_madworm_mbi5030_starter_board  
 (snippet of original readme)  
   
   

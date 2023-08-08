@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_CO2_Sensor-STC31  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_co2_sensor_stc31  
 (snippet of original readme)  
   
 SparkX CO<sub>2</sub> Sensor - STC31 (Qwiic)  

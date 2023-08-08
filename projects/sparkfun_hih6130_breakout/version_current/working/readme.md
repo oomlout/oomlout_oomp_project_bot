@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HIH6130_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_hih6130_breakout  
 (snippet of original readme)  
   
 HIH6130 Breakout - Humidity and Temperature Sensor  

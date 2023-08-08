@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LightSaber  by nightmechanic  
   
+oomp key: oomp_projects_flat_nightmechanic_lightsaber  
 (snippet of original readme)  
   
 - LightSaber  

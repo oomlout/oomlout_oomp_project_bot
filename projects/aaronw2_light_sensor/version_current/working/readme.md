@@ -1,6 +1,7 @@
 # OOMP Project  
 ##   by   
   
+oomp key:   
 (snippet of original readme)  
   
 This tiny board provides a proximity and gesture sensor with i2c hookups.  

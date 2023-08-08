@@ -1,6 +1,7 @@
 # OOMP Project  
 ## thegrid  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_thegrid  
 (snippet of original readme)  
   
 - The·Grid  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MOD-ENV  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_mod_env  
 (snippet of original readme)  
   
 - MOD-ENV  

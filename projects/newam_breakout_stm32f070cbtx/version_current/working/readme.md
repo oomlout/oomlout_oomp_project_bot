@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Breakout_STM32F070CBTx  by newAM  
   
+oomp key: oomp_projects_flat_newam_breakout_stm32f070cbtx  
 (snippet of original readme)  
   
 -- STM32F070CBTx PCB Breakout  

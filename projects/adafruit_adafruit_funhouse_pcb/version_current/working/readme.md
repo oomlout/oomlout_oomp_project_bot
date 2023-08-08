@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-FunHouse-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_funhouse_pcb  
 (snippet of original readme)  
   
 -- Adafruit FunHouse PCB  

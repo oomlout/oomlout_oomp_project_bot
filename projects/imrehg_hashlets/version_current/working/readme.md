@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hashlets  by imrehg  
   
+oomp key: oomp_projects_flat_imrehg_hashlets  
 (snippet of original readme)  
   
 - Hashlets for other hardware  

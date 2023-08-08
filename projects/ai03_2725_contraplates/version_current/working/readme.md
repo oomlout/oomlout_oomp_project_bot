@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ContraPlates  by ai03-2725  
   
+oomp key: oomp_projects_flat_ai03_2725_contraplates  
 (snippet of original readme)  
   
 - Contra Case Files  

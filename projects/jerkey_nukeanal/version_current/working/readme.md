@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nukeanal  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_nukeanal  
 (snippet of original readme)  
   
 -nukeanal  

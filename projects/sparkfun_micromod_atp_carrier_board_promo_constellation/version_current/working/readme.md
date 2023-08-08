@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_ATP_Carrier_Board_Promo_Constellation  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_atp_carrier_board_promo_constellation  
 (snippet of original readme)  
   
 MicroMod ATP Carrier Board Promo Constellation  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-STM32F405-Express-PCB  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_adafruit_feather_stm32f405_express_pcb  
 (snippet of original readme)  
   
 -- Adafruit Adafruit Feather STM32F405 Express PCB  

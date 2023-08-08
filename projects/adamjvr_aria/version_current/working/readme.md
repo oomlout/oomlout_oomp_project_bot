@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Aria  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_aria  
 (snippet of original readme)  
   
 - Aria  

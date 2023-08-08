@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SOT23_DIP  by madworm  
   
+oomp key: oomp_projects_flat_madworm_sot23_dip  
 (snippet of original readme)  
   
   

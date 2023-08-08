@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pololu_5A_Stepup_U3V50  by realthunder  
   
+oomp key: oomp_projects_flat_realthunder_pololu_5a_stepup_u3v50  
 (snippet of original readme)  
   
   

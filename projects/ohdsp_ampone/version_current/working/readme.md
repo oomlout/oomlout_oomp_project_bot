@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AmpOne  by ohdsp  
   
+oomp key: oomp_projects_flat_ohdsp_ampone  
 (snippet of original readme)  
   
 - [Open Hardware DSP Platform](http://www.ohdsp.org)  

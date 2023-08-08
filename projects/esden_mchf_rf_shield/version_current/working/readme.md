@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mchf-rf-shield  by esden  
   
+oomp key: oomp_projects_flat_esden_mchf_rf_shield  
 (snippet of original readme)  
   
 This repository contains a KiCad design file for a replacement [mcHF QRP  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gerbmerge  by esden  
   
+oomp key: oomp_projects_flat_esden_gerbmerge  
 (snippet of original readme)  
   
 <P><FONT SIZE="+2">GerbMerge -- A Gerber-file merging program</FONT></P>  

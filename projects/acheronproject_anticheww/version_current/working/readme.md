@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Anticheww  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_anticheww  
 (snippet of original readme)  
   
 - Acheron 65-SM-S-STM32-MX-TH-WI (Codename "Anticheww")  

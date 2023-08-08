@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pi-adaptor  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_pi_adaptor  
 (snippet of original readme)  
   
   

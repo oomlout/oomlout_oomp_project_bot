@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DC-Stepper-Motor-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_dc_stepper_motor_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit DC Stepper Motor FeatherWing PCB  

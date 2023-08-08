@@ -1,6 +1,7 @@
 # OOMP Project  
 ## haxmark  by fruchti  
   
+oomp key: oomp_projects_flat_fruchti_haxmark  
 (snippet of original readme)  
   
 - haxmark  

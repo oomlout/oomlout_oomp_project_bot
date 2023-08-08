@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-AS7262-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_as7262_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit AS7262 Channel Visible Light / Color Sensor Breakout PCB  

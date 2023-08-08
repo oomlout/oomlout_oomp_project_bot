@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Lora_detector  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_lora_detector  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SHT31-Sensor-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_sht31_sensor_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit Sensirion SHT31-D - Temperature & Humidity Sensor PCB  

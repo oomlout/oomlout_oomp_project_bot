@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-40-pin-TFT-Friend  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_40_pin_tft_friend  
 (snippet of original readme)  
   
 -- Adafruit-40-pin-TFT-Friend  

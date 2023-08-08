@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PDB  by johaa1993  
   
+oomp key: oomp_projects_flat_johaa1993_pdb  
 (snippet of original readme)  
   
 - PDB  

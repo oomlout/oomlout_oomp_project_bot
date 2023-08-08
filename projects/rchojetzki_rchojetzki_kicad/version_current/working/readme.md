@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rchojetzki-kicad  by rchojetzki  
   
+oomp key: oomp_projects_flat_rchojetzki_rchojetzki_kicad  
 (snippet of original readme)  
   
 - rchojetzki-kicad-footprint-lib  

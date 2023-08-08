@@ -1,6 +1,7 @@
 # OOMP Project  
 ## StepperDriverModuleCarrier  by StefanHamminga  
   
+oomp key: oomp_projects_flat_stefanhamminga_stepperdrivermodulecarrier  
 (snippet of original readme)  
   
 - StepperDriverModuleCarrier  

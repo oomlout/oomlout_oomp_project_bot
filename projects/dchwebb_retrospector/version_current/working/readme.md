@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Retrospector  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_retrospector  
 (snippet of original readme)  
   
 - Retrospector  

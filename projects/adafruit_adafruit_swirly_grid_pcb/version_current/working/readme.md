@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Swirly-Grid-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_swirly_grid_pcb  
 (snippet of original readme)  
   
 -- Adafruit Swirly Aluminum Mounting Grid for 0.1" Spaced PCBs  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AVR-ISP_level-shifter  by madworm  
   
+oomp key: oomp_projects_flat_madworm_avr_isp_level_shifter  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## emptystack  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_emptystack  
 (snippet of original readme)  
   
 - EmptyStack  

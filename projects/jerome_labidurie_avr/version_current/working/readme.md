@@ -1,6 +1,7 @@
 # OOMP Project  
 ## avr  by jerome-labidurie  
   
+oomp key: oomp_projects_flat_jerome_labidurie_avr  
 (snippet of original readme)  
   
   

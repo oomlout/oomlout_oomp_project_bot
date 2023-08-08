@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BB-TB6612  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_bb_tb6612  
 (snippet of original readme)  
   
 - BB-TB6612  

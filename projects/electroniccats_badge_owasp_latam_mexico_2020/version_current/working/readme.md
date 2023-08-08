@@ -1,6 +1,7 @@
 # OOMP Project  
 ## badge-owasp-latam-mexico-2020  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_badge_owasp_latam_mexico_2020  
 (snippet of original readme)  
   
 - Badge OWASP LATAM México 2020  

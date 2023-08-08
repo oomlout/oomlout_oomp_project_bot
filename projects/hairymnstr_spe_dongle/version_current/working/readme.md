@@ -1,6 +1,7 @@
 # OOMP Project  
 ## spe_dongle  by hairymnstr  
   
+oomp key: oomp_projects_flat_hairymnstr_spe_dongle  
 (snippet of original readme)  
   
 - USB to Single Pair Ethernet Dongle  

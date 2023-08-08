@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TeensyKey  by quinkennedy  
   
+oomp key: oomp_projects_flat_quinkennedy_teensykey  
 (snippet of original readme)  
   
 One teensy, one key  

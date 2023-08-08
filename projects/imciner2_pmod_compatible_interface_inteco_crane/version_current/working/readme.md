@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PMOD-Compatible_Interface_InTeCo-Crane  by imciner2  
   
+oomp key: oomp_projects_flat_imciner2_pmod_compatible_interface_inteco_crane  
 (snippet of original readme)  
   
 View this project on [CADLAB.io](https://cadlab.io/project/1718).   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-VCNL40X0-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_vcnl40x0_pcb  
 (snippet of original readme)  
   
 -- Adafruit VCNL40x0 Breakout PCB  

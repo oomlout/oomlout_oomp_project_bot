@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32-POE-ISO  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_esp32_poe_iso  
 (snippet of original readme)  
   
 - ESP32-POE-ISO  

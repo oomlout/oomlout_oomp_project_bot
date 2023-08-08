@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OpenPIR  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_openpir  
 (snippet of original readme)  
   
 OpenPIR  

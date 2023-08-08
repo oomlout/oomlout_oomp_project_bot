@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCad_Keyboard_Boilerplate  by mitaroThanken  
   
+oomp key: oomp_projects_flat_mitarothanken_kicad_keyboard_boilerplate  
 (snippet of original readme)  
   
 - KiCad_Keyboard_Boilerplate  

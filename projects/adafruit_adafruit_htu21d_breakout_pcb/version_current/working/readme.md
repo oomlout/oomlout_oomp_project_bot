@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-HTU21D-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_htu21d_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit HTU21D Breakout PCB  

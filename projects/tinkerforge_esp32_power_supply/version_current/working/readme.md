@@ -1,6 +1,7 @@
 # OOMP Project  
 ## esp32-power-supply  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_esp32_power_supply  
 (snippet of original readme)  
   
   

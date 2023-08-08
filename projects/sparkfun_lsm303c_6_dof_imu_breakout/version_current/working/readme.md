@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LSM303C_6_DOF_IMU_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lsm303c_6_dof_imu_breakout  
 (snippet of original readme)  
   
 SparkFun LSM303C 6 DOF IMU Breakout  

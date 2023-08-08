@@ -1,6 +1,7 @@
 # OOMP Project  
 ## STMP15X-SHIELD  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_stmp15x_shield  
 (snippet of original readme)  
   
 - STMP15X-SHIELD  

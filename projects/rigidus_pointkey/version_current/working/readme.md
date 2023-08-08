@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pointkey  by rigidus  
   
+oomp key: oomp_projects_flat_rigidus_pointkey  
 (snippet of original readme)  
   
 - pointkey  

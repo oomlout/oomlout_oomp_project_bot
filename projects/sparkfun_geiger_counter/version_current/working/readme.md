@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Geiger_Counter  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_geiger_counter  
 (snippet of original readme)  
   
 Geiger Counter  

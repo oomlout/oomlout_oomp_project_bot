@@ -1,6 +1,7 @@
 # OOMP Project  
 ## piTrex  by pelrun  
   
+oomp key: oomp_projects_flat_pelrun_pitrex  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Voyager20  by aaarsene  
   
+oomp key: oomp_projects_flat_aaarsene_voyager20  
 (snippet of original readme)  
   
 - Voyager20  

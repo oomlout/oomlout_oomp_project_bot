@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gopro-dashcam-tender  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_gopro_dashcam_tender  
 (snippet of original readme)  
   
   

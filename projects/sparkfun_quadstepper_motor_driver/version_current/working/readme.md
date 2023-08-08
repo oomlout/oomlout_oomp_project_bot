@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Quadstepper_Motor_Driver  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_quadstepper_motor_driver  
 (snippet of original readme)  
   
 SparkFun QuadStepper Motor Driver  

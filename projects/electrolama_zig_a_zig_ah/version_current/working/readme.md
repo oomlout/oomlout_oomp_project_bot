@@ -1,6 +1,7 @@
 # OOMP Project  
 ## zig-a-zig-ah  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_zig_a_zig_ah  
 (snippet of original readme)  
   
 - zig-a-zig-ah  

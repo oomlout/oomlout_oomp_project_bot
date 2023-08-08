@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ruuvitracker_hw  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_ruuvitracker_hw  
 (snippet of original readme)  
   
 - RuuviTracker: Open Source GPS/GSM Positioning Device  

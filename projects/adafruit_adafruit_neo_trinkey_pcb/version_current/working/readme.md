@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Neo-Trinkey-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neo_trinkey_pcb  
 (snippet of original readme)  
   
 -- Adafruit Neo Trinkey PCB  

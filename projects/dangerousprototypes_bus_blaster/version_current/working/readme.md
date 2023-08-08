@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Bus_Blaster  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_bus_blaster  
 (snippet of original readme)  
   
   

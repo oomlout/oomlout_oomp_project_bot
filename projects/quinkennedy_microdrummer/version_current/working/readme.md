@@ -1,6 +1,7 @@
 # OOMP Project  
 ## microdrummer  by quinkennedy  
   
+oomp key: oomp_projects_flat_quinkennedy_microdrummer  
 (snippet of original readme)  
   
   

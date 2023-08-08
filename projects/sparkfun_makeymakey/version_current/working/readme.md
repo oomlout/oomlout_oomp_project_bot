@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MaKeyMaKey  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_makeymakey  
 (snippet of original readme)  
   
 **Note: Retired Product**  

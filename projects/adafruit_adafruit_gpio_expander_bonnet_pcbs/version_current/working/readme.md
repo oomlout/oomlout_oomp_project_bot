@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-GPIO-Expander-Bonnet-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_gpio_expander_bonnet_pcbs  
 (snippet of original readme)  
   
 -- Adafruit GPIO Expander Bonnet PCB  

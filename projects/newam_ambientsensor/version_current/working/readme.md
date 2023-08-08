@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AmbientSensor  by newAM  
   
+oomp key: oomp_projects_flat_newam_ambientsensor  
 (snippet of original readme)  
   
 -- Ambient Sensor  

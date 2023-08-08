@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cheap_boi  by TahuTech  
   
+oomp key: oomp_projects_flat_tahutech_cheap_boi  
 (snippet of original readme)  
   
 - The cheap_boi mechanical keyboard  

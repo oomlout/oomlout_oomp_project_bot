@@ -1,6 +1,7 @@
 # OOMP Project  
 ## business-card  by ruuvi  
   
+oomp key: oomp_projects_flat_ruuvi_business_card  
 (snippet of original readme)  
   
 - business-card  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LTE_Cat_M1_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lte_cat_m1_shield  
 (snippet of original readme)  
   
 SparkFun LTE CAT M1/NB-IoT Shield - SARA-R4  

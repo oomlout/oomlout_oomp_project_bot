@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TLV493D-Croquette  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_tlv493d_croquette  
 (snippet of original readme)  
   
 - Electronic Cats Croquette TLV493D  

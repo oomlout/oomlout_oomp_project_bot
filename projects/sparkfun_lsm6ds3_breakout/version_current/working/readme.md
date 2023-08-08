@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LSM6DS3_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lsm6ds3_breakout  
 (snippet of original readme)  
   
 SparkFun <PRODUCT NAME>  

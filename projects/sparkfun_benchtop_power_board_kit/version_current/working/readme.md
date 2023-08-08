@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Benchtop_Power_Board_Kit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_benchtop_power_board_kit  
 (snippet of original readme)  
   
 Benchtop Power Board Kit  

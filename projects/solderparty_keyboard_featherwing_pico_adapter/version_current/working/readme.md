@@ -1,6 +1,7 @@
 # OOMP Project  
 ## keyboard_featherwing_pico_adapter  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_keyboard_featherwing_pico_adapter  
 (snippet of original readme)  
   
 - Raspberry Pi Pico Adapter for the Keyboard FeatherWing  

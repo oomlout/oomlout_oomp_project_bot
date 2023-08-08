@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rpitx_lopafi  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_rpitx_lopafi  
 (snippet of original readme)  
   
 - rpitx_lopafi  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tng-base-rpi-cmx  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_tng_base_rpi_cmx  
 (snippet of original readme)  
   
   

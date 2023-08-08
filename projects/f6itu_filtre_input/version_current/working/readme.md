@@ -1,6 +1,7 @@
 # OOMP Project  
 ## filtre-input  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_filtre_input  
 (snippet of original readme)  
   
   

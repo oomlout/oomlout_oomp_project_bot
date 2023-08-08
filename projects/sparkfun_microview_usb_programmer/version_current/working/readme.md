@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroView_USB_Programmer  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_microview_usb_programmer  
 (snippet of original readme)  
   
 SparkFun MicroView USB Programmer  

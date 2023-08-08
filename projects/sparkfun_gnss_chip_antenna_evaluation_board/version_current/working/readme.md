@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GNSS_Chip_Antenna_Evaluation_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gnss_chip_antenna_evaluation_board  
 (snippet of original readme)  
   
 SparkFun GNSS Chip Antenna Evaluation Board  

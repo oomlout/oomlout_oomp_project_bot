@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ICM20649-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_icm20649_pcb  
 (snippet of original readme)  
   
 -- Adafruit ICM20649 Wide-Range 6-DoF IMU PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SideBBForESP32DevKitC  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_sidebbforesp32devkitc  
 (snippet of original readme)  
   
 - SideBBForESP32DevKitC  

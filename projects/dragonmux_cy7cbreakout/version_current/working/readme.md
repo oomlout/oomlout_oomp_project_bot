@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CY7CBreakout  by dragonmux  
   
+oomp key: oomp_projects_flat_dragonmux_cy7cbreakout  
 (snippet of original readme)  
   
 - CY7CBreakout  

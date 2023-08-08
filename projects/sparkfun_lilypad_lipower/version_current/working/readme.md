@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_LiPower  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_lipower  
 (snippet of original readme)  
   
 LilyPad LiPower  

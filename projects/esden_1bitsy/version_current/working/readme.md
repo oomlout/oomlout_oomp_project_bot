@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 1BitSy  by esden  
   
+oomp key: oomp_projects_flat_esden_1bitsy  
 (snippet of original readme)  
   
 - 1BitSy  

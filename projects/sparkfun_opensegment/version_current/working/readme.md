@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OpenSegment  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_opensegment  
 (snippet of original readme)  
   
 OpenSegment Serial Display  

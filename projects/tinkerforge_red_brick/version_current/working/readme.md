@@ -1,6 +1,7 @@
 # OOMP Project  
 ## red-brick  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_red_brick  
 (snippet of original readme)  
   
   

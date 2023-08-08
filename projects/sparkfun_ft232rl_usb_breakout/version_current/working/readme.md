@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FT232RL_USB_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ft232rl_usb_breakout  
 (snippet of original readme)  
   
 FT232RL USB Breakout  

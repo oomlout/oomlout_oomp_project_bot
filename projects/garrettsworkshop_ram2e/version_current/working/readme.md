@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RAM2E  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_ram2e  
 (snippet of original readme)  
   
   

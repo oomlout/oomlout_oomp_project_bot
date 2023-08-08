@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FemtoBuck  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_femtobuck  
 (snippet of original readme)  
   
 FemtoBuck LED Driver  

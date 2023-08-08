@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-STEMMA-Soil-Sensor-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_stemma_soil_sensor_pcb  
 (snippet of original readme)  
   
 -- Adafruit STEMMA Soil Sensor - I2C Capacitive Moisture Sensor PCB  

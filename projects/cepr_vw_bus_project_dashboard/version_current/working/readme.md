@@ -1,6 +1,7 @@
 # OOMP Project  
 ## vw-bus-project-dashboard  by cepr  
   
+oomp key: oomp_projects_flat_cepr_vw_bus_project_dashboard  
 (snippet of original readme)  
   
   

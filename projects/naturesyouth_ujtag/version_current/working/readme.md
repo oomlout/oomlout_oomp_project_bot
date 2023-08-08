@@ -1,6 +1,7 @@
 # OOMP Project  
 ## uJTAG  by naturesyouth  
   
+oomp key: oomp_projects_flat_naturesyouth_ujtag  
 (snippet of original readme)  
   
   

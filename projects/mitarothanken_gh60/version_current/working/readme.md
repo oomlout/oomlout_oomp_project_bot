@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gh60  by mitaroThanken  
   
+oomp key: oomp_projects_flat_mitarothanken_gh60  
 (snippet of original readme)  
   
   

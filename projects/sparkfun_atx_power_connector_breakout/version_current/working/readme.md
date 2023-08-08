@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ATX_Power_Connector_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_atx_power_connector_breakout  
 (snippet of original readme)  
   
 SparkFun ATX Power Connector Breakout - 12V/5V (4-pin)  

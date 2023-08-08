@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ATECC608A-Croquette  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_atecc608a_croquette  
 (snippet of original readme)  
   
 - Electronic Cats Croquette ATECC608  

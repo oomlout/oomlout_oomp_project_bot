@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_ATECC608A  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_atecc608a  
 (snippet of original readme)  
   
 SparkFun Cryptographic Co-Processor Breakout - ATECC608A (Qwiic)  

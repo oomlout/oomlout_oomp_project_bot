@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MaxRAM  by myelin  
   
+oomp key: oomp_projects_flat_myelin_maxram  
 (snippet of original readme)  
   
 - MaxRAM  

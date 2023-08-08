@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MAX17048-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_max17048_pcb  
 (snippet of original readme)  
   
 -- Adafruit MAX17048 LiPoly / LiIon Fuel Gauge and Battery Monitor PCB  

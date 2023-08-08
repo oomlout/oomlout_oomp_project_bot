@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PsychoLFO  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_psycholfo  
 (snippet of original readme)  
   
   

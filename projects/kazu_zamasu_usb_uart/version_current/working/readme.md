@@ -1,6 +1,7 @@
 # OOMP Project  
 ## USB-UART  by Kazu-zamasu  
   
+oomp key: oomp_projects_flat_kazu_zamasu_usb_uart  
 (snippet of original readme)  
   
 - USB-UART  

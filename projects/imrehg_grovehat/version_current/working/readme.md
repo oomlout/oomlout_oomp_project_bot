@@ -1,6 +1,7 @@
 # OOMP Project  
 ## grovehat  by imrehg  
   
+oomp key: oomp_projects_flat_imrehg_grovehat  
 (snippet of original readme)  
   
 - GroveHat for VIA VAB-820  

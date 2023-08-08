@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PiBreak  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_pibreak  
 (snippet of original readme)  
   
 PiBreak is a prototyping board for Raspberry Pi.  

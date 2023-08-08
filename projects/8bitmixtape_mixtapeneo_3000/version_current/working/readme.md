@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MixtapeNEO-3000  by 8BitMixtape  
   
+oomp key: oomp_projects_flat_8bitmixtape_mixtapeneo_3000  
 (snippet of original readme)  
   
 - MixtapeNEO-3000  

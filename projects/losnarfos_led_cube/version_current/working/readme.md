@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED-Cube  by LosNarfos  
   
+oomp key: oomp_projects_flat_losnarfos_led_cube  
 (snippet of original readme)  
   
 - LED-Cube  

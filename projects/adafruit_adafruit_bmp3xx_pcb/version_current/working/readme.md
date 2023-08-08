@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-BMP3xx-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bmp3xx_pcb  
 (snippet of original readme)  
   
 -- Adafruit BMP3xx - Precision Barometric Pressure and Altimeter PCB  

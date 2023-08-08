@@ -1,6 +1,7 @@
 # OOMP Project  
 ## notcorne  by notsockx  
   
+oomp key: oomp_projects_flat_notsockx_notcorne  
 (snippet of original readme)  
   
 - notcorne  

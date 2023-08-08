@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tftoscillo  by boul51  
   
+oomp key: oomp_projects_flat_boul51_tftoscillo  
 (snippet of original readme)  
   
   

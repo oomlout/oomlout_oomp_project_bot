@@ -1,6 +1,7 @@
 # OOMP Project  
 ## printer_cabinet  by Cylindric3D  
   
+oomp key: oomp_projects_flat_cylindric3d_printer_cabinet  
 (snippet of original readme)  
   
 - PrinterCabinet  

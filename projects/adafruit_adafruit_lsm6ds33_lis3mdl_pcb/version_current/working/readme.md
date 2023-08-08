@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LSM6DS33-LIS3MDL-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lsm6ds33_lis3mdl_pcb  
 (snippet of original readme)  
   
 -- Adafruit LSM6DS33 + LIS3MDL 9-DoF IMU with Accel/Gyro/Mag PCB  

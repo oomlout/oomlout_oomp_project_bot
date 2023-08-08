@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MAX30105_Particle_Sensor_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_max30105_particle_sensor_breakout  
 (snippet of original readme)  
   
 MAX30105 Particle and Pulse Ox Sensor Breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by rdeterre  
   
+oomp key: oomp_projects_flat_rdeterre_kicad_library  
 (snippet of original readme)  
   
 kicad-library  

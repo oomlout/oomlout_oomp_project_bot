@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rgb-led-button-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_rgb_led_button_bricklet  
 (snippet of original readme)  
   
   

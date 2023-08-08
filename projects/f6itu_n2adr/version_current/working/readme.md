@@ -1,6 +1,7 @@
 # OOMP Project  
 ## N2ADR  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_n2adr  
 (snippet of original readme)  
   
 - N2ADR  

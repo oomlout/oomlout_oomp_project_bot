@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-VL53L4CD-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_vl53l4cd_pcb  
 (snippet of original readme)  
   
 -- Adafruit VL53L4CD Time of Flight Distance Sensor PCB  

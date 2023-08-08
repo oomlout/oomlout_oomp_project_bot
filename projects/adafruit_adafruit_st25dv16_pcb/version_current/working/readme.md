@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ST25DV16-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_st25dv16_pcb  
 (snippet of original readme)  
   
 -- Adafruit Adafruit ST25DV16K I2C RFID EEPROM Breakout - STEMMA QT / Qwiic PCB  

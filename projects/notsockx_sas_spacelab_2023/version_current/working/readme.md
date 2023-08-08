@@ -1,6 +1,7 @@
 # OOMP Project  
 ## sas-spacelab-2023  by notsockx  
   
+oomp key: oomp_projects_flat_notsockx_sas_spacelab_2023  
 (snippet of original readme)  
   
 - sas-spacelab-2023  

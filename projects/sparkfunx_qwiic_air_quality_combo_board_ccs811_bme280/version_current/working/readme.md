@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Air_Quality_Combo_Board-CCS811-BME280  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_air_quality_combo_board_ccs811_bme280  
 (snippet of original readme)  
   
 Qwiic Air Quality Combo Board - CCS811 + BME280  

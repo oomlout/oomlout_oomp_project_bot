@@ -1,6 +1,7 @@
 # OOMP Project  
 ## actuator-board  by cvra  
   
+oomp key: oomp_projects_flat_cvra_actuator_board  
 (snippet of original readme)  
   
 -- CVRA Actuator Board  

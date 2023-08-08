@@ -1,6 +1,7 @@
 # OOMP Project  
 ## sdp8xx-anemometer-pcb  by barafael  
   
+oomp key: oomp_projects_flat_barafael_sdp8xx_anemometer_pcb  
 (snippet of original readme)  
   
 ![board render](https://github.com/barafael/sdp8xx-anemometer-pcb/blob/main/board-render.png?raw=true)  

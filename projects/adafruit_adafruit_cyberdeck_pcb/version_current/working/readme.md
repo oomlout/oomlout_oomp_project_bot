@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CYBERDECK-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_cyberdeck_pcb  
 (snippet of original readme)  
   
 -- Adafruit CYBERDECK HAT and Bonnet for Raspberry Pi PCB  

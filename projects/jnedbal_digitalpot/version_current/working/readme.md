@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DigitalPot  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_digitalpot  
 (snippet of original readme)  
   
   

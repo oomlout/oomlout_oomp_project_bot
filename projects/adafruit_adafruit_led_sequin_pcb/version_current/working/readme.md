@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LED-Sequin-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_led_sequin_pcb  
 (snippet of original readme)  
   
 -- Adafruit LED Sequin PCB  

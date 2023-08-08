@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by nqbit  
   
+oomp key: oomp_projects_flat_nqbit_kicad_library  
 (snippet of original readme)  
   
 kicad-library  

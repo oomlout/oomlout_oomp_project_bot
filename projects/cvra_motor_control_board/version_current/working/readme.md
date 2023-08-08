@@ -1,6 +1,7 @@
 # OOMP Project  
 ## motor-control-board  by cvra  
   
+oomp key: oomp_projects_flat_cvra_motor_control_board  
 (snippet of original readme)  
   
 CVRA DC-Motor Controller  

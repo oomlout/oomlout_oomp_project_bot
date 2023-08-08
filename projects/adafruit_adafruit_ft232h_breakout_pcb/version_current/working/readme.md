@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-FT232H-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ft232h_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit FT232H Breakout PCB  

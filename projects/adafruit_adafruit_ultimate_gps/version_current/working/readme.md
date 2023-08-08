@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Ultimate-GPS  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ultimate_gps  
 (snippet of original readme)  
   
 -- Adafruit Ultimate GPS PCB  

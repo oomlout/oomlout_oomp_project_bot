@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-HTS221-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_hts221_pcb  
 (snippet of original readme)  
   
 -- Adafruit HTS221 Humidity and Temperature Sensor PCB  

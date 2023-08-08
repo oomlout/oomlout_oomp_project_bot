@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-LSM6DS3TR-C-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_lsm6ds3tr_c_pcb  
 (snippet of original readme)  
   
 -- Adafruit LSM6DS3TR-C 6-DoF Accel + Gyro IMU - STEMMA QT / Qwiic PCB  

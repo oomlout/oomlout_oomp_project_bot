@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-nRF52-Bluefruit-Feather-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_nrf52_bluefruit_feather_pcb  
 (snippet of original readme)  
   
 - Adafruit-nRF52-Bluefruit-Feather-PCB  

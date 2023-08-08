@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MUXUS  by leptun  
   
+oomp key: oomp_projects_flat_leptun_muxus  
 (snippet of original readme)  
   
 - MUXUS  

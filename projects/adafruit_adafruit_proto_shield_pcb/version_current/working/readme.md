@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Proto-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_proto_shield_pcb  
 (snippet of original readme)  
   
 -- Adafruit Proto Shield for Arduino Unassembled Kit - Stackable - Version R3 PCB  

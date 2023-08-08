@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Photo_Interrupter_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_photo_interrupter_breakout  
 (snippet of original readme)  
   
 Photo_Interrupter_Breakout  

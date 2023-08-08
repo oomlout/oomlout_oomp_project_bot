@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Gigalux  by cosmikwolf  
   
+oomp key: oomp_projects_flat_cosmikwolf_gigalux  
 (snippet of original readme)  
   
   

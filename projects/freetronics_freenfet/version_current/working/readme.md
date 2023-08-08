@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FREENFET  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_freenfet  
 (snippet of original readme)  
   
 Freetronics FreeNFET Addressable N-MOSFET Module  

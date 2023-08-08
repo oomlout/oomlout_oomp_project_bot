@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AS_UPcvtr  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_as_upcvtr  
 (snippet of original readme)  
   
   

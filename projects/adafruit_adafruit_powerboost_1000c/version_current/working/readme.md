@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PowerBoost-1000C  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_powerboost_1000c  
 (snippet of original readme)  
   
 -- Adafruit PowerBoost 1000C  

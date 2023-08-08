@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cube3  by pbrook  
   
+oomp key: oomp_projects_flat_pbrook_cube3  
 (snippet of original readme)  
   
   

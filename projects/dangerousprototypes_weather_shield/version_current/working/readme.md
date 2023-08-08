@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Weather_Shield  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_weather_shield  
 (snippet of original readme)  
   
   

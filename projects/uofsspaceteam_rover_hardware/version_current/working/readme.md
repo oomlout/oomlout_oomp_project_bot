@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rover-hardware  by UofSSpaceTeam  
   
+oomp key: oomp_projects_flat_uofsspaceteam_rover_hardware  
 (snippet of original readme)  
   
   

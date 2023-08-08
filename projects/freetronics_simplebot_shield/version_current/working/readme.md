@@ -1,6 +1,7 @@
 # OOMP Project  
 ## simplebot_shield  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_simplebot_shield  
 (snippet of original readme)  
   
 - SimpleBot Shield  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## piHPSDR_Controller  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_pihpsdr_controller  
 (snippet of original readme)  
   
 '''PiHPSDR, a embedded SDR controler for the OpenHPSDR Software Defined Radio familly'''  

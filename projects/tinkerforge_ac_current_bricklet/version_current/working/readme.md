@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ac-current-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_ac_current_bricklet  
 (snippet of original readme)  
   
   

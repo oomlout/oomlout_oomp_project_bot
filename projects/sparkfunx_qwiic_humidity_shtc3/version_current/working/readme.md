@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Humidity_SHTC3  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_humidity_shtc3  
 (snippet of original readme)  
   
 SparkX Qwiic Humidity SHTC3  

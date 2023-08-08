@@ -1,6 +1,7 @@
 # OOMP Project  
 ## afx-01_hardware  by cosmikwolf  
   
+oomp key: oomp_projects_flat_cosmikwolf_afx_01_hardware  
 (snippet of original readme)  
   
   

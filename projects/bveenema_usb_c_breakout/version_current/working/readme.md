@@ -1,6 +1,7 @@
 # OOMP Project  
 ## USB-C_Breakout  by bveenema  
   
+oomp key: oomp_projects_flat_bveenema_usb_c_breakout  
 (snippet of original readme)  
   
   

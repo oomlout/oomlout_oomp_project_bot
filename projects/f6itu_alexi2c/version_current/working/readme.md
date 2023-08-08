@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Alexi2C  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_alexi2c  
 (snippet of original readme)  
   
 - Alexi2C  

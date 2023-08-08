@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SMT-Breakout-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_smt_breakout_pcbs  
 (snippet of original readme)  
   
 -- Adafruit SMT Breakout PCBs  

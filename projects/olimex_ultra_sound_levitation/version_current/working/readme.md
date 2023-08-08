@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Ultra-Sound-Levitation  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_ultra_sound_levitation  
 (snippet of original readme)  
   
 - Ultra-Sound-Levitation  

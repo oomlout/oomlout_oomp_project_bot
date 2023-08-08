@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-GPS-Logger-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_gps_logger_shield_pcb  
 (snippet of original readme)  
   
 -- Adafruit GPS Logger Shield PCB  

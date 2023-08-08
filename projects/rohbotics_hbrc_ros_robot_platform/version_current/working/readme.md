@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hbrc_ros_robot_platform  by rohbotics  
   
+oomp key: oomp_projects_flat_rohbotics_hbrc_ros_robot_platform  
 (snippet of original readme)  
   
 - HBRC ROS Robot Platform  

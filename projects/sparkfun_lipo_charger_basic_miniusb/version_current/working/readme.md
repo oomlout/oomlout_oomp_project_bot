@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Lipo_Charger_Basic-miniUSB  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lipo_charger_basic_miniusb  
 (snippet of original readme)  
   
 SparkFun Lipo Charger Basic - miniUSB  

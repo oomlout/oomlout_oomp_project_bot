@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RatTrapSensorPCB  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_rattrapsensorpcb  
 (snippet of original readme)  
   
   

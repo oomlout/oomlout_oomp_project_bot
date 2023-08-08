@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_guva_analog_uv_sensor_breakout_pcb  
 (snippet of original readme)  
   
 - Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB  

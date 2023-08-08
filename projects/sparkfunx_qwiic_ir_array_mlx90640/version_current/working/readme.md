@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_IR_Array_MLX90640  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_ir_array_mlx90640  
 (snippet of original readme)  
   
 - Qwiic_IR_Array_MLX90640  

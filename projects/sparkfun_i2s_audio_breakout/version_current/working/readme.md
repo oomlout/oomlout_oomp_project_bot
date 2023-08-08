@@ -1,6 +1,7 @@
 # OOMP Project  
 ## I2S_Audio_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_i2s_audio_breakout  
 (snippet of original readme)  
   
 SparkFun I2S Audio Breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Lora-to-Wemos-D1-mini  by jerkey  
   
+oomp key: oomp_projects_flat_jerkey_lora_to_wemos_d1_mini  
 (snippet of original readme)  
   
 - lora-to-nodemcu-circuit  

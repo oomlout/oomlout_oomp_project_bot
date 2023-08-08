@@ -1,6 +1,7 @@
 # OOMP Project  
 ## osprey  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_osprey  
 (snippet of original readme)  
   
 - Osprey  

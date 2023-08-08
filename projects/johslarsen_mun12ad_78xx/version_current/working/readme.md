@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mun12ad_78xx  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_mun12ad_78xx  
 (snippet of original readme)  
   
   

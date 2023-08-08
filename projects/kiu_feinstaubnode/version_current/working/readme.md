@@ -1,6 +1,7 @@
 # OOMP Project  
 ## feinstaubnode  by kiu  
   
+oomp key: oomp_projects_flat_kiu_feinstaubnode  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SE-030  by ZaneKaminski  
   
+oomp key: oomp_projects_flat_zanekaminski_se_030  
 (snippet of original readme)  
   
   

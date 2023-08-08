@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Ampelope  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_ampelope  
 (snippet of original readme)  
   
 - Ampelope  

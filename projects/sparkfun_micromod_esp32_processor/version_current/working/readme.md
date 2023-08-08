@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_ESP32_Processor  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_esp32_processor  
 (snippet of original readme)  
   
 SparkFun MicroMod ESP32 Processor Board  

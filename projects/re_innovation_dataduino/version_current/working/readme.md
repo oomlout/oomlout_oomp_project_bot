@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DataDuino  by re-innovation  
   
+oomp key: oomp_projects_flat_re_innovation_dataduino  
 (snippet of original readme)  
   
   

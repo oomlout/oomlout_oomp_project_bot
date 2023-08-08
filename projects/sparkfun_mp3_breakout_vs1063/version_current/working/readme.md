@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MP3_Breakout-VS1063  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mp3_breakout_vs1063  
 (snippet of original readme)  
   
 SparkFun MP3 Breakout - VS1063  

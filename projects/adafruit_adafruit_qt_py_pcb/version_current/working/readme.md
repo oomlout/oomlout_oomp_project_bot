@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-QT-Py-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_qt_py_pcb  
 (snippet of original readme)  
   
 -- Adafruit QT Py PCB  

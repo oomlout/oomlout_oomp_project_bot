@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cortex-m4-dev-board  by barafael  
   
+oomp key: oomp_projects_flat_barafael_cortex_m4_dev_board  
 (snippet of original readme)  
   
 - cortex-m4-custom-board  

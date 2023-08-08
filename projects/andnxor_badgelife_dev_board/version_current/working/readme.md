@@ -1,6 +1,7 @@
 # OOMP Project  
 ## badgelife_dev_board  by ANDnXOR  
   
+oomp key: oomp_projects_flat_andnxor_badgelife_dev_board  
 (snippet of original readme)  
   
 - badgelife_dev_board  

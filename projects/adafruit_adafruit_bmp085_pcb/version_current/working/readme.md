@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-BMP085-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bmp085_pcb  
 (snippet of original readme)  
   
 - PCB for the Adafruit 5V ready BMP085 Barometric  

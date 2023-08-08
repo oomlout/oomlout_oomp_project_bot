@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PiBreakPlus  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_pibreakplus  
 (snippet of original readme)  
   
 PiBreak Plus is a prototyping board for Raspberry Pi Model B+.  

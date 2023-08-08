@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCad-Cabling  by bveenema  
   
+oomp key: oomp_projects_flat_bveenema_kicad_cabling  
 (snippet of original readme)  
   
 - KiCad-Cabling  

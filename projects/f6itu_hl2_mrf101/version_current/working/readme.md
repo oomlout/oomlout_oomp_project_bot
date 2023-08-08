@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HL2-MRF101  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_hl2_mrf101  
 (snippet of original readme)  
   
   

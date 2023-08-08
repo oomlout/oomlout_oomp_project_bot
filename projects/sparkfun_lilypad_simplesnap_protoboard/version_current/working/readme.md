@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_SimpleSnap_Protoboard  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_simplesnap_protoboard  
 (snippet of original readme)  
   
 LilyPad SimpleSnap Protoboard  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ISO1540-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_iso1540_pcb  
 (snippet of original readme)  
   
 -- Adafruit ISO1540 Bidirectional I2C Isolator PCB  

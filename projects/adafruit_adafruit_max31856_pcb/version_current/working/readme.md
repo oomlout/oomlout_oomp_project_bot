@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MAX31856-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_max31856_pcb  
 (snippet of original readme)  
   
 -- Adafruit MAX31856 PCB  

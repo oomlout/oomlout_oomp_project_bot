@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Voice-Bonnet-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_voice_bonnet_pcb  
 (snippet of original readme)  
   
 -- Adafruit Voice Bonnet PCB  

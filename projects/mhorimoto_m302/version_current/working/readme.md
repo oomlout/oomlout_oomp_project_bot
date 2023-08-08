@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M302  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m302  
 (snippet of original readme)  
   
 M302 Arduino UECS SIMPLE NODE Shield 汎用簡易観測ノード  

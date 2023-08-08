@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GoTrackPCB  by mamiksik  
   
+oomp key: oomp_projects_flat_mamiksik_gotrackpcb  
 (snippet of original readme)  
   
   

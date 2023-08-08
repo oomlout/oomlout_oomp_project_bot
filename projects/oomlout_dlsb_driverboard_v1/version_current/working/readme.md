@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DLSB-DRIVERBOARD-V1  by oomlout  
   
+oomp key: oomp_projects_flat_oomlout_dlsb_driverboard_v1  
 (snippet of original readme)  
   
   

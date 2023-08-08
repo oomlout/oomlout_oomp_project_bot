@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Flora-Smart-NeoPixel  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_flora_smart_neopixel  
 (snippet of original readme)  
   
 - PCB for the Adafruit Flora Smart NeoPixels  

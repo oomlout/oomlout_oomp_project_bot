@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M922-SS-SMD  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m922_ss_smd  
 (snippet of original readme)  
   
   

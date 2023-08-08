@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ItsyBitsy-32u4-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_itsybitsy_32u4_pcb  
 (snippet of original readme)  
   
 -- Adafruit ItsyBitsy 32u4 PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## let-s-Split-v2  by haru-ake  
   
+oomp key: oomp_projects_flat_haru_ake_let_s_split_v2  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M321  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m321  
 (snippet of original readme)  
   
 - M321 UECS簡易観測ノード  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-source-mirror  by aylons  
   
+oomp key: oomp_projects_flat_aylons_kicad_source_mirror  
 (snippet of original readme)  
   
   

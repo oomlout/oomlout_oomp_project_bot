@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HMC6343_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_hmc6343_breakout  
 (snippet of original readme)  
   
 SparkFun HMC6343 Breakout  

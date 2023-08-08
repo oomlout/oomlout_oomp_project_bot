@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32-C3-DevKit-Lipo  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_esp32_c3_devkit_lipo  
 (snippet of original readme)  
   
 - ESP32-C3-DevKit-Lipo  

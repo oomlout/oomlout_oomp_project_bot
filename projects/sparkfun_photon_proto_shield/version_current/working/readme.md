@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Photon_Proto_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_photon_proto_shield  
 (snippet of original readme)  
   
 SparkFun Photon ProtoShield  

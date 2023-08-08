@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M915  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m915  
 (snippet of original readme)  
   
 - M915  

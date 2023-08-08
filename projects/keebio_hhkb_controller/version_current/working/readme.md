@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HHKB_controller  by keebio  
   
+oomp key: oomp_projects_flat_keebio_hhkb_controller  
 (snippet of original readme)  
   
 Keyboard Controller Board for HHKB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MCP23017-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mcp23017_pcb  
 (snippet of original readme)  
   
 -- Adafruit MCP23017 I2C GPIO Expander Breakout - STEMMA QT / QWIIC PCB  

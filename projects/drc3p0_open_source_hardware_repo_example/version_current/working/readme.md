@@ -1,6 +1,7 @@
 # OOMP Project  
 ## open-source-hardware-repo-example  by Drc3p0  
   
+oomp key: oomp_projects_flat_drc3p0_open_source_hardware_repo_example  
 (snippet of original readme)  
   
 Open Hardware Project Template  

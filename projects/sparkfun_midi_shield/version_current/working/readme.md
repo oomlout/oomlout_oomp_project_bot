@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MIDI_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_midi_shield  
 (snippet of original readme)  
   
 SparkFun MIDI Shield  

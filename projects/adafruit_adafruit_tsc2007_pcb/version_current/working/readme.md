@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TSC2007-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tsc2007_pcb  
 (snippet of original readme)  
   
 -- Adafruit TSC2007 I2C Resistive Touch Screen Controller PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Papa_Soundie_Audio_Player  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_papa_soundie_audio_player  
 (snippet of original readme)  
   
 SparkFun Papa Soundie Audio Player  

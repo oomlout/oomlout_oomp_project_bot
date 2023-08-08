@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Escornabot-Makech  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_escornabot_makech  
 (snippet of original readme)  
   
 <a href="https://electroniccats.com/store/escornabot-makech/">  

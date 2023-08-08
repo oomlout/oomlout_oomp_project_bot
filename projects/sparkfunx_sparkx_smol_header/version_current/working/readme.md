@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX_smol_Header  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_smol_header  
 (snippet of original readme)  
   
 - SparkX smôl Header  

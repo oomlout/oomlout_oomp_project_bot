@@ -1,6 +1,7 @@
 # OOMP Project  
 ## VNAV1.2  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_vnav1_2  
 (snippet of original readme)  
   
   

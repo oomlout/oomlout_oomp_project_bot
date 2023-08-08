@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bench_supply  by hairymnstr  
   
+oomp key: oomp_projects_flat_hairymnstr_bench_supply  
 (snippet of original readme)  
   
 Bench Supply  

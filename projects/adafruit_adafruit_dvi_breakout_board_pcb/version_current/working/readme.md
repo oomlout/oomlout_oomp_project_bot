@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DVI-Breakout-Board-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_dvi_breakout_board_pcb  
 (snippet of original readme)  
   
 -- Adafruit DVI Breakout Board - For HDMI Source Devices PCB  

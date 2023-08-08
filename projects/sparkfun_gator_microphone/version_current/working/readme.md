@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gator_microphone  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_gator_microphone  
 (snippet of original readme)  
   
 SparkFun gator:microphone - micro:bit Accessory Board   

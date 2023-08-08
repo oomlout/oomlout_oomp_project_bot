@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Floppy_FeatherWing_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_floppy_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit Floppy FeatherWing with 34-Pin IDC Connector PCB  

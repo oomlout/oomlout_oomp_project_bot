@@ -1,6 +1,7 @@
 # OOMP Project  
 ## voltage-current-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_voltage_current_v2_bricklet  
 (snippet of original readme)  
   
   

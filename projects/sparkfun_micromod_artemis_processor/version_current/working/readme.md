@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Artemis_Processor  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_artemis_processor  
 (snippet of original readme)  
   
 SparkFun MicroMod Artemis Processor Board  

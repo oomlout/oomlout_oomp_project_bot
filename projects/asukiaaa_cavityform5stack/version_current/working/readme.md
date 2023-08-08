@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CavityForM5Stack  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_cavityform5stack  
 (snippet of original readme)  
   
 - CavityForM5Stack  

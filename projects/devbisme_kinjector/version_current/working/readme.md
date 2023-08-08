@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kinjector  by devbisme  
   
+oomp key: oomp_projects_flat_devbisme_kinjector  
 (snippet of original readme)  
   
   

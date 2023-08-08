@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ProtoSnap-Pro_Mini  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_protosnap_pro_mini  
 (snippet of original readme)  
   
 **_NOTE: This product has been retired from our catalog. This information is made available for those who are curious._**  

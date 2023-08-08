@@ -1,6 +1,7 @@
 # OOMP Project  
 ## usb_injector  by johslarsen  
   
+oomp key: oomp_projects_flat_johslarsen_usb_injector  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RedCometESP32  by rocketscream  
   
+oomp key: oomp_projects_flat_rocketscream_redcometesp32  
 (snippet of original readme)  
   
 - Red Comet ESP32  

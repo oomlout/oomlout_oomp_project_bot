@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MP3_Breakout_WT2003S  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_mp3_breakout_wt2003s  
 (snippet of original readme)  
   
 SparkX WT2003S MP3 Decoder Breakout  

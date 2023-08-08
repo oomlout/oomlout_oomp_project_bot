@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kazatsky-motorized-desk  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_kazatsky_motorized_desk  
 (snippet of original readme)  
   
 ![header-image](http://coddingtonbear-public.s3.amazonaws.com/github/kazatsky/desk_image.jpg)  

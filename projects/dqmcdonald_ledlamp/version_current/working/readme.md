@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LEDLamp  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_ledlamp  
 (snippet of original readme)  
   
   

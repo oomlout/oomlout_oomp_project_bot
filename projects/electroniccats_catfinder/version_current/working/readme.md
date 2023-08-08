@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatFinder  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catfinder  
 (snippet of original readme)  
   
 - CatFinder  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## s3pectro  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_s3pectro  
 (snippet of original readme)  
   
 - s3pector  

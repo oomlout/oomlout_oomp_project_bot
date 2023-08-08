@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX-Pi-Filter-Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_pi_filter_breakout  
 (snippet of original readme)  
   
 Pi Filter Breakout  

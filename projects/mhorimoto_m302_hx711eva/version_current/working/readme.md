@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M302-HX711eva  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m302_hx711eva  
 (snippet of original readme)  
   
 - M302を用いたHX711評価システム  

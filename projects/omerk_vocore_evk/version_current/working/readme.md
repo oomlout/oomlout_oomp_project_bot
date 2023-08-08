@@ -1,6 +1,7 @@
 # OOMP Project  
 ## vocore-evk  by omerk  
   
+oomp key: oomp_projects_flat_omerk_vocore_evk  
 (snippet of original readme)  
   
 - vocore-evk  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## On_Screen_Display_Breakout-MAX7456  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_on_screen_display_breakout_max7456  
 (snippet of original readme)  
   
 SparkFun On Screen Display Breakout - MAX7456  

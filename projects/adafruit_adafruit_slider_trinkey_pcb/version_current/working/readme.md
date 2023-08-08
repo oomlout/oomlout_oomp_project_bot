@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Slider-Trinkey-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_slider_trinkey_pcb  
 (snippet of original readme)  
   
 -- Adafruit Slider Trinkey PCB  

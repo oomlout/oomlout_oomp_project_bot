@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Trellis  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_trellis  
 (snippet of original readme)  
   
 - CAD & PCB data for the Adafruit Trellis keypad & control PCB  

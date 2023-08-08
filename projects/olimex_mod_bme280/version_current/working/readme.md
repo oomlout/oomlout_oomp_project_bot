@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MOD-BME280  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_mod_bme280  
 (snippet of original readme)  
   
 - MOD-BME280  

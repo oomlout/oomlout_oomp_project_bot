@@ -1,6 +1,7 @@
 # OOMP Project  
 ## master-brick  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_master_brick  
 (snippet of original readme)  
   
   

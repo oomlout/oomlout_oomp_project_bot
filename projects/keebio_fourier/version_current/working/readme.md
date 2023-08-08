@@ -1,6 +1,7 @@
 # OOMP Project  
 ## fourier  by keebio  
   
+oomp key: oomp_projects_flat_keebio_fourier  
 (snippet of original readme)  
   
 Fourier Keyboard PCB  

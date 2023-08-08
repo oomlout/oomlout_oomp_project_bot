@@ -1,6 +1,7 @@
 # OOMP Project  
 ## businessCard-ch55x  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_businesscard_ch55x  
 (snippet of original readme)  
   
 - Business Card  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-FONA-800-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_fona_800_shield_pcb  
 (snippet of original readme)  
   
 -- Adafruit FONA 800 Shield PCB  

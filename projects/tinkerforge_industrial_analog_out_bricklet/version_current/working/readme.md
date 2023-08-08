@@ -1,6 +1,7 @@
 # OOMP Project  
 ## industrial-analog-out-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_industrial_analog_out_bricklet  
 (snippet of original readme)  
   
   

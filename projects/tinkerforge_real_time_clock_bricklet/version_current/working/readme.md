@@ -1,6 +1,7 @@
 # OOMP Project  
 ## real-time-clock-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_real_time_clock_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CP2102N-Friend-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_cp2102n_friend_pcb  
 (snippet of original readme)  
   
 -- Adafruit CP2102N Friend - USB to Serial Converter PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MacIIROMSIMM  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_maciiromsimm  
 (snippet of original readme)  
   
   

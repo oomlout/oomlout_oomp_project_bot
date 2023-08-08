@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Tsuki  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_tsuki  
 (snippet of original readme)  
   
 - Acheron 60-SM-S-STM32-MX-TH-WI (Codename "Tsuki")  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mppt-1210-hus  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_mppt_1210_hus  
 (snippet of original readme)  
   
 - 10A MPPT Charge Controller with USB  

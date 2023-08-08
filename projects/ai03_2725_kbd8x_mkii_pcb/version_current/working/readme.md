@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KBD8X-MKII-PCB  by ai03-2725  
   
+oomp key: oomp_projects_flat_ai03_2725_kbd8x_mkii_pcb  
 (snippet of original readme)  
   
 - KBD8X-MKII-PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Cricket  by nightmechanic  
   
+oomp key: oomp_projects_flat_nightmechanic_cricket  
 (snippet of original readme)  
   
 - The Annoying Cricket  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## VL53L0X-tof-sensor-board  by cvra  
   
+oomp key: oomp_projects_flat_cvra_vl53l0x_tof_sensor_board  
 (snippet of original readme)  
   
   

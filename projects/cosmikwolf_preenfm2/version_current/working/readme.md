@@ -1,6 +1,7 @@
 # OOMP Project  
 ## preenfm2  by cosmikwolf  
   
+oomp key: oomp_projects_flat_cosmikwolf_preenfm2  
 (snippet of original readme)  
   
 -- preenfm2  

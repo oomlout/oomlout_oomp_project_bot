@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pipod_hw  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_pipod_hw  
 (snippet of original readme)  
   
   

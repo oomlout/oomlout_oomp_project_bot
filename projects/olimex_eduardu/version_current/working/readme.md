@@ -1,6 +1,7 @@
 # OOMP Project  
 ## eduArdu  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_eduardu  
 (snippet of original readme)  
   
 - eduArdu  

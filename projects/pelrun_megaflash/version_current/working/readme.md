@@ -1,6 +1,7 @@
 # OOMP Project  
 ## megaflash  by pelrun  
   
+oomp key: oomp_projects_flat_pelrun_megaflash  
 (snippet of original readme)  
   
   

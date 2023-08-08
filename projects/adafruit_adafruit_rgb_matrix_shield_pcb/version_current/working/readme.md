@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-RGB-Matrix-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_rgb_matrix_shield_pcb  
 (snippet of original readme)  
   
 -- Adafruit RGB Matrix Display Shield PCB  

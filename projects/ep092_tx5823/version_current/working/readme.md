@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TX5823  by ep092  
   
+oomp key: oomp_projects_flat_ep092_tx5823  
 (snippet of original readme)  
   
 - TX5823  

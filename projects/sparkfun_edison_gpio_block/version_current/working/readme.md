@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_GPIO_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_gpio_block  
 (snippet of original readme)  
   
 SparkFun Edison GPIO Breakout  

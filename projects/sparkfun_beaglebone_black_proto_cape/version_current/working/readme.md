@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BeagleBone_Black_Proto_Cape  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_beaglebone_black_proto_cape  
 (snippet of original readme)  
   
 BeagleBone Black Proto Cape  

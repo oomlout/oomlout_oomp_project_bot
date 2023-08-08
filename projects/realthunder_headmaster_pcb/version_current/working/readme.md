@@ -1,6 +1,7 @@
 # OOMP Project  
 ## headmaster_pcb  by realthunder  
   
+oomp key: oomp_projects_flat_realthunder_headmaster_pcb  
 (snippet of original readme)  
   
   

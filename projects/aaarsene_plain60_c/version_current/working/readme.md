@@ -1,6 +1,7 @@
 # OOMP Project  
 ## plain60-c  by aaarsene  
   
+oomp key: oomp_projects_flat_aaarsene_plain60_c  
 (snippet of original readme)  
   
 - Plain60-C rev2.2  

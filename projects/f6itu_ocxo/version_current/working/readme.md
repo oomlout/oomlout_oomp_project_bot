@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OCXO  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_ocxo  
 (snippet of original readme)  
   
 - OCXO  

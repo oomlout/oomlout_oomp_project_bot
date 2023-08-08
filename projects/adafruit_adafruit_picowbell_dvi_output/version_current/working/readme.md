@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PiCowbell-DVI-Output  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_picowbell_dvi_output  
 (snippet of original readme)  
   
 -- Adafruit PiCowbell DVI Output for Pico - Works with HDMI Display PCB  

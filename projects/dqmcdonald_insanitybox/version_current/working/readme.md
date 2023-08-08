@@ -1,6 +1,7 @@
 # OOMP Project  
 ## InsanityBox  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_insanitybox  
 (snippet of original readme)  
   
   

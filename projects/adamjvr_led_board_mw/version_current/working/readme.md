@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED-board-MW  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_led_board_mw  
 (snippet of original readme)  
   
 - LED-board-MW  

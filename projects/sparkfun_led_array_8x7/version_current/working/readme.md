@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED_Array_8x7  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_led_array_8x7  
 (snippet of original readme)  
   
 SparkFun LED Array 8x7  

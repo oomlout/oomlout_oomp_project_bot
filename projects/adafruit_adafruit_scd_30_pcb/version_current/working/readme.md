@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-SCD-30-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_scd_30_pcb  
 (snippet of original readme)  
   
 -- Adafruit SCD-30 NDIR CO2 Temperature and Humidity Sensor PCB  

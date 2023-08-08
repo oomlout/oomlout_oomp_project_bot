@@ -1,6 +1,7 @@
 # OOMP Project  
 ## WeMoLiPoly-LiIonBackpack  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_wemolipoly_liionbackpack  
 (snippet of original readme)  
   
 - Wemos Shield V1.0 LiPoly LiIon Backpack  

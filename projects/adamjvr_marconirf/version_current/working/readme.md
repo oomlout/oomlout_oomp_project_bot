@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MarconiRF  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_marconirf  
 (snippet of original readme)  
   
 - Marconi  

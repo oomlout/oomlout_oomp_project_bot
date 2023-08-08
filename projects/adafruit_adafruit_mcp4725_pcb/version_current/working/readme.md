@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MCP4725-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mcp4725_pcb  
 (snippet of original readme)  
   
 -- Adafruit MCP4725 12-Bit DAC Breakout PCB  

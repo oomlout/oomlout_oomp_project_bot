@@ -1,6 +1,7 @@
 # OOMP Project  
 ## multi-touch-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_multi_touch_bricklet  
 (snippet of original readme)  
   
   

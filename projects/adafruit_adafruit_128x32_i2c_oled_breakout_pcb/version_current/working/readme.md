@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-128x32-I2C-OLED-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_128x32_i2c_oled_breakout_pcb  
 (snippet of original readme)  
   
 - PCB for the Adafruit 128x32 I2C OLED breakout board  

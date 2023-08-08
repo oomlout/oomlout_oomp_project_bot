@@ -1,6 +1,7 @@
 # OOMP Project  
 ## alamode  by UMONS-GFA  
   
+oomp key: oomp_projects_flat_umons_gfa_alamode  
 (snippet of original readme)  
   
 alamode  

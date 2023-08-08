@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Micro_Bit_Weather_Bit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micro_bit_weather_bit  
 (snippet of original readme)  
   
 SparkFun weather:bit - micro:bit Carrier Board (Qwiic)  

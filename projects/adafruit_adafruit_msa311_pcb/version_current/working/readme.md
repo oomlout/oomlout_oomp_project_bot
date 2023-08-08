@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_MSA311_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_msa311_pcb  
 (snippet of original readme)  
   
 -- Adafruit MSA311 Triple Axis Accelerometer PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## WiFiNotificationCat  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_wifinotificationcat  
 (snippet of original readme)  
   
 - NotificationCat  

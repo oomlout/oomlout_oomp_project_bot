@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatSatZero  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catsatzero  
 (snippet of original readme)  
   
 - CaTSatZero  

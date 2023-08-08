@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kb-stuff  by TahuTech  
   
+oomp key: oomp_projects_flat_tahutech_kb_stuff  
 (snippet of original readme)  
   
 - mechanical-keyboard  

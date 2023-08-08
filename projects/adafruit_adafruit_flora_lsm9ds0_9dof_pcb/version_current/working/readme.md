@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Flora-LSM9DS0-9DOF-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_flora_lsm9ds0_9dof_pcb  
 (snippet of original readme)  
   
 - Adafruit Flora LSM9DS0 9DOF PCB  

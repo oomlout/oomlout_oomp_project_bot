@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Photon_Weather_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_photon_weather_shield  
 (snippet of original readme)  
   
 ⛔️ Discontinued  

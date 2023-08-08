@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PowerBoost-500-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_powerboost_500_shield_pcb  
 (snippet of original readme)  
   
 -- Adafruit PowerBoost 500 Shield PCB  

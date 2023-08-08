@@ -1,6 +1,7 @@
 # OOMP Project  
 ## air-quality-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_air_quality_bricklet  
 (snippet of original readme)  
   
   

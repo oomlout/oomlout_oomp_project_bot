@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Greenlight  by natsfr  
   
+oomp key: oomp_projects_flat_natsfr_greenlight  
 (snippet of original readme)  
   
   

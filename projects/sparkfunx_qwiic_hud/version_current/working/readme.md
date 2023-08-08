@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_HUD  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_hud  
 (snippet of original readme)  
   
 - Qwiic_HUD  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX_smol_OLED_Display  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_smol_oled_display  
 (snippet of original readme)  
   
 - SparkX smôl Header  

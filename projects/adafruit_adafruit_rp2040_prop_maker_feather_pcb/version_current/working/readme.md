@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-RP2040-Prop-Maker-Feather-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_rp2040_prop_maker_feather_pcb  
 (snippet of original readme)  
   
 -- Adafruit RP2040 Prop-Maker Feather with I2S Audio Amplifier PCB  

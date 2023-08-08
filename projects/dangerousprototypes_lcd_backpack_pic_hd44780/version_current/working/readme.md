@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LCD_Backpack_PIC_HD44780  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_lcd_backpack_pic_hd44780  
 (snippet of original readme)  
   
   

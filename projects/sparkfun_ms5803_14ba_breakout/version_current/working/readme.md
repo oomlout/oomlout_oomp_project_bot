@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MS5803-14BA_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ms5803_14ba_breakout  
 (snippet of original readme)  
   
 SparkFun Pressure Sensor Breakout - MS5803-14BA  

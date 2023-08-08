@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ADBT  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_adbt  
 (snippet of original readme)  
   
   

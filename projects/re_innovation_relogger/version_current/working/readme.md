@@ -1,6 +1,7 @@
 # OOMP Project  
 ## relogger  by re-innovation  
   
+oomp key: oomp_projects_flat_re_innovation_relogger  
 (snippet of original readme)  
   
 - Renewable Energy Data Logger  

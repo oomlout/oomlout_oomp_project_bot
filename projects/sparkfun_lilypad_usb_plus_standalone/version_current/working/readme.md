@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_USB_Plus_Standalone  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_usb_plus_standalone  
 (snippet of original readme)  
   
 SparkFun LilyPad USB Plus  

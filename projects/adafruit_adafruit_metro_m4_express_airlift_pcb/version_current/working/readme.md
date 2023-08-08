@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Metro-M4-Express-AirLift-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_metro_m4_express_airlift_pcb  
 (snippet of original readme)  
   
 -- Adafruit Metro M4 Express AirLift (WiFi) - Lite PCB  

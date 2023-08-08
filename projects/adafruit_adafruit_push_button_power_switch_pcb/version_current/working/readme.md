@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Push-Button-Power-Switch-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_push_button_power_switch_pcb  
 (snippet of original readme)  
   
 -- Adafruit Push Button Power Switch PCB  

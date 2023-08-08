@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_csi_or_dsi_cable_extender_thingy_for_raspberry_pi  
 (snippet of original readme)  
   
 -- Adafruit CSI or DSI Cable Extender Thingy for Raspberry Pi PCB  

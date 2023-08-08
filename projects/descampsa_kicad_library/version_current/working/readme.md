@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by descampsa  
   
+oomp key: oomp_projects_flat_descampsa_kicad_library  
 (snippet of original readme)  
   
 KiCad Library  

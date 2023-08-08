@@ -1,6 +1,7 @@
 # OOMP Project  
 ## firefly2  by candykingdom  
   
+oomp key: oomp_projects_flat_candykingdom_firefly2  
 (snippet of original readme)  
   
 - Firefly2  

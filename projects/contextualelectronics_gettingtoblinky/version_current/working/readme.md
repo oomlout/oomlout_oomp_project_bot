@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GettingToBlinky  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_gettingtoblinky  
 (snippet of original readme)  
   
   

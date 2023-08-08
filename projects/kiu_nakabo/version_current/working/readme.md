@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nakabo  by kiu  
   
+oomp key: oomp_projects_flat_kiu_nakabo  
 (snippet of original readme)  
   
 [![nakabo-banner](https://raw.githubusercontent.com/kiu/nakabo/main/img/nakabo-banner-th.jpg)](https://raw.githubusercontent.com/kiu/nakabo/main/img/nakabo-banner.jpg)  

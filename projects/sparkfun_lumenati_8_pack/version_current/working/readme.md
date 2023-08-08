@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Lumenati_8-pack  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lumenati_8_pack  
 (snippet of original readme)  
   
 SparkFun Lumenati 8-pack  

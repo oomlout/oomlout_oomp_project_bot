@@ -1,6 +1,7 @@
 # OOMP Project  
 ## sh0ck-keyboard  by pelrun  
   
+oomp key: oomp_projects_flat_pelrun_sh0ck_keyboard  
 (snippet of original readme)  
   
   

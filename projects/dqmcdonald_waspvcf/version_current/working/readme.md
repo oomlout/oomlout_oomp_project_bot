@@ -1,6 +1,7 @@
 # OOMP Project  
 ## WaspVCF  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_waspvcf  
 (snippet of original readme)  
   
 - WaspVCF  

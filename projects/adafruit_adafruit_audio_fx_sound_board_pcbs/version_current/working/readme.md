@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Audio-FX-Sound-Board-PCBs  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_audio_fx_sound_board_pcbs  
 (snippet of original readme)  
   
 - Adafruit Audio FX Sound Boards PCBs  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-AR1100-Resistive-Touch-Controller-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ar1100_resistive_touch_controller_pcb  
 (snippet of original readme)  
   
 -- Adafruit AR1100 Resistive Touch Controller PCB  

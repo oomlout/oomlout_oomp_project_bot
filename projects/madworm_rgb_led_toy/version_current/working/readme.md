@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RGB_LED_TOY  by madworm  
   
+oomp key: oomp_projects_flat_madworm_rgb_led_toy  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## B-uOSD  by nppc  
   
+oomp key: oomp_projects_flat_nppc_b_uosd  
 (snippet of original readme)  
   
 - Battery voltage microOSD v1.2  

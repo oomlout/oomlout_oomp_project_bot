@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mini_tft_with_joystick_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit Mini Color TFT with Joystick FeatherWing PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TIMESQUARE-DIY-Watch-Kit  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_timesquare_diy_watch_kit  
 (snippet of original readme)  
   
 - PCB for the Adafruit TIMESQUARE DIY Watch Kit   

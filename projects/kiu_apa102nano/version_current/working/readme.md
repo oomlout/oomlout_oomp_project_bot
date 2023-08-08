@@ -1,6 +1,7 @@
 # OOMP Project  
 ## apa102nano  by kiu  
   
+oomp key: oomp_projects_flat_kiu_apa102nano  
 (snippet of original readme)  
   
 - apa102nano  

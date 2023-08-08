@@ -1,6 +1,7 @@
 # OOMP Project  
 ## step-down-powersupply  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_step_down_powersupply  
 (snippet of original readme)  
   
   

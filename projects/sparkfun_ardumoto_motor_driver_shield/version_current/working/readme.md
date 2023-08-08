@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Ardumoto-Motor_Driver_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ardumoto_motor_driver_shield  
 (snippet of original readme)  
   
 SparkFun Ardumoto - Motor Driver Shield  

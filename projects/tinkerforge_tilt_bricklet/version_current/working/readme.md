@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tilt-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_tilt_bricklet  
 (snippet of original readme)  
   
   

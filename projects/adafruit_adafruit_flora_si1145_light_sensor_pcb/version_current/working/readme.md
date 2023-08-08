@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Flora-Si1145-Light-Sensor-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_flora_si1145_light_sensor_pcb  
 (snippet of original readme)  
   
 -- Adafruit Flora Si1145 Light Sensor PCB  

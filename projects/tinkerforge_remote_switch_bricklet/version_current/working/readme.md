@@ -1,6 +1,7 @@
 # OOMP Project  
 ## remote-switch-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_remote_switch_bricklet  
 (snippet of original readme)  
   
   

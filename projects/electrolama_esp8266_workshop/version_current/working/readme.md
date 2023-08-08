@@ -1,6 +1,7 @@
 # OOMP Project  
 ## esp8266-workshop  by electrolama  
   
+oomp key: oomp_projects_flat_electrolama_esp8266_workshop  
 (snippet of original readme)  
   
 - esp8266-workshop  

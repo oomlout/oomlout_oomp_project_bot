@@ -1,6 +1,7 @@
 # OOMP Project  
 ## raspberry_pi_zero_mono_audio_out  by joem  
   
+oomp key: oomp_projects_flat_joem_raspberry_pi_zero_mono_audio_out  
 (snippet of original readme)  
   
   

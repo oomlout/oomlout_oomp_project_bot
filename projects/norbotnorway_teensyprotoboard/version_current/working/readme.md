@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TeensyProtoboard  by NorbotNorway  
   
+oomp key: oomp_projects_flat_norbotnorway_teensyprotoboard  
 (snippet of original readme)  
   
 - TeensyProtoboard  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## industrial-dual-analog-in-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_industrial_dual_analog_in_bricklet  
 (snippet of original readme)  
   
   

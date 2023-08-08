@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mech421  by Gigahawk  
   
+oomp key: oomp_projects_flat_gigahawk_mech421  
 (snippet of original readme)  
   
   

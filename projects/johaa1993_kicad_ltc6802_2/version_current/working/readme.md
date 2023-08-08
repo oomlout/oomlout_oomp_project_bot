@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCad-LTC6802-2  by johaa1993  
   
+oomp key: oomp_projects_flat_johaa1993_kicad_ltc6802_2  
 (snippet of original readme)  
   
 KiCad-LTC6802-2  

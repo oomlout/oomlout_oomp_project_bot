@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Superprobe  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_superprobe  
 (snippet of original readme)  
   
   

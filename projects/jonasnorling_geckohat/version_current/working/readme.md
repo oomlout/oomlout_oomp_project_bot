@@ -1,6 +1,7 @@
 # OOMP Project  
 ## geckohat  by JonasNorling  
   
+oomp key: oomp_projects_flat_jonasnorling_geckohat  
 (snippet of original readme)  
   
   

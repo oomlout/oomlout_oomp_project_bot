@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-32u4-Basic-Proto-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_32u4_basic_proto_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather 32u4 Basic Proto Microcontroller PCB  

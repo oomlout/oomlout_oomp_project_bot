@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ampli-bidi  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_ampli_bidi  
 (snippet of original readme)  
   
 - ampli-bidi  

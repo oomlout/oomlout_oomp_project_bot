@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bbq20kbd_hw  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_bbq20kbd_hw  
 (snippet of original readme)  
   
 - BBQ20KBD  

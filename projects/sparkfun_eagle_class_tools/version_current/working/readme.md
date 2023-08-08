@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Eagle_Class_Tools  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_eagle_class_tools  
 (snippet of original readme)  
   
 Note: to delete previous settings delete "Cadsoft" folder in "C:\Users\jim.lindblom\AppData\Roaming"  

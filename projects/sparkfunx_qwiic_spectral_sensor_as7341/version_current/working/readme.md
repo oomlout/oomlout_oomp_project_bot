@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Spectral_Sensor-AS7341  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_spectral_sensor_as7341  
 (snippet of original readme)  
   
 - Qwiic_IR_Thermometer_MLX90614  

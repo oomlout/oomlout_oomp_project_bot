@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Photon_IMU_Shield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_photon_imu_shield  
 (snippet of original readme)  
   
 SparkFun Photon IMU Shield  

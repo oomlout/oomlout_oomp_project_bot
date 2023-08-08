@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LIME2-SHIELD  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_lime2_shield  
 (snippet of original readme)  
   
 - LIME2-SHIELD  

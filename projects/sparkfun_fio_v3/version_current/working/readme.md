@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Fio_v3  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_fio_v3  
 (snippet of original readme)  
   
 Fio v3  

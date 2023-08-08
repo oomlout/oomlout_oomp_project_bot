@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LIS3DH_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lis3dh_breakout  
 (snippet of original readme)  
   
 SparkFun Triple Axis Accelerometer Breakout - LIS3DH  

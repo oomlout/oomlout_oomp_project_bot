@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Papilio_VGA_Wing  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_papilio_vga_wing  
 (snippet of original readme)  
   
 Papilio VGA Wing  

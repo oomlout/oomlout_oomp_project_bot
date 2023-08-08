@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RaspberryPi-PoE  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_raspberrypi_poe  
 (snippet of original readme)  
   
 -Nothing to see here, move along.  

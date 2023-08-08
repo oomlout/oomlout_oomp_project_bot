@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-EYESPI-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_eyespi_pcb  
 (snippet of original readme)  
   
 -- Adafruit EYESPI Breakout Board PCB  

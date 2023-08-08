@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MOD-IR-TEMP  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_mod_ir_temp  
 (snippet of original readme)  
   
 - MOD-IR-TEMP  

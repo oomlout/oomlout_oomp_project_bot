@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-I2C-QT-Rotary-Encoder-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_i2c_qt_rotary_encoder_pcb  
 (snippet of original readme)  
   
 -- Adafruit I2C QT Rotary Encoder with NeoPixel - STEMMA QT / Qwiic PCB  

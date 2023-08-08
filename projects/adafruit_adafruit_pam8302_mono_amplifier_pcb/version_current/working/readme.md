@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PAM8302-Mono-Amplifier-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pam8302_mono_amplifier_pcb  
 (snippet of original readme)  
   
 -- Adafruit PAM8302 Mono Amplifier PCB  

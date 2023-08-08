@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pot-gang  by quinkennedy  
   
+oomp key: oomp_projects_flat_quinkennedy_pot_gang  
 (snippet of original readme)  
   
   

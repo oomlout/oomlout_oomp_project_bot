@@ -1,6 +1,7 @@
 # OOMP Project  
 ## little_mobile_stm32f0  by rchojetzki  
   
+oomp key: oomp_projects_flat_rchojetzki_little_mobile_stm32f0  
 (snippet of original readme)  
   
   

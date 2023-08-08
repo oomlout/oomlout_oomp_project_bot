@@ -1,6 +1,7 @@
 # OOMP Project  
 ## oled-64x48-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_oled_64x48_bricklet  
 (snippet of original readme)  
   
   

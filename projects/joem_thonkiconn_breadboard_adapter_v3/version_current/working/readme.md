@@ -1,6 +1,7 @@
 # OOMP Project  
 ## thonkiconn_breadboard_adapter_v3  by joem  
   
+oomp key: oomp_projects_flat_joem_thonkiconn_breadboard_adapter_v3  
 (snippet of original readme)  
   
   

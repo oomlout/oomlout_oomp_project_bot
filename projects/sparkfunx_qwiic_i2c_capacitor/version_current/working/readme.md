@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_I2C_Capacitor  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_i2c_capacitor  
 (snippet of original readme)  
   
 SparkFun Qwiic Digital Capacitor  

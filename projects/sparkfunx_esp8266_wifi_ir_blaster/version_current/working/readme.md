@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP8266_WiFi_IR_Blaster  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_esp8266_wifi_ir_blaster  
 (snippet of original readme)  
   
 SparkX ESP8266 WiFi IR Blaster  

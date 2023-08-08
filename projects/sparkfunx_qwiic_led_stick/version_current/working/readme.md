@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_LED_Stick  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_led_stick  
 (snippet of original readme)  
   
 SparkFun Qwiic LED Stick  

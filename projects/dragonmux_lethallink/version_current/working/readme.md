@@ -1,6 +1,7 @@
 # OOMP Project  
 ## lethallink  by dragonmux  
   
+oomp key: oomp_projects_flat_dragonmux_lethallink  
 (snippet of original readme)  
   
 - lethallink  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ADXL335_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_adxl335_breakout  
 (snippet of original readme)  
   
 SparkFun Triple Axis Accelerometer Breakout - ADXL335  

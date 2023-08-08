@@ -1,6 +1,7 @@
 # OOMP Project  
 ## vatx  by jerome-labidurie  
   
+oomp key: oomp_projects_flat_jerome_labidurie_vatx  
 (snippet of original readme)  
   
 Simple breakoutboard to use an ATX PSU as variable PSU  

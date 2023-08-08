@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tycho  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_tycho  
 (snippet of original readme)  
   
   

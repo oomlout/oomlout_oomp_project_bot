@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-QT-5-3V-Shifter-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_qt_5_3v_shifter_pcb  
 (snippet of original readme)  
   
 -- Adafruit QT 5-3V Shifter Breakout - STEMMA QT/Qwiic PCB  

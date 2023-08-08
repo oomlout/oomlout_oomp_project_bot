@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CH340G-MB  by rocketscream  
   
+oomp key: oomp_projects_flat_rocketscream_ch340g_mb  
 (snippet of original readme)  
   
 - WCH CH340G USB-Serial Adapter Board  

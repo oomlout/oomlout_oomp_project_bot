@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AjoloteBoard  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_ajoloteboard  
 (snippet of original readme)  
   
 View this project on [CADLAB.io](https://cadlab.io/project/1720).   

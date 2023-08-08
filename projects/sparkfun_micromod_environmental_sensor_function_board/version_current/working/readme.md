@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Environmental_Sensor_Function_Board  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_environmental_sensor_function_board  
 (snippet of original readme)  
   
 SparkFun MicroMod Environmental Sensor Function Board  

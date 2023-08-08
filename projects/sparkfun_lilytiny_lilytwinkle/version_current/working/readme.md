@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyTiny_LilyTwinkle  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilytiny_lilytwinkle  
 (snippet of original readme)  
   
 LilyTiny / LilyTwinkle  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_LED_Rainbow  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_led_rainbow  
 (snippet of original readme)  
   
 LilyPad LED Rainbow Board  

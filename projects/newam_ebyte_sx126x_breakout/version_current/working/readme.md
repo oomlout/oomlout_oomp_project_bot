@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ebyte_sx126x_breakout  by newAM  
   
+oomp key: oomp_projects_flat_newam_ebyte_sx126x_breakout  
 (snippet of original readme)  
   
 - ebyte SX126x Breakout Board  

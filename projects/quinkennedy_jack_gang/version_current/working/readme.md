@@ -1,6 +1,7 @@
 # OOMP Project  
 ## jack-gang  by quinkennedy  
   
+oomp key: oomp_projects_flat_quinkennedy_jack_gang  
 (snippet of original readme)  
   
   

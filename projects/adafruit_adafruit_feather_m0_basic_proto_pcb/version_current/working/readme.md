@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-M0-Basic-Proto-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_m0_basic_proto_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather M0 Basic Proto PCB  

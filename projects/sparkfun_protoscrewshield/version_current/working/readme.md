@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ProtoScrewShield  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_protoscrewshield  
 (snippet of original readme)  
   
  ProtoScrewShield  

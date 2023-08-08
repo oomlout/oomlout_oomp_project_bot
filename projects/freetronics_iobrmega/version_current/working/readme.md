@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IOBRMEGA  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_iobrmega  
 (snippet of original readme)  
   
 I/O Breakout Shield (Mega)  

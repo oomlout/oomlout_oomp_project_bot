@@ -1,6 +1,7 @@
 # OOMP Project  
 ## hub75shifter  by kiu  
   
+oomp key: oomp_projects_flat_kiu_hub75shifter  
 (snippet of original readme)  
   
 - hub75shifter  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IRRX  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_irrx  
 (snippet of original readme)  
   
   

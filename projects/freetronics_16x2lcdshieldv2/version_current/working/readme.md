@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 16x2LCDShieldv2  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_16x2lcdshieldv2  
 (snippet of original readme)  
   
 Freetronics 16x2 LCD Shield  

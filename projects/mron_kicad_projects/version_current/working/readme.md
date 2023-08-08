@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad_projects  by mron  
   
+oomp key: oomp_projects_flat_mron_kicad_projects  
 (snippet of original readme)  
   
 - kicad_project  

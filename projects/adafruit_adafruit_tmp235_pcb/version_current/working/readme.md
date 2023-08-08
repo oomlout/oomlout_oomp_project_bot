@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TMP235-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tmp235_pcb  
 (snippet of original readme)  
   
 -- Adafruit TMP235 Plug-and-Play STEMMA Analog Temperature Sensor PCB  

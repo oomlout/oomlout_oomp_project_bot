@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-L3GD20-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_l3gd20_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit L3GD20H Triple-Axis Gyro Breakout Board PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AVR-method  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_avr_method  
 (snippet of original readme)  
   
 - AVR-method A KiCAD Library Standard  

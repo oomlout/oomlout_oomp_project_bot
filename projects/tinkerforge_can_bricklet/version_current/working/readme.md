@@ -1,6 +1,7 @@
 # OOMP Project  
 ## can-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_can_bricklet  
 (snippet of original readme)  
   
   

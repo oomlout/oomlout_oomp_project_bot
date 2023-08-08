@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Menta-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_menta_pcb  
 (snippet of original readme)  
   
 - Adafruit MENTA  

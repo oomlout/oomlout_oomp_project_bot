@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Nichrome_TCA  by imciner2  
   
+oomp key: oomp_projects_flat_imciner2_nichrome_tca  
 (snippet of original readme)  
   
 - Nichrome_TCA  

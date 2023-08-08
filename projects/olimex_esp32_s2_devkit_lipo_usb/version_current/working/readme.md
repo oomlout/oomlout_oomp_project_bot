@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32-S2-DevKit-LiPo-USB  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_esp32_s2_devkit_lipo_usb  
 (snippet of original readme)  
   
 - ESP32-S2-DevKit-LiPo-USB  

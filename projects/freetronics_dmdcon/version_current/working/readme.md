@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DMDCon  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_dmdcon  
 (snippet of original readme)  
   
 Freetronics DMDCon  

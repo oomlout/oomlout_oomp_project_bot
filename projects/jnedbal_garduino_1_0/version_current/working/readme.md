@@ -1,6 +1,7 @@
 # OOMP Project  
 ## garduino_1_0  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_garduino_1_0  
 (snippet of original readme)  
   
   

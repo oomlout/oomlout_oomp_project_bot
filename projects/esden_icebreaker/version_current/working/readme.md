@@ -1,6 +1,7 @@
 # OOMP Project  
 ## icebreaker  by esden  
   
+oomp key: oomp_projects_flat_esden_icebreaker  
 (snippet of original readme)  
   
 - iCEBreaker FPGA  

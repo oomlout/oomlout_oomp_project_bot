@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkFun_ESP32_Thing_Plus_C  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkfun_esp32_thing_plus_c  
 (snippet of original readme)  
   
 SparkFun ESP32 Thing Plus C  

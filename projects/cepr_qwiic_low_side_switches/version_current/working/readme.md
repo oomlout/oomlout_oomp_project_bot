@@ -1,6 +1,7 @@
 # OOMP Project  
 ## qwiic_low_side_switches  by cepr  
   
+oomp key: oomp_projects_flat_cepr_qwiic_low_side_switches  
 (snippet of original readme)  
   
   

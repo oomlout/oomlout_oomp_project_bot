@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M912  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m912  
 (snippet of original readme)  
   
 M912  

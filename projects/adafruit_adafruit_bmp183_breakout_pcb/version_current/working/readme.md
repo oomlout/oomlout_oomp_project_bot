@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-BMP183-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bmp183_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit BMP183 Breakout PCB (Discontinued)  

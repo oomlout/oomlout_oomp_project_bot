@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Analog_Digital_MUX_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_analog_digital_mux_breakout  
 (snippet of original readme)  
   
 Analog/Digital MUX Breakout  

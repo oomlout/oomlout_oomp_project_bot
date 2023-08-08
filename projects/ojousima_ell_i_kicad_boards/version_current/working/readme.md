@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ELL-i-KiCAD-Boards  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_ell_i_kicad_boards  
 (snippet of original readme)  
   
 - ELL-i-KiCAD-Boards  

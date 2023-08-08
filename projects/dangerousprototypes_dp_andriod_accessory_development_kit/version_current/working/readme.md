@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DP_Andriod_Accessory_Development_Kit  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_dp_andriod_accessory_development_kit  
 (snippet of original readme)  
   
   

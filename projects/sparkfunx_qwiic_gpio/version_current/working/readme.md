@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_GPIO  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_gpio  
 (snippet of original readme)  
   
 SparkX Qwiic GPIO  

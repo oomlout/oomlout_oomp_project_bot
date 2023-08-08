@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Audio-Sound_Breakout-WTV020SD  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_audio_sound_breakout_wtv020sd  
 (snippet of original readme)  
   
 **NOTE:** *This product has been retired from our catalog. For alternatives, try looking at the following products from the [Audio boards](https://www.sparkfun.com/categories/343):*  

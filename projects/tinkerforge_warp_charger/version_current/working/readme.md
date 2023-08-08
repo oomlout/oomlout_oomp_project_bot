@@ -1,6 +1,7 @@
 # OOMP Project  
 ## warp-charger  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_warp_charger  
 (snippet of original readme)  
   
   

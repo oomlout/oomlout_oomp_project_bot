@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LEOPAD  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_leopad  
 (snippet of original readme)  
   
 Freetronics LeoPad  

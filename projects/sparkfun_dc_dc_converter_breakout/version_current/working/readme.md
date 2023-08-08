@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DC-DC_Converter_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_dc_dc_converter_breakout  
 (snippet of original readme)  
   
 SparkFun DC/DC Converter Breakout  

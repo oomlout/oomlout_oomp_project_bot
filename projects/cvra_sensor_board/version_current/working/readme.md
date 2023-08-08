@@ -1,6 +1,7 @@
 # OOMP Project  
 ## sensor-board  by cvra  
   
+oomp key: oomp_projects_flat_cvra_sensor_board  
 (snippet of original readme)  
   
   

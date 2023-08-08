@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DS3502-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ds3502_pcb  
 (snippet of original readme)  
   
 -- Adafruit DS3502 I2C Digital 10K Potentiometer  PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## smdboard  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_smdboard  
 (snippet of original readme)  
   
   

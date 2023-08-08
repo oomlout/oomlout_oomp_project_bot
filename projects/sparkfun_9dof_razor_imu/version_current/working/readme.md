@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 9DOF_Razor_IMU  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_9dof_razor_imu  
 (snippet of original readme)  
   
 SparkFun 9DoF Razor IMU M0  

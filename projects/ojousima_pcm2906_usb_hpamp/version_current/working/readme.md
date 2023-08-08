@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PCM2906-usb-hpamp  by ojousima  
   
+oomp key: oomp_projects_flat_ojousima_pcm2906_usb_hpamp  
 (snippet of original readme)  
   
 PCM2906-usb-hpamp  

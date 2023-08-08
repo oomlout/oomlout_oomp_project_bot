@@ -1,6 +1,7 @@
 # OOMP Project  
 ## tng-ao-4u-4i  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_tng_ao_4u_4i  
 (snippet of original readme)  
   
   

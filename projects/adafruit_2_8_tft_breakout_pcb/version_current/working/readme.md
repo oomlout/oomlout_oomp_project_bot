@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 2.8-TFT-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_2_8_tft_breakout_pcb  
 (snippet of original readme)  
   
 - 2.8" TFT LCD Display Breakout PCBs  

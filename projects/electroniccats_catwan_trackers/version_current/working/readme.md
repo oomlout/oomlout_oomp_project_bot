@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatWAN_Trackers  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catwan_trackers  
 (snippet of original readme)  
   
 - LoRa CatTrack Zero  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## differential_lna  by PatrickBaus  
   
+oomp key: oomp_projects_flat_patrickbaus_differential_lna  
 (snippet of original readme)  
   
 Low Noise Differential Amplifier  

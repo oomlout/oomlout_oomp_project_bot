@@ -1,6 +1,7 @@
 # OOMP Project  
 ## atreus  by naturesyouth  
   
+oomp key: oomp_projects_flat_naturesyouth_atreus  
 (snippet of original readme)  
   
   

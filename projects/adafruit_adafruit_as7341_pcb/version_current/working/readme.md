@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-AS7341-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_as7341_pcb  
 (snippet of original readme)  
   
 -- Adafruit AS7341 10-Channel Light / Color Breakout PCB  

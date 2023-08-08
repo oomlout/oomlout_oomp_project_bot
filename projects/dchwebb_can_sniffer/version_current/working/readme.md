@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CAN_Sniffer  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_can_sniffer  
 (snippet of original readme)  
   
 - CAN_Sniffer  

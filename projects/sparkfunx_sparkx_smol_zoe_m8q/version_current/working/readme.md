@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX_smol_ZOE-M8Q  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_smol_zoe_m8q  
 (snippet of original readme)  
   
 - SparkX smôl ZOE-M8Q  

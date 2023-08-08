@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bmek  by TahuTech  
   
+oomp key: oomp_projects_flat_tahutech_bmek  
 (snippet of original readme)  
   
 - Hardware for BMEK - Bemeier Ergonomic Keyboard  

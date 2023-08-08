@@ -1,6 +1,7 @@
 # OOMP Project  
 ## One-Inch-Photodetector  by aewallin  
   
+oomp key: oomp_projects_flat_aewallin_one_inch_photodetector  
 (snippet of original readme)  
   
 - One-Inch-Photodetector  

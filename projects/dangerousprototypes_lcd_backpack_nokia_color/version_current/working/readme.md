@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LCD_Backpack_Nokia_color  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_lcd_backpack_nokia_color  
 (snippet of original readme)  
   
   

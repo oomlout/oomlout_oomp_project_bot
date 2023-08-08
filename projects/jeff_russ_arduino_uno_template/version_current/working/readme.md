@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Arduino_Uno_Template  by Jeff-Russ  
   
+oomp key: oomp_projects_flat_jeff_russ_arduino_uno_template  
 (snippet of original readme)  
   
 - Arduino Uno Kicad Template  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## central-power-board  by cvra  
   
+oomp key: oomp_projects_flat_cvra_central_power_board  
 (snippet of original readme)  
   
   

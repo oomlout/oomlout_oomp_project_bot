@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ltc2991-dev-board  by nellump  
   
+oomp key: oomp_projects_flat_nellump_ltc2991_dev_board  
 (snippet of original readme)  
   
   

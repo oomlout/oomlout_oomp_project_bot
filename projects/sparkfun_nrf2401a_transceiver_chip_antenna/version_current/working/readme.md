@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nRF2401A_Transceiver-Chip_Antenna  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_nrf2401a_transceiver_chip_antenna  
 (snippet of original readme)  
   
 nRF2401A Transceiver - Chip Antenna  

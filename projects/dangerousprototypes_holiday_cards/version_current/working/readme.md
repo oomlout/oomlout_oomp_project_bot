@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Holiday_Cards  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_holiday_cards  
 (snippet of original readme)  
   
   

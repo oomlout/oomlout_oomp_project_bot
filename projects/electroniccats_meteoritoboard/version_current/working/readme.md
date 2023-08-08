@@ -1,6 +1,7 @@
 # OOMP Project  
 ## meteoritoboard  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_meteoritoboard  
 (snippet of original readme)  
   
 - Meteorito Board  

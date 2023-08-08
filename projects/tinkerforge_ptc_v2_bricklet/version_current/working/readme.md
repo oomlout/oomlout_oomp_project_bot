@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ptc-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_ptc_v2_bricklet  
 (snippet of original readme)  
   
   

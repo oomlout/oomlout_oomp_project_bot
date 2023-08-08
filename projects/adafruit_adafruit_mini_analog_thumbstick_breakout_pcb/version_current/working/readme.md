@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Mini-Analog-Thumbstick-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mini_analog_thumbstick_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit Mini Analog Thumbstick Breakout PCB  

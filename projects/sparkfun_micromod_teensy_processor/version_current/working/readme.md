@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Teensy_Processor  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_teensy_processor  
 (snippet of original readme)  
   
 SparkFun MicroMod Teensy Processor Board   

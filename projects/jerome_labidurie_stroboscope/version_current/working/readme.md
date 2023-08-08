@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Stroboscope  by jerome-labidurie  
   
+oomp key: oomp_projects_flat_jerome_labidurie_stroboscope  
 (snippet of original readme)  
   
 - Stroboscope  

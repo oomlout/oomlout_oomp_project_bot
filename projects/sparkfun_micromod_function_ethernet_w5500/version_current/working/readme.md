@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Function_Ethernet-W5500  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_function_ethernet_w5500  
 (snippet of original readme)  
   
 SparkFun MicroMod Ethernet Function Board - W5500  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-keyboard-parts.pretty  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_kicad_keyboard_parts_pretty  
 (snippet of original readme)  
   
 - kicad-keyboard-parts.pretty  

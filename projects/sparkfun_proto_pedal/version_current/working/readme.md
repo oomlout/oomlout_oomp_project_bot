@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Proto_Pedal  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_proto_pedal  
 (snippet of original readme)  
   
 SparkFun Proto Pedal  

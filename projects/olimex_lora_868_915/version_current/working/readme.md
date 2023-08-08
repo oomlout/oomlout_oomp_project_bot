@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LoRa-868-915  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_lora_868_915  
 (snippet of original readme)  
   
 - LoRa868 / LoRa915 / MOD-LoRa868 / MOD-LoRa915  

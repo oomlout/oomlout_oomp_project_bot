@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Si5351A-Clock-Generator-with-STEMMA-QT-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_si5351a_clock_generator_with_stemma_qt_pcb  
 (snippet of original readme)  
   
 -- Adafruit Adafruit Si5351A Clock Generator with STEMMA QT 8KHz to 160MHz PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## AD5330_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ad5330_breakout  
 (snippet of original readme)  
   
 SparkFun AD5330 Breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TinyDiversityRX5808  by nppc  
   
+oomp key: oomp_projects_flat_nppc_tinydiversityrx5808  
 (snippet of original readme)  
   
 - Tiny 5.8GHz Diversity VRX for EV100 Goggles  

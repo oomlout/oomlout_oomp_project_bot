@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FDL-3-Blaster  by aaarsene  
   
+oomp key: oomp_projects_flat_aaarsene_fdl_3_blaster  
 (snippet of original readme)  
   
 [![](http://webapp.projectfdl.com/img/FDL%20Logo%20Tiny.png)](https://www.projectfdl.com)  

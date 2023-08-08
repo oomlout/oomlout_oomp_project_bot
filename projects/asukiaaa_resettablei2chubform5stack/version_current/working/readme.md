@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ResettableI2CHubForM5Stack  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_resettablei2chubform5stack  
 (snippet of original readme)  
   
 - ResettableI2CHubForM5Stack  

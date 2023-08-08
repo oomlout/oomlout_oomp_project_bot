@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Funky-Cornes  by Alasofia  
   
+oomp key: oomp_projects_flat_alasofia_funky_cornes  
 (snippet of original readme)  
   
   

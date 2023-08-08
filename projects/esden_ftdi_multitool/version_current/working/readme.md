@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ftdi-multitool  by esden  
   
+oomp key: oomp_projects_flat_esden_ftdi_multitool  
 (snippet of original readme)  
   
 This repository contains hardware designs for an FTDI FT232H based multi purpose tool.  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ArduSatArduinoAdapterModule  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_ardusatarduinoadaptermodule  
 (snippet of original readme)  
   
 Freetronics ArduSat Arduino Adapter Module  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-USB-Power-Gauge-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_usb_power_gauge_pcb  
 (snippet of original readme)  
   
 -- Adafruit USB Power Gauge PCB (Discontinued)  

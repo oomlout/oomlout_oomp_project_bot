@@ -1,6 +1,7 @@
 # OOMP Project  
 ## DevBoard_NCP1090  by newAM  
   
+oomp key: oomp_projects_flat_newam_devboard_ncp1090  
 (snippet of original readme)  
   
 -- NCP1090 802.3af PoE Development board  

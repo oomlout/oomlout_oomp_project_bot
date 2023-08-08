@@ -1,6 +1,7 @@
 # OOMP Project  
 ## industrial-counter-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_industrial_counter_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rpi-can  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_rpi_can  
 (snippet of original readme)  
   
 - Libre Solar CAN interface for Raspberry Pi (Zero W)  

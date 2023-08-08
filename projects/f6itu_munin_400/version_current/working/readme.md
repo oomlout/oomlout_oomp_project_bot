@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Munin-400  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_munin_400  
 (snippet of original readme)  
   
 - Munin 400  

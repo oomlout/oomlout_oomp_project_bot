@@ -1,6 +1,7 @@
 # OOMP Project  
 ## wherkin  by notsockx  
   
+oomp key: oomp_projects_flat_notsockx_wherkin  
 (snippet of original readme)  
   
 - wherkin  

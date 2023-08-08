@@ -1,6 +1,7 @@
 # OOMP Project  
 ## microc  by notsockx  
   
+oomp key: oomp_projects_flat_notsockx_microc  
 (snippet of original readme)  
   
 - microc  

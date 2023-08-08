@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32-S2_Thing_Plus  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_esp32_s2_thing_plus  
 (snippet of original readme)  
   
 SparkFun ESP32-S2 Thing Plus  

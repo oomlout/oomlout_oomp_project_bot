@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OLEDInterface  by nppc  
   
+oomp key: oomp_projects_flat_nppc_oledinterface  
 (snippet of original readme)  
   
 - OLEDInterface  

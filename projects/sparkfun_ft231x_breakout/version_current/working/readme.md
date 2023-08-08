@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FT231X_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ft231x_breakout  
 (snippet of original readme)  
   
 FT231X Breakout  

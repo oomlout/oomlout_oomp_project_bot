@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MidiMonger  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_midimonger  
 (snippet of original readme)  
   
 - MidiMonger  

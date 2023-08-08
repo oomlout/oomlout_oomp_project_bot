@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-APDS9960-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_apds9960_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit APDS9960 Breakout PCB  

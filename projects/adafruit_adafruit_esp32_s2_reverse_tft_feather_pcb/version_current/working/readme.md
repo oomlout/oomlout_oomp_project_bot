@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ESP32-S2-Reverse-TFT-Feather-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_esp32_s2_reverse_tft_feather_pcb  
 (snippet of original readme)  
   
 -- Adafruit ESP32-S2 Reverse TFT Feather PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rpi-rgb-led-matrix  by TDHolmes  
   
+oomp key: oomp_projects_flat_tdholmes_rpi_rgb_led_matrix  
 (snippet of original readme)  
   
 Controlling RGB LED display with Raspberry Pi GPIO  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_128x64_oled_bonnet_for_raspberry_pi_pcb  
 (snippet of original readme)  
   
 -- Adafruit 128x64 OLED Bonnet for Raspberry Pi PCB  

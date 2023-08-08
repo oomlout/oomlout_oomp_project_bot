@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Joule_Thief  by nightmechanic  
   
+oomp key: oomp_projects_flat_nightmechanic_joule_thief  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Alexiares_Coax_Out  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_alexiares_coax_out  
 (snippet of original readme)  
   
 - Alexiares_Coax_Out Master  

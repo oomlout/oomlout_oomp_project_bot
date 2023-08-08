@@ -1,6 +1,7 @@
 # OOMP Project  
 ## compass-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_compass_bricklet  
 (snippet of original readme)  
   
   

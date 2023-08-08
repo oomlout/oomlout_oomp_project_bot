@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IBBC_0001  by oomlout  
   
+oomp key: oomp_projects_flat_oomlout_ibbc_0001  
 (snippet of original readme)  
   
 - IBBC - 0001 - ADXL345 Breakout    

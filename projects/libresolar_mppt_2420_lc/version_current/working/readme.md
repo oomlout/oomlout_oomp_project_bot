@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mppt-2420-lc  by LibreSolar  
   
+oomp key: oomp_projects_flat_libresolar_mppt_2420_lc  
 (snippet of original readme)  
   
 - MPPT Charger 20A  

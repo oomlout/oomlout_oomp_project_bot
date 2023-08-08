@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SelWX  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_selwx  
 (snippet of original readme)  
   
   

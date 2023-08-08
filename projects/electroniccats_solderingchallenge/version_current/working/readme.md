@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SolderingChallenge  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_solderingchallenge  
 (snippet of original readme)  
   
 Introduction  

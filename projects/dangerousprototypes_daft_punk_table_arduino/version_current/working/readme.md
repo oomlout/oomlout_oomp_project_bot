@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Daft_Punk_Table_Arduino  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_daft_punk_table_arduino  
 (snippet of original readme)  
   
   

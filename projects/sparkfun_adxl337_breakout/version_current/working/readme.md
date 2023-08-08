@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ADXL337_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_adxl337_breakout  
 (snippet of original readme)  
   
 ADXL337 Breakout  

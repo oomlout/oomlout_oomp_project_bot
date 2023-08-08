@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Music-Maker-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_music_maker_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit Music Maker FeatherWing PCB  

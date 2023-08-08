@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkFun-KiCad-Libraries  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_sparkfun_kicad_libraries  
 (snippet of original readme)  
   
 SparkFun Electronics KiCad Libraries  

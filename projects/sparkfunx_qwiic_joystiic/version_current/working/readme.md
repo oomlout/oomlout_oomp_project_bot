@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Joystiic  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_joystiic  
 (snippet of original readme)  
   
 - Qwiic_Joystiic  

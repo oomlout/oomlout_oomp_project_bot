@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RPi_Hat_Template  by devbisme  
   
+oomp key: oomp_projects_flat_devbisme_rpi_hat_template  
 (snippet of original readme)  
   
 % RPi B+ Hat  

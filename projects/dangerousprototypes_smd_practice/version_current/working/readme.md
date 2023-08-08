@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SMD_Practice  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_smd_practice  
 (snippet of original readme)  
   
   

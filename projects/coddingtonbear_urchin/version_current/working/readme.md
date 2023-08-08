@@ -1,6 +1,7 @@
 # OOMP Project  
 ## urchin  by coddingtonbear  
   
+oomp key: oomp_projects_flat_coddingtonbear_urchin  
 (snippet of original readme)  
   
 - Urchin: Atmel Programmer with onboard 8-pin ATTiny pad  

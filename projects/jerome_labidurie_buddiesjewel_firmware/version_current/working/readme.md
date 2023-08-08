@@ -1,6 +1,7 @@
 # OOMP Project  
 ## buddiesjewel_firmware  by jerome-labidurie  
   
+oomp key: oomp_projects_flat_jerome_labidurie_buddiesjewel_firmware  
 (snippet of original readme)  
   
 buddiesjewel_firmware  

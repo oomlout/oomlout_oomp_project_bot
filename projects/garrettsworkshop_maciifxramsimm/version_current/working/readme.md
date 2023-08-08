@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MacIIfxRAMSIMM  by garrettsworkshop  
   
+oomp key: oomp_projects_flat_garrettsworkshop_maciifxramsimm  
 (snippet of original readme)  
   
   

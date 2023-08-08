@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ATtinyx16-Breakouts-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_attinyx16_breakouts_pcb  
 (snippet of original readme)  
   
 -- Adafruit ATtinyx16 Breakouts with seesaw - STEMMA QT / Qwiic PCB  

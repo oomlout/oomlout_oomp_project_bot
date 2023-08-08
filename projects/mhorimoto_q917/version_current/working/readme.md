@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Q917  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_q917  
 (snippet of original readme)  
   
 - Q917  

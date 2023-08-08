@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LiPo_Charger_Booster_5V_1A  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lipo_charger_booster_5v_1a  
 (snippet of original readme)  
   
 SparkFun LiPo Charger/Booster - 5V/1A  

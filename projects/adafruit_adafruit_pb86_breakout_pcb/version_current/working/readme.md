@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PB86-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pb86_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit PB86 Step Switch Breakout-Friendly Breakout PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Budget96-Kicad-Files  by DonutCables  
   
+oomp key: oomp_projects_flat_donutcables_budget96_kicad_files  
 (snippet of original readme)  
   
 - Budget96-Kicad-Files  

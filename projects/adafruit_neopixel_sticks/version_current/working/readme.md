@@ -1,6 +1,7 @@
 # OOMP Project  
 ## NeoPixel-Sticks  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_neopixel_sticks  
 (snippet of original readme)  
   
 - NeoPixel Stick  

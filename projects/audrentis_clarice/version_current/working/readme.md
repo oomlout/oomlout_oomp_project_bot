@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Clarice  by audrentis  
   
+oomp key: oomp_projects_flat_audrentis_clarice  
 (snippet of original readme)  
   
 - Clarice-F103  

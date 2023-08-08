@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Learning_System_Guides  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_learning_system_guides  
 (snippet of original readme)  
   
 [![Build Status](https://travis-ci.com/adafruit/Adafruit_Learning_System_Guides.svg?branch=main)](https://travis-ci.com/adafruit/Adafruit_Learning_System_Guides)  

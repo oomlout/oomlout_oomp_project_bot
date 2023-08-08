@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Purpletooth_Jamboree  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_purpletooth_jamboree  
 (snippet of original readme)  
   
 Purpletooth Jamboree Development Board  

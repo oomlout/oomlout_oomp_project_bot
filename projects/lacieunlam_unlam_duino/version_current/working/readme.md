@@ -1,6 +1,7 @@
 # OOMP Project  
 ## UNLaM-duino  by LacieUnlam  
   
+oomp key: oomp_projects_flat_lacieunlam_unlam_duino  
 (snippet of original readme)  
   
 - UNLaM-duino  

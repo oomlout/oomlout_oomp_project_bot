@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bluefruit_le_usb_friend_and_sniffer_pcb  
 (snippet of original readme)  
   
 -- Adafruit Bluefruit LE USB Friend and Sniffer  

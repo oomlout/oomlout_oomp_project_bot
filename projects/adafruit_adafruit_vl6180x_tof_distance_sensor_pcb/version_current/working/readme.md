@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-VL6180X-ToF-Distance-Sensor-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_vl6180x_tof_distance_sensor_pcb  
 (snippet of original readme)  
   
 -- Adafruit VL6180X ToF Distance Sensor PCB  

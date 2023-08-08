@@ -1,6 +1,7 @@
 # OOMP Project  
 ## glasgow-addons  by esden  
   
+oomp key: oomp_projects_flat_esden_glasgow_addons  
 (snippet of original readme)  
   
   

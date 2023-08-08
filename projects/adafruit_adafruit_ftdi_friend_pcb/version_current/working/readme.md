@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_FTDI-Friend-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ftdi_friend_pcb  
 (snippet of original readme)  
   
 - Adafruit FTDI Friend  

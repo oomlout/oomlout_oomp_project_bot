@@ -1,6 +1,7 @@
 # OOMP Project  
 ## I2cControlPanel  by asukiaaa  
   
+oomp key: oomp_projects_flat_asukiaaa_i2ccontrolpanel  
 (snippet of original readme)  
   
 - I2cControlPanel  

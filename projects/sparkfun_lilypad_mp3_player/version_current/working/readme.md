@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LilyPad_MP3_Player  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_lilypad_mp3_player  
 (snippet of original readme)  
   
 SparkFun LilyPad MP3  

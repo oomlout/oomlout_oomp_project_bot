@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SST80  by Alasofia  
   
+oomp key: oomp_projects_flat_alasofia_sst80  
 (snippet of original readme)  
   
 - SST80  

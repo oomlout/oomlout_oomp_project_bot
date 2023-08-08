@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Wing_CurrentSensor  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_wing_currentsensor  
 (snippet of original readme)  
   
 - Wing Current Sensor  

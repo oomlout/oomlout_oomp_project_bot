@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoPixel-Jewel-7  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neopixel_jewel_7  
 (snippet of original readme)  
   
 - Adafruit NeoPixel Jewel containing 7 NeoPixels  

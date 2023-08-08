@@ -1,6 +1,7 @@
 # OOMP Project  
 ## split_EC  by bsakatu  
   
+oomp key: oomp_projects_flat_bsakatu_split_ec  
 (snippet of original readme)  
   
   

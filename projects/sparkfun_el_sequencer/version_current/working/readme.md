@@ -1,6 +1,7 @@
 # OOMP Project  
 ## EL_Sequencer  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_el_sequencer  
 (snippet of original readme)  
   
 EL Sequencer  

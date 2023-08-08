@@ -1,6 +1,7 @@
 # OOMP Project  
 ## bitmagic  by esden  
   
+oomp key: oomp_projects_flat_esden_bitmagic  
 (snippet of original readme)  
   
 This repository contains files related to the BitMagic hardware.  

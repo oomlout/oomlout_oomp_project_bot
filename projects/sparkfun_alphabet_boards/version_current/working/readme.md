@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Alphabet_Boards  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_alphabet_boards  
 (snippet of original readme)  
   
 Alphabet Boards  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## logic_adapters  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_logic_adapters  
 (snippet of original readme)  
   
 - Adapter PCBs for Saleae Logic  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## cynthion-hardware  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_cynthion_hardware  
 (snippet of original readme)  
   
 - Cynthion: hardware design for a USB test instrument  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## shichi-pcb  by FateNozomi  
   
+oomp key: oomp_projects_flat_fatenozomi_shichi_pcb  
 (snippet of original readme)  
   
   

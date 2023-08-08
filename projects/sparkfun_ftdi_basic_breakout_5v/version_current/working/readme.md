@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FTDI_Basic_Breakout-5V  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ftdi_basic_breakout_5v  
 (snippet of original readme)  
   
 SparkFun FTDI Basic Breakout-5V  

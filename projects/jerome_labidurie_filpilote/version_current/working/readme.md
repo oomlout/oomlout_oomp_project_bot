@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FilPilote  by jerome-labidurie  
   
+oomp key: oomp_projects_flat_jerome_labidurie_filpilote  
 (snippet of original readme)  
   
   

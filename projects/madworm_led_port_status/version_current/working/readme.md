@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED_port-status  by madworm  
   
+oomp key: oomp_projects_flat_madworm_led_port_status  
 (snippet of original readme)  
   
   

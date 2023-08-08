@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Ambient_Light_Sensor_Breakout-TEMT6000  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ambient_light_sensor_breakout_temt6000  
 (snippet of original readme)  
   
 SparkFun Ambient Light Sensor Breakout Board - TEMT6000  

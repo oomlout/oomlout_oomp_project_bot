@@ -1,6 +1,7 @@
 # OOMP Project  
 ## mupi-fusebox  by imuli  
   
+oomp key: oomp_projects_flat_imuli_mupi_fusebox  
 (snippet of original readme)  
   
 - μπ fusebox  

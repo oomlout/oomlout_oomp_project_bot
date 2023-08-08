@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MicroLipo-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_microlipo_pcb  
 (snippet of original readme)  
   
 - Adafruit MicroLipo and MiniLipo Charging Boards/Backpacks  

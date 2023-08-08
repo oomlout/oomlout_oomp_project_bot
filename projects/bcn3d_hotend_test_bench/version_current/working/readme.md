@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Hotend-Test-Bench  by BCN3D  
   
+oomp key: oomp_projects_flat_bcn3d_hotend_test_bench  
 (snippet of original readme)  
   
 - Hotend test bench  

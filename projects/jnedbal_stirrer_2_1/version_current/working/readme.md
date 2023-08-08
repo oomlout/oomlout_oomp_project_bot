@@ -1,6 +1,7 @@
 # OOMP Project  
 ## stirrer_2_1  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_stirrer_2_1  
 (snippet of original readme)  
   
   

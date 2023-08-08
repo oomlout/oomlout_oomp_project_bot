@@ -1,6 +1,7 @@
 # OOMP Project  
 ## BomberCat  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_bombercat  
 (snippet of original readme)  
   
 - BomberCat  

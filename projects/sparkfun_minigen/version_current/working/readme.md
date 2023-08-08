@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MiniGen  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_minigen  
 (snippet of original readme)  
   
 SparkFun MiniGen - Pro Mini Signal Generator Shield  

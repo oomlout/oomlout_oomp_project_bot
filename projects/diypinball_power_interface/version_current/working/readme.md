@@ -1,6 +1,7 @@
 # OOMP Project  
 ## power-interface  by diypinball  
   
+oomp key: oomp_projects_flat_diypinball_power_interface  
 (snippet of original readme)  
   
 - power-interface  

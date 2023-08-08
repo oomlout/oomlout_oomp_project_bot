@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Machine_Learning_Carrier  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micromod_machine_learning_carrier  
 (snippet of original readme)  
   
 SparkFun MicroMod Machine Learning Carrier Board  

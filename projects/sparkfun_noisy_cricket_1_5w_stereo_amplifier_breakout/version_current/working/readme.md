@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_noisy_cricket_1_5w_stereo_amplifier_breakout  
 (snippet of original readme)  
   
 SparkFun Noisy Cricket Stereo Amplifier - 1.5W  

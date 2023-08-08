@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Onda  by adamjvr  
   
+oomp key: oomp_projects_flat_adamjvr_onda  
 (snippet of original readme)  
   
 - Onda  

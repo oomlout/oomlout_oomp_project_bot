@@ -1,6 +1,7 @@
 # OOMP Project  
 ## spinnyBee-PCB  by barafael  
   
+oomp key: oomp_projects_flat_barafael_spinnybee_pcb  
 (snippet of original readme)  
   
 - spinnyBee-PCB  

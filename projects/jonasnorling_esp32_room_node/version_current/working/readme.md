@@ -1,6 +1,7 @@
 # OOMP Project  
 ## esp32_room_node  by JonasNorling  
   
+oomp key: oomp_projects_flat_jonasnorling_esp32_room_node  
 (snippet of original readme)  
   
   

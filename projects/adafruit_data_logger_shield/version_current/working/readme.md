@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Data-Logger-shield  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_data_logger_shield  
 (snippet of original readme)  
   
 Adafruit Data Logger Shield PCB  

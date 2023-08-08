@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LCD_Backpack_FT232_Universal  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_lcd_backpack_ft232_universal  
 (snippet of original readme)  
   
   

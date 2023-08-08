@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CP2102_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_cp2102_breakout  
 (snippet of original readme)  
   
 CP2102 USB to Serial Breakout Board  

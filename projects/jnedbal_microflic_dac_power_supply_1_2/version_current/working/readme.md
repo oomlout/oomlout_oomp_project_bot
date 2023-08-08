@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroFLiC_DAC_power_supply_1_2  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_microflic_dac_power_supply_1_2  
 (snippet of original readme)  
   
   

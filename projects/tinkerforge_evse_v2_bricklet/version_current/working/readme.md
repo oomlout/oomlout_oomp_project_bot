@@ -1,6 +1,7 @@
 # OOMP Project  
 ## evse-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_evse_v2_bricklet  
 (snippet of original readme)  
   
   

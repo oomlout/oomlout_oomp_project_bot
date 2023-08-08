@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Joystick_Shield_Kit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_joystick_shield_kit  
 (snippet of original readme)  
   
 SparkFun Joystick Shield Kit  

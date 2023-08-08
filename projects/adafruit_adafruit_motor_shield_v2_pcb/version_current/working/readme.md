@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Motor-Shield-V2-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_motor_shield_v2_pcb  
 (snippet of original readme)  
   
 -- Adafruit Motor Shield V2 PCB  

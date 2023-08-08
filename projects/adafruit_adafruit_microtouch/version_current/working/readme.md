@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_Microtouch  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_microtouch  
 (snippet of original readme)  
   
 - Microtouch - AVR development board with 2.8" TFT Touch Screen  

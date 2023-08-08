@@ -1,6 +1,7 @@
 # OOMP Project  
 ## divergence_meter  by q61org  
   
+oomp key: oomp_projects_flat_q61org_divergence_meter  
 (snippet of original readme)  
   
 ﻿- Divergence Meter Project (by q61.org)  

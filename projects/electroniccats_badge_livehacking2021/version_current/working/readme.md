@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Badge-LiveHacking2021  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_badge_livehacking2021  
 (snippet of original readme)  
   
 - Badge LiveHacking 2021  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ChibiAmp  by rocketman768  
   
+oomp key: oomp_projects_flat_rocketman768_chibiamp  
 (snippet of original readme)  
   
 - ChibiAmp  

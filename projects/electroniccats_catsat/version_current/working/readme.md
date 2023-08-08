@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatSat  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catsat  
 (snippet of original readme)  
   
 - CatSat I  

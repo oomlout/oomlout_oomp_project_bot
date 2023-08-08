@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HABET_Burner  by imciner2  
   
+oomp key: oomp_projects_flat_imciner2_habet_burner  
 (snippet of original readme)  
   
 HABET_Burner  

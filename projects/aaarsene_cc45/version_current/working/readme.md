@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CC45  by aaarsene  
   
+oomp key: oomp_projects_flat_aaarsene_cc45  
 (snippet of original readme)  
   
 - CC45  

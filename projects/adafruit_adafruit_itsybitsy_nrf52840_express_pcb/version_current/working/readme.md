@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ItsyBitsy-nRF52840-Express-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_itsybitsy_nrf52840_express_pcb  
 (snippet of original readme)  
   
 -- Adafruit ItsyBitsy nRF52840 Express PCB  

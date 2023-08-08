@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Pixie-3W-Smart-LED-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_pixie_3w_smart_led_pcb  
 (snippet of original readme)  
   
 -- Adafruit Pixie 3W Smart LED PCB  

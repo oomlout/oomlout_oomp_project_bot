@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Copernicus_II_DIP_Module  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_copernicus_ii_dip_module  
 (snippet of original readme)  
   
 Copernicus II DIP Module  

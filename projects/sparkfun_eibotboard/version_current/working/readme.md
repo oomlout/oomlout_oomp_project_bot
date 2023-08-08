@@ -1,6 +1,7 @@
 # OOMP Project  
 ## EiBotBoard  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_eibotboard  
 (snippet of original readme)  
   
 EiBotBoard  

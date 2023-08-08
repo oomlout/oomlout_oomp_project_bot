@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ProtoBoard_Wombat-PTH  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_protoboard_wombat_pth  
 (snippet of original readme)  
   
 SparkFun ProtoBoard Wombat(PTH)  

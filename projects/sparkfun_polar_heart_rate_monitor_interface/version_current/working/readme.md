@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Polar_Heart_Rate_Monitor_Interface  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_polar_heart_rate_monitor_interface  
 (snippet of original readme)  
   
 SparkFun Polar Heart Rate Monitor Interface  

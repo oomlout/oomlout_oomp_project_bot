@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PowerSwap  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_powerswap  
 (snippet of original readme)  
   
   

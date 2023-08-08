@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Micro_Bit_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_micro_bit_breakout  
 (snippet of original readme)  
   
 SparkFun micro:bit Breakout Board  

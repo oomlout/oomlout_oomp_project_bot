@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TallerElectronica  by LacieUnlam  
   
+oomp key: oomp_projects_flat_lacieunlam_tallerelectronica  
 (snippet of original readme)  
   
 - Taller de Electronica  

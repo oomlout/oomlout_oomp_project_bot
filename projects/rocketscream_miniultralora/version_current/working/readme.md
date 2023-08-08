@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MiniUltraLoRa  by rocketscream  
   
+oomp key: oomp_projects_flat_rocketscream_miniultralora  
 (snippet of original readme)  
   
 - Mini Ultra LoRa  

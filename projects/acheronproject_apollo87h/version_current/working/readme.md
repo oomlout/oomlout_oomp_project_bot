@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Apollo87H  by AcheronProject  
   
+oomp key: oomp_projects_flat_acheronproject_apollo87h  
 (snippet of original readme)  
   
 - Acheron Apollo87H  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Servo-HAT-Bonnet-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_servo_hat_bonnet_pcb  
 (snippet of original readme)  
   
 - Adafruit-Servo-HAT-Bonnet-PCB  

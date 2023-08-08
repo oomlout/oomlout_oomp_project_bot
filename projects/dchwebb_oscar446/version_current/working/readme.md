@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Oscar446  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_oscar446  
 (snippet of original readme)  
   
   

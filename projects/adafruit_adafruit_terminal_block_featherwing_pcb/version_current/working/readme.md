@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Terminal-Block-FeatherWing-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_terminal_block_featherwing_pcb  
 (snippet of original readme)  
   
 -- Adafruit Terminal Block FeatherWing PCB  

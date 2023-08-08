@@ -1,6 +1,7 @@
 # OOMP Project  
 ## pawprotector  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_pawprotector  
 (snippet of original readme)  
   
   

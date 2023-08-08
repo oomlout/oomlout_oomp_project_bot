@@ -1,6 +1,7 @@
 # OOMP Project  
 ## arduvidrx_pcb  by pelrun  
   
+oomp key: oomp_projects_flat_pelrun_arduvidrx_pcb  
 (snippet of original readme)  
   
   

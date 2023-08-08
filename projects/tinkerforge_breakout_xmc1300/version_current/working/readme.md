@@ -1,6 +1,7 @@
 # OOMP Project  
 ## breakout_xmc1300  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_breakout_xmc1300  
 (snippet of original readme)  
   
   

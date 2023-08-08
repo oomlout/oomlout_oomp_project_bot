@@ -1,6 +1,7 @@
 # OOMP Project  
 ## vw-bus-project-fuel-pump-driver  by cepr  
   
+oomp key: oomp_projects_flat_cepr_vw_bus_project_fuel_pump_driver  
 (snippet of original readme)  
   
 - vw-bus-project-fuel-pump-driver  

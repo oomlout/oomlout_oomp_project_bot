@@ -1,6 +1,7 @@
 # OOMP Project  
 ## piwars-motor-driver-hardware  by hairymnstr  
   
+oomp key: oomp_projects_flat_hairymnstr_piwars_motor_driver_hardware  
 (snippet of original readme)  
   
 - Motor and Servo Driver Board  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-NeoPixel-Shield-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_neopixel_shield_pcb  
 (snippet of original readme)  
   
 -- Adafruit NeoPixel Shield for Arduino - 40 RGB LED Pixel Matrix PCB  

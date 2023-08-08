@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-MMA8451-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_mma8451_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit MMA8451 Triple-Axis Accelerometer - ±2/4/8g @ 14-bit Breakout PCB  

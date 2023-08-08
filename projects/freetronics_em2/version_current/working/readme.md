@@ -1,6 +1,7 @@
 # OOMP Project  
 ## EM2  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_em2  
 (snippet of original readme)  
   
 EtherMega2  

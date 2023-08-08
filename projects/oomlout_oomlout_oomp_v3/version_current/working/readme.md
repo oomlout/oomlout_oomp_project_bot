@@ -1,6 +1,7 @@
 # OOMP Project  
 ## oomlout_oomp_v3  by oomlout  
   
+oomp key: oomp_projects_flat_oomlout_oomlout_oomp_v3  
 (snippet of original readme)  
   
 - oomlout_oomp_v3  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-HDC1008-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_hdc1008_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit HDC1008 Breakout PCB  

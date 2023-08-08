@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ServoShield  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_servoshield  
 (snippet of original readme)  
   
   

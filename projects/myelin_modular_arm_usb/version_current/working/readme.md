@@ -1,6 +1,7 @@
 # OOMP Project  
 ## modular-arm-usb  by myelin  
   
+oomp key: oomp_projects_flat_myelin_modular_arm_usb  
 (snippet of original readme)  
   
 Multi-purpose board with:  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Circuit-Playground-Bluefruit-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_circuit_playground_bluefruit_pcb  
 (snippet of original readme)  
   
 -- Adafruit Adafruit Circuit Playground Bluefruit PCB  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Binary_Blaster  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_binary_blaster  
 (snippet of original readme)  
   
 Binary Blaster Kit  

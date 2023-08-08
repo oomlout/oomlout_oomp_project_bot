@@ -1,6 +1,7 @@
 # OOMP Project  
 ## KiCon  by devbisme  
   
+oomp key: oomp_projects_flat_devbisme_kicon  
 (snippet of original readme)  
   
 - KiCon Presentation(s)  

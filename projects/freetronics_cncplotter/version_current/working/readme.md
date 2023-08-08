@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CNCPlotter  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_cncplotter  
 (snippet of original readme)  
   
   

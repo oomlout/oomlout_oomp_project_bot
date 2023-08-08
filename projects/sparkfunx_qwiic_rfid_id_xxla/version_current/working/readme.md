@@ -1,6 +1,7 @@
 # OOMP Project  
 ## QWIIC_RFID_ID-XXLA  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_rfid_id_xxla  
 (snippet of original readme)  
   
   

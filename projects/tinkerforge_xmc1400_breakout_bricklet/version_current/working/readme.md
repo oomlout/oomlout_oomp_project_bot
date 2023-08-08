@@ -1,6 +1,7 @@
 # OOMP Project  
 ## xmc1400-breakout-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_xmc1400_breakout_bricklet  
 (snippet of original readme)  
   
   

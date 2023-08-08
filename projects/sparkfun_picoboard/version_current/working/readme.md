@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PicoBoard  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_picoboard  
 (snippet of original readme)  
   
 Picoboard  

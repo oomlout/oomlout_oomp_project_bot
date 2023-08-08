@@ -1,6 +1,7 @@
 # OOMP Project  
 ## vw-bus-77-electrical-washer-switch-adapter  by cepr  
   
+oomp key: oomp_projects_flat_cepr_vw_bus_77_electrical_washer_switch_adapter  
 (snippet of original readme)  
   
 - vw-bus-77-electrical-washer-switch-adapter  

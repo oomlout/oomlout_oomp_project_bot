@@ -1,6 +1,7 @@
 # OOMP Project  
 ## IR_Thermometer_Evaluation_Board-MLX90614  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_ir_thermometer_evaluation_board_mlx90614  
 (snippet of original readme)  
   
 SparkFun IR Thermometer Evaluation Board - MLX90614  

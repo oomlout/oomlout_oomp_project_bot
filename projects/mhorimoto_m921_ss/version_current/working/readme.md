@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M921-SS  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m921_ss  
 (snippet of original readme)  
   
   

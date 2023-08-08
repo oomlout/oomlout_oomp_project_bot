@@ -1,6 +1,7 @@
 # OOMP Project  
 ## analog-in-v3-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_analog_in_v3_bricklet  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## dewi-hardware  by naturesyouth  
   
+oomp key: oomp_projects_flat_naturesyouth_dewi_hardware  
 (snippet of original readme)  
   
 - dewi-hardware  

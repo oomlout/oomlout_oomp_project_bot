@@ -1,6 +1,7 @@
 # OOMP Project  
 ## rp2040_stamp_photolight_hw  by solderparty  
   
+oomp key: oomp_projects_flat_solderparty_rp2040_stamp_photolight_hw  
 (snippet of original readme)  
   
 - RP2040 Stamp Photo Light (Flux Project)  

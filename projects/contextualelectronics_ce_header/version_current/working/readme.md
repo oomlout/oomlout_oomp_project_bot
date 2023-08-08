@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CE-Header  by ContextualElectronics  
   
+oomp key: oomp_projects_flat_contextualelectronics_ce_header  
 (snippet of original readme)  
   
   

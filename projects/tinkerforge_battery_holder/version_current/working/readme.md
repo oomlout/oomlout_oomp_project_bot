@@ -1,6 +1,7 @@
 # OOMP Project  
 ## battery-holder  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_battery_holder  
 (snippet of original readme)  
   
   

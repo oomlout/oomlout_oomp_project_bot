@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ISL29125_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_isl29125_breakout  
 (snippet of original readme)  
   
 SparkFun ISL29125 Breakout  

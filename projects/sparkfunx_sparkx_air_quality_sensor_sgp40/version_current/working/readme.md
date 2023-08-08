@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX_Air_Quality_Sensor-SGP40  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_air_quality_sensor_sgp40  
 (snippet of original readme)  
   
 SparkX Air Quality Sensor - SGP40 (Qwiic)  

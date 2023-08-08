@@ -1,6 +1,7 @@
 # OOMP Project  
 ## iCEd-Salvador  by dragonmux  
   
+oomp key: oomp_projects_flat_dragonmux_iced_salvador  
 (snippet of original readme)  
   
   

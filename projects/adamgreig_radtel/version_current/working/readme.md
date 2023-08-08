@@ -1,6 +1,7 @@
 # OOMP Project  
 ## radtel  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_radtel  
 (snippet of original readme)  
   
 - RadTel  

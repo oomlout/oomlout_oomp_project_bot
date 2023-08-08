@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CC3000_WiFi_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_cc3000_wifi_breakout  
 (snippet of original readme)  
   
 CC3000_WiFi_Breakout  

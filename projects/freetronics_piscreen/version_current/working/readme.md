@@ -1,6 +1,7 @@
 # OOMP Project  
 ## PiScreen  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_piscreen  
 (snippet of original readme)  
   
   

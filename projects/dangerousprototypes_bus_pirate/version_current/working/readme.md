@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Bus_Pirate  by DangerousPrototypes  
   
+oomp key: oomp_projects_flat_dangerousprototypes_bus_pirate  
 (snippet of original readme)  
   
   

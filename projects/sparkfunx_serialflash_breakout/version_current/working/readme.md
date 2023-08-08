@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SerialFlash-Breakout  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_serialflash_breakout  
 (snippet of original readme)  
   
 SerialFlash-Breakout  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## K_Aries  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_k_aries  
 (snippet of original readme)  
   
 - K_Aries  

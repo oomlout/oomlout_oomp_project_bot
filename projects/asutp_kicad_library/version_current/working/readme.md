@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-library  by asutp  
   
+oomp key: oomp_projects_flat_asutp_kicad_library  
 (snippet of original readme)  
   
 kicad-library  

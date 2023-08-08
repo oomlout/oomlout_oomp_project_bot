@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-BH1750-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_bh1750_pcb  
 (snippet of original readme)  
   
 -- Adafruit BH1750 Light Sensor - STEMMA QT / Qwiic PCB  

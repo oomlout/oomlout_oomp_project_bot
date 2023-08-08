@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ch55xduino  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_ch55xduino  
 (snippet of original readme)  
   
 - Ch55xduino: Small Devices Arduino for ch55x devices  

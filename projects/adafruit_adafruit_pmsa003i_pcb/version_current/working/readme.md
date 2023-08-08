@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-PMSA003I-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_pmsa003i_pcb  
 (snippet of original readme)  
   
 -- Adafruit PMSA003I Air Quality Breakout - STEMMA QT / Qwiic PCB  

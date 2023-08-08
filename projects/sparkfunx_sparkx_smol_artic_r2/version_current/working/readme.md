@@ -1,6 +1,7 @@
 # OOMP Project  
 ## SparkX_smol_ARTIC_R2  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_sparkx_smol_artic_r2  
 (snippet of original readme)  
   
 - SparkX smôl ARTIC R2  

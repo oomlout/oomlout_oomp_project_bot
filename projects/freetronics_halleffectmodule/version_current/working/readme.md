@@ -1,6 +1,7 @@
 # OOMP Project  
 ## HallEffectModule  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_halleffectmodule  
 (snippet of original readme)  
   
   

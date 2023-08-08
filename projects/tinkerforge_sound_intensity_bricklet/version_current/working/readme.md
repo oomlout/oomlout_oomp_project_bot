@@ -1,6 +1,7 @@
 # OOMP Project  
 ## sound-intensity-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_sound_intensity_bricklet  
 (snippet of original readme)  
   
   

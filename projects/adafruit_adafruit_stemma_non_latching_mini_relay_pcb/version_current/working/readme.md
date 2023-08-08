@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_stemma_non_latching_mini_relay_pcb  
 (snippet of original readme)  
   
 -- Adafruit STEMMA Non-Latching Mini Relay PCB  

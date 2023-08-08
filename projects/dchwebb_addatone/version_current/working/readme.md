@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Addatone  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_addatone  
 (snippet of original readme)  
   
 - Addatone  

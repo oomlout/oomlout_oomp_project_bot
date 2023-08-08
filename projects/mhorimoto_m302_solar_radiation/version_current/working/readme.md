@@ -1,6 +1,7 @@
 # OOMP Project  
 ## M302-solar-radiation  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_m302_solar_radiation  
 (snippet of original readme)  
   
 - M302を用いた日射量計  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ESP32-GATEWAY  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_esp32_gateway  
 (snippet of original readme)  
   
 - ESP32-GATEWAY  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CARC_Repeater  by imciner2  
   
+oomp key: oomp_projects_flat_imciner2_carc_repeater  
 (snippet of original readme)  
   
 - CARC Repeater  

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Fruit-In  by dqmcdonald  
   
+oomp key: oomp_projects_flat_dqmcdonald_fruit_in  
 (snippet of original readme)  
   
 Fruit-In  

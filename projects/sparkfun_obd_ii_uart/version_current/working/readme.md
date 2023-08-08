@@ -1,6 +1,7 @@
 # OOMP Project  
 ## OBD-II_UART  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_obd_ii_uart  
 (snippet of original readme)  
   
 OBD-II UART  

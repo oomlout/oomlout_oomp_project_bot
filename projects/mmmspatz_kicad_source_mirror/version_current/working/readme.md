@@ -1,6 +1,7 @@
 # OOMP Project  
 ## kicad-source-mirror  by mmmspatz  
   
+oomp key: oomp_projects_flat_mmmspatz_kicad_source_mirror  
 (snippet of original readme)  
   
 - KiCad README  

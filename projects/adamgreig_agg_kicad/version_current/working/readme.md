@@ -1,6 +1,7 @@
 # OOMP Project  
 ## agg-kicad  by adamgreig  
   
+oomp key: oomp_projects_flat_adamgreig_agg_kicad  
 (snippet of original readme)  
   
 - @adamgreig's KiCAD Library  

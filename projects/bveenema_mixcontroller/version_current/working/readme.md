@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MixController  by bveenema  
   
+oomp key: oomp_projects_flat_bveenema_mixcontroller  
 (snippet of original readme)  
   
 - Mix Controller  

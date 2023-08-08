@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-DS3231-Precision-RTC-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ds3231_precision_rtc_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit DS3231 Precision RTC Breakout PCB  

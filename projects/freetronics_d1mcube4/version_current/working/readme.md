@@ -1,6 +1,7 @@
 # OOMP Project  
 ## D1MCUBE4  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_d1mcube4  
 (snippet of original readme)  
   
 4x4x4 RGB LED Cube for the WeMos D1 Mini  

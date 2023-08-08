@@ -1,6 +1,7 @@
 # OOMP Project  
 ## throwing-star-lan-tap  by greatscottgadgets  
   
+oomp key: oomp_projects_flat_greatscottgadgets_throwing_star_lan_tap  
 (snippet of original readme)  
   
 - Throwing Star LAN TAP  

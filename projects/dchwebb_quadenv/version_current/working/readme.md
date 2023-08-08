@@ -1,6 +1,7 @@
 # OOMP Project  
 ## QuadEnv  by dchwebb  
   
+oomp key: oomp_projects_flat_dchwebb_quadenv  
 (snippet of original readme)  
   
 - QuadEnv  

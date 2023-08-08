@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Mflight3  by nppc  
   
+oomp key: oomp_projects_flat_nppc_mflight3  
 (snippet of original readme)  
   
   

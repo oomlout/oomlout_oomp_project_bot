@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Edison_Base_Block  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_edison_base_block  
 (snippet of original readme)  
   
 Edison_Mezzanine_Base  

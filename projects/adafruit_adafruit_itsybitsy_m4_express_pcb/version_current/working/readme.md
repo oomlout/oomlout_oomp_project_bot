@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-ItsyBitsy-M4-Express-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_itsybitsy_m4_express_pcb  
 (snippet of original readme)  
   
 -- Adafruit ItsyBitsy M4 Express PCB  

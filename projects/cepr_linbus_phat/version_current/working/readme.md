@@ -1,6 +1,7 @@
 # OOMP Project  
 ## linbus-phat  by cepr  
   
+oomp key: oomp_projects_flat_cepr_linbus_phat  
 (snippet of original readme)  
   
 - linbus-phat  

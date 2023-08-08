@@ -1,6 +1,7 @@
 # OOMP Project  
 ## QRE1113_Line_Sensor-Analog  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qre1113_line_sensor_analog  
 (snippet of original readme)  
   
 QRE1113 Line Sensor Breakout Board - Analog  

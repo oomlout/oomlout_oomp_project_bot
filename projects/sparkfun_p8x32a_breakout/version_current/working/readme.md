@@ -1,6 +1,7 @@
 # OOMP Project  
 ## P8X32A_Breakout  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_p8x32a_breakout  
 (snippet of original readme)  
   
 Propeller P8X32A Breakout  

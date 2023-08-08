@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FeederShieldMega  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_feedershieldmega  
 (snippet of original readme)  
   
 Feeder Shield Mega  

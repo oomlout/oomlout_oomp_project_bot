@@ -1,6 +1,7 @@
 # OOMP Project  
 ## GraphicLCD_Serial_Backpack  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_graphiclcd_serial_backpack  
 (snippet of original readme)  
   
 Graphic LCD Serial Backpack  

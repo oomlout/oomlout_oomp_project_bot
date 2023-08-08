@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Metro-M0-Express-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_metro_m0_express_pcb  
 (snippet of original readme)  
   
 -- Adafruit METRO M0 Express - designed for CircuitPython - ATSAMD21G18 PCB  

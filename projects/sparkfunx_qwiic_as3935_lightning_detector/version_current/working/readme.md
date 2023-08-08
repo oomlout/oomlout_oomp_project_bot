@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_AS3935_Lightning_Detector  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_qwiic_as3935_lightning_detector  
 (snippet of original readme)  
   
 SparkX Qwiic AS3935 Lightning Detector  

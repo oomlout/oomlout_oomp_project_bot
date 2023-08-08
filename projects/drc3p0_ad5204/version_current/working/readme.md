@@ -1,6 +1,7 @@
 # OOMP Project  
 ## ad5204  by Drc3p0  
   
+oomp key: oomp_projects_flat_drc3p0_ad5204  
 (snippet of original readme)  
   
 ad5204  

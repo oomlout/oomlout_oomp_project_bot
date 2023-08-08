@@ -1,6 +1,7 @@
 # OOMP Project  
 ## simplux  by esden  
   
+oomp key: oomp_projects_flat_esden_simplux  
 (snippet of original readme)  
   
   

@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 1up-audio-repair  by esden  
   
+oomp key: oomp_projects_flat_esden_1up_audio_repair  
 (snippet of original readme)  
   
 - Repair a 1UP's headphone jack.  

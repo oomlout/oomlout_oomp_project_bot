@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Feather-RP2040-SCORPIO-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_feather_rp2040_scorpio_pcb  
 (snippet of original readme)  
   
 -- Adafruit Feather RP2040 SCORPIO 8 Channel NeoPixel Driver PCB  

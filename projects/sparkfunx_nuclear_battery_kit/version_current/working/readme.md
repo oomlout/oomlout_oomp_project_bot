@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Nuclear_Battery_Kit  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_nuclear_battery_kit  
 (snippet of original readme)  
   
 - Nuclear_Battery_Kit  

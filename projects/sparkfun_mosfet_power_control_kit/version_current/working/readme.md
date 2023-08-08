@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MOSFET_Power_Control_Kit  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_mosfet_power_control_kit  
 (snippet of original readme)  
   
 SparkFun MOSFET Power Control Kit  

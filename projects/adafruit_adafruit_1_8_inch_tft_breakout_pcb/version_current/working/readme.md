@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit_1.8_Inch_TFT_Breakout_PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_1_8_inch_tft_breakout_pcb  
 (snippet of original readme)  
   
 - 1.8" Color TFT LCD display with MicroSD Card Breakout  

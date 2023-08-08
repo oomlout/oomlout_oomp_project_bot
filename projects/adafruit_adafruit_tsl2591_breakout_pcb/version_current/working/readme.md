@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-TSL2591-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_tsl2591_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit TSL2591 Breakout PCB  

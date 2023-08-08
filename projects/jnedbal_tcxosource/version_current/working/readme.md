@@ -1,6 +1,7 @@
 # OOMP Project  
 ## TCXOsource  by jnedbal  
   
+oomp key: oomp_projects_flat_jnedbal_tcxosource  
 (snippet of original readme)  
   
   

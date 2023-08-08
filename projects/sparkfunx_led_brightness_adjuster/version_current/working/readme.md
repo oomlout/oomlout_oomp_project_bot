@@ -1,6 +1,7 @@
 # OOMP Project  
 ## LED_Brightness_Adjuster  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_led_brightness_adjuster  
 (snippet of original readme)  
   
   

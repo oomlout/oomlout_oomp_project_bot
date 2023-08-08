@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MP2393-2307-Simple-3A-stepdown-converter  by F6ITU  
   
+oomp key: oomp_projects_flat_f6itu_mp2393_2307_simple_3a_stepdown_converter  
 (snippet of original readme)  
   
 - MP2393-2307-Simple-3A-stepdown-converter  

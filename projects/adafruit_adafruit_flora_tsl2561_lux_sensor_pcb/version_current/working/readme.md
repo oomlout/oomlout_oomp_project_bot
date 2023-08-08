@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-Flora-TSL2561-Lux-Sensor-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_flora_tsl2561_lux_sensor_pcb  
 (snippet of original readme)  
   
 -- Adafruit Flora TSL2561 Lux Sensor PCB  

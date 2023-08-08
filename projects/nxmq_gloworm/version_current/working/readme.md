@@ -1,6 +1,7 @@
 # OOMP Project  
 ## gloworm  by nxmq  
   
+oomp key: oomp_projects_flat_nxmq_gloworm  
 (snippet of original readme)  
   
 - Gloworm  

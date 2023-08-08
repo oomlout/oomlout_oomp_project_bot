@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-RGB-Matrix-Bonnet-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_rgb_matrix_bonnet_pcb  
 (snippet of original readme)  
   
 -- Adafruit RGB LED Matrix Display Bonnet PCB  

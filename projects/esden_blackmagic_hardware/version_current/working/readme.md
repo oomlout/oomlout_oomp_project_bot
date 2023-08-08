@@ -1,6 +1,7 @@
 # OOMP Project  
 ## blackmagic-hardware  by esden  
   
+oomp key: oomp_projects_flat_esden_blackmagic_hardware  
 (snippet of original readme)  
   
   

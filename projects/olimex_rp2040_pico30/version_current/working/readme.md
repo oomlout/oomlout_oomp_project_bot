@@ -1,6 +1,7 @@
 # OOMP Project  
 ## RP2040-PICO30  by OLIMEX  
   
+oomp key: oomp_projects_flat_olimex_rp2040_pico30  
 (snippet of original readme)  
   
 - RP2040-PICO30  

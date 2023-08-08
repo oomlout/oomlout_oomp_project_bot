@@ -1,6 +1,7 @@
 # OOMP Project  
 ## linear-poti-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_linear_poti_v2_bricklet  
 (snippet of original readme)  
   
   

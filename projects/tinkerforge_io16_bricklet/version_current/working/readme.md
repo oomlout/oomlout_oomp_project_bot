@@ -1,6 +1,7 @@
 # OOMP Project  
 ## io16-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_io16_bricklet  
 (snippet of original readme)  
   
   

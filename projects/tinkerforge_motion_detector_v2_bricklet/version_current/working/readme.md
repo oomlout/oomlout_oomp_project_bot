@@ -1,6 +1,7 @@
 # OOMP Project  
 ## motion-detector-v2-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_motion_detector_v2_bricklet  
 (snippet of original readme)  
   
   

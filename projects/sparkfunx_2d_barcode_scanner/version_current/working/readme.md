@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 2D_Barcode_Scanner  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_2d_barcode_scanner  
 (snippet of original readme)  
   
 2D Barcode Scanner Breakout  

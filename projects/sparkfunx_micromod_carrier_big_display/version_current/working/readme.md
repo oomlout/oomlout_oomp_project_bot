@@ -1,6 +1,7 @@
 # OOMP Project  
 ## MicroMod_Carrier_Big_Display  by sparkfunX  
   
+oomp key: oomp_projects_flat_sparkfunx_micromod_carrier_big_display  
 (snippet of original readme)  
   
   

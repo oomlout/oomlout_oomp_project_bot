@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-STMPE610-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_stmpe610_breakout_pcb  
 (snippet of original readme)  
   
 - Adafruit Resistive Touch Screen Controller STMPE610 Breakout PCB  

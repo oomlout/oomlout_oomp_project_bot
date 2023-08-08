@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Qwiic_Adapter  by sparkfun  
   
+oomp key: oomp_projects_flat_sparkfun_qwiic_adapter  
 (snippet of original readme)  
   
 SparkFun Qwiic Adapter Board  

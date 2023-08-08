@@ -1,6 +1,7 @@
 # OOMP Project  
 ## CatWANShield  by ElectronicCats  
   
+oomp key: oomp_projects_flat_electroniccats_catwanshield  
 (snippet of original readme)  
   
 - LoraShield  

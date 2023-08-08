@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Q914  by mhorimoto  
   
+oomp key: oomp_projects_flat_mhorimoto_q914  
 (snippet of original readme)  
   
 - Q914  

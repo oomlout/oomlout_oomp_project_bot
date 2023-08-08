@@ -1,6 +1,7 @@
 # OOMP Project  
 ## nfc-rfid-bricklet  by Tinkerforge  
   
+oomp key: oomp_projects_flat_tinkerforge_nfc_rfid_bricklet  
 (snippet of original readme)  
   
   

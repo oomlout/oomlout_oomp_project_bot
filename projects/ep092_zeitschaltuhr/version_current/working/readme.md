@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Zeitschaltuhr  by ep092  
   
+oomp key: oomp_projects_flat_ep092_zeitschaltuhr  
 (snippet of original readme)  
   
   

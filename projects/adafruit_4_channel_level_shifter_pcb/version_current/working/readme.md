@@ -1,6 +1,7 @@
 # OOMP Project  
 ## 4-Channel-Level-Shifter-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_4_channel_level_shifter_pcb  
 (snippet of original readme)  
   
 - Adafruit 4 Channel Level Shifter PCB  

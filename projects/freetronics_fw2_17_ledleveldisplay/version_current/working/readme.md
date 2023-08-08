@@ -1,6 +1,7 @@
 # OOMP Project  
 ## FW2-17-LEDLevelDisplay  by freetronics  
   
+oomp key: oomp_projects_flat_freetronics_fw2_17_ledleveldisplay  
 (snippet of original readme)  
   
 LED Level Display  

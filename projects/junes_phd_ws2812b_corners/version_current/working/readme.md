@@ -1,6 +1,7 @@
 # OOMP Project  
 ## WS2812B-Corners  by Junes-PhD  
   
+oomp key: oomp_projects_flat_junes_phd_ws2812b_corners  
 (snippet of original readme)  
   
 - WS2812B Corners  

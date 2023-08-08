@@ -1,6 +1,7 @@
 # OOMP Project  
 ## E80-1800  by ebastler  
   
+oomp key: oomp_projects_flat_ebastler_e80_1800  
 (snippet of original readme)  
   
 - E80-1800  

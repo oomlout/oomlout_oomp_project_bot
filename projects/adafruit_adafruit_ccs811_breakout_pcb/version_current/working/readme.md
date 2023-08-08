@@ -1,6 +1,7 @@
 # OOMP Project  
 ## Adafruit-CCS811-Breakout-PCB  by adafruit  
   
+oomp key: oomp_projects_flat_adafruit_adafruit_ccs811_breakout_pcb  
 (snippet of original readme)  
   
 -- Adafruit CCS811 Breakout PCB  
