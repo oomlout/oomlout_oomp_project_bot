@@ -1,8 +1,54 @@
-
-# LiPo_Charger_Booster_5V_1A by sparkfun  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## LiPo_Charger_Booster_5V_1A  by sparkfun  
+  
+(snippet of original readme)  
+  
+SparkFun LiPo Charger/Booster - 5V/1A  
+========================================  
+  
+[![SparkFun LiPo Charger/Booster - 5V/1A](https://cdn.sparkfun.com//assets/parts/1/2/4/3/2/14411-01.jpg)](https://www.sparkfun.com/products/14411)  
+  
+[*SparkFun LiPo Charger/Booster - 5V/1A (PRT-14411)*](https://www.sparkfun.com/products/14411)  
+  
+The SparkFun 5V/1A LiPo Charger/Booster is a no-nonsense circuit for generating one amp from a Lithium Polymer battery at 5V.  
+  
+Repository Contents  
+-------------------  
+  
+* **/Documentation** - Data sheets, additional product information  
+* **/Hardware** - Eagle design files (.brd, .sch)  
+* **/Production** - Production panel files (.brd)  
+  
+Documentation  
+--------------  
+* **[SparkFun Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/14411_sfe_LiPo_Charger_Booster-5V1A.fzpz)** - Fritzing diagrams for SparkFun products.  
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-5v1a-lipo-chargerbooster-hookup-guide)** - Basic hookup guide for the SparkFun LiPo Charger/Booster - 5V/1A.  
+  
+Product Versions  
+----------------  
+* [PRT-14411](https://www.sparkfun.com/products/14411)- LiPo Charger/Booster 5V/1A  
+  
+Version History  
+----------------  
+* [HW-V1.0](https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A/releases/tag/HW-V1.0)   
+  
+License Information  
+-------------------  
+  
+This product is _**open source**_!   
+  
+Please review the LICENSE.md file for license information.   
+  
+If you have any questions or concerns on licensing, please contact techsuppor  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A](https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

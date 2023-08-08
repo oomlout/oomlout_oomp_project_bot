@@ -1,8 +1,29 @@
-
-# Kenwood_A701A_control_pcb by nightmechanic  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/nightmechanic/Kenwood_A701A_control_pcb  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## Kenwood_A701A_control_pcb  by nightmechanic  
+  
+(snippet of original readme)  
+  
+Kenwood_A701A_control_pcb  
+=========================  
+  
+This is a Control PCB for a Kenwood A701A kitchen mixer.  
+  
+Created for our kitchen mixer restoration project.  
+  
+Benefits:  
+  - Allows using a common 470 ohm 25W cement resistor (+ a 2W 10kohm ) instead of the expensive DR type resistor originaly used by Kenwood.  
+  - Uses terminal blocks for wire connections  
+  - the components are mounted on the PCB instead of floating around...  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/nightmechanic/Kenwood_A701A_control_pcb](https://github.com/nightmechanic/Kenwood_A701A_control_pcb)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

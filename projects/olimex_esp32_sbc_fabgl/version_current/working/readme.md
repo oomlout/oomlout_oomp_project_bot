@@ -1,8 +1,29 @@
-
-# ESP32-SBC-FabGL by OLIMEX  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/OLIMEX/ESP32-SBC-FabGL  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## ESP32-SBC-FabGL  by OLIMEX  
+  
+(snippet of original readme)  
+  
+- ESP32-SBC-FabGL  
+ESP32-WROVER board working with FabGL library  
+  
+Software used our fork of FabGL: https://github.com/OLIMEX/FabGL  
+  
+Product page: https://www.olimex.com/Products/Retro-Computers/ESP32-SBC-FabGL/open-source-hardware  
+  
+-- License  
+* Hardware is released under CERN OHL v1.2 license  
+* Software is released under GPL3 License  
+* Documentation is released under CC BY-SA 3.0  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/OLIMEX/ESP32-SBC-FabGL](https://github.com/OLIMEX/ESP32-SBC-FabGL)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

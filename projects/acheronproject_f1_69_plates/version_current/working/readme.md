@@ -1,8 +1,40 @@
-
-# F1-69_plates by AcheronProject  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/AcheronProject/F1-69_plates  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## F1-69_plates  by AcheronProject  
+  
+(snippet of original readme)  
+  
+- Plate files for Geonworks F1-69  
+  
+-- Introduction  
+  
+This repository contains the plate files for the Geonworks F1-69 keyboard. The original files, contained in `./resources`, were handed to me by Geon (the keyboard designer) himself with his permission to opensource them.  
+  
+In `./kicad_files` one will find, well, the KiCad files for the full plate and the half plate. The gerbers for manufacturing can be found in the releases page.  
+  
+-- Licensing  
+  
+It is important to note that everything in this repository is licensed under the AOHL v1.3 license, which is commercial; however, if one intends to profit from these files I strongly suggest them to contact Geon so as to make sure he knows.  
+  
+-- Renders  
+  
+![halfplate](https://user-images.githubusercontent.com/39470766/105536264-d1ee3600-5cce-11eb-8db1-c144e38414b6.png)  
+![fullplate](https://user-images.githubusercontent.com/39470766/105536267-d31f6300-5cce-11eb-966c-7937fd3ba5fe.png)  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/AcheronProject/F1-69_plates](https://github.com/AcheronProject/F1-69_plates)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  
+  
+[![working_3d.png](working_3d_140.png)](working_3d.png)  
+  
+[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
+  
+[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  

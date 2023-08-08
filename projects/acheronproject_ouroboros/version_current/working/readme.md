@@ -1,8 +1,31 @@
-
-# Ouroboros by AcheronProject  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/AcheronProject/Ouroboros  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## Ouroboros  by AcheronProject  
+  
+(snippet of original readme)  
+  
+﻿- Acheron Ouroboros  
+  
+<p align="center">  
+  <img align="middle" src="https://raw.githubusercontent.com/Gondolindrim/acheronLibrary/master/graphics/acheronLong.png"  width="400">   
+</p>  
+  
+See [this page](https://gondolindrim.github.io/AcheronDocs/ouroboros/intro.html) for the Ouroboros documentation (still building).  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/AcheronProject/Ouroboros](https://github.com/AcheronProject/Ouroboros)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  
+  
+[![working_3d.png](working_3d_140.png)](working_3d.png)  
+  
+[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
+  
+[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  

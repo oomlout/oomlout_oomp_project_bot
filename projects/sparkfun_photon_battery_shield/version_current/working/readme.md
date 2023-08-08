@@ -1,8 +1,48 @@
-
-# Photon_Battery_Shield by sparkfun  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/sparkfun/Photon_Battery_Shield  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## Photon_Battery_Shield  by sparkfun  
+  
+(snippet of original readme)  
+  
+SparkFun Photon Battery Shield  
+========================================  
+  
+![SparkFun Photon Battery Shield](https://cdn.sparkfun.com/r/500-500/assets/learn_tutorials/3/9/2/battery-photon.jpg)  
+  
+[*SparkFun Photon Battery Shield (DEV-13626)*](https://www.sparkfun.com/products/13626)  
+  
+The [SparkFun Photon Battery Shield](https://www.sparkfun.com/products/13231) provides you with an easy way to power your Photon module with a Lithium polymer battery. Not only can the Battery Shield power you Photon but you will also be able to charge a LiPo bettery through it as well. The board comes with a JST connector for your single cell LiPo battery and utilizes the Photons on-board micro-USB connector for the charge input.  
+  
+This battery shield uses a MCP73831 for LiPo charging and a MAX1704X for fuel gauging.  
+  
+Repository Contents  
+-------------------  
+  
+* **/Hardware** - Eagle design files (.brd, .sch)  
+* **/Production** - Production panel files (.brd)  
+* **/Libraries** - Firmware library and example code for the Particle Photon.  
+  
+Documentation  
+--------------  
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/photon-battery-shield-hookup-guide)** - Hardware overview and example code.  
+  
+Product Versions  
+----------------  
+* [DEV-13626](https://www.sparkfun.com/products/13626)- V1.0 release of the Photon Battery Shield.  
+  
+License Information  
+-------------------  
+This product is _**open source**_!   
+  
+The **hardware** is released under [Creative Commons ShareAlike 4.0 International](https://creativecom  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/sparkfun/Photon_Battery_Shield](https://github.com/sparkfun/Photon_Battery_Shield)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

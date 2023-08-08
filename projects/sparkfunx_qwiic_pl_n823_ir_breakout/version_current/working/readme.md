@@ -1,8 +1,54 @@
-
-# Qwiic_PL-N823_IR_Breakout by sparkfunX  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/sparkfunX/Qwiic_PL-N823_IR_Breakout  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## Qwiic_PL-N823_IR_Breakout  by sparkfunX  
+  
+(snippet of original readme)  
+  
+SparkFun Qwiic PL-N823 IR Breakout  
+===================================  
+  
+[![SparkFun Qwiic IR Breakout](https://cdn.sparkfun.com/assets/parts/1/4/4/2/8/15804-Qwiic_IR_Breakout-01.jpg)](https://cdn.sparkfun.com/assets/parts/1/4/4/2/8/15804-Qwiic_IR_Breakout-01.jpg)  
+  
+[*SparkFun Qwiic IR Breakout (SPX-15804)*](https://www.sparkfun.com/products/15804)  
+  
+PL-N823-01 Lensless IR Sensor breakout with signal amplifier and I2C ADC   
+  
+This board allows for digital sensor reading of IR signals from external sources. One such application can be the detection of heat given off by the human body. Operating voltage is 5V for the board as a whole, and while under 1mm thick materials detection can be as far away as 10cm to 20cm.  
+  
+Repository Contents  
+-------------------  
+  
+* **/Documents** - Contains datasheets  
+* **/Hardware** - Current .brd and .sch files for product  
+  
+Documentation  
+-------------  
+  
+* **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.  
+  
+License Information  
+-------------------  
+  
+This product is _**open source**_!  
+  
+Please review the LICENSE.md file for license information.  
+  
+If you have any questions or concerns on licensing, please contact technical support on our [SparkFun forums](https://forum.sparkfun.com/viewforum.php?f=152).  
+  
+Distributed as-is; no warranty is given.  
+  
+- Your friends at SparkFun.  
+  
+_<COLLABORATION CREDIT>_  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/sparkfunX/Qwiic_PL-N823_IR_Breakout](https://github.com/sparkfunX/Qwiic_PL-N823_IR_Breakout)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

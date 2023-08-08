@@ -1,8 +1,28 @@
-
-# RK3328-SOM-EBV by OLIMEX  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/OLIMEX/RK3328-SOM-EBV  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## RK3328-SOM-EBV  by OLIMEX  
+  
+(snippet of original readme)  
+  
+- RK3328-SOM-EVB  
+Evaluation board for RK3328-SOM System on modules  
+  
+Product page: https://www.olimex.com/Products/SOM/RK3328/RK3328-EVB/  
+  
+-- License  
+* Hardware is released under CERN OHL v1.2 license  
+* Software is released under GPL3 License  
+* Documentation is released under CC BY-SA 3.0  
+  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/OLIMEX/RK3328-SOM-EBV](https://github.com/OLIMEX/RK3328-SOM-EBV)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

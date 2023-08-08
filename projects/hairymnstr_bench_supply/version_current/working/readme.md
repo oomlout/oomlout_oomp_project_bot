@@ -1,8 +1,32 @@
-
-# bench_supply by hairymnstr  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/hairymnstr/bench_supply  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## bench_supply  by hairymnstr  
+  
+(snippet of original readme)  
+  
+Bench Supply  
+============  
+  
+This is a fairly basic bench power supply project I'm working on.  It started  
+off as a one-off design with all through-hole and stripboard construction but  
+I'm probably going to get the channels at least done on a PCB to make it more  
+robust.  
+  
+All done in KiCAD so far, there will be some software for driving the current  
+and voltage displays later on.  There are two projects so far, the control  
+board which is a one-off that does non channel specific things like output on  
+off control, and a channel design which I'm using twice to provide two  
+separate floating supply rails.  
+  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/hairymnstr/bench_supply](https://github.com/hairymnstr/bench_supply)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

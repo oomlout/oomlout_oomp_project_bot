@@ -1,8 +1,29 @@
-
-# CY7CBreakout by dragonmux  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/dragonmux/CY7CBreakout  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## CY7CBreakout  by dragonmux  
+  
+(snippet of original readme)  
+  
+- CY7CBreakout  
+  
+CY7CBreakout is a breadboard-compatible Cypress CY7C68013A breakout board.  
+  
+This project is licensed under the CERN OHL v.1.2 or later.  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/dragonmux/CY7CBreakout](https://github.com/dragonmux/CY7CBreakout)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  
+  
+[![working_3d.png](working_3d_140.png)](working_3d.png)  
+  
+[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
+  
+[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  

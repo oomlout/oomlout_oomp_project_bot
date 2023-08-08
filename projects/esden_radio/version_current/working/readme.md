@@ -1,8 +1,58 @@
-
-# radio by esden  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/esden/radio  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## radio  by esden  
+  
+(snippet of original readme)  
+  
+radio  
+=====  
+  
+Radio hardware and software projects, by Jared Boone of ShareBrained Technology, Inc.  
+You'll find software-defined radio designs and breakout boards for interesting components  
+(bandpass filters, VCO+PLL ICs, mixer ICs, LNAs).  
+  
+Status  
+======  
+  
+I intend to commit only projects that have been fabricated and tested to some extent in  
+the real world. But do check the README for each project to see more details.  
+  
+Projects  
+========  
+  
+* baseband_digitizer/  
+ * adc-iq-2185-xp2/: An 80MHz+ quadrature sampler using an FPGA and high-speed USB.  
+_  
+* front_end/  
+ * adrf6850-breakout/: Breakout board for the ADRF6850 100MHz to 1GHz receiver IC.  
+  
+* vco_pll/  
+ * adf4350-breakout/: Breakout board for the ADF4350 VCO+PLL, tuning from 137.5MHz  
+   up to 4.4GHz.  
+  
+License  
+=======  
+  
+Designs are licensed under a  
+[Creative Commons Attribution-ShareAlike 3.0 Unported License]  
+(http://creativecommons.org/licenses/by-sa/3.0/) unless specified otherwise in the  
+project's README file.  
+  
+Contact  
+=======  
+  
+ShareBrained Technology, Inc.  
+  
+<http://www.sharebrained.com/>  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/esden/radio](https://github.com/esden/radio)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

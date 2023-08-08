@@ -56,7 +56,8 @@ def generate_readme(**kwargs):
     readme = get_readme(**p2)
 
     #write readme file
-    with open(readme_file, "w") as text_file:
+    #as unicode
+    with open(readme_file, 'w', encoding='utf-8') as text_file:
         text_file.write(readme)
 
 
@@ -99,9 +100,17 @@ def get_readme(**kwargs):
 
         p2["readme"] = readme
         readme += get_intro(**p2)
+        ###### board
+        p2["readme"] = readme
+        readme += get_board(**p2)
+        ###### schematic
+        p2["readme"] = readme
+        readme += get_schematic(**p2)
         ###### images
         p2["readme"] = readme
         readme += get_images(**p2)
+
+
 
         return readme
     else:
@@ -113,7 +122,7 @@ def get_intro(**kwargs):
     name = kwargs.get("name","none")
     owner = kwargs.get("owner","none")
     repo_link = kwargs.get("repo_link","none")
-    readme = kwargs.get("readme","none")
+    readme = ""
     directory = kwargs.get("directory","none")
     ###### introduction
 
@@ -125,16 +134,42 @@ def get_intro(**kwargs):
     readme_src = directory + "\\readme_src.md"
     readme_src_snippet = ""
     if os.path.exists(readme_src):
-        with open(readme_src, 'r') as f:
-            readme_src_snippet += f.read(1500)
-            readme_src_snippet.replace("#", "-")
+        #open as unicode
+        with open(readme_src, "r", encoding="utf-8") as text_file:
+            try:
+                readme_src_snippet = text_file.read(1500)            
+                readme_src_snippet = readme_src_snippet.replace("#", "-")
+                readme_src_snippet = readme_src_snippet.replace("\n", "  \n")
+            except:
+                print(f"error reading {readme_src}")
     readme += f'{readme_src_snippet}  \n'
     readme_src_link = oom_markdown.get_link(link="readme_src.md")
     readme += f'  full source readme at {readme_src_link}  \n'
     readme += f'  \n'
-    repo_link_link = oom_markdown.get_link(link=repo_link, text="repo_link")
+    repo_link_link = oom_markdown.get_link(link=repo_link)
     readme += f'source repo at: {repo_link_link}  \n'
 
+    return readme
+
+def get_board(**kwargs):
+    directory = kwargs.get("directory","none")
+    readme = "## Board  \n"
+    ###### board
+    image_link = oom_markdown.get_link_image_scale(image="working_3d.png",resolution="600")
+    readme += f'  \n'
+    readme += f'{image_link}  \n'
+    return readme
+
+def get_schematic(**kwargs):
+    directory = kwargs.get("directory","none")
+    readme = "## Schematic  \n"
+    ###### board
+    image_link = oom_markdown.get_link_image_scale(image="working_schematic.png",resolution="600")
+    readme += f'  \n'
+    readme += f'{image_link}  \n'
+    pdf_link = oom_markdown.get_link(link="working_schematic.pdf", text="schematic pdf")
+    readme += f'  \n'
+    readme += f'{pdf_link}  \n'
     return readme
 
 def get_images(**kwargs):

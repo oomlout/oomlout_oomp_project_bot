@@ -1,8 +1,51 @@
-
-# PWM_Shield by sparkfun  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/sparkfun/PWM_Shield  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## PWM_Shield  by sparkfun  
+  
+(snippet of original readme)  
+  
+**NOTE:** *This product has been retired from our catalog. If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking and improving on this product.*  
+* *[SparkFun Forum](https://forum.sparkfun.com/)*  
+* *[Comments Here on GitHub](https://github.com/sparkfun/PWM_Shield/issues)*  
+* *[IRC Channel](https://www.sparkfun.com/news/263)*  
+  
+SparkFun PWM Shield  
+========================================  
+  
+![SparkFun PWM Shield](https://cdn.sparkfun.com//assets/parts/5/2/7/5/10615-01.jpg)  
+  
+[*SparkFun PWM Shield (DEV-10615)*](https://www.sparkfun.com/products/10615)  
+  
+This is the Arduino shield version of our TLC5940 Breakout.   
+The SparkFun PWM Shield will allow you to generate up to 16 PWM signals from your Arduino by utilizing the power of the TLC5940 IC.   
+  
+Repository Contents  
+-------------------  
+  
+* **/Hardware** - Eagle design files (.brd, .sch)  
+* **/Libraries** - Libraries for use with the TLC5940  
+* **/Production** - Production panel files (.brd)  
+  
+Documentation  
+--------------  
+* **[Library](https://github.com/sparkfun/SparkFun_TLC5940_Arduino_Library)** - Arduino Library for the TLC5940.   
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.  
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.   
+  
+  
+License Information  
+-------------------  
+This product is _**open source**_!   
+  
+The **hardware** is released under [Crea  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/sparkfun/PWM_Shield](https://github.com/sparkfun/PWM_Shield)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

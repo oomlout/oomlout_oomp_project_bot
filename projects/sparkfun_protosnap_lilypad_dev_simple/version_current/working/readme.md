@@ -1,8 +1,40 @@
-
-# ProtoSnap-LilyPad_Dev_Simple by sparkfun  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/sparkfun/ProtoSnap-LilyPad_Dev_Simple  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## ProtoSnap-LilyPad_Dev_Simple  by sparkfun  
+  
+(snippet of original readme)  
+  
+SparkFun ProtoSnap - LilyPad Development Simple  
+================================================  
+  
+![SparkFun ProtoSnap - LilyPad Development Simple](https://cdn.sparkfun.com//assets/parts/6/7/6/9/11201-05.jpg)  
+  
+[*SparkFun ProtoSnap - LilyPad Development Simple (DEV-11201)*](https://www.sparkfun.com/products/11201)  
+  
+The ProtoSnap LilyPad Simple Development board is a great way to get started in programmable e-textiles.   
+By combining a LilyPad Simple board with 4 LED boards and a buzzer, the ProtoSnap LilyPad Simple Development board gives you everything you need to learn the basics.   
+  
+Repository Contents  
+-------------------  
+  
+* **/Hardware** - All Eagle design files (.brd, .sch)  
+  
+  
+License Information  
+-------------------  
+The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).  
+  
+Distributed as-is; no warranty is given.  
+  
+_**Note:** A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles and also to Arduino LLC to help fund continued development of new tools and new IDE features._  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/sparkfun/ProtoSnap-LilyPad_Dev_Simple](https://github.com/sparkfun/ProtoSnap-LilyPad_Dev_Simple)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

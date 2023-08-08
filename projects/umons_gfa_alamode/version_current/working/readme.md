@@ -1,8 +1,28 @@
-
-# alamode by UMONS-GFA  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/UMONS-GFA/alamode  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## alamode  by UMONS-GFA  
+  
+(snippet of original readme)  
+  
+alamode  
+=======  
+  
+Code, test code, and examples for the Alamode Arduino Compatible add on for Raspberry Pi.  
+  
+License  
+-------  
+[CERN Open Hardware Licence v1.2 ]  
+  
+[CERN Open Hardware Licence v1.2 ]:http://www.ohwr.org/attachments/2388/cern_ohl_v_1_2.txt  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/UMONS-GFA/alamode](https://github.com/UMONS-GFA/alamode)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

@@ -1,8 +1,55 @@
-
-# magic_sensor_pcb by s-light  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/s-light/magic_sensor_pcb  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## magic_sensor_pcb  by s-light  
+  
+(snippet of original readme)  
+  
+<!--lint disable list-item-indent-->  
+<!--lint disable list-item-bullet-indent-->  
+  
+- magic sensor pcb  
+  
+Two I2C sensor on mini breakout board:  
+- [APDS-9960](https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960)  
+    Digital RGB, Ambient Light, Proximity and Gesture Sensor  
+- [BME680](https://www.bosch-sensortec.com/bst/products/all_products/BME680)  
+    gas, pressure, humidity and temperature  
+  
+  
+  
+  
+  
+---  
+  
+<!-- license info -->  
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">  
+    <img alt="Creative Commons License" style="border-width:0"  
+        src="https://i.creativecommons.org/l/by/4.0/88x31.png" />  
+</a>  
+<br />  
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">  
+    magic sensor pcb  
+</span> by  
+<a xmlns:cc="http://creativecommons.org/ns-"  
+        href="https://github.com/s-light/"  
+        property="cc:attributionName"  
+        rel="cc:attributionURL">  
+    Stefan Krüger (s-light)  
+</a>  
+is licensed under a<br/>  
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">  
+    Creative Commons Attribution 4.0 International License  
+</a>.  
+<!-- license info end -->  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/s-light/magic_sensor_pcb](https://github.com/s-light/magic_sensor_pcb)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

@@ -1,8 +1,23 @@
-
-# USB-UART by Kazu-zamasu  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/Kazu-zamasu/USB-UART  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## USB-UART  by Kazu-zamasu  
+  
+(snippet of original readme)  
+  
+- USB-UART  
+Build on KiCAD EDA  
+作ってみましたが、無保証で。  
+いかに現在販売されてるのが良い出来で安いのか判る為に作った。  
+このタイプは二重絶縁。普通は必要ないです。一重絶縁で十分。売ってるもの買ったほうが安いです。  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/Kazu-zamasu/USB-UART](https://github.com/Kazu-zamasu/USB-UART)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

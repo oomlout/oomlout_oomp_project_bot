@@ -1,8 +1,33 @@
-
-# kazatsky-motorized-desk by coddingtonbear  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/coddingtonbear/kazatsky-motorized-desk  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## kazatsky-motorized-desk  by coddingtonbear  
+  
+(snippet of original readme)  
+  
+![header-image](http://coddingtonbear-public.s3.amazonaws.com/github/kazatsky/desk_image.jpg)  
+  
+- Kazatsky: DIY Motorized IKEA Desk  
+  
+The project herein is everything I used for converting my manually-cranked [IKEA Skarsta Desk](https://www.ikea.com/us/en/p/skarsta-desk-sit-stand-white-s49084965/) into a motorized one using parts from a cheap [Harbor Freight 18v Drill Master Drill](https://www.harborfreight.com/18-Volt-38-in-Cordless-DrillDriver-Kit-With-Keyless-Chuck-21-Clutch-Settings-62873.html), a DIY Atmega328pb-based PCB, a [BTS7960 motor driver module](https://www.amazon.com/DEVMO-BTS7960B-Stepper-H-Bridge-Arduino/dp/B07SZ4T699/ref=sr_1_3?keywords=BTS7960+motor+driver&qid=1570931471&s=electronics&sr=1-3), a handful of 3D-printed parts, and miscellaneous hardware.  
+  
+You can also find the 3d-printed parts on Thingiverse: https://www.thingiverse.com/thing:3912988  
+  
+This is named after the traditional Russian folk dance called the "Kazatsky" because of the parallels that can be drawn between that dance's main movement and the comically fast speed at which this desk can be raised up and down when running the drill at full-bore.  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/coddingtonbear/kazatsky-motorized-desk](https://github.com/coddingtonbear/kazatsky-motorized-desk)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  
+  
+[![working_3d.png](working_3d_140.png)](working_3d.png)  
+  
+[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
+  
+[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  

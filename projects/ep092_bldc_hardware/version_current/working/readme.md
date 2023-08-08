@@ -1,8 +1,39 @@
-
-# bldc-hardware by ep092  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/ep092/bldc-hardware  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## bldc-hardware  by ep092  
+  
+(snippet of original readme)  
+  
+VESC – Open Source ESC  
+=============  
+  
+This the Hardware for my open source custom ESC.  
+  
+-- Schematic top level  
+![alt tag](design/PNGs/Schematic-1.png)  
+  
+-- Layout -made with KiCad!-  
+![alt tag](design/PNGs/layout_4.12.png)  
+  
+-- 3D views  
+![alt tag](design/PNGs/3D_front.png)  
+![alt tag](design/PNGs/3D_back.png)  
+  
+Update: The BOM is no longer available on google docs, it is included in the design folder as an .ods file.  
+  
+Have a look at this post for a tutorial on how to get started:  
+http://vedder.se/2015/01/vesc-open-source-esc/  
+  
+VESC Hardware is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/ep092/bldc-hardware](https://github.com/ep092/bldc-hardware)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

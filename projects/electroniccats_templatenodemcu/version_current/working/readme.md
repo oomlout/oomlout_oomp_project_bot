@@ -1,8 +1,25 @@
-
-# templateNodeMCU by ElectronicCats  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/ElectronicCats/templateNodeMCU  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## templateNodeMCU  by ElectronicCats  
+  
+(snippet of original readme)  
+  
+- templateNodeMCU  
+  
+Template in KiCad of shield from NodeMCU 1.0 official  
+  
+Electronic Cats invests time and resources providing this open source code, please support Electronic Cats and open-source hardware by purchasing products from Electronic Cats!  
+  
+Designed by Electronic Cats. CERN Open Hardware Licence 1.2 (CERN OHL 1.2), check cern_ohl_v_1_2.txt for more information All text above must be included in any redistribution  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/ElectronicCats/templateNodeMCU](https://github.com/ElectronicCats/templateNodeMCU)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

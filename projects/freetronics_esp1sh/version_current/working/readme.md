@@ -1,8 +1,56 @@
-
-# ESP1SH by freetronics  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/freetronics/ESP1SH  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## ESP1SH  by freetronics  
+  
+(snippet of original readme)  
+  
+Freetronics ESP8266 / ESP-01 (WiFi) Breakout Shield  
+===================================================  
+Copyright 2014-2017 Freetronics Pty Ltd www.freetronics.com    
+  
+A shield for the Arduino and other microcontroller boards based on the  
+same header format, such as the Freetronics Eleven. Includes a header  
+to mount an ESP-01 module containing an ESP8266 WiFi chipset and  
+supporting parts, giving your Arduino WiFi capabilities.  
+  
+Includes level shifters to allow safe operation on both 3.3V and 5V  
+Arduino boards.  
+  
+More information is available on our product page at:  
+  
+  http://www.freetronics.com/esp1sh  
+  
+http://tminusarduino.blogspot.com.au/2014/09/experimenting-with-esp8266-5-wifi-module.html  
+  
+INSTALLATION  
+------------  
+The design is saved as an EAGLE project. EAGLE PCB design software is  
+available from www.cadsoftusa.com free for non-commercial use. To use  
+this project download it and place the directory containing these files  
+into the "eagle" directory on your computer. Then open EAGLE and  
+navigate to the project.  
+  
+  
+DISTRIBUTION  
+------------  
+The specific terms of distribution of this project are governed by the  
+license referenced below.  
+  
+  
+LICENSE  
+-------  
+Licensed under the TAPR Open Hardware License (www.tapr.org/OHL).  
+The "license" folder within this repository also contains a copy of  
+this license in plain text format.  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/freetronics/ESP1SH](https://github.com/freetronics/ESP1SH)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

@@ -1,8 +1,49 @@
-
-# mppt-2420-rc by LibreSolar  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/LibreSolar/mppt-2420-rc  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## mppt-2420-rc  by LibreSolar  
+  
+(snippet of original readme)  
+  
+- MPPT charge controller for DIN rail mounting  
+  
+![Development Stage](https://img.shields.io/badge/development%20stage-beta-orange.svg) First prototype tested, but issues should still be expected.  
+  
+![MPPT 2420 RC](build/mppt-2420-rc_board.png)  
+  
+Schematic: [PDF file](https://github.com/LibreSolar/mppt-2420-rc/raw/master/build/mppt-2420-rc_schematic.pdf)  
+  
+Bill of Materials: [CSV file](build/mppt-2420-rc_bom.csv) or [interactive HTML BOM](https://libre.solar/mppt-2420-rc/build/mppt-2420-rc_ibom.html)  
+  
+-- Concept description  
+  
+This charge controller is mainly developed to test the following features:  
+  
+- Very compact and modular housing design for DIN rail mounting  
+- Thermal performance and maximum heat dissipation via internal heat sinks  
+- Performance of the internal OpAmp of the STM32G431 MCU for current measurement  
+- Dump-load control for small wind turbines using the existing PV reverse blocking MOSFET  
+  
+-- Features  
+  
+- Solar/Wind input terminal  
+    - Max. 80V (100V MOSFETs used)  
+    - DC/DC converter inductor current max. 20A  
+- Battery output terminal  
+    - 10 V - 32 V (supporting 12 V and 24 V battery systems)  
+    - Max. current: 20A (limited by inductor current)  
+- New STM32G431 ARM MCU with advanced digital power conversion features  
+- Expandable via Olimex Universal Extension Connector (UEXT)  
+- Only single LED as power indicator. Additional user interface can be included in separate PCB in front panel housing and connected via UEXT  
+- CAN interface via RJ45 connectors  
+- Optional  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/LibreSolar/mppt-2420-rc](https://github.com/LibreSolar/mppt-2420-rc)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

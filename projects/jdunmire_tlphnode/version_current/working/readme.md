@@ -1,8 +1,40 @@
-
-# TLPHnode by jdunmire  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/jdunmire/TLPHnode  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## TLPHnode  by jdunmire  
+  
+(snippet of original readme)  
+  
+TLPHnode  
+=========  
+This is a [KiCad](http://kicad-pcb.org/) project for an ESP8266 based  
+temperature, light, pressure, and humidity node.  
+  
+Additional information about this node can be found at the   
+[Sensor Nodes](http://sensornodeinfo.rockingdlabs.com) website.  
+  
+  
+Copyright Jerry Dunmire 2016.  
+  
+This documentation describes Open Hardware and is licensed under the  
+CERN OHL v. 1.2.  
+  
+You may redistribute and modify this documentation under the terms of  
+the CERN OHL v.1.2. (LICENSE.txt). This documentation is distributed  
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY,  
+SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see  
+the CERN OHL v.1.2 for applicable conditions  
+  
+Guidelines on how to apply the CERN OHL v1.2 are in the  
+cern_ohl_v_1_2_howto.pdf file.  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/jdunmire/TLPHnode](https://github.com/jdunmire/TLPHnode)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

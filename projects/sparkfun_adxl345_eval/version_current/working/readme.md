@@ -1,8 +1,61 @@
-
-# ADXL345_Eval by sparkfun  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/sparkfun/ADXL345_Eval  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## ADXL345_Eval  by sparkfun  
+  
+(snippet of original readme)  
+  
+ADXL345 Evaluation Board  
+========================  
+[![ADXL345 Evaluation Board](https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/8/1/4/09814-01.jpg)    
+*ADXL345 Evaluation Board (SEN-09814)*](https://www.sparkfun.com/products/9814)  
+  
+The ADXL Evaluation Board is an accelerometer capable of up to +/- 16g at up to 13-bit resolution, combined with a data logger and ATMega328 for onboard processing.  
+  
+Features:  
+  
+* ADXL345 triple-axis accelerometer  
+* microSD socket for FAT32/16 data logging  
+* ATMega328 with Arduino bootloader  
+* USB connector for serial communication  
+* 2xAA battery sockets to power board  
+* Pre-installed firmware logs ADXL345 outputs and allows reading/writing of registers via USB  
+  
+Repository Contents  
+-------------------  
+* **/hardware** - PCB Design files   
+* **/firmware** - Arduino example sketch and source code  
+  
+License Information  
+-------------------  
+  
+The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).   
+The source code was created by SparkFun Electronics.  
+The Arduino sketch was originally written by Euristic at [Live Fast-Code Young](http://codeyoung.blogspot.com/2009/11/adxl345-accelerometer-breakout-board.html).  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/sparkfun/ADXL345_Eval](https://github.com/sparkfun/ADXL345_Eval)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  
+  
+[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
+  
+[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
+  
+[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
+  
+[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
+  
+[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
+  
+[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
+  
+[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
+  
+[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  

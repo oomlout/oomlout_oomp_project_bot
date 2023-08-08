@@ -1,8 +1,31 @@
-
-# octelehat by imrehg  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/imrehg/octelehat  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## octelehat  by imrehg  
+  
+(snippet of original readme)  
+  
+- Overclocking Telemetry HAT  
+  
+A Raspberry Pi 3 HAT ("Hardware Attached on Top") specially designed for  
+overclocking.  
+  
+* Temperature measurement  
+* Voltage measurement  
+* I2C connectors for expandability  
+  
+-- License  
+  
+Released under CERN Open Hardware License 1.2, available at  
+http://www.ohwr.org/attachments/2388/cern_ohl_v_1_2.txt  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/imrehg/octelehat](https://github.com/imrehg/octelehat)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

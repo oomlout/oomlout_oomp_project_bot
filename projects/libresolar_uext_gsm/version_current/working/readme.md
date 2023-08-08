@@ -1,8 +1,34 @@
-
-# uext-gsm by LibreSolar  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/LibreSolar/uext-gsm  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## uext-gsm  by LibreSolar  
+  
+(snippet of original readme)  
+  
+- GSM board based on SIM800L for UEXT connector  
+  
+-- Features  
+  
+- Separate power supply from 12V or 5V (GSM board needs 4.2V and 2A)  
+- Reverse polarity protection for separate power supply  
+- UEXT connector to communicate with host MCU  
+  
+--- Top side   
+  
+![Top side of the PCB](UEXT_GSM_top.png)  
+  
+--- Bottom side  
+  
+![Bottom side of the PCB](UEXT_GSM_bot.png)  
+  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/LibreSolar/uext-gsm](https://github.com/LibreSolar/uext-gsm)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

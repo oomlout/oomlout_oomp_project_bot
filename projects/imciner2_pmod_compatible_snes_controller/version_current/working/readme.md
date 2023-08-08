@@ -1,8 +1,58 @@
-
-# PMOD-Compatible_SNES_Controller by imciner2  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/imciner2/PMOD-Compatible_SNES_Controller  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## PMOD-Compatible_SNES_Controller  by imciner2  
+  
+(snippet of original readme)  
+  
+- PMOD-Compatible_SNES_Controller  
+A Pmod(tm) Compatible SNES controller connector.  
+  
+This circuit board is designed to interface a SNES controller to a circuit board containing Digilent Pmod(tm) ports. This circuit board complies with the Digielnt Pmod(tm) Interface Specification found here: https://www.digilentinc.com/Pmods/Digilent-Pmod_%20Interface_Specification.pdf.  
+  
+This project makes use of a 3rd party SNES connector supplied by Raphnet Technologies. It is part number 250025 and can be found here: http://raphnet-tech.com/products/snes_controller_connector/index.php  
+  
+-- Library Housekeeping  
+  
+--- To read in any changes from the Kicad library repository to this one:  
+  
+1. Fetch the changes  
+  
+    ``` git fetch libraries ```  
+  
+2. Merge the changes  
+  
+    ``` git merge -s subtree --squash libraries/master ```  
+  
+3. Commit the changes  
+  
+    ``` git commit -m "Updated libraries directory" ```  
+  
+  
+--- To push any of the changes from this project to the Kicad libarary repository  
+  
+1. Create commits for the changes (make them seperate from everything else)  
+  
+2. Create a new branch locally  
+  
+    ``` git checkout -b library-work libraries/master ```  
+  
+3. Select the commits to add to the library (The command shown below will use the 5th commit before the current revision, simply modify the 5 to change which commit is referenced)  
+  
+    ``` git cherry-pick -x --strategy=subtree master~5 ```  
+  
+4. Push the new changes back to the libraries repository  
+  
+    ``` git push libraries library-work:master ```  
+  
+5.  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/imciner2/PMOD-Compatible_SNES_Controller](https://github.com/imciner2/PMOD-Compatible_SNES_Controller)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

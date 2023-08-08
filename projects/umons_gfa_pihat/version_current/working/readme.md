@@ -1,8 +1,42 @@
-
-# pihat by UMONS-GFA  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/UMONS-GFA/pihat  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## pihat  by UMONS-GFA  
+  
+(snippet of original readme)  
+  
+- Raspberry Pi Hat Template -  
+  
+This project is a template for a Raspberry Pi Hat that was build on the guide lines published on github by the Raspberry Pi foundation. This template is designed to make it easier for hardware developers to design there own Rasberry Pi hats. The template was designed as a comprimse of cost, solderabilty, and footprint. The board has about 80% of its space still avalible to the user. The board also provides typical voltages that are required in many projects. The board is also capable of powering the Raspberry Pi. This makes this template sutable for development in automotive, industrial and home applications.  
+  
+*This project is licensed under the CERN OHL v1.2*  
+  
+--- Features ---  
+  
+- Input voltage 5.5v - 25v  
+- 5v supply from DC/DC @ 2.1A  
+- 3.3v supply from LDO @ 1.5A  
+- Backpowering protection ciruit  
+- Device ID eeprom  
+- Compliant with Raspberry Pi Hat specifications  
+  
+--- Basic Usage Guide ---  
+  
+To use this template first to design a new pihat, you must first create a new branch under git.    
+  
+```  
+git checkout - b PIHAT_NAME  
+git push origin PIHAT_NAME  
+git branch --set-upstream-to=origin/PIHAT_NAME PIHAT_NAME  
+```  
+Open the project in KiCad, you may need to add the library "project-libs" using the library wizard. Then you can add your own components, once the components are added you can tie them to the 3.3v or 5v net depending on what voltages are required. Once done you can then choose the components from CvPCB application. Export the netlist and then   
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/UMONS-GFA/pihat](https://github.com/UMONS-GFA/pihat)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

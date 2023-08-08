@@ -1,8 +1,43 @@
-
-# Qwiic_PT100_ADS122C04 by sparkfunX  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/sparkfunX/Qwiic_PT100_ADS122C04  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## Qwiic_PT100_ADS122C04  by sparkfunX  
+  
+(snippet of original readme)  
+  
+- Qwiic PT100 ADS122C04  
+  
+The Qwiic PT100 is based on the TI ADS122C04 and allows you to measure temperature accurately from  
+100 Ohm Platinum Resistance Thermometers using 2, 3 or 4-wire connections  
+  
+![Qwiic_Instrument_ADC_-_PT100-01.jpg](https://cdn.sparkfun.com//assets/parts/1/5/6/6/2/16770-Qwiic_Instrument_ADC_-_PT100-01.jpg)  
+  
+[Qwiic PT100 - ADS122C04 (SPX-16770)](https://www.sparkfun.com/products/16770)  
+  
+The ADS122C04 is a precision 24-bit delta-sigma analog to digital converter. It can measure voltage very  
+accurately through two differential or four single-ended inputs. It has a flexible input multiplexer,  
+a low-noise programmable gain amplifier, two programmable current sources, a voltage reference  
+and an in-built precision temperature sensor. In summary, it contains everything you need to measure  
+temperature accurately from remote sensors.  
+  
+The Qwiic PT100 is dedicated to reading the temperature of 100 Ohm Platinum Resistance Thermometers  
+using 2, 3 or 4-wire connections. Using a 3 or 4-wire connection allows the ADS122C04 to automatically  
+compensate for the cable resistance. The differential input provides noise rejection for industrial  
+applications.  
+  
+The ADS122C04 features a 2-wire I2C-compatible interface. The chip address can be changed by  
+reconfiguring the two jumpers A0 and A1. Please see the schematic for further details.  
+  
+-- Repository Contents  
+- **/Hardware** - Eagle schematic and PCB design files  
+- **/Documents** - contains the TI datasheet and application rep  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/sparkfunX/Qwiic_PT100_ADS122C04](https://github.com/sparkfunX/Qwiic_PT100_ADS122C04)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

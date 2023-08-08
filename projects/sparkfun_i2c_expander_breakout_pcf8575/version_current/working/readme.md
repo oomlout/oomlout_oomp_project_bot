@@ -1,8 +1,69 @@
-
-# I2C_Expander_Breakout-PCF8575 by sparkfun  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/sparkfun/I2C_Expander_Breakout-PCF8575  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## I2C_Expander_Breakout-PCF8575  by sparkfun  
+  
+(snippet of original readme)  
+  
+SparkFun I2C Expander Breakout - PCF8575  
+========================================  
+  
+![SparkFun I2C Expander Breakout - PCF8575](https://cdn.sparkfun.com//assets/parts/6/8/9/08130-01.jpg)  
+  
+[*SparkFun I2C Expander Breakout - PCF8575 (BOB-08130)*](https://www.sparkfun.com/products/8130)  
+  
+This great IC allows the user to expand up to 16 I/O using only two I/O for control!   
+The PCF8575C is controlled through an I2C interface and features 16-bits of quasi-bidirectional input/output pins.  
+  
+Repository Contents  
+-------------------  
+  
+* **/Firmware** - Example code   
+* **/Hardware** - Eagle design files (.brd, .sch)  
+* **/Production** - Production panel files (.brd)  
+  
+Documentation  
+--------------  
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.  
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.   
+  
+  
+License Information  
+-------------------  
+This product is _**open source**_!   
+  
+The **hardware** is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).  
+  
+The **code** is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!  
+  
+Please use, reuse, and modify these files as you see fit. Please maintain attribution to SparkFun Electronics and release anything derivative under the same license.  
+  
+Distributed as-is; no warranty is given.  
+  
+- Your friends at S  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/sparkfun/I2C_Expander_Breakout-PCF8575](https://github.com/sparkfun/I2C_Expander_Breakout-PCF8575)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  
+  
+[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
+  
+[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
+  
+[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
+  
+[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
+  
+[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
+  
+[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
+  
+[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
+  
+[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  

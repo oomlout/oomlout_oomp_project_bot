@@ -1,8 +1,33 @@
-
-# apa102nano by kiu  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/kiu/apa102nano  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## apa102nano  by kiu  
+  
+(snippet of original readme)  
+  
+- apa102nano  
+I love to play around with adressable [APA102](https://cpldcpu.wordpress.com/2014/08/27/apa102/) LED strips, quickly iterating animations using the Arduino Nano.  
+But I am tired of wiring power, looking up which pins are SPI and having dangling wires everywhere. Time to have some boards ready for a frustration free out-of-the-box experience.  
+  
+![apa102nano](https://raw.githubusercontent.com/kiu/apa102nano/master/pics/apa102nano_full_banner.jpg)  
+  
+- Nitty-Gritty Details  
+Checkout the [pics](https://github.com/kiu/apa102nano/tree/master/pics) and [hardware](https://github.com/kiu/apa102nano/tree/master/rev_a) section including BOM, Schematic, PCB layout, etc.  
+  
+- Errata  
+I included mounting holes as an afterthought and forget to hide the silk screen "REF**" designators :/  
+  
+- License  
+Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)  
+See LICENSE and https://creativecommons.org/licenses/by-nc/3.0/  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/kiu/apa102nano](https://github.com/kiu/apa102nano)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

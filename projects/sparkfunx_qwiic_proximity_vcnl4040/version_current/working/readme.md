@@ -1,8 +1,40 @@
-
-# Qwiic_Proximity_VCNL4040 by sparkfunX  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/sparkfunX/Qwiic_Proximity_VCNL4040  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## Qwiic_Proximity_VCNL4040  by sparkfunX  
+  
+(snippet of original readme)  
+  
+SparkFun VCNL4040 Proximity Sensor (Qwiic) - VCNL4040  
+===========================================================  
+  
+![SparkFun Proximity Sensor (Qwiic) - VCNL4040](https://cdn.sparkfun.com//assets/parts/1/2/8/9/5/14690-Qwiic_Distance_20cm__Qwiic__-_VCNL4040-01.jpg)  
+  
+[*SparkX Proximity Sensor (Qwiic) - VCNL4040 (SPX-14690)*](https://www.sparkfun.com/products/14690)  
+  
+The VCNL4040 is a simple IR presence and ambient light sensor. This sensor is excellent for detecting if something has appeared in front of the sensor. We often see this type of sensor on automatic towel dispensers, automatic faucets, etc. You can detect objects qualitatively up to 20cm away. This means you can detect if something is there, and if it is closer or further away since the last reading, but it's difficult to say it is 7.2cm away. If you need quantitative distance readings (for example sensing that an object is 177mm away) check out the [SparkFun Time of Flight (ToF) sensors](https://www.sparkfun.com/categories/84) with mm accuracy.  
+  
+SparkFun labored with love to create this code. Feel like supporting open source hardware?   
+Buy a [breakout board](https://www.sparkfun.com/products/14690) from SparkFun!  
+  
+Repository Contents  
+-------------------  
+  
+* **/Documents** - Datasheets  
+* **/Hardware** - Eagle design files (.brd, .sch)  
+  
+Library  
+--------------  
+* **[Arduino Library](https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library)** - Library for reading distance and configuring the sensor  
+  
+License Informat  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/sparkfunX/Qwiic_Proximity_VCNL4040](https://github.com/sparkfunX/Qwiic_Proximity_VCNL4040)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

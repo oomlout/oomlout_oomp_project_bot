@@ -1,8 +1,35 @@
-
-# CARC_Repeater by imciner2  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/imciner2/CARC_Repeater  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## CARC_Repeater  by imciner2  
+  
+(snippet of original readme)  
+  
+- CARC Repeater  
+An Amateur Radio Repeater design for the Cyclone Amateur Radio Club  
+  
+- Design Overview  
+This repeater is a dual-band repeater operating on the following frequency pairs:  
+VHF: 147.375 +0.6  
+UHF: 443.375 +5.0  
+  
+It consists of the following parts:  
+* Hamtronics T301 VHF FM Exciter  
+* Hamtronics R303 VHF RM Receiver  
+* Hamtronics T304 UHF FM Exciter  
+* Hamtronics R306 UHF FM Receiver  
+* Arcom RC210 3-port controller  
+* Communications Specialists TS-64WDS CTCSS Tone Encoder/Decoder  
+  
+  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/imciner2/CARC_Repeater](https://github.com/imciner2/CARC_Repeater)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

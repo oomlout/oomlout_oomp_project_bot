@@ -1,8 +1,18 @@
-
-# rack_frontpanel_leds by johslarsen  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/johslarsen/rack_frontpanel_leds  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## rack_frontpanel_leds  by johslarsen  
+  
+(snippet of original readme)  
+  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/johslarsen/rack_frontpanel_leds](https://github.com/johslarsen/rack_frontpanel_leds)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

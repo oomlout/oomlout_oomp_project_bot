@@ -1,8 +1,47 @@
-
-# Adafruit-TXB0104-Level-Shifter-Breakout-PCB by adafruit  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## Adafruit-TXB0104-Level-Shifter-Breakout-PCB  by adafruit  
+  
+(snippet of original readme)  
+  
+-- Adafruit TXB0104 Level Shifter Breakout PCB  
+<a href="http://www.adafruit.com/products/1875"><img src="assets/image.jpg?raw=true" width="500px"><br/>  
+Click here to purchase one from the Adafruit shop</a>  
+  
+This is lovely chip: the TXB0104 bi-directional level converter! This chip perform bidirectional level shifting from pretty much any voltage to any voltage and will auto-detect the direction. Only thing that doesn't work well with this chip is i2c (because it uses strong pullups which confuse auto-direction sensor) or control lines with a lot of capacitance on them. If you need to use pullups, you can but they should be at least 50K ohm - the ones internal to AVRs/Arduino are about 100K ohm so those are OK! Its a little more luxurious than a 74LVX245 but if you just don't want to worry about directional pins this is a life saver!  
+  
+Since this chip is a special bi-directional level shifter it does not have strong output pins that can drive LEDs or long cables, it's meant to sit on a breadboard between two logic chips! If you do not need instant bi-directional support, we suggest the 74LVX245 as below which has stronger output drive.  
+  
+PCB files for the Adafruit TXB0104 Level Shifter Breakout. The format is EagleCAD schematic and board layout  
+- https://www.adafruit.com/product/1875  
+  
+--- License  
+  
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB](https://github.com/adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  
+  
+[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
+  
+[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
+  
+[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
+  
+[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
+  
+[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
+  
+[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
+  
+[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
+  
+[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  

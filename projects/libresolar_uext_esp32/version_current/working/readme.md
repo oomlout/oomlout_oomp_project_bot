@@ -1,8 +1,27 @@
-
-# uext-esp32 by LibreSolar  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/LibreSolar/uext-esp32  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## uext-esp32  by LibreSolar  
+  
+(snippet of original readme)  
+  
+- WiFi/Bluetooth communication board based on ESP32 for UEXT connector  
+  
+![Top side of the PCB](UEXT_ESP32.png)  
+  
+-- Features  
+  
+- UEXT connector to communicate with host MCU via UART  
+- Separate programming connector  
+  
+  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/LibreSolar/uext-esp32](https://github.com/LibreSolar/uext-esp32)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  

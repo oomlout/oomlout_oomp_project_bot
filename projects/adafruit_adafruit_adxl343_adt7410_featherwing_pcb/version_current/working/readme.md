@@ -1,8 +1,34 @@
-
-# Adafruit-ADXL343-ADT7410-Featherwing-PCB by adafruit  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## Adafruit-ADXL343-ADT7410-Featherwing-PCB  by adafruit  
+  
+(snippet of original readme)  
+  
+- Adafruit-ADXL353-ADT7410-Featherwing-PCB  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB](https://github.com/adafruit/Adafruit-ADXL343-ADT7410-Featherwing-PCB)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  
+  
+[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
+  
+[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
+  
+[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
+  
+[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
+  
+[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
+  
+[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
+  
+[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
+  
+[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  

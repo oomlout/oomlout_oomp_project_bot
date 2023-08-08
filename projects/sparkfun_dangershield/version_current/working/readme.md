@@ -1,8 +1,62 @@
-
-# DangerShield by sparkfun  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/sparkfun/DangerShield  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## DangerShield  by sparkfun  
+  
+(snippet of original readme)  
+  
+Danger Shield  
+=============  
+  
+[![Danger Shield](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/5/7/0/10570-01_i_ma.jpg)    
+*Danger Shield (DEV-10570)*](https://www.sparkfun.com/products/10570)  
+  
+This is the layout and example code for the Danger Shield product by SparkFun Electronics. It demonstrates each feature of the shield. Move one of the sliders to get a different sound out of the buzzer. Move another slider to change the digit being displayed on the seven segment display. Move the last slider to change the brightness of one of the two status LEDs. Press one of the large buttons to toggle on/off the status LED. Cover the light sensor to 'scare' the unit.  
+  
+The idea of a Danger Shield was originally created by Zach Hoeken ([http://www.zachhoeken.com/](http://www.zachhoeken.com/))  
+  
+Repository Contents  
+-------------------  
+* **/Firmware** - Example Arduino Sketch  
+* **/Hardware** - All Eagle design files (.brd, .sch)  
+  
+Product History  
+---------------  
+  
+[DEV-09597](https://www.sparkfun.com/products/9597) - *retired*    
+The original version of the Danger Shield which has since been retired.  
+  
+[DEV-10115](https://www.sparkfun.com/products/10115) - *retired*    
+Second version which introduced a knock sensor and a new temperature sensor. Has since been retired.  
+  
+**[DEV-10570](https://www.sparkfun.com/products/10570) - current version**    
+This newest version introduces a capacitive touch sensor. All code in this repository will work best with this version.  
+  
+License Information  
+--  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/sparkfun/DangerShield](https://github.com/sparkfun/DangerShield)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  
+  
+[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
+  
+[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
+  
+[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
+  
+[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
+  
+[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
+  
+[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
+  
+[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
+  
+[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  

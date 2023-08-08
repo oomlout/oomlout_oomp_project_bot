@@ -1,8 +1,30 @@
-
-# esp-wroom-02-break by asukiaaa  
-This is a harvested standardized copy of a project from github.  
-The original project can be found at:  
-https://github.com/asukiaaa/esp-wroom-02-break  
-Please consult that link for additional, details, files, and license information.  
-Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
-    
+# OOMP Project  
+## esp-wroom-02-break  by asukiaaa  
+  
+(snippet of original readme)  
+  
+- esp-wroom-02-break  
+A kicad project for esp-wroom-02  
+  
+![esp-wroom-02-break](/docs/board_front.png)  
+  
+- License  
+MIT  
+  full source readme at [readme_src.md](readme_src.md)  
+  
+source repo at: [https://github.com/asukiaaa/esp-wroom-02-break](https://github.com/asukiaaa/esp-wroom-02-break)  
+## Board  
+  
+[![working_3d.png](working_3d_600.png)](working_3d.png)  
+## Schematic  
+  
+[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
+  
+[schematic pdf](working_schematic.pdf)  
+## Images  
+  
+[![working_3d.png](working_3d_140.png)](working_3d.png)  
+  
+[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
+  
+[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  

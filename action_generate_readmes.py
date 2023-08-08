@@ -12,6 +12,7 @@ def go_through_directories():
             filter = ["sparkfun","adafruit","omerk"]
             filter = ["omerk"]
             filter = ["oshcamp"]
+            filter = [""]
             #if any of filter is in filename
             if any(x in filename for x in filter):
                 #generate for all with a kicad_pcb file
