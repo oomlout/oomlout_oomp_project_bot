@@ -1,4 +1,4 @@
-import oom_kicad
+import oomlout_oomp_project_bot as oom_p_b
 import os
 
 def go_through_directories():
@@ -14,8 +14,9 @@ def go_through_directories():
             filter = ["oshcamp"]
             #if any of filter is in filename
             if any(x in filename for x in filter):
+                #generate for all with a kicad_pcb file
                 if file.endswith(".kicad_pcb"):
-                    oom_kicad.generate_outputs(filename=filename)
+                    oom_p_b.generate_readme(filename=filename)
 
 
 if __name__ == '__main__':
