@@ -14,8 +14,8 @@ def go_through_directories():
         
             #filter = ["electrolama","sparkfun","adafruit","omerk","dangerousprototypes"]
             #filter = ["omerk","electrolama"]
-            filter = ["oshcamp"]
-            #filter = ""
+            #filter = ["oshcamp"]
+            filter = [""]
             #if any of filter is in filename
             if any(x in filename for x in filter):                
                 if file.endswith(".brd"):
