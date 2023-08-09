@@ -10,6 +10,7 @@ def go_through_directories():
         for file in files:
             #check for a brd file
             
+     
             filename = os.path.join(root, file)
         
             #filter = ["electrolama","sparkfun","adafruit","omerk","dangerousprototypes"]
