@@ -4,7 +4,7 @@ import os
 def go_through_directories():   
     # go through all directories in projects
     
-
+    count = 1
     for root, dirs, files in os.walk("projects"):
         #go through all files
         for file in files:
@@ -18,6 +18,8 @@ def go_through_directories():
             #filter = ["oshcamp"]
             filter = [""]
             #if any of filter is in filename
+
+            
             if any(x in filename for x in filter):                
                 if file.endswith(".brd"):
 
@@ -25,7 +27,14 @@ def go_through_directories():
 
                     print(f"working on {filename}")
 
-                    oom_kicad.eagle_to_kicad(filename=filename)
+
+
+                    oom_kicad.eagle_to_kicad(filename=filename, computer="surface")
+
+                    count += 1
+                    if count % 200 == 0:
+                        oom_kicad.push_to_git()
+    oom_kicad.push_to_git()
 
 
 
