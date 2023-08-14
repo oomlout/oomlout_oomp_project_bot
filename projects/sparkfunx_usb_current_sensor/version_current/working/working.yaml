@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfunx_usb_current_sensor\version_current\working
 oomp_key: oomp_projects_flat_sparkfunx_usb_current_sensor
 oomp_key_simple: projects_flat_sparkfunx_usb_current_sensor
+parts_verbose:
+- all: 1,,0_1uf_0603_25v_(_80_20%),c1,0_1uf_0603_25v_(_80_20%),0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,0_1uf_0603_25v_(_80_20%),c1,0_1uf_0603_25v_(_80_20%),0603,1,_,
+- all: 2,,led_red0603,d1,red,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,led_red0603,d1,red,led_0603,1,_,
+- all: 3,,pptc_6v2a,f2,pptc_6v2a,1210,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,pptc_6v2a,f2,pptc_6v2a,1210,1,_,
+- all: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 5,,conn_01pth_no_silk_yes_stop,gnd0_unk1v_a0,conn_01pth_no_silk_yes_stop,1x01_no_silk,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,conn_01pth_no_silk_yes_stop,gnd0_unk1v_a0,conn_01pth_no_silk_yes_stop,1x01_no_silk,2,_,
+- all: 6,,tab_gator_mini,j3_j4,tab_gator_mini,tab_gator_mini,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,tab_gator_mini,j3_j4,tab_gator_mini,tab_gator_mini,2,_,
+- all: 7,,usb_a_smt_female_ns,j2,usb_a_smt_female_ns,usb_a_s_nosilk_female,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,usb_a_smt_female_ns,j2,usb_a_smt_female_ns,usb_a_s_nosilk_female,1,_,
+- all: 8,,usb_c_4_layer_pads,j1,usb_c_4_layer_pads,usb_c_16p_4layer_pads,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,usb_c_4_layer_pads,j1,usb_c_4_layer_pads,usb_c_16p_4layer_pads,1,_,
+- all: 9,,stand_off,jp3_jp4,stand_off,stand_off,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,stand_off,jp3_jp4,stand_off,stand_off,2,_,
+- all: 10,,jumper_smt_2_nc_trace_silk,led0,jumper_smt_2_nc_trace_silk,smt_jumper_2_nc_trace_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,jumper_smt_2_nc_trace_silk,led0,jumper_smt_2_nc_trace_silk,smt_jumper_2_nc_trace_silk,1,_,
+- all: 11,,oshw_logomini,logo1,oshw_logomini,oshw_logo_mini,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,oshw_logomini,logo1,oshw_logomini,oshw_logo_mini,1,_,
+- all: 12,,special_instructions_ordering,logo2,special_instructions_ordering,ordering_instructions,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,special_instructions_ordering,logo2,special_instructions_ordering,ordering_instructions,1,_,
+- all: 13,,5_1kohm5_1kohm_0603_1_10w_1%,r3_r4,5_1k,0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,5_1kohm5_1kohm_0603_1_10w_1%,r3_r4,5_1k,0603,2,_,
+- all: 14,,0_05ohm_0603_1_5w_1%,r2,0_05ohm_0603_1_5w_1%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,0_05ohm_0603_1_5w_1%,r2,0_05ohm_0603_1_5w_1%,0603,1,_,
+- all: 15,,2_2kohm_0603_1_10w_1%,r1,2_2kohm_0603_1_10w_1%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,2_2kohm_0603_1_10w_1%,r1,2_2kohm_0603_1_10w_1%,0603,1,_,
+- all: 16,,ina290a1(20v_v),u1,ina290a1(20v_v),sc70,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,ina290a1(20v_v),u1,ina290a1(20v_v),sc70,1,_,
+- all: 17,,sparkx_logo4,u$2,sparkx_logo4,sparkx_medium,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,sparkx_logo4,u$2,sparkx_logo4,sparkx_medium,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_18_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_18
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,17_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,17
+- all: component_count_,21_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,21_(0_smd_0_tht)
+- all: fitted_components_,21_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,21_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,21
 projects_flat: projects_flat/sparkfunx_usb_current_sensor/version_current/working
 projects_folder: projects_folder/sparkfunx/USB_Current_Sensor/version_current/working
 repo:

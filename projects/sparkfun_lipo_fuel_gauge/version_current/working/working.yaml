@@ -13,6 +13,64 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lipo_fuel_gauge\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lipo_fuel_gauge
 oomp_key_simple: projects_flat_sparkfun_lipo_fuel_gauge
+parts_verbose:
+- all: 1,,1_0uf_0402t_16v_10%,c1,1_0uf_0402t_16v_10%,0402_tight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,1_0uf_0402t_16v_10%,c1,1_0uf_0402t_16v_10%,0402_tight,1,_,
+- all: 2,,10nf_0402t_25v_10%,c2,10nf_0402t_25v_10%,0402_tight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,10nf_0402t_25v_10%,c2,10nf_0402t_25v_10%,0402_tight,1,_,
+- all: 3,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 4,,jumper_smt_3_2_nc_trace_silk,i2c0,jumper_smt_3_2_nc_trace_silk,smt_jumper_3_2_nc_trace_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,jumper_smt_3_2_nc_trace_silk,i2c0,jumper_smt_3_2_nc_trace_silk,smt_jumper_3_2_nc_trace_silk,1,_,
+- all: 5,,conn_021x02_no_silk,jp5,conn_021x02_no_silk,1x02_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,conn_021x02_no_silk,jp5,conn_021x02_no_silk,1x02_no_silk,1,_,
+- all: 6,,conn_031x03_no_silk,jp2_jp4,conn_031x03_no_silk,1x03_no_silk,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,conn_031x03_no_silk,jp2_jp4,conn_031x03_no_silk,1x03_no_silk,2,_,
+- all: 7,,sfe_logo_flame_1_inch,jp3,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,sfe_logo_flame_1_inch,jp3,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,
+- all: 8,,jst_2mm_male,jp1,input,jst_2_smd,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,jst_2mm_male,jp1,input,jst_2_smd,1,_,
+- all: 9,,sfe_logo_name_flameblank,logo1,sfe_logo_name_flameblank,blank,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,sfe_logo_name_flameblank,logo1,sfe_logo_name_flameblank,blank,1,_,
+- all: 10,,100ohm_0402_tight_1_16w_1%,r2,100ohm_0402_tight_1_16w_1%,0402_tight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,100ohm_0402_tight_1_16w_1%,r2,100ohm_0402_tight_1_16w_1%,0402_tight,1,_,
+- all: 11,,1kohm_0402t_1_16w_1%,r1,1kohm_0402t_1_16w_1%,0402_tight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,1kohm_0402t_1_16w_1%,r1,1kohm_0402t_1_16w_1%,0402_tight,1,_,
+- all: 12,,2_2kohm_0402t_1_16w_1%,r3_r4_r5_r6,2_2kohm_0402t_1_16w_1%,0402_tight,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,2_2kohm_0402t_1_16w_1%,r3_r4_r5_r6,2_2kohm_0402t_1_16w_1%,0402_tight,4,_,
+- all: 13,,max1704x,u2,max1704x,tdfn_8,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,max1704x,u2,max1704x,tdfn_8,1,_,
+- all: 14,,oshw_logos,u$1,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,oshw_logos,u$1,oshw_logos,oshw_logo_s,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_05_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_05
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,14_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,14
+- all: component_count_,18_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,18_(0_smd_0_tht)
+- all: fitted_components_,18_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,18_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,18_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,18
 projects_flat: projects_flat/sparkfun_lipo_fuel_gauge/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lipo_fuel_gauge/version_current/working
 projects_folder: projects_folder/sparkfun/Lipo_Fuel_Gauge/version_current/working

@@ -13,6 +13,62 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\tinkerforge_io4_v2_bricklet\version_current\working
 oomp_key: oomp_projects_flat_tinkerforge_io4_v2_bricklet
 oomp_key_simple: projects_flat_tinkerforge_io4_v2_bricklet
+parts_verbose:
+- all: 1,,c,c1,220pf,c0402f,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,c,c1,220pf,c0402f,1,_,
+- all: 2,,c,c4,100nf,c0603f,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,c,c4,100nf,c0603f,1,_,
+- all: 3,,c,c3,1uf,c0603f,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,c,c3,1uf,c0603f,1,_,
+- all: 4,,c,c2,10uf,c0805,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,c,c2,10uf,c0805,1,_,
+- all: 5,,led,d1,blue,d0603f,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,led,d1,blue,d0603f,1,_,
+- all: 6,,akl_5_2,j1_j2_j3_j4_j5,akl_5_2,akl_5_2,5,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,akl_5_2,j1_j2_j3_j4_j5,akl_5_2,akl_5_2,5,_,
+- all: 7,connector_01x02,conn_01x02,p3,boot,solderjumper,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,connector_01x02,conn_01x02,p3,boot,solderjumper,1,_,
+- all: 8,,con_sensor2,p1,con_sensor2,con_sensor2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,con_sensor2,p1,con_sensor2,con_sensor2,1,_,
+- all: 9,connector_01x01,conn_01x01,p2,debug,debug_pad,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,connector_01x01,conn_01x01,p2,debug,debug_pad,1,_,
+- all: 10,,r,r1,1k,r0603f,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,r,r1,1k,r0603f,1,_,
+- all: 11,4_resistors_pack,r_pack4,rp1_rp2,82,4x0402,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,4_resistors_pack,r_pack4,rp1_rp2,82,4x0402,2,_,
+- all: 12,,drill,u2_u3_u4_u5,drill,drill_np,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,drill,u2_u3_u4_u5,drill,drill_np,4,_,
+- all: 13,,xmc1xxx24,u1,xmc1100,qfn24_4x4mm_0_5mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,xmc1xxx24,u1,xmc1100,qfn24_4x4mm_0_5mm,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,2_0_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,2_0
+- all: date_,2023_01_27_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_01_27
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,13_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,13
+- all: component_count_,21_(8_smd_13_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,21_(8_smd_13_tht)
+- all: fitted_components_,21_(8_smd_13_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,21_(8_smd_13_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,21
 projects_flat: projects_flat/tinkerforge_io4_v2_bricklet/version_current/working
 projects_folder: projects_folder/Tinkerforge/io4-v2-bricklet/version_current/working
 repo:

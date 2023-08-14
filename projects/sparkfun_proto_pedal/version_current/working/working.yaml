@@ -13,6 +13,60 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_proto_pedal\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_proto_pedal
 oomp_key_simple: projects_flat_sparkfun_proto_pedal
+parts_verbose:
+- all: 1,,cap_polpth2,c5,1uf,cpol_radial_10uf_25v,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_polpth2,c5,1uf,cpol_radial_10uf_25v,1,_,
+- all: 2,,10uf_25v_20%(pth),c1_c2_c3_c4,10uf,cpol_radial_10uf_25v,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,10uf_25v_20%(pth),c1_c2_c3_c4,10uf,cpol_radial_10uf_25v,4,_,
+- all: 3,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 4,,lm358,ic1,lm358,dip08,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,lm358,ic1,lm358,dip08,1,_,
+- all: 5,,m01nosilk_kit,j1,input,1x01ns_kit,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,m01nosilk_kit,j1,input,1x01ns_kit,1,_,
+- all: 6,,m01nosilk_kit,j2,output,1x01ns_kit,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,m01nosilk_kit,j2,output,1x01ns_kit,1,_,
+- all: 7,,10kohm_1_4w_1%(pth)horiz,r4_r7,10k,axial_0_3,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,10kohm_1_4w_1%(pth)horiz,r4_r7,10k,axial_0_3,2,_,
+- all: 8,,10kohm_1_4w_1%(pth)horiz,r3_r8,22k,axial_0_3,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,10kohm_1_4w_1%(pth)horiz,r3_r8,22k,axial_0_3,2,_,
+- all: 9,,100kohm_1_4w_1%(pth)horiz,r5_r6,100k,axial_0_3,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,100kohm_1_4w_1%(pth)horiz,r5_r6,100k,axial_0_3,2,_,
+- all: 10,,100kohm_1_4w_1%(pth)horiz,r1_r2,1meg,axial_0_3,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,100kohm_1_4w_1%(pth)horiz,r1_r2,1meg,axial_0_3,2,_,
+- all: 11,,pot_rv16af_20,rv1_rv2_rv3_rv4_rv5,10k,pot_alpha_rv16af_20,5,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,pot_rv16af_20,rv1_rv2_rv3_rv4_rv5,10k,pot_alpha_rv16af_20,5,_,
+- all: 12,,v_reg_78xx_to_220,u1,lm7805,to_220_alt,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,v_reg_78xx_to_220,u1,lm7805,to_220_alt,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_13_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_13
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,12_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,12
+- all: component_count_,23_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,23_(0_smd_0_tht)
+- all: fitted_components_,23_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,23_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,23
 projects_flat: projects_flat/sparkfun_proto_pedal/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_proto_pedal/version_current/working
 projects_folder: projects_folder/sparkfun/Proto_Pedal/version_current/working

@@ -15,6 +15,72 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_arduino_pro_mini_328\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_arduino_pro_mini_328
 oomp_key_simple: projects_flat_sparkfun_arduino_pro_mini_328
+parts_verbose:
+- all: 1,,cap0603_cap,c1_c2_c3_c10,0_1uf,0603_cap,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap0603_cap,c1_c2_c3_c10,0_1uf,0603_cap,4,_,
+- all: 2,,cap_pol1206,c13_c19,10uf,eia3216,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_pol1206,c13_c19,10uf,eia3216,2,_,
+- all: 3,,led,d3,green,0603_led_alt1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,led,d3,green,0603_led_alt1,1,_,
+- all: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 5,,arduino_serial_programpth,jp1,ftdi_basic,1x06,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,arduino_serial_programpth,jp1,ftdi_basic,1x06,1,_,
+- all: 6,,m02pth,jp2_jp3,m02pth,1x02,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,m02pth,jp2_jp3,m02pth,1x02,2,_,
+- all: 7,,m12pth,jp6_jp7,m12pth,1x12,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,m12pth,jp6_jp7,m12pth,1x12,2,_,
+- all: 8,,led,led1,red,0603_led_alt1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,led,led1,red,0603_led_alt1,1,_,
+- all: 9,,resonator1{colon}1,q1,resonator1{colon}1,resonator_smd_1_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,resonator1{colon}1,q1,resonator1{colon}1,resonator_smd_1_1,1,_,
+- all: 10,,resistor0603_res,r6,330,0603_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,resistor0603_res,r6,330,0603_res,1,_,
+- all: 11,,resistor0603_res,r2_r11,10k,0603_res,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,resistor0603_res,r2_r11,10k,0603_res,2,_,
+- all: 12,,resistor0603_res,r1_r3,resistor0603_res,0603_res,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,resistor0603_res,r1_r3,resistor0603_res,0603_res,2,_,
+- all: 13,,switch_momentary_2smd_alt01,s1,switch_momentary_2smd_alt01,tactile_switch_smd_alt01,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,switch_momentary_2smd_alt01,s1,switch_momentary_2smd_alt01,tactile_switch_smd_alt01,1,_,
+- all: 14,,atmega168,u1,atmega168,tqfp32_08,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,atmega168,u1,atmega168,tqfp32_08,1,_,
+- all: 15,,v_reg_ldosmd,u2,v_reg_ldosmd,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,v_reg_ldosmd,u2,v_reg_ldosmd,sot23_5,1,_,
+- all: 16,,logo_sfenew,u$11,logo_sfenew,sfe_new_weblogo,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,logo_sfenew,u$11,logo_sfenew,sfe_new_weblogo,1,_,
+- all: 17,,logo_sfesk,u$1,logo_sfesk,sfe_logo_flame,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,logo_sfesk,u$1,logo_sfesk,sfe_logo_flame,1,_,
+- all: 18,,oshw_logos,u$3,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,oshw_logos,u$3,oshw_logos,oshw_logo_s,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_55_58_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_55_58
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,18_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,18
+- all: component_count_,26_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,26_(0_smd_0_tht)
+- all: fitted_components_,26_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,26_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,26_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,26
 projects_flat: projects_flat/sparkfun_arduino_pro_mini_328/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_arduino_pro_mini_328/version_current/working
 projects_folder: projects_folder/sparkfun/Arduino_Pro_Mini_328/version_current/working

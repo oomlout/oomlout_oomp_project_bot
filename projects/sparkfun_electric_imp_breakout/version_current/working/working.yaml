@@ -15,6 +15,76 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_electric_imp_breakout\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_electric_imp_breakout
 oomp_key_simple: projects_flat_sparkfun_electric_imp_breakout
+parts_verbose:
+- all: 1,,0_1uf_25v(_80_20%)(0603),c4,0_1uf,0603_cap,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,0_1uf_25v(_80_20%)(0603),c4,0_1uf,0603_cap,1,_,
+- all: 2,,10uf50v20%(1210),c1,10uf,1210,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,10uf50v20%(1210),c1,10uf,1210,1,_,
+- all: 3,,22uf_6_3v_20%(0805),c2,22uf,0805,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,22uf_6_3v_20%(0805),c2,22uf,0805,1,_,
+- all: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 5,,logo_sfesk,jp6,logo_sfesk,sfe_logo_flame,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,logo_sfesk,jp6,logo_sfesk,sfe_logo_flame,1,_,
+- all: 6,,m02_jst_2_pth_no_silk,jp4,m02_jst_2_pth_no_silk,jst_2_pth_ns,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,m02_jst_2_pth_no_silk,jp4,m02_jst_2_pth_no_silk,jst_2_pth_ns,1,_,
+- all: 7,,m021x02_no_silk,jp2,m021x02_no_silk,1x02_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,m021x02_no_silk,jp2,m021x02_no_silk,1x02_no_silk,1,_,
+- all: 8,,m02smd,jp3,m02smd,1x02_smd,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,m02smd,jp3,m02smd,1x02_smd,1,_,
+- all: 9,,m031x03_no_silk,jp5,m031x03_no_silk,1x03_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,m031x03_no_silk,jp5,m031x03_no_silk,1x03_no_silk,1,_,
+- all: 10,,m09no_silk,jp1,m09no_silk,1x09_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,m09no_silk,jp1,m09no_silk,1x09_no_silk,1,_,
+- all: 11,,sfe_logo_name_flame_1_inch,jp7,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,sfe_logo_name_flame_1_inch,jp7,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,
+- all: 12,,inductorvlf4012a,l1,2_2uh,vlf4012a,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,inductorvlf4012a,l1,2_2uh,vlf4012a,1,_,
+- all: 13,,mosfet_pchannelsmd,q1,mosfet_pchannelsmd,sot23_3,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,mosfet_pchannelsmd,q1,mosfet_pchannelsmd,sot23_3,1,_,
+- all: 14,,100kohm1_10w1%(0603),r1_r3,100k,0603_res,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,100kohm1_10w1%(0603),r1_r3,100k,0603_res,2,_,
+- all: 15,,atsha204_tsu,u3,atsha204_tsu,sot23_3,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,atsha204_tsu,u3,atsha204_tsu,sot23_3,1,_,
+- all: 16,,electric_imp,u4,electric_imp,sd_1_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,electric_imp,u4,electric_imp,sd_1_1,1,_,
+- all: 17,,tps62172,u2,tps62172,wson_8_pad,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,tps62172,u2,tps62172,wson_8_pad,1,_,
+- all: 18,,oshw_logos,u$5,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,oshw_logos,u$5,oshw_logos,oshw_logo_s,1,_,
+- all: 19,,revision,u$3,revision,revision,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,revision,u$3,revision,revision,1,_,
+- all: 20,,usbsmd,x1,usbsmd,usb_minib,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,usbsmd,x1,usbsmd,usb_minib,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_01_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_01
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,21
+- all: component_count_,22_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,22_(0_smd_0_tht)
+- all: fitted_components_,21_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,21_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,21
 projects_flat: projects_flat/sparkfun_electric_imp_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_electric_imp_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/Electric_Imp_Breakout/version_current/working

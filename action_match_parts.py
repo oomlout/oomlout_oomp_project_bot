@@ -3,8 +3,17 @@ import os
 oomp_parts = {}
 
 def go_through_directories():
+    global oomp_parts
     #load oomp_parts
     oomp_parts_yaml = "tmp/oomlout_oomp_parts_src/parts.yaml"
+    #load yaml_file
+    import yaml
+    with open(oomp_parts_yaml, 'r') as stream:
+        try:
+            oomp_parts = yaml.safe_load(stream, Loader=yaml.FullLoader)
+        except yaml.YAMLError as exc:
+            print("yaml error")
+            print(exc)
     # go through all directories in projects
     count2 = 1
     for root, dirs, files in os.walk("projects"):

@@ -13,6 +13,79 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfunx_sparkx_smol_power_board_aaa\version_current\working
 oomp_key: oomp_projects_flat_sparkfunx_sparkx_smol_power_board_aaa
 oomp_key_simple: projects_flat_sparkfunx_sparkx_smol_power_board_aaa
+parts_verbose:
+- all: 1,,0_1uf_0402t_6_3v_10%_x7r,c2_c4_c6_c8,0_1uf_0402t_6_3v_10%_x7r,0402_tight,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,0_1uf_0402t_6_3v_10%_x7r,c2_c4_c6_c8,0_1uf_0402t_6_3v_10%_x7r,0402_tight,4,_,
+- all: 2,,10uf_0402t_6_3v_20%,c1,10uf_0402t_6_3v_20%,0402_tight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,10uf_0402t_6_3v_20%,c1,10uf_0402t_6_3v_20%,0402_tight,1,_,
+- all: 3,,22uf_0603_6_3v_20%,c3_c7,22uf_0603_6_3v_20%,0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,22uf_0603_6_3v_20%,c3_c7,22uf_0603_6_3v_20%,0603,2,_,
+- all: 4,,4_7uf_0402_tight_6_3v_20%_x5r,c5,4_7uf_0402_tight_6_3v_20%_x5r,0402_tight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,4_7uf_0402_tight_6_3v_20%_x5r,c5,4_7uf_0402_tight_6_3v_20%_x5r,0402_tight,1,_,
+- all: 5,,diode_schottky_bat20j,d1,1a_23v_620mv,sod_323,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,diode_schottky_bat20j,d1,1a_23v_620mv,sod_323,1,_,
+- all: 6,,frame_ledger,frame1,frame_ledger,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,frame_ledger,frame1,frame_ledger,creative_commons,1,_,
+- all: 7,,conn_16fpc_16_0_5mm,in0_out0,conn_16fpc_16_0_5mm,fpc_16_0_5mm,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,conn_16fpc_16_0_5mm,in0_out0,conn_16fpc_16_0_5mm,fpc_16_0_5mm,2,_,
+- all: 8,,jst_2mm_male,j1,jst_2mm_male,jst_2_smd,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,jst_2mm_male,j1,jst_2mm_male,jst_2_smd,1,_,
+- all: "9,,4_7\xEE\xBCh_shielded_inductornpis_ls,l2,4_7\xEE\xBCh_shielded_inductornpis_ls,inductor_4x4mm,1,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "9,,4_7\xEE\
+    \xBCh_shielded_inductornpis_ls,l2,4_7\xEE\xBCh_shielded_inductornpis_ls,inductor_4x4mm,1,_,"
+- all: 10,,inductor_lhq32_15uh,l1,15uh,inductor_lqh32,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,inductor_lhq32_15uh,l1,15uh,inductor_lqh32,1,_,
+- all: 11,,oshw_logomini,logo2_logo3,oshw_logomini,oshw_logo_mini,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,oshw_logomini,logo2_logo3,oshw_logomini,oshw_logo_mini,2,_,
+- all: 12,,special_instructions_ordering,logo1,special_instructions_ordering,ordering_instructions,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,special_instructions_ordering,logo1,special_instructions_ordering,ordering_instructions,1,_,
+- all: 13,,jumper_smt_2_nc_trace_silk,proc_pwr_en0,jumper_smt_2_nc_trace_silk,smt_jumper_2_nc_trace_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,jumper_smt_2_nc_trace_silk,proc_pwr_en0,jumper_smt_2_nc_trace_silk,smt_jumper_2_nc_trace_silk,1,_,
+- all: 14,,150kohm_0402t_1_16w_1%,r4,150kohm_0402t_1_16w_1%,0402_tight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,150kohm_0402t_1_16w_1%,r4,150kohm_0402t_1_16w_1%,0402_tight,1,_,
+- all: 15,,180kohm_0402t_1_16w_1%,r2,180kohm_0402t_1_16w_1%,0402_tight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,180kohm_0402t_1_16w_1%,r2,180kohm_0402t_1_16w_1%,0402_tight,1,_,
+- all: 16,,1mohm_0402t_1_16w_5%,r1,1mohm_0402t_1_16w_5%,0402_tight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,1mohm_0402t_1_16w_5%,r1,1mohm_0402t_1_16w_5%,0402_tight,1,_,
+- all: 17,,453kohm_0402t_1_16w_1%,r3,453kohm_0402t_1_16w_1%,0402_tight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,453kohm_0402t_1_16w_1%,r3,453kohm_0402t_1_16w_1%,0402_tight,1,_,
+- all: 18,,attiny43_qfn20,u1,attiny43_qfn20,qfn20_20m1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,attiny43_qfn20,u1,attiny43_qfn20,qfn20_20m1,1,_,
+- all: 19,,tps61200_minimal,u2,tps61200_minimal,qfn_10_pad,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,tps61200_minimal,u2,tps61200_minimal,qfn_10_pad,1,_,
+- all: 20,,smol_logosmall,u$13_u$14,smol_logosmall,smol_small,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,smol_logosmall,u$13_u$14,smol_logosmall,smol_small,2,_,
+- all: 21,,sparkx_logo3,u$1,sparkx_logo3,sparkx_small,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,sparkx_logo3,u$1,sparkx_logo3,sparkx_small,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_17_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_17
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,21
+- all: component_count_,28_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,28_(0_smd_0_tht)
+- all: fitted_components_,28_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,28_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,28_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,28
 projects_flat: projects_flat/sparkfunx_sparkx_smol_power_board_aaa/version_current/working
 projects_folder: projects_folder/sparkfunx/SparkX_smol_Power_Board_AAA/version_current/working
 repo:

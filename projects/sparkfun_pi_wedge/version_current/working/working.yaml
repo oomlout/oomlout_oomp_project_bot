@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_pi_wedge\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_pi_wedge
 oomp_key_simple: projects_flat_sparkfun_pi_wedge
+parts_verbose:
+- all: 1,,10uf_25v_20%(pth)kit,c3v0_c5v0,10uf,cpol_radial_10uf_25v_kit,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,10uf_25v_20%(pth)kit,c3v0_c5v0,10uf,cpol_radial_10uf_25v_kit,2,_,
+- all: 2,,frame_letter,frame2,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,frame_letter,frame2,frame_letter,creative_commons,1,_,
+- all: 3,,ftdi_device,jp4,ftdi_device,ftdi_device_side,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,ftdi_device,jp4,ftdi_device,ftdi_device_side,1,_,
+- all: 4,,logo_sfesk,jp1_jp5,logo_sfesk,sfe_logo_flame,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,logo_sfesk,jp1_jp5,logo_sfesk,sfe_logo_flame,2,_,
+- all: 5,,m121x12_no_silk_kit,jp2_jp3,m121x12_no_silk_kit,1x12_no_silk_kit,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,m121x12_no_silk_kit,jp2_jp3,m121x12_no_silk_kit,1x12_no_silk_kit,2,_,
+- all: 6,,raspberrypi_gpiopth,jp8,raspberrypi_gpiopth,2x13_shrouded,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,raspberrypi_gpiopth,jp8,raspberrypi_gpiopth,2x13_shrouded,1,_,
+- all: 7,,sfe_logo_name_flame_2_inch,logo1,sfe_logo_name_flame_2_inch,sfe_logo_name_flame_2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,sfe_logo_name_flame_2_inch,logo1,sfe_logo_name_flame_2_inch,sfe_logo_name_flame_2,1,_,
+- all: 8,,stand_off,standoff1_standoff2,stand_off,stand_off,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,stand_off,standoff1_standoff2,stand_off,stand_off,2,_,
+- all: 9,,breadboard_pattern,u$2,breadboard_pattern,breadboard_spacing,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,breadboard_pattern,u$2,breadboard_pattern,breadboard_spacing,1,_,
+- all: 10,,oshw_logos,u$1,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,oshw_logos,u$1,oshw_logos,oshw_logo_s,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_12_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_12
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,10_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,10
+- all: component_count_,14_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,14_(0_smd_0_tht)
+- all: fitted_components_,14_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,14_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,14_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,14
 projects_flat: projects_flat/sparkfun_pi_wedge/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_pi_wedge/version_current/working
 projects_folder: projects_folder/sparkfun/Pi_Wedge/version_current/working

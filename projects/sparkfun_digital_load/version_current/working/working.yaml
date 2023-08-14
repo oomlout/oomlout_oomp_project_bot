@@ -15,6 +15,66 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_digital_load\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_digital_load
 oomp_key_simple: projects_flat_sparkfun_digital_load
+parts_verbose:
+- all: 1,,frame_letterno_package,frame3,frame_letterno_package,dummy,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 1,,frame_letterno_package,frame3,frame_letterno_package,dummy,1,_,,
+- all: 2,,heatsinkprt_9576,hs1,heatsinkprt_9576,heatsink_prt_9576,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 2,,heatsinkprt_9576,hs1,heatsinkprt_9576,heatsink_prt_9576,1,_,,
+- all: 3,,conn_023_5mm,j1,conn_023_5mm,screwterminal_3_5mm_2,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 3,,conn_023_5mm,j1,conn_023_5mm,screwterminal_3_5mm_2,1,_,,
+- all: 4,,conn_05x2shd,j2,conn_05x2shd,2x5_shrouded,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 4,,conn_05x2shd,j2,conn_05x2shd,2x5_shrouded,1,_,,
+- all: 5,,m10lock,jp7,1x10_female_pth,1x10_lock,1,_,,conn_11563_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 5,,m10lock,jp7,1x10_female_pth,1x10_lock,1,_,,conn_11563
+- all: 6,,m06sip_lock,jp4,1x6_female_pth,1x06_sip_lock,1,_,,conn_08437_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 6,,m06sip_lock,jp4,1x6_female_pth,1x06_sip_lock,1,_,,conn_08437
+- all: 7,,m08lock,jp5_jp6_jp10,1x8_female_pth,1x08_lock,3,_,,conn_08438_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 7,,m08lock,jp5_jp6_jp10,1x8_female_pth,1x08_lock,3,_,,conn_08438
+- all: 8,,m06x2pth_female,jp8_jp9_jp11_jp12,2x6_female,2x6,4,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 8,,m06x2pth_female,jp8_jp9_jp11_jp12,2x6_female,2x6,4,_,,
+- all: 9,,mosfet_nch_fqp30n06l,q1,mosfet_nch_fqp30n06l,to220v,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 9,,mosfet_nch_fqp30n06l,q1,mosfet_nch_fqp30n06l,to220v,1,_,,
+- all: 10,,1kohm_0603_1_10w_1%,r2,1kohm_0603_1_10w_1%,0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 10,,1kohm_0603_1_10w_1%,r2,1kohm_0603_1_10w_1%,0603,1,_,,
+- all: 11,,1ohm_axial_2_0_10w_5%,r1,1ohm_axial_2_0_10w_5%,axial_2_0,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 11,,1ohm_axial_2_0_10w_5%,r1,1ohm_axial_2_0_10w_5%,axial_2_0,1,_,,
+- all: 12,,787ohm_0603_1_10w_1%,r3,787ohm_0603_1_10w_1%,0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 12,,787ohm_0603_1_10w_1%,r3,787ohm_0603_1_10w_1%,0603,1,_,,
+- all: 13,,8_2kohm_0603_1_10w_5%,r4,8_2kohm_0603_1_10w_5%,0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 13,,8_2kohm_0603_1_10w_5%,r4,8_2kohm_0603_1_10w_5%,0603,1,_,,
+- all: 14,,2pt_gnd_tie,supply2,2pt_gnd_tie,2pt_gnd_tie,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 14,,2pt_gnd_tie,supply2,2pt_gnd_tie,2pt_gnd_tie,1,_,,
+- all: 15,,potentiometer_pth_9mm_1_20w_20%,vr1,10k,pot_pth_alps,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 15,,potentiometer_pth_9mm_1_20w_20%,vr1,10k,pot_pth_alps,1,_,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: revision_,
+- all: date_,2023_08_06_12_56_00_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: date_,2023_08_06_12_56_00
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: statistics_
+- all: component_groups_,15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_groups_,15
+- all: component_count_,20_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_count_,20_(0_smd_0_tht)
+- all: fitted_components_,20_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: fitted_components_,20_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: number_of_pcbs_,1
+- all: total_components_,20_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: total_components_,20
 projects_flat: projects_flat/sparkfun_digital_load/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_digital_load/version_current/working
 projects_folder: projects_folder/sparkfun/Digital_Load/version_current/working

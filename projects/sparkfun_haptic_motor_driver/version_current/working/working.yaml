@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_haptic_motor_driver\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_haptic_motor_driver
 oomp_key_simple: projects_flat_sparkfun_haptic_motor_driver
+parts_verbose:
+- all: 1,,1_0uf_16v_10%(0402),c1_c3,1_0uf,0402_cap,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,1_0uf_16v_10%(0402),c1_c3,1_0uf,0402_cap,2,_,
+- all: 2,,frame_letter,frame2,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,frame_letter,frame2,frame_letter,creative_commons,1,_,
+- all: 3,,jumper_pad_3_nc_by_paste,i2c0,jumper_pad_3_nc_by_paste,pad_jumper_3_nc_by_paste_yes_silk_full_box,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,jumper_pad_3_nc_by_paste,i2c0,jumper_pad_3_nc_by_paste,pad_jumper_3_nc_by_paste_yes_silk_full_box,1,_,
+- all: 4,,m02pth,jp2,m02pth,1x02,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,m02pth,jp2,m02pth,1x02,1,_,
+- all: 5,,m06silk_female_pth,jp1,m06silk_female_pth,1x06,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,m06silk_female_pth,jp1,m06silk_female_pth,1x06,1,_,
+- all: 6,,oshw_logos,logo2,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,oshw_logos,logo2,oshw_logos,oshw_logo_s,1,_,
+- all: 7,,sfe_logo_name_flame_1_inch,logo4,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,sfe_logo_name_flame_1_inch,logo4,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,
+- all: 8,,2_2kohm_1_10w_1%(0603),r1_r2,2_2k,0603_res,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,2_2kohm_1_10w_1%(0603),r1_r2,2_2k,0603_res,2,_,
+- all: 9,,stand_off,standoff1_standoff4,stand_off,stand_off,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,stand_off,standoff1_standoff4,stand_off,stand_off,2,_,
+- all: 10,,drv2605l,u1,drv2605l,vssop_10,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,drv2605l,u1,drv2605l,vssop_10,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_03_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_03
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,10_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,10
+- all: component_count_,13_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,13_(0_smd_0_tht)
+- all: fitted_components_,13_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,13_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,13_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,13
 projects_flat: projects_flat/sparkfun_haptic_motor_driver/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_haptic_motor_driver/version_current/working
 projects_folder: projects_folder/sparkfun/Haptic_Motor_Driver/version_current/working

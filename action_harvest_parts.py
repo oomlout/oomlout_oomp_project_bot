@@ -69,7 +69,9 @@ def go_through_directories():
         if count2 % 1000 == 0:
             import oom_kicad
             oom_kicad.push_to_git()
-                    
+    import oom_kicad
+    oom_kicad.push_to_git()
+            
 
 
 

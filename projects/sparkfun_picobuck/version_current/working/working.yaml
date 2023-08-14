@@ -15,6 +15,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_picobuck\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_picobuck
 oomp_key_simple: projects_flat_sparkfun_picobuck
+parts_verbose:
+- all: 1,,1_0uf_25v_80_20(0805),c1_c3_c5,1uf,0805,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,1_0uf_25v_80_20(0805),c1_c3_c5,1uf,0805,3,_,
+- all: 2,,2_2uf_25v_80_20(0805),c2_c4_c6,2_2uf,0805,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,2_2uf_25v_80_20(0805),c2_c4_c6,2_2uf,0805,3,_,
+- all: 3,,conn_023_5mm_lock,ch1_ch2_ch3_jp2,conn_023_5mm_lock,screwterminal_3_5mm_2_lock,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,conn_023_5mm_lock,ch1_ch2_ch3_jp2,conn_023_5mm_lock,screwterminal_3_5mm_2_lock,4,_,
+- all: 4,,diode_schottky_mbra140,d1_d2_d3,diode_schottky_mbra140,sma_diode,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,diode_schottky_mbra140,d1_d2_d3,diode_schottky_mbra140,sma_diode,3,_,
+- all: 5,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 6,,m022_54mm_screwterm,jp3_jp4,m022_54mm_screwterm,1x02_2_54_screwterm@1,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,m022_54mm_screwterm,jp3_jp4,m022_54mm_screwterm,1x02_2_54_screwterm@1,2,_,
+- all: "7,,inductor_srn6045_33uh,l1_l2_l3,33\xE2\xB5h_\xE2\xB120%_1_4a,srn6045,3,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "7,,inductor_srn6045_33uh,l1_l2_l3,33\xE2\
+    \xB5h_\xE2\xB120%_1_4a,srn6045,3,_,"
+- all: 8,,logo_sfenew,logo2,logo_sfenew,sfe_new_weblogo,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,logo_sfenew,logo2,logo_sfenew,sfe_new_weblogo,1,_,
+- all: 9,,oshw_logos,logo1,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,oshw_logos,logo1,oshw_logos,oshw_logo_s,1,_,
+- all: 10,,0_3ohm_1_8w_1%(0805),r1_r2_r3_r4_r5_r6,0_3r,0805,6,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,0_3ohm_1_8w_1%(0805),r1_r2_r3_r4_r5_r6,0_3r,0805,6,_,
+- all: 11,,jumper_smt_2_no_no_silk,sj1_sj2_sj3,jumper_smt_2_no_no_silk,smt_jumper_2_no_no_silk,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,jumper_smt_2_no_no_silk,sj1_sj2_sj3,jumper_smt_2_no_no_silk,smt_jumper_2_no_no_silk,3,_,
+- all: 12,,stand_off,standoff1_standoff2,stand_off,stand_off,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,stand_off,standoff1_standoff2,stand_off,stand_off,2,_,
+- all: 13,,al8860sot23,u1_u2_u3,al8860sot23,sot23_5,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,al8860sot23,u1_u2_u3,al8860sot23,sot23_5,3,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_12_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_12
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,13_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,13
+- all: component_count_,35_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,35_(0_smd_0_tht)
+- all: fitted_components_,35_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,35_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,35_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,35
 projects_flat: projects_flat/sparkfun_picobuck/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_picobuck/version_current/working
 projects_folder: projects_folder/sparkfun/PicoBuck/version_current/working

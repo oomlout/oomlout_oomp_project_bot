@@ -15,6 +15,74 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfunx_sparkfun_valve_control_shield\version_current\working
 oomp_key: oomp_projects_flat_sparkfunx_sparkfun_valve_control_shield
 oomp_key_simple: projects_flat_sparkfunx_sparkfun_valve_control_shield
+parts_verbose:
+- all: 1,,1000uf_radial_5mm_35v_20%_kit,c1_c2,1000uf_radial_5mm_35v_20%_kit,cpol_radial_5mm_10mm_kit,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,1000uf_radial_5mm_35v_20%_kit,c1_c2,1000uf_radial_5mm_35v_20%_kit,cpol_radial_5mm_10mm_kit,2,_,
+- all: 2,,diode_schottky_mss1p6_m3_89a,d3_d4,1a_60v_520mv,diode_micro_smp,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,diode_schottky_mss1p6_m3_89a,d3_d4,1a_60v_520mv,diode_micro_smp,2,_,
+- all: 3,,led1206,d6,status,led_1206,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,led1206,d6,status,led_1206,1,_,
+- all: 4,,frame_ledger,frame2,frame_ledger,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,frame_ledger,frame2,frame_ledger,creative_commons,1,_,
+- all: 5,,stand_off,h1_h2_h4,stand_off,stand_off,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,stand_off,h1_h2_h4,stand_off,stand_off,3,_,
+- all: 6,,conn_02latch_2,j3_j5,conn_02latch_2,latchterminal_5mm_2,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,conn_02latch_2,j3_j5,conn_02latch_2,latchterminal_5mm_2,2,_,
+- all: 7,,power_jacksmd,j1,power_jacksmd,power_jack_smd,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,power_jacksmd,j1,power_jacksmd,power_jack_smd,1,_,
+- all: 8,,arduino_r3_shieldnolabels,jp8,arduino_r3_shieldnolabels,uno_r3_shield_nolabels,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,arduino_r3_shieldnolabels,jp8,arduino_r3_shieldnolabels,uno_r3_shield_nolabels,1,_,
+- all: 9,,conn_06no_silk_no_pop,jp10,conn_06no_silk_no_pop,1x06_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,conn_06no_silk_no_pop,jp10,conn_06no_silk_no_pop,1x06_no_silk,1,_,
+- all: 10,,conn_08no_silk_female_pth,jp11_jp12,conn_08no_silk_female_pth,1x08_no_silk,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,conn_08no_silk_female_pth,jp11_jp12,conn_08no_silk_female_pth,1x08_no_silk,2,_,
+- all: 11,,conn_10no_silk_pth_female,jp1,conn_10no_silk_pth_female,1x10_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,conn_10no_silk_pth_female,jp1,conn_10no_silk_pth_female,1x10_no_silk,1,_,
+- all: 12,,oshw_logos,logo1,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,oshw_logos,logo1,oshw_logos,oshw_logo_s,1,_,
+- all: 13,,mosfet_nch_psmn7r0,q3_q4,mosfet_nch_psmn7r0,to_263_d2pak,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,mosfet_nch_psmn7r0,q3_q4,mosfet_nch_psmn7r0,to_263_d2pak,2,_,
+- all: 14,,10kohm_0603_1_10w_1%,r2_r3_r4,10kohm_0603_1_10w_1%,0603,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,10kohm_0603_1_10w_1%,r2_r3_r4,10kohm_0603_1_10w_1%,0603,3,_,
+- all: 15,,1kohm_0603_1_10w_1%,r1,1kohm_0603_1_10w_1%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,1kohm_0603_1_10w_1%,r1,1kohm_0603_1_10w_1%,0603,1,_,
+- all: 16,,30_1kohm_0603_1_10w_1%,r6,30_1kohm_0603_1_10w_1%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,30_1kohm_0603_1_10w_1%,r6,30_1kohm_0603_1_10w_1%,0603,1,_,
+- all: 17,,momentary_switch_spst_smd_5_2mm_tall,s4_sw2,momentary_switch_spst_smd_5_2mm_tall,tactile_switch_smd_5_2mm,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,momentary_switch_spst_smd_5_2mm_tall,s4_sw2,momentary_switch_spst_smd_5_2mm_tall,tactile_switch_smd_5_2mm,2,_,
+- all: 18,,sparkx_logo5,u$1,sparkx_logo5,sparkx_large,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,sparkx_logo5,u$1,sparkx_logo5,sparkx_large,1,_,
+- all: 19,,trimpot_pth_10mm_knob_1_2w_10%,vr1_vr2,10k,trimpot_pth_3386u,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,trimpot_pth_10mm_knob_1_2w_10%,vr1_vr2,10k,trimpot_pth_3386u,2,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_16_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_16
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,19_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,19
+- all: component_count_,30_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,30_(0_smd_0_tht)
+- all: fitted_components_,30_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,30_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,30_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,30
 projects_flat: projects_flat/sparkfunx_sparkfun_valve_control_shield/version_current/working
 projects_folder: projects_folder/sparkfunx/SparkFun_Valve_Control_Shield/version_current/working
 repo:

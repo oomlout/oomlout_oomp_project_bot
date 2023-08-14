@@ -13,6 +13,66 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_gator_log\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_gator_log
 oomp_key_simple: projects_flat_sparkfun_gator_log
+parts_verbose:
+- all: 1,,0_1uf_0603_25v_5%,c2_c3,0_1uf_0603_25v_5%,0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,0_1uf_0603_25v_5%,c2_c3,0_1uf_0603_25v_5%,0603,2,_,
+- all: 2,,led_blue0603,d1,blue,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,led_blue0603,d1,blue,led_0603,1,_,
+- all: 3,,diode_zener_bzt52c3v6s,d2_d4_d5_d6,diode_zener_bzt52c3v6s,sod_323,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,diode_zener_bzt52c3v6s,d2_d4_d5_d6,diode_zener_bzt52c3v6s,sod_323,4,_,
+- all: 4,,led_green0603,d3,green,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,led_green0603,d3,green,led_0603,1,_,
+- all: 5,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 6,,gatorgator_mini,j5_j6_j7_j8_j9,gatorgator_mini,gator_mini,5,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,gatorgator_mini,j5_j6_j7_j8_j9,gatorgator_mini,gator_mini,5,_,
+- all: 7,,oshw_logomini,logo2,oshw_logomini,oshw_logo_mini,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,oshw_logomini,logo2,oshw_logomini,oshw_logo_mini,1,_,
+- all: 8,,sfe_logo_flame_1_inch,logo1,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,sfe_logo_flame_1_inch,logo1,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,
+- all: 9,,resonator16mhz,q1,16mhz,resonator_smd,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,resonator16mhz,q1,16mhz,resonator_smd,1,_,
+- all: 10,,mosfet_pch_dmg2307l,q3,mosfet_pch_dmg2307l,sot23_3,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,mosfet_pch_dmg2307l,q3,mosfet_pch_dmg2307l,sot23_3,1,_,
+- all: 11,,10kohm_0603_1_10w_1%,r2_r3,10kohm_0603_1_10w_1%,0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,10kohm_0603_1_10w_1%,r2_r3,10kohm_0603_1_10w_1%,0603,2,_,
+- all: 12,,1kohm_0603_1_10w_1%,r1,1kohm_0603_1_10w_1%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,1kohm_0603_1_10w_1%,r1,1kohm_0603_1_10w_1%,0603,1,_,
+- all: 13,,330ohm_0603_1_10w_1%,r6,330ohm_0603_1_10w_1%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,330ohm_0603_1_10w_1%,r6,330ohm_0603_1_10w_1%,0603,1,_,
+- all: 14,,atmega328p_tqfp,u1,atmega328p_tqfp,tqfp32_08,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,atmega328p_tqfp,u1,atmega328p_tqfp,tqfp32_08,1,_,
+- all: 15,,usd_socket,u3,usd_socket,microsd_1_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,usd_socket,u3,usd_socket,microsd_1_1,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_02_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_02
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,15
+- all: component_count_,24_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,24_(0_smd_0_tht)
+- all: fitted_components_,24_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,24_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,24_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,24
 projects_flat: projects_flat/sparkfun_gator_log/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_gator_log/version_current/working
 projects_folder: projects_folder/sparkfun/gator_log/version_current/working

@@ -15,6 +15,66 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lilypad_simple_power\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lilypad_simple_power
 oomp_key_simple: projects_flat_sparkfun_lilypad_simple_power
+parts_verbose:
+- all: 1,,4_7uf_6_3v_10%(0603)0603,c1_c2,4_7uf,0603_cap,2,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 1,,4_7uf_6_3v_10%(0603)0603,c1_c2,4_7uf,0603_cap,2,_,,,
+- all: 2,,led_yellow0603,d1,yellow,led_0603,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 2,,led_yellow0603,d1,yellow,led_0603,1,_,,,
+- all: 3,,frame_letter,frame1,frame_letter,creative_commons,1,_,,nathan_seidle,v21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 3,,frame_letter,frame1,frame_letter,creative_commons,1,_,,nathan_seidle,v21
+- all: 4,,m02_jst_2mm_smt,jp1,m02_jst_2mm_smt,jst_2_smd,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 4,,m02_jst_2mm_smt,jp1,m02_jst_2mm_smt,jst_2_smd,1,_,,,
+- all: 5,,sewtap9,jp2_jp3,sewtap9,petal_long_1_2side,2,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 5,,sewtap9,jp2_jp3,sewtap9,petal_long_1_2side,2,_,,,
+- all: 6,,sfe_logo_flame_1_inch,jp5,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 6,,sfe_logo_flame_1_inch,jp5,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,,,
+- all: 7,,usb_microb_plugconn_11752,jp4,usb_microb_plugconn_11752,usb_b_micro_smd_v03,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 7,,usb_microb_plugconn_11752,jp4,usb_microb_plugconn_11752,usb_b_micro_smd_v03,1,_,,,
+- all: 8,,330ohm1_10w1%(0603),r3,330,0603_res,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 8,,330ohm1_10w1%(0603),r3,330,0603_res,1,_,,,
+- all: 9,,2_0kohm1_10w5%(0603),r4,2_0k,0603_res,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 9,,2_0kohm1_10w5%(0603),r4,2_0k,0603_res,1,_,,,
+- all: 10,,switch_dpdtayz0202,s1,dpdt,ayz0202,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 10,,switch_dpdtayz0202,s1,dpdt,ayz0202,1,_,,,
+- all: 11,,sew_hole_no_pad,standoff1_standoff2_standoff3_standoff4,sew_hole_no_pad,sew_hole_no_pad,4,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 11,,sew_hole_no_pad,standoff1_standoff2_standoff3_standoff4,sew_hole_no_pad,sew_hole_no_pad,4,_,,,
+- all: 12,,mcp73831,u1,mcp73831,sot23_5,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 12,,mcp73831,u1,mcp73831,sot23_5,1,_,,,
+- all: 13,,logo_lplp,u$1,logo_lplp,logo_lilypad,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 13,,logo_lplp,u$1,logo_lplp,logo_lilypad,1,_,,,
+- all: 14,,oshw_logos,u$5,oshw_logos,oshw_logo_s,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 14,,oshw_logos,u$5,oshw_logos,oshw_logo_s,1,_,,,
+- all: 15,,revision,u$6,revision,revision,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 15,,revision,u$6,revision,revision,1,_,,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: revision_,
+- all: date_,2023_08_06_12_56_04_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: date_,2023_08_06_12_56_04
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: statistics_
+- all: component_groups_,15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: component_groups_,15
+- all: component_count_,20_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: component_count_,20_(0_smd_0_tht)
+- all: fitted_components_,20_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: fitted_components_,20_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: number_of_pcbs_,1
+- all: total_components_,20_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: total_components_,20
 projects_flat: projects_flat/sparkfun_lilypad_simple_power/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lilypad_simple_power/version_current/working
 projects_folder: projects_folder/sparkfun/LilyPad_Simple_Power/version_current/working

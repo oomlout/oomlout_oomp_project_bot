@@ -15,6 +15,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lsm6ds3_breakout\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lsm6ds3_breakout
 oomp_key_simple: projects_flat_sparkfun_lsm6ds3_breakout
+parts_verbose:
+- all: 1,,0_1uf_100v_10%(0603),c3_c4,0_1uf,0603_cap,2,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 1,,0_1uf_100v_10%(0603),c3_c4,0_1uf,0603_cap,2,_,,,
+- all: 2,,frame_letter,frame1,frame_letter,creative_commons,1,_,,marshall_taylor,v10_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 2,,frame_letter,frame1,frame_letter,creative_commons,1,_,,marshall_taylor,v10
+- all: 3,,m01pth_no_silk_yes_stop,jp2,3_3v,1x01_no_silk,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 3,,m01pth_no_silk_yes_stop,jp2,3_3v,1x01_no_silk,1,_,,,
+- all: 4,,m01pth_no_silk_yes_stop,jp11,gnd,1x01_no_silk,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 4,,m01pth_no_silk_yes_stop,jp11,gnd,1x01_no_silk,1,_,,,
+- all: 5,,m06no_silk_yes_stop,jp1,io,1x06_no_silk_yes_stop,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 5,,m06no_silk_yes_stop,jp1,io,1x06_no_silk_yes_stop,1,_,,,
+- all: 6,,m05pth,jp3,io,1x05,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 6,,m05pth,jp3,io,1x05,1,_,,,
+- all: 7,,_inductor30ohm,1_8a_,l1,res_07859,0603,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 7,,_inductor30ohm,1_8a_,l1,res_07859,0603,1,_,,,
+- all: 8,,oshw_logos,logo2,oshw_logos,oshw_logo_s,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 8,,oshw_logos,logo2,oshw_logos,oshw_logo_s,1,_,,,
+- all: 9,,sfe_logo_flame_2_inch,logo1,sfe_logo_flame_2_inch,sfe_logo_flame_2,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 9,,sfe_logo_flame_2_inch,logo1,sfe_logo_flame_2_inch,sfe_logo_flame_2,1,_,,,
+- all: 10,,sfe_logo_name_flame_1_inch,logo3,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 10,,sfe_logo_name_flame_1_inch,logo3,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,,,
+- all: 11,,4_7kohm_1_10w_1%(0603),r1_r2,4_7k,0603_res,2,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 11,,4_7kohm_1_10w_1%(0603),r1_r2,4_7k,0603_res,2,_,,,
+- all: 12,,10kohm_1_10w_1%(0603)0603,r3,10k,0603_res,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 12,,10kohm_1_10w_1%(0603)0603,r3,10k,0603_res,1,_,,,
+- all: 13,,jumper_pad_2_nc_by_trace,sj3_sj4,jumper_pad_2_nc_by_trace,pad_jumper_2_nc_by_trace_yes_silk,2,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 13,,jumper_pad_2_nc_by_trace,sj3_sj4,jumper_pad_2_nc_by_trace,pad_jumper_2_nc_by_trace_yes_silk,2,_,,,
+- all: 14,,jumper_pad_3_2of3_nc_by_paste,sj1,jumper_pad_3_2of3_nc_by_paste,pad_jumper_3_2of3_nc_by_paste_yes_silk_full_box,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 14,,jumper_pad_3_2of3_nc_by_paste,sj1,jumper_pad_3_2of3_nc_by_paste,pad_jumper_3_2of3_nc_by_paste_yes_silk_full_box,1,_,,,
+- all: 15,,jumper_pad_3_nc_by_trace,sj2,s_mode,pad_jumper_3_3of3_nc_by_trace_yes_silk_full_box,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 15,,jumper_pad_3_nc_by_trace,sj2,s_mode,pad_jumper_3_3of3_nc_by_trace_yes_silk_full_box,1,_,,,
+- all: 16,,stand_off,standoff1_standoff2_standoff3_standoff4,stand_off,stand_off,4,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 16,,stand_off,standoff1_standoff2_standoff3_standoff4,stand_off,stand_off,4,_,,,
+- all: 17,,lsm6ds3dot_indication,u2,lsm6ds3dot_indication,lga14l_dot_indicator,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: 17,,lsm6ds3dot_indication,u2,lsm6ds3dot_indication,lga14l_dot_indicator,1,_,,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: revision_,
+- all: date_,2023_08_06_12_56_05_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: date_,2023_08_06_12_56_05
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: statistics_
+- all: component_groups_,17_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: component_groups_,17
+- all: component_count_,23_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: component_count_,23_(0_smd_0_tht)
+- all: fitted_components_,23_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: fitted_components_,23_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: number_of_pcbs_,1
+- all: total_components_,23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,version: total_components_,23
 projects_flat: projects_flat/sparkfun_lsm6ds3_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lsm6ds3_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/LSM6DS3_Breakout/version_current/working

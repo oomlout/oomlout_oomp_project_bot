@@ -15,6 +15,62 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_h2ohno\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_h2ohno
 oomp_key_simple: projects_flat_sparkfun_h2ohno
+parts_verbose:
+- all: 1,,battery20pth,bat1,battery20pth,battcom_20mm_pth,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 1,,battery20pth,bat1,battery20pth,battcom_20mm_pth,1,_,,
+- all: 2,,cappth2,c6,0_1uf,cap_pth_small2,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 2,,cappth2,c6,0_1uf,cap_pth_small2,1,_,,
+- all: 3,,frame_letter,frame2,frame_letter,creative_commons,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 3,,frame_letter,frame2,frame_letter,creative_commons,1,_,,
+- all: 4,,m06sip,jp4,isp,1x06,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 4,,m06sip,jp4,isp,1x06,1,_,,
+- all: 5,,m02pth,jp3,m02pth,1x02,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 5,,m02pth,jp3,m02pth,1x02,1,_,,
+- all: 6,,led5mm,led1,led5mm,led5mm,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 6,,led5mm,led1,led5mm,led5mm,1,_,,
+- all: 7,,switch_spdtpth,s1,power,switch_spdt,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 7,,switch_spdtpth,s1,power,switch_spdt,1,_,,
+- all: 8,,buzzerpth,sg1,buzzerpth,buzzer_12mm,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 8,,buzzerpth,sg1,buzzerpth,buzzer_12mm,1,_,,
+- all: 9,,stand_off,standoff1_standoff3_standoff4,stand_off,stand_off,3,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 9,,stand_off,standoff1_standoff3_standoff4,stand_off,stand_off,3,_,,
+- all: 10,,attiny45tiny85_20_dip,u2,tiny85_20_dip,dip08,1,_,,ic_09445_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 10,,attiny45tiny85_20_dip,u2,tiny85_20_dip,dip08,1,_,,ic_09445
+- all: 11,,logo_sfenw2,u$5,logo_sfenw2,sfe_new_web,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 11,,logo_sfenw2,u$5,logo_sfenw2,sfe_new_web,1,_,,
+- all: 12,,logo_sfesk,u$1,logo_sfesk,sfe_logo_flame,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 12,,logo_sfesk,u$1,logo_sfesk,sfe_logo_flame,1,_,,
+- all: 13,,oshw_logos,u$4,oshw_logos,oshw_logo_s,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 13,,oshw_logos,u$4,oshw_logos,oshw_logo_s,1,_,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: revision_,
+- all: date_,2023_08_06_12_56_03_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: date_,2023_08_06_12_56_03
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: statistics_
+- all: component_groups_,13_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_groups_,13
+- all: component_count_,15_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_count_,15_(0_smd_0_tht)
+- all: fitted_components_,15_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: fitted_components_,15_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: number_of_pcbs_,1
+- all: total_components_,15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: total_components_,15
 projects_flat: projects_flat/sparkfun_h2ohno/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_h2ohno/version_current/working
 projects_folder: projects_folder/sparkfun/H2OhNo/version_current/working

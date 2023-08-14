@@ -15,6 +15,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lilytwinkle_protosnap\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lilytwinkle_protosnap
 oomp_key_simple: projects_flat_sparkfun_lilytwinkle_protosnap
+parts_verbose:
+- all: 1,,2_lilypad_wearables_sewtap6,b1_0_b1_0_b2_0_b2_0,sewtap6,petal_small_2side,4,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 1,,2_lilypad_wearables_sewtap6,b1_0_b1_0_b2_0_b2_0,sewtap6,petal_small_2side,4,_,,
+- all: 2,,battery20mm_4legs,bat1,battery20mm_4legs,battcon_20mm_4legs,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 2,,battery20mm_4legs,bat1,battery20mm_4legs,battcon_20mm_4legs,1,_,,
+- all: 3,,logo_lplp,batt_logo0,logo_lplp,logo_lilypad,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 3,,logo_lplp,batt_logo0,logo_lplp,logo_lilypad,1,_,,
+- all: 4,,oshw_logos,batt_ohs0,oshw_logos,oshw_logo_s,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 4,,oshw_logos,batt_ohs0,oshw_logos,oshw_logo_s,1,_,,
+- all: 5,,_1uf_cer,c1,_1uf_cer,0402_cap,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 5,,_1uf_cer,c1,_1uf_cer,0402_cap,1,_,,
+- all: 6,,frame_letter,frame1,frame_letter,creative_commons,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 6,,frame_letter,frame1,frame_letter,creative_commons,1,_,,
+- all: 7,,logo_lpl,led1_logo0_led2_logo0_led3_logo0_led4_logo0_tiny_logo0,logo_lpl,logo_l,5,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 7,,logo_lpl,led1_logo0_led2_logo0_led3_logo0_led4_logo0_tiny_logo0,logo_lpl,logo_l,5,_,,
+- all: 8,,led_white,led1_led2_led3_led4,white,led_1206,4,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 8,,led_white,led1_led2_led3_led4,white,led_1206,4,_,,
+- all: 9,,6_sparkfun_resistor0603_res,r1,100,0603_res,1,_,,res_07863_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 9,,6_sparkfun_resistor0603_res,r1,100,0603_res,1,_,,res_07863
+- all: 10,,5_sparkfun_resistor0603_res,r2,100,0603_res,1,_,,res_07863_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 10,,5_sparkfun_resistor0603_res,r2,100,0603_res,1,_,,res_07863
+- all: 11,,resistor0603_res,r3,100,0603_res,1,_,,res_07863_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 11,,resistor0603_res,r3,100,0603_res,1,_,,res_07863
+- all: 12,,4_sparkfun_resistor0603_res,r4,100,0603_res,1,_,,res_07863_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 12,,4_sparkfun_resistor0603_res,r4,100,0603_res,1,_,,res_07863
+- all: 13,,10k_1%res_00824,r5,10k,0402_res,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 13,,10k_1%res_00824,r5,10k,0402_res,1,_,,
+- all: 14,,switch_spdtsmd,s1,switch_spdtsmd,ayz0202,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 14,,switch_spdtsmd,s1,switch_spdtsmd,ayz0202,1,_,,
+- all: 15,,attiny45tiny85_20_smt,u1,attiny85,so08_eiaj,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 15,,attiny45tiny85_20_smt,u1,attiny85,so08_eiaj,1,_,,
+- all: 16,,sewtap2side,unk3_led_0,sewtap2side,petal_small,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 16,,sewtap2side,unk3_led_0,sewtap2side,petal_small,1,_,,
+- all: 17,,4_lilypad_wearables_sewtap2side,unk4_led_0,sewtap2side,petal_small,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 17,,4_lilypad_wearables_sewtap2side,unk4_led_0,sewtap2side,petal_small,1,_,,
+- all: 18,,5_lilypad_wearables_sewtap2side,unk5_led_0,sewtap2side,petal_small,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 18,,5_lilypad_wearables_sewtap2side,unk5_led_0,sewtap2side,petal_small,1,_,,
+- all: 19,,6_lilypad_wearables_sewtap2side,unk6_led_0,sewtap2side,petal_small,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 19,,6_lilypad_wearables_sewtap2side,unk6_led_0,sewtap2side,petal_small,1,_,,
+- all: 20,,3_lilypad_wearables_sewtap4,unk3_led_0,sewtap4,petal_small,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 20,,3_lilypad_wearables_sewtap4,unk3_led_0,sewtap4,petal_small,1,_,,
+- all: 21,,4_lilypad_wearables_sewtap4,unk4_led_0,sewtap4,petal_small,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 21,,4_lilypad_wearables_sewtap4,unk4_led_0,sewtap4,petal_small,1,_,,
+- all: 22,,5_lilypad_wearables_sewtap4,unk5_led_0,sewtap4,petal_small,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 22,,5_lilypad_wearables_sewtap4,unk5_led_0,sewtap4,petal_small,1,_,,
+- all: 23,,6_lilypad_wearables_sewtap4,unk6_led_0,sewtap4,petal_small,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 23,,6_lilypad_wearables_sewtap4,unk6_led_0,sewtap4,petal_small,1,_,,
+- all: 24,,sewtap6,unk1_u$2_unk1_u$3_unk1_u$4_unk1_u$5_unk1_u$6_unk1_u$7,sewtap6,petal_small_2side,6,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 24,,sewtap6,unk1_u$2_unk1_u$3_unk1_u$4_unk1_u$5_unk1_u$6_unk1_u$7,sewtap6,petal_small_2side,6,_,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: revision_,
+- all: date_,2023_08_06_12_56_05_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: date_,2023_08_06_12_56_05
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: statistics_
+- all: component_groups_,24_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_groups_,24
+- all: component_count_,39_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_count_,39_(0_smd_0_tht)
+- all: fitted_components_,39_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: fitted_components_,39_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: number_of_pcbs_,1
+- all: total_components_,39_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: total_components_,39
 projects_flat: projects_flat/sparkfun_lilytwinkle_protosnap/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lilytwinkle_protosnap/version_current/working
 projects_folder: projects_folder/sparkfun/LilyTwinkle_ProtoSnap/version_current/working

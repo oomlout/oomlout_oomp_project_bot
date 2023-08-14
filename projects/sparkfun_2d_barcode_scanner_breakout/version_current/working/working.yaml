@@ -13,6 +13,82 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_2d_barcode_scanner_breakout\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_2d_barcode_scanner_breakout
 oomp_key_simple: projects_flat_sparkfun_2d_barcode_scanner_breakout
+parts_verbose:
+- all: 1,,jumper_smt_2_nc_trace_silk,buzz0_pwr0_pwr_led0,jumper_smt_2_nc_trace_silk,smt_jumper_2_nc_trace_silk,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,jumper_smt_2_nc_trace_silk,buzz0_pwr0_pwr_led0,jumper_smt_2_nc_trace_silk,smt_jumper_2_nc_trace_silk,3,_,
+- all: 2,,0_1uf_0603_25v_(_80_20%),c3,0_1uf_0603_25v_(_80_20%),0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,0_1uf_0603_25v_(_80_20%),c3,0_1uf_0603_25v_(_80_20%),0603,1,_,
+- all: 3,,1_0uf_0603_16v_10%,c1_c2,1_0uf_0603_16v_10%,0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,1_0uf_0603_16v_10%,c1_c2,1_0uf_0603_16v_10%,0603,2,_,
+- all: 4,,led_green0603,d2,green,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,led_green0603,d2,green,led_0603,1,_,
+- all: 5,,led_red0603,d1,red,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,led_red0603,d1,red,led_0603,1,_,
+- all: 6,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 7,,stand_off,h2_h3,stand_off,stand_off,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,stand_off,h2_h3,stand_off,stand_off,2,_,
+- all: 8,,conn_06no_silk_female_pth,j4,conn_06no_silk_female_pth,1x06_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,conn_06no_silk_female_pth,j4,conn_06no_silk_female_pth,1x06_no_silk,1,_,
+- all: 9,,conn_12fpc_12_0_5mm,j3,conn_12fpc_12_0_5mm,fpc_12_0_5mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,conn_12fpc_12_0_5mm,j3,conn_12fpc_12_0_5mm,fpc_12_0_5mm,1,_,
+- all: 10,,usb_c_2_layer_pads,j2,usb_c_2_layer_pads,usb_c_16p_2layer_pads,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,usb_c_2_layer_pads,j2,usb_c_2_layer_pads,usb_c_16p_2layer_pads,1,_,
+- all: 11,,oshw_logos,logo1,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,oshw_logos,logo1,oshw_logos,oshw_logo_s,1,_,
+- all: 12,,sfe_logo_flame_1_inch,logo2,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,sfe_logo_flame_1_inch,logo2,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,
+- all: 13,,sfe_logo_name_1_inch,logo3,sfe_logo_name_1_inch,sfe_logo_name_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,sfe_logo_name_1_inch,logo3,sfe_logo_name_1_inch,sfe_logo_name_1,1,_,
+- all: 14,,buzzer_smd,ls1,buzzer_smd,buzzer_ccv,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,buzzer_smd,ls1,buzzer_smd,buzzer_ccv,1,_,
+- all: 15,,trans_npn_mmbt2222al,q1_q2,trans_npn_mmbt2222al,sot23_3,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,trans_npn_mmbt2222al,q1_q2,trans_npn_mmbt2222al,sot23_3,2,_,
+- all: 16,,5_1kohm5_1kohm_0603_1_10w_1%,r2_r3,5_1k,0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,5_1kohm5_1kohm_0603_1_10w_1%,r2_r3,5_1k,0603,2,_,
+- all: 17,,100ohm_0603_1_10w_1%,r1,100ohm_0603_1_10w_1%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,100ohm_0603_1_10w_1%,r1,100ohm_0603_1_10w_1%,0603,1,_,
+- all: 18,,10kohm_0603_1_10w_1%,r8_r10,10kohm_0603_1_10w_1%,0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,10kohm_0603_1_10w_1%,r8_r10,10kohm_0603_1_10w_1%,0603,2,_,
+- all: 19,,10ohm_0603_1_10w_5%,r7,10ohm_0603_1_10w_5%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,10ohm_0603_1_10w_5%,r7,10ohm_0603_1_10w_5%,0603,1,_,
+- all: 20,,1kohm_0603_1_10w_1%,r4_r9_r11,1kohm_0603_1_10w_1%,0603,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,1kohm_0603_1_10w_1%,r4_r9_r11,1kohm_0603_1_10w_1%,0603,3,_,
+- all: 21,,momentary_switch_spst_smd_5_2mm_tall,s2,momentary_switch_spst_smd_5_2mm_tall,tactile_switch_smd_5_2mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,momentary_switch_spst_smd_5_2mm_tall,s2,momentary_switch_spst_smd_5_2mm_tall,tactile_switch_smd_5_2mm,1,_,
+- all: 22,,barcode_scanner_mount,u2,barcode_scanner_mount,barcode_scanner_mount,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,,barcode_scanner_mount,u2,barcode_scanner_mount,barcode_scanner_mount,1,_,
+- all: 23,,v_reg_ap2112k_3_3v,u1,v_reg_ap2112k_3_3v,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,,v_reg_ap2112k_3_3v,u1,v_reg_ap2112k_3_3v,sot23_5,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_55_57_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_55_57
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,23
+- all: component_count_,32_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,32_(0_smd_0_tht)
+- all: fitted_components_,32_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,32_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,32_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,32
 projects_flat: projects_flat/sparkfun_2d_barcode_scanner_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_2d_barcode_scanner_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/2D_Barcode_Scanner_Breakout/version_current/working

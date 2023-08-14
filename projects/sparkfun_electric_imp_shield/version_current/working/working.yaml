@@ -15,6 +15,82 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_electric_imp_shield\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_electric_imp_shield
 oomp_key_simple: projects_flat_sparkfun_electric_imp_shield
+parts_verbose:
+- all: 1,,0_1uf_25v(_80_20%)(0603),c4,0_1uf,0603_cap,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,0_1uf_25v(_80_20%)(0603),c4,0_1uf,0603_cap,1,_,
+- all: 2,,1_0uf_16v_10%(0603),c1,1_0uf,0603_cap,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,1_0uf_16v_10%(0603),c1,1_0uf,0603_cap,1,_,
+- all: 3,,10uf_16v_10%(tant),c3_c5,10uf,eia3216,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,10uf_16v_10%(tant),c3_c5,10uf,eia3216,2,_,
+- all: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 5,,logo_sfenw2,jp10,logo_sfenw2,sfe_new_web,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,logo_sfenw2,jp10,logo_sfenw2,sfe_new_web,1,_,
+- all: 6,,m021x02_no_silk,jp1_jp2,m021x02_no_silk,1x02_no_silk,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,m021x02_no_silk,jp1_jp2,m021x02_no_silk,1x02_no_silk,2,_,
+- all: 7,,m06sip_ns,jp5,m06sip_ns,1x06_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,m06sip_ns,jp5,m06sip_ns,1x06_no_silk,1,_,
+- all: 8,,m08sip_ns,jp3_jp4,m08sip_ns,1x08_no_silk,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,m08sip_ns,jp3_jp4,m08sip_ns,1x08_no_silk,2,_,
+- all: 9,,m09no_silk,jp7,m09no_silk,1x09_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,m09no_silk,jp7,m09no_silk,1x09_no_silk,1,_,
+- all: 10,,m10sip_ns,jp6,m10sip_ns,1x10_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,m10sip_ns,jp6,m10sip_ns,1x10_no_silk,1,_,
+- all: 11,,led_green0603,led3,green,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,led_green0603,led3,green,led_0603,1,_,
+- all: 12,,led_red0603,led1,red,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,led_red0603,led1,red,led_0603,1,_,
+- all: 13,,led_yellow0603,led2,yellow,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,led_yellow0603,led2,yellow,led_0603,1,_,
+- all: 14,,mosfet_nchannelsmd,q2_q3,mosfet_nchannelsmd,sot23_3,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,mosfet_nchannelsmd,q2_q3,mosfet_nchannelsmd,sot23_3,2,_,
+- all: 15,,330ohm1_10w1%(0603),r7_r8_r9,330,0603_res,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,330ohm1_10w1%(0603),r7_r8_r9,330,0603_res,3,_,
+- all: 16,,10kohm1_10w1%(0603)0603,r2_r3_r6_r10,10k,0603_res,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,10kohm1_10w1%(0603)0603,r2_r3_r6_r10,10k,0603_res,4,_,
+- all: 17,,100kohm1_10w1%(0603),r1,100k,0603_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,100kohm1_10w1%(0603),r1,100k,0603_res,1,_,
+- all: 18,,arduino_shieldnoholesorlabels,u2,arduino_shieldnoholesorlabels,duemilanove_shield_noholes_nolabels,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,arduino_shieldnoholesorlabels,u2,arduino_shieldnoholesorlabels,duemilanove_shield_noholes_nolabels,1,_,
+- all: 19,,atsha204_tsu,u4,atsha204_tsu,sot23_3,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,atsha204_tsu,u4,atsha204_tsu,sot23_3,1,_,
+- all: 20,,electric_imp,u1,electric_imp,sd_1_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,electric_imp,u1,electric_imp,sd_1_1,1,_,
+- all: 21,,v_reg_ldosmd,u3,v_reg_ldosmd,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,v_reg_ldosmd,u3,v_reg_ldosmd,sot23_5,1,_,
+- all: 22,,oshw_logos,u$7,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,,oshw_logos,u$7,oshw_logos,oshw_logo_s,1,_,
+- all: 23,,revision,u$6,revision,revision,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,,revision,u$6,revision,revision,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_01_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_01
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,23
+- all: component_count_,32_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,32_(0_smd_0_tht)
+- all: fitted_components_,32_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,32_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,32_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,32
 projects_flat: projects_flat/sparkfun_electric_imp_shield/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_electric_imp_shield/version_current/working
 projects_folder: projects_folder/sparkfun/Electric_Imp_Shield/version_current/working

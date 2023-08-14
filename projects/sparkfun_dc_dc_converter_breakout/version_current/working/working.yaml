@@ -15,6 +15,58 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_dc_dc_converter_breakout\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_dc_dc_converter_breakout
 oomp_key_simple: projects_flat_sparkfun_dc_dc_converter_breakout
+parts_verbose:
+- all: 1,,cap0603_cap,c3,0_1uf,0603_cap,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap0603_cap,c3,0_1uf,0603_cap,1,_,
+- all: 2,,cap_pol,c1,100uf_25v,nippon_f80,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_pol,c1,100uf_25v,nippon_f80,1,_,
+- all: 3,,cap_polc,c2,22uf_35v,panasonic_c,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,cap_polc,c2,22uf_35v,panasonic_c,1,_,
+- all: 4,,m05pth,in0,m05pth,1x05,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,m05pth,in0,m05pth,1x05,1,_,
+- all: 5,,m03pth,out0,m03pth,1x03,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,m03pth,out0,m03pth,1x03,1,_,
+- all: 6,,mosfet_nchannelsmd,q1,mosfet_nchannelsmd,sot23_3,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,mosfet_nchannelsmd,q1,mosfet_nchannelsmd,sot23_3,1,_,
+- all: 7,,resistor0603_res,r1,22k,0603_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,resistor0603_res,r1,22k,0603_res,1,_,
+- all: 8,,resistor0603_res,r2,100k,0603_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,resistor0603_res,r2,100k,0603_res,1,_,
+- all: 9,,dc_dc_converter,u1,dc_dc_converter,dc_dc_converter,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,dc_dc_converter,u1,dc_dc_converter,dc_dc_converter,1,_,
+- all: 10,,logo_sfenew,u$2,logo_sfenew,sfe_new_weblogo,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,logo_sfenew,u$2,logo_sfenew,sfe_new_weblogo,1,_,
+- all: 11,,stand_off,u$1_u$3_u$4_u$5,stand_off,stand_off,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,stand_off,u$1_u$3_u$4_u$5,stand_off,stand_off,4,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_00_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_00
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,11_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,11
+- all: component_count_,14_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,14_(0_smd_0_tht)
+- all: fitted_components_,14_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,14_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,14_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,14
 projects_flat: projects_flat/sparkfun_dc_dc_converter_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_dc_dc_converter_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/DC-DC_Converter_Breakout/version_current/working

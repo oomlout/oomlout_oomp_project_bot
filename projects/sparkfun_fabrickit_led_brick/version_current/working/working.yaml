@@ -15,6 +15,48 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_fabrickit_led_brick\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_fabrickit_led_brick
 oomp_key_simple: projects_flat_sparkfun_fabrickit_led_brick
+parts_verbose:
+- all: 1,,fkit_ribbon_connector_2mm_l_rev2,j1_j2,fkit_ribbon_connector_2mm_l_rev2,fkit_ribbon_connector_03_2mm_l,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,fkit_ribbon_connector_2mm_l_rev2,j1_j2,fkit_ribbon_connector_2mm_l_rev2,fkit_ribbon_connector_03_2mm_l,2,_,
+- all: 2,,fkit_ribbon_connector_2mm_r_rev2,j3_j4,fkit_ribbon_connector_2mm_r_rev2,fkit_ribbon_connector_03_2mm_r,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,fkit_ribbon_connector_2mm_r_rev2,j3_j4,fkit_ribbon_connector_2mm_r_rev2,fkit_ribbon_connector_03_2mm_r,2,_,
+- all: 3,,led,led1,led,fkit_led_1206_no_cream,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,led,led1,led,fkit_led_1206_no_cream,1,_,
+- all: 4,,led_3mm_no_silk,led2,led_3mm_no_silk,led3mm_ns,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,led_3mm_no_silk,led2,led_3mm_no_silk,led3mm_ns,1,_,
+- all: 5,,resistor0603,r1,resistor0603,0603_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,resistor0603,r1,resistor0603,0603_res,1,_,
+- all: 6,,creative_commons,u$1,creative_commons,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,creative_commons,u$1,creative_commons,creative_commons,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_02_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_02
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,6_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,6
+- all: component_count_,8_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,8_(0_smd_0_tht)
+- all: fitted_components_,8_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,8_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,8_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,8
 projects_flat: projects_flat/sparkfun_fabrickit_led_brick/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_fabrickit_led_brick/version_current/working
 projects_folder: projects_folder/sparkfun/Fabrickit_LED_Brick/version_current/working
