@@ -1,6 +1,10 @@
 import os
 
+oomp_parts = {}
+
 def go_through_directories():
+    #load oomp_parts
+    oomp_parts_yaml = "tmp/oomlout_oomp_parts_src/parts.yaml"
     # go through all directories in projects
     count2 = 1
     for root, dirs, files in os.walk("projects"):
@@ -19,7 +23,7 @@ def go_through_directories():
                 if "parts_verbose"  in yaml_dict:
                     parts_oomp = []
                     for part in yaml_dict["parts_verbose"]:
-                        parts_oomp.append(match_part(part))
+                        parts_oomp.append(match_part(part=part))
                     yaml_dict["parts_oomp"] = parts_oomp
                     #save yaml_file
                     with open(os.path.join(root, file), 'w') as stream:
@@ -35,6 +39,16 @@ def go_through_directories():
             import oom_kicad
             oom_kicad.push_to_git()
                     
+
+def match_part(**kwargs):
+    part = kwargs["part"]
+
+
+
+
+
+
+
 
 
 
