@@ -13,189 +13,346 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\andnxor_bsidessd\version_current\working
 oomp_key: oomp_projects_flat_andnxor_bsidessd
 oomp_key_simple: projects_flat_andnxor_bsidessd
-parts_verbose:
+parts_oomp:
 - all: 1_c1,c2_c_0805_2012metric_2_1uf___
-  designation: 1uf
   designator: c1
-  footprint: c_0805_2012metric
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_c1,c2_c_0805_2012metric_2_1uf___
+    designation: 1uf
+    designator: c1
+    footprint: c_0805_2012metric
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 1_c1,c2_c_0805_2012metric_2_1uf___
-  designation: 1uf
   designator: c2
-  footprint: c_0805_2012metric
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_c1,c2_c_0805_2012metric_2_1uf___
+    designation: 1uf
+    designator: c2
+    footprint: c_0805_2012metric
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 2_c3,c5_c_0805_2012metric_2_10uf___
-  designation: 10uf
   designator: c3
-  footprint: c_0805_2012metric
-  id: '2'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_c3,c5_c_0805_2012metric_2_10uf___
+    designation: 10uf
+    designator: c3
+    footprint: c_0805_2012metric
+    id: '2'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 2_c3,c5_c_0805_2012metric_2_10uf___
-  designation: 10uf
   designator: c5
-  footprint: c_0805_2012metric
-  id: '2'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 2_c3,c5_c_0805_2012metric_2_10uf___
+    designation: 10uf
+    designator: c5
+    footprint: c_0805_2012metric
+    id: '2'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 3_c4_c_0805_2012metric_1_1nf___
-  designation: 1nf
   designator: c4
-  footprint: c_0805_2012metric
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_c4_c_0805_2012metric_1_1nf___
+    designation: 1nf
+    designator: c4
+    footprint: c_0805_2012metric
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_d1,d4_d_sod_323_2_d_schottky___
-  designation: d_schottky
   designator: d1
-  footprint: d_sod_323
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 4_d1,d4_d_sod_323_2_d_schottky___
+    designation: d_schottky
+    designator: d1
+    footprint: d_sod_323
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 4_d1,d4_d_sod_323_2_d_schottky___
-  designation: d_schottky
   designator: d4
-  footprint: d_sod_323
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 4_d1,d4_d_sod_323_2_d_schottky___
+    designation: d_schottky
+    designator: d4
+    footprint: d_sod_323
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 5_d2_led_0603_1608metric_1_red___
-  designation: red
   designator: d2
-  footprint: led_0603_1608metric
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 5_d2_led_0603_1608metric_1_red___
+    designation: red
+    designator: d2
+    footprint: led_0603_1608metric
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_d3,d5,d7,d8,d9_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm_5_ws2812b___
-  designation: ws2812b
   designator: d3
-  footprint: led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
-  id: '6'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 6_d3,d5,d7,d8,d9_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm_5_ws2812b___
+    designation: ws2812b
+    designator: d3
+    footprint: led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+    id: '6'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 6_d3,d5,d7,d8,d9_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm_5_ws2812b___
-  designation: ws2812b
   designator: d5
-  footprint: led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
-  id: '6'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 6_d3,d5,d7,d8,d9_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm_5_ws2812b___
+    designation: ws2812b
+    designator: d5
+    footprint: led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+    id: '6'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 6_d3,d5,d7,d8,d9_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm_5_ws2812b___
-  designation: ws2812b
   designator: d7
-  footprint: led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
-  id: '6'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 6_d3,d5,d7,d8,d9_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm_5_ws2812b___
+    designation: ws2812b
+    designator: d7
+    footprint: led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+    id: '6'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 6_d3,d5,d7,d8,d9_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm_5_ws2812b___
-  designation: ws2812b
   designator: d8
-  footprint: led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
-  id: '6'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 6_d3,d5,d7,d8,d9_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm_5_ws2812b___
+    designation: ws2812b
+    designator: d8
+    footprint: led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+    id: '6'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 6_d3,d5,d7,d8,d9_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm_5_ws2812b___
-  designation: ws2812b
   designator: d9
-  footprint: led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
-  id: '6'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 6_d3,d5,d7,d8,d9_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm_5_ws2812b___
+    designation: ws2812b
+    designator: d9
+    footprint: led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+    id: '6'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 7_d6_led_0603_1608metric_1_green___
-  designation: green
   designator: d6
-  footprint: led_0603_1608metric
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 7_d6_led_0603_1608metric_1_green___
+    designation: green
+    designator: d6
+    footprint: led_0603_1608metric
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_j1,j2_pinheader_1x05_p2_54mm_vertical_2_conn_01x05___
-  designation: conn_01x05
   designator: j1
-  footprint: pinheader_1x05_p2_54mm_vertical
-  id: '8'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 8_j1,j2_pinheader_1x05_p2_54mm_vertical_2_conn_01x05___
+    designation: conn_01x05
+    designator: j1
+    footprint: pinheader_1x05_p2_54mm_vertical
+    id: '8'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 8_j1,j2_pinheader_1x05_p2_54mm_vertical_2_conn_01x05___
-  designation: conn_01x05
   designator: j2
-  footprint: pinheader_1x05_p2_54mm_vertical
-  id: '8'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 8_j1,j2_pinheader_1x05_p2_54mm_vertical_2_conn_01x05___
+    designation: conn_01x05
+    designator: j2
+    footprint: pinheader_1x05_p2_54mm_vertical
+    id: '8'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 9_j3_usb_micro_b_amphenol_10103594_0001lf_horizontal_1_usb_b_micro___
-  designation: usb_b_micro
   designator: j3
-  footprint: usb_micro_b_amphenol_10103594_0001lf_horizontal
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 9_j3_usb_micro_b_amphenol_10103594_0001lf_horizontal_1_usb_b_micro___
+    designation: usb_b_micro
+    designator: j3
+    footprint: usb_micro_b_amphenol_10103594_0001lf_horizontal
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_r1_r_0805_2012metric_1_1_5k___
-  designation: 1_5k
   designator: r1
-  footprint: r_0805_2012metric
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 10_r1_r_0805_2012metric_1_1_5k___
+    designation: 1_5k
+    designator: r1
+    footprint: r_0805_2012metric
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_r2_r_0805_2012metric_1_10k___
-  designation: 10k
   designator: r2
-  footprint: r_0805_2012metric
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 11_r2_r_0805_2012metric_1_10k___
+    designation: 10k
+    designator: r2
+    footprint: r_0805_2012metric
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_tp1_pinheader_1x01_p2_54mm_vertical_1_swd___
-  designation: swd
   designator: tp1
-  footprint: pinheader_1x01_p2_54mm_vertical
-  id: '12'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 12_tp1_pinheader_1x01_p2_54mm_vertical_1_swd___
+    designation: swd
+    designator: tp1
+    footprint: pinheader_1x01_p2_54mm_vertical
+    id: '12'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 13_tp2_pinheader_1x01_p2_54mm_vertical_1_swc___
-  designation: swc
   designator: tp2
-  footprint: pinheader_1x01_p2_54mm_vertical
-  id: '13'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 13_tp2_pinheader_1x01_p2_54mm_vertical_1_swc___
+    designation: swc
+    designator: tp2
+    footprint: pinheader_1x01_p2_54mm_vertical
+    id: '13'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 14_tp3_pinheader_1x01_p2_54mm_vertical_1_battery___
-  designation: battery
   designator: tp3
-  footprint: pinheader_1x01_p2_54mm_vertical
-  id: '14'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 14_tp3_pinheader_1x01_p2_54mm_vertical_1_battery___
+    designation: battery
+    designator: tp3
+    footprint: pinheader_1x01_p2_54mm_vertical
+    id: '14'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 15_tp4_pinheader_1x01_p2_54mm_vertical_1_ground___
-  designation: ground
   designator: tp4
-  footprint: pinheader_1x01_p2_54mm_vertical
-  id: '15'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 15_tp4_pinheader_1x01_p2_54mm_vertical_1_ground___
+    designation: ground
+    designator: tp4
+    footprint: pinheader_1x01_p2_54mm_vertical
+    id: '15'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 16_u1_tqfp_32_7x7mm_p0_8mm_1_atsamd21e18a_aut___
-  designation: atsamd21e18a_aut
   designator: u1
-  footprint: tqfp_32_7x7mm_p0_8mm
-  id: '16'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 16_u1_tqfp_32_7x7mm_p0_8mm_1_atsamd21e18a_aut___
+    designation: atsamd21e18a_aut
+    designator: u1
+    footprint: tqfp_32_7x7mm_p0_8mm
+    id: '16'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 17_u2_sot_23_5_1_ap2112k_3_3___
-  designation: ap2112k_3_3
   designator: u2
-  footprint: sot_23_5
-  id: '17'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 17_u2_sot_23_5_1_ap2112k_3_3___
+    designation: ap2112k_3_3
+    designator: u2
+    footprint: sot_23_5
+    id: '17'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 18_sw1_sw_spst_pts810_1_pts810___
-  designation: pts810
   designator: sw1
-  footprint: sw_spst_pts810
-  id: '18'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 18_sw1_sw_spst_pts810_1_pts810___
+    designation: pts810
+    designator: sw1
+    footprint: sw_spst_pts810
+    id: '18'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
 projects_flat: projects_flat/andnxor_bsidessd/version_current/working
 projects_folder: projects_folder/ANDnXOR/BSidesSD/version_current/working
 repo:

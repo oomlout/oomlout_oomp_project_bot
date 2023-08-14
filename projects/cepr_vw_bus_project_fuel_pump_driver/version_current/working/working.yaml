@@ -13,196 +13,359 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cepr_vw_bus_project_fuel_pump_driver\version_current\working
 oomp_key: oomp_projects_flat_cepr_vw_bus_project_fuel_pump_driver
 oomp_key_simple: projects_flat_cepr_vw_bus_project_fuel_pump_driver
-parts_verbose:
+parts_oomp:
 - all: 1_q1_369c_1_ncv8401bdtrkg___
-  designation: ncv8401bdtrkg
   designator: q1
-  footprint: 369c
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_q1_369c_1_ncv8401bdtrkg___
+    designation: ncv8401bdtrkg
+    designator: q1
+    footprint: 369c
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_rshunt1_cst0612_1_750u___
-  designation: 750u
   designator: rshunt1
-  footprint: cst0612
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_rshunt1_cst0612_1_750u___
+    designation: 750u
+    designator: rshunt1
+    footprint: cst0612
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_c1_c_0805_1_100n___
-  designation: 100n
   designator: c1
-  footprint: c_0805
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_c1_c_0805_1_100n___
+    designation: 100n
+    designator: c1
+    footprint: c_0805
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_d1_to_263_2_1_vb30100s_e3_8w___
-  designation: vb30100s_e3_8w
   designator: d1
-  footprint: to_263_2
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4_d1_to_263_2_1_vb30100s_e3_8w___
+    designation: vb30100s_e3_8w
+    designator: d1
+    footprint: to_263_2
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_m1_fuel_pump_1_motor_dc___
-  designation: motor_dc
   designator: m1
-  footprint: fuel_pump
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5_m1_fuel_pump_1_motor_dc___
+    designation: motor_dc
+    designator: m1
+    footprint: fuel_pump
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_r1,r3_r_0805_2_22_1k___
-  designation: 22_1k
   designator: r1
-  footprint: r_0805
-  id: '6'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6_r1,r3_r_0805_2_22_1k___
+    designation: 22_1k
+    designator: r1
+    footprint: r_0805
+    id: '6'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 6_r1,r3_r_0805_2_22_1k___
-  designation: 22_1k
   designator: r3
-  footprint: r_0805
-  id: '6'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 6_r1,r3_r_0805_2_22_1k___
+    designation: 22_1k
+    designator: r3
+    footprint: r_0805
+    id: '6'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 7_r2,r4_r_0805_2_10_7k___
-  designation: 10_7k
   designator: r2
-  footprint: r_0805
-  id: '7'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 7_r2,r4_r_0805_2_10_7k___
+    designation: 10_7k
+    designator: r2
+    footprint: r_0805
+    id: '7'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 7_r2,r4_r_0805_2_10_7k___
-  designation: 10_7k
   designator: r4
-  footprint: r_0805
-  id: '7'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 7_r2,r4_r_0805_2_10_7k___
+    designation: 10_7k
+    designator: r4
+    footprint: r_0805
+    id: '7'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 8_r5,r7_r_0805_2_150___
-  designation: '150'
   designator: r5
-  footprint: r_0805
-  id: '8'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 8_r5,r7_r_0805_2_150___
+    designation: '150'
+    designator: r5
+    footprint: r_0805
+    id: '8'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 8_r5,r7_r_0805_2_150___
-  designation: '150'
   designator: r7
-  footprint: r_0805
-  id: '8'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 8_r5,r7_r_0805_2_150___
+    designation: '150'
+    designator: r7
+    footprint: r_0805
+    id: '8'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 9_u1_sot_363_sc_70_6_1_ina199x3_sc70___
-  designation: ina199x3_sc70
   designator: u1
-  footprint: sot_363_sc_70_6
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 9_u1_sot_363_sc_70_6_1_ina199x3_sc70___
+    designation: ina199x3_sc70
+    designator: u1
+    footprint: sot_363_sc_70_6
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_c2_c_0805_1_22uf___
-  designation: 22uf
   designator: c2
-  footprint: c_0805
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 10_c2_c_0805_1_22uf___
+    designation: 22uf
+    designator: c2
+    footprint: c_0805
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_c3_c_0805_1_10uf___
-  designation: 10uf
   designator: c3
-  footprint: c_0805
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 11_c3_c_0805_1_10uf___
+    designation: 10uf
+    designator: c3
+    footprint: c_0805
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_d2_sot_23_1_mmbz27v___
-  designation: mmbz27v
   designator: d2
-  footprint: sot_23
-  id: '12'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 12_d2_sot_23_1_mmbz27v___
+    designation: mmbz27v
+    designator: d2
+    footprint: sot_23
+    id: '12'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 13_d3_d_smf_1_d_schottky___
-  designation: d_schottky
   designator: d3
-  footprint: d_smf
-  id: '13'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 13_d3_d_smf_1_d_schottky___
+    designation: d_schottky
+    designator: d3
+    footprint: d_smf
+    id: '13'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 14_d4_d_sod_123_1_1n4148___
-  designation: 1n4148
   designator: d4
-  footprint: d_sod_123
-  id: '14'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 14_d4_d_sod_123_1_1n4148___
+    designation: 1n4148
+    designator: d4
+    footprint: d_sod_123
+    id: '14'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 15_d5_led_0805_1_led___
-  designation: led
   designator: d5
-  footprint: led_0805
-  id: '15'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 15_d5_led_0805_1_led___
+    designation: led
+    designator: d5
+    footprint: led_0805
+    id: '15'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 16_r6_r_0805_1_47___
-  designation: '47'
   designator: r6
-  footprint: r_0805
-  id: '16'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 16_r6_r_0805_1_47___
+    designation: '47'
+    designator: r6
+    footprint: r_0805
+    id: '16'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 17_r9_r_0805_1_10k___
-  designation: 10k
   designator: r9
-  footprint: r_0805
-  id: '17'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 17_r9_r_0805_1_10k___
+    designation: 10k
+    designator: r9
+    footprint: r_0805
+    id: '17'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 18_c4_c_0805_1_220p___
-  designation: 220p
   designator: c4
-  footprint: c_0805
-  id: '18'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 18_c4_c_0805_1_220p___
+    designation: 220p
+    designator: c4
+    footprint: c_0805
+    id: '18'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 19_j2_solderwirepad_single_smd_5x10mm_1__12v___
-  designation: _12v
   designator: j2
-  footprint: solderwirepad_single_smd_5x10mm
-  id: '19'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 19_j2_solderwirepad_single_smd_5x10mm_1__12v___
+    designation: _12v
+    designator: j2
+    footprint: solderwirepad_single_smd_5x10mm
+    id: '19'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 20_j3_solderwirepad_single_smd_5x10mm_1_en___
-  designation: en
   designator: j3
-  footprint: solderwirepad_single_smd_5x10mm
-  id: '20'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 20_j3_solderwirepad_single_smd_5x10mm_1_en___
+    designation: en
+    designator: j3
+    footprint: solderwirepad_single_smd_5x10mm
+    id: '20'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 21_j4_solderwirepad_single_smd_5x10mm_1_lin___
-  designation: lin
   designator: j4
-  footprint: solderwirepad_single_smd_5x10mm
-  id: '21'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 21_j4_solderwirepad_single_smd_5x10mm_1_lin___
+    designation: lin
+    designator: j4
+    footprint: solderwirepad_single_smd_5x10mm
+    id: '21'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 22_j5_solderwirepad_single_smd_5x10mm_1_gnd___
-  designation: gnd
   designator: j5
-  footprint: solderwirepad_single_smd_5x10mm
-  id: '22'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 22_j5_solderwirepad_single_smd_5x10mm_1_gnd___
+    designation: gnd
+    designator: j5
+    footprint: solderwirepad_single_smd_5x10mm
+    id: '22'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 23_u2_ssop_20_5_3x7_2mm_pitch0_65mm_1_pic16f1829lin_ess___
-  designation: pic16f1829lin_ess
   designator: u2
-  footprint: ssop_20_5_3x7_2mm_pitch0_65mm
-  id: '23'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 23_u2_ssop_20_5_3x7_2mm_pitch0_65mm_1_pic16f1829lin_ess___
+    designation: pic16f1829lin_ess
+    designator: u2
+    footprint: ssop_20_5_3x7_2mm_pitch0_65mm
+    id: '23'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 24_j1_jst_bm05b_1_jst_bm05b_srss_tb(lf)(sn)___
-  designation: jst_bm05b_srss_tb(lf)(sn)
   designator: j1
-  footprint: jst_bm05b
-  id: '24'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 24_j1_jst_bm05b_1_jst_bm05b_srss_tb(lf)(sn)___
+    designation: jst_bm05b_srss_tb(lf)(sn)
+    designator: j1
+    footprint: jst_bm05b
+    id: '24'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
 projects_flat: projects_flat/cepr_vw_bus_project_fuel_pump_driver/version_current/working
 projects_folder: projects_folder/cepr/vw-bus-project-fuel-pump-driver/version_current/working
 repo:

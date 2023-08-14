@@ -13,98 +13,387 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dchwebb_oscar\version_current\working
 oomp_key: oomp_projects_flat_dchwebb_oscar
 oomp_key_simple: projects_flat_dchwebb_oscar
-parts_verbose:
+parts_oomp:
 - all: 1,unpolarized_capacitor,c,c2_c3,18pf,c_0805_handsoldering,2,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,unpolarized_capacitor,c,c2_c3,18pf,c_0805_handsoldering,2,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,unpolarized_capacitor,c,c2_c3,18pf,c_0805_handsoldering,2,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,unpolarized_capacitor,c,c2_c3,18pf,c_0805_handsoldering,2,_,~
 - all: 2,unpolarized_capacitor,c,c1_c4_c6_c7_c8_c9_c10_c16,100nf,c_0805_handsoldering,8,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,unpolarized_capacitor,c,c1_c4_c6_c7_c8_c9_c10_c16,100nf,c_0805_handsoldering,8,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,unpolarized_capacitor,c,c1_c4_c6_c7_c8_c9_c10_c16,100nf,c_0805_handsoldering,8,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,unpolarized_capacitor,c,c1_c4_c6_c7_c8_c9_c10_c16,100nf,c_0805_handsoldering,8,_,~
 - all: 3,,cp_device,c15,1uf,cp_elec_4x5_8,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,cp_device,c15,1uf,cp_elec_4x5_8,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,,cp_device,c15,1uf,cp_elec_4x5_8,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,cp_device,c15,1uf,cp_elec_4x5_8,1,_,~
 - all: 4,unpolarized_capacitor,c,c5,2_2uf,c_0805_handsoldering,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,unpolarized_capacitor,c,c5,2_2uf,c_0805_handsoldering,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,unpolarized_capacitor,c,c5,2_2uf,c_0805_handsoldering,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,unpolarized_capacitor,c,c5,2_2uf,c_0805_handsoldering,1,_,~
 - all: 5,,cp_device,c12_c13,22uf,cp_elec_4x5_8,2,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,cp_device,c12_c13,22uf,cp_elec_4x5_8,2,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,,cp_device,c12_c13,22uf,cp_elec_4x5_8,2,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,cp_device,c12_c13,22uf,cp_elec_4x5_8,2,_,~
 - all: 6,unpolarized_capacitor,c,c11_c14,47uf,cp_elec_5x5_8,2,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,unpolarized_capacitor,c,c11_c14,47uf,cp_elec_5x5_8,2,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,unpolarized_capacitor,c,c11_c14,47uf,cp_elec_5x5_8,2,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,unpolarized_capacitor,c,c11_c14,47uf,cp_elec_5x5_8,2,_,~
 - all: 7,_40v_1a_schottky_barrier_rectifier_diode,_do_41_,1n5819,d1_d2,1n5819,d_sod_123,2,_,http_www_vishay_com_docs_88525_1n5817_pdf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,_40v_1a_schottky_barrier_rectifier_diode,_do_41_,1n5819,d1_d2,1n5819,d_sod_123,2,_,http_www_vishay_com_docs_88525_1n5817_pdf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,_40v_1a_schottky_barrier_rectifier_diode,_do_41_,1n5819,d1_d2,1n5819,d_sod_123,2,_,http_www_vishay_com_docs_88525_1n5817_pdf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,_40v_1a_schottky_barrier_rectifier_diode,_do_41_,1n5819,d1_d2,1n5819,d_sod_123,2,_,http_www_vishay_com_docs_88525_1n5817_pdf
 - all: 8,light_emitting_diode,led,d3,led,led_d5_0mm,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,light_emitting_diode,led,d3,led,led_d5_0mm,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,light_emitting_diode,led,d3,led,led_d5_0mm,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,light_emitting_diode,led,d3,led,led_d5_0mm,1,_,~
 - all: 9,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j5,cha_buff_out,thonkiconn_hole,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j5,cha_buff_out,thonkiconn_hole,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j5,cha_buff_out,thonkiconn_hole,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j5,cha_buff_out,thonkiconn_hole,1,_,~
 - all: 10,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j6,chb_buff_out,thonkiconn_hole,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j6,chb_buff_out,thonkiconn_hole,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j6,chb_buff_out,thonkiconn_hole,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j6,chb_buff_out,thonkiconn_hole,1,_,~
 - all: 11,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j7,chc_buff_out,thonkiconn_hole,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j7,chc_buff_out,thonkiconn_hole,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j7,chc_buff_out,thonkiconn_hole,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j7,chc_buff_out,thonkiconn_hole,1,_,~
 - all: 12,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j2,channela_in,thonkiconn_hole,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j2,channela_in,thonkiconn_hole,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j2,channela_in,thonkiconn_hole,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j2,channela_in,thonkiconn_hole,1,_,~
 - all: 13,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j3,channelb_in,thonkiconn_hole,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j3,channelb_in,thonkiconn_hole,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j3,channelb_in,thonkiconn_hole,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j3,channelb_in,thonkiconn_hole,1,_,~
 - all: 14,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j4,channelc_in,thonkiconn_hole,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j4,channelc_in,thonkiconn_hole,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 14,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j4,channelc_in,thonkiconn_hole,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j4,channelc_in,thonkiconn_hole,1,_,~
 - all: 15,,eurorack_10_pin_power,j9,eurorack_10_pin_power,eurorack_10_pin_header,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,eurorack_10_pin_power,j9,eurorack_10_pin_power,eurorack_10_pin_header,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 15,,eurorack_10_pin_power,j9,eurorack_10_pin_power,eurorack_10_pin_header,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,eurorack_10_pin_power,j9,eurorack_10_pin_power,eurorack_10_pin_header,1,_,
 - all: 16,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j8,midi_in,thonkiconn_hole,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j8,midi_in,thonkiconn_hole,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 16,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j8,midi_in,thonkiconn_hole,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j8,midi_in,thonkiconn_hole,1,_,~
 - all: 17,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_male,j1,swd_header,swd_header,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_male,j1,swd_header,swd_header,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 17,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_male,j1,swd_header,swd_header,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_male,j1,swd_header,swd_header,1,_,~
 - all: 18,inductor,l,l1,l,r_0805_handsoldering,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,inductor,l,l1,l,r_0805_handsoldering,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 18,inductor,l,l1,l,r_0805_handsoldering,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,inductor,l,l1,l,r_0805_handsoldering,1,_,~
 - all: 19,resistor,r,r10_r11_r12,100,r_0805_handsoldering,3,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,resistor,r,r10_r11_r12,100,r_0805_handsoldering,3,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 19,resistor,r,r10_r11_r12,100,r_0805_handsoldering,3,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,resistor,r,r10_r11_r12,100,r_0805_handsoldering,3,_,~
 - all: 20,resistor,r,r13,680,r_0805_handsoldering,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,resistor,r,r13,680,r_0805_handsoldering,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 20,resistor,r,r13,680,r_0805_handsoldering,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,resistor,r,r13,680,r_0805_handsoldering,1,_,~
 - all: 21,resistor,r,r7_r8_r9,14k,r_0805_handsoldering,3,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,resistor,r,r7_r8_r9,14k,r_0805_handsoldering,3,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 21,resistor,r,r7_r8_r9,14k,r_0805_handsoldering,3,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,resistor,r,r7_r8_r9,14k,r_0805_handsoldering,3,_,~
 - all: 22,resistor,r,r1_r2_r3_r4_r5_r6,100k,r_0805_handsoldering,6,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,resistor,r,r1_r2_r3_r4_r5_r6,100k,r_0805_handsoldering,6,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 22,resistor,r,r1_r2_r3_r4_r5_r6,100k,r_0805_handsoldering,6,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,resistor,r,r1_r2_r3_r4_r5_r6,100k,r_0805_handsoldering,6,_,~
 - all: 23,,rotary_encoder_switch_device,sw1,left_encoder,encoder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,,rotary_encoder_switch_device,sw1,left_encoder,encoder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 23,,rotary_encoder_switch_device,sw1,left_encoder,encoder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,,rotary_encoder_switch_device,sw1,left_encoder,encoder,1,_,~
 - all: 24,,rotary_encoder_switch_device,sw2,right_encoder,encoder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 24,,rotary_encoder_switch_device,sw2,right_encoder,encoder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 24,,rotary_encoder_switch_device,sw2,right_encoder,encoder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 24,,rotary_encoder_switch_device,sw2,right_encoder,encoder,1,_,~
 - all: 25,_push_button_switch,_generic,_two_pins_,sw_push,sw3,sw_push,sw_push_6mm,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 25,_push_button_switch,_generic,_two_pins_,sw_push,sw3,sw_push,sw_push_6mm,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 25,_push_button_switch,_generic,_two_pins_,sw_push,sw3,sw_push,sw_push_6mm,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 25,_push_button_switch,_generic,_two_pins_,sw_push,sw3,sw_push,sw_push_6mm,1,_,~
 - all: 26,_ili9341_controller,_spi_tft_lcd_display,_9_pin_breakout_pcb,_4_pin_sd_card_interface,_5v_3_3v_,ili9341_spi_daughterboard,u2,ili9341_spi_daughterboard,ili9341_spi_daughterboard,1,_,http_pan_baidu_com_s_11y990_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 26,_ili9341_controller,_spi_tft_lcd_display,_9_pin_breakout_pcb,_4_pin_sd_card_interface,_5v_3_3v_,ili9341_spi_daughterboard,u2,ili9341_spi_daughterboard,ili9341_spi_daughterboard,1,_,http_pan_baidu_com_s_11y990
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 26,_ili9341_controller,_spi_tft_lcd_display,_9_pin_breakout_pcb,_4_pin_sd_card_interface,_5v_3_3v_,ili9341_spi_daughterboard,u2,ili9341_spi_daughterboard,ili9341_spi_daughterboard,1,_,http_pan_baidu_com_s_11y990_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 26,_ili9341_controller,_spi_tft_lcd_display,_9_pin_breakout_pcb,_4_pin_sd_card_interface,_5v_3_3v_,ili9341_spi_daughterboard,u2,ili9341_spi_daughterboard,ili9341_spi_daughterboard,1,_,http_pan_baidu_com_s_11y990
 - all: 27,_800ma_low_dropout_linear_regulator,_3_3v_fixed_output,_to_220_to_252_to_263_sot_223_,lm1117_3_3,u5,lm1117_3_3,to_252_3_tabpin2,1,_,http_www_ti_com_lit_ds_symlink_lm1117_pdf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 27,_800ma_low_dropout_linear_regulator,_3_3v_fixed_output,_to_220_to_252_to_263_sot_223_,lm1117_3_3,u5,lm1117_3_3,to_252_3_tabpin2,1,_,http_www_ti_com_lit_ds_symlink_lm1117_pdf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 27,_800ma_low_dropout_linear_regulator,_3_3v_fixed_output,_to_220_to_252_to_263_sot_223_,lm1117_3_3,u5,lm1117_3_3,to_252_3_tabpin2,1,_,http_www_ti_com_lit_ds_symlink_lm1117_pdf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 27,_800ma_low_dropout_linear_regulator,_3_3v_fixed_output,_to_220_to_252_to_263_sot_223_,lm1117_3_3,u5,lm1117_3_3,to_252_3_tabpin2,1,_,http_www_ti_com_lit_ds_symlink_lm1117_pdf
 - all: 28,_1mhz,_low_power_op_amp,_dip_14_soic_14_tssop_14_,mcp6004,u3,mcp6004,soic_14_n,1,_,http_ww1_microchip_com_downloads_en_devicedoc_21733j_pdf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 28,_1mhz,_low_power_op_amp,_dip_14_soic_14_tssop_14_,mcp6004,u3,mcp6004,soic_14_n,1,_,http_ww1_microchip_com_downloads_en_devicedoc_21733j_pdf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 28,_1mhz,_low_power_op_amp,_dip_14_soic_14_tssop_14_,mcp6004,u3,mcp6004,soic_14_n,1,_,http_ww1_microchip_com_downloads_en_devicedoc_21733j_pdf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 28,_1mhz,_low_power_op_amp,_dip_14_soic_14_tssop_14_,mcp6004,u3,mcp6004,soic_14_n,1,_,http_ww1_microchip_com_downloads_en_devicedoc_21733j_pdf
 - all: 29,_arm_cortex_m4_mcu,_512kb_flash,_128kb_ram,_180mhz,_1_8_3_6v,_50_gpio,_lqfp_64_,stm32f446retx,u1,stm32f446retx,lqfp_64_10x10mm_p0_5mm,1,_,http_www_st_com_st_web_ui_static_active_en_resource_technical_document_datasheet_dm00141306_pdf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 29,_arm_cortex_m4_mcu,_512kb_flash,_128kb_ram,_180mhz,_1_8_3_6v,_50_gpio,_lqfp_64_,stm32f446retx,u1,stm32f446retx,lqfp_64_10x10mm_p0_5mm,1,_,http_www_st_com_st_web_ui_static_active_en_resource_technical_document_datasheet_dm00141306_pdf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 29,_arm_cortex_m4_mcu,_512kb_flash,_128kb_ram,_180mhz,_1_8_3_6v,_50_gpio,_lqfp_64_,stm32f446retx,u1,stm32f446retx,lqfp_64_10x10mm_p0_5mm,1,_,http_www_st_com_st_web_ui_static_active_en_resource_technical_document_datasheet_dm00141306_pdf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 29,_arm_cortex_m4_mcu,_512kb_flash,_128kb_ram,_180mhz,_1_8_3_6v,_50_gpio,_lqfp_64_,stm32f446retx,u1,stm32f446retx,lqfp_64_10x10mm_p0_5mm,1,_,http_www_st_com_st_web_ui_static_active_en_resource_technical_document_datasheet_dm00141306_pdf
 - all: 30,_quad_low_noise_jfet_input_operational_amplifiers,_dip_14_soic_14_,tl074,u4,tl074,soic_14_n,1,_,http_www_ti_com_lit_ds_symlink_tl071_pdf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 30,_quad_low_noise_jfet_input_operational_amplifiers,_dip_14_soic_14_,tl074,u4,tl074,soic_14_n,1,_,http_www_ti_com_lit_ds_symlink_tl071_pdf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 30,_quad_low_noise_jfet_input_operational_amplifiers,_dip_14_soic_14_,tl074,u4,tl074,soic_14_n,1,_,http_www_ti_com_lit_ds_symlink_tl071_pdf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 30,_quad_low_noise_jfet_input_operational_amplifiers,_dip_14_soic_14_,tl074,u4,tl074,soic_14_n,1,_,http_www_ti_com_lit_ds_symlink_tl071_pdf
 - all: 31,two_pin_crystal,crystal,y1,crystal,crystal_smd,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 31,two_pin_crystal,crystal,y1,crystal,crystal_smd,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 31,two_pin_crystal,crystal,y1,crystal,crystal_smd,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 31,two_pin_crystal,crystal,y1,crystal,crystal_smd,1,_,~
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
 - all: date_,2023_08_02_17_08_50_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_50
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: date_,2023_08_02_17_08_50_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_50
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
 - all: component_groups_,31_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,31
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id044
+    all: component_groups_,31_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,31
 - all: component_count_,51_(36_smd_13_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,51_(36_smd_13_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id045
+    all: component_count_,51_(36_smd_13_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,51_(36_smd_13_tht)
 - all: fitted_components_,51_(36_smd_13_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,51_(36_smd_13_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id046
+    all: fitted_components_,51_(36_smd_13_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,51_(36_smd_13_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id047
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
 - all: total_components_,51_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,51
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id048
+    all: total_components_,51_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,51
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
 projects_flat: projects_flat/dchwebb_oscar/version_current/working
 projects_folder: projects_folder/dchwebb/Oscar/version_current/working
 repo:

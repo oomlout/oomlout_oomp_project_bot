@@ -13,1022 +13,1893 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\audrentis_alice_reference\version_current\working
 oomp_key: oomp_projects_flat_audrentis_alice_reference
 oomp_key_simple: projects_flat_audrentis_alice_reference
-parts_verbose:
+parts_oomp:
 - all: 1_mx62_mxonly_2_75u_noled_1_mx_noled___
-  designation: mx_noled
   designator: mx62
-  footprint: mxonly_2_75u_noled
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_mx62_mxonly_2_75u_noled_1_mx_noled___
+    designation: mx_noled
+    designator: mx62
+    footprint: mxonly_2_75u_noled
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_mx59_mxonly_2u_noled_1_mx_noled___
-  designation: mx_noled
   designator: mx59
-  footprint: mxonly_2u_noled
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_mx59_mxonly_2u_noled_1_mx_noled___
+    designation: mx_noled
+    designator: mx59
+    footprint: mxonly_2u_noled
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b62a2
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b62a2
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b62a1
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b62a1
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b59a2
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b59a2
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b59a1
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b59a1
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b64
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b64
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b63
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b63
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b62
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b62
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b61
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b61
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b60
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b60
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b59
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b59
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b58
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b58
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b57
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b57
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b56
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b56
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b55
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b55
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b54
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b54
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b53
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b53
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b52
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b52
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b51
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b51
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b50
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b50
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b49
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b49
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b48
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b48
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b47
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b47
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b46
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b46
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b45
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b45
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b44
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b44
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b43
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b43
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b42
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b42
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b41
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b41
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b40
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b40
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b39
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b39
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b38
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b38
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b37
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b37
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b36
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b36
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b35
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b35
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b34
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b34
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b33
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b33
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b31a1
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b31a1
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b32
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b32
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b31
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b31
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b30
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b30
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b29
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b29
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b28
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id044
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b28
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b27
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id045
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b27
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b26a1
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id046
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b26a1
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b26
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id047
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b26
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b25
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id048
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b25
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b24
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id049
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b24
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b23
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id050
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b23
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b22
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id051
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b22
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b21
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id052
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b21
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b20
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id053
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b20
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b19
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id054
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b19
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b18
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id055
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b18
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b6
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id056
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b6
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b17
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id057
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b17
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b16
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id058
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b16
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b15
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id059
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b15
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b14
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id060
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b14
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b13
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id061
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b13
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b6a1
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id062
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b6a1
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b12
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id063
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b12
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b11
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id064
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b11
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b10
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id065
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b10
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b9
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id066
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b9
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b8
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id067
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b8
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b7
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id068
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b7
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b5
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id069
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b5
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b4
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id070
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b4
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b3
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id071
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b3
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b2
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id072
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b2
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
-  designation: led
   designator: b1
-  footprint: mxonly_ledonly
-  id: '3'
-  quantity: '71'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id073
+    all: 3_b62a2,b62a1,b59a2,b59a1,b64,b63,b62,b61,b60,b59,b58,b57,b56,b55,b54,b53,b52,b51,b50,b49,b48,b47,b46,b45,b44,b43,b42,b41,b40,b39,b38,b37,b36,b35,b34,b33,b31a1,b32,b31,b30,b29,b28,b27,b26a1,b26,b25,b24,b23,b22,b21,b20,b19,b18,b6,b17,b16,b15,b14,b13,b6a1,b12,b11,b10,b9,b8,b7,b5,b4,b3,b2,b1_mxonly_ledonly_71_led___
+    designation: led
+    designator: b1
+    footprint: mxonly_ledonly
+    id: '3'
+    quantity: '71'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx62a2
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id074
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx62a2
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx59a2
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id075
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx59a2
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx59a1
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id076
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx59a1
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx60
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id077
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx60
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx58
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id078
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx58
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx57
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id079
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx57
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx56
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id080
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx56
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx55
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id081
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx55
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx54
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id082
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx54
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx53
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id083
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx53
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx52
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id084
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx52
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx51
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id085
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx51
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx49
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id086
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx49
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx48
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id087
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx48
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx47
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id088
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx47
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx46
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id089
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx46
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx45
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id090
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx45
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx44
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id091
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx44
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx43
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id092
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx43
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx42
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id093
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx42
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx40
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id094
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx40
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx39
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id095
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx39
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx38
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id096
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx38
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx37
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id097
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx37
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx36
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id098
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx36
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx35
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id099
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx35
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx34
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id100
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx34
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx33
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id101
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx33
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx32
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id102
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx32
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx31
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id103
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx31
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx30
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id104
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx30
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx29
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id105
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx29
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx28
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id106
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx28
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx27
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id107
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx27
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx25
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id108
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx25
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx24
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id109
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx24
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx23
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id110
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx23
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx22
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id111
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx22
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx21
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id112
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx21
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx20
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id113
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx20
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx19
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id114
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx19
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx18
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id115
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx18
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx16
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id116
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx16
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx15
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id117
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx15
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx14
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id118
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx14
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx13
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id119
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx13
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx12
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id120
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx12
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx11
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id121
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx11
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx10
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id122
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx10
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx9
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id123
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx9
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx4
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id124
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx4
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx3
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id125
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx3
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx2
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id126
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx2
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
-  designation: mx_noled
   designator: mx1
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '54'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id127
+    all: 4_mx62a2,mx59a2,mx59a1,mx60,mx58,mx57,mx56,mx55,mx54,mx53,mx52,mx51,mx49,mx48,mx47,mx46,mx45,mx44,mx43,mx42,mx40,mx39,mx38,mx37,mx36,mx35,mx34,mx33,mx32,mx31,mx30,mx29,mx28,mx27,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx16,mx15,mx14,mx13,mx12,mx11,mx10,mx9,mx4,mx3,mx2,mx1_mxonly_1u_noled_54_mx_noled___
+    designation: mx_noled
+    designator: mx1
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '54'
+    supplier_and_ref: ''
 - all: 5_mx62a1,mx6_mxonly_1_75u_noled_2_mx_noled___
-  designation: mx_noled
   designator: mx62a1
-  footprint: mxonly_1_75u_noled
-  id: '5'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id128
+    all: 5_mx62a1,mx6_mxonly_1_75u_noled_2_mx_noled___
+    designation: mx_noled
+    designator: mx62a1
+    footprint: mxonly_1_75u_noled
+    id: '5'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 5_mx62a1,mx6_mxonly_1_75u_noled_2_mx_noled___
-  designation: mx_noled
   designator: mx6
-  footprint: mxonly_1_75u_noled
-  id: '5'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id129
+    all: 5_mx62a1,mx6_mxonly_1_75u_noled_2_mx_noled___
+    designation: mx_noled
+    designator: mx6
+    footprint: mxonly_1_75u_noled
+    id: '5'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
-  designation: mx_noled
   designator: mx64
-  footprint: mxonly_1_5u_noled
-  id: '6'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id130
+    all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
+    designation: mx_noled
+    designator: mx64
+    footprint: mxonly_1_5u_noled
+    id: '6'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
-  designation: mx_noled
   designator: mx63
-  footprint: mxonly_1_5u_noled
-  id: '6'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id131
+    all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
+    designation: mx_noled
+    designator: mx63
+    footprint: mxonly_1_5u_noled
+    id: '6'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
-  designation: mx_noled
   designator: mx50
-  footprint: mxonly_1_5u_noled
-  id: '6'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id132
+    all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
+    designation: mx_noled
+    designator: mx50
+    footprint: mxonly_1_5u_noled
+    id: '6'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
-  designation: mx_noled
   designator: mx17
-  footprint: mxonly_1_5u_noled
-  id: '6'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id133
+    all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
+    designation: mx_noled
+    designator: mx17
+    footprint: mxonly_1_5u_noled
+    id: '6'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
-  designation: mx_noled
   designator: mx8
-  footprint: mxonly_1_5u_noled
-  id: '6'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id134
+    all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
+    designation: mx_noled
+    designator: mx8
+    footprint: mxonly_1_5u_noled
+    id: '6'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
-  designation: mx_noled
   designator: mx5
-  footprint: mxonly_1_5u_noled
-  id: '6'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id135
+    all: 6_mx64,mx63,mx50,mx17,mx8,mx5_mxonly_1_5u_noled_6_mx_noled___
+    designation: mx_noled
+    designator: mx5
+    footprint: mxonly_1_5u_noled
+    id: '6'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 7_mx61,mx26_mxonly_2_25u_reversedstabilizers_noled_2_mx_noled___
-  designation: mx_noled
   designator: mx61
-  footprint: mxonly_2_25u_reversedstabilizers_noled
-  id: '7'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id136
+    all: 7_mx61,mx26_mxonly_2_25u_reversedstabilizers_noled_2_mx_noled___
+    designation: mx_noled
+    designator: mx61
+    footprint: mxonly_2_25u_reversedstabilizers_noled
+    id: '7'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 7_mx61,mx26_mxonly_2_25u_reversedstabilizers_noled_2_mx_noled___
-  designation: mx_noled
   designator: mx26
-  footprint: mxonly_2_25u_reversedstabilizers_noled
-  id: '7'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id137
+    all: 7_mx61,mx26_mxonly_2_25u_reversedstabilizers_noled_2_mx_noled___
+    designation: mx_noled
+    designator: mx26
+    footprint: mxonly_2_25u_reversedstabilizers_noled
+    id: '7'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 8_mx41_mxonly_2_75u_reversedstabilizers_noled_1_mx_noled___
-  designation: mx_noled
   designator: mx41
-  footprint: mxonly_2_75u_reversedstabilizers_noled
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id138
+    all: 8_mx41_mxonly_2_75u_reversedstabilizers_noled_1_mx_noled___
+    designation: mx_noled
+    designator: mx41
+    footprint: mxonly_2_75u_reversedstabilizers_noled
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_mx31a1,mx6a1_mxonly_1_25u_noled_2_mx_noled___
-  designation: mx_noled
   designator: mx31a1
-  footprint: mxonly_1_25u_noled
-  id: '9'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id139
+    all: 9_mx31a1,mx6a1_mxonly_1_25u_noled_2_mx_noled___
+    designation: mx_noled
+    designator: mx31a1
+    footprint: mxonly_1_25u_noled
+    id: '9'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 9_mx31a1,mx6a1_mxonly_1_25u_noled_2_mx_noled___
-  designation: mx_noled
   designator: mx6a1
-  footprint: mxonly_1_25u_noled
-  id: '9'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id140
+    all: 9_mx31a1,mx6a1_mxonly_1_25u_noled_2_mx_noled___
+    designation: mx_noled
+    designator: mx6a1
+    footprint: mxonly_1_25u_noled
+    id: '9'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 10_mx26a1_mxonly_2u_reversedstabilizers_noled_1_mx_noled___
-  designation: mx_noled
   designator: mx26a1
-  footprint: mxonly_2u_reversedstabilizers_noled
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id141
+    all: 10_mx26a1_mxonly_2u_reversedstabilizers_noled_1_mx_noled___
+    designation: mx_noled
+    designator: mx26a1
+    footprint: mxonly_2u_reversedstabilizers_noled
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_mx7_mxonly_2_25u_noled_1_mx_noled___
-  designation: mx_noled
   designator: mx7
-  footprint: mxonly_2_25u_noled
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id142
+    all: 11_mx7_mxonly_2_25u_noled_1_mx_noled___
+    designation: mx_noled
+    designator: mx7
+    footprint: mxonly_2_25u_noled
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_led3,led2,led1_led_d3_0mm_3_led___
-  designation: led
   designator: led3
-  footprint: led_d3_0mm
-  id: '12'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id143
+    all: 12_led3,led2,led1_led_d3_0mm_3_led___
+    designation: led
+    designator: led3
+    footprint: led_d3_0mm
+    id: '12'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 12_led3,led2,led1_led_d3_0mm_3_led___
-  designation: led
   designator: led2
-  footprint: led_d3_0mm
-  id: '12'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id144
+    all: 12_led3,led2,led1_led_d3_0mm_3_led___
+    designation: led
+    designator: led2
+    footprint: led_d3_0mm
+    id: '12'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 12_led3,led2,led1_led_d3_0mm_3_led___
-  designation: led
   designator: led1
-  footprint: led_d3_0mm
-  id: '12'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id145
+    all: 12_led3,led2,led1_led_d3_0mm_3_led___
+    designation: led
+    designator: led1
+    footprint: led_d3_0mm
+    id: '12'
+    quantity: '3'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
+- *id049
+- *id050
+- *id051
+- *id052
+- *id053
+- *id054
+- *id055
+- *id056
+- *id057
+- *id058
+- *id059
+- *id060
+- *id061
+- *id062
+- *id063
+- *id064
+- *id065
+- *id066
+- *id067
+- *id068
+- *id069
+- *id070
+- *id071
+- *id072
+- *id073
+- *id074
+- *id075
+- *id076
+- *id077
+- *id078
+- *id079
+- *id080
+- *id081
+- *id082
+- *id083
+- *id084
+- *id085
+- *id086
+- *id087
+- *id088
+- *id089
+- *id090
+- *id091
+- *id092
+- *id093
+- *id094
+- *id095
+- *id096
+- *id097
+- *id098
+- *id099
+- *id100
+- *id101
+- *id102
+- *id103
+- *id104
+- *id105
+- *id106
+- *id107
+- *id108
+- *id109
+- *id110
+- *id111
+- *id112
+- *id113
+- *id114
+- *id115
+- *id116
+- *id117
+- *id118
+- *id119
+- *id120
+- *id121
+- *id122
+- *id123
+- *id124
+- *id125
+- *id126
+- *id127
+- *id128
+- *id129
+- *id130
+- *id131
+- *id132
+- *id133
+- *id134
+- *id135
+- *id136
+- *id137
+- *id138
+- *id139
+- *id140
+- *id141
+- *id142
+- *id143
+- *id144
+- *id145
 projects_flat: projects_flat/audrentis_alice_reference/version_current/working
 projects_folder: projects_folder/audrentis/Alice-Reference/version_current/working
 repo:

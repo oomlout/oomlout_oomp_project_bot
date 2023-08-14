@@ -13,21 +13,34 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ai03_2725_celestine\version_current\working
 oomp_key: oomp_projects_flat_ai03_2725_celestine
 oomp_key_simple: projects_flat_ai03_2725_celestine
-parts_verbose:
+parts_oomp:
 - all: 1_o1_outline_1_outline___
-  designation: outline
   designator: o1
-  footprint: outline
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_o1_outline_1_outline___
+    designation: outline
+    designator: o1
+    footprint: outline
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_g__ai_10_1_logo___
-  designation: logo
   designator: g_
-  footprint: ai_10
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_g__ai_10_1_logo___
+    designation: logo
+    designator: g_
+    footprint: ai_10
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
 projects_flat: projects_flat/ai03_2725_celestine/version_current/working
 projects_folder: projects_folder/ai03-2725/Celestine/version_current/working
 repo:

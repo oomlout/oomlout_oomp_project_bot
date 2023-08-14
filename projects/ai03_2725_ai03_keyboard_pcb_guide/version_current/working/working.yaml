@@ -13,175 +13,320 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ai03_2725_ai03_keyboard_pcb_guide\version_current\working
 oomp_key: oomp_projects_flat_ai03_2725_ai03_keyboard_pcb_guide
 oomp_key_simple: projects_flat_ai03_2725_ai03_keyboard_pcb_guide
-parts_verbose:
+parts_oomp:
 - all: 1_y1_crystal_smd_3225_4pin_3_2x2_5mm_1_crystal_gnd24_small___
-  designation: crystal_gnd24_small
   designator: y1
-  footprint: crystal_smd_3225_4pin_3_2x2_5mm
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_y1_crystal_smd_3225_4pin_3_2x2_5mm_1_crystal_gnd24_small___
+    designation: crystal_gnd24_small
+    designator: y1
+    footprint: crystal_smd_3225_4pin_3_2x2_5mm
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_u1_tqfp_44_10x10mm_pitch0_8mm_1_atmega32u4_au___
-  designation: atmega32u4_au
   designator: u1
-  footprint: tqfp_44_10x10mm_pitch0_8mm
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_u1_tqfp_44_10x10mm_pitch0_8mm_1_atmega32u4_au___
+    designation: atmega32u4_au
+    designator: u1
+    footprint: tqfp_44_10x10mm_pitch0_8mm
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_mx4,mx3,mx2,mx1_mx_1u_4_mx_noled___
-  designation: mx_noled
   designator: mx4
-  footprint: mx_1u
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_mx4,mx3,mx2,mx1_mx_1u_4_mx_noled___
+    designation: mx_noled
+    designator: mx4
+    footprint: mx_1u
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_mx4,mx3,mx2,mx1_mx_1u_4_mx_noled___
-  designation: mx_noled
   designator: mx3
-  footprint: mx_1u
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_mx4,mx3,mx2,mx1_mx_1u_4_mx_noled___
+    designation: mx_noled
+    designator: mx3
+    footprint: mx_1u
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_mx4,mx3,mx2,mx1_mx_1u_4_mx_noled___
-  designation: mx_noled
   designator: mx2
-  footprint: mx_1u
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_mx4,mx3,mx2,mx1_mx_1u_4_mx_noled___
+    designation: mx_noled
+    designator: mx2
+    footprint: mx_1u
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_mx4,mx3,mx2,mx1_mx_1u_4_mx_noled___
-  designation: mx_noled
   designator: mx1
-  footprint: mx_1u
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 3_mx4,mx3,mx2,mx1_mx_1u_4_mx_noled___
+    designation: mx_noled
+    designator: mx1
+    footprint: mx_1u
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_c1,c2_c_0805_2_22pf___
-  designation: 22pf
   designator: c1
-  footprint: c_0805
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 4_c1,c2_c_0805_2_22pf___
+    designation: 22pf
+    designator: c1
+    footprint: c_0805
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 4_c1,c2_c_0805_2_22pf___
-  designation: 22pf
   designator: c2
-  footprint: c_0805
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 4_c1,c2_c_0805_2_22pf___
+    designation: 22pf
+    designator: c2
+    footprint: c_0805
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 5_c3_c_0805_1_1uf___
-  designation: 1uf
   designator: c3
-  footprint: c_0805
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 5_c3_c_0805_1_1uf___
+    designation: 1uf
+    designator: c3
+    footprint: c_0805
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_c4,c5,c6_c_0805_3_0_1uf___
-  designation: 0_1uf
   designator: c4
-  footprint: c_0805
-  id: '6'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 6_c4,c5,c6_c_0805_3_0_1uf___
+    designation: 0_1uf
+    designator: c4
+    footprint: c_0805
+    id: '6'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 6_c4,c5,c6_c_0805_3_0_1uf___
-  designation: 0_1uf
   designator: c5
-  footprint: c_0805
-  id: '6'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 6_c4,c5,c6_c_0805_3_0_1uf___
+    designation: 0_1uf
+    designator: c5
+    footprint: c_0805
+    id: '6'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 6_c4,c5,c6_c_0805_3_0_1uf___
-  designation: 0_1uf
   designator: c6
-  footprint: c_0805
-  id: '6'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 6_c4,c5,c6_c_0805_3_0_1uf___
+    designation: 0_1uf
+    designator: c6
+    footprint: c_0805
+    id: '6'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 7_c7_c_0805_1_10uf___
-  designation: 10uf
   designator: c7
-  footprint: c_0805
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 7_c7_c_0805_1_10uf___
+    designation: 10uf
+    designator: c7
+    footprint: c_0805
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_d1,d2,d3,d4_d_sod_123_4_sod_123___
-  designation: sod_123
   designator: d1
-  footprint: d_sod_123
-  id: '8'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 8_d1,d2,d3,d4_d_sod_123_4_sod_123___
+    designation: sod_123
+    designator: d1
+    footprint: d_sod_123
+    id: '8'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 8_d1,d2,d3,d4_d_sod_123_4_sod_123___
-  designation: sod_123
   designator: d2
-  footprint: d_sod_123
-  id: '8'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 8_d1,d2,d3,d4_d_sod_123_4_sod_123___
+    designation: sod_123
+    designator: d2
+    footprint: d_sod_123
+    id: '8'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 8_d1,d2,d3,d4_d_sod_123_4_sod_123___
-  designation: sod_123
   designator: d3
-  footprint: d_sod_123
-  id: '8'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 8_d1,d2,d3,d4_d_sod_123_4_sod_123___
+    designation: sod_123
+    designator: d3
+    footprint: d_sod_123
+    id: '8'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 8_d1,d2,d3,d4_d_sod_123_4_sod_123___
-  designation: sod_123
   designator: d4
-  footprint: d_sod_123
-  id: '8'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 8_d1,d2,d3,d4_d_sod_123_4_sod_123___
+    designation: sod_123
+    designator: d4
+    footprint: d_sod_123
+    id: '8'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 9_f1_fuse_smd1206_reflow_1_500ma___
-  designation: 500ma
   designator: f1
-  footprint: fuse_smd1206_reflow
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 9_f1_fuse_smd1206_reflow_1_500ma___
+    designation: 500ma
+    designator: f1
+    footprint: fuse_smd1206_reflow
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_r1,r4_r_0805_2_10k___
-  designation: 10k
   designator: r1
-  footprint: r_0805
-  id: '10'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 10_r1,r4_r_0805_2_10k___
+    designation: 10k
+    designator: r1
+    footprint: r_0805
+    id: '10'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 10_r1,r4_r_0805_2_10k___
-  designation: 10k
   designator: r4
-  footprint: r_0805
-  id: '10'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 10_r1,r4_r_0805_2_10k___
+    designation: 10k
+    designator: r4
+    footprint: r_0805
+    id: '10'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 11_r2,r3_r_0805_2_22___
-  designation: '22'
   designator: r2
-  footprint: r_0805
-  id: '11'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 11_r2,r3_r_0805_2_22___
+    designation: '22'
+    designator: r2
+    footprint: r_0805
+    id: '11'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 11_r2,r3_r_0805_2_22___
-  designation: '22'
   designator: r3
-  footprint: r_0805
-  id: '11'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 11_r2,r3_r_0805_2_22___
+    designation: '22'
+    designator: r3
+    footprint: r_0805
+    id: '11'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 12_sw1_skqg_1155865_1_sw_push___
-  designation: sw_push
   designator: sw1
-  footprint: skqg_1155865
-  id: '12'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 12_sw1_skqg_1155865_1_sw_push___
+    designation: sw_push
+    designator: sw1
+    footprint: skqg_1155865
+    id: '12'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 13_usb1_molex_0548190589_assembly_1_molex_0548190589___
-  designation: molex_0548190589
   designator: usb1
-  footprint: molex_0548190589_assembly
-  id: '13'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 13_usb1_molex_0548190589_assembly_1_molex_0548190589___
+    designation: molex_0548190589
+    designator: usb1
+    footprint: molex_0548190589_assembly
+    id: '13'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
 projects_flat: projects_flat/ai03_2725_ai03_keyboard_pcb_guide/version_current/working
 projects_folder: projects_folder/ai03-2725/ai03-keyboard-pcb-guide/version_current/working
 repo:

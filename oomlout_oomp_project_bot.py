@@ -5,26 +5,52 @@ import oom_markdown
 def load_data():
     print("loading data")
     github_datas = []
-    github_datas.append("https://github.com/oomlout/oomlout_project_src")
-    github_datas.append("https://github.com/oomlout/oomlout_part_src")
+    github_datas.append("https://github.com/oomlout/oomlout_oomp_part_src")
+    github_datas.append("https://github.com/oomlout/oomlout_oomp_project_src")
+    
 
 
-
-    #make tmp/data directory if it doesn't already exist
-    if not os.path.exists("tmp\\data\\"):
-        os.makedirs("tmp\\data\\")
-    #clone to tmp/
-    os.system("git clone " + github_data + " tmp\\data\\")
+    for github_data in github_datas:
+        #make tmp/data directory if it doesn't already exist        
+        if not os.path.exists("tmp\\data\\"):
+            os.makedirs("tmp\\data\\")
+        #clone to tmp/{repo name}
+               
+        os.system(f"git clone {github_data} tmp\\data\\{github_data.split('/')[-1]}")
     print("data loaded")
 
 def copy_data():
     print("copying data")
-    directory_src = rf"tmp\data\projects_flat"
+    directory_src = rf"tmp/data/oomlout_oomp_project_src/projects_flat"
     directory_dst = rf"projects"
     #copy with directory tree with shutil
     import shutil
     shutil.copytree(directory_src, directory_dst, dirs_exist_ok=True)
     print("data copied")
+
+
+def save_projects_to_yaml(**kwargs):
+    projects = {}
+    # go through all directories in projects
+    for root, dirs, files in os.walk("projects"):
+        #go through all files
+        for file in files:
+            #check for a brd file            
+            filename = os.path.join(root, file)
+            #if any of filter is in filename
+            if "working.yaml" in filename:
+                import yaml
+                with open(filename, 'r') as stream:
+                    try:
+                        yaml_dict = yaml.load(stream, Loader=yaml.FullLoader)
+                    except:
+                        print("yaml file error")
+                        continue
+                    pass
+    print("saving projects to yaml")
+    import yaml
+    with open("projects.yaml", "w") as outfile:
+        yaml.dump(projects, outfile, indent=4)
 
 
 def go_through_directories():

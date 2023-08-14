@@ -13,84 +13,151 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_mkr_shield_template\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_mkr_shield_template
 oomp_key_simple: projects_flat_electroniccats_mkr_shield_template
-parts_verbose:
+parts_oomp:
 - all: 1_@hole0,@hole1,@hole2,@hole3__4____
-  designation: ''
   designator: '@hole0'
-  footprint: ''
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_@hole0,@hole1,@hole2,@hole3__4____
+    designation: ''
+    designator: '@hole0'
+    footprint: ''
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 1_@hole0,@hole1,@hole2,@hole3__4____
-  designation: ''
   designator: '@hole1'
-  footprint: ''
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_@hole0,@hole1,@hole2,@hole3__4____
+    designation: ''
+    designator: '@hole1'
+    footprint: ''
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 1_@hole0,@hole1,@hole2,@hole3__4____
-  designation: ''
   designator: '@hole2'
-  footprint: ''
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 1_@hole0,@hole1,@hole2,@hole3__4____
+    designation: ''
+    designator: '@hole2'
+    footprint: ''
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 1_@hole0,@hole1,@hole2,@hole3__4____
-  designation: ''
   designator: '@hole3'
-  footprint: ''
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 1_@hole0,@hole1,@hole2,@hole3__4____
+    designation: ''
+    designator: '@hole3'
+    footprint: ''
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
-  designation: ''
   designator: u$5
-  footprint: mh_rnd_f_2_2mm_nm
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 2_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
+    designation: ''
+    designator: u$5
+    footprint: mh_rnd_f_2_2mm_nm
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
-  designation: ''
   designator: u$6
-  footprint: mh_rnd_f_2_2mm_nm
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 2_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
+    designation: ''
+    designator: u$6
+    footprint: mh_rnd_f_2_2mm_nm
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
-  designation: ''
   designator: u$7
-  footprint: mh_rnd_f_2_2mm_nm
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 2_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
+    designation: ''
+    designator: u$7
+    footprint: mh_rnd_f_2_2mm_nm
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
-  designation: ''
   designator: u$8
-  footprint: mh_rnd_f_2_2mm_nm
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 2_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
+    designation: ''
+    designator: u$8
+    footprint: mh_rnd_f_2_2mm_nm
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_frame1_frame_1_page_1___
-  designation: page_1
   designator: frame1
-  footprint: frame
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 3_frame1_frame_1_page_1___
+    designation: page_1
+    designator: frame1
+    footprint: frame
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_j1,j2_61301411121_2_____
-  designation: _
   designator: j1
-  footprint: '61301411121'
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 4_j1,j2_61301411121_2_____
+    designation: _
+    designator: j1
+    footprint: '61301411121'
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 4_j1,j2_61301411121_2_____
-  designation: _
   designator: j2
-  footprint: '61301411121'
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 4_j1,j2_61301411121_2_____
+    designation: _
+    designator: j2
+    footprint: '61301411121'
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
 projects_flat: projects_flat/electroniccats_mkr_shield_template/version_current/working
 projects_folder: projects_folder/ElectronicCats/MKR_shield_template/version_current/working
 repo:

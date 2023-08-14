@@ -13,91 +13,164 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dqmcdonald_rattrapsensorpcb\version_current\working
 oomp_key: oomp_projects_flat_dqmcdonald_rattrapsensorpcb
 oomp_key_simple: projects_flat_dqmcdonald_rattrapsensorpcb
-parts_verbose:
+parts_oomp:
 - all: 1_d1_r_0805_handsoldering_1_led___
-  designation: led
   designator: d1
-  footprint: r_0805_handsoldering
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_d1_r_0805_handsoldering_1_led___
+    designation: led
+    designator: d1
+    footprint: r_0805_handsoldering
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2__pin_header_straight_1x03_pitch2_54mm_1____
-  designation: ''
   designator: ''
-  footprint: pin_header_straight_1x03_pitch2_54mm
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2__pin_header_straight_1x03_pitch2_54mm_1____
+    designation: ''
+    designator: ''
+    footprint: pin_header_straight_1x03_pitch2_54mm
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3__pin_header_straight_1x05_pitch2_54mm_1____
-  designation: ''
   designator: ''
-  footprint: pin_header_straight_1x05_pitch2_54mm
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3__pin_header_straight_1x05_pitch2_54mm_1____
+    designation: ''
+    designator: ''
+    footprint: pin_header_straight_1x05_pitch2_54mm
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_,_pin_header_straight_1x04_pitch2_54mm_2____
-  designation: ''
   designator: ''
-  footprint: pin_header_straight_1x04_pitch2_54mm
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4_,_pin_header_straight_1x04_pitch2_54mm_2____
+    designation: ''
+    designator: ''
+    footprint: pin_header_straight_1x04_pitch2_54mm
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 4_,_pin_header_straight_1x04_pitch2_54mm_2____
-  designation: ''
   designator: ''
-  footprint: pin_header_straight_1x04_pitch2_54mm
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_,_pin_header_straight_1x04_pitch2_54mm_2____
+    designation: ''
+    designator: ''
+    footprint: pin_header_straight_1x04_pitch2_54mm
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 5_,,_pin_header_straight_1x02_pitch2_54mm_3____
-  designation: ''
   designator: ''
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '5'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_,,_pin_header_straight_1x02_pitch2_54mm_3____
+    designation: ''
+    designator: ''
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '5'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 5_,,_pin_header_straight_1x02_pitch2_54mm_3____
-  designation: ''
   designator: ''
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '5'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 5_,,_pin_header_straight_1x02_pitch2_54mm_3____
+    designation: ''
+    designator: ''
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '5'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 5_,,_pin_header_straight_1x02_pitch2_54mm_3____
-  designation: ''
   designator: ''
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '5'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 5_,,_pin_header_straight_1x02_pitch2_54mm_3____
+    designation: ''
+    designator: ''
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '5'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 6_r1_r_0805_handsoldering_1_220___
-  designation: '220'
   designator: r1
-  footprint: r_0805_handsoldering
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 6_r1_r_0805_handsoldering_1_220___
+    designation: '220'
+    designator: r1
+    footprint: r_0805_handsoldering
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_u1_lorasx1276_1_lorasx1276___
-  designation: lorasx1276
   designator: u1
-  footprint: lorasx1276
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 7_u1_lorasx1276_1_lorasx1276___
+    designation: lorasx1276
+    designator: u1
+    footprint: lorasx1276
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8__u_fl_smd_1____
-  designation: ''
   designator: ''
-  footprint: u_fl_smd
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 8__u_fl_smd_1____
+    designation: ''
+    designator: ''
+    footprint: u_fl_smd
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_up1_ardupromini_1_ardupromini___
-  designation: ardupromini
   designator: up1
-  footprint: ardupromini
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 9_up1_ardupromini_1_ardupromini___
+    designation: ardupromini
+    designator: up1
+    footprint: ardupromini
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
 projects_flat: projects_flat/dqmcdonald_rattrapsensorpcb/version_current/working
 projects_folder: projects_folder/dqmcdonald/RatTrapSensorPCB/version_current/working
 repo:

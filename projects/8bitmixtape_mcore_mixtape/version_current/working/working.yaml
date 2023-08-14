@@ -15,224 +15,411 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\8bitmixtape_mcore_mixtape\version_current\working
 oomp_key: oomp_projects_flat_8bitmixtape_mcore_mixtape
 oomp_key_simple: projects_flat_8bitmixtape_mcore_mixtape
-parts_verbose:
+parts_oomp:
 - all: 1_j4,j4_loch_mixtape_seltsam_2_gnd___
-  designation: gnd
   designator: j4
-  footprint: loch_mixtape_seltsam
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_j4,j4_loch_mixtape_seltsam_2_gnd___
+    designation: gnd
+    designator: j4
+    footprint: loch_mixtape_seltsam
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 1_j4,j4_loch_mixtape_seltsam_2_gnd___
-  designation: gnd
   designator: j4
-  footprint: loch_mixtape_seltsam
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_j4,j4_loch_mixtape_seltsam_2_gnd___
+    designation: gnd
+    designator: j4
+    footprint: loch_mixtape_seltsam
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 2_j1_loch_mixtape_seltsam_1_pb5___
-  designation: pb5
   designator: j1
-  footprint: loch_mixtape_seltsam
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_j1_loch_mixtape_seltsam_1_pb5___
+    designation: pb5
+    designator: j1
+    footprint: loch_mixtape_seltsam
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_j2_loch_mixtape_seltsam_1_pb3___
-  designation: pb3
   designator: j2
-  footprint: loch_mixtape_seltsam
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_j2_loch_mixtape_seltsam_1_pb3___
+    designation: pb3
+    designator: j2
+    footprint: loch_mixtape_seltsam
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_j3_loch_mixtape_seltsam_1_pb4___
-  designation: pb4
   designator: j3
-  footprint: loch_mixtape_seltsam
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_j3_loch_mixtape_seltsam_1_pb4___
+    designation: pb4
+    designator: j3
+    footprint: loch_mixtape_seltsam
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_j5_loch_mixtape_seltsam_1_pb0___
-  designation: pb0
   designator: j5
-  footprint: loch_mixtape_seltsam
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_j5_loch_mixtape_seltsam_1_pb0___
+    designation: pb0
+    designator: j5
+    footprint: loch_mixtape_seltsam
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_j4,j4,j4,j4_gnd_loch_mixtape_4_gnd___
-  designation: gnd
   designator: j4
-  footprint: gnd_loch_mixtape
-  id: '6'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 6_j4,j4,j4,j4_gnd_loch_mixtape_4_gnd___
+    designation: gnd
+    designator: j4
+    footprint: gnd_loch_mixtape
+    id: '6'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 6_j4,j4,j4,j4_gnd_loch_mixtape_4_gnd___
-  designation: gnd
   designator: j4
-  footprint: gnd_loch_mixtape
-  id: '6'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 6_j4,j4,j4,j4_gnd_loch_mixtape_4_gnd___
+    designation: gnd
+    designator: j4
+    footprint: gnd_loch_mixtape
+    id: '6'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 6_j4,j4,j4,j4_gnd_loch_mixtape_4_gnd___
-  designation: gnd
   designator: j4
-  footprint: gnd_loch_mixtape
-  id: '6'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 6_j4,j4,j4,j4_gnd_loch_mixtape_4_gnd___
+    designation: gnd
+    designator: j4
+    footprint: gnd_loch_mixtape
+    id: '6'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 6_j4,j4,j4,j4_gnd_loch_mixtape_4_gnd___
-  designation: gnd
   designator: j4
-  footprint: gnd_loch_mixtape
-  id: '6'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 6_j4,j4,j4,j4_gnd_loch_mixtape_4_gnd___
+    designation: gnd
+    designator: j4
+    footprint: gnd_loch_mixtape
+    id: '6'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 7_j10_loch_mixtape_1_s_out___
-  designation: s_out
   designator: j10
-  footprint: loch_mixtape
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 7_j10_loch_mixtape_1_s_out___
+    designation: s_out
+    designator: j10
+    footprint: loch_mixtape
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_j11_loch_mixtape_1_led___
-  designation: led
   designator: j11
-  footprint: loch_mixtape
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 8_j11_loch_mixtape_1_led___
+    designation: led
+    designator: j11
+    footprint: loch_mixtape
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_j3_loch_mixtape_1_pb4___
-  designation: pb4
   designator: j3
-  footprint: loch_mixtape
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 9_j3_loch_mixtape_1_pb4___
+    designation: pb4
+    designator: j3
+    footprint: loch_mixtape
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_j9_loch_mixtape_1_prog___
-  designation: prog
   designator: j9
-  footprint: loch_mixtape
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 10_j9_loch_mixtape_1_prog___
+    designation: prog
+    designator: j9
+    footprint: loch_mixtape
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_j8_loch_mixtape_1_vcc___
-  designation: vcc
   designator: j8
-  footprint: loch_mixtape
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 11_j8_loch_mixtape_1_vcc___
+    designation: vcc
+    designator: j8
+    footprint: loch_mixtape
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_neo2,neo1_mixtape_neo_ws2812b_2_sk6813b___
-  designation: sk6813b
   designator: neo2
-  footprint: mixtape_neo_ws2812b
-  id: '12'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 12_neo2,neo1_mixtape_neo_ws2812b_2_sk6813b___
+    designation: sk6813b
+    designator: neo2
+    footprint: mixtape_neo_ws2812b
+    id: '12'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 12_neo2,neo1_mixtape_neo_ws2812b_2_sk6813b___
-  designation: sk6813b
   designator: neo1
-  footprint: mixtape_neo_ws2812b
-  id: '12'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 12_neo2,neo1_mixtape_neo_ws2812b_2_sk6813b___
+    designation: sk6813b
+    designator: neo1
+    footprint: mixtape_neo_ws2812b
+    id: '12'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 13_jack2,jack1_audio_jack_3_5mm_smd_noprint_2_jack_trs_6pins___
-  designation: jack_trs_6pins
   designator: jack2
-  footprint: audio_jack_3_5mm_smd_noprint
-  id: '13'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 13_jack2,jack1_audio_jack_3_5mm_smd_noprint_2_jack_trs_6pins___
+    designation: jack_trs_6pins
+    designator: jack2
+    footprint: audio_jack_3_5mm_smd_noprint
+    id: '13'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 13_jack2,jack1_audio_jack_3_5mm_smd_noprint_2_jack_trs_6pins___
-  designation: jack_trs_6pins
   designator: jack1
-  footprint: audio_jack_3_5mm_smd_noprint
-  id: '13'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 13_jack2,jack1_audio_jack_3_5mm_smd_noprint_2_jack_trs_6pins___
+    designation: jack_trs_6pins
+    designator: jack1
+    footprint: audio_jack_3_5mm_smd_noprint
+    id: '13'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 14_r7_r_1206_mixtape_1_330___
-  designation: '330'
   designator: r7
-  footprint: r_1206_mixtape
-  id: '14'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 14_r7_r_1206_mixtape_1_330___
+    designation: '330'
+    designator: r7
+    footprint: r_1206_mixtape
+    id: '14'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 15_r6_r_1206_mixtape_1_1k___
-  designation: 1k
   designator: r6
-  footprint: r_1206_mixtape
-  id: '15'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 15_r6_r_1206_mixtape_1_1k___
+    designation: 1k
+    designator: r6
+    footprint: r_1206_mixtape
+    id: '15'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 16_r2,r1_r_1206_mixtape_2_22k___
-  designation: 22k
   designator: r2
-  footprint: r_1206_mixtape
-  id: '16'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 16_r2,r1_r_1206_mixtape_2_22k___
+    designation: 22k
+    designator: r2
+    footprint: r_1206_mixtape
+    id: '16'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 16_r2,r1_r_1206_mixtape_2_22k___
-  designation: 22k
   designator: r1
-  footprint: r_1206_mixtape
-  id: '16'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 16_r2,r1_r_1206_mixtape_2_22k___
+    designation: 22k
+    designator: r1
+    footprint: r_1206_mixtape
+    id: '16'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 17_c3,c2,c1_c_1210_mixtapestyle_3_100nf___
-  designation: 100nf
   designator: c3
-  footprint: c_1210_mixtapestyle
-  id: '17'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 17_c3,c2,c1_c_1210_mixtapestyle_3_100nf___
+    designation: 100nf
+    designator: c3
+    footprint: c_1210_mixtapestyle
+    id: '17'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 17_c3,c2,c1_c_1210_mixtapestyle_3_100nf___
-  designation: 100nf
   designator: c2
-  footprint: c_1210_mixtapestyle
-  id: '17'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 17_c3,c2,c1_c_1210_mixtapestyle_3_100nf___
+    designation: 100nf
+    designator: c2
+    footprint: c_1210_mixtapestyle
+    id: '17'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 17_c3,c2,c1_c_1210_mixtapestyle_3_100nf___
-  designation: 100nf
   designator: c1
-  footprint: c_1210_mixtapestyle
-  id: '17'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 17_c3,c2,c1_c_1210_mixtapestyle_3_100nf___
+    designation: 100nf
+    designator: c1
+    footprint: c_1210_mixtapestyle
+    id: '17'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 18__micromixtape_edge_1____
-  designation: ''
   designator: ''
-  footprint: micromixtape_edge
-  id: '18'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 18__micromixtape_edge_1____
+    designation: ''
+    designator: ''
+    footprint: micromixtape_edge
+    id: '18'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 19_d1_top_led_footprint_1_led___
-  designation: led
   designator: d1
-  footprint: top_led_footprint
-  id: '19'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 19_d1_top_led_footprint_1_led___
+    designation: led
+    designator: d1
+    footprint: top_led_footprint
+    id: '19'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 20_ic1_attiny_dip_8_w7_62mm_1_attiny85_20pu___
-  designation: attiny85_20pu
   designator: ic1
-  footprint: attiny_dip_8_w7_62mm
-  id: '20'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 20_ic1_attiny_dip_8_w7_62mm_1_attiny85_20pu___
+    designation: attiny85_20pu
+    designator: ic1
+    footprint: attiny_dip_8_w7_62mm
+    id: '20'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 21_j8_loch_mixtape_seltsam_1_vcc___
-  designation: vcc
   designator: j8
-  footprint: loch_mixtape_seltsam
-  id: '21'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 21_j8_loch_mixtape_seltsam_1_vcc___
+    designation: vcc
+    designator: j8
+    footprint: loch_mixtape_seltsam
+    id: '21'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 22_j7_loch_mixtape_seltsam_1_pb2___
-  designation: pb2
   designator: j7
-  footprint: loch_mixtape_seltsam
-  id: '22'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 22_j7_loch_mixtape_seltsam_1_pb2___
+    designation: pb2
+    designator: j7
+    footprint: loch_mixtape_seltsam
+    id: '22'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
 projects_flat: projects_flat/8bitmixtape_mcore_mixtape/version_current/working
 projects_folder: projects_folder/8BitMixtape/mCore_Mixtape/version_current/working
 repo:

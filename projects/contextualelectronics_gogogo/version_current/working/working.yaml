@@ -13,14 +13,21 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\contextualelectronics_gogogo\version_current\working
 oomp_key: oomp_projects_flat_contextualelectronics_gogogo
 oomp_key_simple: projects_flat_contextualelectronics_gogogo
-parts_verbose:
+parts_oomp:
 - all: 1_g__med_1_logo___
-  designation: logo
   designator: g_
-  footprint: med
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_g__med_1_logo___
+    designation: logo
+    designator: g_
+    footprint: med
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
 projects_flat: projects_flat/contextualelectronics_gogogo/version_current/working
 projects_folder: projects_folder/ContextualElectronics/GoGoGo/version_current/working
 repo:

@@ -13,91 +13,164 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\asukiaaa_denturers485forcavityform5stack\version_current\working
 oomp_key: oomp_projects_flat_asukiaaa_denturers485forcavityform5stack
 oomp_key_simple: projects_flat_asukiaaa_denturers485forcavityform5stack
-parts_verbose:
+parts_oomp:
 - all: 1_j4_lan_rj45_neltron_industrial_7810_8p8c_1_conn_01x08___
-  designation: conn_01x08
   designator: j4
-  footprint: lan_rj45_neltron_industrial_7810_8p8c
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_j4_lan_rj45_neltron_industrial_7810_8p8c_1_conn_01x08___
+    designation: conn_01x08
+    designator: j4
+    footprint: lan_rj45_neltron_industrial_7810_8p8c
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
-  designation: outer_corner
   designator: corner3
-  footprint: outer_corner
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
+    designation: outer_corner
+    designator: corner3
+    footprint: outer_corner
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
-  designation: outer_corner
   designator: corner2
-  footprint: outer_corner
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
+    designation: outer_corner
+    designator: corner2
+    footprint: outer_corner
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
-  designation: outer_corner
   designator: corner4
-  footprint: outer_corner
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 2_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
+    designation: outer_corner
+    designator: corner4
+    footprint: outer_corner
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
-  designation: outer_corner
   designator: corner1
-  footprint: outer_corner
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 2_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
+    designation: outer_corner
+    designator: corner1
+    footprint: outer_corner
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_j1_pinheader_1x04_p1_27mm_vertical_1_conn_01x04___
-  designation: conn_01x04
   designator: j1
-  footprint: pinheader_1x04_p1_27mm_vertical
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 3_j1_pinheader_1x04_p1_27mm_vertical_1_conn_01x04___
+    designation: conn_01x04
+    designator: j1
+    footprint: pinheader_1x04_p1_27mm_vertical
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_j2_pinheader_1x08_p1_27mm_vertical_1_conn_01x08___
-  designation: conn_01x08
   designator: j2
-  footprint: pinheader_1x08_p1_27mm_vertical
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 4_j2_pinheader_1x08_p1_27mm_vertical_1_conn_01x08___
+    designation: conn_01x08
+    designator: j2
+    footprint: pinheader_1x08_p1_27mm_vertical
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_u1_soic_8_3_9x4_9mm_p1_27mm_1_sp3485en___
-  designation: sp3485en
   designator: u1
-  footprint: soic_8_3_9x4_9mm_p1_27mm
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 5_u1_soic_8_3_9x4_9mm_p1_27mm_1_sp3485en___
+    designation: sp3485en
+    designator: u1
+    footprint: soic_8_3_9x4_9mm_p1_27mm
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_c1_c_0603_1608metric_1_0_1uf___
-  designation: 0_1uf
   designator: c1
-  footprint: c_0603_1608metric
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 6_c1_c_0603_1608metric_1_0_1uf___
+    designation: 0_1uf
+    designator: c1
+    footprint: c_0603_1608metric
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_r1_r_0603_1608metric_1_220___
-  designation: '220'
   designator: r1
-  footprint: r_0603_1608metric
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 7_r1_r_0603_1608metric_1_220___
+    designation: '220'
+    designator: r1
+    footprint: r_0603_1608metric
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_j5_pinheader_1x02_p1_27mm_vertical_1_conn_01x02___
-  designation: conn_01x02
   designator: j5
-  footprint: pinheader_1x02_p1_27mm_vertical
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 8_j5_pinheader_1x02_p1_27mm_vertical_1_conn_01x02___
+    designation: conn_01x02
+    designator: j5
+    footprint: pinheader_1x02_p1_27mm_vertical
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_j3_pads_1x30_p1_27mm_vertical_1_free_holes___
-  designation: free_holes
   designator: j3
-  footprint: pads_1x30_p1_27mm_vertical
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 9_j3_pads_1x30_p1_27mm_vertical_1_free_holes___
+    designation: free_holes
+    designator: j3
+    footprint: pads_1x30_p1_27mm_vertical
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
 projects_flat: projects_flat/asukiaaa_denturers485forcavityform5stack/version_current/working
 projects_folder: projects_folder/asukiaaa/DentureRS485ForCavityForM5Stack/version_current/working
 repo:

@@ -13,133 +13,242 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamgreig_ledeaf\version_current\working
 oomp_key: oomp_projects_flat_adamgreig_ledeaf
 oomp_key_simple: projects_flat_adamgreig_ledeaf
-parts_verbose:
+parts_oomp:
 - all: 1_x3,x2,x1_m2_5_hole_3_tooling___
-  designation: tooling
   designator: x3
-  footprint: m2_5_hole
-  id: '1'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_x3,x2,x1_m2_5_hole_3_tooling___
+    designation: tooling
+    designator: x3
+    footprint: m2_5_hole
+    id: '1'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 1_x3,x2,x1_m2_5_hole_3_tooling___
-  designation: tooling
   designator: x2
-  footprint: m2_5_hole
-  id: '1'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_x3,x2,x1_m2_5_hole_3_tooling___
+    designation: tooling
+    designator: x2
+    footprint: m2_5_hole
+    id: '1'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 1_x3,x2,x1_m2_5_hole_3_tooling___
-  designation: tooling
   designator: x1
-  footprint: m2_5_hole
-  id: '1'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 1_x3,x2,x1_m2_5_hole_3_tooling___
+    designation: tooling
+    designator: x1
+    footprint: m2_5_hole
+    id: '1'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 2_c3,c2,c1_0402_3_100n___
-  designation: 100n
   designator: c3
-  footprint: '0402'
-  id: '2'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 2_c3,c2,c1_0402_3_100n___
+    designation: 100n
+    designator: c3
+    footprint: '0402'
+    id: '2'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 2_c3,c2,c1_0402_3_100n___
-  designation: 100n
   designator: c2
-  footprint: '0402'
-  id: '2'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 2_c3,c2,c1_0402_3_100n___
+    designation: 100n
+    designator: c2
+    footprint: '0402'
+    id: '2'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 2_c3,c2,c1_0402_3_100n___
-  designation: 100n
   designator: c1
-  footprint: '0402'
-  id: '2'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 2_c3,c2,c1_0402_3_100n___
+    designation: 100n
+    designator: c1
+    footprint: '0402'
+    id: '2'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 3_j2_m2_pth_1_din___
-  designation: din
   designator: j2
-  footprint: m2_pth
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 3_j2_m2_pth_1_din___
+    designation: din
+    designator: j2
+    footprint: m2_pth
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_j6,j3,j9_m2_pth_3_5v___
-  designation: 5v
   designator: j6
-  footprint: m2_pth
-  id: '4'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 4_j6,j3,j9_m2_pth_3_5v___
+    designation: 5v
+    designator: j6
+    footprint: m2_pth
+    id: '4'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 4_j6,j3,j9_m2_pth_3_5v___
-  designation: 5v
   designator: j3
-  footprint: m2_pth
-  id: '4'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 4_j6,j3,j9_m2_pth_3_5v___
+    designation: 5v
+    designator: j3
+    footprint: m2_pth
+    id: '4'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 4_j6,j3,j9_m2_pth_3_5v___
-  designation: 5v
   designator: j9
-  footprint: m2_pth
-  id: '4'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 4_j6,j3,j9_m2_pth_3_5v___
+    designation: 5v
+    designator: j9
+    footprint: m2_pth
+    id: '4'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 5_led1,led2,led3_ws2812b_4020_3_ws2812b_4020___
-  designation: ws2812b_4020
   designator: led1
-  footprint: ws2812b_4020
-  id: '5'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 5_led1,led2,led3_ws2812b_4020_3_ws2812b_4020___
+    designation: ws2812b_4020
+    designator: led1
+    footprint: ws2812b_4020
+    id: '5'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 5_led1,led2,led3_ws2812b_4020_3_ws2812b_4020___
-  designation: ws2812b_4020
   designator: led2
-  footprint: ws2812b_4020
-  id: '5'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 5_led1,led2,led3_ws2812b_4020_3_ws2812b_4020___
+    designation: ws2812b_4020
+    designator: led2
+    footprint: ws2812b_4020
+    id: '5'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 5_led1,led2,led3_ws2812b_4020_3_ws2812b_4020___
-  designation: ws2812b_4020
   designator: led3
-  footprint: ws2812b_4020
-  id: '5'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 5_led1,led2,led3_ws2812b_4020_3_ws2812b_4020___
+    designation: ws2812b_4020
+    designator: led3
+    footprint: ws2812b_4020
+    id: '5'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 6_j1,j7,j4_m2_pth_3_gnd___
-  designation: gnd
   designator: j1
-  footprint: m2_pth
-  id: '6'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 6_j1,j7,j4_m2_pth_3_gnd___
+    designation: gnd
+    designator: j1
+    footprint: m2_pth
+    id: '6'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 6_j1,j7,j4_m2_pth_3_gnd___
-  designation: gnd
   designator: j7
-  footprint: m2_pth
-  id: '6'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 6_j1,j7,j4_m2_pth_3_gnd___
+    designation: gnd
+    designator: j7
+    footprint: m2_pth
+    id: '6'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 6_j1,j7,j4_m2_pth_3_gnd___
-  designation: gnd
   designator: j4
-  footprint: m2_pth
-  id: '6'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 6_j1,j7,j4_m2_pth_3_gnd___
+    designation: gnd
+    designator: j4
+    footprint: m2_pth
+    id: '6'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 7_j5,j8_m2_pth_2_dout___
-  designation: dout
   designator: j5
-  footprint: m2_pth
-  id: '7'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 7_j5,j8_m2_pth_2_dout___
+    designation: dout
+    designator: j5
+    footprint: m2_pth
+    id: '7'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 7_j5,j8_m2_pth_2_dout___
-  designation: dout
   designator: j8
-  footprint: m2_pth
-  id: '7'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 7_j5,j8_m2_pth_2_dout___
+    designation: dout
+    designator: j8
+    footprint: m2_pth
+    id: '7'
+    quantity: '2'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
 projects_flat: projects_flat/adamgreig_ledeaf/version_current/working
 projects_folder: projects_folder/adamgreig/ledeaf/version_current/working
 repo:

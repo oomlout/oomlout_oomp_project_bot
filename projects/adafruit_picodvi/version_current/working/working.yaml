@@ -13,56 +13,99 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_picodvi\version_current\working
 oomp_key: oomp_projects_flat_adafruit_picodvi
 oomp_key_simple: projects_flat_adafruit_picodvi
-parts_verbose:
+parts_oomp:
 - all: 1_c1_c_0402_1005metric_1_100n___
-  designation: 100n
   designator: c1
-  footprint: c_0402_1005metric
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_c1_c_0402_1005metric_1_100n___
+    designation: 100n
+    designator: c1
+    footprint: c_0402_1005metric
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_j1_pinsocket_2x06_p2_54mm_horizontal_1_2_54mm_2x06___
-  designation: 2_54mm_2x06
   designator: j1
-  footprint: pinsocket_2x06_p2_54mm_horizontal
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_j1_pinsocket_2x06_p2_54mm_horizontal_1_2_54mm_2x06___
+    designation: 2_54mm_2x06
+    designator: j1
+    footprint: pinsocket_2x06_p2_54mm_horizontal
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_sw1,sw2_sw_spst_pts815_2_sw_push___
-  designation: sw_push
   designator: sw1
-  footprint: sw_spst_pts815
-  id: '3'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_sw1,sw2_sw_spst_pts815_2_sw_push___
+    designation: sw_push
+    designator: sw1
+    footprint: sw_spst_pts815
+    id: '3'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 3_sw1,sw2_sw_spst_pts815_2_sw_push___
-  designation: sw_push
   designator: sw2
-  footprint: sw_spst_pts815
-  id: '3'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_sw1,sw2_sw_spst_pts815_2_sw_push___
+    designation: sw_push
+    designator: sw2
+    footprint: sw_spst_pts815
+    id: '3'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 4_u1_soic_8_3_9x4_9mm_p1_27mm_1_ly68l6400___
-  designation: ly68l6400
   designator: u1
-  footprint: soic_8_3_9x4_9mm_p1_27mm
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_u1_soic_8_3_9x4_9mm_p1_27mm_1_ly68l6400___
+    designation: ly68l6400
+    designator: u1
+    footprint: soic_8_3_9x4_9mm_p1_27mm
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_j3_pinheader_1x02_p2_54mm_vertical_1_conn_01x02___
-  designation: conn_01x02
   designator: j3
-  footprint: pinheader_1x02_p2_54mm_vertical
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_j3_pinheader_1x02_p2_54mm_vertical_1_conn_01x02___
+    designation: conn_01x02
+    designator: j3
+    footprint: pinheader_1x02_p2_54mm_vertical
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_j2_pinheader_1x06_p2_54mm_vertical_1_conn_01x06___
-  designation: conn_01x06
   designator: j2
-  footprint: pinheader_1x06_p2_54mm_vertical
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 6_j2_pinheader_1x06_p2_54mm_vertical_1_conn_01x06___
+    designation: conn_01x06
+    designator: j2
+    footprint: pinheader_1x06_p2_54mm_vertical
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
 projects_flat: projects_flat/adafruit_picodvi/version_current/working
 projects_folder: projects_folder/adafruit/PicoDVI/version_current/working
 repo:

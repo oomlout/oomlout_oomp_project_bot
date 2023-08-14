@@ -13,86 +13,339 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_magspoof\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_magspoof
 oomp_key_simple: projects_flat_electroniccats_magspoof
-parts_verbose:
+parts_oomp:
 - all: 1,single_cell_battery,battery_cell,bt1,battery_cell,pinheader_1x02_p2_54mm_vertical,1,_,~,,,__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 1,single_cell_battery,battery_cell,bt1,battery_cell,pinheader_1x02_p2_54mm_vertical,1,_,~,,,_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,single_cell_battery,battery_cell,bt1,battery_cell,pinheader_1x02_p2_54mm_vertical,1,_,~,,,__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 1,single_cell_battery,battery_cell,bt1,battery_cell,pinheader_1x02_p2_54mm_vertical,1,_,~,,,_
 - all: 2,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2,0_1uf,c_0402_1005metric,2,_,https_datasheet_lcsc_com_lcsc_1810101813_yageo_cc0805krx7r9bb104_c49678_pdf,c2171572,lcsc,grm022r61a104me01l_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 2,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2,0_1uf,c_0402_1005metric,2,_,https_datasheet_lcsc_com_lcsc_1810101813_yageo_cc0805krx7r9bb104_c49678_pdf,c2171572,lcsc,grm022r61a104me01l
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2,0_1uf,c_0402_1005metric,2,_,https_datasheet_lcsc_com_lcsc_1810101813_yageo_cc0805krx7r9bb104_c49678_pdf,c2171572,lcsc,grm022r61a104me01l_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 2,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2,0_1uf,c_0402_1005metric,2,_,https_datasheet_lcsc_com_lcsc_1810101813_yageo_cc0805krx7r9bb104_c49678_pdf,c2171572,lcsc,grm022r61a104me01l
 - all: 3,_unpolarized_capacitor,_small_symbol_,c_small,c3_c4_c17_c18,10uf,c_0402_1005metric,4,_,~https_datasheet_lcsc_com_lcsc_1811021421_samsung_electro_mechanics_cl10a106mp8nnnc_c85713_pdf,c315248,lcsc,cl05a106mp5nunc_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 3,_unpolarized_capacitor,_small_symbol_,c_small,c3_c4_c17_c18,10uf,c_0402_1005metric,4,_,~https_datasheet_lcsc_com_lcsc_1811021421_samsung_electro_mechanics_cl10a106mp8nnnc_c85713_pdf,c315248,lcsc,cl05a106mp5nunc
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,_unpolarized_capacitor,_small_symbol_,c_small,c3_c4_c17_c18,10uf,c_0402_1005metric,4,_,~https_datasheet_lcsc_com_lcsc_1811021421_samsung_electro_mechanics_cl10a106mp8nnnc_c85713_pdf,c315248,lcsc,cl05a106mp5nunc_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 3,_unpolarized_capacitor,_small_symbol_,c_small,c3_c4_c17_c18,10uf,c_0402_1005metric,4,_,~https_datasheet_lcsc_com_lcsc_1811021421_samsung_electro_mechanics_cl10a106mp8nnnc_c85713_pdf,c315248,lcsc,cl05a106mp5nunc
 - all: 4,light_emitting_diode,led,d4,chg,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_445_150080rs75000_1714740_pdf,c130114,lcsc,d_r080508l3_ks2_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 4,light_emitting_diode,led,d4,chg,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_445_150080rs75000_1714740_pdf,c130114,lcsc,d_r080508l3_ks2
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,light_emitting_diode,led,d4,chg,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_445_150080rs75000_1714740_pdf,c130114,lcsc,d_r080508l3_ks2_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 4,light_emitting_diode,led,d4,chg,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_445_150080rs75000_1714740_pdf,c130114,lcsc,d_r080508l3_ks2
 - all: 5,_40v_3a_schottky_barrier_rectifier_diode,_do_201ad_,mbr340,d1,mbr120,d_sod_123f,1,_,http_www_onsemi_com_pub_link_collateral_mbr340_d_pdf,c130880,lcsc,mbr120lsf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 5,_40v_3a_schottky_barrier_rectifier_diode,_do_201ad_,mbr340,d1,mbr120,d_sod_123f,1,_,http_www_onsemi_com_pub_link_collateral_mbr340_d_pdf,c130880,lcsc,mbr120lsf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,_40v_3a_schottky_barrier_rectifier_diode,_do_201ad_,mbr340,d1,mbr120,d_sod_123f,1,_,http_www_onsemi_com_pub_link_collateral_mbr340_d_pdf,c130880,lcsc,mbr120lsf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 5,_40v_3a_schottky_barrier_rectifier_diode,_do_201ad_,mbr340,d1,mbr120,d_sod_123f,1,_,http_www_onsemi_com_pub_link_collateral_mbr340_d_pdf,c130880,lcsc,mbr120lsf
 - all: 6,light_emitting_diode,led,d3,status,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_445_150080vs75000_1714385_pdf,c205442,lcsc,150080gs75000_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 6,light_emitting_diode,led,d3,status,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_445_150080vs75000_1714385_pdf,c205442,lcsc,150080gs75000
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,light_emitting_diode,led,d3,status,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_445_150080vs75000_1714385_pdf,c205442,lcsc,150080gs75000_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 6,light_emitting_diode,led,d3,status,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_445_150080vs75000_1714385_pdf,c205442,lcsc,150080gs75000
 - all: 7,_fuse,_small_symbol_,fuse_small,f1,0_5a,fuse_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1809211126_shenzhen_jdt_fuse_jfc0603_0500fs_c136327_pdf,c136327,lcsc,jfc0603_0500fs_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 7,_fuse,_small_symbol_,fuse_small,f1,0_5a,fuse_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1809211126_shenzhen_jdt_fuse_jfc0603_0500fs_c136327_pdf,c136327,lcsc,jfc0603_0500fs
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,_fuse,_small_symbol_,fuse_small,f1,0_5a,fuse_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1809211126_shenzhen_jdt_fuse_jfc0603_0500fs_c136327_pdf,c136327,lcsc,jfc0603_0500fs_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 7,_fuse,_small_symbol_,fuse_small,f1,0_5a,fuse_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1809211126_shenzhen_jdt_fuse_jfc0603_0500fs_c136327_pdf,c136327,lcsc,jfc0603_0500fs
 - all: 8,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_female,j1,coil,pinheader_1x02_p2_54mm_vertical,1,_,~,,,__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 8,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_female,j1,coil,pinheader_1x02_p2_54mm_vertical,1,_,~,,,_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_female,j1,coil,pinheader_1x02_p2_54mm_vertical,1,_,~,,,__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 8,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_female,j1,coil,pinheader_1x02_p2_54mm_vertical,1,_,~,,,_
 - all: 9,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_female,j2,swd,pinheader_1x04_p2_54mm_vertical,1,_,~,,,__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 9,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_female,j2,swd,pinheader_1x04_p2_54mm_vertical,1,_,~,,,_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_female,j2,swd,pinheader_1x04_p2_54mm_vertical,1,_,~,,,__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 9,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_female,j2,swd,pinheader_1x04_p2_54mm_vertical,1,_,~,,,_
 - all: 10,_jumper,_2_pole,_open_,jumper_2_open,jp1,boot,solderjumper_2_p1_3mm_open_trianglepad1_0x1_5mm,1,_,~,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 10,_jumper,_2_pole,_open_,jumper_2_open,jp1,boot,solderjumper_2_p1_3mm_open_trianglepad1_0x1_5mm,1,_,~,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,_jumper,_2_pole,_open_,jumper_2_open,jp1,boot,solderjumper_2_p1_3mm_open_trianglepad1_0x1_5mm,1,_,~,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 10,_jumper,_2_pole,_open_,jumper_2_open,jp1,boot,solderjumper_2_p1_3mm_open_trianglepad1_0x1_5mm,1,_,~,,,
 - all: 11,usb_2_0_only_type_c_plug_connector,usb_c_plug_usb2_0,p1,usb_c_plug_usb2_0,c393939,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,c2987386,lcsc,usb4105_gf_a_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 11,usb_2_0_only_type_c_plug_connector,usb_c_plug_usb2_0,p1,usb_c_plug_usb2_0,c393939,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,c2987386,lcsc,usb4105_gf_a
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,usb_2_0_only_type_c_plug_connector,usb_c_plug_usb2_0,p1,usb_c_plug_usb2_0,c393939,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,c2987386,lcsc,usb4105_gf_a_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 11,usb_2_0_only_type_c_plug_connector,usb_c_plug_usb2_0,p1,usb_c_plug_usb2_0,c393939,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,c2987386,lcsc,usb4105_gf_a
 - all: 12,_p_mosfet_transistor,_gate_source_drain_,q_pmos_gsd,q1,dmg3415u_7,sot_23,1,_,https_www_mouser_mx_datasheet_2_115_ds31735_64958_pdf,c96616,lcsc,dmg3415uq_7_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 12,_p_mosfet_transistor,_gate_source_drain_,q_pmos_gsd,q1,dmg3415u_7,sot_23,1,_,https_www_mouser_mx_datasheet_2_115_ds31735_64958_pdf,c96616,lcsc,dmg3415uq_7
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,_p_mosfet_transistor,_gate_source_drain_,q_pmos_gsd,q1,dmg3415u_7,sot_23,1,_,https_www_mouser_mx_datasheet_2_115_ds31735_64958_pdf,c96616,lcsc,dmg3415uq_7_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 12,_p_mosfet_transistor,_gate_source_drain_,q_pmos_gsd,q1,dmg3415u_7,sot_23,1,_,https_www_mouser_mx_datasheet_2_115_ds31735_64958_pdf,c96616,lcsc,dmg3415uq_7
 - all: 13,resistor,r,r7,180r,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_219_rk73b_1825463_pdf,c138045,lcsc,erj_2rkf1800x_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 13,resistor,r,r7,180r,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_219_rk73b_1825463_pdf,c138045,lcsc,erj_2rkf1800x
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,resistor,r,r7,180r,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_219_rk73b_1825463_pdf,c138045,lcsc,erj_2rkf1800x_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 13,resistor,r,r7,180r,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_219_rk73b_1825463_pdf,c138045,lcsc,erj_2rkf1800x
 - all: 14,resistor,r,r10,470,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_447_pyu_rc_group_51_rohs_l_11_1984063_pdf,c114877,lcsc,rc0402fr_07470rl_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 14,resistor,r,r10,470,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_447_pyu_rc_group_51_rohs_l_11_1984063_pdf,c114877,lcsc,rc0402fr_07470rl
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 14,resistor,r,r10,470,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_447_pyu_rc_group_51_rohs_l_11_1984063_pdf,c114877,lcsc,rc0402fr_07470rl_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 14,resistor,r,r10,470,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_447_pyu_rc_group_51_rohs_l_11_1984063_pdf,c114877,lcsc,rc0402fr_07470rl
 - all: 15,_resistor,_small_symbol_,r_small,r2_r3_r9,5_1k,r_0402_1005metric,3,_,https_datasheet_lcsc_com_lcsc_1810170519_panasonic_erj3rbd5101v_c191782_pdf,c317922,lcsc,hp02waf2002tce_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 15,_resistor,_small_symbol_,r_small,r2_r3_r9,5_1k,r_0402_1005metric,3,_,https_datasheet_lcsc_com_lcsc_1810170519_panasonic_erj3rbd5101v_c191782_pdf,c317922,lcsc,hp02waf2002tce
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 15,_resistor,_small_symbol_,r_small,r2_r3_r9,5_1k,r_0402_1005metric,3,_,https_datasheet_lcsc_com_lcsc_1810170519_panasonic_erj3rbd5101v_c191782_pdf,c317922,lcsc,hp02waf2002tce_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 15,_resistor,_small_symbol_,r_small,r2_r3_r9,5_1k,r_0402_1005metric,3,_,https_datasheet_lcsc_com_lcsc_1810170519_panasonic_erj3rbd5101v_c191782_pdf,c317922,lcsc,hp02waf2002tce
 - all: 16,_resistor,_small_symbol_,r_small,r1,20k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_54_cr_1858361_pdf,c2759509,lcsc,erj_h2rd2002x_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 16,_resistor,_small_symbol_,r_small,r1,20k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_54_cr_1858361_pdf,c2759509,lcsc,erj_h2rd2002x
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 16,_resistor,_small_symbol_,r_small,r1,20k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_54_cr_1858361_pdf,c2759509,lcsc,erj_h2rd2002x_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 16,_resistor,_small_symbol_,r_small,r1,20k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_54_cr_1858361_pdf,c2759509,lcsc,erj_h2rd2002x
 - all: 17,_resistor,_small_symbol_,r_small,r11,100k,r_0402_1005metric,1,_,https_datasheet_lcsc_com_lcsc_1811151133_walsin_tech_corp_wr06x104jtl_c163843_pdf,c192169,lcsc,erj_2rkf1003x_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 17,_resistor,_small_symbol_,r_small,r11,100k,r_0402_1005metric,1,_,https_datasheet_lcsc_com_lcsc_1811151133_walsin_tech_corp_wr06x104jtl_c163843_pdf,c192169,lcsc,erj_2rkf1003x
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 17,_resistor,_small_symbol_,r_small,r11,100k,r_0402_1005metric,1,_,https_datasheet_lcsc_com_lcsc_1811151133_walsin_tech_corp_wr06x104jtl_c163843_pdf,c192169,lcsc,erj_2rkf1003x_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 17,_resistor,_small_symbol_,r_small,r11,100k,r_0402_1005metric,1,_,https_datasheet_lcsc_com_lcsc_1811151133_walsin_tech_corp_wr06x104jtl_c163843_pdf,c192169,lcsc,erj_2rkf1003x
 - all: 18,single_pole_single_throw_(spst)_switch,sw_spst,sw1,on,sw_smd_ssss811101,1,_,https_datasheet_lcsc_com_lcsc_1808041445_alpsalpine_ssss811101_c109335_pdf,c109335,lcsc,ssss811101_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 18,single_pole_single_throw_(spst)_switch,sw_spst,sw1,on,sw_smd_ssss811101,1,_,https_datasheet_lcsc_com_lcsc_1808041445_alpsalpine_ssss811101_c109335_pdf,c109335,lcsc,ssss811101
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 18,single_pole_single_throw_(spst)_switch,sw_spst,sw1,on,sw_smd_ssss811101,1,_,https_datasheet_lcsc_com_lcsc_1808041445_alpsalpine_ssss811101_c109335_pdf,c109335,lcsc,ssss811101_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 18,single_pole_single_throw_(spst)_switch,sw_spst,sw1,on,sw_smd_ssss811101,1,_,https_datasheet_lcsc_com_lcsc_1808041445_alpsalpine_ssss811101_c109335_pdf,c109335,lcsc,ssss811101
 - all: 19,_push_button_switch,_generic,_two_pins_,sw_push,sw5,reset,sw_spst_tl3342,1,_,https_www_mouser_mx_datasheet_2_140_tl3342_2065746_pdf,c318889,lcsc,tl3342f450qg_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 19,_push_button_switch,_generic,_two_pins_,sw_push,sw5,reset,sw_spst_tl3342,1,_,https_www_mouser_mx_datasheet_2_140_tl3342_2065746_pdf,c318889,lcsc,tl3342f450qg
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 19,_push_button_switch,_generic,_two_pins_,sw_push,sw5,reset,sw_spst_tl3342,1,_,https_www_mouser_mx_datasheet_2_140_tl3342_2065746_pdf,c318889,lcsc,tl3342f450qg_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 19,_push_button_switch,_generic,_two_pins_,sw_push,sw5,reset,sw_spst_tl3342,1,_,https_www_mouser_mx_datasheet_2_140_tl3342_2065746_pdf,c318889,lcsc,tl3342f450qg
 - all: 20,_push_button_switch,_generic,_two_pins_,sw_push,sw3,s1,sw_spst_tl3342,1,_,https_datasheet_lcsc_com_lcsc_2205161616_e_switch_tl3342f450qg_c2886897_pdf,c318889,lcsc,tl3342f450qg_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 20,_push_button_switch,_generic,_two_pins_,sw_push,sw3,s1,sw_spst_tl3342,1,_,https_datasheet_lcsc_com_lcsc_2205161616_e_switch_tl3342f450qg_c2886897_pdf,c318889,lcsc,tl3342f450qg
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 20,_push_button_switch,_generic,_two_pins_,sw_push,sw3,s1,sw_spst_tl3342,1,_,https_datasheet_lcsc_com_lcsc_2205161616_e_switch_tl3342f450qg_c2886897_pdf,c318889,lcsc,tl3342f450qg_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 20,_push_button_switch,_generic,_two_pins_,sw_push,sw3,s1,sw_spst_tl3342,1,_,https_datasheet_lcsc_com_lcsc_2205161616_e_switch_tl3342f450qg_c2886897_pdf,c318889,lcsc,tl3342f450qg
 - all: 21,_switch,_dual_pole_double_throw,_separate_symbols_,sw_dpdt_x2,sw4,source_mag,sw_smd_ssss811101,1,_,https_datasheet_lcsc_com_lcsc_1808041445_alpsalpine_ssss811101_c109335_pdf,c109335,lcsc,ssss811101_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 21,_switch,_dual_pole_double_throw,_separate_symbols_,sw_dpdt_x2,sw4,source_mag,sw_smd_ssss811101,1,_,https_datasheet_lcsc_com_lcsc_1808041445_alpsalpine_ssss811101_c109335_pdf,c109335,lcsc,ssss811101
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 21,_switch,_dual_pole_double_throw,_separate_symbols_,sw_dpdt_x2,sw4,source_mag,sw_smd_ssss811101,1,_,https_datasheet_lcsc_com_lcsc_1808041445_alpsalpine_ssss811101_c109335_pdf,c109335,lcsc,ssss811101_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 21,_switch,_dual_pole_double_throw,_separate_symbols_,sw_dpdt_x2,sw4,source_mag,sw_smd_ssss811101,1,_,https_datasheet_lcsc_com_lcsc_1808041445_alpsalpine_ssss811101_c109335_pdf,c109335,lcsc,ssss811101
 - all: 22,,ap2112k_3_3_regulator_linear,u2,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf,c47773,lcsc,rt9013_33gb_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 22,,ap2112k_3_3_regulator_linear,u2,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf,c47773,lcsc,rt9013_33gb
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 22,,ap2112k_3_3_regulator_linear,u2,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf,c47773,lcsc,rt9013_33gb_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 22,,ap2112k_3_3_regulator_linear,u2,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf,c47773,lcsc,rt9013_33gb
 - all: 23,,ch552g,u1,ch552g,sop_16_4_55x10_3mm_p1_27mm,1,_,https_datasheet_lcsc_com_lcsc_2008191734_wch_jiangsu_qin_heng_ch552g_c111292_pdf,c111292,lcsc,ch552g_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 23,,ch552g,u1,ch552g,sop_16_4_55x10_3mm_p1_27mm,1,_,https_datasheet_lcsc_com_lcsc_2008191734_wch_jiangsu_qin_heng_ch552g_c111292_pdf,c111292,lcsc,ch552g
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 23,,ch552g,u1,ch552g,sop_16_4_55x10_3mm_p1_27mm,1,_,https_datasheet_lcsc_com_lcsc_2008191734_wch_jiangsu_qin_heng_ch552g_c111292_pdf,c111292,lcsc,ch552g_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 23,,ch552g,u1,ch552g,sop_16_4_55x10_3mm_p1_27mm,1,_,https_datasheet_lcsc_com_lcsc_2008191734_wch_jiangsu_qin_heng_ch552g_c111292_pdf,c111292,lcsc,ch552g
 - all: 24,_single_cell,_li_ion_li_po_charge_management_controller,_4_20v,_tri_state_status_output,_in_sot23_5_package_,mcp73831_2_ot,u5,mcp73831,sot_23_5,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20001984g_pdf,c424093,lcsc,mcp73831t_2aci_ot_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 24,_single_cell,_li_ion_li_po_charge_management_controller,_4_20v,_tri_state_status_output,_in_sot23_5_package_,mcp73831_2_ot,u5,mcp73831,sot_23_5,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20001984g_pdf,c424093,lcsc,mcp73831t_2aci_ot
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 24,_single_cell,_li_ion_li_po_charge_management_controller,_4_20v,_tri_state_status_output,_in_sot23_5_package_,mcp73831_2_ot,u5,mcp73831,sot_23_5,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20001984g_pdf,c424093,lcsc,mcp73831t_2aci_ot_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 24,_single_cell,_li_ion_li_po_charge_management_controller,_4_20v,_tri_state_status_output,_in_sot23_5_package_,mcp73831_2_ot,u5,mcp73831,sot_23_5,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20001984g_pdf,c424093,lcsc,mcp73831t_2aci_ot
 - all: 25,,tc4424_electroniccats,u3,tc4424,soic_8_3_9x4_9mm_p1_27mm,1,_,https_www_mouser_mx_datasheet_2_268_21998b_53545_pdf,c44150,lcsc,tc4424avoa713_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 25,,tc4424_electroniccats,u3,tc4424,soic_8_3_9x4_9mm_p1_27mm,1,_,https_www_mouser_mx_datasheet_2_268_21998b_53545_pdf,c44150,lcsc,tc4424avoa713
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 25,,tc4424_electroniccats,u3,tc4424,soic_8_3_9x4_9mm_p1_27mm,1,_,https_www_mouser_mx_datasheet_2_268_21998b_53545_pdf,c44150,lcsc,tc4424avoa713_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: 25,,tc4424_electroniccats,u3,tc4424,soic_8_3_9x4_9mm_p1_27mm,1,_,https_www_mouser_mx_datasheet_2_268_21998b_53545_pdf,c44150,lcsc,tc4424avoa713
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: revision_,
 - all: date_,2023_08_02_17_08_56_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: date_,2023_08_02_17_08_56
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: date_,2023_08_02_17_08_56_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: date_,2023_08_02_17_08_56
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: statistics_
 - all: component_groups_,25_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: component_groups_,25
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: component_groups_,25_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: component_groups_,25
 - all: component_count_,31_(26_smd_4_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: component_count_,31_(26_smd_4_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: component_count_,31_(26_smd_4_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: component_count_,31_(26_smd_4_tht)
 - all: fitted_components_,31_(26_smd_4_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: fitted_components_,31_(26_smd_4_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: fitted_components_,31_(26_smd_4_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: fitted_components_,31_(26_smd_4_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: number_of_pcbs_,1
 - all: total_components_,31_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: total_components_,31
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: total_components_,31_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,proveedor,manf#: total_components_,31
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
 projects_flat: projects_flat/electroniccats_magspoof/version_current/working
 projects_folder: projects_folder/ElectronicCats/magspoof/version_current/working
 repo:

@@ -13,130 +13,542 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_catsniffer\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_catsniffer
 oomp_key_simple: projects_flat_electroniccats_catsniffer
-parts_verbose:
+parts_oomp:
 - all: 1,,sw_push_switch_catstick_rescue_catsniffer_rescue,boot1_reset1_reset_cc1_sw1,sw,ts1088r02026,4,_,https_datasheet_lcsc_com_lcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281,ts_1088r_02526,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 1,,sw_push_switch_catstick_rescue_catsniffer_rescue,boot1_reset1_reset_cc1_sw1,sw,ts1088r02026,4,_,https_datasheet_lcsc_com_lcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281,ts_1088r_02526,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,,sw_push_switch_catstick_rescue_catsniffer_rescue,boot1_reset1_reset_cc1_sw1,sw,ts1088r02026,4,_,https_datasheet_lcsc_com_lcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281,ts_1088r_02526,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 1,,sw_push_switch_catstick_rescue_catsniffer_rescue,boot1_reset1_reset_cc1_sw1,sw,ts1088r02026,4,_,https_datasheet_lcsc_com_lcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281,ts_1088r_02526,lcsc,,
 - all: 2,,c_device_catstick_rescue_catsniffer_rescue,c25_c26,3_3pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810311132_murata_electronics_grm1885c1h3r3ca01d_c162225_pdf,c162225,grm1885c1h3r3ca01d,lcsc,c1660,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 2,,c_device_catstick_rescue_catsniffer_rescue,c25_c26,3_3pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810311132_murata_electronics_grm1885c1h3r3ca01d_c162225_pdf,c162225,grm1885c1h3r3ca01d,lcsc,c1660,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,,c_device_catstick_rescue_catsniffer_rescue,c25_c26,3_3pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810311132_murata_electronics_grm1885c1h3r3ca01d_c162225_pdf,c162225,grm1885c1h3r3ca01d,lcsc,c1660,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 2,,c_device_catstick_rescue_catsniffer_rescue,c25_c26,3_3pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810311132_murata_electronics_grm1885c1h3r3ca01d_c162225_pdf,c162225,grm1885c1h3r3ca01d,lcsc,c1660,
 - all: 3,,c_device_catstick_rescue_catsniffer_rescue,c34_c36,10pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_2005201834_samsung_electro_mechanics_cl10c100db81pnc_c472782_pdf,c472782,cl10c100db81pnc,lcsc,c91367,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 3,,c_device_catstick_rescue_catsniffer_rescue,c34_c36,10pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_2005201834_samsung_electro_mechanics_cl10c100db81pnc_c472782_pdf,c472782,cl10c100db81pnc,lcsc,c91367,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,,c_device_catstick_rescue_catsniffer_rescue,c34_c36,10pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_2005201834_samsung_electro_mechanics_cl10c100db81pnc_c472782_pdf,c472782,cl10c100db81pnc,lcsc,c91367,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 3,,c_device_catstick_rescue_catsniffer_rescue,c34_c36,10pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_2005201834_samsung_electro_mechanics_cl10c100db81pnc_c472782_pdf,c472782,cl10c100db81pnc,lcsc,c91367,
 - all: 4,,c_device_catstick_rescue_catsniffer_rescue,c18_c19,22pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810261547_samsung_electro_mechanics_cl10c220jb81pnc_c170132_pdf,c170132,cl10c220jb81pnc,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 4,,c_device_catstick_rescue_catsniffer_rescue,c18_c19,22pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810261547_samsung_electro_mechanics_cl10c220jb81pnc_c170132_pdf,c170132,cl10c220jb81pnc,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,,c_device_catstick_rescue_catsniffer_rescue,c18_c19,22pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810261547_samsung_electro_mechanics_cl10c220jb81pnc_c170132_pdf,c170132,cl10c220jb81pnc,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 4,,c_device_catstick_rescue_catsniffer_rescue,c18_c19,22pf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810261547_samsung_electro_mechanics_cl10c220jb81pnc_c170132_pdf,c170132,cl10c220jb81pnc,lcsc,,
 - all: 5,_unpolarized_capacitor,_small_symbol_,c_small,c4_c28,27pf,c_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_281_gjm1555c1h270fb01_01_1973006_pdf,,gjm1555c1h270fb01d,mouser,,81_gjm1555c1h270fb1d_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 5,_unpolarized_capacitor,_small_symbol_,c_small,c4_c28,27pf,c_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_281_gjm1555c1h270fb01_01_1973006_pdf,,gjm1555c1h270fb01d,mouser,,81_gjm1555c1h270fb1d
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,_unpolarized_capacitor,_small_symbol_,c_small,c4_c28,27pf,c_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_281_gjm1555c1h270fb01_01_1973006_pdf,,gjm1555c1h270fb01d,mouser,,81_gjm1555c1h270fb1d_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 5,_unpolarized_capacitor,_small_symbol_,c_small,c4_c28,27pf,c_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_281_gjm1555c1h270fb01_01_1973006_pdf,,gjm1555c1h270fb01d,mouser,,81_gjm1555c1h270fb1d
 - all: 6,,c_small_device_catstick_rescue_catsniffer_rescue,c22,47pf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2006011835_yageo_cc0603frnpo9bn470_c519486_pdf,c519486,cc0603frnpo9bn470,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 6,,c_small_device_catstick_rescue_catsniffer_rescue,c22,47pf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2006011835_yageo_cc0603frnpo9bn470_c519486_pdf,c519486,cc0603frnpo9bn470,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,,c_small_device_catstick_rescue_catsniffer_rescue,c22,47pf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2006011835_yageo_cc0603frnpo9bn470_c519486_pdf,c519486,cc0603frnpo9bn470,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 6,,c_small_device_catstick_rescue_catsniffer_rescue,c22,47pf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2006011835_yageo_cc0603frnpo9bn470_c519486_pdf,c519486,cc0603frnpo9bn470,lcsc,,
 - all: 7,,c_device_catstick_rescue_catsniffer_rescue,c6_c7_c8_c9_c20_c23_c27,100pf,c_0603_1608metric,7,_,https_datasheet_lcsc_com_lcsc_1811151136_samsung_electro_mechanics_cl10c101jb8nnnc_c14858_pdf,c14858,cl10c101jb8nnnc,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 7,,c_device_catstick_rescue_catsniffer_rescue,c6_c7_c8_c9_c20_c23_c27,100pf,c_0603_1608metric,7,_,https_datasheet_lcsc_com_lcsc_1811151136_samsung_electro_mechanics_cl10c101jb8nnnc_c14858_pdf,c14858,cl10c101jb8nnnc,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,,c_device_catstick_rescue_catsniffer_rescue,c6_c7_c8_c9_c20_c23_c27,100pf,c_0603_1608metric,7,_,https_datasheet_lcsc_com_lcsc_1811151136_samsung_electro_mechanics_cl10c101jb8nnnc_c14858_pdf,c14858,cl10c101jb8nnnc,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 7,,c_device_catstick_rescue_catsniffer_rescue,c6_c7_c8_c9_c20_c23_c27,100pf,c_0603_1608metric,7,_,https_datasheet_lcsc_com_lcsc_1811151136_samsung_electro_mechanics_cl10c101jb8nnnc_c14858_pdf,c14858,cl10c101jb8nnnc,lcsc,,
 - all: 8,,c_small_device_catstick_rescue_catsniffer_rescue,c31_c35,1nf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1811071810_samsung_electro_mechanics_cl10b102kb8nnnc_c1588_pdf,c1588,cl10b102kb8nnnc,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 8,,c_small_device_catstick_rescue_catsniffer_rescue,c31_c35,1nf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1811071810_samsung_electro_mechanics_cl10b102kb8nnnc_c1588_pdf,c1588,cl10b102kb8nnnc,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,,c_small_device_catstick_rescue_catsniffer_rescue,c31_c35,1nf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1811071810_samsung_electro_mechanics_cl10b102kb8nnnc_c1588_pdf,c1588,cl10b102kb8nnnc,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 8,,c_small_device_catstick_rescue_catsniffer_rescue,c31_c35,1nf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1811071810_samsung_electro_mechanics_cl10b102kb8nnnc_c1588_pdf,c1588,cl10b102kb8nnnc,lcsc,,
 - all: 9,,c_device_catstick_rescue_catsniffer_rescue,c10_c11_c12_c13_c15_c16_c32,100nf,c_0402_1005metric,7,_,https_datasheet_lcsc_com_lcsc_1912111437_murata_electronics_grm155r62a104me14d_c162179_pdf,c162179,grm155r62a104me14d,lcsc,c162178,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 9,,c_device_catstick_rescue_catsniffer_rescue,c10_c11_c12_c13_c15_c16_c32,100nf,c_0402_1005metric,7,_,https_datasheet_lcsc_com_lcsc_1912111437_murata_electronics_grm155r62a104me14d_c162179_pdf,c162179,grm155r62a104me14d,lcsc,c162178,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,,c_device_catstick_rescue_catsniffer_rescue,c10_c11_c12_c13_c15_c16_c32,100nf,c_0402_1005metric,7,_,https_datasheet_lcsc_com_lcsc_1912111437_murata_electronics_grm155r62a104me14d_c162179_pdf,c162179,grm155r62a104me14d,lcsc,c162178,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 9,,c_device_catstick_rescue_catsniffer_rescue,c10_c11_c12_c13_c15_c16_c32,100nf,c_0402_1005metric,7,_,https_datasheet_lcsc_com_lcsc_1912111437_murata_electronics_grm155r62a104me14d_c162179_pdf,c162179,grm155r62a104me14d,lcsc,c162178,
 - all: 10,,c_device_catstick_rescue_catsniffer_rescue,c2,0_1uf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2211101700_yageo_cc0603krx7r9bb104_c14663_pdf,c14663,cc0603krx7r9bb104,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 10,,c_device_catstick_rescue_catsniffer_rescue,c2,0_1uf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2211101700_yageo_cc0603krx7r9bb104_c14663_pdf,c14663,cc0603krx7r9bb104,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,,c_device_catstick_rescue_catsniffer_rescue,c2,0_1uf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2211101700_yageo_cc0603krx7r9bb104_c14663_pdf,c14663,cc0603krx7r9bb104,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 10,,c_device_catstick_rescue_catsniffer_rescue,c2,0_1uf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2211101700_yageo_cc0603krx7r9bb104_c14663_pdf,c14663,cc0603krx7r9bb104,lcsc,,
 - all: 11,,c_small_device_catstick_rescue_catsniffer_rescue,c21_c24_c29,0_1uf,c_0603_1608metric,3,_,https_datasheet_lcsc_com_lcsc_2211101700_yageo_cc0603krx7r9bb104_c14663_pdf,c14663,cc0603krx7r9bb104,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 11,,c_small_device_catstick_rescue_catsniffer_rescue,c21_c24_c29,0_1uf,c_0603_1608metric,3,_,https_datasheet_lcsc_com_lcsc_2211101700_yageo_cc0603krx7r9bb104_c14663_pdf,c14663,cc0603krx7r9bb104,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,,c_small_device_catstick_rescue_catsniffer_rescue,c21_c24_c29,0_1uf,c_0603_1608metric,3,_,https_datasheet_lcsc_com_lcsc_2211101700_yageo_cc0603krx7r9bb104_c14663_pdf,c14663,cc0603krx7r9bb104,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 11,,c_small_device_catstick_rescue_catsniffer_rescue,c21_c24_c29,0_1uf,c_0603_1608metric,3,_,https_datasheet_lcsc_com_lcsc_2211101700_yageo_cc0603krx7r9bb104_c14663_pdf,c14663,cc0603krx7r9bb104,lcsc,,
 - all: 12,_unpolarized_capacitor,_small_symbol_,c_small,c5_c30_c39_c40_c41_c42_c43_c44_c45_c46,0_1uf,c_0402_1005metric,10,_,https_www_mouser_mx_datasheet_2_396_taiyoyuden_msast1l3yb5104kfna01_ss_3009733_pdf,,msast105sb7104kfnb25,mouser,,963_msast105sb7104kf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 12,_unpolarized_capacitor,_small_symbol_,c_small,c5_c30_c39_c40_c41_c42_c43_c44_c45_c46,0_1uf,c_0402_1005metric,10,_,https_www_mouser_mx_datasheet_2_396_taiyoyuden_msast1l3yb5104kfna01_ss_3009733_pdf,,msast105sb7104kfnb25,mouser,,963_msast105sb7104kf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,_unpolarized_capacitor,_small_symbol_,c_small,c5_c30_c39_c40_c41_c42_c43_c44_c45_c46,0_1uf,c_0402_1005metric,10,_,https_www_mouser_mx_datasheet_2_396_taiyoyuden_msast1l3yb5104kfna01_ss_3009733_pdf,,msast105sb7104kfnb25,mouser,,963_msast105sb7104kf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 12,_unpolarized_capacitor,_small_symbol_,c_small,c5_c30_c39_c40_c41_c42_c43_c44_c45_c46,0_1uf,c_0402_1005metric,10,_,https_www_mouser_mx_datasheet_2_396_taiyoyuden_msast1l3yb5104kfna01_ss_3009733_pdf,,msast105sb7104kfnb25,mouser,,963_msast105sb7104kf
 - all: 13,,c_small_device_catstick_rescue_catsniffer_rescue,c33,470nf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1810191213_samsung_electro_mechanics_cl10a474kb8nnnc_c170149_pdf,c170149,cl10a474kb8nnnc,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 13,,c_small_device_catstick_rescue_catsniffer_rescue,c33,470nf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1810191213_samsung_electro_mechanics_cl10a474kb8nnnc_c170149_pdf,c170149,cl10a474kb8nnnc,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,,c_small_device_catstick_rescue_catsniffer_rescue,c33,470nf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1810191213_samsung_electro_mechanics_cl10a474kb8nnnc_c170149_pdf,c170149,cl10a474kb8nnnc,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 13,,c_small_device_catstick_rescue_catsniffer_rescue,c33,470nf,c_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1810191213_samsung_electro_mechanics_cl10a474kb8nnnc_c170149_pdf,c170149,cl10a474kb8nnnc,lcsc,,
 - all: 14,,c_device_catstick_rescue_catsniffer_rescue,c1_c37,1uf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810161109_fh_guangdong_fenghua_advanced_tech_0603f105m500nt_c108343_pdf,c108343,0603f105m500nt,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 14,,c_device_catstick_rescue_catsniffer_rescue,c1_c37,1uf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810161109_fh_guangdong_fenghua_advanced_tech_0603f105m500nt_c108343_pdf,c108343,0603f105m500nt,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 14,,c_device_catstick_rescue_catsniffer_rescue,c1_c37,1uf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810161109_fh_guangdong_fenghua_advanced_tech_0603f105m500nt_c108343_pdf,c108343,0603f105m500nt,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 14,,c_device_catstick_rescue_catsniffer_rescue,c1_c37,1uf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1810161109_fh_guangdong_fenghua_advanced_tech_0603f105m500nt_c108343_pdf,c108343,0603f105m500nt,lcsc,,
 - all: 15,_unpolarized_capacitor,_small_symbol_,c_small,c3_c38,1uf,c_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_396_taiyo_yuden_msrlj103sb5105mfna01_ss_3011293_pdf,,msrlj103sb5105mfna01,mouser,,963_msrlj103sb5105mf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 15,_unpolarized_capacitor,_small_symbol_,c_small,c3_c38,1uf,c_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_396_taiyo_yuden_msrlj103sb5105mfna01_ss_3011293_pdf,,msrlj103sb5105mfna01,mouser,,963_msrlj103sb5105mf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 15,_unpolarized_capacitor,_small_symbol_,c_small,c3_c38,1uf,c_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_396_taiyo_yuden_msrlj103sb5105mfna01_ss_3011293_pdf,,msrlj103sb5105mfna01,mouser,,963_msrlj103sb5105mf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 15,_unpolarized_capacitor,_small_symbol_,c_small,c3_c38,1uf,c_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_396_taiyo_yuden_msrlj103sb5105mfna01_ss_3011293_pdf,,msrlj103sb5105mfna01,mouser,,963_msrlj103sb5105mf
 - all: 16,,c_device_catstick_rescue_catsniffer_rescue,c14_c17,22uf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1811082126_yageo_cc0603mrx5r6bb226_c109447_pdf,c109447,cc0603mrx5r6bb226,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 16,,c_device_catstick_rescue_catsniffer_rescue,c14_c17,22uf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1811082126_yageo_cc0603mrx5r6bb226_c109447_pdf,c109447,cc0603mrx5r6bb226,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 16,,c_device_catstick_rescue_catsniffer_rescue,c14_c17,22uf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1811082126_yageo_cc0603mrx5r6bb226_c109447_pdf,c109447,cc0603mrx5r6bb226,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 16,,c_device_catstick_rescue_catsniffer_rescue,c14_c17,22uf,c_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1811082126_yageo_cc0603mrx5r6bb226_c109447_pdf,c109447,cc0603mrx5r6bb226,lcsc,,
 - all: 17,,led_small_device_catstick_rescue_catsniffer_rescue,d1_d2_d3_d4,led,led_0603_1608metric_pad1_05x0_95mm_handsolder,4,_,https_datasheet_lcsc_com_lcsc_2006011837_tonyu_dy_0603hbc_l_smg_c524045_pdf,c524045,cl10c120jb81pnc,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 17,,led_small_device_catstick_rescue_catsniffer_rescue,d1_d2_d3_d4,led,led_0603_1608metric_pad1_05x0_95mm_handsolder,4,_,https_datasheet_lcsc_com_lcsc_2006011837_tonyu_dy_0603hbc_l_smg_c524045_pdf,c524045,cl10c120jb81pnc,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 17,,led_small_device_catstick_rescue_catsniffer_rescue,d1_d2_d3_d4,led,led_0603_1608metric_pad1_05x0_95mm_handsolder,4,_,https_datasheet_lcsc_com_lcsc_2006011837_tonyu_dy_0603hbc_l_smg_c524045_pdf,c524045,cl10c120jb81pnc,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 17,,led_small_device_catstick_rescue_catsniffer_rescue,d1_d2_d3_d4,led,led_0603_1608metric_pad1_05x0_95mm_handsolder,4,_,https_datasheet_lcsc_com_lcsc_2006011837_tonyu_dy_0603hbc_l_smg_c524045_pdf,c524045,cl10c120jb81pnc,lcsc,,
 - all: 18,,fuse_small_device_catstick_rescue_catsniffer_rescue,f1,0_5a,fuse_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_427_mfuserie_1762582_pdf,,mfu0805ff00500p100,mouser,,594_mfu0805ff00500p1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 18,,fuse_small_device_catstick_rescue_catsniffer_rescue,f1,0_5a,fuse_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_427_mfuserie_1762582_pdf,,mfu0805ff00500p100,mouser,,594_mfu0805ff00500p1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 18,,fuse_small_device_catstick_rescue_catsniffer_rescue,f1,0_5a,fuse_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_427_mfuserie_1762582_pdf,,mfu0805ff00500p100,mouser,,594_mfu0805ff00500p1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 18,,fuse_small_device_catstick_rescue_catsniffer_rescue,f1,0_5a,fuse_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_427_mfuserie_1762582_pdf,,mfu0805ff00500p100,mouser,,594_mfu0805ff00500p1
 - all: 19,,conn_coaxial_connector_catstick_rescue_catsniffer_rescue,j1,antenna,sma_edge,1,_,https_datasheet_lcsc_com_lcsc_2005121202_shenzhen_kinghelm_elec_kh_sma_ke8_g_c530661_pdf,c530661,kh_sma_ke8_g,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 19,,conn_coaxial_connector_catstick_rescue_catsniffer_rescue,j1,antenna,sma_edge,1,_,https_datasheet_lcsc_com_lcsc_2005121202_shenzhen_kinghelm_elec_kh_sma_ke8_g_c530661_pdf,c530661,kh_sma_ke8_g,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 19,,conn_coaxial_connector_catstick_rescue_catsniffer_rescue,j1,antenna,sma_edge,1,_,https_datasheet_lcsc_com_lcsc_2005121202_shenzhen_kinghelm_elec_kh_sma_ke8_g_c530661_pdf,c530661,kh_sma_ke8_g,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 19,,conn_coaxial_connector_catstick_rescue_catsniffer_rescue,j1,antenna,sma_edge,1,_,https_datasheet_lcsc_com_lcsc_2005121202_shenzhen_kinghelm_elec_kh_sma_ke8_g_c530661_pdf,c530661,kh_sma_ke8_g,lcsc,,
 - all: 20,,conn_01x06_female_connector_catstick_rescue_catsniffer_rescue,j2_j3,conn_01x06_female,tag_connect_tc2030_idc_nl_2x03_p1_27mm_vertical,2,_,~,,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 20,,conn_01x06_female_connector_catstick_rescue_catsniffer_rescue,j2_j3,conn_01x06_female,tag_connect_tc2030_idc_nl_2x03_p1_27mm_vertical,2,_,~,,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 20,,conn_01x06_female_connector_catstick_rescue_catsniffer_rescue,j2_j3,conn_01x06_female,tag_connect_tc2030_idc_nl_2x03_p1_27mm_vertical,2,_,~,,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 20,,conn_01x06_female_connector_catstick_rescue_catsniffer_rescue,j2_j3,conn_01x06_female,tag_connect_tc2030_idc_nl_2x03_p1_27mm_vertical,2,_,~,,,,,
 - all: 21,,jumper_3_bridged12_jumper_catstick_rescue_catsniffer_rescue,jp1,jumper,solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm_numberlabels,1,_,~,,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 21,,jumper_3_bridged12_jumper_catstick_rescue_catsniffer_rescue,jp1,jumper,solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm_numberlabels,1,_,~,,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 21,,jumper_3_bridged12_jumper_catstick_rescue_catsniffer_rescue,jp1,jumper,solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm_numberlabels,1,_,~,,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 21,,jumper_3_bridged12_jumper_catstick_rescue_catsniffer_rescue,jp1,jumper,solderjumper_3_p1_3mm_bridged12_roundedpad1_0x1_5mm_numberlabels,1,_,~,,,,,
 - all: 22,,l_device_catstick_rescue_catsniffer_rescue,l3,9_1nh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1912111437_fh_guangdong_fenghua_advanced_tech_vhf160808h9n1jt_c395094_pdf,c395094,vhf160808h9n1jt,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 22,,l_device_catstick_rescue_catsniffer_rescue,l3,9_1nh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1912111437_fh_guangdong_fenghua_advanced_tech_vhf160808h9n1jt_c395094_pdf,c395094,vhf160808h9n1jt,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 22,,l_device_catstick_rescue_catsniffer_rescue,l3,9_1nh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1912111437_fh_guangdong_fenghua_advanced_tech_vhf160808h9n1jt_c395094_pdf,c395094,vhf160808h9n1jt,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 22,,l_device_catstick_rescue_catsniffer_rescue,l3,9_1nh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1912111437_fh_guangdong_fenghua_advanced_tech_vhf160808h9n1jt_c395094_pdf,c395094,vhf160808h9n1jt,lcsc,,
 - all: 23,,l_small_device_catstick_rescue_catsniffer_rescue,l4,47nh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2006221409_yanchuang_schf160808h47njt_c578001_pdf,c578001,schf160808h47njt,lcsc,c90210,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 23,,l_small_device_catstick_rescue_catsniffer_rescue,l4,47nh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2006221409_yanchuang_schf160808h47njt_c578001_pdf,c578001,schf160808h47njt,lcsc,c90210,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 23,,l_small_device_catstick_rescue_catsniffer_rescue,l4,47nh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2006221409_yanchuang_schf160808h47njt_c578001_pdf,c578001,schf160808h47njt,lcsc,c90210,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 23,,l_small_device_catstick_rescue_catsniffer_rescue,l4,47nh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2006221409_yanchuang_schf160808h47njt_c578001_pdf,c578001,schf160808h47njt,lcsc,c90210,
 - all: 24,,l_device_catstick_rescue_catsniffer_rescue,l2,6_8uh,l_0603_1608metric,1,_,https_product_tdk_com_system_files_dam_doc_product_inductor_inductor_smd_catalog_inductor_commercial_decoupling_mlz1608_en_pdf,,mlz1608m6r8wt000,mouser,,mlz1608m6r8wt000_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 24,,l_device_catstick_rescue_catsniffer_rescue,l2,6_8uh,l_0603_1608metric,1,_,https_product_tdk_com_system_files_dam_doc_product_inductor_inductor_smd_catalog_inductor_commercial_decoupling_mlz1608_en_pdf,,mlz1608m6r8wt000,mouser,,mlz1608m6r8wt000
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 24,,l_device_catstick_rescue_catsniffer_rescue,l2,6_8uh,l_0603_1608metric,1,_,https_product_tdk_com_system_files_dam_doc_product_inductor_inductor_smd_catalog_inductor_commercial_decoupling_mlz1608_en_pdf,,mlz1608m6r8wt000,mouser,,mlz1608m6r8wt000_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 24,,l_device_catstick_rescue_catsniffer_rescue,l2,6_8uh,l_0603_1608metric,1,_,https_product_tdk_com_system_files_dam_doc_product_inductor_inductor_smd_catalog_inductor_commercial_decoupling_mlz1608_en_pdf,,mlz1608m6r8wt000,mouser,,mlz1608m6r8wt000
 - all: 25,,l_small_device_catstick_rescue_catsniffer_rescue,l5,15uh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2110081230_sunlord_sdfl1608t150ktf_c57838_pdf,c57838,sdfl1608t150ktf,lcsc,c2885870,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 25,,l_small_device_catstick_rescue_catsniffer_rescue,l5,15uh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2110081230_sunlord_sdfl1608t150ktf_c57838_pdf,c57838,sdfl1608t150ktf,lcsc,c2885870,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 25,,l_small_device_catstick_rescue_catsniffer_rescue,l5,15uh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2110081230_sunlord_sdfl1608t150ktf_c57838_pdf,c57838,sdfl1608t150ktf,lcsc,c2885870,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 25,,l_small_device_catstick_rescue_catsniffer_rescue,l5,15uh,l_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_2110081230_sunlord_sdfl1608t150ktf_c57838_pdf,c57838,sdfl1608t150ktf,lcsc,c2885870,
 - all: 26,,ferrite_bead_device_catstick_rescue_catsniffer_rescue,l1,blm18he152sn1d,l_0603_1608metric,1,_,https_www_mouser_mx_datasheet_2_281_enfa0004_1915711_pdf,,blm18he152sn1d,mouser,,blm18he152sn1d_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 26,,ferrite_bead_device_catstick_rescue_catsniffer_rescue,l1,blm18he152sn1d,l_0603_1608metric,1,_,https_www_mouser_mx_datasheet_2_281_enfa0004_1915711_pdf,,blm18he152sn1d,mouser,,blm18he152sn1d
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 26,,ferrite_bead_device_catstick_rescue_catsniffer_rescue,l1,blm18he152sn1d,l_0603_1608metric,1,_,https_www_mouser_mx_datasheet_2_281_enfa0004_1915711_pdf,,blm18he152sn1d,mouser,,blm18he152sn1d_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 26,,ferrite_bead_device_catstick_rescue_catsniffer_rescue,l1,blm18he152sn1d,l_0603_1608metric,1,_,https_www_mouser_mx_datasheet_2_281_enfa0004_1915711_pdf,,blm18he152sn1d,mouser,,blm18he152sn1d
 - all: 27,,usb_c_plug_usb2_0_connector_catstick_rescue_catsniffer_rescue,p1,usb_c_plug_usb2_0,c393939,1,_,https_datasheet_lcsc_com_lcsc_2009111434_shenzhen_kinghelm_elec_kh_type_c_16p_c709357_pdf,c709357,kh_type_c_16p,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 27,,usb_c_plug_usb2_0_connector_catstick_rescue_catsniffer_rescue,p1,usb_c_plug_usb2_0,c393939,1,_,https_datasheet_lcsc_com_lcsc_2009111434_shenzhen_kinghelm_elec_kh_type_c_16p_c709357_pdf,c709357,kh_type_c_16p,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 27,,usb_c_plug_usb2_0_connector_catstick_rescue_catsniffer_rescue,p1,usb_c_plug_usb2_0,c393939,1,_,https_datasheet_lcsc_com_lcsc_2009111434_shenzhen_kinghelm_elec_kh_type_c_16p_c709357_pdf,c709357,kh_type_c_16p,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 27,,usb_c_plug_usb2_0_connector_catstick_rescue_catsniffer_rescue,p1,usb_c_plug_usb2_0,c393939,1,_,https_datasheet_lcsc_com_lcsc_2009111434_shenzhen_kinghelm_elec_kh_type_c_16p_c709357_pdf,c709357,kh_type_c_16p,lcsc,,
 - all: 28,_resistor,_small_symbol_,r_small,r10_r11,27,r_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_348_esr_e_3009601_pdf,,esr01mzpf27r0,mouser,,755_esr01mzpf27r0_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 28,_resistor,_small_symbol_,r_small,r10_r11,27,r_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_348_esr_e_3009601_pdf,,esr01mzpf27r0,mouser,,755_esr01mzpf27r0
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 28,_resistor,_small_symbol_,r_small,r10_r11,27,r_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_348_esr_e_3009601_pdf,,esr01mzpf27r0,mouser,,755_esr01mzpf27r0_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 28,_resistor,_small_symbol_,r_small,r10_r11,27,r_0402_1005metric,2,_,https_www_mouser_mx_datasheet_2_348_esr_e_3009601_pdf,,esr01mzpf27r0,mouser,,755_esr01mzpf27r0
 - all: 29,,r_small_device_catstick_rescue_catsniffer_rescue,r7_r8,100r,r_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_2008061235_yageo_rt0603drd07100rl_c700506_pdf,c700506,rt0603drd07100rl,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 29,,r_small_device_catstick_rescue_catsniffer_rescue,r7_r8,100r,r_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_2008061235_yageo_rt0603drd07100rl_c700506_pdf,c700506,rt0603drd07100rl,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 29,,r_small_device_catstick_rescue_catsniffer_rescue,r7_r8,100r,r_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_2008061235_yageo_rt0603drd07100rl_c700506_pdf,c700506,rt0603drd07100rl,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 29,,r_small_device_catstick_rescue_catsniffer_rescue,r7_r8,100r,r_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_2008061235_yageo_rt0603drd07100rl_c700506_pdf,c700506,rt0603drd07100rl,lcsc,,
 - all: 30,,r_small_device_catstick_rescue_catsniffer_rescue,r3_r4_r5_r9,330,r_0603_1608metric,4,_,https_datasheet_lcsc_com_lcsc_1912111437_viking_tech_ar03btb3300_c408915_pdf,c408915,ar03btb3300,lcsc,c705847,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 30,,r_small_device_catstick_rescue_catsniffer_rescue,r3_r4_r5_r9,330,r_0603_1608metric,4,_,https_datasheet_lcsc_com_lcsc_1912111437_viking_tech_ar03btb3300_c408915_pdf,c408915,ar03btb3300,lcsc,c705847,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 30,,r_small_device_catstick_rescue_catsniffer_rescue,r3_r4_r5_r9,330,r_0603_1608metric,4,_,https_datasheet_lcsc_com_lcsc_1912111437_viking_tech_ar03btb3300_c408915_pdf,c408915,ar03btb3300,lcsc,c705847,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 30,,r_small_device_catstick_rescue_catsniffer_rescue,r3_r4_r5_r9,330,r_0603_1608metric,4,_,https_datasheet_lcsc_com_lcsc_1912111437_viking_tech_ar03btb3300_c408915_pdf,c408915,ar03btb3300,lcsc,c705847,
 - all: 31,_resistor,_small_symbol_,r_small,r12,1k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_427_mcat_pro_1762117_pdf,,mcs0402md1001de000,mouser,,594_mcs0402md1001de0_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 31,_resistor,_small_symbol_,r_small,r12,1k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_427_mcat_pro_1762117_pdf,,mcs0402md1001de000,mouser,,594_mcs0402md1001de0
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 31,_resistor,_small_symbol_,r_small,r12,1k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_427_mcat_pro_1762117_pdf,,mcs0402md1001de000,mouser,,594_mcs0402md1001de0_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 31,_resistor,_small_symbol_,r_small,r12,1k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_427_mcat_pro_1762117_pdf,,mcs0402md1001de000,mouser,,594_mcs0402md1001de0
 - all: 32,,r_small_device_catstick_rescue_catsniffer_rescue,r1_r2,5k1,r_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1912111437_viking_tech_ar03dtcx5101_c319561_pdf,c319561,ar03dtcx5101,lcsc,c311919,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 32,,r_small_device_catstick_rescue_catsniffer_rescue,r1_r2,5k1,r_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1912111437_viking_tech_ar03dtcx5101_c319561_pdf,c319561,ar03dtcx5101,lcsc,c311919,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: 32,,r_small_device_catstick_rescue_catsniffer_rescue,r1_r2,5k1,r_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1912111437_viking_tech_ar03dtcx5101_c319561_pdf,c319561,ar03dtcx5101,lcsc,c311919,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 32,,r_small_device_catstick_rescue_catsniffer_rescue,r1_r2,5k1,r_0603_1608metric,2,_,https_datasheet_lcsc_com_lcsc_1912111437_viking_tech_ar03dtcx5101_c319561_pdf,c319561,ar03dtcx5101,lcsc,c311919,
 - all: 33,_resistor,_small_symbol_,r_small,r13,10k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_427_mcx0x0xpre_1762843_pdf,,mcs04020d1002be000,mouser,,594_mcs04020d1002be0_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 33,_resistor,_small_symbol_,r_small,r13,10k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_427_mcx0x0xpre_1762843_pdf,,mcs04020d1002be000,mouser,,594_mcs04020d1002be0
+  designator: ''
+  name: unmatched
+  oomp_part:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 10000_ohm
+    directory: parts/electronic_resistor_0402_10000_ohm
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_resistor_0402_10000_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: 809c3c0eebd9db9a8729102e6b3027c7
+    md5_10: 809c3c0eeb
+    md5_5: 809c3
+    md5_6: 809c3c
+    name: Electronic Resistor 0402 10000 Ohm
+    oomp_key: oomp_electronic_resistor_0402_10000_ohm
+    part_number: ''
+    short_code: r4o103
+    size: '0402'
+    symbol:
+    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+      oomp_key: oomp_kicad_device_r
+    type: resistor
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: 33,_resistor,_small_symbol_,r_small,r13,10k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_427_mcx0x0xpre_1762843_pdf,,mcs04020d1002be000,mouser,,594_mcs04020d1002be0_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 33,_resistor,_small_symbol_,r_small,r13,10k,r_0402_1005metric,1,_,https_www_mouser_mx_datasheet_2_427_mcx0x0xpre_1762843_pdf,,mcs04020d1002be000,mouser,,594_mcs04020d1002be0
 - all: 34,,r_device_catstick_rescue_catsniffer_rescue,r6,100k,r_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1811082125_yageo_rt0603frd07100kl_c179820_pdf,c179820,rt0603frd07100kl,lcsc,c25803,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 34,,r_device_catstick_rescue_catsniffer_rescue,r6,100k,r_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1811082125_yageo_rt0603frd07100kl_c179820_pdf,c179820,rt0603frd07100kl,lcsc,c25803,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: 34,,r_device_catstick_rescue_catsniffer_rescue,r6,100k,r_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1811082125_yageo_rt0603frd07100kl_c179820_pdf,c179820,rt0603frd07100kl,lcsc,c25803,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 34,,r_device_catstick_rescue_catsniffer_rescue,r6,100k,r_0603_1608metric,1,_,https_datasheet_lcsc_com_lcsc_1811082125_yageo_rt0603frd07100kl_c179820_pdf,c179820,rt0603frd07100kl,lcsc,c25803,
 - all: 35,,0900fm15d0039_electronic_cats_catstick_rescue_catsniffer_rescue,u5,0900fm15d0039,0900fm15d0039e,1,_,https_www_mouser_mx_datasheet_2_611_0900pc15a0036_1524528_pdf,,0900fm15d0039e,mouser,,609_0900fm15d0039e_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 35,,0900fm15d0039_electronic_cats_catstick_rescue_catsniffer_rescue,u5,0900fm15d0039,0900fm15d0039e,1,_,https_www_mouser_mx_datasheet_2_611_0900pc15a0036_1524528_pdf,,0900fm15d0039e,mouser,,609_0900fm15d0039e
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: 35,,0900fm15d0039_electronic_cats_catstick_rescue_catsniffer_rescue,u5,0900fm15d0039,0900fm15d0039e,1,_,https_www_mouser_mx_datasheet_2_611_0900pc15a0036_1524528_pdf,,0900fm15d0039e,mouser,,609_0900fm15d0039e_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 35,,0900fm15d0039_electronic_cats_catstick_rescue_catsniffer_rescue,u5,0900fm15d0039,0900fm15d0039e,1,_,https_www_mouser_mx_datasheet_2_611_0900pc15a0036_1524528_pdf,,0900fm15d0039e,mouser,,609_0900fm15d0039e
 - all: 36,,0900pc15a0036_electronic_cats_catstick_rescue_catsniffer_rescue,u4,0900pc15a0036,0900fm15d0039e,1,_,https_www_mouser_mx_datasheet_2_611_0900pc15a0036_1524528_pdf,,0900pc15a0036e,mouser,,609_0900pc15a0036e_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 36,,0900pc15a0036_electronic_cats_catstick_rescue_catsniffer_rescue,u4,0900pc15a0036,0900fm15d0039e,1,_,https_www_mouser_mx_datasheet_2_611_0900pc15a0036_1524528_pdf,,0900pc15a0036e,mouser,,609_0900pc15a0036e
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: 36,,0900pc15a0036_electronic_cats_catstick_rescue_catsniffer_rescue,u4,0900pc15a0036,0900fm15d0039e,1,_,https_www_mouser_mx_datasheet_2_611_0900pc15a0036_1524528_pdf,,0900pc15a0036e,mouser,,609_0900pc15a0036e_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 36,,0900pc15a0036_electronic_cats_catstick_rescue_catsniffer_rescue,u4,0900pc15a0036,0900fm15d0039e,1,_,https_www_mouser_mx_datasheet_2_611_0900pc15a0036_1524528_pdf,,0900pc15a0036e,mouser,,609_0900pc15a0036e
 - all: 37,,ap2112k_1_2_regulator_linear_catstick_rescue_catstick_rescue_catsniffer_rescue,u1,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf,,xc6210b332mr_g,mouser,,865_xc6210b332mr_g_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 37,,ap2112k_1_2_regulator_linear_catstick_rescue_catstick_rescue_catsniffer_rescue,u1,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf,,xc6210b332mr_g,mouser,,865_xc6210b332mr_g
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: 37,,ap2112k_1_2_regulator_linear_catstick_rescue_catstick_rescue_catsniffer_rescue,u1,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf,,xc6210b332mr_g,mouser,,865_xc6210b332mr_g_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 37,,ap2112k_1_2_regulator_linear_catstick_rescue_catstick_rescue_catsniffer_rescue,u1,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf,,xc6210b332mr_g,mouser,,865_xc6210b332mr_g
 - all: 38,,cc1352p1f3rgzt,u8,cc1352p1f3rgzt,vqfn_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm_thermalvias,1,_,https_www_ti_com_lit_ds_symlink_cc1352p_pdf_hqs=dis_mous_null_mousermode_dsf_pf_null_wwe&ts=1675977182049&ref_url=https%253a%252f%252fwww_mouser_com%252f,,cc1352p1f3rgzt,mouser,,595_cc1352p1f3rgzt_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 38,,cc1352p1f3rgzt,u8,cc1352p1f3rgzt,vqfn_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm_thermalvias,1,_,https_www_ti_com_lit_ds_symlink_cc1352p_pdf_hqs=dis_mous_null_mousermode_dsf_pf_null_wwe&ts=1675977182049&ref_url=https%253a%252f%252fwww_mouser_com%252f,,cc1352p1f3rgzt,mouser,,595_cc1352p1f3rgzt
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: 38,,cc1352p1f3rgzt,u8,cc1352p1f3rgzt,vqfn_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm_thermalvias,1,_,https_www_ti_com_lit_ds_symlink_cc1352p_pdf_hqs=dis_mous_null_mousermode_dsf_pf_null_wwe&ts=1675977182049&ref_url=https%253a%252f%252fwww_mouser_com%252f,,cc1352p1f3rgzt,mouser,,595_cc1352p1f3rgzt_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 38,,cc1352p1f3rgzt,u8,cc1352p1f3rgzt,vqfn_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm_thermalvias,1,_,https_www_ti_com_lit_ds_symlink_cc1352p_pdf_hqs=dis_mous_null_mousermode_dsf_pf_null_wwe&ts=1675977182049&ref_url=https%253a%252f%252fwww_mouser_com%252f,,cc1352p1f3rgzt,mouser,,595_cc1352p1f3rgzt
 - all: 39,,maswss0115_rf_switch_catstick_rescue_catsniffer_rescue,u6,pe42421,sot_363_sc_70_6,1,_,https_www_mouser_mx_datasheet_2_281_pe42421ds_1671115_pdf,_,pe42421scaa_z,mouser,,81_pe42421scaa_z_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 39,,maswss0115_rf_switch_catstick_rescue_catsniffer_rescue,u6,pe42421,sot_363_sc_70_6,1,_,https_www_mouser_mx_datasheet_2_281_pe42421ds_1671115_pdf,_,pe42421scaa_z,mouser,,81_pe42421scaa_z
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: 39,,maswss0115_rf_switch_catstick_rescue_catsniffer_rescue,u6,pe42421,sot_363_sc_70_6,1,_,https_www_mouser_mx_datasheet_2_281_pe42421ds_1671115_pdf,_,pe42421scaa_z,mouser,,81_pe42421scaa_z_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 39,,maswss0115_rf_switch_catstick_rescue_catsniffer_rescue,u6,pe42421,sot_363_sc_70_6,1,_,https_www_mouser_mx_datasheet_2_281_pe42421ds_1671115_pdf,_,pe42421scaa_z,mouser,,81_pe42421scaa_z
 - all: 40,,rfsw8006qtr7_electroniccats_catstick_rescue_catsniffer_rescue,u2,rfsw8006qtr7,son50p200x200x90_9n,1,_,https_www_mouser_mx_datasheet_2_412_fsw8006q_product_data_sheet_1307843_pdf,,rfsw8006qtr7,mouser,,772_rfsw8006qtr7_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 40,,rfsw8006qtr7_electroniccats_catstick_rescue_catsniffer_rescue,u2,rfsw8006qtr7,son50p200x200x90_9n,1,_,https_www_mouser_mx_datasheet_2_412_fsw8006q_product_data_sheet_1307843_pdf,,rfsw8006qtr7,mouser,,772_rfsw8006qtr7
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: 40,,rfsw8006qtr7_electroniccats_catstick_rescue_catsniffer_rescue,u2,rfsw8006qtr7,son50p200x200x90_9n,1,_,https_www_mouser_mx_datasheet_2_412_fsw8006q_product_data_sheet_1307843_pdf,,rfsw8006qtr7,mouser,,772_rfsw8006qtr7_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 40,,rfsw8006qtr7_electroniccats_catstick_rescue_catsniffer_rescue,u2,rfsw8006qtr7,son50p200x200x90_9n,1,_,https_www_mouser_mx_datasheet_2_412_fsw8006q_product_data_sheet_1307843_pdf,,rfsw8006qtr7,mouser,,772_rfsw8006qtr7
 - all: 41,a_microcontroller_by_raspberry_pi,rp2040,u3,rp2040,qfn_56_1ep_7x7mm_p0_4mm_ep3_2x3_2mm,1,_,https_datasheets_raspberrypi_com_rp2040_rp2040_datasheet_pdf,c2040,rp2040,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 41,a_microcontroller_by_raspberry_pi,rp2040,u3,rp2040,qfn_56_1ep_7x7mm_p0_4mm_ep3_2x3_2mm,1,_,https_datasheets_raspberrypi_com_rp2040_rp2040_datasheet_pdf,c2040,rp2040,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: 41,a_microcontroller_by_raspberry_pi,rp2040,u3,rp2040,qfn_56_1ep_7x7mm_p0_4mm_ep3_2x3_2mm,1,_,https_datasheets_raspberrypi_com_rp2040_rp2040_datasheet_pdf,c2040,rp2040,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 41,a_microcontroller_by_raspberry_pi,rp2040,u3,rp2040,qfn_56_1ep_7x7mm_p0_4mm_ep3_2x3_2mm,1,_,https_datasheets_raspberrypi_com_rp2040_rp2040_datasheet_pdf,c2040,rp2040,lcsc,,
 - all: 42,,sx1262imltrt,u7,sx1262imltrt,qfn_24_1ep_4x4mm_p0_5mm_ep2_65x2_65mm,1,_,https_www_mouser_mx_datasheet_2_761_semt_s_a0008596633_1_2575829_pdf,,sx1262imltrt,mouser,,947_sx1262imltrt_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 42,,sx1262imltrt,u7,sx1262imltrt,qfn_24_1ep_4x4mm_p0_5mm_ep2_65x2_65mm,1,_,https_www_mouser_mx_datasheet_2_761_semt_s_a0008596633_1_2575829_pdf,,sx1262imltrt,mouser,,947_sx1262imltrt
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: 42,,sx1262imltrt,u7,sx1262imltrt,qfn_24_1ep_4x4mm_p0_5mm_ep2_65x2_65mm,1,_,https_www_mouser_mx_datasheet_2_761_semt_s_a0008596633_1_2575829_pdf,,sx1262imltrt,mouser,,947_sx1262imltrt_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 42,,sx1262imltrt,u7,sx1262imltrt,qfn_24_1ep_4x4mm_p0_5mm_ep2_65x2_65mm,1,_,https_www_mouser_mx_datasheet_2_761_semt_s_a0008596633_1_2575829_pdf,,sx1262imltrt,mouser,,947_sx1262imltrt
 - all: 43,_128mb_serial_flash_memory,_standard_dual_quad_spi,_soic_8_,w25q128jvs,u9,w25q16jv,w25q16jvuuiq,1,_,http_www_winbond_com_resource_files_w25q128jv_dtr%20revc%2003272018%20plus_pdf,,w25q16jvuuiq_tr,mouser,,454_w25q16jvuuiqtr_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 43,_128mb_serial_flash_memory,_standard_dual_quad_spi,_soic_8_,w25q128jvs,u9,w25q16jv,w25q16jvuuiq,1,_,http_www_winbond_com_resource_files_w25q128jv_dtr%20revc%2003272018%20plus_pdf,,w25q16jvuuiq_tr,mouser,,454_w25q16jvuuiqtr
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: 43,_128mb_serial_flash_memory,_standard_dual_quad_spi,_soic_8_,w25q128jvs,u9,w25q16jv,w25q16jvuuiq,1,_,http_www_winbond_com_resource_files_w25q128jv_dtr%20revc%2003272018%20plus_pdf,,w25q16jvuuiq_tr,mouser,,454_w25q16jvuuiqtr_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 43,_128mb_serial_flash_memory,_standard_dual_quad_spi,_soic_8_,w25q128jvs,u9,w25q16jv,w25q16jvuuiq,1,_,http_www_winbond_com_resource_files_w25q128jv_dtr%20revc%2003272018%20plus_pdf,,w25q16jvuuiq_tr,mouser,,454_w25q16jvuuiqtr
 - all: 44,_four_pin_crystal,_gnd_on_pins_2_and_3,_small_symbol_,crystal_gnd23_small,y4,12mhz,crystal_smd_3225_4pin_3_2x2_5mm,1,_,https_datasheet_lcsc_com_lcsc_2210101630_hci_xc32m4_12_000_f20njdt_c2848217_pdf,c2848217,xc32m4_12_000_f20njdt,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 44,_four_pin_crystal,_gnd_on_pins_2_and_3,_small_symbol_,crystal_gnd23_small,y4,12mhz,crystal_smd_3225_4pin_3_2x2_5mm,1,_,https_datasheet_lcsc_com_lcsc_2210101630_hci_xc32m4_12_000_f20njdt_c2848217_pdf,c2848217,xc32m4_12_000_f20njdt,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id044
+    all: 44,_four_pin_crystal,_gnd_on_pins_2_and_3,_small_symbol_,crystal_gnd23_small,y4,12mhz,crystal_smd_3225_4pin_3_2x2_5mm,1,_,https_datasheet_lcsc_com_lcsc_2210101630_hci_xc32m4_12_000_f20njdt_c2848217_pdf,c2848217,xc32m4_12_000_f20njdt,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 44,_four_pin_crystal,_gnd_on_pins_2_and_3,_small_symbol_,crystal_gnd23_small,y4,12mhz,crystal_smd_3225_4pin_3_2x2_5mm,1,_,https_datasheet_lcsc_com_lcsc_2210101630_hci_xc32m4_12_000_f20njdt_c2848217_pdf,c2848217,xc32m4_12_000_f20njdt,lcsc,,
 - all: 45,,crystal_device_catstick_rescue_catsniffer_rescue,y2,32_768khz,crystal_smd_2012_2pin_2_0x1_2mm,1,_,https_datasheet_lcsc_com_lcsc_1811151444_seiko_sc_20s_32_768khz_20ppm_9pf_c97603_pdf,c97603,_sc_20s,32_768khz,20ppm,9pf_,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 45,,crystal_device_catstick_rescue_catsniffer_rescue,y2,32_768khz,crystal_smd_2012_2pin_2_0x1_2mm,1,_,https_datasheet_lcsc_com_lcsc_1811151444_seiko_sc_20s_32_768khz_20ppm_9pf_c97603_pdf,c97603,_sc_20s,32_768khz,20ppm,9pf_,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id045
+    all: 45,,crystal_device_catstick_rescue_catsniffer_rescue,y2,32_768khz,crystal_smd_2012_2pin_2_0x1_2mm,1,_,https_datasheet_lcsc_com_lcsc_1811151444_seiko_sc_20s_32_768khz_20ppm_9pf_c97603_pdf,c97603,_sc_20s,32_768khz,20ppm,9pf_,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 45,,crystal_device_catstick_rescue_catsniffer_rescue,y2,32_768khz,crystal_smd_2012_2pin_2_0x1_2mm,1,_,https_datasheet_lcsc_com_lcsc_1811151444_seiko_sc_20s_32_768khz_20ppm_9pf_c97603_pdf,c97603,_sc_20s,32_768khz,20ppm,9pf_,lcsc,,
 - all: 46,,crystal_gnd24_device_catstick_rescue_catsniffer_rescue,y3,32mhz,crystal_smd_2520_4pin_2_5x2_0mm,1,_,https_datasheet_lcsc_com_lcsc_1810171117_seiko_epson_q24fa20h0021700_c255969_pdf,c255969,q24fa20h0021700,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 46,,crystal_gnd24_device_catstick_rescue_catsniffer_rescue,y3,32mhz,crystal_smd_2520_4pin_2_5x2_0mm,1,_,https_datasheet_lcsc_com_lcsc_1810171117_seiko_epson_q24fa20h0021700_c255969_pdf,c255969,q24fa20h0021700,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id046
+    all: 46,,crystal_gnd24_device_catstick_rescue_catsniffer_rescue,y3,32mhz,crystal_smd_2520_4pin_2_5x2_0mm,1,_,https_datasheet_lcsc_com_lcsc_1810171117_seiko_epson_q24fa20h0021700_c255969_pdf,c255969,q24fa20h0021700,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 46,,crystal_gnd24_device_catstick_rescue_catsniffer_rescue,y3,32mhz,crystal_smd_2520_4pin_2_5x2_0mm,1,_,https_datasheet_lcsc_com_lcsc_1810171117_seiko_epson_q24fa20h0021700_c255969_pdf,c255969,q24fa20h0021700,lcsc,,
 - all: 47,,crystal_gnd24_device_catstick_rescue_catsniffer_rescue,y1,48mhz,crystal_smd_3225_4pin_3_2x2_5mm,1,_,https_datasheet_lcsc_com_lcsc_1912111437_xty_7325_4800a1620_00_c389928_pdf,c389928,7325_4800a1620_00,lcsc,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 47,,crystal_gnd24_device_catstick_rescue_catsniffer_rescue,y1,48mhz,crystal_smd_3225_4pin_3_2x2_5mm,1,_,https_datasheet_lcsc_com_lcsc_1912111437_xty_7325_4800a1620_00_c389928_pdf,c389928,7325_4800a1620_00,lcsc,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id047
+    all: 47,,crystal_gnd24_device_catstick_rescue_catsniffer_rescue,y1,48mhz,crystal_smd_3225_4pin_3_2x2_5mm,1,_,https_datasheet_lcsc_com_lcsc_1912111437_xty_7325_4800a1620_00_c389928_pdf,c389928,7325_4800a1620_00,lcsc,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: 47,,crystal_gnd24_device_catstick_rescue_catsniffer_rescue,y1,48mhz,crystal_smd_3225_4pin_3_2x2_5mm,1,_,https_datasheet_lcsc_com_lcsc_1912111437_xty_7325_4800a1620_00_c389928_pdf,c389928,7325_4800a1620_00,lcsc,,
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id048
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id049
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id050
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id051
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id052
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id053
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id054
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id055
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: variant_,default
 - all: revision_,2_0_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: revision_,2_0
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id056
+    all: revision_,2_0_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: revision_,2_0
 - all: date_,2021_04_11_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: date_,2021_04_11
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id057
+    all: date_,2021_04_11_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: date_,2021_04_11
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id058
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id059
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: statistics_
 - all: component_groups_,47_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: component_groups_,47
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id060
+    all: component_groups_,47_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: component_groups_,47
 - all: component_count_,91_(83_smd_5_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: component_count_,91_(83_smd_5_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id061
+    all: component_count_,91_(83_smd_5_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: component_count_,91_(83_smd_5_tht)
 - all: fitted_components_,91_(83_smd_5_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: fitted_components_,91_(83_smd_5_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id062
+    all: fitted_components_,91_(83_smd_5_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: fitted_components_,91_(83_smd_5_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id063
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: number_of_pcbs_,1
 - all: total_components_,91_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: total_components_,91
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id064
+    all: total_components_,91_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc#,manf#,provedor,remplazos,mouser#: total_components_,91
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
+- *id049
+- *id050
+- *id051
+- *id052
+- *id053
+- *id054
+- *id055
+- *id056
+- *id057
+- *id058
+- *id059
+- *id060
+- *id061
+- *id062
+- *id063
+- *id064
 projects_flat: projects_flat/electroniccats_catsniffer/version_current/working
 projects_folder: projects_folder/ElectronicCats/CatSniffer/version_current/working
 repo:

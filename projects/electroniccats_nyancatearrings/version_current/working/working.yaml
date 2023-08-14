@@ -13,91 +13,164 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_nyancatearrings\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_nyancatearrings
 oomp_key_simple: projects_flat_electroniccats_nyancatearrings
-parts_verbose:
+parts_oomp:
 - all: 1_svg2mod_nyancat_1_g____
-  designation: g_
   designator: svg2mod
-  footprint: nyancat
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_svg2mod_nyancat_1_g____
+    designation: g_
+    designator: svg2mod
+    footprint: nyancat
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_d1,d2_led_0603_2_led___
-  designation: led
   designator: d1
-  footprint: led_0603
-  id: '2'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_d1,d2_led_0603_2_led___
+    designation: led
+    designator: d1
+    footprint: led_0603
+    id: '2'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 2_d1,d2_led_0603_2_led___
-  designation: led
   designator: d2
-  footprint: led_0603
-  id: '2'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_d1,d2_led_0603_2_led___
+    designation: led
+    designator: d2
+    footprint: led_0603
+    id: '2'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 3_r1_r_0603_handsoldering_1_100___
-  designation: '100'
   designator: r1
-  footprint: r_0603_handsoldering
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_r1_r_0603_handsoldering_1_100___
+    designation: '100'
+    designator: r1
+    footprint: r_0603_handsoldering
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_bz1_r_0805_handsoldering_1_buzzer___
-  designation: buzzer
   designator: bz1
-  footprint: r_0805_handsoldering
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_bz1_r_0805_handsoldering_1_buzzer___
+    designation: buzzer
+    designator: bz1
+    footprint: r_0805_handsoldering
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_bt1_supercapcoin_1_battery_cell___
-  designation: battery_cell
   designator: bt1
-  footprint: supercapcoin
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_bt1_supercapcoin_1_battery_cell___
+    designation: battery_cell
+    designator: bt1
+    footprint: supercapcoin
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_ic1_tsot_23_6_mk06a_handsoldering_1_attiny10_ts___
-  designation: attiny10_ts
   designator: ic1
-  footprint: tsot_23_6_mk06a_handsoldering
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 6_ic1_tsot_23_6_mk06a_handsoldering_1_attiny10_ts___
+    designation: attiny10_ts
+    designator: ic1
+    footprint: tsot_23_6_mk06a_handsoldering
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_p1_pin_header_straight_1x01_pitch2_54mm_smd_pin1right_1_g___
-  designation: g
   designator: p1
-  footprint: pin_header_straight_1x01_pitch2_54mm_smd_pin1right
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 7_p1_pin_header_straight_1x01_pitch2_54mm_smd_pin1right_1_g___
+    designation: g
+    designator: p1
+    footprint: pin_header_straight_1x01_pitch2_54mm_smd_pin1right
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_p2_pin_header_straight_1x01_pitch2_54mm_smd_pin1right_1_v___
-  designation: v
   designator: p2
-  footprint: pin_header_straight_1x01_pitch2_54mm_smd_pin1right
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 8_p2_pin_header_straight_1x01_pitch2_54mm_smd_pin1right_1_v___
+    designation: v
+    designator: p2
+    footprint: pin_header_straight_1x01_pitch2_54mm_smd_pin1right
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_p4_pin_header_straight_1x01_pitch2_54mm_smd_pin1left_1_i___
-  designation: i
   designator: p4
-  footprint: pin_header_straight_1x01_pitch2_54mm_smd_pin1left
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 9_p4_pin_header_straight_1x01_pitch2_54mm_smd_pin1left_1_i___
+    designation: i
+    designator: p4
+    footprint: pin_header_straight_1x01_pitch2_54mm_smd_pin1left
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_p5_pin_header_straight_1x01_pitch2_54mm_smd_pin1left_1_c___
-  designation: c
   designator: p5
-  footprint: pin_header_straight_1x01_pitch2_54mm_smd_pin1left
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 10_p5_pin_header_straight_1x01_pitch2_54mm_smd_pin1left_1_c___
+    designation: c
+    designator: p5
+    footprint: pin_header_straight_1x01_pitch2_54mm_smd_pin1left
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_p6_pin_header_straight_1x01_pitch2_54mm_smd_pin1left_1_r___
-  designation: r
   designator: p6
-  footprint: pin_header_straight_1x01_pitch2_54mm_smd_pin1left
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 11_p6_pin_header_straight_1x01_pitch2_54mm_smd_pin1left_1_r___
+    designation: r
+    designator: p6
+    footprint: pin_header_straight_1x01_pitch2_54mm_smd_pin1left
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
 projects_flat: projects_flat/electroniccats_nyancatearrings/version_current/working
 projects_folder: projects_folder/ElectronicCats/NyanCatEarrings/version_current/working
 repo:

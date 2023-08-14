@@ -13,42 +13,73 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\asukiaaa_raspibbhat\version_current\working
 oomp_key: oomp_projects_flat_asukiaaa_raspibbhat
 oomp_key_simple: projects_flat_asukiaaa_raspibbhat
-parts_verbose:
+parts_oomp:
 - all: 1_j1,j3_pinsocket_1x03_p2_54mm_vertical_2_conn_01x03___
-  designation: conn_01x03
   designator: j1
-  footprint: pinsocket_1x03_p2_54mm_vertical
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_j1,j3_pinsocket_1x03_p2_54mm_vertical_2_conn_01x03___
+    designation: conn_01x03
+    designator: j1
+    footprint: pinsocket_1x03_p2_54mm_vertical
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 1_j1,j3_pinsocket_1x03_p2_54mm_vertical_2_conn_01x03___
-  designation: conn_01x03
   designator: j3
-  footprint: pinsocket_1x03_p2_54mm_vertical
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_j1,j3_pinsocket_1x03_p2_54mm_vertical_2_conn_01x03___
+    designation: conn_01x03
+    designator: j3
+    footprint: pinsocket_1x03_p2_54mm_vertical
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 2_j5_pinheader_2x20_p2_54mm_vertical_1_raspberry_pi_2_3___
-  designation: raspberry_pi_2_3
   designator: j5
-  footprint: pinheader_2x20_p2_54mm_vertical
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_j5_pinheader_2x20_p2_54mm_vertical_1_raspberry_pi_2_3___
+    designation: raspberry_pi_2_3
+    designator: j5
+    footprint: pinheader_2x20_p2_54mm_vertical
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_j2,j4_pinsocket_1x16_p2_54mm_vertical_2_conn_01x16___
-  designation: conn_01x16
   designator: j2
-  footprint: pinsocket_1x16_p2_54mm_vertical
-  id: '3'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_j2,j4_pinsocket_1x16_p2_54mm_vertical_2_conn_01x16___
+    designation: conn_01x16
+    designator: j2
+    footprint: pinsocket_1x16_p2_54mm_vertical
+    id: '3'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 3_j2,j4_pinsocket_1x16_p2_54mm_vertical_2_conn_01x16___
-  designation: conn_01x16
   designator: j4
-  footprint: pinsocket_1x16_p2_54mm_vertical
-  id: '3'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_j2,j4_pinsocket_1x16_p2_54mm_vertical_2_conn_01x16___
+    designation: conn_01x16
+    designator: j4
+    footprint: pinsocket_1x16_p2_54mm_vertical
+    id: '3'
+    quantity: '2'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
 projects_flat: projects_flat/asukiaaa_raspibbhat/version_current/working
 projects_folder: projects_folder/asukiaaa/RaspiBBHat/version_current/working
 repo:

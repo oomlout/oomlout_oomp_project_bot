@@ -13,91 +13,164 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dqmcdonald_arduinoispshield\version_current\working
 oomp_key: oomp_projects_flat_dqmcdonald_arduinoispshield
 oomp_key_simple: projects_flat_dqmcdonald_arduinoispshield
-parts_verbose:
+parts_oomp:
 - all: 1_c1_c2_1_100nf___
-  designation: 100nf
   designator: c1
-  footprint: c2
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_c1_c2_1_100nf___
+    designation: 100nf
+    designator: c1
+    footprint: c2
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_c2_c1v8_1_cp1___
-  designation: cp1
   designator: c2
-  footprint: c1v8
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_c2_c1v8_1_cp1___
+    designation: cp1
+    designator: c2
+    footprint: c1v8
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_c3_c2_1_100nf___
-  designation: 100nf
   designator: c3
-  footprint: c2
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_c3_c2_1_100nf___
+    designation: 100nf
+    designator: c3
+    footprint: c2
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_heartbeat,error,d3_ledv_3_led___
-  designation: led
   designator: heartbeat
-  footprint: ledv
-  id: '4'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4_heartbeat,error,d3_ledv_3_led___
+    designation: led
+    designator: heartbeat
+    footprint: ledv
+    id: '4'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 4_heartbeat,error,d3_ledv_3_led___
-  designation: led
   designator: error
-  footprint: ledv
-  id: '4'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_heartbeat,error,d3_ledv_3_led___
+    designation: led
+    designator: error
+    footprint: ledv
+    id: '4'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 4_heartbeat,error,d3_ledv_3_led___
-  designation: led
   designator: d3
-  footprint: ledv
-  id: '4'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 4_heartbeat,error,d3_ledv_3_led___
+    designation: led
+    designator: d3
+    footprint: ledv
+    id: '4'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 5_ic1_dip_14_300_ell_1_attiny84___
-  designation: attiny84
   designator: ic1
-  footprint: dip_14_300_ell
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 5_ic1_dip_14_300_ell_1_attiny84___
+    designation: attiny84
+    designator: ic1
+    footprint: dip_14_300_ell
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_r1_r4_large_pads_1_200r___
-  designation: 200r
   designator: r1
-  footprint: r4_large_pads
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 6_r1_r4_large_pads_1_200r___
+    designation: 200r
+    designator: r1
+    footprint: r4_large_pads
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_r2,r3_r4_large_pads_2_220r___
-  designation: 220r
   designator: r2
-  footprint: r4_large_pads
-  id: '7'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 7_r2,r3_r4_large_pads_2_220r___
+    designation: 220r
+    designator: r2
+    footprint: r4_large_pads
+    id: '7'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 7_r2,r3_r4_large_pads_2_220r___
-  designation: 220r
   designator: r3
-  footprint: r4_large_pads
-  id: '7'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 7_r2,r3_r4_large_pads_2_220r___
+    designation: 220r
+    designator: r3
+    footprint: r4_large_pads
+    id: '7'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 8_shield1_arduino_shield_2_1_arduino_shield___
-  designation: arduino_shield
   designator: shield1
-  footprint: arduino_shield_2
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 8_shield1_arduino_shield_2_1_arduino_shield___
+    designation: arduino_shield
+    designator: shield1
+    footprint: arduino_shield_2
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_u2_dip_8_300_ell_1_attiny85___
-  designation: attiny85
   designator: u2
-  footprint: dip_8_300_ell
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 9_u2_dip_8_300_ell_1_attiny85___
+    designation: attiny85
+    designator: u2
+    footprint: dip_8_300_ell
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
 projects_flat: projects_flat/dqmcdonald_arduinoispshield/version_current/working
 projects_folder: projects_folder/dqmcdonald/ArduinoISPShield/version_current/working
 repo:

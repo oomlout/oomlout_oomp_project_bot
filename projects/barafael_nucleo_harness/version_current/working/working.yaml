@@ -13,105 +13,190 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\barafael_nucleo_harness\version_current\working
 oomp_key: oomp_projects_flat_barafael_nucleo_harness
 oomp_key_simple: projects_flat_barafael_nucleo_harness
-parts_verbose:
+parts_oomp:
 - all: 1_a2_nucleo32_1_nucleo32___
-  designation: nucleo32
   designator: a2
-  footprint: nucleo32
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_a2_nucleo32_1_nucleo32___
+    designation: nucleo32
+    designator: a2
+    footprint: nucleo32
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_a1_arduino_uno_r3_1_arduino_uno_r3___
-  designation: arduino_uno_r3
   designator: a1
-  footprint: arduino_uno_r3
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_a1_arduino_uno_r3_1_arduino_uno_r3___
+    designation: arduino_uno_r3
+    designator: a1
+    footprint: arduino_uno_r3
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
-  designation: conn_02x20_odd_even
   designator: j11
-  footprint: pinsocket_2x20_p2_54mm_vertical
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
+    designation: conn_02x20_odd_even
+    designator: j11
+    footprint: pinsocket_2x20_p2_54mm_vertical
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
-  designation: conn_02x20_odd_even
   designator: j10
-  footprint: pinsocket_2x20_p2_54mm_vertical
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
+    designation: conn_02x20_odd_even
+    designator: j10
+    footprint: pinsocket_2x20_p2_54mm_vertical
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
-  designation: conn_02x20_odd_even
   designator: j7
-  footprint: pinsocket_2x20_p2_54mm_vertical
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
+    designation: conn_02x20_odd_even
+    designator: j7
+    footprint: pinsocket_2x20_p2_54mm_vertical
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
-  designation: conn_02x20_odd_even
   designator: j6
-  footprint: pinsocket_2x20_p2_54mm_vertical
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
+    designation: conn_02x20_odd_even
+    designator: j6
+    footprint: pinsocket_2x20_p2_54mm_vertical
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
-  designation: conn_02x20_odd_even
   designator: j4
-  footprint: pinsocket_2x20_p2_54mm_vertical
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
+    designation: conn_02x20_odd_even
+    designator: j4
+    footprint: pinsocket_2x20_p2_54mm_vertical
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
-  designation: conn_02x20_odd_even
   designator: j3
-  footprint: pinsocket_2x20_p2_54mm_vertical
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 3_j11,j10,j7,j6,j4,j3_pinsocket_2x20_p2_54mm_vertical_6_conn_02x20_odd_even___
+    designation: conn_02x20_odd_even
+    designator: j3
+    footprint: pinsocket_2x20_p2_54mm_vertical
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 4_j2,j8,j5,j1_pinsocket_1x08_p2_54mm_vertical_4_conn_01x08_female___
-  designation: conn_01x08_female
   designator: j2
-  footprint: pinsocket_1x08_p2_54mm_vertical
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 4_j2,j8,j5,j1_pinsocket_1x08_p2_54mm_vertical_4_conn_01x08_female___
+    designation: conn_01x08_female
+    designator: j2
+    footprint: pinsocket_1x08_p2_54mm_vertical
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_j2,j8,j5,j1_pinsocket_1x08_p2_54mm_vertical_4_conn_01x08_female___
-  designation: conn_01x08_female
   designator: j8
-  footprint: pinsocket_1x08_p2_54mm_vertical
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 4_j2,j8,j5,j1_pinsocket_1x08_p2_54mm_vertical_4_conn_01x08_female___
+    designation: conn_01x08_female
+    designator: j8
+    footprint: pinsocket_1x08_p2_54mm_vertical
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_j2,j8,j5,j1_pinsocket_1x08_p2_54mm_vertical_4_conn_01x08_female___
-  designation: conn_01x08_female
   designator: j5
-  footprint: pinsocket_1x08_p2_54mm_vertical
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 4_j2,j8,j5,j1_pinsocket_1x08_p2_54mm_vertical_4_conn_01x08_female___
+    designation: conn_01x08_female
+    designator: j5
+    footprint: pinsocket_1x08_p2_54mm_vertical
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_j2,j8,j5,j1_pinsocket_1x08_p2_54mm_vertical_4_conn_01x08_female___
-  designation: conn_01x08_female
   designator: j1
-  footprint: pinsocket_1x08_p2_54mm_vertical
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 4_j2,j8,j5,j1_pinsocket_1x08_p2_54mm_vertical_4_conn_01x08_female___
+    designation: conn_01x08_female
+    designator: j1
+    footprint: pinsocket_1x08_p2_54mm_vertical
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 5_p2,p1_pinheader_2x10_p2_54mm_vertical_2_conn_02x10_odd_even___
-  designation: conn_02x10_odd_even
   designator: p2
-  footprint: pinheader_2x10_p2_54mm_vertical
-  id: '5'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 5_p2,p1_pinheader_2x10_p2_54mm_vertical_2_conn_02x10_odd_even___
+    designation: conn_02x10_odd_even
+    designator: p2
+    footprint: pinheader_2x10_p2_54mm_vertical
+    id: '5'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 5_p2,p1_pinheader_2x10_p2_54mm_vertical_2_conn_02x10_odd_even___
-  designation: conn_02x10_odd_even
   designator: p1
-  footprint: pinheader_2x10_p2_54mm_vertical
-  id: '5'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 5_p2,p1_pinheader_2x10_p2_54mm_vertical_2_conn_02x10_odd_even___
+    designation: conn_02x10_odd_even
+    designator: p1
+    footprint: pinheader_2x10_p2_54mm_vertical
+    id: '5'
+    quantity: '2'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
 projects_flat: projects_flat/barafael_nucleo_harness/version_current/working
 projects_folder: projects_folder/barafael/nucleo-harness/version_current/working
 repo:

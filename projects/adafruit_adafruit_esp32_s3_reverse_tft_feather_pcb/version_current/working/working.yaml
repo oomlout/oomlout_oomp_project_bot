@@ -13,88 +13,347 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_esp32_s3_reverse_tft_feather_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_esp32_s3_reverse_tft_feather_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_esp32_s3_reverse_tft_feather_pcb
-parts_verbose:
+parts_oomp:
 - all: 1,,cap_ceramic0603_no,c4_c5_c10_c11,1uf,0603_no,4,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 1,,cap_ceramic0603_no,c4_c5_c10_c11,1uf,0603_no,4,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,,cap_ceramic0603_no,c4_c5_c10_c11,1uf,0603_no,4,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 1,,cap_ceramic0603_no,c4_c5_c10_c11,1uf,0603_no,4,_,,
 - all: 2,,cap_ceramic0805_nooutline,c1_c2_c3_c6_c7_c8_c9_c12,10uf,0805_no,8,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 2,,cap_ceramic0805_nooutline,c1_c2_c3_c6_c7_c8_c9_c12,10uf,0805_no,8,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,,cap_ceramic0805_nooutline,c1_c2_c3_c6_c7_c8_c9_c12,10uf,0805_no,8,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 2,,cap_ceramic0805_nooutline,c1_c2_c3_c6_c7_c8_c9_c12,10uf,0805_no,8,_,,
 - all: 3,,led0603_nooutline,chg0,orange,chipled_0603_nooutline,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 3,,led0603_nooutline,chg0,orange,chipled_0603_nooutline,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,,led0603_nooutline,chg0,orange,chipled_0603_nooutline,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 3,,led0603_nooutline,chg0,orange,chipled_0603_nooutline,1,_,,
 - all: 4,,stemma_i2c_qtra,conn1,stemma_i2c_qtra,jst_sh4_ra,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 4,,stemma_i2c_qtra,conn1,stemma_i2c_qtra,jst_sh4_ra,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,,stemma_i2c_qtra,conn1,stemma_i2c_qtra,jst_sh4_ra,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 4,,stemma_i2c_qtra,conn1,stemma_i2c_qtra,jst_sh4_ra,1,_,,
 - all: 5,,diode_schottkysod_123,d4,mbr540,sod_123,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 5,,diode_schottkysod_123,d4,mbr540,sod_123,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,,diode_schottkysod_123,d4,mbr540,sod_123,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 5,,diode_schottkysod_123,d4,mbr540,sod_123,1,_,,
 - all: 6,,led0603_nooutline,d3,red,chipled_0603_nooutline,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 6,,led0603_nooutline,d3,red,chipled_0603_nooutline,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,,led0603_nooutline,d3,red,chipled_0603_nooutline,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 6,,led0603_nooutline,d3,red,chipled_0603_nooutline,1,_,,
 - all: 7,,disp_lcd_generic_spi_1_14in_240x135_wrapunder,disp1,disp_lcd_generic_spi_1_14in_240x135_wrapunder,tft_1_14in_240x135_wrapunder,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 7,,disp_lcd_generic_spi_1_14in_240x135_wrapunder,disp1,disp_lcd_generic_spi_1_14in_240x135_wrapunder,tft_1_14in_240x135_wrapunder,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,,disp_lcd_generic_spi_1_14in_240x135_wrapunder,disp1,disp_lcd_generic_spi_1_14in_240x135_wrapunder,tft_1_14in_240x135_wrapunder,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 7,,disp_lcd_generic_spi_1_14in_240x135_wrapunder,disp1,disp_lcd_generic_spi_1_14in_240x135_wrapunder,tft_1_14in_240x135_wrapunder,1,_,,
 - all: 8,,header_1x12_min,jp3,header_1x12_min,1x12_round_min,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 8,,header_1x12_min,jp3,header_1x12_min,1x12_round_min,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,,header_1x12_min,jp3,header_1x12_min,1x12_round_min,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 8,,header_1x12_min,jp3,header_1x12_min,1x12_round_min,1,_,,
 - all: 9,,header_1x16_min,jp1,header_1x16_min,1x16_round_min,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 9,,header_1x16_min,jp1,header_1x16_min,1x16_round_min,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,,header_1x16_min,jp1,header_1x16_min,1x16_round_min,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 9,,header_1x16_min,jp1,header_1x16_min,1x16_round_min,1,_,,
 - all: 10,,ws2812b_sk6805_1515,led1,ws2812b_sk6805_1515,sk6805_1515,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 10,,ws2812b_sk6805_1515,led1,ws2812b_sk6805_1515,sk6805_1515,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,,ws2812b_sk6805_1515,led1,ws2812b_sk6805_1515,sk6805_1515,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 10,,ws2812b_sk6805_1515,led1,ws2812b_sk6805_1515,sk6805_1515,1,_,,
 - all: 11,,mosfet_n_sc70,q1,bss138,sc70,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 11,,mosfet_n_sc70,q1,bss138,sc70,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,,mosfet_n_sc70,q1,bss138,sc70,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 11,,mosfet_n_sc70,q1,bss138,sc70,1,_,,
 - all: 12,,mosfet_p,q3,dmg3415u,sot23_r,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 12,,mosfet_p,q3,dmg3415u,sot23_r,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,,mosfet_p,q3,dmg3415u,sot23_r,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 12,,mosfet_p,q3,dmg3415u,sot23_r,1,_,,
 - all: 13,,resistor_0603_noout,r9,22ohm,0603_no,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 13,,resistor_0603_noout,r9,22ohm,0603_no,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,,resistor_0603_noout,r9,22ohm,0603_no,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 13,,resistor_0603_noout,r9,22ohm,0603_no,1,_,,
 - all: 14,,resistor_0603_noout,r2_r4_r5_r8_r10,5_1k,0603_no,5,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 14,,resistor_0603_noout,r2_r4_r5_r8_r10,5_1k,0603_no,5,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 14,,resistor_0603_noout,r2_r4_r5_r8_r10,5_1k,0603_no,5,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 14,,resistor_0603_noout,r2_r4_r5_r8_r10,5_1k,0603_no,5,_,,
 - all: 15,,resistor_0603_noout,r1,10k,0603_no,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 15,,resistor_0603_noout,r1,10k,0603_no,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 15,,resistor_0603_noout,r1,10k,0603_no,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 15,,resistor_0603_noout,r1,10k,0603_no,1,_,,
 - all: 16,,resistor_4pack,r13,10k_pack,respack_4x0603,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 16,,resistor_4pack,r13,10k_pack,respack_4x0603,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 16,,resistor_4pack,r13,10k_pack,respack_4x0603,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 16,,resistor_4pack,r13,10k_pack,respack_4x0603,1,_,,
 - all: 17,,resistor_0603_noout,r7_r12,100k,0603_no,2,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 17,,resistor_0603_noout,r7_r12,100k,0603_no,2,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 17,,resistor_0603_noout,r7_r12,100k,0603_no,2,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 17,,resistor_0603_noout,r7_r12,100k,0603_no,2,_,,
 - all: 18,,resistor_0603_noout,r17,1meg,0603_no,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 18,,resistor_0603_noout,r17,1meg,0603_no,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 18,,resistor_0603_noout,r17,1meg,0603_no,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 18,,resistor_0603_noout,r17,1meg,0603_no,1,_,,
 - all: 19,,switch_tact_smt_rkb2,sw1_sw2_sw3_sw4_sw5,kmr2,btn_rkb2_4_6x2_8,5,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 19,,switch_tact_smt_rkb2,sw1_sw2_sw3_sw4_sw5,kmr2,btn_rkb2_4_6x2_8,5,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 19,,switch_tact_smt_rkb2,sw1_sw2_sw3_sw4_sw5,kmr2,btn_rkb2_4_6x2_8,5,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 19,,switch_tact_smt_rkb2,sw1_sw2_sw3_sw4_sw5,kmr2,btn_rkb2_4_6x2_8,5,_,,
 - all: 20,,bme280,u4,bme280,bme280,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 20,,bme280,u4,bme280,bme280,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 20,,bme280,u4,bme280,bme280,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 20,,bme280,u4,bme280,bme280,1,_,,
 - all: 21,,esp32_s3_mini_1,u1,esp32_s3_mini_1,esp32_s2_mini_1,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 21,,esp32_s3_mini_1,u1,esp32_s3_mini_1,esp32_s2_mini_1,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 21,,esp32_s3_mini_1,u1,esp32_s3_mini_1,esp32_s2_mini_1,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 21,,esp32_s3_mini_1,u1,esp32_s3_mini_1,esp32_s2_mini_1,1,_,,
 - all: 22,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 22,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 22,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 22,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,,
 - all: 23,,vreg_sot23_5,u2_u5,rt9080_ap2112_3_3,sot23_5,2,_,,0_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 23,,vreg_sot23_5,u2_u5,rt9080_ap2112_3_3,sot23_5,2,_,,0
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 23,,vreg_sot23_5,u2_u5,rt9080_ap2112_3_3,sot23_5,2,_,,0_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 23,,vreg_sot23_5,u2_u5,rt9080_ap2112_3_3,sot23_5,2,_,,0
 - all: 24,,con_jst_ph_2pin_mt_batt,x1,con_jst_ph_2pin_mt_batt,jstph2_batt,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 24,,con_jst_ph_2pin_mt_batt,x1,con_jst_ph_2pin_mt_batt,jstph2_batt,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 24,,con_jst_ph_2pin_mt_batt,x1,con_jst_ph_2pin_mt_batt,jstph2_batt,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 24,,con_jst_ph_2pin_mt_batt,x1,con_jst_ph_2pin_mt_batt,jstph2_batt,1,_,,
 - all: 25,,max17048_t,x2,max17048_t,tdfn8_2x2mm,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 25,,max17048_t,x2,max17048_t,tdfn8_2x2mm,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 25,,max17048_t,x2,max17048_t,tdfn8_2x2mm,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 25,,max17048_t,x2,max17048_t,tdfn8_2x2mm,1,_,,
 - all: 26,,usb_c,x3,usb_c,usb_c_cusb31_cfm2ax_01_x,1,_,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 26,,usb_c,x3,usb_c,usb_c_cusb31_cfm2ax_01_x,1,_,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 26,,usb_c,x3,usb_c,usb_c_cusb31_cfm2ax_01_x,1,_,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: 26,,usb_c,x3,usb_c,usb_c_cusb31_cfm2ax_01_x,1,_,,
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: revision_,
 - all: date_,2023_08_02_17_08_33_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: date_,2023_08_02_17_08_33
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: date_,2023_08_02_17_08_33_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: date_,2023_08_02_17_08_33
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: statistics_
 - all: component_groups_,26_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: component_groups_,26
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: component_groups_,26_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: component_groups_,26
 - all: component_count_,46_(0_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: component_count_,46_(0_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: component_count_,46_(0_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: component_count_,46_(0_smd_0_tht)
 - all: fitted_components_,46_(0_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: fitted_components_,46_(0_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: fitted_components_,46_(0_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: fitted_components_,46_(0_smd_0_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: number_of_pcbs_,1
 - all: total_components_,46_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: total_components_,46
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: total_components_,46_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,jlc_rotation: total_components_,46
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
 projects_flat: projects_flat/adafruit_adafruit_esp32_s3_reverse_tft_feather_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_esp32_s3_reverse_tft_feather_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-ESP32-S3-Reverse-TFT-Feather-PCB/version_current/working

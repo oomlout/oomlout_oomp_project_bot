@@ -13,56 +13,128 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\asukiaaa_atmega328pb_bread_board\version_current\working
 oomp_key: oomp_projects_flat_asukiaaa_atmega328pb_bread_board
 oomp_key_simple: projects_flat_asukiaaa_atmega328pb_bread_board
-parts_verbose:
+parts_oomp:
 - all: 1_r1_r_0603_1608metric_1_10k___
-  designation: 10k
   designator: r1
-  footprint: r_0603_1608metric
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_r1_r_0603_1608metric_1_10k___
+    designation: 10k
+    designator: r1
+    footprint: r_0603_1608metric
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_c3,c2,c1_c_0402_1005metric_3_0_1uf___
-  designation: 0_1uf
   designator: c3
-  footprint: c_0402_1005metric
-  id: '2'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_c3,c2,c1_c_0402_1005metric_3_0_1uf___
+    designation: 0_1uf
+    designator: c3
+    footprint: c_0402_1005metric
+    id: '2'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 2_c3,c2,c1_c_0402_1005metric_3_0_1uf___
-  designation: 0_1uf
   designator: c2
-  footprint: c_0402_1005metric
-  id: '2'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_c3,c2,c1_c_0402_1005metric_3_0_1uf___
+    designation: 0_1uf
+    designator: c2
+    footprint: c_0402_1005metric
+    id: '2'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 2_c3,c2,c1_c_0402_1005metric_3_0_1uf___
-  designation: 0_1uf
   designator: c1
-  footprint: c_0402_1005metric
-  id: '2'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 2_c3,c2,c1_c_0402_1005metric_3_0_1uf___
+    designation: 0_1uf
+    designator: c1
+    footprint: c_0402_1005metric
+    id: '2'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 3_u1_qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm_1_atmega328pb_mu___
-  designation: atmega328pb_mu
   designator: u1
-  footprint: qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part:
+    classification: electronic
+    color: mcu
+    description_extra: ''
+    description_main: atmega328
+    directory: parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
+    distributors: []
+    footprint:
+    - directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm//working/working.kicad_mod
+      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
+      oomp_key: oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
+    id: electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
+    make_files: true
+    manufacturer: microchip
+    md5: b802d6a3b9fd3d65125bca9ef558c5ec
+    md5_10: b802d6a3b9
+    md5_5: b802d
+    md5_6: b802d6
+    name: Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mur
+    oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
+    part_number: atmega328p_mur
+    short_code: imlf32at328
+    short_name: atmega328 32 pin mlf
+    size: mlf_32
+    symbol:
+    - directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym
+      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m
+      oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m
+    type: ic
+  oomp_part_id: electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
+  part_verbose: &id005
+    all: 3_u1_qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm_1_atmega328pb_mu___
+    designation: atmega328pb_mu
+    designator: u1
+    footprint: qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_j2,j1_pinsocket_1x17_p2_54mm_vertical_2_conn_01x17___
-  designation: conn_01x17
   designator: j2
-  footprint: pinsocket_1x17_p2_54mm_vertical
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 4_j2,j1_pinsocket_1x17_p2_54mm_vertical_2_conn_01x17___
+    designation: conn_01x17
+    designator: j2
+    footprint: pinsocket_1x17_p2_54mm_vertical
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 4_j2,j1_pinsocket_1x17_p2_54mm_vertical_2_conn_01x17___
-  designation: conn_01x17
   designator: j1
-  footprint: pinsocket_1x17_p2_54mm_vertical
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 4_j2,j1_pinsocket_1x17_p2_54mm_vertical_2_conn_01x17___
+    designation: conn_01x17
+    designator: j1
+    footprint: pinsocket_1x17_p2_54mm_vertical
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
 projects_flat: projects_flat/asukiaaa_atmega328pb_bread_board/version_current/working
 projects_folder: projects_folder/asukiaaa/ATmega328PB-bread-board/version_current/working
 repo:

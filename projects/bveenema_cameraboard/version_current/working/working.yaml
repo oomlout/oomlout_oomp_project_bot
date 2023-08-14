@@ -13,28 +13,47 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\bveenema_cameraboard\version_current\working
 oomp_key: oomp_projects_flat_bveenema_cameraboard
 oomp_key_simple: projects_flat_bveenema_cameraboard
-parts_verbose:
+parts_oomp:
 - all: 1_j1_te_1_84953_5_1x15_p1_0mm_horizontal_1_camera___
-  designation: camera
   designator: j1
-  footprint: te_1_84953_5_1x15_p1_0mm_horizontal
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_j1_te_1_84953_5_1x15_p1_0mm_horizontal_1_camera___
+    designation: camera
+    designator: j1
+    footprint: te_1_84953_5_1x15_p1_0mm_horizontal
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_j2_jst_ph_s3b_ph_sm4_tb_03x2_00mm_angled_1_motion___
-  designation: motion
   designator: j2
-  footprint: jst_ph_s3b_ph_sm4_tb_03x2_00mm_angled
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_j2_jst_ph_s3b_ph_sm4_tb_03x2_00mm_angled_1_motion___
+    designation: motion
+    designator: j2
+    footprint: jst_ph_s3b_ph_sm4_tb_03x2_00mm_angled
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_j3_te_2_84953_0_1x20_p1_0mm_horizontal_1_camera_motion___
-  designation: camera_motion
   designator: j3
-  footprint: te_2_84953_0_1x20_p1_0mm_horizontal
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_j3_te_2_84953_0_1x20_p1_0mm_horizontal_1_camera_motion___
+    designation: camera_motion
+    designator: j3
+    footprint: te_2_84953_0_1x20_p1_0mm_horizontal
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
 projects_flat: projects_flat/bveenema_cameraboard/version_current/working
 projects_folder: projects_folder/bveenema/CameraBoard/version_current/working
 repo:

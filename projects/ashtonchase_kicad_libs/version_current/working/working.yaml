@@ -13,35 +13,60 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ashtonchase_kicad_libs\version_current\working
 oomp_key: oomp_projects_flat_ashtonchase_kicad_libs
 oomp_key_simple: projects_flat_ashtonchase_kicad_libs
+parts_oomp:
+- all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
+  designator: ref_
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
+    designation: 3mm_npth
+    designator: ref_
+    footprint: 3mm_npth
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
+- all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
+  designator: ref_
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
+    designation: 3mm_npth
+    designator: ref_
+    footprint: 3mm_npth
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
+- all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
+  designator: ref_
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
+    designation: 3mm_npth
+    designator: ref_
+    footprint: 3mm_npth
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
+- all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
+  designator: ref_
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
+    designation: 3mm_npth
+    designator: ref_
+    footprint: 3mm_npth
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 parts_verbose:
-- all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
-  designation: 3mm_npth
-  designator: ref_
-  footprint: 3mm_npth
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
-- all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
-  designation: 3mm_npth
-  designator: ref_
-  footprint: 3mm_npth
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
-- all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
-  designation: 3mm_npth
-  designator: ref_
-  footprint: 3mm_npth
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
-- all: 1_ref_,ref_,ref_,ref__3mm_npth_4_3mm_npth___
-  designation: 3mm_npth
-  designator: ref_
-  footprint: 3mm_npth
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+- *id001
+- *id002
+- *id003
+- *id004
 projects_flat: projects_flat/ashtonchase_kicad_libs/version_current/working
 projects_folder: projects_folder/ashtonchase/kicad_libs/version_current/working
 repo:

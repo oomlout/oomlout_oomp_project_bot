@@ -1,0 +1,76 @@
+(version 1)
+(rule "class 0:0"
+  (condition "A.NetClass == 'default' && B.NetClass == 'Default'")
+  (constraint clearance (min 0.11mm)))
+
+(rule "class 1:1"
+  (condition "A.NetClass == 'power' && B.NetClass == 'power'")
+  (constraint clearance (min 0.18mm)))
+
+(rule "class 2:0"
+  (condition "A.NetClass == 'ground' && B.NetClass == 'Default'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 2:1"
+  (condition "A.NetClass == 'ground' && B.NetClass == 'power'")
+  (constraint clearance (min 0.11mm)))
+
+(rule "class 3:0"
+  (condition "A.NetClass == 'analog' && B.NetClass == 'Default'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 3:1"
+  (condition "A.NetClass == 'analog' && B.NetClass == 'power'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 3:2"
+  (condition "A.NetClass == 'analog' && B.NetClass == 'ground'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 3:3"
+  (condition "A.NetClass == 'analog' && B.NetClass == 'analog'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 4:0"
+  (condition "A.NetClass == 'HS_digital' && B.NetClass == 'Default'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 4:1"
+  (condition "A.NetClass == 'HS_digital' && B.NetClass == 'power'")
+  (constraint clearance (min 0.3mm)))
+
+(rule "class 4:2"
+  (condition "A.NetClass == 'HS_digital' && B.NetClass == 'ground'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 4:3"
+  (condition "A.NetClass == 'HS_digital' && B.NetClass == 'analog'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 4:4"
+  (condition "A.NetClass == 'HS_digital' && B.NetClass == 'HS_digital'")
+  (constraint clearance (min 0.15mm)))
+
+(rule "class 5:0"
+  (condition "A.NetClass == 'usb_diff' && B.NetClass == 'Default'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 5:1"
+  (condition "A.NetClass == 'usb_diff' && B.NetClass == 'power'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 5:2"
+  (condition "A.NetClass == 'usb_diff' && B.NetClass == 'ground'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 5:3"
+  (condition "A.NetClass == 'usb_diff' && B.NetClass == 'analog'")
+  (constraint clearance (min 0.2mm)))
+
+(rule "class 5:4"
+  (condition "A.NetClass == 'usb_diff' && B.NetClass == 'HS_digital'")
+  (constraint clearance (min 0.4mm)))
+
+(rule "class 5:5"
+  (condition "A.NetClass == 'usb_diff' && B.NetClass == 'usb_diff'")
+  (constraint clearance (min 0.15mm)))

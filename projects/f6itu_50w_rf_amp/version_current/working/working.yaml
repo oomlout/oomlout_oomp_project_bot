@@ -13,100 +13,395 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\f6itu_50w_rf_amp\version_current\working
 oomp_key: oomp_projects_flat_f6itu_50w_rf_amp
 oomp_key_simple: projects_flat_f6itu_50w_rf_amp
-parts_verbose:
+parts_oomp:
 - all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c4_c6,10n,c_0805_2012metric_pad1_18x1_45mm_handsolder,4,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c4_c6,10n,c_0805_2012metric_pad1_18x1_45mm_handsolder,4,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c4_c6,10n,c_0805_2012metric_pad1_18x1_45mm_handsolder,4,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c4_c6,10n,c_0805_2012metric_pad1_18x1_45mm_handsolder,4,_,~
 - all: 2,_unpolarized_capacitor,_small_symbol_,c_small,c3_c5_c7_c11,100n,c_0805_2012metric_pad1_18x1_45mm_handsolder,4,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,_unpolarized_capacitor,_small_symbol_,c_small,c3_c5_c7_c11,100n,c_0805_2012metric_pad1_18x1_45mm_handsolder,4,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,_unpolarized_capacitor,_small_symbol_,c_small,c3_c5_c7_c11,100n,c_0805_2012metric_pad1_18x1_45mm_handsolder,4,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,_unpolarized_capacitor,_small_symbol_,c_small,c3_c5_c7_c11,100n,c_0805_2012metric_pad1_18x1_45mm_handsolder,4,_,~
 - all: 3,_unpolarized_capacitor,_small_symbol_,c_small,c12_c13,100n,c_1206_3216metric_pad1_33x1_80mm_handsolder,2,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,_unpolarized_capacitor,_small_symbol_,c_small,c12_c13,100n,c_1206_3216metric_pad1_33x1_80mm_handsolder,2,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,_unpolarized_capacitor,_small_symbol_,c_small,c12_c13,100n,c_1206_3216metric_pad1_33x1_80mm_handsolder,2,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,_unpolarized_capacitor,_small_symbol_,c_small,c12_c13,100n,c_1206_3216metric_pad1_33x1_80mm_handsolder,2,_,~
 - all: 4,_unpolarized_capacitor,_small_symbol_,c_small,c14_c15_c16_c17_c18_c19_c20_c21_c22_c23_c24_c25_c26_c27_c28_c29,100n,c_1210_3225metric_pad1_33x2_70mm_handsolder,16,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,_unpolarized_capacitor,_small_symbol_,c_small,c14_c15_c16_c17_c18_c19_c20_c21_c22_c23_c24_c25_c26_c27_c28_c29,100n,c_1210_3225metric_pad1_33x2_70mm_handsolder,16,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,_unpolarized_capacitor,_small_symbol_,c_small,c14_c15_c16_c17_c18_c19_c20_c21_c22_c23_c24_c25_c26_c27_c28_c29,100n,c_1210_3225metric_pad1_33x2_70mm_handsolder,16,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,_unpolarized_capacitor,_small_symbol_,c_small,c14_c15_c16_c17_c18_c19_c20_c21_c22_c23_c24_c25_c26_c27_c28_c29,100n,c_1210_3225metric_pad1_33x2_70mm_handsolder,16,_,~
 - all: 5,_unpolarized_capacitor,_small_symbol_,c_small,c30,100n,c_0603_1608metric_pad1_08x0_95mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,_unpolarized_capacitor,_small_symbol_,c_small,c30,100n,c_0603_1608metric_pad1_08x0_95mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,_unpolarized_capacitor,_small_symbol_,c_small,c30,100n,c_0603_1608metric_pad1_08x0_95mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,_unpolarized_capacitor,_small_symbol_,c_small,c30,100n,c_0603_1608metric_pad1_08x0_95mm_handsolder,1,_,~
 - all: 6,_polarized_capacitor,_small_symbol_,c_polarized_small,c8,15u,cp_eia_6032_28_kemet_c_pad2_25x2_35mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,_polarized_capacitor,_small_symbol_,c_polarized_small,c8,15u,cp_eia_6032_28_kemet_c_pad2_25x2_35mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,_polarized_capacitor,_small_symbol_,c_polarized_small,c8,15u,cp_eia_6032_28_kemet_c_pad2_25x2_35mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,_polarized_capacitor,_small_symbol_,c_polarized_small,c8,15u,cp_eia_6032_28_kemet_c_pad2_25x2_35mm_handsolder,1,_,~
 - all: 7,_polarized_capacitor,_small_symbol_,c_polarized_small,c9_c10,100u,cp_eia_7343_31_kemet_d_pad2_25x2_55mm_handsolder,2,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,_polarized_capacitor,_small_symbol_,c_polarized_small,c9_c10,100u,cp_eia_7343_31_kemet_d_pad2_25x2_55mm_handsolder,2,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,_polarized_capacitor,_small_symbol_,c_polarized_small,c9_c10,100u,cp_eia_7343_31_kemet_d_pad2_25x2_55mm_handsolder,2,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,_polarized_capacitor,_small_symbol_,c_polarized_small,c9_c10,100u,cp_eia_7343_31_kemet_d_pad2_25x2_55mm_handsolder,2,_,~
 - all: 8,_diode,_small_symbol_,d_small,d1,1n7002,d_2114_3652metric_pad1_85x3_75mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,_diode,_small_symbol_,d_small,d1,1n7002,d_2114_3652metric_pad1_85x3_75mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,_diode,_small_symbol_,d_small,d1,1n7002,d_2114_3652metric_pad1_85x3_75mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,_diode,_small_symbol_,d_small,d1,1n7002,d_2114_3652metric_pad1_85x3_75mm_handsolder,1,_,~
 - all: 9,_diode,_small_symbol_,d_small,d2,ss11,d_1812_4532metric_pad1_30x3_40mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,_diode,_small_symbol_,d_small,d2,ss11,d_1812_4532metric_pad1_30x3_40mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,_diode,_small_symbol_,d_small,d2,ss11,d_1812_4532metric_pad1_30x3_40mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,_diode,_small_symbol_,d_small,d2,ss11,d_1812_4532metric_pad1_30x3_40mm_handsolder,1,_,~
 - all: 10,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_male,j2_j3,ptt_in,molex_kk_254_ae_6410_02a_1x02_p2_54mm_vertical,2,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_male,j2_j3,ptt_in,molex_kk_254_ae_6410_02a_1x02_p2_54mm_vertical,2,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_male,j2_j3,ptt_in,molex_kk_254_ae_6410_02a_1x02_p2_54mm_vertical,2,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_male,j2_j3,ptt_in,molex_kk_254_ae_6410_02a_1x02_p2_54mm_vertical,2,_,~
 - all: 11,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j1_j4,rf_in,sma_pins,2,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j1_j4,rf_in,sma_pins,2,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j1_j4,rf_in,sma_pins,2,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j1_j4,rf_in,sma_pins,2,_,~
 - all: 12,_800ma_ic,_50v_vce,_npn_transistor,_to_39_,2n2219,q3,2n5109,to_39_3,1,_,http_www_onsemi_com_pub_link_collateral_2n2219_d_pdf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,_800ma_ic,_50v_vce,_npn_transistor,_to_39_,2n2219,q3,2n5109,to_39_3,1,_,http_www_onsemi_com_pub_link_collateral_2n2219_d_pdf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,_800ma_ic,_50v_vce,_npn_transistor,_to_39_,2n2219,q3,2n5109,to_39_3,1,_,http_www_onsemi_com_pub_link_collateral_2n2219_d_pdf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,_800ma_ic,_50v_vce,_npn_transistor,_to_39_,2n2219,q3,2n5109,to_39_3,1,_,http_www_onsemi_com_pub_link_collateral_2n2219_d_pdf
 - all: 13,_n_mosfet_transistor,_gate_source_drain_,q_nmos_gsd,q1,2n7002,sot_23_handsoldering,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,_n_mosfet_transistor,_gate_source_drain_,q_nmos_gsd,q1,2n7002,sot_23_handsoldering,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,_n_mosfet_transistor,_gate_source_drain_,q_nmos_gsd,q1,2n7002,sot_23_handsoldering,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,_n_mosfet_transistor,_gate_source_drain_,q_nmos_gsd,q1,2n7002,sot_23_handsoldering,1,_,~
 - all: 14,_1a_ic,_80v_vce,_npn_medium_power_transistor,_sot_89_,bcx56,q5,2sc5551a,sot_89_3,1,_,http_cache_nxp_com_documents_data_sheet_bcp56_bcx56_bc56pa_pdf_pspll=1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,_1a_ic,_80v_vce,_npn_medium_power_transistor,_sot_89_,bcx56,q5,2sc5551a,sot_89_3,1,_,http_cache_nxp_com_documents_data_sheet_bcp56_bcx56_bc56pa_pdf_pspll=1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 14,_1a_ic,_80v_vce,_npn_medium_power_transistor,_sot_89_,bcx56,q5,2sc5551a,sot_89_3,1,_,http_cache_nxp_com_documents_data_sheet_bcp56_bcx56_bc56pa_pdf_pspll=1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,_1a_ic,_80v_vce,_npn_medium_power_transistor,_sot_89_,bcx56,q5,2sc5551a,sot_89_3,1,_,http_cache_nxp_com_documents_data_sheet_bcp56_bcx56_bc56pa_pdf_pspll=1
 - all: 15,_dual_n_mosfet_transistor,_drain_gate_source_,afp05mp075n,q4,aft05mp075n,aft05mp075n,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,_dual_n_mosfet_transistor,_drain_gate_source_,afp05mp075n,q4,aft05mp075n,aft05mp075n,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 15,_dual_n_mosfet_transistor,_drain_gate_source_,afp05mp075n,q4,aft05mp075n,aft05mp075n,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,_dual_n_mosfet_transistor,_drain_gate_source_,afp05mp075n,q4,aft05mp075n,aft05mp075n,1,_,~
 - all: 16,_p_mosfet_transistor,_gate_drain_source_,q_pmos_gds,q2,fdd6685,to_252_2,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,_p_mosfet_transistor,_gate_drain_source_,q_pmos_gds,q2,fdd6685,to_252_2,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 16,_p_mosfet_transistor,_gate_drain_source_,q_pmos_gds,q2,fdd6685,to_252_2,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,_p_mosfet_transistor,_gate_drain_source_,q_pmos_gds,q2,fdd6685,to_252_2,1,_,~
 - all: 17,_resistor,_small_symbol_,r_small,r8,4r7,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,_resistor,_small_symbol_,r_small,r8,4r7,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 17,_resistor,_small_symbol_,r_small,r8,4r7,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,_resistor,_small_symbol_,r_small,r8,4r7,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
 - all: 18,_resistor,_small_symbol_,r_small,r5,8_2r,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,_resistor,_small_symbol_,r_small,r5,8_2r,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 18,_resistor,_small_symbol_,r_small,r5,8_2r,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,_resistor,_small_symbol_,r_small,r5,8_2r,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
 - all: 19,_resistor,_small_symbol_,r_small,r10_r12_r13,10r,r_0805_2012metric_pad1_20x1_40mm_handsolder,3,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,_resistor,_small_symbol_,r_small,r10_r12_r13,10r,r_0805_2012metric_pad1_20x1_40mm_handsolder,3,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 19,_resistor,_small_symbol_,r_small,r10_r12_r13,10r,r_0805_2012metric_pad1_20x1_40mm_handsolder,3,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,_resistor,_small_symbol_,r_small,r10_r12_r13,10r,r_0805_2012metric_pad1_20x1_40mm_handsolder,3,_,~
 - all: 20,_resistor,_small_symbol_,r_small,r16,10r,r_0603_1608metric_pad0_98x0_95mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,_resistor,_small_symbol_,r_small,r16,10r,r_0603_1608metric_pad0_98x0_95mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 20,_resistor,_small_symbol_,r_small,r16,10r,r_0603_1608metric_pad0_98x0_95mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,_resistor,_small_symbol_,r_small,r16,10r,r_0603_1608metric_pad0_98x0_95mm_handsolder,1,_,~
 - all: 21,_resistor,_small_symbol_,r_small,r14_r15,220,r_2816_7142metric_pad3_20x4_45mm_handsolder,2,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,_resistor,_small_symbol_,r_small,r14_r15,220,r_2816_7142metric_pad3_20x4_45mm_handsolder,2,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 21,_resistor,_small_symbol_,r_small,r14_r15,220,r_2816_7142metric_pad3_20x4_45mm_handsolder,2,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,_resistor,_small_symbol_,r_small,r14_r15,220,r_2816_7142metric_pad3_20x4_45mm_handsolder,2,_,~
 - all: 22,_resistor,_small_symbol_,r_small,r7,220,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,_resistor,_small_symbol_,r_small,r7,220,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 22,_resistor,_small_symbol_,r_small,r7,220,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,_resistor,_small_symbol_,r_small,r7,220,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
 - all: 23,_resistor,_small_symbol_,r_small,r9,270r,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,_resistor,_small_symbol_,r_small,r9,270r,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 23,_resistor,_small_symbol_,r_small,r9,270r,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,_resistor,_small_symbol_,r_small,r9,270r,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
 - all: 24,_resistor,_small_symbol_,r_small,r11,330,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 24,_resistor,_small_symbol_,r_small,r11,330,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 24,_resistor,_small_symbol_,r_small,r11,330,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 24,_resistor,_small_symbol_,r_small,r11,330,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
 - all: 25,_resistor,_small_symbol_,r_small,r6,1k3,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 25,_resistor,_small_symbol_,r_small,r6,1k3,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 25,_resistor,_small_symbol_,r_small,r6,1k3,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 25,_resistor,_small_symbol_,r_small,r6,1k3,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
 - all: 26,_resistor,_small_symbol_,r_small,r1_r2_r3_r4,10k,r_0805_2012metric_pad1_20x1_40mm_handsolder,4,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 26,_resistor,_small_symbol_,r_small,r1_r2_r3_r4,10k,r_0805_2012metric_pad1_20x1_40mm_handsolder,4,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 26,_resistor,_small_symbol_,r_small,r1_r2_r3_r4,10k,r_0805_2012metric_pad1_20x1_40mm_handsolder,4,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 26,_resistor,_small_symbol_,r_small,r1_r2_r3_r4,10k,r_0805_2012metric_pad1_20x1_40mm_handsolder,4,_,~
 - all: 27,potentiometer,r_potentiometer_small,rv1,1k,potentiometer_bourns_tc33x_vertical,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 27,potentiometer,r_potentiometer_small,rv1,1k,potentiometer_bourns_tc33x_vertical,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 27,potentiometer,r_potentiometer_small,rv1,1k,potentiometer_bourns_tc33x_vertical,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 27,potentiometer,r_potentiometer_small,rv1,1k,potentiometer_bourns_tc33x_vertical,1,_,~
 - all: 28,_transformer,_split_,autotransfo,t2,1_1,bn_61_202,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 28,_transformer,_split_,autotransfo,t2,1_1,bn_61_202,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 28,_transformer,_split_,autotransfo,t2,1_1,bn_61_202,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 28,_transformer,_split_,autotransfo,t2,1_1,bn_61_202,1,_,~
 - all: 29,_transformer,_single_primary,_single_secondary_,transformer_1p_1s,t3,1_9,dual_fb_61_4852,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 29,_transformer,_single_primary,_single_secondary_,transformer_1p_1s,t3,1_9,dual_fb_61_4852,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 29,_transformer,_single_primary,_single_secondary_,transformer_1p_1s,t3,1_9,dual_fb_61_4852,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 29,_transformer,_single_primary,_single_secondary_,transformer_1p_1s,t3,1_9,dual_fb_61_4852,1,_,~
 - all: 30,_transformer,_split_,autotransfo,t1,4_1,bn_43_2402,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 30,_transformer,_split_,autotransfo,t1,4_1,bn_43_2402,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 30,_transformer,_split_,autotransfo,t1,4_1,bn_43_2402,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 30,_transformer,_split_,autotransfo,t1,4_1,bn_43_2402,1,_,~
 - all: 31,_0_3_300mhz_1_1_rf_transformer,_unbalanced_to_balanced_center_tap_at_primary_secondary,_cd542_,adtt1_1,tr1,4_1,bn_43_1502,1,_,https_www_minicircuits_com_pdfs_adtt1_1_pdf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 31,_0_3_300mhz_1_1_rf_transformer,_unbalanced_to_balanced_center_tap_at_primary_secondary,_cd542_,adtt1_1,tr1,4_1,bn_43_1502,1,_,https_www_minicircuits_com_pdfs_adtt1_1_pdf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 31,_0_3_300mhz_1_1_rf_transformer,_unbalanced_to_balanced_center_tap_at_primary_secondary,_cd542_,adtt1_1,tr1,4_1,bn_43_1502,1,_,https_www_minicircuits_com_pdfs_adtt1_1_pdf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 31,_0_3_300mhz_1_1_rf_transformer,_unbalanced_to_balanced_center_tap_at_primary_secondary,_cd542_,adtt1_1,tr1,4_1,bn_43_1502,1,_,https_www_minicircuits_com_pdfs_adtt1_1_pdf
 - all: 32,_positive_500ma_35v_linear_regulator,_fixed_output_5v,_to_252_(d_pak)_,lm78m05_to252,u1,lm78m05_to252,to_252_2,1,_,https_www_onsemi_com_pub_collateral_mc78m00_d_pdf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 32,_positive_500ma_35v_linear_regulator,_fixed_output_5v,_to_252_(d_pak)_,lm78m05_to252,u1,lm78m05_to252,to_252_2,1,_,https_www_onsemi_com_pub_collateral_mc78m00_d_pdf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: 32,_positive_500ma_35v_linear_regulator,_fixed_output_5v,_to_252_(d_pak)_,lm78m05_to252,u1,lm78m05_to252,to_252_2,1,_,https_www_onsemi_com_pub_collateral_mc78m00_d_pdf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 32,_positive_500ma_35v_linear_regulator,_fixed_output_5v,_to_252_(d_pak)_,lm78m05_to252,u1,lm78m05_to252,to_252_2,1,_,https_www_onsemi_com_pub_collateral_mc78m00_d_pdf
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
 - all: date_,2023_08_02_17_08_57_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_57
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: date_,2023_08_02_17_08_57_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_57
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id044
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
 - all: component_groups_,32_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,32
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id045
+    all: component_groups_,32_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,32
 - all: component_count_,63_(58_smd_5_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,63_(58_smd_5_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id046
+    all: component_count_,63_(58_smd_5_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,63_(58_smd_5_tht)
 - all: fitted_components_,63_(58_smd_5_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,63_(58_smd_5_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id047
+    all: fitted_components_,63_(58_smd_5_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,63_(58_smd_5_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id048
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
 - all: total_components_,63_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,63
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id049
+    all: total_components_,63_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,63
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
+- *id049
 projects_flat: projects_flat/f6itu_50w_rf_amp/version_current/working
 projects_folder: projects_folder/F6ITU/50W_RF_Amp/version_current/working
 repo:

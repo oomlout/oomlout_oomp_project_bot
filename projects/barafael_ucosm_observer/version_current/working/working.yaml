@@ -13,28 +13,47 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\barafael_ucosm_observer\version_current\working
 oomp_key: oomp_projects_flat_barafael_ucosm_observer
 oomp_key_simple: projects_flat_barafael_ucosm_observer
-parts_verbose:
+parts_oomp:
 - all: 1_u3_xcvr_mdx_stwbp_r01_1_mdx_stwbp_r01___
-  designation: mdx_stwbp_r01
   designator: u3
-  footprint: xcvr_mdx_stwbp_r01
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_u3_xcvr_mdx_stwbp_r01_1_mdx_stwbp_r01___
+    designation: mdx_stwbp_r01
+    designator: u3
+    footprint: xcvr_mdx_stwbp_r01
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_u1_scd30_1_scd30___
-  designation: scd30
   designator: u1
-  footprint: scd30
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_u1_scd30_1_scd30___
+    designation: scd30
+    designator: u1
+    footprint: scd30
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_u2_sgp40_sparkx_breakout_1_sgp40___
-  designation: sgp40
   designator: u2
-  footprint: sgp40_sparkx_breakout
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_u2_sgp40_sparkx_breakout_1_sgp40___
+    designation: sgp40
+    designator: u2
+    footprint: sgp40_sparkx_breakout
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
 projects_flat: projects_flat/barafael_ucosm_observer/version_current/working
 projects_folder: projects_folder/barafael/uCosm-observer/version_current/working
 repo:

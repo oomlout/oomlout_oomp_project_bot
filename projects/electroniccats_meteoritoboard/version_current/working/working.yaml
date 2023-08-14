@@ -13,105 +13,190 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_meteoritoboard\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_meteoritoboard
 oomp_key_simple: projects_flat_electroniccats_meteoritoboard
-parts_verbose:
+parts_oomp:
 - all: 1_u1_esp32_devkit_1_esp32_devkit___
-  designation: esp32_devkit
   designator: u1
-  footprint: esp32_devkit
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_u1_esp32_devkit_1_esp32_devkit___
+    designation: esp32_devkit
+    designator: u1
+    footprint: esp32_devkit
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_r2_r_axial_din0204_l3_6mm_d1_6mm_p7_62mm_horizontal_1_100___
-  designation: '100'
   designator: r2
-  footprint: r_axial_din0204_l3_6mm_d1_6mm_p7_62mm_horizontal
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_r2_r_axial_din0204_l3_6mm_d1_6mm_p7_62mm_horizontal_1_100___
+    designation: '100'
+    designator: r2
+    footprint: r_axial_din0204_l3_6mm_d1_6mm_p7_62mm_horizontal
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_r1_r_axial_din0204_l3_6mm_d1_6mm_p2_54mm_vertical_1_fotoresistencia___
-  designation: fotoresistencia
   designator: r1
-  footprint: r_axial_din0204_l3_6mm_d1_6mm_p2_54mm_vertical
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_r1_r_axial_din0204_l3_6mm_d1_6mm_p2_54mm_vertical_1_fotoresistencia___
+    designation: fotoresistencia
+    designator: r1
+    footprint: r_axial_din0204_l3_6mm_d1_6mm_p2_54mm_vertical
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_p6,p5_pinheader_1x04_p2_54mm_vertical_2_precipitacion___
-  designation: precipitacion
   designator: p6
-  footprint: pinheader_1x04_p2_54mm_vertical
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4_p6,p5_pinheader_1x04_p2_54mm_vertical_2_precipitacion___
+    designation: precipitacion
+    designator: p6
+    footprint: pinheader_1x04_p2_54mm_vertical
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 4_p6,p5_pinheader_1x04_p2_54mm_vertical_2_precipitacion___
-  designation: precipitacion
   designator: p5
-  footprint: pinheader_1x04_p2_54mm_vertical
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_p6,p5_pinheader_1x04_p2_54mm_vertical_2_precipitacion___
+    designation: precipitacion
+    designator: p5
+    footprint: pinheader_1x04_p2_54mm_vertical
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 5_p4_pinheader_1x04_p2_54mm_vertical_1_velocidad___
-  designation: velocidad
   designator: p4
-  footprint: pinheader_1x04_p2_54mm_vertical
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_p4_pinheader_1x04_p2_54mm_vertical_1_velocidad___
+    designation: velocidad
+    designator: p4
+    footprint: pinheader_1x04_p2_54mm_vertical
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_p3_pinheader_1x04_p2_54mm_vertical_1_bmp180___
-  designation: bmp180
   designator: p3
-  footprint: pinheader_1x04_p2_54mm_vertical
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 6_p3_pinheader_1x04_p2_54mm_vertical_1_bmp180___
+    designation: bmp180
+    designator: p3
+    footprint: pinheader_1x04_p2_54mm_vertical
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_p2_pinheader_1x05_p2_54mm_vertical_1_gy_ml8511___
-  designation: gy_ml8511
   designator: p2
-  footprint: pinheader_1x05_p2_54mm_vertical
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 7_p2_pinheader_1x05_p2_54mm_vertical_1_gy_ml8511___
+    designation: gy_ml8511
+    designator: p2
+    footprint: pinheader_1x05_p2_54mm_vertical
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_p1_pinheader_1x03_p2_54mm_vertical_1_dh22___
-  designation: dh22
   designator: p1
-  footprint: pinheader_1x03_p2_54mm_vertical
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 8_p1_pinheader_1x03_p2_54mm_vertical_1_dh22___
+    designation: dh22
+    designator: p1
+    footprint: pinheader_1x03_p2_54mm_vertical
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_g__meteorito_1_logo___
-  designation: logo
   designator: g_
-  footprint: meteorito
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 9_g__meteorito_1_logo___
+    designation: logo
+    designator: g_
+    footprint: meteorito
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_g__electronic_cats_logo_8x6_1_logo___
-  designation: logo
   designator: g_
-  footprint: electronic_cats_logo_8x6
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 10_g__electronic_cats_logo_8x6_1_logo___
+    designation: logo
+    designator: g_
+    footprint: electronic_cats_logo_8x6
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_g__hacedores_1_logo___
-  designation: logo
   designator: g_
-  footprint: hacedores
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 11_g__hacedores_1_logo___
+    designation: logo
+    designator: g_
+    footprint: hacedores
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_g__redmet_1_logo___
-  designation: logo
   designator: g_
-  footprint: redmet
-  id: '12'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 12_g__redmet_1_logo___
+    designation: logo
+    designator: g_
+    footprint: redmet
+    id: '12'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 13_svg2mod_titule_electronic_med_1_electronic___
-  designation: electronic
   designator: svg2mod
-  footprint: titule_electronic_med
-  id: '13'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 13_svg2mod_titule_electronic_med_1_electronic___
+    designation: electronic
+    designator: svg2mod
+    footprint: titule_electronic_med
+    id: '13'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
 projects_flat: projects_flat/electroniccats_meteoritoboard/version_current/working
 projects_folder: projects_folder/ElectronicCats/meteoritoboard/version_current/working
 repo:

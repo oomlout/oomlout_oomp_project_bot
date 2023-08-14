@@ -13,42 +13,73 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\asukiaaa_cavitydentureform5stack\version_current\working
 oomp_key: oomp_projects_flat_asukiaaa_cavitydentureform5stack
 oomp_key_simple: projects_flat_asukiaaa_cavitydentureform5stack
-parts_verbose:
+parts_oomp:
 - all: 1_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
-  designation: outer_corner
   designator: corner3
-  footprint: outer_corner
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
+    designation: outer_corner
+    designator: corner3
+    footprint: outer_corner
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 1_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
-  designation: outer_corner
   designator: corner2
-  footprint: outer_corner
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
+    designation: outer_corner
+    designator: corner2
+    footprint: outer_corner
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 1_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
-  designation: outer_corner
   designator: corner4
-  footprint: outer_corner
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 1_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
+    designation: outer_corner
+    designator: corner4
+    footprint: outer_corner
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 1_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
-  designation: outer_corner
   designator: corner1
-  footprint: outer_corner
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 1_corner3,corner2,corner4,corner1_outer_corner_4_outer_corner___
+    designation: outer_corner
+    designator: corner1
+    footprint: outer_corner
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_j1_pads_1x30_p1_27mm_vertical_1_free_holes___
-  designation: free_holes
   designator: j1
-  footprint: pads_1x30_p1_27mm_vertical
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 2_j1_pads_1x30_p1_27mm_vertical_1_free_holes___
+    designation: free_holes
+    designator: j1
+    footprint: pads_1x30_p1_27mm_vertical
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
 projects_flat: projects_flat/asukiaaa_cavitydentureform5stack/version_current/working
 projects_folder: projects_folder/asukiaaa/CavityDentureForM5Stack/version_current/working
 repo:

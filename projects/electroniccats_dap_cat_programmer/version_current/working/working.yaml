@@ -13,64 +13,251 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_dap_cat_programmer\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_dap_cat_programmer
 oomp_key_simple: projects_flat_electroniccats_dap_cat_programmer
-parts_verbose:
+parts_oomp:
 - all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c3,0_1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,https_datasheet_lcsc_com_szlcsc_1810101813_yageo_cc0805krx7r9bb104_c49678_pdf,c49678_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c3,0_1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,https_datasheet_lcsc_com_szlcsc_1810101813_yageo_cc0805krx7r9bb104_c49678_pdf,c49678
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c3,0_1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,https_datasheet_lcsc_com_szlcsc_1810101813_yageo_cc0805krx7r9bb104_c49678_pdf,c49678_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c3,0_1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,https_datasheet_lcsc_com_szlcsc_1810101813_yageo_cc0805krx7r9bb104_c49678_pdf,c49678
 - all: 2,_unpolarized_capacitor,_small_symbol_,c_small,c4_c5,1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1810191216_samsung_electro_mechanics_cl21b105kbfnnne_c28323_pdf,c28323_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 2,_unpolarized_capacitor,_small_symbol_,c_small,c4_c5,1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1810191216_samsung_electro_mechanics_cl21b105kbfnnne_c28323_pdf,c28323
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,_unpolarized_capacitor,_small_symbol_,c_small,c4_c5,1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1810191216_samsung_electro_mechanics_cl21b105kbfnnne_c28323_pdf,c28323_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 2,_unpolarized_capacitor,_small_symbol_,c_small,c4_c5,1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1810191216_samsung_electro_mechanics_cl21b105kbfnnne_c28323_pdf,c28323
 - all: 3,light_emitting_diode,led,d1_d2,led,led_0805_2012metric,2,_,https_datasheet_lcsc_com_szlcsc_1808272351_everlight_elec_17_21surc_s530_a2_tr8_c131244_pdf,c131244_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 3,light_emitting_diode,led,d1_d2,led,led_0805_2012metric,2,_,https_datasheet_lcsc_com_szlcsc_1808272351_everlight_elec_17_21surc_s530_a2_tr8_c131244_pdf,c131244
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,light_emitting_diode,led,d1_d2,led,led_0805_2012metric,2,_,https_datasheet_lcsc_com_szlcsc_1808272351_everlight_elec_17_21surc_s530_a2_tr8_c131244_pdf,c131244_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 3,light_emitting_diode,led,d1_d2,led,led_0805_2012metric,2,_,https_datasheet_lcsc_com_szlcsc_1808272351_everlight_elec_17_21surc_s530_a2_tr8_c131244_pdf,c131244
 - all: 4,_generic_connector,_single_row,_01x05,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x05,j1,debug_output,pinheader_1x05_p2_54mm_horizontal,1,_,~,__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 4,_generic_connector,_single_row,_01x05,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x05,j1,debug_output,pinheader_1x05_p2_54mm_horizontal,1,_,~,_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,_generic_connector,_single_row,_01x05,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x05,j1,debug_output,pinheader_1x05_p2_54mm_horizontal,1,_,~,__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 4,_generic_connector,_single_row,_01x05,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x05,j1,debug_output,pinheader_1x05_p2_54mm_horizontal,1,_,~,_
 - all: 5,,usb_c_plug_usb2_0_connector,p1,usb_c_plug_usb2_0,c393939,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_shou_han_type_c16pin_c393939_pdf,c393939_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 5,,usb_c_plug_usb2_0_connector,p1,usb_c_plug_usb2_0,c393939,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_shou_han_type_c16pin_c393939_pdf,c393939
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,,usb_c_plug_usb2_0_connector,p1,usb_c_plug_usb2_0,c393939,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_shou_han_type_c16pin_c393939_pdf,c393939_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 5,,usb_c_plug_usb2_0_connector,p1,usb_c_plug_usb2_0,c393939,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_shou_han_type_c16pin_c393939_pdf,c393939
 - all: 6,_resistor,_small_symbol_,r_small,r9_r10_r11,70,r_0603_1608metric_pad1_05x0_95mm_handsolder,3,_,~,c429431_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 6,_resistor,_small_symbol_,r_small,r9_r10_r11,70,r_0603_1608metric_pad1_05x0_95mm_handsolder,3,_,~,c429431
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,_resistor,_small_symbol_,r_small,r9_r10_r11,70,r_0603_1608metric_pad1_05x0_95mm_handsolder,3,_,~,c429431_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 6,_resistor,_small_symbol_,r_small,r9_r10_r11,70,r_0603_1608metric_pad1_05x0_95mm_handsolder,3,_,~,c429431
 - all: 7,_resistor,_small_symbol_,r_small,r3_r4_r5,150,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,https_datasheet_lcsc_com_szlcsc_1811081415_ralec_rtt051500ftp_c103997_pdf,c103997_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 7,_resistor,_small_symbol_,r_small,r3_r4_r5,150,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,https_datasheet_lcsc_com_szlcsc_1811081415_ralec_rtt051500ftp_c103997_pdf,c103997
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,_resistor,_small_symbol_,r_small,r3_r4_r5,150,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,https_datasheet_lcsc_com_szlcsc_1811081415_ralec_rtt051500ftp_c103997_pdf,c103997_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 7,_resistor,_small_symbol_,r_small,r3_r4_r5,150,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,https_datasheet_lcsc_com_szlcsc_1811081415_ralec_rtt051500ftp_c103997_pdf,c103997
 - all: 8,_resistor,_small_symbol_,r_small,r7_r8,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1809140835_uni_royal_uniroyal_elec_0805w8j0102t5e_c25623_pdf,c25623_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 8,_resistor,_small_symbol_,r_small,r7_r8,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1809140835_uni_royal_uniroyal_elec_0805w8j0102t5e_c25623_pdf,c25623
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,_resistor,_small_symbol_,r_small,r7_r8,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1809140835_uni_royal_uniroyal_elec_0805w8j0102t5e_c25623_pdf,c25623_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 8,_resistor,_small_symbol_,r_small,r7_r8,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1809140835_uni_royal_uniroyal_elec_0805w8j0102t5e_c25623_pdf,c25623
 - all: 9,_resistor,_small_symbol_,r_small,r1_r2,5_1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1810311431_yageo_rc0805jr_075k1l_c105874_pdf,c105874_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 9,_resistor,_small_symbol_,r_small,r1_r2,5_1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1810311431_yageo_rc0805jr_075k1l_c105874_pdf,c105874
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,_resistor,_small_symbol_,r_small,r1_r2,5_1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1810311431_yageo_rc0805jr_075k1l_c105874_pdf,c105874_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 9,_resistor,_small_symbol_,r_small,r1_r2,5_1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,https_datasheet_lcsc_com_szlcsc_1810311431_yageo_rc0805jr_075k1l_c105874_pdf,c105874
 - all: 10,_resistor,_small_symbol_,r_small,r6,20k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_datasheet_lcsc_com_szlcsc_2007131613_hkr_hong_kong_resistors_rct0520kflf_c702832_pdf,c702832_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 10,_resistor,_small_symbol_,r_small,r6,20k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_datasheet_lcsc_com_szlcsc_2007131613_hkr_hong_kong_resistors_rct0520kflf_c702832_pdf,c702832
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,_resistor,_small_symbol_,r_small,r6,20k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_datasheet_lcsc_com_szlcsc_2007131613_hkr_hong_kong_resistors_rct0520kflf_c702832_pdf,c702832_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 10,_resistor,_small_symbol_,r_small,r6,20k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,https_datasheet_lcsc_com_szlcsc_2007131613_hkr_hong_kong_resistors_rct0520kflf_c702832_pdf,c702832
 - all: 11,_push_button_switch,_generic,_two_pins_,sw_push,sw2,boot,ts1088r02026,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 11,_push_button_switch,_generic,_two_pins_,sw_push,sw2,boot,ts1088r02026,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,_push_button_switch,_generic,_two_pins_,sw_push,sw2,boot,ts1088r02026,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 11,_push_button_switch,_generic,_two_pins_,sw_push,sw2,boot,ts1088r02026,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281
 - all: 12,_push_button_switch,_generic,_two_pins_,sw_push,sw1,rst,ts1088r02026,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 12,_push_button_switch,_generic,_two_pins_,sw_push,sw1,rst,ts1088r02026,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,_push_button_switch,_generic,_two_pins_,sw_push,sw1,rst,ts1088r02026,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 12,_push_button_switch,_generic,_two_pins_,sw_push,sw1,rst,ts1088r02026,1,_,https_datasheet_lcsc_com_szlcsc_1912111437_xunpu_ts_1088r_02526_c455281_pdf,c455281
 - all: 13,,ap2112k_3_3_regulator_linear,u2,ap2112k_3_3,sot_23_5,1,_,https_www_mouser_mx_datasheet_2_115_ap2112_271550_pdf,621_ap2112k_3_3trg1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 13,,ap2112k_3_3_regulator_linear,u2,ap2112k_3_3,sot_23_5,1,_,https_www_mouser_mx_datasheet_2_115_ap2112_271550_pdf,621_ap2112k_3_3trg1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,,ap2112k_3_3_regulator_linear,u2,ap2112k_3_3,sot_23_5,1,_,https_www_mouser_mx_datasheet_2_115_ap2112_271550_pdf,621_ap2112k_3_3trg1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 13,,ap2112k_3_3_regulator_linear,u2,ap2112k_3_3,sot_23_5,1,_,https_www_mouser_mx_datasheet_2_115_ap2112_271550_pdf,621_ap2112k_3_3trg1
 - all: 14,,ch552g_electronic_cats_swd_cat_programmer_rescue_swd_cat_programmer_rescue_swd_cat_programmer_rescue_swd_cat_programmer_rescue,u1,ch552g,sop_16_4_55x10_3mm_p1_27mm,1,_,https_datasheet_lcsc_com_szlcsc_2008191734_wch_jiangsu_qin_heng_ch552g_c111292_pdf,c111292_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 14,,ch552g_electronic_cats_swd_cat_programmer_rescue_swd_cat_programmer_rescue_swd_cat_programmer_rescue_swd_cat_programmer_rescue,u1,ch552g,sop_16_4_55x10_3mm_p1_27mm,1,_,https_datasheet_lcsc_com_szlcsc_2008191734_wch_jiangsu_qin_heng_ch552g_c111292_pdf,c111292
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 14,,ch552g_electronic_cats_swd_cat_programmer_rescue_swd_cat_programmer_rescue_swd_cat_programmer_rescue_swd_cat_programmer_rescue,u1,ch552g,sop_16_4_55x10_3mm_p1_27mm,1,_,https_datasheet_lcsc_com_szlcsc_2008191734_wch_jiangsu_qin_heng_ch552g_c111292_pdf,c111292_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 14,,ch552g_electronic_cats_swd_cat_programmer_rescue_swd_cat_programmer_rescue_swd_cat_programmer_rescue_swd_cat_programmer_rescue,u1,ch552g,sop_16_4_55x10_3mm_p1_27mm,1,_,https_datasheet_lcsc_com_szlcsc_2008191734_wch_jiangsu_qin_heng_ch552g_c111292_pdf,c111292
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: variant_,default
 - all: revision_,1_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: revision_,1_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: revision_,1_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: revision_,1_1
 - all: date_,2020_09_01_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: date_,2020_09_01
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: date_,2020_09_01_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: date_,2020_09_01
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: statistics_
 - all: component_groups_,14_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: component_groups_,14
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: component_groups_,14_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: component_groups_,14
 - all: component_count_,24_(18_smd_2_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: component_count_,24_(18_smd_2_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: component_count_,24_(18_smd_2_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: component_count_,24_(18_smd_2_tht)
 - all: fitted_components_,24_(18_smd_2_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: fitted_components_,24_(18_smd_2_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: fitted_components_,24_(18_smd_2_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: fitted_components_,24_(18_smd_2_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: number_of_pcbs_,1
 - all: total_components_,24_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: total_components_,24
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: total_components_,24_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: total_components_,24
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
 projects_flat: projects_flat/electroniccats_dap_cat_programmer/version_current/working
 projects_folder: projects_folder/ElectronicCats/DAP-Cat-Programmer/version_current/working
 repo:

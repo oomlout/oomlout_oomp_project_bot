@@ -13,52 +13,203 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_microbatterycharger_croquette\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_microbatterycharger_croquette
 oomp_key_simple: projects_flat_electroniccats_microbatterycharger_croquette
-parts_verbose:
+parts_oomp:
 - all: 1,unpolarized_capacitor,c,c1_c2,10uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,~,885012107004_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 1,unpolarized_capacitor,c,c1_c2,10uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,~,885012107004
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,unpolarized_capacitor,c,c1_c2,10uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,~,885012107004_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 1,unpolarized_capacitor,c,c1_c2,10uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,~,885012107004
 - all: 2,light_emitting_diode,led,d1_d2,led,led_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,~,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 2,light_emitting_diode,led,d1_d2,led,led_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,~,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,light_emitting_diode,led,d1_d2,led,led_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,~,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 2,light_emitting_diode,led,d1_d2,led,led_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,~,
 - all: 3,_generic_connector,_single_row,_01x01,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x01_female,j1_j2_j3_j4,vcc,pinheader_1x01_p2_54mm_vertical,4,_,~,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 3,_generic_connector,_single_row,_01x01,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x01_female,j1_j2_j3_j4,vcc,pinheader_1x01_p2_54mm_vertical,4,_,~,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,_generic_connector,_single_row,_01x01,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x01_female,j1_j2_j3_j4,vcc,pinheader_1x01_p2_54mm_vertical,4,_,~,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 3,_generic_connector,_single_row,_01x01,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x01_female,j1_j2_j3_j4,vcc,pinheader_1x01_p2_54mm_vertical,4,_,~,
 - all: 4,resistor,r,r1,330,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,crcw0805330rfkeac_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 4,resistor,r,r1,330,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,crcw0805330rfkeac
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,resistor,r,r1,330,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,crcw0805330rfkeac_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 4,resistor,r,r1,330,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,crcw0805330rfkeac
 - all: 5,resistor,r,r3,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,esr10ezpj102_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 5,resistor,r,r3,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,esr10ezpj102
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,resistor,r,r3,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,esr10ezpj102_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 5,resistor,r,r3,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,esr10ezpj102
 - all: 6,resistor,r,r4,2_5k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,cr0805_fx_2491elf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 6,resistor,r,r4,2_5k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,cr0805_fx_2491elf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,resistor,r,r4,2_5k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,cr0805_fx_2491elf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 6,resistor,r,r4,2_5k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,cr0805_fx_2491elf
 - all: 7,resistor,r,r2,10k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,esr10ezpj103_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 7,resistor,r,r2,10k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,esr10ezpj103
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,resistor,r,r2,10k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,esr10ezpj103_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 7,resistor,r,r2,10k,r_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,~,esr10ezpj103
 - all: 8,_single_cell,_li_ion_li_po_charge_management_controller,_4_20v,_tri_state_status_output,_in_sot23_5_package_,mcp73831_2_ot,u1,mcp73831_2_ot,sot_23_5,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20001984g_pdf,mcp73831t_5aci_ot_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 8,_single_cell,_li_ion_li_po_charge_management_controller,_4_20v,_tri_state_status_output,_in_sot23_5_package_,mcp73831_2_ot,u1,mcp73831_2_ot,sot_23_5,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20001984g_pdf,mcp73831t_5aci_ot
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,_single_cell,_li_ion_li_po_charge_management_controller,_4_20v,_tri_state_status_output,_in_sot23_5_package_,mcp73831_2_ot,u1,mcp73831_2_ot,sot_23_5,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20001984g_pdf,mcp73831t_5aci_ot_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: 8,_single_cell,_li_ion_li_po_charge_management_controller,_4_20v,_tri_state_status_output,_in_sot23_5_package_,mcp73831_2_ot,u1,mcp73831_2_ot,sot_23_5,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20001984g_pdf,mcp73831t_5aci_ot
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: revision_,
 - all: date_,2023_08_02_17_08_57_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: date_,2023_08_02_17_08_57
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: date_,2023_08_02_17_08_57_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: date_,2023_08_02_17_08_57
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: statistics_
 - all: component_groups_,8_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: component_groups_,8
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: component_groups_,8_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: component_groups_,8
 - all: component_count_,13_(9_smd_4_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: component_count_,13_(9_smd_4_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: component_count_,13_(9_smd_4_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: component_count_,13_(9_smd_4_tht)
 - all: fitted_components_,13_(9_smd_4_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: fitted_components_,13_(9_smd_4_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: fitted_components_,13_(9_smd_4_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: fitted_components_,13_(9_smd_4_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: number_of_pcbs_,1
 - all: total_components_,13_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: total_components_,13
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: total_components_,13_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#: total_components_,13
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
 projects_flat: projects_flat/electroniccats_microbatterycharger_croquette/version_current/working
 projects_folder: projects_folder/ElectronicCats/MicroBatteryCharger-Croquette/version_current/working
 repo:

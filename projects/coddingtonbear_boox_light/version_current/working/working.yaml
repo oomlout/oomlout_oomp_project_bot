@@ -13,175 +13,320 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\coddingtonbear_boox_light\version_current\working
 oomp_key: oomp_projects_flat_coddingtonbear_boox_light
 oomp_key_simple: projects_flat_coddingtonbear_boox_light
-parts_verbose:
+parts_oomp:
 - all: 1_d6,d5,d4,d3,d2_micro_sideled_2808_5_lw_y1sg___
-  designation: lw_y1sg
   designator: d6
-  footprint: micro_sideled_2808
-  id: '1'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_d6,d5,d4,d3,d2_micro_sideled_2808_5_lw_y1sg___
+    designation: lw_y1sg
+    designator: d6
+    footprint: micro_sideled_2808
+    id: '1'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 1_d6,d5,d4,d3,d2_micro_sideled_2808_5_lw_y1sg___
-  designation: lw_y1sg
   designator: d5
-  footprint: micro_sideled_2808
-  id: '1'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_d6,d5,d4,d3,d2_micro_sideled_2808_5_lw_y1sg___
+    designation: lw_y1sg
+    designator: d5
+    footprint: micro_sideled_2808
+    id: '1'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 1_d6,d5,d4,d3,d2_micro_sideled_2808_5_lw_y1sg___
-  designation: lw_y1sg
   designator: d4
-  footprint: micro_sideled_2808
-  id: '1'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 1_d6,d5,d4,d3,d2_micro_sideled_2808_5_lw_y1sg___
+    designation: lw_y1sg
+    designator: d4
+    footprint: micro_sideled_2808
+    id: '1'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 1_d6,d5,d4,d3,d2_micro_sideled_2808_5_lw_y1sg___
-  designation: lw_y1sg
   designator: d3
-  footprint: micro_sideled_2808
-  id: '1'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 1_d6,d5,d4,d3,d2_micro_sideled_2808_5_lw_y1sg___
+    designation: lw_y1sg
+    designator: d3
+    footprint: micro_sideled_2808
+    id: '1'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 1_d6,d5,d4,d3,d2_micro_sideled_2808_5_lw_y1sg___
-  designation: lw_y1sg
   designator: d2
-  footprint: micro_sideled_2808
-  id: '1'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 1_d6,d5,d4,d3,d2_micro_sideled_2808_5_lw_y1sg___
+    designation: lw_y1sg
+    designator: d2
+    footprint: micro_sideled_2808
+    id: '1'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 2_j2_jst_xh_b05b_xh_a_05x2_50mm_straight_largepads_1_passthrough___
-  designation: passthrough
   designator: j2
-  footprint: jst_xh_b05b_xh_a_05x2_50mm_straight_largepads
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 2_j2_jst_xh_b05b_xh_a_05x2_50mm_straight_largepads_1_passthrough___
+    designation: passthrough
+    designator: j2
+    footprint: jst_xh_b05b_xh_a_05x2_50mm_straight_largepads
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_c5,c2,c1_0805_milling_3_0_1u___
-  designation: 0_1u
   designator: c5
-  footprint: 0805_milling
-  id: '3'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 3_c5,c2,c1_0805_milling_3_0_1u___
+    designation: 0_1u
+    designator: c5
+    footprint: 0805_milling
+    id: '3'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 3_c5,c2,c1_0805_milling_3_0_1u___
-  designation: 0_1u
   designator: c2
-  footprint: 0805_milling
-  id: '3'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 3_c5,c2,c1_0805_milling_3_0_1u___
+    designation: 0_1u
+    designator: c2
+    footprint: 0805_milling
+    id: '3'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 3_c5,c2,c1_0805_milling_3_0_1u___
-  designation: 0_1u
   designator: c1
-  footprint: 0805_milling
-  id: '3'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 3_c5,c2,c1_0805_milling_3_0_1u___
+    designation: 0_1u
+    designator: c1
+    footprint: 0805_milling
+    id: '3'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 4_u3_tsot_23_5_handsoldering_1_pam2804___
-  designation: pam2804
   designator: u3
-  footprint: tsot_23_5_handsoldering
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 4_u3_tsot_23_5_handsoldering_1_pam2804___
+    designation: pam2804
+    designator: u3
+    footprint: tsot_23_5_handsoldering
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_r2_0805_milling_1_1_0_(max)___
-  designation: 1_0_(max)
   designator: r2
-  footprint: 0805_milling
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 5_r2_0805_milling_1_1_0_(max)___
+    designation: 1_0_(max)
+    designator: r2
+    footprint: 0805_milling
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_l1_l_bourns_srn4018_1_47u___
-  designation: 47u
   designator: l1
-  footprint: l_bourns_srn4018
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 6_l1_l_bourns_srn4018_1_47u___
+    designation: 47u
+    designator: l1
+    footprint: l_bourns_srn4018
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_c4,c3_cp_tantalum_case_d_eia_7343_31_milling_2_100uf_ntc_t107k10trdf___
-  designation: 100uf_ntc_t107k10trdf
   designator: c4
-  footprint: cp_tantalum_case_d_eia_7343_31_milling
-  id: '7'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 7_c4,c3_cp_tantalum_case_d_eia_7343_31_milling_2_100uf_ntc_t107k10trdf___
+    designation: 100uf_ntc_t107k10trdf
+    designator: c4
+    footprint: cp_tantalum_case_d_eia_7343_31_milling
+    id: '7'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 7_c4,c3_cp_tantalum_case_d_eia_7343_31_milling_2_100uf_ntc_t107k10trdf___
-  designation: 100uf_ntc_t107k10trdf
   designator: c3
-  footprint: cp_tantalum_case_d_eia_7343_31_milling
-  id: '7'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 7_c4,c3_cp_tantalum_case_d_eia_7343_31_milling_2_100uf_ntc_t107k10trdf___
+    designation: 100uf_ntc_t107k10trdf
+    designator: c3
+    footprint: cp_tantalum_case_d_eia_7343_31_milling
+    id: '7'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 8_u2_soij_8_5_3x5_3mm_p1_27mm_1_attiny85_20su___
-  designation: attiny85_20su
   designator: u2
-  footprint: soij_8_5_3x5_3mm_p1_27mm
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 8_u2_soij_8_5_3x5_3mm_p1_27mm_1_attiny85_20su___
+    designation: attiny85_20su
+    designator: u2
+    footprint: soij_8_5_3x5_3mm_p1_27mm
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_u1_sot_23_5_1_mcp73831_2_ot___
-  designation: mcp73831_2_ot
   designator: u1
-  footprint: sot_23_5
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 9_u1_sot_23_5_1_mcp73831_2_ot___
+    designation: mcp73831_2_ot
+    designator: u1
+    footprint: sot_23_5
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_rv1_sv01_murata_pot_1_r_pot___
-  designation: r_pot
   designator: rv1
-  footprint: sv01_murata_pot
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 10_rv1_sv01_murata_pot_1_r_pot___
+    designation: r_pot
+    designator: rv1
+    footprint: sv01_murata_pot
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_r8,r7,r1_0805_milling_3_10k___
-  designation: 10k
   designator: r8
-  footprint: 0805_milling
-  id: '11'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 11_r8,r7,r1_0805_milling_3_10k___
+    designation: 10k
+    designator: r8
+    footprint: 0805_milling
+    id: '11'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 11_r8,r7,r1_0805_milling_3_10k___
-  designation: 10k
   designator: r7
-  footprint: 0805_milling
-  id: '11'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 11_r8,r7,r1_0805_milling_3_10k___
+    designation: 10k
+    designator: r7
+    footprint: 0805_milling
+    id: '11'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 11_r8,r7,r1_0805_milling_3_10k___
-  designation: 10k
   designator: r1
-  footprint: 0805_milling
-  id: '11'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 11_r8,r7,r1_0805_milling_3_10k___
+    designation: 10k
+    designator: r1
+    footprint: 0805_milling
+    id: '11'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 12_j1_uj2_mibh_4_smt_1_usb_otg___
-  designation: usb_otg
   designator: j1
-  footprint: uj2_mibh_4_smt
-  id: '12'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 12_j1_uj2_mibh_4_smt_1_usb_otg___
+    designation: usb_otg
+    designator: j1
+    footprint: uj2_mibh_4_smt
+    id: '12'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 13_d7,d1_do_214ac_2_ss14_tp___
-  designation: ss14_tp
   designator: d7
-  footprint: do_214ac
-  id: '13'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 13_d7,d1_do_214ac_2_ss14_tp___
+    designation: ss14_tp
+    designator: d7
+    footprint: do_214ac
+    id: '13'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 13_d7,d1_do_214ac_2_ss14_tp___
-  designation: ss14_tp
   designator: d1
-  footprint: do_214ac
-  id: '13'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 13_d7,d1_do_214ac_2_ss14_tp___
+    designation: ss14_tp
+    designator: d1
+    footprint: do_214ac
+    id: '13'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 14_bt1_jst_eh_b02b_eh_a_02x2_50mm_straight_largepads_1_battery_cell___
-  designation: battery_cell
   designator: bt1
-  footprint: jst_eh_b02b_eh_a_02x2_50mm_straight_largepads
-  id: '14'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 14_bt1_jst_eh_b02b_eh_a_02x2_50mm_straight_largepads_1_battery_cell___
+    designation: battery_cell
+    designator: bt1
+    footprint: jst_eh_b02b_eh_a_02x2_50mm_straight_largepads
+    id: '14'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
 projects_flat: projects_flat/coddingtonbear_boox_light/version_current/working
 projects_folder: projects_folder/coddingtonbear/boox-light/version_current/working
 repo:

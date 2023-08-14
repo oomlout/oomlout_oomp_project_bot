@@ -13,231 +13,424 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dchwebb_quilter\version_current\working
 oomp_key: oomp_projects_flat_dchwebb_quilter
 oomp_key_simple: projects_flat_dchwebb_quilter
-parts_verbose:
+parts_oomp:
 - all: 1_c5,c6,c4_c_0603_1608metric_pad1_08x0_95mm_handsolder_3_6_8nf___
-  designation: 6_8nf
   designator: c5
-  footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
-  id: '1'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_c5,c6,c4_c_0603_1608metric_pad1_08x0_95mm_handsolder_3_6_8nf___
+    designation: 6_8nf
+    designator: c5
+    footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
+    id: '1'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 1_c5,c6,c4_c_0603_1608metric_pad1_08x0_95mm_handsolder_3_6_8nf___
-  designation: 6_8nf
   designator: c6
-  footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
-  id: '1'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_c5,c6,c4_c_0603_1608metric_pad1_08x0_95mm_handsolder_3_6_8nf___
+    designation: 6_8nf
+    designator: c6
+    footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
+    id: '1'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 1_c5,c6,c4_c_0603_1608metric_pad1_08x0_95mm_handsolder_3_6_8nf___
-  designation: 6_8nf
   designator: c4
-  footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
-  id: '1'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 1_c5,c6,c4_c_0603_1608metric_pad1_08x0_95mm_handsolder_3_6_8nf___
+    designation: 6_8nf
+    designator: c4
+    footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
+    id: '1'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 2_u1_ssop_16_3_9x4_9mm_p0_635mm_1_ssi2144___
-  designation: ssi2144
   designator: u1
-  footprint: ssop_16_3_9x4_9mm_p0_635mm
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 2_u1_ssop_16_3_9x4_9mm_p0_635mm_1_ssi2144___
+    designation: ssi2144
+    designator: u1
+    footprint: ssop_16_3_9x4_9mm_p0_635mm
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_r8_r_0805_2012metric_1_162k___
-  designation: 162k
   designator: r8
-  footprint: r_0805_2012metric
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_r8_r_0805_2012metric_1_162k___
+    designation: 162k
+    designator: r8
+    footprint: r_0805_2012metric
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_r6,r2,r9,r7_r_0805_2012metric_4_100k___
-  designation: 100k
   designator: r6
-  footprint: r_0805_2012metric
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 4_r6,r2,r9,r7_r_0805_2012metric_4_100k___
+    designation: 100k
+    designator: r6
+    footprint: r_0805_2012metric
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_r6,r2,r9,r7_r_0805_2012metric_4_100k___
-  designation: 100k
   designator: r2
-  footprint: r_0805_2012metric
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 4_r6,r2,r9,r7_r_0805_2012metric_4_100k___
+    designation: 100k
+    designator: r2
+    footprint: r_0805_2012metric
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_r6,r2,r9,r7_r_0805_2012metric_4_100k___
-  designation: 100k
   designator: r9
-  footprint: r_0805_2012metric
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 4_r6,r2,r9,r7_r_0805_2012metric_4_100k___
+    designation: 100k
+    designator: r9
+    footprint: r_0805_2012metric
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_r6,r2,r9,r7_r_0805_2012metric_4_100k___
-  designation: 100k
   designator: r7
-  footprint: r_0805_2012metric
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 4_r6,r2,r9,r7_r_0805_2012metric_4_100k___
+    designation: 100k
+    designator: r7
+    footprint: r_0805_2012metric
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 5_u2_so_8_3_9x4_9mm_p1_27mm_1_tl072___
-  designation: tl072
   designator: u2
-  footprint: so_8_3_9x4_9mm_p1_27mm
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 5_u2_so_8_3_9x4_9mm_p1_27mm_1_tl072___
+    designation: tl072
+    designator: u2
+    footprint: so_8_3_9x4_9mm_p1_27mm
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_jp1_solderjumper_2_p1_3mm_bridged_roundedpad1_0x1_5mm_1_jumper_2_bridged___
-  designation: jumper_2_bridged
   designator: jp1
-  footprint: solderjumper_2_p1_3mm_bridged_roundedpad1_0x1_5mm
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 6_jp1_solderjumper_2_p1_3mm_bridged_roundedpad1_0x1_5mm_1_jumper_2_bridged___
+    designation: jumper_2_bridged
+    designator: jp1
+    footprint: solderjumper_2_p1_3mm_bridged_roundedpad1_0x1_5mm
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_r11_r_0805_2012metric_1_1k___
-  designation: 1k
   designator: r11
-  footprint: r_0805_2012metric
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 7_r11_r_0805_2012metric_1_1k___
+    designation: 1k
+    designator: r11
+    footprint: r_0805_2012metric
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_c2,c1_cp_elec_5x5_7_2_22uf___
-  designation: 22uf
   designator: c2
-  footprint: cp_elec_5x5_7
-  id: '8'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 8_c2,c1_cp_elec_5x5_7_2_22uf___
+    designation: 22uf
+    designator: c2
+    footprint: cp_elec_5x5_7
+    id: '8'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 8_c2,c1_cp_elec_5x5_7_2_22uf___
-  designation: 22uf
   designator: c1
-  footprint: cp_elec_5x5_7
-  id: '8'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 8_c2,c1_cp_elec_5x5_7_2_22uf___
+    designation: 22uf
+    designator: c1
+    footprint: cp_elec_5x5_7
+    id: '8'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 9_q_ctrl1_alpha_9mm_potentiometer_aligned_1_10k___
-  designation: 10k
   designator: q_ctrl1
-  footprint: alpha_9mm_potentiometer_aligned
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 9_q_ctrl1_alpha_9mm_potentiometer_aligned_1_10k___
+    designation: 10k
+    designator: q_ctrl1
+    footprint: alpha_9mm_potentiometer_aligned
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_r5_r_0805_2012metric_1_33_2k___
-  designation: 33_2k
   designator: r5
-  footprint: r_0805_2012metric
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 10_r5_r_0805_2012metric_1_33_2k___
+    designation: 33_2k
+    designator: r5
+    footprint: r_0805_2012metric
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_r1_r_0805_2012metric_1_68_1k___
-  designation: 68_1k
   designator: r1
-  footprint: r_0805_2012metric
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 11_r1_r_0805_2012metric_1_68_1k___
+    designation: 68_1k
+    designator: r1
+    footprint: r_0805_2012metric
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_r13,r4,r3_r_0805_2012metric_3_200___
-  designation: '200'
   designator: r13
-  footprint: r_0805_2012metric
-  id: '12'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 12_r13,r4,r3_r_0805_2012metric_3_200___
+    designation: '200'
+    designator: r13
+    footprint: r_0805_2012metric
+    id: '12'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 12_r13,r4,r3_r_0805_2012metric_3_200___
-  designation: '200'
   designator: r4
-  footprint: r_0805_2012metric
-  id: '12'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 12_r13,r4,r3_r_0805_2012metric_3_200___
+    designation: '200'
+    designator: r4
+    footprint: r_0805_2012metric
+    id: '12'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 12_r13,r4,r3_r_0805_2012metric_3_200___
-  designation: '200'
   designator: r3
-  footprint: r_0805_2012metric
-  id: '12'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 12_r13,r4,r3_r_0805_2012metric_3_200___
+    designation: '200'
+    designator: r3
+    footprint: r_0805_2012metric
+    id: '12'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 13_freq_offset1,v_oct1_alpha_9mm_potentiometer_aligned_2_50k___
-  designation: 50k
   designator: freq_offset1
-  footprint: alpha_9mm_potentiometer_aligned
-  id: '13'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 13_freq_offset1,v_oct1_alpha_9mm_potentiometer_aligned_2_50k___
+    designation: 50k
+    designator: freq_offset1
+    footprint: alpha_9mm_potentiometer_aligned
+    id: '13'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 13_freq_offset1,v_oct1_alpha_9mm_potentiometer_aligned_2_50k___
-  designation: 50k
   designator: v_oct1
-  footprint: alpha_9mm_potentiometer_aligned
-  id: '13'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 13_freq_offset1,v_oct1_alpha_9mm_potentiometer_aligned_2_50k___
+    designation: 50k
+    designator: v_oct1
+    footprint: alpha_9mm_potentiometer_aligned
+    id: '13'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 14_j1_pinheader_1x06_p2_54mm_vertical_1_io___
-  designation: io
   designator: j1
-  footprint: pinheader_1x06_p2_54mm_vertical
-  id: '14'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 14_j1_pinheader_1x06_p2_54mm_vertical_1_io___
+    designation: io
+    designator: j1
+    footprint: pinheader_1x06_p2_54mm_vertical
+    id: '14'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 15_c8_c_0805_2012metric_1_100pf___
-  designation: 100pf
   designator: c8
-  footprint: c_0805_2012metric
-  id: '15'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 15_c8_c_0805_2012metric_1_100pf___
+    designation: 100pf
+    designator: c8
+    footprint: c_0805_2012metric
+    id: '15'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 16_c3_c_0603_1608metric_pad1_08x0_95mm_handsolder_1_3_3nf___
-  designation: 3_3nf
   designator: c3
-  footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
-  id: '16'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 16_c3_c_0603_1608metric_pad1_08x0_95mm_handsolder_1_3_3nf___
+    designation: 3_3nf
+    designator: c3
+    footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
+    id: '16'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 17_r14_r_0805_2012metric_1_499k___
-  designation: 499k
   designator: r14
-  footprint: r_0805_2012metric
-  id: '17'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 17_r14_r_0805_2012metric_1_499k___
+    designation: 499k
+    designator: r14
+    footprint: r_0805_2012metric
+    id: '17'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 18_r10_r_0805_2012metric_1_499___
-  designation: '499'
   designator: r10
-  footprint: r_0805_2012metric
-  id: '18'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 18_r10_r_0805_2012metric_1_499___
+    designation: '499'
+    designator: r10
+    footprint: r_0805_2012metric
+    id: '18'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 19_r12_r_0805_2012metric_1_26_7k___
-  designation: 26_7k
   designator: r12
-  footprint: r_0805_2012metric
-  id: '19'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 19_r12_r_0805_2012metric_1_26_7k___
+    designation: 26_7k
+    designator: r12
+    footprint: r_0805_2012metric
+    id: '19'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 20_j2_pinheader_1x03_p2_54mm_vertical_1_power___
-  designation: power
   designator: j2
-  footprint: pinheader_1x03_p2_54mm_vertical
-  id: '20'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 20_j2_pinheader_1x03_p2_54mm_vertical_1_power___
+    designation: power
+    designator: j2
+    footprint: pinheader_1x03_p2_54mm_vertical
+    id: '20'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 21_j3_pinheader_1x03_p2_54mm_vertical_1_power_in___
-  designation: power_in
   designator: j3
-  footprint: pinheader_1x03_p2_54mm_vertical
-  id: '21'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 21_j3_pinheader_1x03_p2_54mm_vertical_1_power_in___
+    designation: power_in
+    designator: j3
+    footprint: pinheader_1x03_p2_54mm_vertical
+    id: '21'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 22_c9,c7_c_0603_1608metric_pad1_08x0_95mm_handsolder_2_560pf___
-  designation: 560pf
   designator: c9
-  footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
-  id: '22'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 22_c9,c7_c_0603_1608metric_pad1_08x0_95mm_handsolder_2_560pf___
+    designation: 560pf
+    designator: c9
+    footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
+    id: '22'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 22_c9,c7_c_0603_1608metric_pad1_08x0_95mm_handsolder_2_560pf___
-  designation: 560pf
   designator: c7
-  footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
-  id: '22'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: 22_c9,c7_c_0603_1608metric_pad1_08x0_95mm_handsolder_2_560pf___
+    designation: 560pf
+    designator: c7
+    footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
+    id: '22'
+    quantity: '2'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
 projects_flat: projects_flat/dchwebb_quilter/version_current/working
 projects_folder: projects_folder/dchwebb/Quilter/version_current/working
 repo:

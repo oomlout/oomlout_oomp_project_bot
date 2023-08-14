@@ -13,90 +13,355 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_catwan_relay\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_catwan_relay
 oomp_key_simple: projects_flat_electroniccats_catwan_relay
-parts_verbose:
+parts_oomp:
 - all: 1,,antenna_shield_agroin_rescue,ae1,antenna_shield,molex_1661,1,_,,,2337019_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 1,,antenna_shield_agroin_rescue,ae1,antenna_shield,molex_1661,1,_,,,2337019_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,,antenna_shield_agroin_rescue,ae1,antenna_shield,molex_1661,1,_,,,2337019_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 1,,antenna_shield_agroin_rescue,ae1,antenna_shield,molex_1661,1,_,,,2337019_1
 - all: 2,,c_agroin_rescue,c1_c4_c5,0_1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,885012207072,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 2,,c_agroin_rescue,c1_c4_c5,0_1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,885012207072,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,,c_agroin_rescue,c1_c4_c5,0_1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,885012207072,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 2,,c_agroin_rescue,c1_c4_c5,0_1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,885012207072,
 - all: 3,,c_agroin_rescue,c3,1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,grm21bc80j106ke19l,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 3,,c_agroin_rescue,c3,1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,grm21bc80j106ke19l,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,,c_agroin_rescue,c3,1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,grm21bc80j106ke19l,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 3,,c_agroin_rescue,c3,1uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,grm21bc80j106ke19l,
 - all: 4,,c_agroin_rescue,c6_c7,10uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,,grm21bc80j106ke19l,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 4,,c_agroin_rescue,c6_c7,10uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,,grm21bc80j106ke19l,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,,c_agroin_rescue,c6_c7,10uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,,grm21bc80j106ke19l,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 4,,c_agroin_rescue,c6_c7,10uf,c_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,,grm21bc80j106ke19l,
 - all: 5,,cp1_agroin_rescue,c2,470uf,c_elec_6_3x7_7,1,_,,uur0g471mcl1gs,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 5,,cp1_agroin_rescue,c2,470uf,c_elec_6_3x7_7,1,_,,uur0g471mcl1gs,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,,cp1_agroin_rescue,c2,470uf,c_elec_6_3x7_7,1,_,,uur0g471mcl1gs,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 5,,cp1_agroin_rescue,c2,470uf,c_elec_6_3x7_7,1,_,,uur0g471mcl1gs,
 - all: 6,,fm4007w_w_agroin_rescue,d1_d2_d3,fm4007w_w,f4007,3,_,,fm4007w_w,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 6,,fm4007w_w_agroin_rescue,d1_d2_d3,fm4007w_w,f4007,3,_,,fm4007w_w,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,,fm4007w_w_agroin_rescue,d1_d2_d3,fm4007w_w,f4007,3,_,,fm4007w_w,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 6,,fm4007w_w_agroin_rescue,d1_d2_d3,fm4007w_w,f4007,3,_,,fm4007w_w,
 - all: 7,,fm4007w_w_agroin_rescue,d4,fm4007w_w,d_sod_123,1,_,,fm4007w_w,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 7,,fm4007w_w_agroin_rescue,d4,fm4007w_w,d_sod_123,1,_,,fm4007w_w,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,,fm4007w_w_agroin_rescue,d4,fm4007w_w,d_sod_123,1,_,,fm4007w_w,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 7,,fm4007w_w_agroin_rescue,d4,fm4007w_w,d_sod_123,1,_,,fm4007w_w,
 - all: 8,,mbr0520lt_agroin_rescue,d5_d8,mbr120,d_sod_123,2,_,,mbr120vlsft3g,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 8,,mbr0520lt_agroin_rescue,d5_d8,mbr120,d_sod_123,2,_,,mbr120vlsft3g,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,,mbr0520lt_agroin_rescue,d5_d8,mbr120,d_sod_123,2,_,,mbr120vlsft3g,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 8,,mbr0520lt_agroin_rescue,d5_d8,mbr120,d_sod_123,2,_,,mbr120vlsft3g,
 - all: 9,,led_small_agroin_rescue,d6,on,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,ap2012ec,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 9,,led_small_agroin_rescue,d6,on,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,ap2012ec,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,,led_small_agroin_rescue,d6,on,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,ap2012ec,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 9,,led_small_agroin_rescue,d6,on,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,ap2012ec,
 - all: 10,,led_small_agroin_rescue,d7,rx,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,apt2012sgc,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 10,,led_small_agroin_rescue,d7,rx,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,apt2012sgc,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,,led_small_agroin_rescue,d7,rx,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,apt2012sgc,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 10,,led_small_agroin_rescue,d7,rx,led_0805_2012metric_pad1_15x1_40mm_handsolder,1,_,,apt2012sgc,
 - all: 11,_generic_connector,_single_row,_01x09,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x09_female,j2_j3,inputs,_terminalblock_phoenix_mkds_1,5_9_5_08_1x09_p5_08mm_horizontal_,2,_,,trt_3_(3)_trt_3(3),_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 11,_generic_connector,_single_row,_01x09,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x09_female,j2_j3,inputs,_terminalblock_phoenix_mkds_1,5_9_5_08_1x09_p5_08mm_horizontal_,2,_,,trt_3_(3)_trt_3(3),
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,_generic_connector,_single_row,_01x09,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x09_female,j2_j3,inputs,_terminalblock_phoenix_mkds_1,5_9_5_08_1x09_p5_08mm_horizontal_,2,_,,trt_3_(3)_trt_3(3),_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 11,_generic_connector,_single_row,_01x09,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x09_female,j2_j3,inputs,_terminalblock_phoenix_mkds_1,5_9_5_08_1x09_p5_08mm_horizontal_,2,_,,trt_3_(3)_trt_3(3),
 - all: 12,,conn_01x04_agroin_rescue,j4,swd,pinheader_1x04_p2_54mm_vertical,1,_,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 12,,conn_01x04_agroin_rescue,j4,swd,pinheader_1x04_p2_54mm_vertical,1,_,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,,conn_01x04_agroin_rescue,j4,swd,pinheader_1x04_p2_54mm_vertical,1,_,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 12,,conn_01x04_agroin_rescue,j4,swd,pinheader_1x04_p2_54mm_vertical,1,_,,,
 - all: 13,,conn_01x03_agroin_rescue,j5,serial,pinheader_1x03_p2_54mm_vertical,1,_,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 13,,conn_01x03_agroin_rescue,j5,serial,pinheader_1x03_p2_54mm_vertical,1,_,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,,conn_01x03_agroin_rescue,j5,serial,pinheader_1x03_p2_54mm_vertical,1,_,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 13,,conn_01x03_agroin_rescue,j5,serial,pinheader_1x03_p2_54mm_vertical,1,_,,,
 - all: 14,,usb_b_agroin_rescue,j10,usb_b,629105150521,1,_,,629105150521,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 14,,usb_b_agroin_rescue,j10,usb_b,629105150521,1,_,,629105150521,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 14,,usb_b_agroin_rescue,j10,usb_b,629105150521,1,_,,629105150521,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 14,,usb_b_agroin_rescue,j10,usb_b,629105150521,1,_,,629105150521,
 - all: 15,,jumper_nc_small_agroin_rescue,jp1,adj,pinheader_1x02_p2_54mm_vertical,1,_,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 15,,jumper_nc_small_agroin_rescue,jp1,adj,pinheader_1x02_p2_54mm_vertical,1,_,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 15,,jumper_nc_small_agroin_rescue,jp1,adj,pinheader_1x02_p2_54mm_vertical,1,_,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 15,,jumper_nc_small_agroin_rescue,jp1,adj,pinheader_1x02_p2_54mm_vertical,1,_,,,
 - all: 16,,mmbt2222a_agroin_rescue,q1_q2_q3,mmbt2222a,sot_23,3,_,,mmbt2222a,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 16,,mmbt2222a_agroin_rescue,q1_q2_q3,mmbt2222a,sot_23,3,_,,mmbt2222a,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 16,,mmbt2222a_agroin_rescue,q1_q2_q3,mmbt2222a,sot_23,3,_,,mmbt2222a,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 16,,mmbt2222a_agroin_rescue,q1_q2_q3,mmbt2222a,sot_23,3,_,,mmbt2222a,
 - all: 17,,r_small_agroin_rescue,r9_r11,120r,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,,rmc1_10k1200ftp,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 17,,r_small_agroin_rescue,r9_r11,120r,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,,rmc1_10k1200ftp,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 17,,r_small_agroin_rescue,r9_r11,120r,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,,rmc1_10k1200ftp,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 17,,r_small_agroin_rescue,r9_r11,120r,r_0805_2012metric_pad1_15x1_40mm_handsolder,2,_,,rmc1_10k1200ftp,
 - all: 18,,r_agroin_rescue,r3_r6_r8,330r,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,crcw08052k20fkeb,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 18,,r_agroin_rescue,r3_r6_r8,330r,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,crcw08052k20fkeb,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 18,,r_agroin_rescue,r3_r6_r8,330r,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,crcw08052k20fkeb,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 18,,r_agroin_rescue,r3_r6_r8,330r,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,crcw08052k20fkeb,
 - all: 19,,r_agroin_rescue,r2_r5_r10,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,rc0805fr_071kl,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 19,,r_agroin_rescue,r2_r5_r10,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,rc0805fr_071kl,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 19,,r_agroin_rescue,r2_r5_r10,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,rc0805fr_071kl,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 19,,r_agroin_rescue,r2_r5_r10,1k,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,rc0805fr_071kl,
 - all: 20,,r_agroin_rescue,r1_r4_r7,10k,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,rc0402fr_1010kl,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 20,,r_agroin_rescue,r1_r4_r7,10k,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,rc0402fr_1010kl,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 20,,r_agroin_rescue,r1_r4_r7,10k,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,rc0402fr_1010kl,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 20,,r_agroin_rescue,r1_r4_r7,10k,r_0805_2012metric_pad1_15x1_40mm_handsolder,3,_,,rc0402fr_1010kl,
 - all: 21,,sw_push_agroin_rescue,sw1,rst,sw_spst_tl3342,1,_,,,c318889_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 21,,sw_push_agroin_rescue,sw1,rst,sw_spst_tl3342,1,_,,,c318889
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 21,,sw_push_agroin_rescue,sw1,rst,sw_spst_tl3342,1,_,,,c318889_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 21,,sw_push_agroin_rescue,sw1,rst,sw_spst_tl3342,1,_,,,c318889
 - all: 22,,ap2114h_3_3trg1_agroin_rescue,u7,ap2114h_3_3trg1,sot_223_3_tabpin2,1,_,,ap2114h_3_3trg1,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 22,,ap2114h_3_3trg1_agroin_rescue,u7,ap2114h_3_3trg1,sot_223_3_tabpin2,1,_,,ap2114h_3_3trg1,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 22,,ap2114h_3_3trg1_agroin_rescue,u7,ap2114h_3_3trg1,sot_223_3_tabpin2,1,_,,ap2114h_3_3trg1,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 22,,ap2114h_3_3trg1_agroin_rescue,u7,ap2114h_3_3trg1,sot_223_3_tabpin2,1,_,,ap2114h_3_3trg1,
 - all: 23,,atsamd21e_agroin_rescue,u1,atsamd21e,tqfp_32_7x7mm_p0_8mm,1,_,,atsamd21e18a_u,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 23,,atsamd21e_agroin_rescue,u1,atsamd21e,tqfp_32_7x7mm_p0_8mm,1,_,,atsamd21e18a_u,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 23,,atsamd21e_agroin_rescue,u1,atsamd21e,tqfp_32_7x7mm_p0_8mm,1,_,,atsamd21e18a_u,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 23,,atsamd21e_agroin_rescue,u1,atsamd21e,tqfp_32_7x7mm_p0_8mm,1,_,,atsamd21e18a_u,
 - all: 24,,lm2596_dc_dc_agroin_rescue,u6,lm2596_dc_dc,lm2596dc_dc,1,_,,lm2596_dc_dc,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 24,,lm2596_dc_dc_agroin_rescue,u6,lm2596_dc_dc,lm2596dc_dc,1,_,,lm2596_dc_dc,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 24,,lm2596_dc_dc_agroin_rescue,u6,lm2596_dc_dc,lm2596dc_dc,1,_,,lm2596_dc_dc,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 24,,lm2596_dc_dc_agroin_rescue,u6,lm2596_dc_dc,lm2596dc_dc,1,_,,lm2596_dc_dc,
 - all: 25,,ltv_817_agroin_rescue,u3_u4_u5,ltv_817,dip_4_w7_62mm_socket,3,_,,ltv_817,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 25,,ltv_817_agroin_rescue,u3_u4_u5,ltv_817,dip_4_w7_62mm_socket,3,_,,ltv_817,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 25,,ltv_817_agroin_rescue,u3_u4_u5,ltv_817,dip_4_w7_62mm_socket,3,_,,ltv_817,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 25,,ltv_817_agroin_rescue,u3_u4_u5,ltv_817,dip_4_w7_62mm_socket,3,_,,ltv_817,
 - all: 26,,rfm95w_868s2_agroin_rescue,u2,rfm95w_915_868,rfm95w,1,_,,rfm95w,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 26,,rfm95w_868s2_agroin_rescue,u2,rfm95w_915_868,rfm95w,1,_,,rfm95w,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 26,,rfm95w_868s2_agroin_rescue,u2,rfm95w_915_868,rfm95w,1,_,,rfm95w,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 26,,rfm95w_868s2_agroin_rescue,u2,rfm95w_915_868,rfm95w,1,_,,rfm95w,
 - all: 27,,ud2_3nu_agroin_rescue,y1_y2_y3,ud2_3nu,ud2_3nu,3,_,,ud2_3nu,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 27,,ud2_3nu_agroin_rescue,y1_y2_y3,ud2_3nu,ud2_3nu,3,_,,ud2_3nu,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 27,,ud2_3nu_agroin_rescue,y1_y2_y3,ud2_3nu,ud2_3nu,3,_,,ud2_3nu,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: 27,,ud2_3nu_agroin_rescue,y1_y2_y3,ud2_3nu,ud2_3nu,3,_,,ud2_3nu,
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: variant_,default
 - all: revision_,1_0_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: revision_,1_0
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: revision_,1_0_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: revision_,1_0
 - all: date_,2020_10_18_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: date_,2020_10_18
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: date_,2020_10_18_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: date_,2020_10_18
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: statistics_
 - all: component_groups_,27_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: component_groups_,27
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: component_groups_,27_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: component_groups_,27
 - all: component_count_,47_(31_smd_16_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: component_count_,47_(31_smd_16_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: component_count_,47_(31_smd_16_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: component_count_,47_(31_smd_16_tht)
 - all: fitted_components_,47_(31_smd_16_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: fitted_components_,47_(31_smd_16_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: fitted_components_,47_(31_smd_16_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: fitted_components_,47_(31_smd_16_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: number_of_pcbs_,1
 - all: total_components_,47_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: total_components_,47
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id044
+    all: total_components_,47_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#: total_components_,47
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
 projects_flat: projects_flat/electroniccats_catwan_relay/version_current/working
 projects_folder: projects_folder/ElectronicCats/CatWAN_Relay/version_current/working
 repo:

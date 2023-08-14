@@ -13,1141 +13,2114 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dragonmux_kicad_color_schemes\version_current\working
 oomp_key: oomp_projects_flat_dragonmux_kicad_color_schemes
 oomp_key_simple: projects_flat_dragonmux_kicad_color_schemes
-parts_verbose:
+parts_oomp:
 - all: 1_d1,d3_d_sot_23_ank_2_bat54___
-  designation: bat54
   designator: d1
-  footprint: d_sot_23_ank
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_d1,d3_d_sot_23_ank_2_bat54___
+    designation: bat54
+    designator: d1
+    footprint: d_sot_23_ank
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 1_d1,d3_d_sot_23_ank_2_bat54___
-  designation: bat54
   designator: d3
-  footprint: d_sot_23_ank
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_d1,d3_d_sot_23_ank_2_bat54___
+    designation: bat54
+    designator: d3
+    footprint: d_sot_23_ank
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 2_d7_d_do_15_p12_70mm_horizontal_1_1n4004___
-  designation: 1n4004
   designator: d7
-  footprint: d_do_15_p12_70mm_horizontal
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_d7_d_do_15_p12_70mm_horizontal_1_1n4004___
+    designation: 1n4004
+    designator: d7
+    footprint: d_do_15_p12_70mm_horizontal
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_r64_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal_1_3,3___
-  designation: 3,3
   designator: r64
-  footprint: r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_r64_r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal_1_3,3___
+    designation: 3,3
+    designator: r64
+    footprint: r_axial_din0207_l6_3mm_d2_5mm_p10_16mm_horizontal
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_u7_soic_8_3_9x4_9mm_p1_27mm_1_pca82c251___
-  designation: pca82c251
   designator: u7
-  footprint: soic_8_3_9x4_9mm_p1_27mm
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_u7_soic_8_3_9x4_9mm_p1_27mm_1_pca82c251___
+    designation: pca82c251
+    designator: u7
+    footprint: soic_8_3_9x4_9mm_p1_27mm
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_vr1_to_263_5_tabpin3_1_lt1129_qpack___
-  designation: lt1129_qpack
   designator: vr1
-  footprint: to_263_5_tabpin3
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_vr1_to_263_5_tabpin3_1_lt1129_qpack___
+    designation: lt1129_qpack
+    designator: vr1
+    footprint: to_263_5_tabpin3
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_c40_cp_radial_d8_0mm_p5_00mm_1_220uf___
-  designation: 220uf
   designator: c40
-  footprint: cp_radial_d8_0mm_p5_00mm
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 6_c40_cp_radial_d8_0mm_p5_00mm_1_220uf___
+    designation: 220uf
+    designator: c40
+    footprint: cp_radial_d8_0mm_p5_00mm
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_c38_cp_radial_d8_0mm_p5_00mm_1_10uf___
-  designation: 10uf
   designator: c38
-  footprint: cp_radial_d8_0mm_p5_00mm
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 7_c38_cp_radial_d8_0mm_p5_00mm_1_10uf___
+    designation: 10uf
+    designator: c38
+    footprint: cp_radial_d8_0mm_p5_00mm
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_u4_soic_14_3_9x8_7mm_p1_27mm_1_74hc125___
-  designation: 74hc125
   designator: u4
-  footprint: soic_14_3_9x8_7mm_p1_27mm
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 8_u4_soic_14_3_9x8_7mm_p1_27mm_1_74hc125___
+    designation: 74hc125
+    designator: u4
+    footprint: soic_14_3_9x8_7mm_p1_27mm
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
-  designation: led
   designator: led2
-  footprint: led_1206_3216metric
-  id: '9'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
+    designation: led
+    designator: led2
+    footprint: led_1206_3216metric
+    id: '9'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
-  designation: led
   designator: led1
-  footprint: led_1206_3216metric
-  id: '9'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
+    designation: led
+    designator: led1
+    footprint: led_1206_3216metric
+    id: '9'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
-  designation: led
   designator: d9
-  footprint: led_1206_3216metric
-  id: '9'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
+    designation: led
+    designator: d9
+    footprint: led_1206_3216metric
+    id: '9'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
-  designation: led
   designator: d8
-  footprint: led_1206_3216metric
-  id: '9'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
+    designation: led
+    designator: d8
+    footprint: led_1206_3216metric
+    id: '9'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
-  designation: led
   designator: led5
-  footprint: led_1206_3216metric
-  id: '9'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
+    designation: led
+    designator: led5
+    footprint: led_1206_3216metric
+    id: '9'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
-  designation: led
   designator: led3
-  footprint: led_1206_3216metric
-  id: '9'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
+    designation: led
+    designator: led3
+    footprint: led_1206_3216metric
+    id: '9'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
-  designation: led
   designator: led4
-  footprint: led_1206_3216metric
-  id: '9'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 9_led2,led1,d9,d8,led5,led3,led4_led_1206_3216metric_7_led___
+    designation: led
+    designator: led4
+    footprint: led_1206_3216metric
+    id: '9'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 10_red1_sm1206pol_1_led_reset1___
-  designation: led_reset1
   designator: red1
-  footprint: sm1206pol
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 10_red1_sm1206pol_1_led_reset1___
+    designation: led_reset1
+    designator: red1
+    footprint: sm1206pol
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_ledabrt1_sm1206pol_1_red___
-  designation: red
   designator: ledabrt1
-  footprint: sm1206pol
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 11_ledabrt1_sm1206pol_1_red___
+    designation: red
+    designator: ledabrt1
+    footprint: sm1206pol
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_c17_sm1206pol_1_100uf___
-  designation: 100uf
   designator: c17
-  footprint: sm1206pol
-  id: '12'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 12_c17_sm1206pol_1_100uf___
+    designation: 100uf
+    designator: c17
+    footprint: sm1206pol
+    id: '12'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 13_c16_sm1206pol_1_10uf___
-  designation: 10uf
   designator: c16
-  footprint: sm1206pol
-  id: '13'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 13_c16_sm1206pol_1_10uf___
+    designation: 10uf
+    designator: c16
+    footprint: sm1206pol
+    id: '13'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
-  designation: conn_1
   designator: allpst1
-  footprint: pinheader_1x01_p2_54mm_vertical
-  id: '14'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
+    designation: conn_1
+    designator: allpst1
+    footprint: pinheader_1x01_p2_54mm_vertical
+    id: '14'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
-  designation: conn_1
   designator: clkout1
-  footprint: pinheader_1x01_p2_54mm_vertical
-  id: '14'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
+    designation: conn_1
+    designator: clkout1
+    footprint: pinheader_1x01_p2_54mm_vertical
+    id: '14'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
-  designation: conn_1
   designator: gnd1
-  footprint: pinheader_1x01_p2_54mm_vertical
-  id: '14'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
+    designation: conn_1
+    designator: gnd1
+    footprint: pinheader_1x01_p2_54mm_vertical
+    id: '14'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
-  designation: conn_1
   designator: rs1
-  footprint: pinheader_1x01_p2_54mm_vertical
-  id: '14'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
+    designation: conn_1
+    designator: rs1
+    footprint: pinheader_1x01_p2_54mm_vertical
+    id: '14'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
-  designation: conn_1
   designator: ta_1
-  footprint: pinheader_1x01_p2_54mm_vertical
-  id: '14'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
+    designation: conn_1
+    designator: ta_1
+    footprint: pinheader_1x01_p2_54mm_vertical
+    id: '14'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
-  designation: conn_1
   designator: vref1
-  footprint: pinheader_1x01_p2_54mm_vertical
-  id: '14'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 14_allpst1,clkout1,gnd1,rs1,ta_1,vref1_pinheader_1x01_p2_54mm_vertical_6_conn_1___
+    designation: conn_1
+    designator: vref1
+    footprint: pinheader_1x01_p2_54mm_vertical
+    id: '14'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 15_u1_lqfp_100_14x14mm_p0_5mm_1_mcf5213_lqfp100___
-  designation: mcf5213_lqfp100
   designator: u1
-  footprint: lqfp_100_14x14mm_p0_5mm
-  id: '15'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 15_u1_lqfp_100_14x14mm_p0_5mm_1_mcf5213_lqfp100___
+    designation: mcf5213_lqfp100
+    designator: u1
+    footprint: lqfp_100_14x14mm_p0_5mm
+    id: '15'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 16_fb1_r_1206_3216metric_pad1_24x1_80mm_handsolder_1_bead___
-  designation: bead
   designator: fb1
-  footprint: r_1206_3216metric_pad1_24x1_80mm_handsolder
-  id: '16'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 16_fb1_r_1206_3216metric_pad1_24x1_80mm_handsolder_1_bead___
+    designation: bead
+    designator: fb1
+    footprint: r_1206_3216metric_pad1_24x1_80mm_handsolder
+    id: '16'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 17_l1,l2_r_1206_3216metric_pad1_24x1_80mm_handsolder_2_10uh___
-  designation: 10uh
   designator: l1
-  footprint: r_1206_3216metric_pad1_24x1_80mm_handsolder
-  id: '17'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 17_l1,l2_r_1206_3216metric_pad1_24x1_80mm_handsolder_2_10uh___
+    designation: 10uh
+    designator: l1
+    footprint: r_1206_3216metric_pad1_24x1_80mm_handsolder
+    id: '17'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 17_l1,l2_r_1206_3216metric_pad1_24x1_80mm_handsolder_2_10uh___
-  designation: 10uh
   designator: l2
-  footprint: r_1206_3216metric_pad1_24x1_80mm_handsolder
-  id: '17'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 17_l1,l2_r_1206_3216metric_pad1_24x1_80mm_handsolder_2_10uh___
+    designation: 10uh
+    designator: l2
+    footprint: r_1206_3216metric_pad1_24x1_80mm_handsolder
+    id: '17'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 18_lv1_to_92_molded_narrow_1_ds1818___
-  designation: ds1818
   designator: lv1
-  footprint: to_92_molded_narrow
-  id: '18'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 18_lv1_to_92_molded_narrow_1_ds1818___
+    designation: ds1818
+    designator: lv1
+    footprint: to_92_molded_narrow
+    id: '18'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 19_u9_tqfp_144_20x20mm_p0_5mm_1_xcr3256_tq144___
-  designation: xcr3256_tq144
   designator: u9
-  footprint: tqfp_144_20x20mm_p0_5mm
-  id: '19'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: 19_u9_tqfp_144_20x20mm_p0_5mm_1_xcr3256_tq144___
+    designation: xcr3256_tq144
+    designator: u9
+    footprint: tqfp_144_20x20mm_p0_5mm
+    id: '19'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 20_u3,u5,u8_soic_16_3_9x9_9mm_p1_27mm_3_max202___
-  designation: max202
   designator: u3
-  footprint: soic_16_3_9x9_9mm_p1_27mm
-  id: '20'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: 20_u3,u5,u8_soic_16_3_9x9_9mm_p1_27mm_3_max202___
+    designation: max202
+    designator: u3
+    footprint: soic_16_3_9x9_9mm_p1_27mm
+    id: '20'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 20_u3,u5,u8_soic_16_3_9x9_9mm_p1_27mm_3_max202___
-  designation: max202
   designator: u5
-  footprint: soic_16_3_9x9_9mm_p1_27mm
-  id: '20'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: 20_u3,u5,u8_soic_16_3_9x9_9mm_p1_27mm_3_max202___
+    designation: max202
+    designator: u5
+    footprint: soic_16_3_9x9_9mm_p1_27mm
+    id: '20'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 20_u3,u5,u8_soic_16_3_9x9_9mm_p1_27mm_3_max202___
-  designation: max202
   designator: u8
-  footprint: soic_16_3_9x9_9mm_p1_27mm
-  id: '20'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: 20_u3,u5,u8_soic_16_3_9x9_9mm_p1_27mm_3_max202___
+    designation: max202
+    designator: u8
+    footprint: soic_16_3_9x9_9mm_p1_27mm
+    id: '20'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 21_com_sel1,com_sel2,com_sel3_pinheader_1x03_p2_54mm_vertical_3_conn_3___
-  designation: conn_3
   designator: com_sel1
-  footprint: pinheader_1x03_p2_54mm_vertical
-  id: '21'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: 21_com_sel1,com_sel2,com_sel3_pinheader_1x03_p2_54mm_vertical_3_conn_3___
+    designation: conn_3
+    designator: com_sel1
+    footprint: pinheader_1x03_p2_54mm_vertical
+    id: '21'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 21_com_sel1,com_sel2,com_sel3_pinheader_1x03_p2_54mm_vertical_3_conn_3___
-  designation: conn_3
   designator: com_sel2
-  footprint: pinheader_1x03_p2_54mm_vertical
-  id: '21'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: 21_com_sel1,com_sel2,com_sel3_pinheader_1x03_p2_54mm_vertical_3_conn_3___
+    designation: conn_3
+    designator: com_sel2
+    footprint: pinheader_1x03_p2_54mm_vertical
+    id: '21'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 21_com_sel1,com_sel2,com_sel3_pinheader_1x03_p2_54mm_vertical_3_conn_3___
-  designation: conn_3
   designator: com_sel3
-  footprint: pinheader_1x03_p2_54mm_vertical
-  id: '21'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: 21_com_sel1,com_sel2,com_sel3_pinheader_1x03_p2_54mm_vertical_3_conn_3___
+    designation: conn_3
+    designator: com_sel3
+    footprint: pinheader_1x03_p2_54mm_vertical
+    id: '21'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 22_c1,c2_r_0805_2012metric_2_10pf___
-  designation: 10pf
   designator: c1
-  footprint: r_0805_2012metric
-  id: '22'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: 22_c1,c2_r_0805_2012metric_2_10pf___
+    designation: 10pf
+    designator: c1
+    footprint: r_0805_2012metric
+    id: '22'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 22_c1,c2_r_0805_2012metric_2_10pf___
-  designation: 10pf
   designator: c2
-  footprint: r_0805_2012metric
-  id: '22'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: 22_c1,c2_r_0805_2012metric_2_10pf___
+    designation: 10pf
+    designator: c2
+    footprint: r_0805_2012metric
+    id: '22'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 23_c3,c20_r_0805_2012metric_2_1nf___
-  designation: 1nf
   designator: c3
-  footprint: r_0805_2012metric
-  id: '23'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: 23_c3,c20_r_0805_2012metric_2_1nf___
+    designation: 1nf
+    designator: c3
+    footprint: r_0805_2012metric
+    id: '23'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 23_c3,c20_r_0805_2012metric_2_1nf___
-  designation: 1nf
   designator: c20
-  footprint: r_0805_2012metric
-  id: '23'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: 23_c3,c20_r_0805_2012metric_2_1nf___
+    designation: 1nf
+    designator: c20
+    footprint: r_0805_2012metric
+    id: '23'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c4
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c4
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c5
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id044
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c5
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c6
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id045
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c6
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c7
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id046
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c7
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c8
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id047
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c8
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c9
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id048
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c9
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c10
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id049
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c10
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c11
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id050
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c11
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c12
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id051
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c12
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c14
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id052
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c14
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c15
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id053
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c15
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c18
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id054
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c18
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c21
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id055
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c21
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c22
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id056
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c22
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c23
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id057
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c23
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c24
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id058
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c24
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c25
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id059
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c25
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c26
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id060
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c26
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c27
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id061
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c27
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c28
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id062
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c28
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c30
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id063
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c30
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c31
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id064
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c31
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c32
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id065
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c32
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c33
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id066
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c33
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c34
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id067
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c34
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c35
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id068
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c35
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c36
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id069
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c36
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c41
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id070
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c41
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c43
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id071
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c43
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c44
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id072
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c44
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c45
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id073
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c45
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c46
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id074
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c46
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c51
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id075
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c51
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c52
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id076
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c52
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c53
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id077
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c53
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c54
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id078
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c54
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c55
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id079
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c55
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c56
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id080
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c56
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c57
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id081
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c57
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c58
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id082
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c58
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c59
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id083
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c59
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c60
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id084
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c60
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
-  designation: 100nf
   designator: c61
-  footprint: r_0805_2012metric
-  id: '24'
-  quantity: '43'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id085
+    all: 24_c4,c5,c6,c7,c8,c9,c10,c11,c12,c14,c15,c18,c21,c22,c23,c24,c25,c26,c27,c28,c30,c31,c32,c33,c34,c35,c36,c41,c43,c44,c45,c46,c51,c52,c53,c54,c55,c56,c57,c58,c59,c60,c61_r_0805_2012metric_43_100nf___
+    designation: 100nf
+    designator: c61
+    footprint: r_0805_2012metric
+    id: '24'
+    quantity: '43'
+    supplier_and_ref: ''
 - all: 25_r1_r_0805_2012metric_1_1m___
-  designation: 1m
   designator: r1
-  footprint: r_0805_2012metric
-  id: '25'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id086
+    all: 25_r1_r_0805_2012metric_1_1m___
+    designation: 1m
+    designator: r1
+    footprint: r_0805_2012metric
+    id: '25'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r2
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id087
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r2
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r15
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id088
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r15
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r16
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id089
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r16
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r17
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id090
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r17
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r18
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id091
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r18
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r19
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id092
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r19
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r20
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id093
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r20
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r25
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id094
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r25
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r45
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id095
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r45
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r47
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id096
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r47
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r48
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id097
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r48
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r49
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id098
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r49
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
-  designation: 4,7k
   designator: r50
-  footprint: r_0805_2012metric
-  id: '26'
-  quantity: '13'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id099
+    all: 26_r2,r15,r16,r17,r18,r19,r20,r25,r45,r47,r48,r49,r50_r_0805_2012metric_13_4,7k___
+    designation: 4,7k
+    designator: r50
+    footprint: r_0805_2012metric
+    id: '26'
+    quantity: '13'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r4
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id100
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r4
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r5
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id101
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r5
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r6
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id102
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r6
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r8
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id103
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r8
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r10
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id104
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r10
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r11
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id105
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r11
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r13
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id106
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r13
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r23
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id107
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r23
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r26
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id108
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r26
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r30
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id109
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r30
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r34
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id110
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r34
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
-  designation: 10k
   designator: r35
-  footprint: r_0805_2012metric
-  id: '27'
-  quantity: '12'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id111
+    all: 27_r4,r5,r6,r8,r10,r11,r13,r23,r26,r30,r34,r35_r_0805_2012metric_12_10k___
+    designation: 10k
+    designator: r35
+    footprint: r_0805_2012metric
+    id: '27'
+    quantity: '12'
+    supplier_and_ref: ''
 - all: 28_r7,r36,r62,r63_r_0805_2012metric_4_1k___
-  designation: 1k
   designator: r7
-  footprint: r_0805_2012metric
-  id: '28'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id112
+    all: 28_r7,r36,r62,r63_r_0805_2012metric_4_1k___
+    designation: 1k
+    designator: r7
+    footprint: r_0805_2012metric
+    id: '28'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 28_r7,r36,r62,r63_r_0805_2012metric_4_1k___
-  designation: 1k
   designator: r36
-  footprint: r_0805_2012metric
-  id: '28'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id113
+    all: 28_r7,r36,r62,r63_r_0805_2012metric_4_1k___
+    designation: 1k
+    designator: r36
+    footprint: r_0805_2012metric
+    id: '28'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 28_r7,r36,r62,r63_r_0805_2012metric_4_1k___
-  designation: 1k
   designator: r62
-  footprint: r_0805_2012metric
-  id: '28'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id114
+    all: 28_r7,r36,r62,r63_r_0805_2012metric_4_1k___
+    designation: 1k
+    designator: r62
+    footprint: r_0805_2012metric
+    id: '28'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 28_r7,r36,r62,r63_r_0805_2012metric_4_1k___
-  designation: 1k
   designator: r63
-  footprint: r_0805_2012metric
-  id: '28'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id115
+    all: 28_r7,r36,r62,r63_r_0805_2012metric_4_1k___
+    designation: 1k
+    designator: r63
+    footprint: r_0805_2012metric
+    id: '28'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 29_r9_r_0805_2012metric_1_0___
-  designation: '0'
   designator: r9
-  footprint: r_0805_2012metric
-  id: '29'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id116
+    all: 29_r9_r_0805_2012metric_1_0___
+    designation: '0'
+    designator: r9
+    footprint: r_0805_2012metric
+    id: '29'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 30_r12_r_0805_2012metric_1_20k___
-  designation: 20k
   designator: r12
-  footprint: r_0805_2012metric
-  id: '30'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id117
+    all: 30_r12_r_0805_2012metric_1_20k___
+    designation: 20k
+    designator: r12
+    footprint: r_0805_2012metric
+    id: '30'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
-  designation: '270'
   designator: r14
-  footprint: r_0805_2012metric
-  id: '31'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id118
+    all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
+    designation: '270'
+    designator: r14
+    footprint: r_0805_2012metric
+    id: '31'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
-  designation: '270'
   designator: r22
-  footprint: r_0805_2012metric
-  id: '31'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id119
+    all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
+    designation: '270'
+    designator: r22
+    footprint: r_0805_2012metric
+    id: '31'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
-  designation: '270'
   designator: r28
-  footprint: r_0805_2012metric
-  id: '31'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id120
+    all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
+    designation: '270'
+    designator: r28
+    footprint: r_0805_2012metric
+    id: '31'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
-  designation: '270'
   designator: r31
-  footprint: r_0805_2012metric
-  id: '31'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id121
+    all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
+    designation: '270'
+    designator: r31
+    footprint: r_0805_2012metric
+    id: '31'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
-  designation: '270'
   designator: r32
-  footprint: r_0805_2012metric
-  id: '31'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id122
+    all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
+    designation: '270'
+    designator: r32
+    footprint: r_0805_2012metric
+    id: '31'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
-  designation: '270'
   designator: r33
-  footprint: r_0805_2012metric
-  id: '31'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id123
+    all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
+    designation: '270'
+    designator: r33
+    footprint: r_0805_2012metric
+    id: '31'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
-  designation: '270'
   designator: r53
-  footprint: r_0805_2012metric
-  id: '31'
-  quantity: '7'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id124
+    all: 31_r14,r22,r28,r31,r32,r33,r53_r_0805_2012metric_7_270___
+    designation: '270'
+    designator: r53
+    footprint: r_0805_2012metric
+    id: '31'
+    quantity: '7'
+    supplier_and_ref: ''
 - all: 32_r21_r_0805_2012metric_1_4_7k___
-  designation: 4_7k
   designator: r21
-  footprint: r_0805_2012metric
-  id: '32'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id125
+    all: 32_r21_r_0805_2012metric_1_4_7k___
+    designation: 4_7k
+    designator: r21
+    footprint: r_0805_2012metric
+    id: '32'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 33_r38_r_0805_2012metric_1_62___
-  designation: '62'
   designator: r38
-  footprint: r_0805_2012metric
-  id: '33'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id126
+    all: 33_r38_r_0805_2012metric_1_62___
+    designation: '62'
+    designator: r38
+    footprint: r_0805_2012metric
+    id: '33'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 34_r46_r_0805_2012metric_1_22___
-  designation: '22'
   designator: r46
-  footprint: r_0805_2012metric
-  id: '34'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id127
+    all: 34_r46_r_0805_2012metric_1_22___
+    designation: '22'
+    designator: r46
+    footprint: r_0805_2012metric
+    id: '34'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 35_r57_r_0805_2012metric_1_4k7___
-  designation: 4k7
   designator: r57
-  footprint: r_0805_2012metric
-  id: '35'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id128
+    all: 35_r57_r_0805_2012metric_1_4k7___
+    designation: 4k7
+    designator: r57
+    footprint: r_0805_2012metric
+    id: '35'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 36_rcan1,rcan2_r_0805_2012metric_2_r___
-  designation: r
   designator: rcan1
-  footprint: r_0805_2012metric
-  id: '36'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id129
+    all: 36_rcan1,rcan2_r_0805_2012metric_2_r___
+    designation: r
+    designator: rcan1
+    footprint: r_0805_2012metric
+    id: '36'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 36_rcan1,rcan2_r_0805_2012metric_2_r___
-  designation: r
   designator: rcan2
-  footprint: r_0805_2012metric
-  id: '36'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id130
+    all: 36_rcan1,rcan2_r_0805_2012metric_2_r___
+    designation: r
+    designator: rcan2
+    footprint: r_0805_2012metric
+    id: '36'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 37_y1_crystal_hc18_u_horizontal_1_8mhz___
-  designation: 8mhz
   designator: y1
-  footprint: crystal_hc18_u_horizontal
-  id: '37'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id131
+    all: 37_y1_crystal_hc18_u_horizontal_1_8mhz___
+    designation: 8mhz
+    designator: y1
+    footprint: crystal_hc18_u_horizontal
+    id: '37'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
-  designation: jumper
   designator: bdm_en1
-  footprint: pinheader_1x02_p2_54mm_vertical
-  id: '38'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id132
+    all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
+    designation: jumper
+    designator: bdm_en1
+    footprint: pinheader_1x02_p2_54mm_vertical
+    id: '38'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
-  designation: jumper
   designator: can_term1
-  footprint: pinheader_1x02_p2_54mm_vertical
-  id: '38'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id133
+    all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
+    designation: jumper
+    designator: can_term1
+    footprint: pinheader_1x02_p2_54mm_vertical
+    id: '38'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
-  designation: jumper
   designator: clk0
-  footprint: pinheader_1x02_p2_54mm_vertical
-  id: '38'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id134
+    all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
+    designation: jumper
+    designator: clk0
+    footprint: pinheader_1x02_p2_54mm_vertical
+    id: '38'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
-  designation: jumper
   designator: clk1
-  footprint: pinheader_1x02_p2_54mm_vertical
-  id: '38'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id135
+    all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
+    designation: jumper
+    designator: clk1
+    footprint: pinheader_1x02_p2_54mm_vertical
+    id: '38'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
-  designation: jumper
   designator: ct1
-  footprint: pinheader_1x02_p2_54mm_vertical
-  id: '38'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id136
+    all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
+    designation: jumper
+    designator: ct1
+    footprint: pinheader_1x02_p2_54mm_vertical
+    id: '38'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
-  designation: jumper
   designator: led_en1
-  footprint: pinheader_1x02_p2_54mm_vertical
-  id: '38'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id137
+    all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
+    designation: jumper
+    designator: led_en1
+    footprint: pinheader_1x02_p2_54mm_vertical
+    id: '38'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
-  designation: jumper
   designator: vdda1
-  footprint: pinheader_1x02_p2_54mm_vertical
-  id: '38'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id138
+    all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
+    designation: jumper
+    designator: vdda1
+    footprint: pinheader_1x02_p2_54mm_vertical
+    id: '38'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
-  designation: jumper
   designator: vx_en1
-  footprint: pinheader_1x02_p2_54mm_vertical
-  id: '38'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id139
+    all: 38_bdm_en1,can_term1,clk0,clk1,ct1,led_en1,vdda1,vx_en1_pinheader_1x02_p2_54mm_vertical_8_jumper___
+    designation: jumper
+    designator: vx_en1
+    footprint: pinheader_1x02_p2_54mm_vertical
+    id: '38'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 39_p1_pinheader_1x06_p2_54mm_vertical_1_conn_6___
-  designation: conn_6
   designator: p1
-  footprint: pinheader_1x06_p2_54mm_vertical
-  id: '39'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id140
+    all: 39_p1_pinheader_1x06_p2_54mm_vertical_1_conn_6___
+    designation: conn_6
+    designator: p1
+    footprint: pinheader_1x06_p2_54mm_vertical
+    id: '39'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 40_can_en1,p3_pinheader_2x02_p2_54mm_vertical_2_conn_2x2___
-  designation: conn_2x2
   designator: can_en1
-  footprint: pinheader_2x02_p2_54mm_vertical
-  id: '40'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id141
+    all: 40_can_en1,p3_pinheader_2x02_p2_54mm_vertical_2_conn_2x2___
+    designation: conn_2x2
+    designator: can_en1
+    footprint: pinheader_2x02_p2_54mm_vertical
+    id: '40'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 40_can_en1,p3_pinheader_2x02_p2_54mm_vertical_2_conn_2x2___
-  designation: conn_2x2
   designator: p3
-  footprint: pinheader_2x02_p2_54mm_vertical
-  id: '40'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id142
+    all: 40_can_en1,p3_pinheader_2x02_p2_54mm_vertical_2_conn_2x2___
+    designation: conn_2x2
+    designator: p3
+    footprint: pinheader_2x02_p2_54mm_vertical
+    id: '40'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 41_pulupen1,uart_en0,uart_en1,uart_en2_pinheader_2x04_p2_54mm_vertical_4_conn_4x2___
-  designation: conn_4x2
   designator: pulupen1
-  footprint: pinheader_2x04_p2_54mm_vertical
-  id: '41'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id143
+    all: 41_pulupen1,uart_en0,uart_en1,uart_en2_pinheader_2x04_p2_54mm_vertical_4_conn_4x2___
+    designation: conn_4x2
+    designator: pulupen1
+    footprint: pinheader_2x04_p2_54mm_vertical
+    id: '41'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 41_pulupen1,uart_en0,uart_en1,uart_en2_pinheader_2x04_p2_54mm_vertical_4_conn_4x2___
-  designation: conn_4x2
   designator: uart_en0
-  footprint: pinheader_2x04_p2_54mm_vertical
-  id: '41'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id144
+    all: 41_pulupen1,uart_en0,uart_en1,uart_en2_pinheader_2x04_p2_54mm_vertical_4_conn_4x2___
+    designation: conn_4x2
+    designator: uart_en0
+    footprint: pinheader_2x04_p2_54mm_vertical
+    id: '41'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 41_pulupen1,uart_en0,uart_en1,uart_en2_pinheader_2x04_p2_54mm_vertical_4_conn_4x2___
-  designation: conn_4x2
   designator: uart_en1
-  footprint: pinheader_2x04_p2_54mm_vertical
-  id: '41'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id145
+    all: 41_pulupen1,uart_en0,uart_en1,uart_en2_pinheader_2x04_p2_54mm_vertical_4_conn_4x2___
+    designation: conn_4x2
+    designator: uart_en1
+    footprint: pinheader_2x04_p2_54mm_vertical
+    id: '41'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 41_pulupen1,uart_en0,uart_en1,uart_en2_pinheader_2x04_p2_54mm_vertical_4_conn_4x2___
-  designation: conn_4x2
   designator: uart_en2
-  footprint: pinheader_2x04_p2_54mm_vertical
-  id: '41'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id146
+    all: 41_pulupen1,uart_en0,uart_en1,uart_en2_pinheader_2x04_p2_54mm_vertical_4_conn_4x2___
+    designation: conn_4x2
+    designator: uart_en2
+    footprint: pinheader_2x04_p2_54mm_vertical
+    id: '41'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 42_bdm_port1_pinheader_2x13_p2_54mm_vertical_1_conn_13x2___
-  designation: conn_13x2
   designator: bdm_port1
-  footprint: pinheader_2x13_p2_54mm_vertical
-  id: '42'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id147
+    all: 42_bdm_port1_pinheader_2x13_p2_54mm_vertical_1_conn_13x2___
+    designation: conn_13x2
+    designator: bdm_port1
+    footprint: pinheader_2x13_p2_54mm_vertical
+    id: '42'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 43_mcu_port1_pinheader_2x30_p2_54mm_vertical_1_conn_30x2___
-  designation: conn_30x2
   designator: mcu_port1
-  footprint: pinheader_2x30_p2_54mm_vertical
-  id: '43'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id148
+    all: 43_mcu_port1_pinheader_2x30_p2_54mm_vertical_1_conn_30x2___
+    designation: conn_30x2
+    designator: mcu_port1
+    footprint: pinheader_2x30_p2_54mm_vertical
+    id: '43'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 44_p4_pinheader_2x20_p2_54mm_vertical_1_conn_20x2___
-  designation: conn_20x2
   designator: p4
-  footprint: pinheader_2x20_p2_54mm_vertical
-  id: '44'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id149
+    all: 44_p4_pinheader_2x20_p2_54mm_vertical_1_conn_20x2___
+    designation: conn_20x2
+    designator: p4
+    footprint: pinheader_2x20_p2_54mm_vertical
+    id: '44'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 45_f1_fsupcms_1_fuse___
-  designation: fuse
   designator: f1
-  footprint: fsupcms
-  id: '45'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id150
+    all: 45_f1_fsupcms_1_fuse___
+    designation: fuse
+    designator: f1
+    footprint: fsupcms
+    id: '45'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 46_j1_jack_alim_1_jack_2p___
-  designation: jack_2p
   designator: j1
-  footprint: jack_alim
-  id: '46'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id151
+    all: 46_j1_jack_alim_1_jack_2p___
+    designation: jack_2p
+    designator: j1
+    footprint: jack_alim
+    id: '46'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 47_q1_sot23ebc_1_3906___
-  designation: '3906'
   designator: q1
-  footprint: sot23ebc
-  id: '47'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id152
+    all: 47_q1_sot23ebc_1_3906___
+    designation: '3906'
+    designator: q1
+    footprint: sot23ebc
+    id: '47'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 48_sw_onoff1_sw_spdt_1_switch_inv___
-  designation: switch_inv
   designator: sw_onoff1
-  footprint: sw_spdt
-  id: '48'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id153
+    all: 48_sw_onoff1_sw_spdt_1_switch_inv___
+    designation: switch_inv
+    designator: sw_onoff1
+    footprint: sw_spdt
+    id: '48'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 49_tb1_bornier2_1_conn_2___
-  designation: conn_2
   designator: tb1
-  footprint: bornier2
-  id: '49'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id154
+    all: 49_tb1_bornier2_1_conn_2___
+    designation: conn_2
+    designator: tb1
+    footprint: bornier2
+    id: '49'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 50_u2_sot353_1_74ahc1g14___
-  designation: 74ahc1g14
   designator: u2
-  footprint: sot353
-  id: '50'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id155
+    all: 50_u2_sot353_1_74ahc1g14___
+    designation: 74ahc1g14
+    designator: u2
+    footprint: sot353
+    id: '50'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 51_uartcan0,uartcan1,uartcan2_db9fc_3_db9___
-  designation: db9
   designator: uartcan0
-  footprint: db9fc
-  id: '51'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id156
+    all: 51_uartcan0,uartcan1,uartcan2_db9fc_3_db9___
+    designation: db9
+    designator: uartcan0
+    footprint: db9fc
+    id: '51'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 51_uartcan0,uartcan1,uartcan2_db9fc_3_db9___
-  designation: db9
   designator: uartcan1
-  footprint: db9fc
-  id: '51'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id157
+    all: 51_uartcan0,uartcan1,uartcan2_db9fc_3_db9___
+    designation: db9
+    designator: uartcan1
+    footprint: db9fc
+    id: '51'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 51_uartcan0,uartcan1,uartcan2_db9fc_3_db9___
-  designation: db9
   designator: uartcan2
-  footprint: db9fc
-  id: '51'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id158
+    all: 51_uartcan0,uartcan1,uartcan2_db9fc_3_db9___
+    designation: db9
+    designator: uartcan2
+    footprint: db9fc
+    id: '51'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 52_abrt_sw1,rst_sw1,sw1,sw2_sw_push_small_4_sw_push___
-  designation: sw_push
   designator: abrt_sw1
-  footprint: sw_push_small
-  id: '52'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id159
+    all: 52_abrt_sw1,rst_sw1,sw1,sw2_sw_push_small_4_sw_push___
+    designation: sw_push
+    designator: abrt_sw1
+    footprint: sw_push_small
+    id: '52'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 52_abrt_sw1,rst_sw1,sw1,sw2_sw_push_small_4_sw_push___
-  designation: sw_push
   designator: rst_sw1
-  footprint: sw_push_small
-  id: '52'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id160
+    all: 52_abrt_sw1,rst_sw1,sw1,sw2_sw_push_small_4_sw_push___
+    designation: sw_push
+    designator: rst_sw1
+    footprint: sw_push_small
+    id: '52'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 52_abrt_sw1,rst_sw1,sw1,sw2_sw_push_small_4_sw_push___
-  designation: sw_push
   designator: sw1
-  footprint: sw_push_small
-  id: '52'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id161
+    all: 52_abrt_sw1,rst_sw1,sw1,sw2_sw_push_small_4_sw_push___
+    designation: sw_push
+    designator: sw1
+    footprint: sw_push_small
+    id: '52'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 52_abrt_sw1,rst_sw1,sw1,sw2_sw_push_small_4_sw_push___
-  designation: sw_push
   designator: sw2
-  footprint: sw_push_small
-  id: '52'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id162
+    all: 52_abrt_sw1,rst_sw1,sw1,sw2_sw_push_small_4_sw_push___
+    designation: sw_push
+    designator: sw2
+    footprint: sw_push_small
+    id: '52'
+    quantity: '4'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
+- *id049
+- *id050
+- *id051
+- *id052
+- *id053
+- *id054
+- *id055
+- *id056
+- *id057
+- *id058
+- *id059
+- *id060
+- *id061
+- *id062
+- *id063
+- *id064
+- *id065
+- *id066
+- *id067
+- *id068
+- *id069
+- *id070
+- *id071
+- *id072
+- *id073
+- *id074
+- *id075
+- *id076
+- *id077
+- *id078
+- *id079
+- *id080
+- *id081
+- *id082
+- *id083
+- *id084
+- *id085
+- *id086
+- *id087
+- *id088
+- *id089
+- *id090
+- *id091
+- *id092
+- *id093
+- *id094
+- *id095
+- *id096
+- *id097
+- *id098
+- *id099
+- *id100
+- *id101
+- *id102
+- *id103
+- *id104
+- *id105
+- *id106
+- *id107
+- *id108
+- *id109
+- *id110
+- *id111
+- *id112
+- *id113
+- *id114
+- *id115
+- *id116
+- *id117
+- *id118
+- *id119
+- *id120
+- *id121
+- *id122
+- *id123
+- *id124
+- *id125
+- *id126
+- *id127
+- *id128
+- *id129
+- *id130
+- *id131
+- *id132
+- *id133
+- *id134
+- *id135
+- *id136
+- *id137
+- *id138
+- *id139
+- *id140
+- *id141
+- *id142
+- *id143
+- *id144
+- *id145
+- *id146
+- *id147
+- *id148
+- *id149
+- *id150
+- *id151
+- *id152
+- *id153
+- *id154
+- *id155
+- *id156
+- *id157
+- *id158
+- *id159
+- *id160
+- *id161
+- *id162
 projects_flat: projects_flat/dragonmux_kicad_color_schemes/version_current/working
 projects_folder: projects_folder/dragonmux/kicad-color-schemes/version_current/working
 repo:

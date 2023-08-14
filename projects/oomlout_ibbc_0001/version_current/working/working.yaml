@@ -13,46 +13,179 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\oomlout_ibbc_0001\version_current\working
 oomp_key: oomp_projects_flat_oomlout_ibbc_0001
 oomp_key_simple: projects_flat_oomlout_ibbc_0001
-parts_verbose:
+parts_oomp:
 - all: 1,unpolarized_capacitor,c,c3,100nf,c_0603_1608metric,1,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,unpolarized_capacitor,c,c3,100nf,c_0603_1608metric,1,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,unpolarized_capacitor,c,c3,100nf,c_0603_1608metric,1,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,unpolarized_capacitor,c,c3,100nf,c_0603_1608metric,1,_,~
 - all: 2,unpolarized_capacitor,c,c1_c2,10uf,c_0805_2012metric,2,_,~_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,unpolarized_capacitor,c,c1_c2,10uf,c_0805_2012metric,2,_,~
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,unpolarized_capacitor,c,c1_c2,10uf,c_0805_2012metric,2,_,~_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,unpolarized_capacitor,c,c1_c2,10uf,c_0805_2012metric,2,_,~
 - all: 3,_3_axis_mems_accelerometer,_2_4_8_16g_range,_i2c_spi,_lga_14_,adxl343,u2,adxl343,lga_14_3x5mm_p0_8mm_layoutborder1x6y,1,_,https_www_analog_com_media_en_technical_documentation_data_sheets_adxl343_pdf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,_3_axis_mems_accelerometer,_2_4_8_16g_range,_i2c_spi,_lga_14_,adxl343,u2,adxl343,lga_14_3x5mm_p0_8mm_layoutborder1x6y,1,_,https_www_analog_com_media_en_technical_documentation_data_sheets_adxl343_pdf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,_3_axis_mems_accelerometer,_2_4_8_16g_range,_i2c_spi,_lga_14_,adxl343,u2,adxl343,lga_14_3x5mm_p0_8mm_layoutborder1x6y,1,_,https_www_analog_com_media_en_technical_documentation_data_sheets_adxl343_pdf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,_3_axis_mems_accelerometer,_2_4_8_16g_range,_i2c_spi,_lga_14_,adxl343,u2,adxl343,lga_14_3x5mm_p0_8mm_layoutborder1x6y,1,_,https_www_analog_com_media_en_technical_documentation_data_sheets_adxl343_pdf
 - all: 4,_600ma_low_dropout_linear_regulator,_with_enable_pin,_3_8v_6v_input_voltage_range,_3_3v_fixed_positive_output,_sot_23_5_,ap2112k_3_3,u1,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,_600ma_low_dropout_linear_regulator,_with_enable_pin,_3_8v_6v_input_voltage_range,_3_3v_fixed_positive_output,_sot_23_5_,ap2112k_3_3,u1,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,_600ma_low_dropout_linear_regulator,_with_enable_pin,_3_8v_6v_input_voltage_range,_3_3v_fixed_positive_output,_sot_23_5_,ap2112k_3_3,u1,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,_600ma_low_dropout_linear_regulator,_with_enable_pin,_3_8v_6v_input_voltage_range,_3_3v_fixed_positive_output,_sot_23_5_,ap2112k_3_3,u1,ap2112k_3_3,sot_23_5,1,_,https_www_diodes_com_assets_datasheets_ap2112_pdf
 - all: 5,,module_conn_brbo_ibbc_sz01,u3,module_conn_brbo_ibbc_sz01,module_conn_brbo_ibbc_sz01,1,_,oom_lt_mcbi1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,module_conn_brbo_ibbc_sz01,u3,module_conn_brbo_ibbc_sz01,module_conn_brbo_ibbc_sz01,1,_,oom_lt_mcbi1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,,module_conn_brbo_ibbc_sz01,u3,module_conn_brbo_ibbc_sz01,module_conn_brbo_ibbc_sz01,1,_,oom_lt_mcbi1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,module_conn_brbo_ibbc_sz01,u3,module_conn_brbo_ibbc_sz01,module_conn_brbo_ibbc_sz01,1,_,oom_lt_mcbi1
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
 - all: date_,2023_08_02_17_08_59_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_59
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: date_,2023_08_02_17_08_59_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_59
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
 - all: component_groups_,5_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,5
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: component_groups_,5_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,5
 - all: component_count_,6_(5_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,6_(5_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: component_count_,6_(5_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,6_(5_smd_0_tht)
 - all: fitted_components_,6_(5_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,6_(5_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: fitted_components_,6_(5_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,6_(5_smd_0_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
 - all: total_components_,6_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,6
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: total_components_,6_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,6
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
 projects_flat: projects_flat/oomlout_ibbc_0001/version_current/working
 projects_folder: projects_folder/oomlout/IBBC_0001/version_current/working
 repo:

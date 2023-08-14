@@ -13,147 +13,297 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\coddingtonbear_urchin\version_current\working
 oomp_key: oomp_projects_flat_coddingtonbear_urchin
 oomp_key_simple: projects_flat_coddingtonbear_urchin
-parts_verbose:
+parts_oomp:
 - all: 1_c8_r_1206_handsoldering_1_100u___
-  designation: 100u
   designator: c8
-  footprint: r_1206_handsoldering
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_c8_r_1206_handsoldering_1_100u___
+    designation: 100u
+    designator: c8
+    footprint: r_1206_handsoldering
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_d1_slv6a_fkb_1_led_rgb___
-  designation: led_rgb
   designator: d1
-  footprint: slv6a_fkb
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_d1_slv6a_fkb_1_led_rgb___
+    designation: led_rgb
+    designator: d1
+    footprint: slv6a_fkb
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_y1_crystal_smd_hc49_sd_1_12m___
-  designation: 12m
   designator: y1
-  footprint: crystal_smd_hc49_sd
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_y1_crystal_smd_hc49_sd_1_12m___
+    designation: 12m
+    designator: y1
+    footprint: crystal_smd_hc49_sd
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_u1_soic_16_3_9x9_9mm_pitch1_27mm_1_ch340g___
-  designation: ch340g
   designator: u1
-  footprint: soic_16_3_9x9_9mm_pitch1_27mm
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4_u1_soic_16_3_9x9_9mm_pitch1_27mm_1_ch340g___
+    designation: ch340g
+    designator: u1
+    footprint: soic_16_3_9x9_9mm_pitch1_27mm
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_c7,c6,c3,c2,c1_c_0805_handsoldering_5_0_1u___
-  designation: 0_1u
   designator: c7
-  footprint: c_0805_handsoldering
-  id: '5'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5_c7,c6,c3,c2,c1_c_0805_handsoldering_5_0_1u___
+    designation: 0_1u
+    designator: c7
+    footprint: c_0805_handsoldering
+    id: '5'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 5_c7,c6,c3,c2,c1_c_0805_handsoldering_5_0_1u___
-  designation: 0_1u
   designator: c6
-  footprint: c_0805_handsoldering
-  id: '5'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_c7,c6,c3,c2,c1_c_0805_handsoldering_5_0_1u___
+    designation: 0_1u
+    designator: c6
+    footprint: c_0805_handsoldering
+    id: '5'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 5_c7,c6,c3,c2,c1_c_0805_handsoldering_5_0_1u___
-  designation: 0_1u
   designator: c3
-  footprint: c_0805_handsoldering
-  id: '5'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 5_c7,c6,c3,c2,c1_c_0805_handsoldering_5_0_1u___
+    designation: 0_1u
+    designator: c3
+    footprint: c_0805_handsoldering
+    id: '5'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 5_c7,c6,c3,c2,c1_c_0805_handsoldering_5_0_1u___
-  designation: 0_1u
   designator: c2
-  footprint: c_0805_handsoldering
-  id: '5'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 5_c7,c6,c3,c2,c1_c_0805_handsoldering_5_0_1u___
+    designation: 0_1u
+    designator: c2
+    footprint: c_0805_handsoldering
+    id: '5'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 5_c7,c6,c3,c2,c1_c_0805_handsoldering_5_0_1u___
-  designation: 0_1u
   designator: c1
-  footprint: c_0805_handsoldering
-  id: '5'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 5_c7,c6,c3,c2,c1_c_0805_handsoldering_5_0_1u___
+    designation: 0_1u
+    designator: c1
+    footprint: c_0805_handsoldering
+    id: '5'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 6_c5,c4_c_0805_handsoldering_2_22p___
-  designation: 22p
   designator: c5
-  footprint: c_0805_handsoldering
-  id: '6'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 6_c5,c4_c_0805_handsoldering_2_22p___
+    designation: 22p
+    designator: c5
+    footprint: c_0805_handsoldering
+    id: '6'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 6_c5,c4_c_0805_handsoldering_2_22p___
-  designation: 22p
   designator: c4
-  footprint: c_0805_handsoldering
-  id: '6'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 6_c5,c4_c_0805_handsoldering_2_22p___
+    designation: 22p
+    designator: c4
+    footprint: c_0805_handsoldering
+    id: '6'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 7_r3,r1,r4_r_0805_handsoldering_3_r_small___
-  designation: r_small
   designator: r3
-  footprint: r_0805_handsoldering
-  id: '7'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 7_r3,r1,r4_r_0805_handsoldering_3_r_small___
+    designation: r_small
+    designator: r3
+    footprint: r_0805_handsoldering
+    id: '7'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 7_r3,r1,r4_r_0805_handsoldering_3_r_small___
-  designation: r_small
   designator: r1
-  footprint: r_0805_handsoldering
-  id: '7'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 7_r3,r1,r4_r_0805_handsoldering_3_r_small___
+    designation: r_small
+    designator: r1
+    footprint: r_0805_handsoldering
+    id: '7'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 7_r3,r1,r4_r_0805_handsoldering_3_r_small___
-  designation: r_small
   designator: r4
-  footprint: r_0805_handsoldering
-  id: '7'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 7_r3,r1,r4_r_0805_handsoldering_3_r_small___
+    designation: r_small
+    designator: r4
+    footprint: r_0805_handsoldering
+    id: '7'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 8_r2_r_0805_handsoldering_1_10k___
-  designation: 10k
   designator: r2
-  footprint: r_0805_handsoldering
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 8_r2_r_0805_handsoldering_1_10k___
+    designation: 10k
+    designator: r2
+    footprint: r_0805_handsoldering
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_ic1_tqfp32_atmega328p_1_atmega328pb_a___
-  designation: atmega328pb_a
   designator: ic1
-  footprint: tqfp32_atmega328p
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part:
+    classification: electronic
+    color: mcu
+    description_extra: ''
+    description_main: atmega328
+    directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
+    distributors: []
+    footprint:
+    - directory: oomlout_oomp_footprint_bot/footprints/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm//working/working.kicad_mod
+      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+      oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+    id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
+    make_files: true
+    manufacturer: microchip
+    md5: 0ef260de677934fd9e6ad05b3f7553fd
+    md5_10: 0ef260de67
+    md5_5: 0ef26
+    md5_6: 0ef260
+    name: Electronic Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Aur
+    oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur
+    part_number: atmega328p_aur
+    short_code: itq32at328
+    short_name: atmega328 32 pin tqfp
+    size: tqfp_32
+    symbol:
+    - directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_a//working/working.kicad_sym
+      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
+      oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
+    type: ic
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 9_ic1_tqfp32_atmega328p_1_atmega328pb_a___
+    designation: atmega328pb_a
+    designator: ic1
+    footprint: tqfp32_atmega328p
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_p1_smd_pin_header_02x03_1_conn_02x03___
-  designation: conn_02x03
   designator: p1
-  footprint: smd_pin_header_02x03
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 10_p1_smd_pin_header_02x03_1_conn_02x03___
+    designation: conn_02x03
+    designator: p1
+    footprint: smd_pin_header_02x03
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_jp1_pin_header_straight_1x03_pitch2_54mm_smd_pin1left_1_jumper_nc_dual___
-  designation: jumper_nc_dual
   designator: jp1
-  footprint: pin_header_straight_1x03_pitch2_54mm_smd_pin1left
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 11_jp1_pin_header_straight_1x03_pitch2_54mm_smd_pin1left_1_jumper_nc_dual___
+    designation: jumper_nc_dual
+    designator: jp1
+    footprint: pin_header_straight_1x03_pitch2_54mm_smd_pin1left
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_ic2_sm_soic_8_208mil_1_attiny85_s___
-  designation: attiny85_s
   designator: ic2
-  footprint: sm_soic_8_208mil
-  id: '12'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 12_ic2_sm_soic_8_208mil_1_attiny85_s___
+    designation: attiny85_s
+    designator: ic2
+    footprint: sm_soic_8_208mil
+    id: '12'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 13_p2_micro_b_usb_inverted_1_usb_otg___
-  designation: usb_otg
   designator: p2
-  footprint: micro_b_usb_inverted
-  id: '13'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 13_p2_micro_b_usb_inverted_1_usb_otg___
+    designation: usb_otg
+    designator: p2
+    footprint: micro_b_usb_inverted
+    id: '13'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
 projects_flat: projects_flat/coddingtonbear_urchin/version_current/working
 projects_folder: projects_folder/coddingtonbear/urchin/version_current/working
 repo:

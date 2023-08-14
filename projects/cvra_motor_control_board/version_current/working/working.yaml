@@ -13,385 +13,710 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cvra_motor_control_board\version_current\working
 oomp_key: oomp_projects_flat_cvra_motor_control_board
 oomp_key_simple: projects_flat_cvra_motor_control_board
-parts_verbose:
+parts_oomp:
 - all: 1_u1__lqfp48_1_stm32f303cct6___
-  designation: stm32f303cct6
   designator: u1
-  footprint: _lqfp48
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_u1__lqfp48_1_stm32f303cct6___
+    designation: stm32f303cct6
+    designator: u1
+    footprint: _lqfp48
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
-  designation: 100n
   designator: c7
-  footprint: _0603
-  id: '2'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
+    designation: 100n
+    designator: c7
+    footprint: _0603
+    id: '2'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
-  designation: 100n
   designator: c9
-  footprint: _0603
-  id: '2'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
+    designation: 100n
+    designator: c9
+    footprint: _0603
+    id: '2'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
-  designation: 100n
   designator: c6
-  footprint: _0603
-  id: '2'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
+    designation: 100n
+    designator: c6
+    footprint: _0603
+    id: '2'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
-  designation: 100n
   designator: c13
-  footprint: _0603
-  id: '2'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
+    designation: 100n
+    designator: c13
+    footprint: _0603
+    id: '2'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
-  designation: 100n
   designator: c5
-  footprint: _0603
-  id: '2'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
+    designation: 100n
+    designator: c5
+    footprint: _0603
+    id: '2'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
-  designation: 100n
   designator: c1
-  footprint: _0603
-  id: '2'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 2_c7,c9,c6,c13,c5,c1__0603_6_100n___
+    designation: 100n
+    designator: c1
+    footprint: _0603
+    id: '2'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_c10__0603_1_10n___
-  designation: 10n
   designator: c10
-  footprint: _0603
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 3_c10__0603_1_10n___
+    designation: 10n
+    designator: c10
+    footprint: _0603
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_c11,c12__0603_2_10pf___
-  designation: 10pf
   designator: c11
-  footprint: _0603
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 4_c11,c12__0603_2_10pf___
+    designation: 10pf
+    designator: c11
+    footprint: _0603
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 4_c11,c12__0603_2_10pf___
-  designation: 10pf
   designator: c12
-  footprint: _0603
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 4_c11,c12__0603_2_10pf___
+    designation: 10pf
+    designator: c12
+    footprint: _0603
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 5_ic1_cvra_sot23_5_1_tps71501___
-  designation: tps71501
   designator: ic1
-  footprint: cvra_sot23_5
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 5_ic1_cvra_sot23_5_1_tps71501___
+    designation: tps71501
+    designator: ic1
+    footprint: cvra_sot23_5
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_d1_cvra_sod80c_1_diodesch___
-  designation: diodesch
   designator: d1
-  footprint: cvra_sod80c
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 6_d1_cvra_sod80c_1_diodesch___
+    designation: diodesch
+    designator: d1
+    footprint: cvra_sod80c
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_r10_cvra_1206_1_1_0_01r___
-  designation: 0_01r
   designator: r10
-  footprint: cvra_1206_1
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 7_r10_cvra_1206_1_1_0_01r___
+    designation: 0_01r
+    designator: r10
+    footprint: cvra_1206_1
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_x1__tsx_3225_smd_xtal_1_16mhz___
-  designation: 16mhz
   designator: x1
-  footprint: _tsx_3225_smd_xtal
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 8_x1__tsx_3225_smd_xtal_1_16mhz___
+    designation: 16mhz
+    designator: x1
+    footprint: _tsx_3225_smd_xtal
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_ic3__sot23_8_1_max3051___
-  designation: max3051
   designator: ic3
-  footprint: _sot23_8
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 9_ic3__sot23_8_1_max3051___
+    designation: max3051
+    designator: ic3
+    footprint: _sot23_8
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_r9__0603_1_330___
-  designation: '330'
   designator: r9
-  footprint: _0603
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 10_r9__0603_1_330___
+    designation: '330'
+    designator: r9
+    footprint: _0603
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_c18__0603_1_c___
-  designation: c
   designator: c18
-  footprint: _0603
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 11_c18__0603_1_c___
+    designation: c
+    designator: c18
+    footprint: _0603
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_r13,r12__0603_2_r___
-  designation: r
   designator: r13
-  footprint: _0603
-  id: '12'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 12_r13,r12__0603_2_r___
+    designation: r
+    designator: r13
+    footprint: _0603
+    id: '12'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 12_r13,r12__0603_2_r___
-  designation: r
   designator: r12
-  footprint: _0603
-  id: '12'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 12_r13,r12__0603_2_r___
+    designation: r
+    designator: r12
+    footprint: _0603
+    id: '12'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 13_c17,c8__0603_2_1uf___
-  designation: 1uf
   designator: c17
-  footprint: _0603
-  id: '13'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 13_c17,c8__0603_2_1uf___
+    designation: 1uf
+    designator: c17
+    footprint: _0603
+    id: '13'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 13_c17,c8__0603_2_1uf___
-  designation: 1uf
   designator: c8
-  footprint: _0603
-  id: '13'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 13_c17,c8__0603_2_1uf___
+    designation: 1uf
+    designator: c8
+    footprint: _0603
+    id: '13'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 14_l1__0603_1_inductor___
-  designation: inductor
   designator: l1
-  footprint: _0603
-  id: '14'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 14_l1__0603_1_inductor___
+    designation: inductor
+    designator: l1
+    footprint: _0603
+    id: '14'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 15_c2,c15__0603_2_100nf___
-  designation: 100nf
   designator: c2
-  footprint: _0603
-  id: '15'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 15_c2,c15__0603_2_100nf___
+    designation: 100nf
+    designator: c2
+    footprint: _0603
+    id: '15'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 15_c2,c15__0603_2_100nf___
-  designation: 100nf
   designator: c15
-  footprint: _0603
-  id: '15'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 15_c2,c15__0603_2_100nf___
+    designation: 100nf
+    designator: c15
+    footprint: _0603
+    id: '15'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 16_r1__0603_1_5_6m___
-  designation: 5_6m
   designator: r1
-  footprint: _0603
-  id: '16'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 16_r1__0603_1_5_6m___
+    designation: 5_6m
+    designator: r1
+    footprint: _0603
+    id: '16'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 17_c3__0603_1_4_7uf___
-  designation: 4_7uf
   designator: c3
-  footprint: _0603
-  id: '17'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 17_c3__0603_1_4_7uf___
+    designation: 4_7uf
+    designator: c3
+    footprint: _0603
+    id: '17'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 18_r3,r5,r6__0603_3_10k___
-  designation: 10k
   designator: r3
-  footprint: _0603
-  id: '18'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 18_r3,r5,r6__0603_3_10k___
+    designation: 10k
+    designator: r3
+    footprint: _0603
+    id: '18'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 18_r3,r5,r6__0603_3_10k___
-  designation: 10k
   designator: r5
-  footprint: _0603
-  id: '18'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 18_r3,r5,r6__0603_3_10k___
+    designation: 10k
+    designator: r5
+    footprint: _0603
+    id: '18'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 18_r3,r5,r6__0603_3_10k___
-  designation: 10k
   designator: r6
-  footprint: _0603
-  id: '18'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 18_r3,r5,r6__0603_3_10k___
+    designation: 10k
+    designator: r6
+    footprint: _0603
+    id: '18'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 19_c4__0603_1_470n___
-  designation: 470n
   designator: c4
-  footprint: _0603
-  id: '19'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 19_c4__0603_1_470n___
+    designation: 470n
+    designator: c4
+    footprint: _0603
+    id: '19'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 20_r4__0603_1_22___
-  designation: '22'
   designator: r4
-  footprint: _0603
-  id: '20'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 20_r4__0603_1_22___
+    designation: '22'
+    designator: r4
+    footprint: _0603
+    id: '20'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 21_r2__0603_1_910k___
-  designation: 910k
   designator: r2
-  footprint: _0603
-  id: '21'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: 21_r2__0603_1_910k___
+    designation: 910k
+    designator: r2
+    footprint: _0603
+    id: '21'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 22_c16,c14__0603_2_47nf___
-  designation: 47nf
   designator: c16
-  footprint: _0603
-  id: '22'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: 22_c16,c14__0603_2_47nf___
+    designation: 47nf
+    designator: c16
+    footprint: _0603
+    id: '22'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 22_c16,c14__0603_2_47nf___
-  designation: 47nf
   designator: c14
-  footprint: _0603
-  id: '22'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: 22_c16,c14__0603_2_47nf___
+    designation: 47nf
+    designator: c14
+    footprint: _0603
+    id: '22'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 23_r8,r11__0603_2_100k___
-  designation: 100k
   designator: r8
-  footprint: _0603
-  id: '23'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: 23_r8,r11__0603_2_100k___
+    designation: 100k
+    designator: r8
+    footprint: _0603
+    id: '23'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 23_r8,r11__0603_2_100k___
-  designation: 100k
   designator: r11
-  footprint: _0603
-  id: '23'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: 23_r8,r11__0603_2_100k___
+    designation: 100k
+    designator: r11
+    footprint: _0603
+    id: '23'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 24_ic4,ic5_psonl10_2_lm5106___
-  designation: lm5106
   designator: ic4
-  footprint: psonl10
-  id: '24'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: 24_ic4,ic5_psonl10_2_lm5106___
+    designation: lm5106
+    designator: ic4
+    footprint: psonl10
+    id: '24'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 24_ic4,ic5_psonl10_2_lm5106___
-  designation: lm5106
   designator: ic5
-  footprint: psonl10
-  id: '24'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: 24_ic4,ic5_psonl10_2_lm5106___
+    designation: lm5106
+    designator: ic5
+    footprint: psonl10
+    id: '24'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 25_d3,d4_cvra_sod80c_2_bav102___
-  designation: bav102
   designator: d3
-  footprint: cvra_sod80c
-  id: '25'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: 25_d3,d4_cvra_sod80c_2_bav102___
+    designation: bav102
+    designator: d3
+    footprint: cvra_sod80c
+    id: '25'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 25_d3,d4_cvra_sod80c_2_bav102___
-  designation: bav102
   designator: d4
-  footprint: cvra_sod80c
-  id: '25'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: 25_d3,d4_cvra_sod80c_2_bav102___
+    designation: bav102
+    designator: d4
+    footprint: cvra_sod80c
+    id: '25'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 26_ic6_cvra_so8e_1_ina282___
-  designation: ina282
   designator: ic6
-  footprint: cvra_so8e
-  id: '26'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: 26_ic6_cvra_so8e_1_ina282___
+    designation: ina282
+    designator: ic6
+    footprint: cvra_so8e
+    id: '26'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 27_q1,q2,q4,q3_cvra_so8e_4_irf8721___
-  designation: irf8721
   designator: q1
-  footprint: cvra_so8e
-  id: '27'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: 27_q1,q2,q4,q3_cvra_so8e_4_irf8721___
+    designation: irf8721
+    designator: q1
+    footprint: cvra_so8e
+    id: '27'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 27_q1,q2,q4,q3_cvra_so8e_4_irf8721___
-  designation: irf8721
   designator: q2
-  footprint: cvra_so8e
-  id: '27'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: 27_q1,q2,q4,q3_cvra_so8e_4_irf8721___
+    designation: irf8721
+    designator: q2
+    footprint: cvra_so8e
+    id: '27'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 27_q1,q2,q4,q3_cvra_so8e_4_irf8721___
-  designation: irf8721
   designator: q4
-  footprint: cvra_so8e
-  id: '27'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id044
+    all: 27_q1,q2,q4,q3_cvra_so8e_4_irf8721___
+    designation: irf8721
+    designator: q4
+    footprint: cvra_so8e
+    id: '27'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 27_q1,q2,q4,q3_cvra_so8e_4_irf8721___
-  designation: irf8721
   designator: q3
-  footprint: cvra_so8e
-  id: '27'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id045
+    all: 27_q1,q2,q4,q3_cvra_so8e_4_irf8721___
+    designation: irf8721
+    designator: q3
+    footprint: cvra_so8e
+    id: '27'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 28_ic2_cvra_pwson_n6_1_tlv710___
-  designation: tlv710
   designator: ic2
-  footprint: cvra_pwson_n6
-  id: '28'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id046
+    all: 28_ic2_cvra_pwson_n6_1_tlv710___
+    designation: tlv710
+    designator: ic2
+    footprint: cvra_pwson_n6
+    id: '28'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 29_d2__0603_1_led___
-  designation: led
   designator: d2
-  footprint: _0603
-  id: '29'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id047
+    all: 29_d2__0603_1_led___
+    designation: led
+    designator: d2
+    footprint: _0603
+    id: '29'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 30_c19__0603_1_100nf_(dnp)___
-  designation: 100nf_(dnp)
   designator: c19
-  footprint: _0603
-  id: '30'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id048
+    all: 30_c19__0603_1_100nf_(dnp)___
+    designation: 100nf_(dnp)
+    designator: c19
+    footprint: _0603
+    id: '30'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 31_p1_pin4_can_connector_1_bus2___
-  designation: bus2
   designator: p1
-  footprint: pin4_can_connector
-  id: '31'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id049
+    all: 31_p1_pin4_can_connector_1_bus2___
+    designation: bus2
+    designator: p1
+    footprint: pin4_can_connector
+    id: '31'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 32_p6,p4_pwr_conn_2_conn_1___
-  designation: conn_1
   designator: p6
-  footprint: pwr_conn
-  id: '32'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id050
+    all: 32_p6,p4_pwr_conn_2_conn_1___
+    designation: conn_1
+    designator: p6
+    footprint: pwr_conn
+    id: '32'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 32_p6,p4_pwr_conn_2_conn_1___
-  designation: conn_1
   designator: p4
-  footprint: pwr_conn
-  id: '32'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id051
+    all: 32_p6,p4_pwr_conn_2_conn_1___
+    designation: conn_1
+    designator: p4
+    footprint: pwr_conn
+    id: '32'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 33_p5__pin2mm_7z_1_dbg___
-  designation: dbg
   designator: p5
-  footprint: _pin2mm_7z
-  id: '33'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id052
+    all: 33_p5__pin2mm_7z_1_dbg___
+    designation: dbg
+    designator: p5
+    footprint: _pin2mm_7z
+    id: '33'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 34_p3_ribbon_cable_7pin_1_gpio___
-  designation: gpio
   designator: p3
-  footprint: ribbon_cable_7pin
-  id: '34'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id053
+    all: 34_p3_ribbon_cable_7pin_1_gpio___
+    designation: gpio
+    designator: p3
+    footprint: ribbon_cable_7pin
+    id: '34'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 35_p2_ribbon_cable_6pin_1_motor___
-  designation: motor
   designator: p2
-  footprint: ribbon_cable_6pin
-  id: '35'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id054
+    all: 35_p2_ribbon_cable_6pin_1_motor___
+    designation: motor
+    designator: p2
+    footprint: ribbon_cable_6pin
+    id: '35'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
+- *id049
+- *id050
+- *id051
+- *id052
+- *id053
+- *id054
 projects_flat: projects_flat/cvra_motor_control_board/version_current/working
 projects_folder: projects_folder/cvra/motor-control-board/version_current/working
 repo:

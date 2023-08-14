@@ -13,112 +13,203 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\coddingtonbear_azbuka\version_current\working
 oomp_key: oomp_projects_flat_coddingtonbear_azbuka
 oomp_key_simple: projects_flat_coddingtonbear_azbuka
-parts_verbose:
+parts_oomp:
 - all: 1_sw1_smd_red_tactile_switch_1_tact_switch___
-  designation: tact_switch
   designator: sw1
-  footprint: smd_red_tactile_switch
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_sw1_smd_red_tactile_switch_1_tact_switch___
+    designation: tact_switch
+    designator: sw1
+    footprint: smd_red_tactile_switch
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_d3_led_0805_1_led___
-  designation: led
   designator: d3
-  footprint: led_0805
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_d3_led_0805_1_led___
+    designation: led
+    designator: d3
+    footprint: led_0805
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_r4_r_0805_handsoldering_1_r_small___
-  designation: r_small
   designator: r4
-  footprint: r_0805_handsoldering
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_r4_r_0805_handsoldering_1_r_small___
+    designation: r_small
+    designator: r4
+    footprint: r_0805_handsoldering
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_d2,d1_d_sot_23_ank_2_3_6___
-  designation: '3_6'
   designator: d2
-  footprint: d_sot_23_ank
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4_d2,d1_d_sot_23_ank_2_3_6___
+    designation: '3_6'
+    designator: d2
+    footprint: d_sot_23_ank
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 4_d2,d1_d_sot_23_ank_2_3_6___
-  designation: '3_6'
   designator: d1
-  footprint: d_sot_23_ank
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_d2,d1_d_sot_23_ank_2_3_6___
+    designation: '3_6'
+    designator: d1
+    footprint: d_sot_23_ank
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 5_ic1_soic127p798x216_8n_1_attiny85_s___
-  designation: attiny85_s
   designator: ic1
-  footprint: soic127p798x216_8n
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_ic1_soic127p798x216_8n_1_attiny85_s___
+    designation: attiny85_s
+    designator: ic1
+    footprint: soic127p798x216_8n
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_r3,r2_r_0805_handsoldering_2_47___
-  designation: '47'
   designator: r3
-  footprint: r_0805_handsoldering
-  id: '6'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 6_r3,r2_r_0805_handsoldering_2_47___
+    designation: '47'
+    designator: r3
+    footprint: r_0805_handsoldering
+    id: '6'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 6_r3,r2_r_0805_handsoldering_2_47___
-  designation: '47'
   designator: r2
-  footprint: r_0805_handsoldering
-  id: '6'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 6_r3,r2_r_0805_handsoldering_2_47___
+    designation: '47'
+    designator: r2
+    footprint: r_0805_handsoldering
+    id: '6'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 7_r1_r_0805_handsoldering_1_2_2k___
-  designation: 2_2k
   designator: r1
-  footprint: r_0805_handsoldering
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 7_r1_r_0805_handsoldering_1_2_2k___
+    designation: 2_2k
+    designator: r1
+    footprint: r_0805_handsoldering
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_p1_micro_b_usb_inverted_1_usb_otg___
-  designation: usb_otg
   designator: p1
-  footprint: micro_b_usb_inverted
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 8_p1_micro_b_usb_inverted_1_usb_otg___
+    designation: usb_otg
+    designator: p1
+    footprint: micro_b_usb_inverted
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_q1_mosfet_sot_23_1_mosfet_p_ch___
-  designation: mosfet_p_ch
   designator: q1
-  footprint: mosfet_sot_23
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 9_q1_mosfet_sot_23_1_mosfet_p_ch___
+    designation: mosfet_p_ch
+    designator: q1
+    footprint: mosfet_sot_23
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_p2_pin_header_straight_1x06_pitch2_54mm_1_conn_01x06___
-  designation: conn_01x06
   designator: p2
-  footprint: pin_header_straight_1x06_pitch2_54mm
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 10_p2_pin_header_straight_1x06_pitch2_54mm_1_conn_01x06___
+    designation: conn_01x06
+    designator: p2
+    footprint: pin_header_straight_1x06_pitch2_54mm
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_ls1_buzzer_12x9_5rm7_6_1_speaker___
-  designation: speaker
   designator: ls1
-  footprint: buzzer_12x9_5rm7_6
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 11_ls1_buzzer_12x9_5rm7_6_1_speaker___
+    designation: speaker
+    designator: ls1
+    footprint: buzzer_12x9_5rm7_6
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_c1_c_0805_handsoldering_1_0_1u___
-  designation: 0_1u
   designator: c1
-  footprint: c_0805_handsoldering
-  id: '12'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 12_c1_c_0805_handsoldering_1_0_1u___
+    designation: 0_1u
+    designator: c1
+    footprint: c_0805_handsoldering
+    id: '12'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 13_c2_cp_radial_d7_5mm_p2_50mm_1_33u___
-  designation: 33u
   designator: c2
-  footprint: cp_radial_d7_5mm_p2_50mm
-  id: '13'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 13_c2_cp_radial_d7_5mm_p2_50mm_1_33u___
+    designation: 33u
+    designator: c2
+    footprint: cp_radial_d7_5mm_p2_50mm
+    id: '13'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
 projects_flat: projects_flat/coddingtonbear_azbuka/version_current/working
 projects_folder: projects_folder/coddingtonbear/azbuka/version_current/working
 repo:

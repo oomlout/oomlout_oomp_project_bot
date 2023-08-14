@@ -1,0 +1,4 @@
+(version 1)
+(rule "class 3:0"
+  (condition "A.NetClass == 'VCC' && B.NetClass == 'Default'")
+  (constraint clearance (min 0.254mm)))

@@ -13,448 +13,827 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\alasofia_omega\version_current\working
 oomp_key: oomp_projects_flat_alasofia_omega
 oomp_key_simple: projects_flat_alasofia_omega
-parts_verbose:
+parts_oomp:
 - all: 1_sw1_sw_dip_spstx01_slide_copal_chs_01a_w5_08mm_p1_27mm_jpin_1_sw_push___
-  designation: sw_push
   designator: sw1
-  footprint: sw_dip_spstx01_slide_copal_chs_01a_w5_08mm_p1_27mm_jpin
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_sw1_sw_dip_spstx01_slide_copal_chs_01a_w5_08mm_p1_27mm_jpin_1_sw_push___
+    designation: sw_push
+    designator: sw1
+    footprint: sw_dip_spstx01_slide_copal_chs_01a_w5_08mm_p1_27mm_jpin
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d3
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d3
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d1
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d1
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d30
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d30
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d29
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d29
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d28
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d28
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d27
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d27
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d26
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d26
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d25
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d25
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d24
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d24
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d23
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d23
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d22
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d22
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d21
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d21
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d20
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d20
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d19
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d19
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d18
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d18
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d17
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d17
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d16
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d16
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d15
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d15
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d14
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d14
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d13
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d13
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d12
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d12
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d11
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d11
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d10
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d10
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d9
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d9
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d8
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d8
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d7
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d7
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d6
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d6
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d5
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d5
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d4
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d4
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
-  designation: d_small
   designator: d2
-  footprint: diode_hybrid_back
-  id: '2'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 2_d3,d1,d30,d29,d28,d27,d26,d25,d24,d23,d22,d21,d20,d19,d18,d17,d16,d15,d14,d13,d12,d11,d10,d9,d8,d7,d6,d5,d4,d2_diode_hybrid_back_30_d_small___
+    designation: d_small
+    designator: d2
+    footprint: diode_hybrid_back
+    id: '2'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 3_mx31_mxonly_2u_reversedstabilizers_noled_1_mx_noled___
-  designation: mx_noled
   designator: mx31
-  footprint: mxonly_2u_reversedstabilizers_noled
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: 3_mx31_mxonly_2u_reversedstabilizers_noled_1_mx_noled___
+    designation: mx_noled
+    designator: mx31
+    footprint: mxonly_2u_reversedstabilizers_noled
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx11
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx11
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx10
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx10
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx29
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx29
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx27
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx27
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx26
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx26
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx30
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx30
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx28
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx28
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx25
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx25
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx24
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx24
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx23
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx23
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx22
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx22
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx21
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id044
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx21
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx20
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id045
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx20
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx19
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id046
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx19
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx18
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id047
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx18
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx17
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id048
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx17
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx16
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id049
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx16
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx15
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id050
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx15
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx14
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id051
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx14
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx13
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id052
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx13
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx12
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id053
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx12
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx9
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id054
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx9
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx8
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id055
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx8
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx7
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id056
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx7
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx6
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id057
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx6
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx5
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id058
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx5
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx4
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id059
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx4
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx3
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id060
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx3
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx2
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id061
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx2
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
-  designation: mx_noled
   designator: mx1
-  footprint: mxonly_1u_noled
-  id: '4'
-  quantity: '30'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id062
+    all: 4_mx11,mx10,mx29,mx27,mx26,mx30,mx28,mx25,mx24,mx23,mx22,mx21,mx20,mx19,mx18,mx17,mx16,mx15,mx14,mx13,mx12,mx9,mx8,mx7,mx6,mx5,mx4,mx3,mx2,mx1_mxonly_1u_noled_30_mx_noled___
+    designation: mx_noled
+    designator: mx1
+    footprint: mxonly_1u_noled
+    id: '4'
+    quantity: '30'
+    supplier_and_ref: ''
 - all: 5_u1_promicro_1_promicro___
-  designation: promicro
   designator: u1
-  footprint: promicro
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id063
+    all: 5_u1_promicro_1_promicro___
+    designation: promicro
+    designator: u1
+    footprint: promicro
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
+- *id049
+- *id050
+- *id051
+- *id052
+- *id053
+- *id054
+- *id055
+- *id056
+- *id057
+- *id058
+- *id059
+- *id060
+- *id061
+- *id062
+- *id063
 projects_flat: projects_flat/alasofia_omega/version_current/working
 projects_folder: projects_folder/Alasofia/omega/version_current/working
 repo:

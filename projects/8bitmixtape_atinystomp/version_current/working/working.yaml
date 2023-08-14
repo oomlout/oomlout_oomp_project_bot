@@ -13,21 +13,34 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\8bitmixtape_atinystomp\version_current\working
 oomp_key: oomp_projects_flat_8bitmixtape_atinystomp
 oomp_key_simple: projects_flat_8bitmixtape_atinystomp
+parts_oomp:
+- all: 1_g_,g__logo_2_logo___
+  designator: g_
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_g_,g__logo_2_logo___
+    designation: logo
+    designator: g_
+    footprint: logo
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
+- all: 1_g_,g__logo_2_logo___
+  designator: g_
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_g_,g__logo_2_logo___
+    designation: logo
+    designator: g_
+    footprint: logo
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 parts_verbose:
-- all: 1_g_,g__logo_2_logo___
-  designation: logo
-  designator: g_
-  footprint: logo
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
-- all: 1_g_,g__logo_2_logo___
-  designation: logo
-  designator: g_
-  footprint: logo
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+- *id001
+- *id002
 projects_flat: projects_flat/8bitmixtape_atinystomp/version_current/working
 projects_folder: projects_folder/8BitMixtape/ATinyStomp/version_current/working
 repo:

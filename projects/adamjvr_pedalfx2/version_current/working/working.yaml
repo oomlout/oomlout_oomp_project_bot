@@ -13,91 +13,164 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamjvr_pedalfx2\version_current\working
 oomp_key: oomp_projects_flat_adamjvr_pedalfx2
 oomp_key_simple: projects_flat_adamjvr_pedalfx2
-parts_verbose:
+parts_oomp:
 - all: 1_sp3_1590b_1_hammond_1590b___
-  designation: hammond_1590b
   designator: sp3
-  footprint: 1590b
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_sp3_1590b_1_hammond_1590b___
+    designation: hammond_1590b
+    designator: sp3
+    footprint: 1590b
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_t1,t2_acjs_mhdr_2_acjs_mhdr___
-  designation: acjs_mhdr
   designator: t1
-  footprint: acjs_mhdr
-  id: '2'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_t1,t2_acjs_mhdr_2_acjs_mhdr___
+    designation: acjs_mhdr
+    designator: t1
+    footprint: acjs_mhdr
+    id: '2'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 2_t1,t2_acjs_mhdr_2_acjs_mhdr___
-  designation: acjs_mhdr
   designator: t2
-  footprint: acjs_mhdr
-  id: '2'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_t1,t2_acjs_mhdr_2_acjs_mhdr___
+    designation: acjs_mhdr
+    designator: t2
+    footprint: acjs_mhdr
+    id: '2'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 3_t3_barreljack_horizontal_1_54_00129___
-  designation: '54_00129'
   designator: t3
-  footprint: barreljack_horizontal
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_t3_barreljack_horizontal_1_54_00129___
+    designation: '54_00129'
+    designator: t3
+    footprint: barreljack_horizontal
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_c1_cp_radial_d8_0mm_p3_50mm_1_ufw1h101mpd___
-  designation: ufw1h101mpd
   designator: c1
-  footprint: cp_radial_d8_0mm_p3_50mm
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_c1_cp_radial_d8_0mm_p3_50mm_1_ufw1h101mpd___
+    designation: ufw1h101mpd
+    designator: c1
+    footprint: cp_radial_d8_0mm_p3_50mm
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_sp1_switches_stomp_switch_3pdt_1_3pdt_stompswitch_alt___
-  designation: 3pdt_stompswitch_alt
   designator: sp1
-  footprint: switches_stomp_switch_3pdt
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_sp1_switches_stomp_switch_3pdt_1_3pdt_stompswitch_alt___
+    designation: 3pdt_stompswitch_alt
+    designator: sp1
+    footprint: switches_stomp_switch_3pdt
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_c2_c0805_1_cl21b104kcfnnne___
-  designation: cl21b104kcfnnne
   designator: c2
-  footprint: c0805
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 6_c2_c0805_1_cl21b104kcfnnne___
+    designation: cl21b104kcfnnne
+    designator: c2
+    footprint: c0805
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_sp2_led_d5_0mm_1_hlmp_4700_c0002___
-  designation: hlmp_4700_c0002
   designator: sp2
-  footprint: led_d5_0mm
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 7_sp2_led_d5_0mm_1_hlmp_4700_c0002___
+    designation: hlmp_4700_c0002
+    designator: sp2
+    footprint: led_d5_0mm
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_r3,r2_r1206_2_rc1206fr_071ml___
-  designation: rc1206fr_071ml
   designator: r3
-  footprint: r1206
-  id: '8'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 8_r3,r2_r1206_2_rc1206fr_071ml___
+    designation: rc1206fr_071ml
+    designator: r3
+    footprint: r1206
+    id: '8'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 8_r3,r2_r1206_2_rc1206fr_071ml___
-  designation: rc1206fr_071ml
   designator: r2
-  footprint: r1206
-  id: '8'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 8_r3,r2_r1206_2_rc1206fr_071ml___
+    designation: rc1206fr_071ml
+    designator: r2
+    footprint: r1206
+    id: '8'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 9_r1_r1206_1_rc1206fr_071kl___
-  designation: rc1206fr_071kl
   designator: r1
-  footprint: r1206
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 9_r1_r1206_1_rc1206fr_071kl___
+    designation: rc1206fr_071kl
+    designator: r1
+    footprint: r1206
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_j1_pinheader_1x04_p2_54mm_vertical_1_conn_01x04_female___
-  designation: conn_01x04_female
   designator: j1
-  footprint: pinheader_1x04_p2_54mm_vertical
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 10_j1_pinheader_1x04_p2_54mm_vertical_1_conn_01x04_female___
+    designation: conn_01x04_female
+    designator: j1
+    footprint: pinheader_1x04_p2_54mm_vertical
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
 projects_flat: projects_flat/adamjvr_pedalfx2/version_current/working
 projects_folder: projects_folder/adamjvr/PedalFX2/version_current/working
 repo:

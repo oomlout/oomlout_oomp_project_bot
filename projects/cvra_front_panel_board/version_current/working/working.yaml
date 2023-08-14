@@ -13,231 +13,424 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cvra_front_panel_board\version_current\working
 oomp_key: oomp_projects_flat_cvra_front_panel_board
 oomp_key_simple: projects_flat_cvra_front_panel_board
-parts_verbose:
+parts_oomp:
 - all: 1_g_,g__cvra_logo_small_copper_2_logo___
-  designation: logo
   designator: g_
-  footprint: cvra_logo_small_copper
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_g_,g__cvra_logo_small_copper_2_logo___
+    designation: logo
+    designator: g_
+    footprint: cvra_logo_small_copper
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 1_g_,g__cvra_logo_small_copper_2_logo___
-  designation: logo
   designator: g_
-  footprint: cvra_logo_small_copper
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_g_,g__cvra_logo_small_copper_2_logo___
+    designation: logo
+    designator: g_
+    footprint: cvra_logo_small_copper
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 2_j10_615108150221r_ethernet_middlemount_1_615108150221r___
-  designation: 615108150221r
   designator: j10
-  footprint: 615108150221r_ethernet_middlemount
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_j10_615108150221r_ethernet_middlemount_1_615108150221r___
+    designation: 615108150221r
+    designator: j10
+    footprint: 615108150221r_ethernet_middlemount
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_d1_led_0603_rightangle_1_led_green___
-  designation: led_green
   designator: d1
-  footprint: led_0603_rightangle
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_d1_led_0603_rightangle_1_led_green___
+    designation: led_green
+    designator: d1
+    footprint: led_0603_rightangle
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_d2_led_0603_rightangle_1_led_blue___
-  designation: led_blue
   designator: d2
-  footprint: led_0603_rightangle
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_d2_led_0603_rightangle_1_led_blue___
+    designation: led_blue
+    designator: d2
+    footprint: led_0603_rightangle
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_d3_led_0603_rightangle_1_led_red___
-  designation: led_red
   designator: d3
-  footprint: led_0603_rightangle
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_d3_led_0603_rightangle_1_led_red___
+    designation: led_red
+    designator: d3
+    footprint: led_0603_rightangle
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_d4,d5,d6_led_0603_rightangle_3_led_orange___
-  designation: led_orange
   designator: d4
-  footprint: led_0603_rightangle
-  id: '6'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 6_d4,d5,d6_led_0603_rightangle_3_led_orange___
+    designation: led_orange
+    designator: d4
+    footprint: led_0603_rightangle
+    id: '6'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 6_d4,d5,d6_led_0603_rightangle_3_led_orange___
-  designation: led_orange
   designator: d5
-  footprint: led_0603_rightangle
-  id: '6'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 6_d4,d5,d6_led_0603_rightangle_3_led_orange___
+    designation: led_orange
+    designator: d5
+    footprint: led_0603_rightangle
+    id: '6'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 6_d4,d5,d6_led_0603_rightangle_3_led_orange___
-  designation: led_orange
   designator: d6
-  footprint: led_0603_rightangle
-  id: '6'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 6_d4,d5,d6_led_0603_rightangle_3_led_orange___
+    designation: led_orange
+    designator: d6
+    footprint: led_0603_rightangle
+    id: '6'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 7_g__cvra_logo_big_1_logo___
-  designation: logo
   designator: g_
-  footprint: cvra_logo_big
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 7_g__cvra_logo_big_1_logo___
+    designation: logo
+    designator: g_
+    footprint: cvra_logo_big
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_j2__micro_usb_ab_receptacle_smt_th_no_slot_1_10118193_0001lf___
-  designation: 10118193_0001lf
   designator: j2
-  footprint: _micro_usb_ab_receptacle_smt_th_no_slot
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 8_j2__micro_usb_ab_receptacle_smt_th_no_slot_1_10118193_0001lf___
+    designation: 10118193_0001lf
+    designator: j2
+    footprint: _micro_usb_ab_receptacle_smt_th_no_slot
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_r1,r2_r_0603_1608metric_pad1_05x0_95mm_handsolder_2_56r___
-  designation: 56r
   designator: r1
-  footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
-  id: '9'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 9_r1,r2_r_0603_1608metric_pad1_05x0_95mm_handsolder_2_56r___
+    designation: 56r
+    designator: r1
+    footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
+    id: '9'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 9_r1,r2_r_0603_1608metric_pad1_05x0_95mm_handsolder_2_56r___
-  designation: 56r
   designator: r2
-  footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
-  id: '9'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 9_r1,r2_r_0603_1608metric_pad1_05x0_95mm_handsolder_2_56r___
+    designation: 56r
+    designator: r2
+    footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
+    id: '9'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 10_r3,r4,r5,r6_r_0603_1608metric_pad1_05x0_95mm_handsolder_4_300r___
-  designation: 300r
   designator: r3
-  footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
-  id: '10'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 10_r3,r4,r5,r6_r_0603_1608metric_pad1_05x0_95mm_handsolder_4_300r___
+    designation: 300r
+    designator: r3
+    footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
+    id: '10'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 10_r3,r4,r5,r6_r_0603_1608metric_pad1_05x0_95mm_handsolder_4_300r___
-  designation: 300r
   designator: r4
-  footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
-  id: '10'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 10_r3,r4,r5,r6_r_0603_1608metric_pad1_05x0_95mm_handsolder_4_300r___
+    designation: 300r
+    designator: r4
+    footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
+    id: '10'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 10_r3,r4,r5,r6_r_0603_1608metric_pad1_05x0_95mm_handsolder_4_300r___
-  designation: 300r
   designator: r5
-  footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
-  id: '10'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 10_r3,r4,r5,r6_r_0603_1608metric_pad1_05x0_95mm_handsolder_4_300r___
+    designation: 300r
+    designator: r5
+    footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
+    id: '10'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 10_r3,r4,r5,r6_r_0603_1608metric_pad1_05x0_95mm_handsolder_4_300r___
-  designation: 300r
   designator: r6
-  footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
-  id: '10'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 10_r3,r4,r5,r6_r_0603_1608metric_pad1_05x0_95mm_handsolder_4_300r___
+    designation: 300r
+    designator: r6
+    footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
+    id: '10'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 11_r7_r_0603_1608metric_pad1_05x0_95mm_handsolder_1_130r___
-  designation: 130r
   designator: r7
-  footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 11_r7_r_0603_1608metric_pad1_05x0_95mm_handsolder_1_130r___
+    designation: 130r
+    designator: r7
+    footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_r8,r9_r_0603_1608metric_pad1_05x0_95mm_handsolder_2_30r___
-  designation: 30r
   designator: r8
-  footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
-  id: '12'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 12_r8,r9_r_0603_1608metric_pad1_05x0_95mm_handsolder_2_30r___
+    designation: 30r
+    designator: r8
+    footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
+    id: '12'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 12_r8,r9_r_0603_1608metric_pad1_05x0_95mm_handsolder_2_30r___
-  designation: 30r
   designator: r9
-  footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
-  id: '12'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 12_r8,r9_r_0603_1608metric_pad1_05x0_95mm_handsolder_2_30r___
+    designation: 30r
+    designator: r9
+    footprint: r_0603_1608metric_pad1_05x0_95mm_handsolder
+    id: '12'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 13_j3_molex_picoblade_53261_0771_1x07_1mp_p1_25mm_horizontal_1_0532610771___
-  designation: '0532610771'
   designator: j3
-  footprint: molex_picoblade_53261_0771_1x07_1mp_p1_25mm_horizontal
-  id: '13'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 13_j3_molex_picoblade_53261_0771_1x07_1mp_p1_25mm_horizontal_1_0532610771___
+    designation: '0532610771'
+    designator: j3
+    footprint: molex_picoblade_53261_0771_1x07_1mp_p1_25mm_horizontal
+    id: '13'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 14_j5,j11_molex_picoblade_53261_0471_1x04_1mp_p1_25mm_horizontal_2_0532610471___
-  designation: '0532610471'
   designator: j5
-  footprint: molex_picoblade_53261_0471_1x04_1mp_p1_25mm_horizontal
-  id: '14'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 14_j5,j11_molex_picoblade_53261_0471_1x04_1mp_p1_25mm_horizontal_2_0532610471___
+    designation: '0532610471'
+    designator: j5
+    footprint: molex_picoblade_53261_0471_1x04_1mp_p1_25mm_horizontal
+    id: '14'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 14_j5,j11_molex_picoblade_53261_0471_1x04_1mp_p1_25mm_horizontal_2_0532610471___
-  designation: '0532610471'
   designator: j11
-  footprint: molex_picoblade_53261_0471_1x04_1mp_p1_25mm_horizontal
-  id: '14'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 14_j5,j11_molex_picoblade_53261_0471_1x04_1mp_p1_25mm_horizontal_2_0532610471___
+    designation: '0532610471'
+    designator: j11
+    footprint: molex_picoblade_53261_0471_1x04_1mp_p1_25mm_horizontal
+    id: '14'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 15_j7_molex_picoblade_53261_0371_1x03_1mp_p1_25mm_horizontal_1_conn_01x03___
-  designation: conn_01x03
   designator: j7
-  footprint: molex_picoblade_53261_0371_1x03_1mp_p1_25mm_horizontal
-  id: '15'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 15_j7_molex_picoblade_53261_0371_1x03_1mp_p1_25mm_horizontal_1_conn_01x03___
+    designation: conn_01x03
+    designator: j7
+    footprint: molex_picoblade_53261_0371_1x03_1mp_p1_25mm_horizontal
+    id: '15'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 16_j8_molex_picoblade_53261_1471_1x14_1mp_p1_25mm_horizontal_1_0532611471___
-  designation: '0532611471'
   designator: j8
-  footprint: molex_picoblade_53261_1471_1x14_1mp_p1_25mm_horizontal
-  id: '16'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 16_j8_molex_picoblade_53261_1471_1x14_1mp_p1_25mm_horizontal_1_0532611471___
+    designation: '0532611471'
+    designator: j8
+    footprint: molex_picoblade_53261_1471_1x14_1mp_p1_25mm_horizontal
+    id: '16'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 17_j9_molex_picoblade_53261_0871_1x08_1mp_p1_25mm_horizontal_1_0532617008___
-  designation: 0532617008
   designator: j9
-  footprint: molex_picoblade_53261_0871_1x08_1mp_p1_25mm_horizontal
-  id: '17'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 17_j9_molex_picoblade_53261_0871_1x08_1mp_p1_25mm_horizontal_1_0532617008___
+    designation: 0532617008
+    designator: j9
+    footprint: molex_picoblade_53261_0871_1x08_1mp_p1_25mm_horizontal
+    id: '17'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 18_sw1,sw2_cfpa_1fb4_a2t_2_cfpa_1fb4_a2t___
-  designation: cfpa_1fb4_a2t
   designator: sw1
-  footprint: cfpa_1fb4_a2t
-  id: '18'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 18_sw1,sw2_cfpa_1fb4_a2t_2_cfpa_1fb4_a2t___
+    designation: cfpa_1fb4_a2t
+    designator: sw1
+    footprint: cfpa_1fb4_a2t
+    id: '18'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 18_sw1,sw2_cfpa_1fb4_a2t_2_cfpa_1fb4_a2t___
-  designation: cfpa_1fb4_a2t
   designator: sw2
-  footprint: cfpa_1fb4_a2t
-  id: '18'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 18_sw1,sw2_cfpa_1fb4_a2t_2_cfpa_1fb4_a2t___
+    designation: cfpa_1fb4_a2t
+    designator: sw2
+    footprint: cfpa_1fb4_a2t
+    id: '18'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 19_d7_crgb1318fse_tm_1_crgb1318fse___
-  designation: crgb1318fse
   designator: d7
-  footprint: crgb1318fse_tm
-  id: '19'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 19_d7_crgb1318fse_tm_1_crgb1318fse___
+    designation: crgb1318fse
+    designator: d7
+    footprint: crgb1318fse_tm
+    id: '19'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 20_j6_molex_picoblade_4_edge_1_0530480410___
-  designation: 0530480410
   designator: j6
-  footprint: molex_picoblade_4_edge
-  id: '20'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 20_j6_molex_picoblade_4_edge_1_0530480410___
+    designation: 0530480410
+    designator: j6
+    footprint: molex_picoblade_4_edge
+    id: '20'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 21_j4_0878330821_02x03_pin_header_1_0878330821___
-  designation: 0878330821
   designator: j4
-  footprint: 0878330821_02x03_pin_header
-  id: '21'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 21_j4_0878330821_02x03_pin_header_1_0878330821___
+    designation: 0878330821
+    designator: j4
+    footprint: 0878330821_02x03_pin_header
+    id: '21'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 22_j1_molex_picoblade_53261_0571_1x05_1mp_p1_25mm_horizontal_1_conn_01x05___
-  designation: conn_01x05
   designator: j1
-  footprint: molex_picoblade_53261_0571_1x05_1mp_p1_25mm_horizontal
-  id: '22'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: 22_j1_molex_picoblade_53261_0571_1x05_1mp_p1_25mm_horizontal_1_conn_01x05___
+    designation: conn_01x05
+    designator: j1
+    footprint: molex_picoblade_53261_0571_1x05_1mp_p1_25mm_horizontal
+    id: '22'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
 projects_flat: projects_flat/cvra_front_panel_board/version_current/working
 projects_folder: projects_folder/cvra/front-panel-board/version_current/working
 repo:

@@ -13,14 +13,21 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\donutcables_budget96_kicad_files\version_current\working
 oomp_key: oomp_projects_flat_donutcables_budget96_kicad_files
 oomp_key_simple: projects_flat_donutcables_budget96_kicad_files
-parts_verbose:
+parts_oomp:
 - all: 1_r1_budget96_plate_top_1_r___
-  designation: r
   designator: r1
-  footprint: budget96_plate_top
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_r1_budget96_plate_top_1_r___
+    designation: r
+    designator: r1
+    footprint: budget96_plate_top
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
 projects_flat: projects_flat/donutcables_budget96_kicad_files/version_current/working
 projects_folder: projects_folder/DonutCables/Budget96-Kicad-Files/version_current/working
 repo:

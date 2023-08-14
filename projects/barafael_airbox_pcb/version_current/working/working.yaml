@@ -13,126 +13,229 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\barafael_airbox_pcb\version_current\working
 oomp_key: oomp_projects_flat_barafael_airbox_pcb
 oomp_key_simple: projects_flat_barafael_airbox_pcb
-parts_verbose:
+parts_oomp:
 - all: 1_u4_sgp40_sparkx_breakout_1_sgp40___
-  designation: sgp40
   designator: u4
-  footprint: sgp40_sparkx_breakout
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_u4_sgp40_sparkx_breakout_1_sgp40___
+    designation: sgp40
+    designator: u4
+    footprint: sgp40_sparkx_breakout
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_u5_ils_3v3dcdc_1_ils_dcdc___
-  designation: ils_dcdc
   designator: u5
-  footprint: ils_3v3dcdc
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_u5_ils_3v3dcdc_1_ils_dcdc___
+    designation: ils_dcdc
+    designator: u5
+    footprint: ils_3v3dcdc
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
-  designation: '0'
   designator: r6
-  footprint: r_0805_2012metric
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
+    designation: '0'
+    designator: r6
+    footprint: r_0805_2012metric
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
-  designation: '0'
   designator: r5
-  footprint: r_0805_2012metric
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
+    designation: '0'
+    designator: r5
+    footprint: r_0805_2012metric
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
-  designation: '0'
   designator: r4
-  footprint: r_0805_2012metric
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
+    designation: '0'
+    designator: r4
+    footprint: r_0805_2012metric
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
-  designation: '0'
   designator: r3
-  footprint: r_0805_2012metric
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
+    designation: '0'
+    designator: r3
+    footprint: r_0805_2012metric
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
-  designation: '0'
   designator: r2
-  footprint: r_0805_2012metric
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
+    designation: '0'
+    designator: r2
+    footprint: r_0805_2012metric
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
-  designation: '0'
   designator: r1
-  footprint: r_0805_2012metric
-  id: '3'
-  quantity: '6'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 3_r6,r5,r4,r3,r2,r1_r_0805_2012metric_6_0___
+    designation: '0'
+    designator: r1
+    footprint: r_0805_2012metric
+    id: '3'
+    quantity: '6'
+    supplier_and_ref: ''
 - all: 4_u3_scd30_1_scd30___
-  designation: scd30
   designator: u3
-  footprint: scd30
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 4_u3_scd30_1_scd30___
+    designation: scd30
+    designator: u3
+    footprint: scd30
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_u2_epaper_module_1_epaper_module___
-  designation: epaper_module
   designator: u2
-  footprint: epaper_module
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 5_u2_epaper_module_1_epaper_module___
+    designation: epaper_module
+    designator: u2
+    footprint: epaper_module
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_u1_nrf52_waveshare_1_nrf52840___
-  designation: nrf52840
   designator: u1
-  footprint: nrf52_waveshare
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 6_u1_nrf52_waveshare_1_nrf52840___
+    designation: nrf52840
+    designator: u1
+    footprint: nrf52_waveshare
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_bz1_ps1240p02bt_1_buzzer___
-  designation: buzzer
   designator: bz1
-  footprint: ps1240p02bt
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 7_bz1_ps1240p02bt_1_buzzer___
+    designation: buzzer
+    designator: bz1
+    footprint: ps1240p02bt
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_j5_pinsocket_1x03_p2_54mm_vertical_1_decibelmeter___
-  designation: decibelmeter
   designator: j5
-  footprint: pinsocket_1x03_p2_54mm_vertical
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 8_j5_pinsocket_1x03_p2_54mm_vertical_1_decibelmeter___
+    designation: decibelmeter
+    designator: j5
+    footprint: pinsocket_1x03_p2_54mm_vertical
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_j4_pinsocket_1x03_p2_54mm_vertical_1_powerconverter___
-  designation: powerconverter
   designator: j4
-  footprint: pinsocket_1x03_p2_54mm_vertical
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 9_j4_pinsocket_1x03_p2_54mm_vertical_1_powerconverter___
+    designation: powerconverter
+    designator: j4
+    footprint: pinsocket_1x03_p2_54mm_vertical
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_j2_jst_eh_b4b_eh_a_1x04_p2_50mm_vertical_1_conn_01x04___
-  designation: conn_01x04
   designator: j2
-  footprint: jst_eh_b4b_eh_a_1x04_p2_50mm_vertical
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 10_j2_jst_eh_b4b_eh_a_1x04_p2_50mm_vertical_1_conn_01x04___
+    designation: conn_01x04
+    designator: j2
+    footprint: jst_eh_b4b_eh_a_1x04_p2_50mm_vertical
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_j1_jst_eh_b2b_eh_a_1x02_p2_50mm_vertical_1_conn_01x02___
-  designation: conn_01x02
   designator: j1
-  footprint: jst_eh_b2b_eh_a_1x02_p2_50mm_vertical
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 11_j1_jst_eh_b2b_eh_a_1x02_p2_50mm_vertical_1_conn_01x02___
+    designation: conn_01x02
+    designator: j1
+    footprint: jst_eh_b2b_eh_a_1x02_p2_50mm_vertical
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 12_j3_jst_eh_b3b_eh_a_1x03_p2_50mm_vertical_1_conn_01x03___
-  designation: conn_01x03
   designator: j3
-  footprint: jst_eh_b3b_eh_a_1x03_p2_50mm_vertical
-  id: '12'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 12_j3_jst_eh_b3b_eh_a_1x03_p2_50mm_vertical_1_conn_01x03___
+    designation: conn_01x03
+    designator: j3
+    footprint: jst_eh_b3b_eh_a_1x03_p2_50mm_vertical
+    id: '12'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
 projects_flat: projects_flat/barafael_airbox_pcb/version_current/working
 projects_folder: projects_folder/barafael/airbox-pcb/version_current/working
 repo:

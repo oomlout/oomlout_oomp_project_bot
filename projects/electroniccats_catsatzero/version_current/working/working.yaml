@@ -13,126 +13,229 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_catsatzero\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_catsatzero
 oomp_key_simple: projects_flat_electroniccats_catsatzero
-parts_verbose:
+parts_oomp:
 - all: 1_module1_quectel_l80_m39_1_l80_m39___
-  designation: l80_m39
   designator: module1
-  footprint: quectel_l80_m39
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_module1_quectel_l80_m39_1_l80_m39___
+    designation: l80_m39
+    designator: module1
+    footprint: quectel_l80_m39
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_@hole0,@hole1,@hole2,@hole3__4____
-  designation: ''
   designator: '@hole0'
-  footprint: ''
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_@hole0,@hole1,@hole2,@hole3__4____
+    designation: ''
+    designator: '@hole0'
+    footprint: ''
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_@hole0,@hole1,@hole2,@hole3__4____
-  designation: ''
   designator: '@hole1'
-  footprint: ''
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_@hole0,@hole1,@hole2,@hole3__4____
+    designation: ''
+    designator: '@hole1'
+    footprint: ''
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_@hole0,@hole1,@hole2,@hole3__4____
-  designation: ''
   designator: '@hole2'
-  footprint: ''
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 2_@hole0,@hole1,@hole2,@hole3__4____
+    designation: ''
+    designator: '@hole2'
+    footprint: ''
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_@hole0,@hole1,@hole2,@hole3__4____
-  designation: ''
   designator: '@hole3'
-  footprint: ''
-  id: '2'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 2_@hole0,@hole1,@hole2,@hole3__4____
+    designation: ''
+    designator: '@hole3'
+    footprint: ''
+    id: '2'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
-  designation: ''
   designator: u$5
-  footprint: mh_rnd_f_2_2mm_nm
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 3_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
+    designation: ''
+    designator: u$5
+    footprint: mh_rnd_f_2_2mm_nm
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
-  designation: ''
   designator: u$6
-  footprint: mh_rnd_f_2_2mm_nm
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 3_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
+    designation: ''
+    designator: u$6
+    footprint: mh_rnd_f_2_2mm_nm
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
-  designation: ''
   designator: u$7
-  footprint: mh_rnd_f_2_2mm_nm
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 3_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
+    designation: ''
+    designator: u$7
+    footprint: mh_rnd_f_2_2mm_nm
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
-  designation: ''
   designator: u$8
-  footprint: mh_rnd_f_2_2mm_nm
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 3_u$5,u$6,u$7,u$8_mh_rnd_f_2_2mm_nm_4____
+    designation: ''
+    designator: u$8
+    footprint: mh_rnd_f_2_2mm_nm
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_frame1_frame_1_page_1___
-  designation: page_1
   designator: frame1
-  footprint: frame
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 4_frame1_frame_1_page_1___
+    designation: page_1
+    designator: frame1
+    footprint: frame
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_g__electronic_cats_logo_8x6_1_logo___
-  designation: logo
   designator: g_
-  footprint: electronic_cats_logo_8x6
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 5_g__electronic_cats_logo_8x6_1_logo___
+    designation: logo
+    designator: g_
+    footprint: electronic_cats_logo_8x6
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_j1,j2_61301411121_2_____
-  designation: _
   designator: j1
-  footprint: '61301411121'
-  id: '6'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 6_j1,j2_61301411121_2_____
+    designation: _
+    designator: j1
+    footprint: '61301411121'
+    id: '6'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 6_j1,j2_61301411121_2_____
-  designation: _
   designator: j2
-  footprint: '61301411121'
-  id: '6'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 6_j1,j2_61301411121_2_____
+    designation: _
+    designator: j2
+    footprint: '61301411121'
+    id: '6'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 7_g__catsat_1_logo___
-  designation: logo
   designator: g_
-  footprint: catsat
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 7_g__catsat_1_logo___
+    designation: logo
+    designator: g_
+    footprint: catsat
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_g__catsat_cu_1_logo___
-  designation: logo
   designator: g_
-  footprint: catsat_cu
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 8_g__catsat_cu_1_logo___
+    designation: logo
+    designator: g_
+    footprint: catsat_cu
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_j4_pinsocket_1x08_p2_54mm_vertical_1_ccs811___
-  designation: ccs811
   designator: j4
-  footprint: pinsocket_1x08_p2_54mm_vertical
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 9_j4_pinsocket_1x08_p2_54mm_vertical_1_ccs811___
+    designation: ccs811
+    designator: j4
+    footprint: pinsocket_1x08_p2_54mm_vertical
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_j3_pinsocket_1x04_p2_54mm_vertical_1_bme280___
-  designation: bme280
   designator: j3
-  footprint: pinsocket_1x04_p2_54mm_vertical
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 10_j3_pinsocket_1x04_p2_54mm_vertical_1_bme280___
+    designation: bme280
+    designator: j3
+    footprint: pinsocket_1x04_p2_54mm_vertical
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
 projects_flat: projects_flat/electroniccats_catsatzero/version_current/working
 projects_folder: projects_folder/ElectronicCats/CatSatZero/version_current/working
 repo:

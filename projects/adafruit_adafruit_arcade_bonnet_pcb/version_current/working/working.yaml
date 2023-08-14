@@ -13,72 +13,283 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_arcade_bonnet_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_arcade_bonnet_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_arcade_bonnet_pcb
-parts_verbose:
+parts_oomp:
 - all: 1,,con_jst_xh_2pin_sm4,b0_b1_b2_b3_b4_b5,con_jst_xh_2pin_sm4,jst_xh_2_sm4,6,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 1,,con_jst_xh_2pin_sm4,b0_b1_b2_b3_b4_b5,con_jst_xh_2pin_sm4,jst_xh_2_sm4,6,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,,con_jst_xh_2pin_sm4,b0_b1_b2_b3_b4_b5,con_jst_xh_2pin_sm4,jst_xh_2_sm4,6,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 1,,con_jst_xh_2pin_sm4,b0_b1_b2_b3_b4_b5,con_jst_xh_2pin_sm4,jst_xh_2_sm4,6,_,,,,
 - all: 2,,cap_ceramic0603_no,c1,0_1uf,0603_no,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 2,,cap_ceramic0603_no,c1,0_1uf,0603_no,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,,cap_ceramic0603_no,c1,0_1uf,0603_no,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 2,,cap_ceramic0603_no,c1,0_1uf,0603_no,1,_,,,,
 - all: 3,,cap_ceramic0805_nooutline,c2,10uf,0805_no,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 3,,cap_ceramic0805_nooutline,c2,10uf,0805_no,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,,cap_ceramic0805_nooutline,c2,10uf,0805_no,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 3,,cap_ceramic0805_nooutline,c2,10uf,0805_no,1,_,,,,
 - all: 4,,header_1x25,conn1,header_1x25,1x25_round_70mil,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 4,,header_1x25,conn1,header_1x25,1x25_round_70mil,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,,header_1x25,conn1,header_1x25,1x25_round_70mil,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 4,,header_1x25,conn1,header_1x25,1x25_round_70mil,1,_,,,,
 - all: 5,,led0805_nooutline,d1,red,chipled_0805_nooutline,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 5,,led0805_nooutline,d1,red,chipled_0805_nooutline,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,,led0805_nooutline,d1,red,chipled_0805_nooutline,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 5,,led0805_nooutline,d1,red,chipled_0805_nooutline,1,_,,,,
 - all: 6,,lm339p,ic2,lm339p,tssop14,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 6,,lm339p,ic2,lm339p,tssop14,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,,lm339p,ic2,lm339p,tssop14,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 6,,lm339p,ic2,lm339p,tssop14,1,_,,,,
 - all: 7,,mcp23017ml,ic1,mcp23017ml,qfn28_ml_6x6mm,1,_,,mcp23017_e_ss,1467674,31k2960_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 7,,mcp23017ml,ic1,mcp23017ml,qfn28_ml_6x6mm,1,_,,mcp23017_e_ss,1467674,31k2960
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,,mcp23017ml,ic1,mcp23017ml,qfn28_ml_6x6mm,1,_,,mcp23017_e_ss,1467674,31k2960_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 7,,mcp23017ml,ic1,mcp23017ml,qfn28_ml_6x6mm,1,_,,mcp23017_e_ss,1467674,31k2960
 - all: 8,,header_1x5,joy1,header_1x5,1x05_oval,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 8,,header_1x5,joy1,header_1x5,1x05_oval,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,,header_1x5,joy1,header_1x5,1x05_oval,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 8,,header_1x5,joy1,header_1x5,1x05_oval,1,_,,,,
 - all: 9,,header_1x2,jp4_jp6_jp7_jp8_jp9_jp10,header_1x2,1x02_oval,6,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 9,,header_1x2,jp4_jp6_jp7_jp8_jp9_jp10,header_1x2,1x02_oval,6,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,,header_1x2,jp4_jp6_jp7_jp8_jp9_jp10,header_1x2,1x02_oval,6,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 9,,header_1x2,jp4_jp6_jp7_jp8_jp9_jp10,header_1x2,1x02_oval,6,_,,,,
 - all: 10,,header_1x3round,jp2_jp3,header_1x3round,1x03_round,2,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 10,,header_1x3round,jp2_jp3,header_1x3round,1x03_round,2,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,,header_1x3round,jp2_jp3,header_1x3round,1x03_round,2,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 10,,header_1x3round,jp2_jp3,header_1x3round,1x03_round,2,_,,,,
 - all: 11,,header_1x4,jp1,header_1x4,1x04_oval,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 11,,header_1x4,jp1,header_1x4,1x04_oval,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,,header_1x4,jp1,header_1x4,1x04_oval,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 11,,header_1x4,jp1,header_1x4,1x04_oval,1,_,,,,
 - all: 12,,resistor_0603_noout,r5,1k,0603_no,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 12,,resistor_0603_noout,r5,1k,0603_no,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,,resistor_0603_noout,r5,1k,0603_no,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 12,,resistor_0603_noout,r5,1k,0603_no,1,_,,,,
 - all: 13,,resistor0805_10mgap,r1,10k,0805_10mgap,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 13,,resistor0805_10mgap,r1,10k,0805_10mgap,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,,resistor0805_10mgap,r1,10k,0805_10mgap,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 13,,resistor0805_10mgap,r1,10k,0805_10mgap,1,_,,,,
 - all: 14,,resistor0805_nooutline,r2_r3,10k,0805_no,2,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 14,,resistor0805_nooutline,r2_r3,10k,0805_no,2,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 14,,resistor0805_nooutline,r2_r3,10k,0805_no,2,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 14,,resistor0805_nooutline,r2_r3,10k,0805_no,2,_,,,,
 - all: 15,,resistor_0603_noout,r4,1m,0603_no,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 15,,resistor_0603_noout,r4,1m,0603_no,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 15,,resistor_0603_noout,r4,1m,0603_no,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 15,,resistor_0603_noout,r4,1m,0603_no,1,_,,,,
 - all: 16,,raspberrypi_bplus_phat,rpi1,raspberrypi_bplus_phat,pi_bonnet,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 16,,raspberrypi_bplus_phat,rpi1,raspberrypi_bplus_phat,pi_bonnet,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 16,,raspberrypi_bplus_phat,rpi1,raspberrypi_bplus_phat,pi_bonnet,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 16,,raspberrypi_bplus_phat,rpi1,raspberrypi_bplus_phat,pi_bonnet,1,_,,,,
 - all: 17,,termblock_1x2,spkr0,3_5mm,termblock_1x2_3_5mm,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 17,,termblock_1x2,spkr0,3_5mm,termblock_1x2_3_5mm,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 17,,termblock_1x2,spkr0,3_5mm,termblock_1x2_3_5mm,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 17,,termblock_1x2,spkr0,3_5mm,termblock_1x2_3_5mm,1,_,,,,
 - all: 18,,audioamp_max98357,u1,max98357a,qfn16_3mm,1,_,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 18,,audioamp_max98357,u1,max98357a,qfn16_3mm,1,_,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 18,,audioamp_max98357,u1,max98357a,qfn16_3mm,1,_,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: 18,,audioamp_max98357,u1,max98357a,qfn16_3mm,1,_,,,,
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: revision_,
 - all: date_,2023_08_02_17_08_32_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: date_,2023_08_02_17_08_32
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: date_,2023_08_02_17_08_32_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: date_,2023_08_02_17_08_32
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: statistics_
 - all: component_groups_,18_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: component_groups_,18
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: component_groups_,18_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: component_groups_,18
 - all: component_count_,30_(0_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: component_count_,30_(0_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: component_count_,30_(0_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: component_count_,30_(0_smd_0_tht)
 - all: fitted_components_,30_(0_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: fitted_components_,30_(0_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: fitted_components_,30_(0_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: fitted_components_,30_(0_smd_0_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: number_of_pcbs_,1
 - all: total_components_,30_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: total_components_,30
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: total_components_,30_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mpn,oc_farnell,oc_newark: total_components_,30
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
 projects_flat: projects_flat/adafruit_adafruit_arcade_bonnet_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_arcade_bonnet_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Arcade-Bonnet-PCB/version_current/working

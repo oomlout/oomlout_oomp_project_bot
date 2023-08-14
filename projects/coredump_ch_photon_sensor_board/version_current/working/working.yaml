@@ -13,49 +13,86 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\coredump_ch_photon_sensor_board\version_current\working
 oomp_key: oomp_projects_flat_coredump_ch_photon_sensor_board
 oomp_key_simple: projects_flat_coredump_ch_photon_sensor_board
-parts_verbose:
+parts_oomp:
 - all: 1_u1_photon_1_photon___
-  designation: photon
   designator: u1
-  footprint: photon
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_u1_photon_1_photon___
+    designation: photon
+    designator: u1
+    footprint: photon
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_u2_pin_array_3x1_1_ds18b20___
-  designation: ds18b20
   designator: u2
-  footprint: pin_array_3x1
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_u2_pin_array_3x1_1_ds18b20___
+    designation: ds18b20
+    designator: u2
+    footprint: pin_array_3x1
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_g__oshw_mask_7mm_1_logo___
-  designation: logo
   designator: g_
-  footprint: oshw_mask_7mm
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_g__oshw_mask_7mm_1_logo___
+    designation: logo
+    designator: g_
+    footprint: oshw_mask_7mm
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_m1,m2_mountinghole_2_5mm_2_mountinghole_2_5mm___
-  designation: mountinghole_2_5mm
   designator: m1
-  footprint: mountinghole_2_5mm
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4_m1,m2_mountinghole_2_5mm_2_mountinghole_2_5mm___
+    designation: mountinghole_2_5mm
+    designator: m1
+    footprint: mountinghole_2_5mm
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 4_m1,m2_mountinghole_2_5mm_2_mountinghole_2_5mm___
-  designation: mountinghole_2_5mm
   designator: m2
-  footprint: mountinghole_2_5mm
-  id: '4'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 4_m1,m2_mountinghole_2_5mm_2_mountinghole_2_5mm___
+    designation: mountinghole_2_5mm
+    designator: m2
+    footprint: mountinghole_2_5mm
+    id: '4'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: "5_r1_resistor_horizontal_rm15mm_1_4_7k\xEE\xA9___"
-  designation: "4_7k\xEE\xA9"
   designator: r1
-  footprint: resistor_horizontal_rm15mm
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: "5_r1_resistor_horizontal_rm15mm_1_4_7k\xEE\xA9___"
+    designation: "4_7k\xEE\xA9"
+    designator: r1
+    footprint: resistor_horizontal_rm15mm
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
 projects_flat: projects_flat/coredump_ch_photon_sensor_board/version_current/working
 projects_folder: projects_folder/coredump-ch/photon-sensor-board/version_current/working
 repo:

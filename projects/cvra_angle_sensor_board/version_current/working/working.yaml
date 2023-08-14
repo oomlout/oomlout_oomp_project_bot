@@ -13,63 +13,112 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cvra_angle_sensor_board\version_current\working
 oomp_key: oomp_projects_flat_cvra_angle_sensor_board
 oomp_key_simple: projects_flat_cvra_angle_sensor_board
-parts_verbose:
+parts_oomp:
 - all: 1_c1_c_0603_1608metric_pad1_08x0_95mm_handsolder_1_4u7___
-  designation: 4u7
   designator: c1
-  footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_c1_c_0603_1608metric_pad1_08x0_95mm_handsolder_1_4u7___
+    designation: 4u7
+    designator: c1
+    footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_c2_c_0603_1608metric_pad1_08x0_95mm_handsolder_1_100n___
-  designation: 100n
   designator: c2
-  footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_c2_c_0603_1608metric_pad1_08x0_95mm_handsolder_1_100n___
+    designation: 100n
+    designator: c2
+    footprint: c_0603_1608metric_pad1_08x0_95mm_handsolder
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_d1_led_0603_1608metric_castellated_1_ltst_c191kgkt___
-  designation: ltst_c191kgkt
   designator: d1
-  footprint: led_0603_1608metric_castellated
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_d1_led_0603_1608metric_castellated_1_ltst_c191kgkt___
+    designation: ltst_c191kgkt
+    designator: d1
+    footprint: led_0603_1608metric_castellated
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_j1_molex_picoblade_53261_0571_1x05_1mp_p1_25mm_horizontal_1_picoblade_5_pin___
-  designation: picoblade_5_pin
   designator: j1
-  footprint: molex_picoblade_53261_0571_1x05_1mp_p1_25mm_horizontal
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4_j1_molex_picoblade_53261_0571_1x05_1mp_p1_25mm_horizontal_1_picoblade_5_pin___
+    designation: picoblade_5_pin
+    designator: j1
+    footprint: molex_picoblade_53261_0571_1x05_1mp_p1_25mm_horizontal
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_r1_r_0603_1608metric_pad0_98x0_95mm_handsolder_1_15___
-  designation: '15'
   designator: r1
-  footprint: r_0603_1608metric_pad0_98x0_95mm_handsolder
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5_r1_r_0603_1608metric_pad0_98x0_95mm_handsolder_1_15___
+    designation: '15'
+    designator: r1
+    footprint: r_0603_1608metric_pad0_98x0_95mm_handsolder
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_r2_r_0603_1608metric_pad0_98x0_95mm_handsolder_1_270___
-  designation: '270'
   designator: r2
-  footprint: r_0603_1608metric_pad0_98x0_95mm_handsolder
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6_r2_r_0603_1608metric_pad0_98x0_95mm_handsolder_1_270___
+    designation: '270'
+    designator: r2
+    footprint: r_0603_1608metric_pad0_98x0_95mm_handsolder
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_u1_qfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm_1_as5055a___
-  designation: as5055a
   designator: u1
-  footprint: qfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7_u1_qfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm_1_as5055a___
+    designation: as5055a
+    designator: u1
+    footprint: qfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_r3_r_0603_1608metric_pad0_98x0_95mm_handsolder_1_33___
-  designation: '33'
   designator: r3
-  footprint: r_0603_1608metric_pad0_98x0_95mm_handsolder
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8_r3_r_0603_1608metric_pad0_98x0_95mm_handsolder_1_33___
+    designation: '33'
+    designator: r3
+    footprint: r_0603_1608metric_pad0_98x0_95mm_handsolder
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
 projects_flat: projects_flat/cvra_angle_sensor_board/version_current/working
 projects_folder: projects_folder/cvra/angle-sensor-board/version_current/working
 repo:

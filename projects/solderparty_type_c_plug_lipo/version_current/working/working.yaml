@@ -13,56 +13,219 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\solderparty_type_c_plug_lipo\version_current\working
 oomp_key: oomp_projects_flat_solderparty_type_c_plug_lipo
 oomp_key_simple: projects_flat_solderparty_type_c_plug_lipo
-parts_verbose:
+parts_oomp:
 - all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2,10uf,c_0603_1608metric,2,_,~,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2,10uf,c_0603_1608metric,2,_,~,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2,10uf,c_0603_1608metric,2,_,~,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2,10uf,c_0603_1608metric,2,_,~,
 - all: 2,_light_emitting_diode,_small_symbol_,led_small,d1,led_chr,led_0603_1608metric,1,_,~,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 2,_light_emitting_diode,_small_symbol_,led_small,d1,led_chr,led_0603_1608metric,1,_,~,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,_light_emitting_diode,_small_symbol_,led_small,d1,led_chr,led_0603_1608metric,1,_,~,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 2,_light_emitting_diode,_small_symbol_,led_small,d1,led_chr,led_0603_1608metric,1,_,~,
 - all: 3,_light_emitting_diode,_small_symbol_,led_small,d2,led_done,led_0603_1608metric,1,_,~,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 3,_light_emitting_diode,_small_symbol_,led_small,d2,led_done,led_0603_1608metric,1,_,~,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,_light_emitting_diode,_small_symbol_,led_small,d2,led_done,led_0603_1608metric,1,_,~,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 3,_light_emitting_diode,_small_symbol_,led_small,d2,led_done,led_0603_1608metric,1,_,~,
 - all: 4,_generic_connector,_double_row,_02x01,_this_symbol_is_compatible_with_counter_clockwise,_top_bottom_and_odd_even_numbering_schemes_,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_02x01,j1,conn_battery,jst_ph_s2b_ph_sm4_tb_1x02_1mp_p2_00mm_horizontal,1,_,~,c47647_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 4,_generic_connector,_double_row,_02x01,_this_symbol_is_compatible_with_counter_clockwise,_top_bottom_and_odd_even_numbering_schemes_,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_02x01,j1,conn_battery,jst_ph_s2b_ph_sm4_tb_1x02_1mp_p2_00mm_horizontal,1,_,~,c47647
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,_generic_connector,_double_row,_02x01,_this_symbol_is_compatible_with_counter_clockwise,_top_bottom_and_odd_even_numbering_schemes_,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_02x01,j1,conn_battery,jst_ph_s2b_ph_sm4_tb_1x02_1mp_p2_00mm_horizontal,1,_,~,c47647_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 4,_generic_connector,_double_row,_02x01,_this_symbol_is_compatible_with_counter_clockwise,_top_bottom_and_odd_even_numbering_schemes_,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_02x01,j1,conn_battery,jst_ph_s2b_ph_sm4_tb_1x02_1mp_p2_00mm_horizontal,1,_,~,c47647
 - all: 5,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04,j4,conn_pwr,pinheader_1x04_p2_54mm_vertical,1,_,~,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 5,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04,j4,conn_pwr,pinheader_1x04_p2_54mm_vertical,1,_,~,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04,j4,conn_pwr,pinheader_1x04_p2_54mm_vertical,1,_,~,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 5,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04,j4,conn_pwr,pinheader_1x04_p2_54mm_vertical,1,_,~,
 - all: 6,usb_2_0_only_type_c_plug_connector,usb_c_plug_usb2_0,j2,usb_c_plug_usb2_0,usb_c_plug_utc009_c12,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 6,usb_2_0_only_type_c_plug_connector,usb_c_plug_usb2_0,j2,usb_c_plug_usb2_0,usb_c_plug_utc009_c12,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,usb_2_0_only_type_c_plug_connector,usb_c_plug_usb2_0,j2,usb_c_plug_usb2_0,usb_c_plug_utc009_c12,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 6,usb_2_0_only_type_c_plug_connector,usb_c_plug_usb2_0,j2,usb_c_plug_usb2_0,usb_c_plug_utc009_c12,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,
 - all: 7,_resistor,_small_symbol_,r_small,r3_r4,1k,r_0603_1608metric,2,_,~,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 7,_resistor,_small_symbol_,r_small,r3_r4,1k,r_0603_1608metric,2,_,~,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,_resistor,_small_symbol_,r_small,r3_r4,1k,r_0603_1608metric,2,_,~,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 7,_resistor,_small_symbol_,r_small,r3_r4,1k,r_0603_1608metric,2,_,~,
 - all: 8,_resistor,_small_symbol_,r_small,r2,2k,r_0603_1608metric,1,_,~,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 8,_resistor,_small_symbol_,r_small,r2,2k,r_0603_1608metric,1,_,~,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,_resistor,_small_symbol_,r_small,r2,2k,r_0603_1608metric,1,_,~,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 8,_resistor,_small_symbol_,r_small,r2,2k,r_0603_1608metric,1,_,~,
 - all: 9,_resistor,_small_symbol_,r_small,r1,5_1k,r_0603_1608metric,1,_,~,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 9,_resistor,_small_symbol_,r_small,r1,5_1k,r_0603_1608metric,1,_,~,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,_resistor,_small_symbol_,r_small,r1,5_1k,r_0603_1608metric,1,_,~,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 9,_resistor,_small_symbol_,r_small,r1,5_1k,r_0603_1608metric,1,_,~,
 - all: 10,,me4055_n,u1,me4055_n,sot_23_6,1,_,https_datasheet_lcsc_com_lcsc_2207251602_microne_nanjing_micro_one_elec_me4055am6g_n_c82121_pdf,c82121_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 10,,me4055_n,u1,me4055_n,sot_23_6,1,_,https_datasheet_lcsc_com_lcsc_2207251602_microne_nanjing_micro_one_elec_me4055am6g_n_c82121_pdf,c82121
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,,me4055_n,u1,me4055_n,sot_23_6,1,_,https_datasheet_lcsc_com_lcsc_2207251602_microne_nanjing_micro_one_elec_me4055am6g_n_c82121_pdf,c82121_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: 10,,me4055_n,u1,me4055_n,sot_23_6,1,_,https_datasheet_lcsc_com_lcsc_2207251602_microne_nanjing_micro_one_elec_me4055am6g_n_c82121_pdf,c82121
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: revision_,
 - all: date_,2023_08_02_17_08_59_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: date_,2023_08_02_17_08_59
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: date_,2023_08_02_17_08_59_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: date_,2023_08_02_17_08_59
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: statistics_
 - all: component_groups_,10_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: component_groups_,10
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: component_groups_,10_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: component_groups_,10
 - all: component_count_,12_(11_smd_1_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: component_count_,12_(11_smd_1_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: component_count_,12_(11_smd_1_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: component_count_,12_(11_smd_1_tht)
 - all: fitted_components_,12_(11_smd_1_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: fitted_components_,12_(11_smd_1_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: fitted_components_,12_(11_smd_1_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: fitted_components_,12_(11_smd_1_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: number_of_pcbs_,1
 - all: total_components_,12_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: total_components_,12
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: total_components_,12_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,lcsc: total_components_,12
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
 projects_flat: projects_flat/solderparty_type_c_plug_lipo/version_current/working
 projects_folder: projects_folder/solderparty/type-c_plug_lipo/version_current/working
 repo:

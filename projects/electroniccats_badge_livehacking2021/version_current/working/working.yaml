@@ -13,147 +13,268 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_badge_livehacking2021\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_badge_livehacking2021
 oomp_key_simple: projects_flat_electroniccats_badge_livehacking2021
-parts_verbose:
+parts_oomp:
 - all: 1_ref__logomeli_1_val____
-  designation: val_
   designator: ref_
-  footprint: logomeli
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_ref__logomeli_1_val____
+    designation: val_
+    designator: ref_
+    footprint: logomeli
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_bt1_12bh423gr_1_battery_cell___
-  designation: battery_cell
   designator: bt1
-  footprint: 12bh423gr
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_bt1_12bh423gr_1_battery_cell___
+    designation: battery_cell
+    designator: bt1
+    footprint: 12bh423gr
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_d1_d_sod_123f_1_mbr120___
-  designation: mbr120
   designator: d1
-  footprint: d_sod_123f
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_d1_d_sod_123f_1_mbr120___
+    designation: mbr120
+    designator: d1
+    footprint: d_sod_123f
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_u1_rpi_pico_smd_th_1_pico___
-  designation: pico
   designator: u1
-  footprint: rpi_pico_smd_th
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4_u1_rpi_pico_smd_th_1_pico___
+    designation: pico
+    designator: u1
+    footprint: rpi_pico_smd_th
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_rn2,rn1_r_array_convex_4x0603_2_r_pack04___
-  designation: r_pack04
   designator: rn2
-  footprint: r_array_convex_4x0603
-  id: '5'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5_rn2,rn1_r_array_convex_4x0603_2_r_pack04___
+    designation: r_pack04
+    designator: rn2
+    footprint: r_array_convex_4x0603
+    id: '5'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 5_rn2,rn1_r_array_convex_4x0603_2_r_pack04___
-  designation: r_pack04
   designator: rn1
-  footprint: r_array_convex_4x0603
-  id: '5'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 5_rn2,rn1_r_array_convex_4x0603_2_r_pack04___
+    designation: r_pack04
+    designator: rn1
+    footprint: r_array_convex_4x0603
+    id: '5'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 6_sw3,sw2_sw_spst_tl3342_2_sw_push___
-  designation: sw_push
   designator: sw3
-  footprint: sw_spst_tl3342
-  id: '6'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 6_sw3,sw2_sw_spst_tl3342_2_sw_push___
+    designation: sw_push
+    designator: sw3
+    footprint: sw_spst_tl3342
+    id: '6'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 6_sw3,sw2_sw_spst_tl3342_2_sw_push___
-  designation: sw_push
   designator: sw2
-  footprint: sw_spst_tl3342
-  id: '6'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 6_sw3,sw2_sw_spst_tl3342_2_sw_push___
+    designation: sw_push
+    designator: sw2
+    footprint: sw_spst_tl3342
+    id: '6'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 7_sw1_sw_spst_tl3342_1_rst___
-  designation: rst
   designator: sw1
-  footprint: sw_spst_tl3342
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 7_sw1_sw_spst_tl3342_1_rst___
+    designation: rst
+    designator: sw1
+    footprint: sw_spst_tl3342
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_j1_pinheader_1x05_p2_54mm_vertical_1_conn_01x05___
-  designation: conn_01x05
   designator: j1
-  footprint: pinheader_1x05_p2_54mm_vertical
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 8_j1_pinheader_1x05_p2_54mm_vertical_1_conn_01x05___
+    designation: conn_01x05
+    designator: j1
+    footprint: pinheader_1x05_p2_54mm_vertical
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
-  designation: led
   designator: d9
-  footprint: lyt77k_k2m1_nohole
-  id: '9'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
+    designation: led
+    designator: d9
+    footprint: lyt77k_k2m1_nohole
+    id: '9'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
-  designation: led
   designator: d8
-  footprint: lyt77k_k2m1_nohole
-  id: '9'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
+    designation: led
+    designator: d8
+    footprint: lyt77k_k2m1_nohole
+    id: '9'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
-  designation: led
   designator: d7
-  footprint: lyt77k_k2m1_nohole
-  id: '9'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
+    designation: led
+    designator: d7
+    footprint: lyt77k_k2m1_nohole
+    id: '9'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
-  designation: led
   designator: d6
-  footprint: lyt77k_k2m1_nohole
-  id: '9'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
+    designation: led
+    designator: d6
+    footprint: lyt77k_k2m1_nohole
+    id: '9'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
-  designation: led
   designator: d5
-  footprint: lyt77k_k2m1_nohole
-  id: '9'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
+    designation: led
+    designator: d5
+    footprint: lyt77k_k2m1_nohole
+    id: '9'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
-  designation: led
   designator: d4
-  footprint: lyt77k_k2m1_nohole
-  id: '9'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
+    designation: led
+    designator: d4
+    footprint: lyt77k_k2m1_nohole
+    id: '9'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
-  designation: led
   designator: d3
-  footprint: lyt77k_k2m1_nohole
-  id: '9'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
+    designation: led
+    designator: d3
+    footprint: lyt77k_k2m1_nohole
+    id: '9'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
-  designation: led
   designator: d2
-  footprint: lyt77k_k2m1_nohole
-  id: '9'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 9_d9,d8,d7,d6,d5,d4,d3,d2_lyt77k_k2m1_nohole_8_led___
+    designation: led
+    designator: d2
+    footprint: lyt77k_k2m1_nohole
+    id: '9'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 10_g__electronic_cats_logo_8x6_1_logo___
-  designation: logo
   designator: g_
-  footprint: electronic_cats_logo_8x6
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 10_g__electronic_cats_logo_8x6_1_logo___
+    designation: logo
+    designator: g_
+    footprint: electronic_cats_logo_8x6
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_ref__ml_livehacking_mlm_1_val____
-  designation: val_
   designator: ref_
-  footprint: ml_livehacking_mlm
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 11_ref__ml_livehacking_mlm_1_val____
+    designation: val_
+    designator: ref_
+    footprint: ml_livehacking_mlm
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
 projects_flat: projects_flat/electroniccats_badge_livehacking2021/version_current/working
 projects_folder: projects_folder/ElectronicCats/Badge-LiveHacking2021/version_current/working
 repo:

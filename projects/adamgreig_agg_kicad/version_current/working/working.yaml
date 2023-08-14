@@ -13,42 +13,73 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamgreig_agg_kicad\version_current\working
 oomp_key: oomp_projects_flat_adamgreig_agg_kicad
 oomp_key_simple: projects_flat_adamgreig_agg_kicad
-parts_verbose:
+parts_oomp:
 - all: 1_ref_,ref_,ref_,ref__m2_5_mount_4_m2_5_mount___
-  designation: m2_5_mount
   designator: ref_
-  footprint: m2_5_mount
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_ref_,ref_,ref_,ref__m2_5_mount_4_m2_5_mount___
+    designation: m2_5_mount
+    designator: ref_
+    footprint: m2_5_mount
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 1_ref_,ref_,ref_,ref__m2_5_mount_4_m2_5_mount___
-  designation: m2_5_mount
   designator: ref_
-  footprint: m2_5_mount
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_ref_,ref_,ref_,ref__m2_5_mount_4_m2_5_mount___
+    designation: m2_5_mount
+    designator: ref_
+    footprint: m2_5_mount
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 1_ref_,ref_,ref_,ref__m2_5_mount_4_m2_5_mount___
-  designation: m2_5_mount
   designator: ref_
-  footprint: m2_5_mount
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 1_ref_,ref_,ref_,ref__m2_5_mount_4_m2_5_mount___
+    designation: m2_5_mount
+    designator: ref_
+    footprint: m2_5_mount
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 1_ref_,ref_,ref_,ref__m2_5_mount_4_m2_5_mount___
-  designation: m2_5_mount
   designator: ref_
-  footprint: m2_5_mount
-  id: '1'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 1_ref_,ref_,ref_,ref__m2_5_mount_4_m2_5_mount___
+    designation: m2_5_mount
+    designator: ref_
+    footprint: m2_5_mount
+    id: '1'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 2_ref__dil_254p_40_1_dil_254p_40___
-  designation: dil_254p_40
   designator: ref_
-  footprint: dil_254p_40
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 2_ref__dil_254p_40_1_dil_254p_40___
+    designation: dil_254p_40
+    designator: ref_
+    footprint: dil_254p_40
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
 projects_flat: projects_flat/adamgreig_agg_kicad/version_current/working
 projects_folder: projects_folder/adamgreig/agg-kicad/version_current/working
 repo:

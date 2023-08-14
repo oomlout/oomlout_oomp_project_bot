@@ -15,66 +15,254 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\libresolar_uext_esp32_c3\version_current\working
 oomp_key: oomp_projects_flat_libresolar_uext_esp32_c3
 oomp_key_simple: projects_flat_libresolar_uext_esp32_c3
-parts_verbose:
+parts_oomp:
 - all: 1,,c,c5,100nf,c_0603_1608,1,_,,any,,_50v,_x7r_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 1,,c,c5,100nf,c_0603_1608,1,_,,any,,_50v,_x7r_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,,c,c5,100nf,c_0603_1608,1,_,,any,,_50v,_x7r_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 1,,c,c5,100nf,c_0603_1608,1,_,,any,,_50v,_x7r_,
 - all: 2,,c,c3,1uf,c_0603_1608,1,_,,any,,_10v,_x5r_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 2,,c,c3,1uf,c_0603_1608,1,_,,any,,_10v,_x5r_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,,c,c3,1uf,c_0603_1608,1,_,,any,,_10v,_x5r_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 2,,c,c3,1uf,c_0603_1608,1,_,,any,,_10v,_x5r_,
 - all: 3,,c,c1_c2,2_2u,c_0603_1608,2,_,,any,,_10v,_x5r_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 3,,c,c1_c2,2_2u,c_0603_1608,2,_,,any,,_10v,_x5r_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,,c,c1_c2,2_2u,c_0603_1608,2,_,,any,,_10v,_x5r_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 3,,c,c1_c2,2_2u,c_0603_1608,2,_,,any,,_10v,_x5r_,
 - all: 4,,c,c4,10uf,c_0805_2012,1,_,,any,,_10v,_x5r_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 4,,c,c4,10uf,c_0805_2012,1,_,,any,,_10v,_x5r_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,,c,c4,10uf,c_0805_2012,1,_,,any,,_10v,_x5r_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 4,,c,c4,10uf,c_0805_2012,1,_,,any,,_10v,_x5r_,
 - all: 5,olimex_uext_connector_(2x5_box_header),uext,j2,uext,pinsocket_2x05_p2_54mm_vertical,1,_,,any,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 5,olimex_uext_connector_(2x5_box_header),uext,j2,uext,pinsocket_2x05_p2_54mm_vertical,1,_,,any,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,olimex_uext_connector_(2x5_box_header),uext,j2,uext,pinsocket_2x05_p2_54mm_vertical,1,_,,any,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 5,olimex_uext_connector_(2x5_box_header),uext,j2,uext,pinsocket_2x05_p2_54mm_vertical,1,_,,any,,,
 - all: 6,usb_micro_type_b_connector,usb_b_micro,j1,usb_b_micro,usb_micro_b_10103594_0001lf,1,_,~,amphenol_fci,10103594_0001lf,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 6,usb_micro_type_b_connector,usb_b_micro,j1,usb_b_micro,usb_micro_b_10103594_0001lf,1,_,~,amphenol_fci,10103594_0001lf,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,usb_micro_type_b_connector,usb_b_micro,j1,usb_b_micro,usb_micro_b_10103594_0001lf,1,_,~,amphenol_fci,10103594_0001lf,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 6,usb_micro_type_b_connector,usb_b_micro,j1,usb_b_micro,usb_micro_b_10103594_0001lf,1,_,~,amphenol_fci,10103594_0001lf,,
 - all: 7,light_emitting_diode,led,led1,led,led_0603_1608metric,1,_,,any,red,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 7,light_emitting_diode,led,led1,led,led_0603_1608metric,1,_,,any,red,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,light_emitting_diode,led,led1,led,led_0603_1608metric,1,_,,any,red,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 7,light_emitting_diode,led,led1,led,led_0603_1608metric,1,_,,any,red,,
 - all: 8,,libresolar_logo,logo1,libresolar_logo,libresolar_logo,1,_,,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 8,,libresolar_logo,logo1,libresolar_logo,libresolar_logo,1,_,,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,,libresolar_logo,logo1,libresolar_logo,libresolar_logo,1,_,,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 8,,libresolar_logo,logo1,libresolar_logo,libresolar_logo,1,_,,,,,
 - all: 9,_open_hardware_logo,_small_,logo_open_hardware_small,logo2,logo_open_hardware_small,oshw_logo_5_7x6mm_silkscreen,1,_,~,,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 9,_open_hardware_logo,_small_,logo_open_hardware_small,logo2,logo_open_hardware_small,oshw_logo_5_7x6mm_silkscreen,1,_,~,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,_open_hardware_logo,_small_,logo_open_hardware_small,logo2,logo_open_hardware_small,oshw_logo_5_7x6mm_silkscreen,1,_,~,,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 9,_open_hardware_logo,_small_,logo_open_hardware_small,logo2,logo_open_hardware_small,oshw_logo_5_7x6mm_silkscreen,1,_,~,,,,
 - all: 10,resistor,r,r1,1k,r_0603_1608,1,_,,any,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 10,resistor,r,r1,1k,r_0603_1608,1,_,,any,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,resistor,r,r1,1k,r_0603_1608,1,_,,any,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 10,resistor,r,r1,1k,r_0603_1608,1,_,,any,,,
 - all: 11,resistor,r,r2,10k,r_0603_1608,1,_,,any,,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 11,resistor,r,r2,10k,r_0603_1608,1,_,,any,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,resistor,r,r2,10k,r_0603_1608,1,_,,any,,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 11,resistor,r,r2,10k,r_0603_1608,1,_,,any,,,
 - all: 12,_300ma_low_dropout_linear_regulator,_shutdown_pin,_1_5v_fixed_positive_output,_sot_23_5_package_,ap2210_3_3,u1,ap2210_3_3,sot_23_5,1,_,,diodes_inc_,ap2210k_3_3trg1,alternative_mic5225,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 12,_300ma_low_dropout_linear_regulator,_shutdown_pin,_1_5v_fixed_positive_output,_sot_23_5_package_,ap2210_3_3,u1,ap2210_3_3,sot_23_5,1,_,,diodes_inc_,ap2210k_3_3trg1,alternative_mic5225,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,_300ma_low_dropout_linear_regulator,_shutdown_pin,_1_5v_fixed_positive_output,_sot_23_5_package_,ap2210_3_3,u1,ap2210_3_3,sot_23_5,1,_,,diodes_inc_,ap2210k_3_3trg1,alternative_mic5225,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 12,_300ma_low_dropout_linear_regulator,_shutdown_pin,_1_5v_fixed_positive_output,_sot_23_5_package_,ap2210_3_3,u1,ap2210_3_3,sot_23_5,1,_,,diodes_inc_,ap2210k_3_3trg1,alternative_mic5225,
 - all: 13,_esp32_c3_mini_1_is_a_general_purpose_wi_fi_and_bluetooth_le_module_this_module_features_a_rich_set_of_peripherals_and_a_small_size,_which_makes_it_an_ideal_choice_for_smart_home,_industrial_automation,_health_care,_consumer_electronics,_etc_,esp32_c3_mini_1,u3,esp32_c3_mini_1,esp32_c3_mini_1,1,_,https_www_espressif_com_sites_default_files_documentation_esp32_c3_mini_1_datasheet_en_pdf,espressif,esp32_c3_mini_1_n4,,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 13,_esp32_c3_mini_1_is_a_general_purpose_wi_fi_and_bluetooth_le_module_this_module_features_a_rich_set_of_peripherals_and_a_small_size,_which_makes_it_an_ideal_choice_for_smart_home,_industrial_automation,_health_care,_consumer_electronics,_etc_,esp32_c3_mini_1,u3,esp32_c3_mini_1,esp32_c3_mini_1,1,_,https_www_espressif_com_sites_default_files_documentation_esp32_c3_mini_1_datasheet_en_pdf,espressif,esp32_c3_mini_1_n4,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,_esp32_c3_mini_1_is_a_general_purpose_wi_fi_and_bluetooth_le_module_this_module_features_a_rich_set_of_peripherals_and_a_small_size,_which_makes_it_an_ideal_choice_for_smart_home,_industrial_automation,_health_care,_consumer_electronics,_etc_,esp32_c3_mini_1,u3,esp32_c3_mini_1,esp32_c3_mini_1,1,_,https_www_espressif_com_sites_default_files_documentation_esp32_c3_mini_1_datasheet_en_pdf,espressif,esp32_c3_mini_1_n4,,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: 13,_esp32_c3_mini_1_is_a_general_purpose_wi_fi_and_bluetooth_le_module_this_module_features_a_rich_set_of_peripherals_and_a_small_size,_which_makes_it_an_ideal_choice_for_smart_home,_industrial_automation,_health_care,_consumer_electronics,_etc_,esp32_c3_mini_1,u3,esp32_c3_mini_1,esp32_c3_mini_1,1,_,https_www_espressif_com_sites_default_files_documentation_esp32_c3_mini_1_datasheet_en_pdf,espressif,esp32_c3_mini_1_n4,,
 - all: "14,_transient_voltage_suppressor_designed_to_protect_high_speed_data_lines_from_esd,_eft,_and_lightning_,nup4202,u2,nup4202,sot_363_sc_70_6,1,_,http_www_onsemi_com_pub_link_collateral_nup4202w1_d_pdf,on_semi,nup4202w1t2g,_alternatives_w\xE3\
     \xBCrth_82400274,_diodes_d1213a_04s_,w\xE3\xBCrth_82400274_"
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: "14,_transient_voltage_suppressor_designed_to_protect_high_speed_data_lines_from_esd,_eft,_and_lightning_,nup4202,u2,nup4202,sot_363_sc_70_6,1,_,http_www_onsemi_com_pub_link_collateral_nup4202w1_d_pdf,on_semi,nup4202w1t2g,_alternatives_w\xE3\
-    \xBCrth_82400274,_diodes_d1213a_04s_,w\xE3\xBCrth_82400274"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: "14,_transient_voltage_suppressor_designed_to_protect_high_speed_data_lines_from_esd,_eft,_and_lightning_,nup4202,u2,nup4202,sot_363_sc_70_6,1,_,http_www_onsemi_com_pub_link_collateral_nup4202w1_d_pdf,on_semi,nup4202w1t2g,_alternatives_w\xE3\
+      \xBCrth_82400274,_diodes_d1213a_04s_,w\xE3\xBCrth_82400274_"
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: "14,_transient_voltage_suppressor_designed_to_protect_high_speed_data_lines_from_esd,_eft,_and_lightning_,nup4202,u2,nup4202,sot_363_sc_70_6,1,_,http_www_onsemi_com_pub_link_collateral_nup4202w1_d_pdf,on_semi,nup4202w1t2g,_alternatives_w\xE3\
+      \xBCrth_82400274,_diodes_d1213a_04s_,w\xE3\xBCrth_82400274"
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: variant_,default
 - all: revision_,0_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: revision_,0_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: revision_,0_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: revision_,0_1
 - all: date_,2023_01_02_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: date_,2023_01_02
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: date_,2023_01_02_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: date_,2023_01_02
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: statistics_
 - all: component_groups_,14_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: component_groups_,14
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: component_groups_,14_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: component_groups_,14
 - all: component_count_,15_(12_smd_2_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: component_count_,15_(12_smd_2_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: component_count_,15_(12_smd_2_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: component_count_,15_(12_smd_2_tht)
 - all: fitted_components_,15_(12_smd_2_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: fitted_components_,15_(12_smd_2_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: fitted_components_,15_(12_smd_2_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: fitted_components_,15_(12_smd_2_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: number_of_pcbs_,1
 - all: total_components_,15_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: total_components_,15
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: total_components_,15_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manufacturer,partnumber,remarks,dnm: total_components_,15
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
 projects_flat: projects_flat/libresolar_uext_esp32_c3/version_current/working
 projects_folder: projects_folder/LibreSolar/uext-esp32-c3/version_current/working
 repo:

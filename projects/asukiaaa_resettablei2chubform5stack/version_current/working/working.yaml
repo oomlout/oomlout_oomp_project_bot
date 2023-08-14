@@ -13,112 +13,232 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\asukiaaa_resettablei2chubform5stack\version_current\working
 oomp_key: oomp_projects_flat_asukiaaa_resettablei2chubform5stack
 oomp_key_simple: projects_flat_asukiaaa_resettablei2chubform5stack
-parts_verbose:
+parts_oomp:
 - all: 1_q1_sot_23_1_q_pmos_gsd___
-  designation: q_pmos_gsd
   designator: q1
-  footprint: sot_23
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_q1_sot_23_1_q_pmos_gsd___
+    designation: q_pmos_gsd
+    designator: q1
+    footprint: sot_23
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_c1_c_0201_0603metric_1_0_1uf___
-  designation: 0_1uf
   designator: c1
-  footprint: c_0201_0603metric
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_c1_c_0201_0603metric_1_0_1uf___
+    designation: 0_1uf
+    designator: c1
+    footprint: c_0201_0603metric
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_j8,j7,j6,j5,j1_ns_tech_grove_1x04_p2mm_horizontal_5_conn_01x04___
-  designation: conn_01x04
   designator: j8
-  footprint: ns_tech_grove_1x04_p2mm_horizontal
-  id: '3'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_j8,j7,j6,j5,j1_ns_tech_grove_1x04_p2mm_horizontal_5_conn_01x04___
+    designation: conn_01x04
+    designator: j8
+    footprint: ns_tech_grove_1x04_p2mm_horizontal
+    id: '3'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 3_j8,j7,j6,j5,j1_ns_tech_grove_1x04_p2mm_horizontal_5_conn_01x04___
-  designation: conn_01x04
   designator: j7
-  footprint: ns_tech_grove_1x04_p2mm_horizontal
-  id: '3'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_j8,j7,j6,j5,j1_ns_tech_grove_1x04_p2mm_horizontal_5_conn_01x04___
+    designation: conn_01x04
+    designator: j7
+    footprint: ns_tech_grove_1x04_p2mm_horizontal
+    id: '3'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 3_j8,j7,j6,j5,j1_ns_tech_grove_1x04_p2mm_horizontal_5_conn_01x04___
-  designation: conn_01x04
   designator: j6
-  footprint: ns_tech_grove_1x04_p2mm_horizontal
-  id: '3'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_j8,j7,j6,j5,j1_ns_tech_grove_1x04_p2mm_horizontal_5_conn_01x04___
+    designation: conn_01x04
+    designator: j6
+    footprint: ns_tech_grove_1x04_p2mm_horizontal
+    id: '3'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 3_j8,j7,j6,j5,j1_ns_tech_grove_1x04_p2mm_horizontal_5_conn_01x04___
-  designation: conn_01x04
   designator: j5
-  footprint: ns_tech_grove_1x04_p2mm_horizontal
-  id: '3'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 3_j8,j7,j6,j5,j1_ns_tech_grove_1x04_p2mm_horizontal_5_conn_01x04___
+    designation: conn_01x04
+    designator: j5
+    footprint: ns_tech_grove_1x04_p2mm_horizontal
+    id: '3'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 3_j8,j7,j6,j5,j1_ns_tech_grove_1x04_p2mm_horizontal_5_conn_01x04___
-  designation: conn_01x04
   designator: j1
-  footprint: ns_tech_grove_1x04_p2mm_horizontal
-  id: '3'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 3_j8,j7,j6,j5,j1_ns_tech_grove_1x04_p2mm_horizontal_5_conn_01x04___
+    designation: conn_01x04
+    designator: j1
+    footprint: ns_tech_grove_1x04_p2mm_horizontal
+    id: '3'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 4_j3_pinheader_2x15_p2_54mm_m5stack_1_header___
-  designation: header
   designator: j3
-  footprint: pinheader_2x15_p2_54mm_m5stack
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 4_j3_pinheader_2x15_p2_54mm_m5stack_1_header___
+    designation: header
+    designator: j3
+    footprint: pinheader_2x15_p2_54mm_m5stack
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_u1_qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm_1_atmega328p_mu___
-  designation: atmega328p_mu
   designator: u1
-  footprint: qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part:
+    classification: electronic
+    color: mcu
+    description_extra: ''
+    description_main: atmega328
+    directory: parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
+    distributors: []
+    footprint:
+    - directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm//working/working.kicad_mod
+      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
+      oomp_key: oomp_kicad_package_dfn_qfn_vqfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
+    id: electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
+    make_files: true
+    manufacturer: microchip
+    md5: b802d6a3b9fd3d65125bca9ef558c5ec
+    md5_10: b802d6a3b9
+    md5_5: b802d
+    md5_6: b802d6
+    name: Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mur
+    oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
+    part_number: atmega328p_mur
+    short_code: imlf32at328
+    short_name: atmega328 32 pin mlf
+    size: mlf_32
+    symbol:
+    - directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_m//working/working.kicad_sym
+      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_m
+      oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_m
+    type: ic
+  oomp_part_id: electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mur
+  part_verbose: &id009
+    all: 5_u1_qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm_1_atmega328p_mu___
+    designation: atmega328p_mu
+    designator: u1
+    footprint: qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_sw1_sw_dip_spstx08_slide_9_78x22_5mm_w7_62mm_p2_54mm_1_sw_dip_x08___
-  designation: sw_dip_x08
   designator: sw1
-  footprint: sw_dip_spstx08_slide_9_78x22_5mm_w7_62mm_p2_54mm
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 6_sw1_sw_dip_spstx08_slide_9_78x22_5mm_w7_62mm_p2_54mm_1_sw_dip_x08___
+    designation: sw_dip_x08
+    designator: sw1
+    footprint: sw_dip_spstx08_slide_9_78x22_5mm_w7_62mm_p2_54mm
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 7_r1_r_0603_1608metric_1_10k___
-  designation: 10k
   designator: r1
-  footprint: r_0603_1608metric
-  id: '7'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 7_r1_r_0603_1608metric_1_10k___
+    designation: 10k
+    designator: r1
+    footprint: r_0603_1608metric
+    id: '7'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 8_j2_2x03_p2_54mm_pads_1_conn_01x06___
-  designation: conn_01x06
   designator: j2
-  footprint: 2x03_p2_54mm_pads
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 8_j2_2x03_p2_54mm_pads_1_conn_01x06___
+    designation: conn_01x06
+    designator: j2
+    footprint: 2x03_p2_54mm_pads
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_c3_c_0603_1608metric_1_1uf___
-  designation: 1uf
   designator: c3
-  footprint: c_0603_1608metric
-  id: '9'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 9_c3_c_0603_1608metric_1_1uf___
+    designation: 1uf
+    designator: c3
+    footprint: c_0603_1608metric
+    id: '9'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 10_c2_c_0603_1608metric_1_0_1uf___
-  designation: 0_1uf
   designator: c2
-  footprint: c_0603_1608metric
-  id: '10'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 10_c2_c_0603_1608metric_1_0_1uf___
+    designation: 0_1uf
+    designator: c2
+    footprint: c_0603_1608metric
+    id: '10'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 11_j4_pinsocket_2x15_p2_54mm_vertical_smd_just_for_m5stack_bottom_1_socket___
-  designation: socket
   designator: j4
-  footprint: pinsocket_2x15_p2_54mm_vertical_smd_just_for_m5stack_bottom
-  id: '11'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 11_j4_pinsocket_2x15_p2_54mm_vertical_smd_just_for_m5stack_bottom_1_socket___
+    designation: socket
+    designator: j4
+    footprint: pinsocket_2x15_p2_54mm_vertical_smd_just_for_m5stack_bottom
+    id: '11'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
 projects_flat: projects_flat/asukiaaa_resettablei2chubform5stack/version_current/working
 projects_folder: projects_folder/asukiaaa/ResettableI2CHubForM5Stack/version_current/working
 repo:

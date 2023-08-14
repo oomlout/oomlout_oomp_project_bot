@@ -73,77 +73,138 @@ owner:
   subscriptions_url: https://api.github.com/users/aaronw2/subscriptions
   type: User
   url: https://api.github.com/users/aaronw2
-parts_verbose:
+parts_oomp:
 - all: 1_d1_led_plcc_2_1_vsmy3940x01_gs08___
-  designation: vsmy3940x01_gs08
   designator: d1
-  footprint: led_plcc_2
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_d1_led_plcc_2_1_vsmy3940x01_gs08___
+    designation: vsmy3940x01_gs08
+    designator: d1
+    footprint: led_plcc_2
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_u2_lfcsp_8_1ep_3x2mm_p0_5mm_ep1_6x1_65mm_1_adux1020___
-  designation: adux1020
   designator: u2
-  footprint: lfcsp_8_1ep_3x2mm_p0_5mm_ep1_6x1_65mm
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_u2_lfcsp_8_1ep_3x2mm_p0_5mm_ep1_6x1_65mm_1_adux1020___
+    designation: adux1020
+    designator: u2
+    footprint: lfcsp_8_1ep_3x2mm_p0_5mm_ep1_6x1_65mm
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 3_c2,c4,c3,c1_c_0603_1608metric_4_1uf___
-  designation: 1uf
   designator: c2
-  footprint: c_0603_1608metric
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3_c2,c4,c3,c1_c_0603_1608metric_4_1uf___
+    designation: 1uf
+    designator: c2
+    footprint: c_0603_1608metric
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_c2,c4,c3,c1_c_0603_1608metric_4_1uf___
-  designation: 1uf
   designator: c4
-  footprint: c_0603_1608metric
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 3_c2,c4,c3,c1_c_0603_1608metric_4_1uf___
+    designation: 1uf
+    designator: c4
+    footprint: c_0603_1608metric
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_c2,c4,c3,c1_c_0603_1608metric_4_1uf___
-  designation: 1uf
   designator: c3
-  footprint: c_0603_1608metric
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_c2,c4,c3,c1_c_0603_1608metric_4_1uf___
+    designation: 1uf
+    designator: c3
+    footprint: c_0603_1608metric
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 3_c2,c4,c3,c1_c_0603_1608metric_4_1uf___
-  designation: 1uf
   designator: c1
-  footprint: c_0603_1608metric
-  id: '3'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 3_c2,c4,c3,c1_c_0603_1608metric_4_1uf___
+    designation: 1uf
+    designator: c1
+    footprint: c_0603_1608metric
+    id: '3'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_rn1_r_array_convex_4x0603_1_10k___
-  designation: 10k
   designator: rn1
-  footprint: r_array_convex_4x0603
-  id: '4'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 4_rn1_r_array_convex_4x0603_1_10k___
+    designation: 10k
+    designator: rn1
+    footprint: r_array_convex_4x0603
+    id: '4'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 5_j2,j1_pinheader_1x05_p1_27mm_vertical_2_conn_01x05___
-  designation: conn_01x05
   designator: j2
-  footprint: pinheader_1x05_p1_27mm_vertical
-  id: '5'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 5_j2,j1_pinheader_1x05_p1_27mm_vertical_2_conn_01x05___
+    designation: conn_01x05
+    designator: j2
+    footprint: pinheader_1x05_p1_27mm_vertical
+    id: '5'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 5_j2,j1_pinheader_1x05_p1_27mm_vertical_2_conn_01x05___
-  designation: conn_01x05
   designator: j1
-  footprint: pinheader_1x05_p1_27mm_vertical
-  id: '5'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 5_j2,j1_pinheader_1x05_p1_27mm_vertical_2_conn_01x05___
+    designation: conn_01x05
+    designator: j1
+    footprint: pinheader_1x05_p1_27mm_vertical
+    id: '5'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 6_u1_sot_23_5_1_tlv71318pdbv___
-  designation: tlv71318pdbv
   designator: u1
-  footprint: sot_23_5
-  id: '6'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 6_u1_sot_23_5_1_tlv71318pdbv___
+    designation: tlv71318pdbv
+    designator: u1
+    footprint: sot_23_5
+    id: '6'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
 private: false
 projects_flat: projects_flat/aaronw2_light_sensor/version_current/working
 projects_folder: projects_folder/aaronw2/light-sensor/version_current/working

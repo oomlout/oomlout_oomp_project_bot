@@ -13,70 +13,125 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dqmcdonald_ledlamp\version_current\working
 oomp_key: oomp_projects_flat_dqmcdonald_ledlamp
 oomp_key_simple: projects_flat_dqmcdonald_ledlamp
-parts_verbose:
+parts_oomp:
 - all: 1_d1,d2_led10mm_2_led___
-  designation: led
   designator: d1
-  footprint: led10mm
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_d1,d2_led10mm_2_led___
+    designation: led
+    designator: d1
+    footprint: led10mm
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 1_d1,d2_led10mm_2_led___
-  designation: led
   designator: d2
-  footprint: led10mm
-  id: '1'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 1_d1,d2_led10mm_2_led___
+    designation: led
+    designator: d2
+    footprint: led10mm
+    id: '1'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 2_k1,k2_pin_array_3x1_2_conn_3___
-  designation: conn_3
   designator: k1
-  footprint: pin_array_3x1
-  id: '2'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_k1,k2_pin_array_3x1_2_conn_3___
+    designation: conn_3
+    designator: k1
+    footprint: pin_array_3x1
+    id: '2'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 2_k1,k2_pin_array_3x1_2_conn_3___
-  designation: conn_3
   designator: k2
-  footprint: pin_array_3x1
-  id: '2'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 2_k1,k2_pin_array_3x1_2_conn_3___
+    designation: conn_3
+    designator: k2
+    footprint: pin_array_3x1
+    id: '2'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 3_r1_r4_1_180_ohm___
-  designation: 180_ohm
   designator: r1
-  footprint: r4
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_r1_r4_1_180_ohm___
+    designation: 180_ohm
+    designator: r1
+    footprint: r4
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_,,,_3mmmountinghole_4____
-  designation: ''
   designator: ''
-  footprint: 3mmmountinghole
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 4_,,,_3mmmountinghole_4____
+    designation: ''
+    designator: ''
+    footprint: 3mmmountinghole
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_,,,_3mmmountinghole_4____
-  designation: ''
   designator: ''
-  footprint: 3mmmountinghole
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 4_,,,_3mmmountinghole_4____
+    designation: ''
+    designator: ''
+    footprint: 3mmmountinghole
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_,,,_3mmmountinghole_4____
-  designation: ''
   designator: ''
-  footprint: 3mmmountinghole
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 4_,,,_3mmmountinghole_4____
+    designation: ''
+    designator: ''
+    footprint: 3mmmountinghole
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 4_,,,_3mmmountinghole_4____
-  designation: ''
   designator: ''
-  footprint: 3mmmountinghole
-  id: '4'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 4_,,,_3mmmountinghole_4____
+    designation: ''
+    designator: ''
+    footprint: 3mmmountinghole
+    id: '4'
+    quantity: '4'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
 projects_flat: projects_flat/dqmcdonald_ledlamp/version_current/working
 projects_folder: projects_folder/dqmcdonald/LEDLamp/version_current/working
 repo:

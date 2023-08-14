@@ -13,14 +13,21 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\acheronproject_frog_tkl_plates\version_current\working
 oomp_key: oomp_projects_flat_acheronproject_frog_tkl_plates
 oomp_key_simple: projects_flat_acheronproject_frog_tkl_plates
-parts_verbose:
+parts_oomp:
 - all: 1_ref__geonworks_logo_1_geonworks_logo___
-  designation: geonworks_logo
   designator: ref_
-  footprint: geonworks_logo
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_ref__geonworks_logo_1_geonworks_logo___
+    designation: geonworks_logo
+    designator: ref_
+    footprint: geonworks_logo
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
 projects_flat: projects_flat/acheronproject_frog_tkl_plates/version_current/working
 projects_folder: projects_folder/AcheronProject/frog_tkl_plates/version_current/working
 repo:

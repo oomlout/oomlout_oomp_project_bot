@@ -13,21 +13,34 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamjvr_sd2sp2_usa\version_current\working
 oomp_key: oomp_projects_flat_adamjvr_sd2sp2_usa
 oomp_key_simple: projects_flat_adamjvr_sd2sp2_usa
-parts_verbose:
+parts_oomp:
 - all: 1_t2_tsm_104_01_s_dv_2x04_pitch2_54mm_smd_1_tsm_104_01_s_dv___
-  designation: tsm_104_01_s_dv
   designator: t2
-  footprint: tsm_104_01_s_dv_2x04_pitch2_54mm_smd
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_t2_tsm_104_01_s_dv_2x04_pitch2_54mm_smd_1_tsm_104_01_s_dv___
+    designation: tsm_104_01_s_dv
+    designator: t2
+    footprint: tsm_104_01_s_dv_2x04_pitch2_54mm_smd
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_t1_molex_503398_1892_1_5033981892___
-  designation: '5033981892'
   designator: t1
-  footprint: molex_503398_1892
-  id: '2'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_t1_molex_503398_1892_1_5033981892___
+    designation: '5033981892'
+    designator: t1
+    footprint: molex_503398_1892
+    id: '2'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
 projects_flat: projects_flat/adamjvr_sd2sp2_usa/version_current/working
 projects_folder: projects_folder/adamjvr/SD2SP2-USA/version_current/working
 repo:

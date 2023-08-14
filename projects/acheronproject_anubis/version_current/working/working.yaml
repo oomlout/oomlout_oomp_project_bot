@@ -13,195 +13,574 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\acheronproject_anubis\version_current\working
 oomp_key: oomp_projects_flat_acheronproject_anubis
 oomp_key_simple: projects_flat_acheronproject_anubis
-parts_verbose:
+parts_oomp:
 - all: "1,_unpolarized_capacitor,_small_symbol_,c_small,c11_c12,15p,c_0402_1005metric,2,_,~,,guangdong_fenghua_advanced_tech,50v_15pf_c0g_\xE2\
     \xB15%_0402_mlcc,c0402,0402cg150j500nt,lcsc_c1548,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "1,_unpolarized_capacitor,_small_symbol_,c_small,c11_c12,15p,c_0402_1005metric,2,_,~,,guangdong_fenghua_advanced_tech,50v_15pf_c0g_\xE2\
-    \xB15%_0402_mlcc,c0402,0402cg150j500nt,lcsc_c1548,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: "1,_unpolarized_capacitor,_small_symbol_,c_small,c11_c12,15p,c_0402_1005metric,2,_,~,,guangdong_fenghua_advanced_tech,50v_15pf_c0g_\xE2\
+      \xB15%_0402_mlcc,c0402,0402cg150j500nt,lcsc_c1548,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "1,_unpolarized_capacitor,_small_symbol_,c_small,c11_c12,15p,c_0402_1005metric,2,_,~,,guangdong_fenghua_advanced_tech,50v_15pf_c0g_\xE2\
+      \xB15%_0402_mlcc,c0402,0402cg150j500nt,lcsc_c1548,"
 - all: "2,_unpolarized_capacitor,_small_symbol_,c_small,c6_c14,10n,c_0402_1005metric,2,_,~,,samsung,50v_10nf_x7r_\xE2\
     \xB110%_0402_mlcc,c0402,cl05b103kb5nnnc,lcsc_c15195,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "2,_unpolarized_capacitor,_small_symbol_,c_small,c6_c14,10n,c_0402_1005metric,2,_,~,,samsung,50v_10nf_x7r_\xE2\
-    \xB110%_0402_mlcc,c0402,cl05b103kb5nnnc,lcsc_c15195,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: "2,_unpolarized_capacitor,_small_symbol_,c_small,c6_c14,10n,c_0402_1005metric,2,_,~,,samsung,50v_10nf_x7r_\xE2\
+      \xB110%_0402_mlcc,c0402,cl05b103kb5nnnc,lcsc_c15195,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "2,_unpolarized_capacitor,_small_symbol_,c_small,c6_c14,10n,c_0402_1005metric,2,_,~,,samsung,50v_10nf_x7r_\xE2\
+      \xB110%_0402_mlcc,c0402,cl05b103kb5nnnc,lcsc_c15195,"
 - all: "3,_unpolarized_capacitor,_small_symbol_,c_small,c1_c3_c7_c8_c9_c15_c16,100n,c_0402_1005metric,7,_,~,,samsung,50v_100nf_x7r_\xE2\
     \xB110%_0402_mlcc,c0402,cl05b104kb54pnc,lcsc_c307331,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "3,_unpolarized_capacitor,_small_symbol_,c_small,c1_c3_c7_c8_c9_c15_c16,100n,c_0402_1005metric,7,_,~,,samsung,50v_100nf_x7r_\xE2\
-    \xB110%_0402_mlcc,c0402,cl05b104kb54pnc,lcsc_c307331,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: "3,_unpolarized_capacitor,_small_symbol_,c_small,c1_c3_c7_c8_c9_c15_c16,100n,c_0402_1005metric,7,_,~,,samsung,50v_100nf_x7r_\xE2\
+      \xB110%_0402_mlcc,c0402,cl05b104kb54pnc,lcsc_c307331,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "3,_unpolarized_capacitor,_small_symbol_,c_small,c1_c3_c7_c8_c9_c15_c16,100n,c_0402_1005metric,7,_,~,,samsung,50v_100nf_x7r_\xE2\
+      \xB110%_0402_mlcc,c0402,cl05b104kb54pnc,lcsc_c307331,"
 - all: "4,unpolarized_capacitor,c,c4_c5,1u,c_0805_2012metric,2,_,~,,guangdong_fenghua_advanced_tech,50v_1uf_x7r_\xE2\
     \xB110%_0805_mlcc,c0805,0805b105k500nt,lcsc_c215803,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "4,unpolarized_capacitor,c,c4_c5,1u,c_0805_2012metric,2,_,~,,guangdong_fenghua_advanced_tech,50v_1uf_x7r_\xE2\
-    \xB110%_0805_mlcc,c0805,0805b105k500nt,lcsc_c215803,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: "4,unpolarized_capacitor,c,c4_c5,1u,c_0805_2012metric,2,_,~,,guangdong_fenghua_advanced_tech,50v_1uf_x7r_\xE2\
+      \xB110%_0805_mlcc,c0805,0805b105k500nt,lcsc_c215803,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "4,unpolarized_capacitor,c,c4_c5,1u,c_0805_2012metric,2,_,~,,guangdong_fenghua_advanced_tech,50v_1uf_x7r_\xE2\
+      \xB110%_0805_mlcc,c0805,0805b105k500nt,lcsc_c215803,"
 - all: "5,_unpolarized_capacitor,_small_symbol_,c_small,c13_c17,4_7u,c_0402_1005metric,2,_,~,,samsung,10v_4_7uf_x5r_\xE2\
     \xB120%_0402_mlcc,c0402,cl05a475mp5nrnc,lcsc_c23733,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "5,_unpolarized_capacitor,_small_symbol_,c_small,c13_c17,4_7u,c_0402_1005metric,2,_,~,,samsung,10v_4_7uf_x5r_\xE2\
-    \xB120%_0402_mlcc,c0402,cl05a475mp5nrnc,lcsc_c23733,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: "5,_unpolarized_capacitor,_small_symbol_,c_small,c13_c17,4_7u,c_0402_1005metric,2,_,~,,samsung,10v_4_7uf_x5r_\xE2\
+      \xB120%_0402_mlcc,c0402,cl05a475mp5nrnc,lcsc_c23733,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "5,_unpolarized_capacitor,_small_symbol_,c_small,c13_c17,4_7u,c_0402_1005metric,2,_,~,,samsung,10v_4_7uf_x5r_\xE2\
+      \xB120%_0402_mlcc,c0402,cl05a475mp5nrnc,lcsc_c23733,"
 - all: 6,_polarized_capacitor,_us_symbol_,cp1,c10,10u,cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder,1,_,~,,avx,16v_10uf_tantallum,c3216_(case_a),taja106k016rnj,lcsc_c7171,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 6,_polarized_capacitor,_us_symbol_,cp1,c10,10u,cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder,1,_,~,,avx,16v_10uf_tantallum,c3216_(case_a),taja106k016rnj,lcsc_c7171,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,_polarized_capacitor,_us_symbol_,cp1,c10,10u,cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder,1,_,~,,avx,16v_10uf_tantallum,c3216_(case_a),taja106k016rnj,lcsc_c7171,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 6,_polarized_capacitor,_us_symbol_,cp1,c10,10u,cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder,1,_,~,,avx,16v_10uf_tantallum,c3216_(case_a),taja106k016rnj,lcsc_c7171,
 - all: "7,_unpolarized_capacitor,_small_symbol_,c_small,c2,10u,c_0402_1005metric,1,_,~,,samsung,6_3v_10uf_x5r_\xE2\
     \xB120%_0402_mlcc,c0402,cl05a106mq5nunc,lcsc_c15525,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "7,_unpolarized_capacitor,_small_symbol_,c_small,c2,10u,c_0402_1005metric,1,_,~,,samsung,6_3v_10uf_x5r_\xE2\
-    \xB120%_0402_mlcc,c0402,cl05a106mq5nunc,lcsc_c15525,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: "7,_unpolarized_capacitor,_small_symbol_,c_small,c2,10u,c_0402_1005metric,1,_,~,,samsung,6_3v_10uf_x5r_\xE2\
+      \xB120%_0402_mlcc,c0402,cl05a106mq5nunc,lcsc_c15525,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "7,_unpolarized_capacitor,_small_symbol_,c_small,c2,10u,c_0402_1005metric,1,_,~,,samsung,6_3v_10uf_x5r_\xE2\
+      \xB120%_0402_mlcc,c0402,cl05a106mq5nunc,lcsc_c15525,"
 - all: "8,diode,d,d1_d3_d4_d5_d6_d7_d8_d9_d10_d11_d12_d13_d14_d15_d16_d17_d18_d19_d20_d21_d22_d23_d24_d25_d26_d27_d28_d29_d30_d31_d32_d33_d34_d35_d36_d37_d38_d39_d40_d41_d42_d43_d44_d45_d46_d47_d48_d49_d50_d51_d52_d53_d54_d55_d56_d57_d58_d59_d60_d61_d62_d63_d64_d65_d66_d67_d68_d69_d70_d71_d72_d73_d74_d75_d76_d77_d78_d79_d80_d81_d82_d83_d84_d85_d86_d87_d88_d89_d90_d91_d92_d93,1n4148w,d_sod_123,92,_,~,,semtech,400mw_1\xEE\
     \xBCa@75v_150ma_sod_123_small_signal_witching_diode_small_signal_switching_diodes,sod_123,1n4148w,lcsc_c81598,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "8,diode,d,d1_d3_d4_d5_d6_d7_d8_d9_d10_d11_d12_d13_d14_d15_d16_d17_d18_d19_d20_d21_d22_d23_d24_d25_d26_d27_d28_d29_d30_d31_d32_d33_d34_d35_d36_d37_d38_d39_d40_d41_d42_d43_d44_d45_d46_d47_d48_d49_d50_d51_d52_d53_d54_d55_d56_d57_d58_d59_d60_d61_d62_d63_d64_d65_d66_d67_d68_d69_d70_d71_d72_d73_d74_d75_d76_d77_d78_d79_d80_d81_d82_d83_d84_d85_d86_d87_d88_d89_d90_d91_d92_d93,1n4148w,d_sod_123,92,_,~,,semtech,400mw_1\xEE\
-    \xBCa@75v_150ma_sod_123_small_signal_witching_diode_small_signal_switching_diodes,sod_123,1n4148w,lcsc_c81598,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: "8,diode,d,d1_d3_d4_d5_d6_d7_d8_d9_d10_d11_d12_d13_d14_d15_d16_d17_d18_d19_d20_d21_d22_d23_d24_d25_d26_d27_d28_d29_d30_d31_d32_d33_d34_d35_d36_d37_d38_d39_d40_d41_d42_d43_d44_d45_d46_d47_d48_d49_d50_d51_d52_d53_d54_d55_d56_d57_d58_d59_d60_d61_d62_d63_d64_d65_d66_d67_d68_d69_d70_d71_d72_d73_d74_d75_d76_d77_d78_d79_d80_d81_d82_d83_d84_d85_d86_d87_d88_d89_d90_d91_d92_d93,1n4148w,d_sod_123,92,_,~,,semtech,400mw_1\xEE\
+      \xBCa@75v_150ma_sod_123_small_signal_witching_diode_small_signal_switching_diodes,sod_123,1n4148w,lcsc_c81598,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "8,diode,d,d1_d3_d4_d5_d6_d7_d8_d9_d10_d11_d12_d13_d14_d15_d16_d17_d18_d19_d20_d21_d22_d23_d24_d25_d26_d27_d28_d29_d30_d31_d32_d33_d34_d35_d36_d37_d38_d39_d40_d41_d42_d43_d44_d45_d46_d47_d48_d49_d50_d51_d52_d53_d54_d55_d56_d57_d58_d59_d60_d61_d62_d63_d64_d65_d66_d67_d68_d69_d70_d71_d72_d73_d74_d75_d76_d77_d78_d79_d80_d81_d82_d83_d84_d85_d86_d87_d88_d89_d90_d91_d92_d93,1n4148w,d_sod_123,92,_,~,,semtech,400mw_1\xEE\
+      \xBCa@75v_150ma_sod_123_small_signal_witching_diode_small_signal_switching_diodes,sod_123,1n4148w,lcsc_c81598,"
 - all: 9,schottky_diode,d_schottky,d2,b5819w_sl,d_sod_123,1,_,~,,changjiang_electronics_tech,1a_sod_123_schottky_barrier_diodes,sod_123,b5819w_sl,lcsc_c8598,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 9,schottky_diode,d_schottky,d2,b5819w_sl,d_sod_123,1,_,~,,changjiang_electronics_tech,1a_sod_123_schottky_barrier_diodes,sod_123,b5819w_sl,lcsc_c8598,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,schottky_diode,d_schottky,d2,b5819w_sl,d_sod_123,1,_,~,,changjiang_electronics_tech,1a_sod_123_schottky_barrier_diodes,sod_123,b5819w_sl,lcsc_c8598,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 9,schottky_diode,d_schottky,d2,b5819w_sl,d_sod_123,1,_,~,,changjiang_electronics_tech,1a_sod_123_schottky_barrier_diodes,sod_123,b5819w_sl,lcsc_c8598,
 - all: 10,_generic_connectable_mounting_pin_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_mountingpin,j1_j2,a1001wr_s_04p,sm04b_srss_tb(lf)(sn)_mounting_reliefs,2,_,~,,joint_tech_elec,surface_mounted_4_pin_wire_to_board_female_connector,,a1001wr_s_04p,lcsc_c160404,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 10,_generic_connectable_mounting_pin_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_mountingpin,j1_j2,a1001wr_s_04p,sm04b_srss_tb(lf)(sn)_mounting_reliefs,2,_,~,,joint_tech_elec,surface_mounted_4_pin_wire_to_board_female_connector,,a1001wr_s_04p,lcsc_c160404,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,_generic_connectable_mounting_pin_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_mountingpin,j1_j2,a1001wr_s_04p,sm04b_srss_tb(lf)(sn)_mounting_reliefs,2,_,~,,joint_tech_elec,surface_mounted_4_pin_wire_to_board_female_connector,,a1001wr_s_04p,lcsc_c160404,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 10,_generic_connectable_mounting_pin_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_mountingpin,j1_j2,a1001wr_s_04p,sm04b_srss_tb(lf)(sn)_mounting_reliefs,2,_,~,,joint_tech_elec,surface_mounted_4_pin_wire_to_board_female_connector,,a1001wr_s_04p,lcsc_c160404,
 - all: 11,_0_115a_id,_60v_vds,_n_channel_mosfet,_sot_23_,2n7002,q2,2n7002,sot_23,1,_,https_www_onsemi_com_pub_collateral_nds7002a_d_pdf,,changjiang_electronics_tech,n_channel_signal_mosfet_transistor,sot_23,2n7002,lcsc_c8545,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 11,_0_115a_id,_60v_vds,_n_channel_mosfet,_sot_23_,2n7002,q2,2n7002,sot_23,1,_,https_www_onsemi_com_pub_collateral_nds7002a_d_pdf,,changjiang_electronics_tech,n_channel_signal_mosfet_transistor,sot_23,2n7002,lcsc_c8545,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,_0_115a_id,_60v_vds,_n_channel_mosfet,_sot_23_,2n7002,q2,2n7002,sot_23,1,_,https_www_onsemi_com_pub_collateral_nds7002a_d_pdf,,changjiang_electronics_tech,n_channel_signal_mosfet_transistor,sot_23,2n7002,lcsc_c8545,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 11,_0_115a_id,_60v_vds,_n_channel_mosfet,_sot_23_,2n7002,q2,2n7002,sot_23,1,_,https_www_onsemi_com_pub_collateral_nds7002a_d_pdf,,changjiang_electronics_tech,n_channel_signal_mosfet_transistor,sot_23,2n7002,lcsc_c8545,
 - all: 12,_4_0a_id,_30v_vds,_p_channel_mosfet,_sot_23_,ao3401a,q1,ao3401a,sot_23,1,_,http_www_aosmd_com_pdfs_datasheet_ao3401a_pdf,,ao3401a,p_channel_power_mosfet_transistor,sot_23,alpha_&_omega_semicon,lcsc_c15127,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 12,_4_0a_id,_30v_vds,_p_channel_mosfet,_sot_23_,ao3401a,q1,ao3401a,sot_23,1,_,http_www_aosmd_com_pdfs_datasheet_ao3401a_pdf,,ao3401a,p_channel_power_mosfet_transistor,sot_23,alpha_&_omega_semicon,lcsc_c15127,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,_4_0a_id,_30v_vds,_p_channel_mosfet,_sot_23_,ao3401a,q1,ao3401a,sot_23,1,_,http_www_aosmd_com_pdfs_datasheet_ao3401a_pdf,,ao3401a,p_channel_power_mosfet_transistor,sot_23,alpha_&_omega_semicon,lcsc_c15127,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 12,_4_0a_id,_30v_vds,_p_channel_mosfet,_sot_23_,ao3401a,q1,ao3401a,sot_23,1,_,http_www_aosmd_com_pdfs_datasheet_ao3401a_pdf,,ao3401a,p_channel_power_mosfet_transistor,sot_23,alpha_&_omega_semicon,lcsc_c15127,
 - all: 13,npn_pre_biased_200mw_100ma_50v_sot_23(sot_23_3)_digital_transistors,dtc123j,q3_q4_q5_q6,dtc123jkat146,sot_23,4,_,,,rohm_semicon,,sot_23_3,dtc123jkat146,lcsc_c111724,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 13,npn_pre_biased_200mw_100ma_50v_sot_23(sot_23_3)_digital_transistors,dtc123j,q3_q4_q5_q6,dtc123jkat146,sot_23,4,_,,,rohm_semicon,,sot_23_3,dtc123jkat146,lcsc_c111724,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,npn_pre_biased_200mw_100ma_50v_sot_23(sot_23_3)_digital_transistors,dtc123j,q3_q4_q5_q6,dtc123jkat146,sot_23,4,_,,,rohm_semicon,,sot_23_3,dtc123jkat146,lcsc_c111724,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 13,npn_pre_biased_200mw_100ma_50v_sot_23(sot_23_3)_digital_transistors,dtc123j,q3_q4_q5_q6,dtc123jkat146,sot_23,4,_,,,rohm_semicon,,sot_23_3,dtc123jkat146,lcsc_c111724,
 - all: "14,_resistor,_small_symbol_,r_small,r16_r17,0r,r_0805_2012metric,2,_,~,,uniroyal,\xE2\
     \xB11%_1_16w_thick_film_resistors_50v_0402,r0805,0805w8f0000t5e,lcsc_c17477,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "14,_resistor,_small_symbol_,r_small,r16_r17,0r,r_0805_2012metric,2,_,~,,uniroyal,\xE2\
-    \xB11%_1_16w_thick_film_resistors_50v_0402,r0805,0805w8f0000t5e,lcsc_c17477,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: "14,_resistor,_small_symbol_,r_small,r16_r17,0r,r_0805_2012metric,2,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0805,0805w8f0000t5e,lcsc_c17477,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "14,_resistor,_small_symbol_,r_small,r16_r17,0r,r_0805_2012metric,2,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0805,0805w8f0000t5e,lcsc_c17477,"
 - all: "15,_resistor,_small_symbol_,r_small,r2_r4_r9_r14_r15,100,r_0402_1005metric,5,_,~,,uniroyal,\xE2\
     \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1000tce,lcsc_c25076,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "15,_resistor,_small_symbol_,r_small,r2_r4_r9_r14_r15,100,r_0402_1005metric,5,_,~,,uniroyal,\xE2\
-    \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1000tce,lcsc_c25076,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: "15,_resistor,_small_symbol_,r_small,r2_r4_r9_r14_r15,100,r_0402_1005metric,5,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1000tce,lcsc_c25076,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "15,_resistor,_small_symbol_,r_small,r2_r4_r9_r14_r15,100,r_0402_1005metric,5,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1000tce,lcsc_c25076,"
 - all: "16,_resistor,_small_symbol_,r_small,r10_r11_r12_r13,1k,r_0402_1005metric,4,_,~,,uniroyal,\xE2\
     \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1001tce,lcsc_c11702,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "16,_resistor,_small_symbol_,r_small,r10_r11_r12_r13,1k,r_0402_1005metric,4,_,~,,uniroyal,\xE2\
-    \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1001tce,lcsc_c11702,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: "16,_resistor,_small_symbol_,r_small,r10_r11_r12_r13,1k,r_0402_1005metric,4,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1001tce,lcsc_c11702,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "16,_resistor,_small_symbol_,r_small,r10_r11_r12_r13,1k,r_0402_1005metric,4,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1001tce,lcsc_c11702,"
 - all: "17,_resistor,_small_symbol_,r_small,r24,1_5k,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
     \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1501tce,lcsc_c25867,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "17,_resistor,_small_symbol_,r_small,r24,1_5k,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
-    \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1501tce,lcsc_c25867,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: "17,_resistor,_small_symbol_,r_small,r24,1_5k,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1501tce,lcsc_c25867,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "17,_resistor,_small_symbol_,r_small,r24,1_5k,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1501tce,lcsc_c25867,"
 - all: "18,_resistor,_small_symbol_,r_small,r22_r23,4_7k,r_0402_1005metric,2,_,~,,uniroyal,\xE2\
     \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf4701tce,lcsc_c25900,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "18,_resistor,_small_symbol_,r_small,r22_r23,4_7k,r_0402_1005metric,2,_,~,,uniroyal,\xE2\
-    \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf4701tce,lcsc_c25900,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: "18,_resistor,_small_symbol_,r_small,r22_r23,4_7k,r_0402_1005metric,2,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf4701tce,lcsc_c25900,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "18,_resistor,_small_symbol_,r_small,r22_r23,4_7k,r_0402_1005metric,2,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf4701tce,lcsc_c25900,"
 - all: "19,_resistor,_small_symbol_,r_small,r1_r6_r7_r8_r18_r21,10k,r_0402_1005metric,6,_,~,,uniroyal,\xE2\
     \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1002tce,lcsc_c25744,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "19,_resistor,_small_symbol_,r_small,r1_r6_r7_r8_r18_r21,10k,r_0402_1005metric,6,_,~,,uniroyal,\xE2\
-    \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1002tce,lcsc_c25744,"
+  designator: ''
+  name: unmatched
+  oomp_part:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 10000_ohm
+    directory: parts/electronic_resistor_0402_10000_ohm
+    distributors: []
+    filter: ''
+    from_yaml: false
+    id: electronic_resistor_0402_10000_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: 809c3c0eebd9db9a8729102e6b3027c7
+    md5_10: 809c3c0eeb
+    md5_5: 809c3
+    md5_6: 809c3c
+    name: Electronic Resistor 0402 10000 Ohm
+    oomp_key: oomp_electronic_resistor_0402_10000_ohm
+    part_number: ''
+    short_code: r4o103
+    size: '0402'
+    symbol:
+    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+      oomp_key: oomp_kicad_device_r
+    type: resistor
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: "19,_resistor,_small_symbol_,r_small,r1_r6_r7_r8_r18_r21,10k,r_0402_1005metric,6,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1002tce,lcsc_c25744,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "19,_resistor,_small_symbol_,r_small,r1_r6_r7_r8_r18_r21,10k,r_0402_1005metric,6,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1002tce,lcsc_c25744,"
 - all: "20,resistor,r,r19_r20,100k,r_0805_2012metric,2,_,~,,uniroyal,\xE2\xB11%_125mw_thick_film_r0805_resistors,r0805,0805w8f1003t5e,lcsc_c149504,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "20,resistor,r,r19_r20,100k,r_0805_2012metric,2,_,~,,uniroyal,\xE2\xB11%_125mw_thick_film_r0805_resistors,r0805,0805w8f1003t5e,lcsc_c149504,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: "20,resistor,r,r19_r20,100k,r_0805_2012metric,2,_,~,,uniroyal,\xE2\xB11%_125mw_thick_film_r0805_resistors,r0805,0805w8f1003t5e,lcsc_c149504,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "20,resistor,r,r19_r20,100k,r_0805_2012metric,2,_,~,,uniroyal,\xE2\xB11%_125mw_thick_film_r0805_resistors,r0805,0805w8f1003t5e,lcsc_c149504,"
 - all: "21,_resistor,_small_symbol_,r_small,r3,330k,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
     \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf3303tce,lcsc_c25778,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "21,_resistor,_small_symbol_,r_small,r3,330k,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
-    \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf3303tce,lcsc_c25778,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: "21,_resistor,_small_symbol_,r_small,r3,330k,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf3303tce,lcsc_c25778,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "21,_resistor,_small_symbol_,r_small,r3,330k,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf3303tce,lcsc_c25778,"
 - all: "22,_resistor,_small_symbol_,r_small,r5,1m,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
     \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1004tce,lcsc_c26083,_"
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : "22,_resistor,_small_symbol_,r_small,r5,1m,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
-    \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1004tce,lcsc_c26083,"
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: "22,_resistor,_small_symbol_,r_small,r5,1m,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1004tce,lcsc_c26083,_"
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : "22,_resistor,_small_symbol_,r_small,r5,1m,r_0402_1005metric,1,_,~,,uniroyal,\xE2\
+      \xB11%_1_16w_thick_film_resistors_50v_0402,r0402,0402wgf1004tce,lcsc_c26083,"
 - all: 23,single_pole_single_throw_(spst)_switch,sw_spst,sw1,k2_1187sq_a4sw_06,k2_1187sq_a4sw_06,1,_,~,,korean_hroparts,5_2mm_1_5mm_round_button_spst,5_0x5_0mm,k2_1187sq_a4sw_06,lcsc_c92584,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 23,single_pole_single_throw_(spst)_switch,sw_spst,sw1,k2_1187sq_a4sw_06,k2_1187sq_a4sw_06,1,_,~,,korean_hroparts,5_2mm_1_5mm_round_button_spst,5_0x5_0mm,k2_1187sq_a4sw_06,lcsc_c92584,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 23,single_pole_single_throw_(spst)_switch,sw_spst,sw1,k2_1187sq_a4sw_06,k2_1187sq_a4sw_06,1,_,~,,korean_hroparts,5_2mm_1_5mm_round_button_spst,5_0x5_0mm,k2_1187sq_a4sw_06,lcsc_c92584,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 23,single_pole_single_throw_(spst)_switch,sw_spst,sw1,k2_1187sq_a4sw_06,k2_1187sq_a4sw_06,1,_,~,,korean_hroparts,5_2mm_1_5mm_round_button_spst,5_0x5_0mm,k2_1187sq_a4sw_06,lcsc_c92584,
 - all: 24,keyboard_mechanical_switch,mechanical_switch,sw2_sw3_sw4_sw5_sw6_sw7_sw8_sw9_sw10_sw11_sw12_sw13_sw14_sw15_sw16_sw17_sw18_sw19_sw20_sw21_sw22_sw23_sw24_sw25_sw26_sw27_sw28_sw29_sw30_sw31_sw33_sw34_sw35_sw36_sw38_sw39_sw40_sw41_sw42_sw43_sw44_sw45_sw46_sw47_sw48_sw49_sw51_sw52_sw53_sw55_sw56_sw57_sw58_sw59_sw60_sw61_sw62_sw63_sw64_sw65_sw66_sw71_sw72_sw73_sw74_sw75_sw76_sw77_sw78_sw79_sw80_sw81_sw83_sw84_sw95_sw96_sw97_sw99_sw103,mx_switch,mx100,79,_,,esc_f1_(87)_f2_(87)_f3_(87)_f4_(87)_f5_(87)_f6_(87)_f7_(87)_f8_(87)_f9_(87)_f10_(87)_f11_(87)_f12_(87)_rbspc_prtscr_scroll_pause_grv_minus_equal_ins_home_pgup_lbspc_w_y_lbrkt_rbrkt_del_end_pgdn_j_colon_quote_nush_z_x_comma_dot_slsh_100_fn_left_down_right_100_lgui_100_rgui,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 24,keyboard_mechanical_switch,mechanical_switch,sw2_sw3_sw4_sw5_sw6_sw7_sw8_sw9_sw10_sw11_sw12_sw13_sw14_sw15_sw16_sw17_sw18_sw19_sw20_sw21_sw22_sw23_sw24_sw25_sw26_sw27_sw28_sw29_sw30_sw31_sw33_sw34_sw35_sw36_sw38_sw39_sw40_sw41_sw42_sw43_sw44_sw45_sw46_sw47_sw48_sw49_sw51_sw52_sw53_sw55_sw56_sw57_sw58_sw59_sw60_sw61_sw62_sw63_sw64_sw65_sw66_sw71_sw72_sw73_sw74_sw75_sw76_sw77_sw78_sw79_sw80_sw81_sw83_sw84_sw95_sw96_sw97_sw99_sw103,mx_switch,mx100,79,_,,esc_f1_(87)_f2_(87)_f3_(87)_f4_(87)_f5_(87)_f6_(87)_f7_(87)_f8_(87)_f9_(87)_f10_(87)_f11_(87)_f12_(87)_rbspc_prtscr_scroll_pause_grv_minus_equal_ins_home_pgup_lbspc_w_y_lbrkt_rbrkt_del_end_pgdn_j_colon_quote_nush_z_x_comma_dot_slsh_100_fn_left_down_right_100_lgui_100_rgui,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 24,keyboard_mechanical_switch,mechanical_switch,sw2_sw3_sw4_sw5_sw6_sw7_sw8_sw9_sw10_sw11_sw12_sw13_sw14_sw15_sw16_sw17_sw18_sw19_sw20_sw21_sw22_sw23_sw24_sw25_sw26_sw27_sw28_sw29_sw30_sw31_sw33_sw34_sw35_sw36_sw38_sw39_sw40_sw41_sw42_sw43_sw44_sw45_sw46_sw47_sw48_sw49_sw51_sw52_sw53_sw55_sw56_sw57_sw58_sw59_sw60_sw61_sw62_sw63_sw64_sw65_sw66_sw71_sw72_sw73_sw74_sw75_sw76_sw77_sw78_sw79_sw80_sw81_sw83_sw84_sw95_sw96_sw97_sw99_sw103,mx_switch,mx100,79,_,,esc_f1_(87)_f2_(87)_f3_(87)_f4_(87)_f5_(87)_f6_(87)_f7_(87)_f8_(87)_f9_(87)_f10_(87)_f11_(87)_f12_(87)_rbspc_prtscr_scroll_pause_grv_minus_equal_ins_home_pgup_lbspc_w_y_lbrkt_rbrkt_del_end_pgdn_j_colon_quote_nush_z_x_comma_dot_slsh_100_fn_left_down_right_100_lgui_100_rgui,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 24,keyboard_mechanical_switch,mechanical_switch,sw2_sw3_sw4_sw5_sw6_sw7_sw8_sw9_sw10_sw11_sw12_sw13_sw14_sw15_sw16_sw17_sw18_sw19_sw20_sw21_sw22_sw23_sw24_sw25_sw26_sw27_sw28_sw29_sw30_sw31_sw33_sw34_sw35_sw36_sw38_sw39_sw40_sw41_sw42_sw43_sw44_sw45_sw46_sw47_sw48_sw49_sw51_sw52_sw53_sw55_sw56_sw57_sw58_sw59_sw60_sw61_sw62_sw63_sw64_sw65_sw66_sw71_sw72_sw73_sw74_sw75_sw76_sw77_sw78_sw79_sw80_sw81_sw83_sw84_sw95_sw96_sw97_sw99_sw103,mx_switch,mx100,79,_,,esc_f1_(87)_f2_(87)_f3_(87)_f4_(87)_f5_(87)_f6_(87)_f7_(87)_f8_(87)_f9_(87)_f10_(87)_f11_(87)_f12_(87)_rbspc_prtscr_scroll_pause_grv_minus_equal_ins_home_pgup_lbspc_w_y_lbrkt_rbrkt_del_end_pgdn_j_colon_quote_nush_z_x_comma_dot_slsh_100_fn_left_down_right_100_lgui_100_rgui,,mx_style_mechanical_keyboard_switch,,,,
 - all: 25,keyboard_mechanical_switch,mechanical_switch,sw37_sw50_sw98_sw100_sw102_sw104,mx_switch,mx150,6,_,,tab_bsls_150_lctrl_150_lalt_150_ralt_150_rctrl,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 25,keyboard_mechanical_switch,mechanical_switch,sw37_sw50_sw98_sw100_sw102_sw104,mx_switch,mx150,6,_,,tab_bsls_150_lctrl_150_lalt_150_ralt_150_rctrl,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 25,keyboard_mechanical_switch,mechanical_switch,sw37_sw50_sw98_sw100_sw102_sw104,mx_switch,mx150,6,_,,tab_bsls_150_lctrl_150_lalt_150_ralt_150_rctrl,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 25,keyboard_mechanical_switch,mechanical_switch,sw37_sw50_sw98_sw100_sw102_sw104,mx_switch,mx150,6,_,,tab_bsls_150_lctrl_150_lalt_150_ralt_150_rctrl,,mx_style_mechanical_keyboard_switch,,,,
 - all: 26,keyboard_mechanical_switch,mechanical_switch,sw101,mx_switch,mx700r,1,_,,700_space,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 26,keyboard_mechanical_switch,mechanical_switch,sw101,mx_switch,mx700r,1,_,,700_space,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 26,keyboard_mechanical_switch,mechanical_switch,sw101,mx_switch,mx700r,1,_,,700_space,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 26,keyboard_mechanical_switch,mechanical_switch,sw101,mx_switch,mx700r,1,_,,700_space,,mx_style_mechanical_keyboard_switch,,,,
 - all: 27,keyboard_mechanical_switch,mechanical_switch,sw32,mx_switch,mx200,1,_,,200_bspc,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 27,keyboard_mechanical_switch,mechanical_switch,sw32,mx_switch,mx200,1,_,,200_bspc,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 27,keyboard_mechanical_switch,mechanical_switch,sw32,mx_switch,mx200,1,_,,200_bspc,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 27,keyboard_mechanical_switch,mechanical_switch,sw32,mx_switch,mx200,1,_,,200_bspc,,mx_style_mechanical_keyboard_switch,,,,
 - all: 28,keyboard_mechanical_switch,mechanical_switch,sw54_sw85,mx_switch,mx175,2,_,,full_caps_175_rsft,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 28,keyboard_mechanical_switch,mechanical_switch,sw54_sw85,mx_switch,mx175,2,_,,full_caps_175_rsft,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 28,keyboard_mechanical_switch,mechanical_switch,sw54_sw85,mx_switch,mx175,2,_,,full_caps_175_rsft,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 28,keyboard_mechanical_switch,mechanical_switch,sw54_sw85,mx_switch,mx175,2,_,,full_caps_175_rsft,,mx_style_mechanical_keyboard_switch,,,,
 - all: 29,keyboard_mechanical_switch,mechanical_switch,sw67,mx_switch,mx225r,1,_,,ansi_enter,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 29,keyboard_mechanical_switch,mechanical_switch,sw67,mx_switch,mx225r,1,_,,ansi_enter,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 29,keyboard_mechanical_switch,mechanical_switch,sw67,mx_switch,mx225r,1,_,,ansi_enter,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 29,keyboard_mechanical_switch,mechanical_switch,sw67,mx_switch,mx225r,1,_,,ansi_enter,,mx_style_mechanical_keyboard_switch,,,,
 - all: 30,keyboard_mechanical_switch,mechanical_switch,sw68_sw86_sw87_sw88_sw89_sw91_sw92_sw93_sw94,mx_switch,mx125,9,_,,stepped_caps_1_25_lsft_125_lctrl_125_lgui_125_lalt_125_ralt_rgui_fn_125_rctrl,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 30,keyboard_mechanical_switch,mechanical_switch,sw68_sw86_sw87_sw88_sw89_sw91_sw92_sw93_sw94,mx_switch,mx125,9,_,,stepped_caps_1_25_lsft_125_lctrl_125_lgui_125_lalt_125_ralt_rgui_fn_125_rctrl,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 30,keyboard_mechanical_switch,mechanical_switch,sw68_sw86_sw87_sw88_sw89_sw91_sw92_sw93_sw94,mx_switch,mx125,9,_,,stepped_caps_1_25_lsft_125_lctrl_125_lgui_125_lalt_125_ralt_rgui_fn_125_rctrl,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 30,keyboard_mechanical_switch,mechanical_switch,sw68_sw86_sw87_sw88_sw89_sw91_sw92_sw93_sw94,mx_switch,mx125,9,_,,stepped_caps_1_25_lsft_125_lctrl_125_lgui_125_lalt_125_ralt_rgui_fn_125_rctrl,,mx_style_mechanical_keyboard_switch,,,,
 - all: 31,keyboard_mechanical_switch,mechanical_switch,sw69,mx_switch,mx_isoenter,1,_,,iso_enter,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 31,keyboard_mechanical_switch,mechanical_switch,sw69,mx_switch,mx_isoenter,1,_,,iso_enter,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 31,keyboard_mechanical_switch,mechanical_switch,sw69,mx_switch,mx_isoenter,1,_,,iso_enter,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 31,keyboard_mechanical_switch,mechanical_switch,sw69,mx_switch,mx_isoenter,1,_,,iso_enter,,mx_style_mechanical_keyboard_switch,,,,
 - all: 32,keyboard_mechanical_switch,mechanical_switch,sw70,mx_switch,mx225,1,_,,2_25_lsft,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 32,keyboard_mechanical_switch,mechanical_switch,sw70,mx_switch,mx225,1,_,,2_25_lsft,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: 32,keyboard_mechanical_switch,mechanical_switch,sw70,mx_switch,mx225,1,_,,2_25_lsft,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 32,keyboard_mechanical_switch,mechanical_switch,sw70,mx_switch,mx225,1,_,,2_25_lsft,,mx_style_mechanical_keyboard_switch,,,,
 - all: 33,keyboard_mechanical_switch,mechanical_switch,sw82,mx_switch,mx275,1,_,,275_rsft,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 33,keyboard_mechanical_switch,mechanical_switch,sw82,mx_switch,mx275,1,_,,275_rsft,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: 33,keyboard_mechanical_switch,mechanical_switch,sw82,mx_switch,mx275,1,_,,275_rsft,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 33,keyboard_mechanical_switch,mechanical_switch,sw82,mx_switch,mx275,1,_,,275_rsft,,mx_style_mechanical_keyboard_switch,,,,
 - all: 34,keyboard_mechanical_switch,mechanical_switch,sw90,mx_switch,mx625r,1,_,,625_space,,mx_style_mechanical_keyboard_switch,,,,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 34,keyboard_mechanical_switch,mechanical_switch,sw90,mx_switch,mx625r,1,_,,625_space,,mx_style_mechanical_keyboard_switch,,,,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: 34,keyboard_mechanical_switch,mechanical_switch,sw90,mx_switch,mx625r,1,_,,625_space,,mx_style_mechanical_keyboard_switch,,,,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 34,keyboard_mechanical_switch,mechanical_switch,sw90,mx_switch,mx625r,1,_,,625_space,,mx_style_mechanical_keyboard_switch,,,,
 - all: 35,dual_n_channel_enhancement_mode_mosfet,2n7002dw,u2,2n7002dw,sot_363_sc_70_6,1,_,,,yangzhou_yangjie_elec_tech,dual_n_channel_enhancement_mode_mosfet,sot_363,2n7002dw,lcsc_c699281,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 35,dual_n_channel_enhancement_mode_mosfet,2n7002dw,u2,2n7002dw,sot_363_sc_70_6,1,_,,,yangzhou_yangjie_elec_tech,dual_n_channel_enhancement_mode_mosfet,sot_363,2n7002dw,lcsc_c699281,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: 35,dual_n_channel_enhancement_mode_mosfet,2n7002dw,u2,2n7002dw,sot_363_sc_70_6,1,_,,,yangzhou_yangjie_elec_tech,dual_n_channel_enhancement_mode_mosfet,sot_363,2n7002dw,lcsc_c699281,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 35,dual_n_channel_enhancement_mode_mosfet,2n7002dw,u2,2n7002dw,sot_363_sc_70_6,1,_,,,yangzhou_yangjie_elec_tech,dual_n_channel_enhancement_mode_mosfet,sot_363,2n7002dw,lcsc_c699281,
 - all: 36,_i2c_serial_eeprom,_256kb,_dip_8_soic_8_tssop_8_dfn_8_,24lc256,u1,at24c256c_sshl_t,soic_8,1,_,https_datasheet_lcsc_com_lcsc_1809151932_microchip_tech_at24c256c_sshl_t_c6482_pdf,,microchip,soic_8_non_volatile_256kb_(32k_x_8)_i2c_eeprom,soic_8,at24c256c_sshl_t,lcsc_c6482,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 36,_i2c_serial_eeprom,_256kb,_dip_8_soic_8_tssop_8_dfn_8_,24lc256,u1,at24c256c_sshl_t,soic_8,1,_,https_datasheet_lcsc_com_lcsc_1809151932_microchip_tech_at24c256c_sshl_t_c6482_pdf,,microchip,soic_8_non_volatile_256kb_(32k_x_8)_i2c_eeprom,soic_8,at24c256c_sshl_t,lcsc_c6482,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: 36,_i2c_serial_eeprom,_256kb,_dip_8_soic_8_tssop_8_dfn_8_,24lc256,u1,at24c256c_sshl_t,soic_8,1,_,https_datasheet_lcsc_com_lcsc_1809151932_microchip_tech_at24c256c_sshl_t_c6482_pdf,,microchip,soic_8_non_volatile_256kb_(32k_x_8)_i2c_eeprom,soic_8,at24c256c_sshl_t,lcsc_c6482,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 36,_i2c_serial_eeprom,_256kb,_dip_8_soic_8_tssop_8_dfn_8_,24lc256,u1,at24c256c_sshl_t,soic_8,1,_,https_datasheet_lcsc_com_lcsc_1809151932_microchip_tech_at24c256c_sshl_t_c6482_pdf,,microchip,soic_8_non_volatile_256kb_(32k_x_8)_i2c_eeprom,soic_8,at24c256c_sshl_t,lcsc_c6482,
 - all: 37,_300ma,_low_power,_low_dropout_linear_regulators_,sgm2036,u3,sgm2007_3_3xn5_tr,sot_23_5,1,_,https_datasheet_lcsc_com_lcsc_1810010521_sgmicro_sgm2036_3_3yn5g_tr_c92402_pdf,,sgmicro,fixed_5_5v_3_3v_300mv_@_300ma_sot_23_5_low_dropout_regulator,sot_23_5,sgm2007_3_3xn5_tr,lcsc_c193687,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 37,_300ma,_low_power,_low_dropout_linear_regulators_,sgm2036,u3,sgm2007_3_3xn5_tr,sot_23_5,1,_,https_datasheet_lcsc_com_lcsc_1810010521_sgmicro_sgm2036_3_3yn5g_tr_c92402_pdf,,sgmicro,fixed_5_5v_3_3v_300mv_@_300ma_sot_23_5_low_dropout_regulator,sot_23_5,sgm2007_3_3xn5_tr,lcsc_c193687,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: 37,_300ma,_low_power,_low_dropout_linear_regulators_,sgm2036,u3,sgm2007_3_3xn5_tr,sot_23_5,1,_,https_datasheet_lcsc_com_lcsc_1810010521_sgmicro_sgm2036_3_3yn5g_tr_c92402_pdf,,sgmicro,fixed_5_5v_3_3v_300mv_@_300ma_sot_23_5_low_dropout_regulator,sot_23_5,sgm2007_3_3xn5_tr,lcsc_c193687,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 37,_300ma,_low_power,_low_dropout_linear_regulators_,sgm2036,u3,sgm2007_3_3xn5_tr,sot_23_5,1,_,https_datasheet_lcsc_com_lcsc_1810010521_sgmicro_sgm2036_3_3yn5g_tr_c92402_pdf,,sgmicro,fixed_5_5v_3_3v_300mv_@_300ma_sot_23_5_low_dropout_regulator,sot_23_5,sgm2007_3_3xn5_tr,lcsc_c193687,
 - all: 38,32_bit_256kbytes_flash_arm_cortex_m4_microcontroller,stm32f401_lqfp64,u4,stm32f401rct6,lqfp_64_10x10mm_p0_5mm,1,_,https_www_st_com_content_ccc_resource_technical_document_datasheet_9e_50_b1_5a_5f_ae_4d_c1_dm00086815_pdf_files_dm00086815_pdf_jcr_content_translations_en_dm00086815_pdf,,stmicroelectronics,32_bit_flash_arm_cortex_m4_84mhz_lqfp_64_10x10x05p_stmicroelectronics,_lqfp_64,_10x10mm_0_5mm_pitch_,stm32f401rct6,lcsc_c74524,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 38,32_bit_256kbytes_flash_arm_cortex_m4_microcontroller,stm32f401_lqfp64,u4,stm32f401rct6,lqfp_64_10x10mm_p0_5mm,1,_,https_www_st_com_content_ccc_resource_technical_document_datasheet_9e_50_b1_5a_5f_ae_4d_c1_dm00086815_pdf_files_dm00086815_pdf_jcr_content_translations_en_dm00086815_pdf,,stmicroelectronics,32_bit_flash_arm_cortex_m4_84mhz_lqfp_64_10x10x05p_stmicroelectronics,_lqfp_64,_10x10mm_0_5mm_pitch_,stm32f401rct6,lcsc_c74524,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: 38,32_bit_256kbytes_flash_arm_cortex_m4_microcontroller,stm32f401_lqfp64,u4,stm32f401rct6,lqfp_64_10x10mm_p0_5mm,1,_,https_www_st_com_content_ccc_resource_technical_document_datasheet_9e_50_b1_5a_5f_ae_4d_c1_dm00086815_pdf_files_dm00086815_pdf_jcr_content_translations_en_dm00086815_pdf,,stmicroelectronics,32_bit_flash_arm_cortex_m4_84mhz_lqfp_64_10x10x05p_stmicroelectronics,_lqfp_64,_10x10mm_0_5mm_pitch_,stm32f401rct6,lcsc_c74524,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 38,32_bit_256kbytes_flash_arm_cortex_m4_microcontroller,stm32f401_lqfp64,u4,stm32f401rct6,lqfp_64_10x10mm_p0_5mm,1,_,https_www_st_com_content_ccc_resource_technical_document_datasheet_9e_50_b1_5a_5f_ae_4d_c1_dm00086815_pdf_files_dm00086815_pdf_jcr_content_translations_en_dm00086815_pdf,,stmicroelectronics,32_bit_flash_arm_cortex_m4_84mhz_lqfp_64_10x10x05p_stmicroelectronics,_lqfp_64,_10x10mm_0_5mm_pitch_,stm32f401rct6,lcsc_c74524,
 - all: 39,_four_pin_crystal,_gnd_on_pins_2_and_4_,crystal_gnd24,y1,taxm8m4rfdcet2t,crystal_smd_3225_4pin_3_2x2_5mm,1,_,~,,tae,8mhz_3225_4p_oscillator_crystal,y3225_4p,taxm8m4rfdcet2t,lcsc_c403948,_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : 39,_four_pin_crystal,_gnd_on_pins_2_and_4_,crystal_gnd24,y1,taxm8m4rfdcet2t,crystal_smd_3225_4pin_3_2x2_5mm,1,_,~,,tae,8mhz_3225_4p_oscillator_crystal,y3225_4p,taxm8m4rfdcet2t,lcsc_c403948,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: 39,_four_pin_crystal,_gnd_on_pins_2_and_4_,crystal_gnd24,y1,taxm8m4rfdcet2t,crystal_smd_3225_4pin_3_2x2_5mm,1,_,~,,tae,8mhz_3225_4p_oscillator_crystal,y3225_4p,taxm8m4rfdcet2t,lcsc_c403948,_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : 39,_four_pin_crystal,_gnd_on_pins_2_and_4_,crystal_gnd24,y1,taxm8m4rfdcet2t,crystal_smd_3225_4pin_3_2x2_5mm,1,_,~,,tae,8mhz_3225_4p_oscillator_crystal,y3225_4p,taxm8m4rfdcet2t,lcsc_c403948,
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id044
+    all: ''
 - all: project_info__
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id045
+    all: project_info__
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : project_info_
 - all: schematic_,working_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id046
+    all: schematic_,working_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : schematic_,working
 - all: variant_,default_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id047
+    all: variant_,default_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : variant_,default
 - all: revision_,v1_0_4_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : revision_,v1_0_4
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id048
+    all: revision_,v1_0_4_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : revision_,v1_0_4
 - all: date_,2022_05_23_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : date_,2022_05_23
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id049
+    all: date_,2022_05_23_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : date_,2022_05_23
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id050
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id051
+    all: statistics__
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : statistics_
 - all: component_groups_,39_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : component_groups_,39
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id052
+    all: component_groups_,39_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : component_groups_,39
 - all: component_count_,251_(148_smd_1_tht)_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : component_count_,251_(148_smd_1_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id053
+    all: component_count_,251_(148_smd_1_tht)_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : component_count_,251_(148_smd_1_tht)
 - all: fitted_components_,251_(148_smd_1_tht)_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : fitted_components_,251_(148_smd_1_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id054
+    all: fitted_components_,251_(148_smd_1_tht)_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : fitted_components_,251_(148_smd_1_tht)
 - all: number_of_pcbs_,1_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id055
+    all: number_of_pcbs_,1_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : number_of_pcbs_,1
 - all: total_components_,251_
-  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
-  : total_components_,251
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id056
+    all: total_components_,251_
+    ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,keycode,manufacturer,specification,package,manufacturer_part_number,vendor_part_number,lcsc_part_number
+    : total_components_,251
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
+- *id049
+- *id050
+- *id051
+- *id052
+- *id053
+- *id054
+- *id055
+- *id056
 projects_flat: projects_flat/acheronproject_anubis/version_current/working
 projects_folder: projects_folder/AcheronProject/Anubis/version_current/working
 repo:

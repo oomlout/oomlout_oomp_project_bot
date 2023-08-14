@@ -13,58 +13,227 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cepr_stm32_canbus_module\version_current\working
 oomp_key: oomp_projects_flat_cepr_stm32_canbus_module
 oomp_key_simple: projects_flat_cepr_stm32_canbus_module
-parts_verbose:
+parts_oomp:
 - all: 1,unpolarized_capacitor,c,c1,10nf,c_0603_1608metric_pad1_08x0_95mm_handsolder,1,_,~,490_4781_1_nd_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 1,unpolarized_capacitor,c,c1,10nf,c_0603_1608metric_pad1_08x0_95mm_handsolder,1,_,~,490_4781_1_nd
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,unpolarized_capacitor,c,c1,10nf,c_0603_1608metric_pad1_08x0_95mm_handsolder,1,_,~,490_4781_1_nd_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 1,unpolarized_capacitor,c,c1,10nf,c_0603_1608metric_pad1_08x0_95mm_handsolder,1,_,~,490_4781_1_nd
 - all: 2,unpolarized_capacitor,c,c2_c4_c5_c6_c7_c10_c11,100nf,c_0603_1608metric_pad1_08x0_95mm_handsolder,7,_,~,1276_1000_1_nd_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 2,unpolarized_capacitor,c,c2_c4_c5_c6_c7_c10_c11,100nf,c_0603_1608metric_pad1_08x0_95mm_handsolder,7,_,~,1276_1000_1_nd
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,unpolarized_capacitor,c,c2_c4_c5_c6_c7_c10_c11,100nf,c_0603_1608metric_pad1_08x0_95mm_handsolder,7,_,~,1276_1000_1_nd_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 2,unpolarized_capacitor,c,c2_c4_c5_c6_c7_c10_c11,100nf,c_0603_1608metric_pad1_08x0_95mm_handsolder,7,_,~,1276_1000_1_nd
 - all: 3,unpolarized_capacitor,c,c8_c9,1uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,2,_,~,587_2229_1_nd_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 3,unpolarized_capacitor,c,c8_c9,1uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,2,_,~,587_2229_1_nd
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,unpolarized_capacitor,c,c8_c9,1uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,2,_,~,587_2229_1_nd_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 3,unpolarized_capacitor,c,c8_c9,1uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,2,_,~,587_2229_1_nd
 - all: 4,unpolarized_capacitor,c,c3,4_7uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,1,_,~,1276_1244_1_nd_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 4,unpolarized_capacitor,c,c3,4_7uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,1,_,~,1276_1244_1_nd
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,unpolarized_capacitor,c,c3,4_7uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,1,_,~,1276_1244_1_nd_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 4,unpolarized_capacitor,c,c3,4_7uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,1,_,~,1276_1244_1_nd
 - all: 5,unpolarized_capacitor,c,c12,22uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,1,_,~,1276_2910_1_nd_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 5,unpolarized_capacitor,c,c12,22uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,1,_,~,1276_2910_1_nd
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,unpolarized_capacitor,c,c12,22uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,1,_,~,1276_2910_1_nd_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 5,unpolarized_capacitor,c,c12,22uf,c_0805_2012metric_pad1_18x1_45mm_handsolder,1,_,~,1276_2910_1_nd
 - all: 6,_generic_connector,_single_row,_01x10,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x10,j5_j6_j7_j11,conn_01x10,pinheader_1x10_p2_54mm_vertical,4,_,~,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 6,_generic_connector,_single_row,_01x10,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x10,j5_j6_j7_j11,conn_01x10,pinheader_1x10_p2_54mm_vertical,4,_,~,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,_generic_connector,_single_row,_01x10,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x10,j5_j6_j7_j11,conn_01x10,pinheader_1x10_p2_54mm_vertical,4,_,~,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 6,_generic_connector,_single_row,_01x10,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x10,j5_j6_j7_j11,conn_01x10,pinheader_1x10_p2_54mm_vertical,4,_,~,
 - all: 7,_resistor,_us_symbol_,r_us,r1,10k,r_0603_1608metric_pad0_98x0_95mm_handsolder,1,_,~,rncp0603ftd10k0ct_nd_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 7,_resistor,_us_symbol_,r_us,r1,10k,r_0603_1608metric_pad0_98x0_95mm_handsolder,1,_,~,rncp0603ftd10k0ct_nd
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,_resistor,_us_symbol_,r_us,r1,10k,r_0603_1608metric_pad0_98x0_95mm_handsolder,1,_,~,rncp0603ftd10k0ct_nd_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 7,_resistor,_us_symbol_,r_us,r1,10k,r_0603_1608metric_pad0_98x0_95mm_handsolder,1,_,~,rncp0603ftd10k0ct_nd
 - all: 8,_50ma_low_dropout_voltage_regulator,_fixed_output_2_8v,_wide_input_voltage_range_40v,_sot_89_3_,ap7384_28y,u3,ap7384_33y,sot_89_3,1,_,https_www_diodes_com_assets_datasheets_ap7384_pdf,ap7384_33y_13dict_nd_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 8,_50ma_low_dropout_voltage_regulator,_fixed_output_2_8v,_wide_input_voltage_range_40v,_sot_89_3_,ap7384_28y,u3,ap7384_33y,sot_89_3,1,_,https_www_diodes_com_assets_datasheets_ap7384_pdf,ap7384_33y_13dict_nd
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,_50ma_low_dropout_voltage_regulator,_fixed_output_2_8v,_wide_input_voltage_range_40v,_sot_89_3_,ap7384_28y,u3,ap7384_33y,sot_89_3,1,_,https_www_diodes_com_assets_datasheets_ap7384_pdf,ap7384_33y_13dict_nd_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 8,_50ma_low_dropout_voltage_regulator,_fixed_output_2_8v,_wide_input_voltage_range_40v,_sot_89_3_,ap7384_28y,u3,ap7384_33y,sot_89_3,1,_,https_www_diodes_com_assets_datasheets_ap7384_pdf,ap7384_33y_13dict_nd
 - all: 9,_arm_cortex_m4_mcu,_256kb_flash,_64kb_ram,_80mhz,_1_71_3_6v,_38_gpio,_lqfp_48_,stm32l431cctx,u1,stm32l431cctx,lqfp_48_7x7mm_p0_5mm,1,_,https_www_st_com_content_ccc_resource_technical_document_datasheet_group3_83_b3_60_f6_b1_cc_47_7e_dm00257211_files_dm00257211_pdf_jcr_content_translations_en_dm00257211_pdf,497_18830_1_nd_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 9,_arm_cortex_m4_mcu,_256kb_flash,_64kb_ram,_80mhz,_1_71_3_6v,_38_gpio,_lqfp_48_,stm32l431cctx,u1,stm32l431cctx,lqfp_48_7x7mm_p0_5mm,1,_,https_www_st_com_content_ccc_resource_technical_document_datasheet_group3_83_b3_60_f6_b1_cc_47_7e_dm00257211_files_dm00257211_pdf_jcr_content_translations_en_dm00257211_pdf,497_18830_1_nd
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,_arm_cortex_m4_mcu,_256kb_flash,_64kb_ram,_80mhz,_1_71_3_6v,_38_gpio,_lqfp_48_,stm32l431cctx,u1,stm32l431cctx,lqfp_48_7x7mm_p0_5mm,1,_,https_www_st_com_content_ccc_resource_technical_document_datasheet_group3_83_b3_60_f6_b1_cc_47_7e_dm00257211_files_dm00257211_pdf_jcr_content_translations_en_dm00257211_pdf,497_18830_1_nd_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 9,_arm_cortex_m4_mcu,_256kb_flash,_64kb_ram,_80mhz,_1_71_3_6v,_38_gpio,_lqfp_48_,stm32l431cctx,u1,stm32l431cctx,lqfp_48_7x7mm_p0_5mm,1,_,https_www_st_com_content_ccc_resource_technical_document_datasheet_group3_83_b3_60_f6_b1_cc_47_7e_dm00257211_files_dm00257211_pdf_jcr_content_translations_en_dm00257211_pdf,497_18830_1_nd
 - all: 10,,tle9251,u2,tle9251,soic_8_3_9x4_9mm_p1_27mm,1,_,https_www_infineon_com_dgdl_infineon_tle9251v_ds_v01_00_en_pdf_fileid=5546d4625debb399015e14b8c287597b,tle9251vsjxuma1ct_nd_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 10,,tle9251,u2,tle9251,soic_8_3_9x4_9mm_p1_27mm,1,_,https_www_infineon_com_dgdl_infineon_tle9251v_ds_v01_00_en_pdf_fileid=5546d4625debb399015e14b8c287597b,tle9251vsjxuma1ct_nd
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,,tle9251,u2,tle9251,soic_8_3_9x4_9mm_p1_27mm,1,_,https_www_infineon_com_dgdl_infineon_tle9251v_ds_v01_00_en_pdf_fileid=5546d4625debb399015e14b8c287597b,tle9251vsjxuma1ct_nd_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 10,,tle9251,u2,tle9251,soic_8_3_9x4_9mm_p1_27mm,1,_,https_www_infineon_com_dgdl_infineon_tle9251v_ds_v01_00_en_pdf_fileid=5546d4625debb399015e14b8c287597b,tle9251vsjxuma1ct_nd
 - all: 11,_3_3v_cmos_smd_crystal_clock_oscillator,_abracon_,ase_xxxmhz,x1,ase_8_000mhz_lc_t,oscillator_smd_abracon_ase_4pin_3_2x2_5mm_handsoldering,1,_,https_abracon_com_oscillators_aseseries_pdf,535_9558_1_nd_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 11,_3_3v_cmos_smd_crystal_clock_oscillator,_abracon_,ase_xxxmhz,x1,ase_8_000mhz_lc_t,oscillator_smd_abracon_ase_4pin_3_2x2_5mm_handsoldering,1,_,https_abracon_com_oscillators_aseseries_pdf,535_9558_1_nd
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,_3_3v_cmos_smd_crystal_clock_oscillator,_abracon_,ase_xxxmhz,x1,ase_8_000mhz_lc_t,oscillator_smd_abracon_ase_4pin_3_2x2_5mm_handsoldering,1,_,https_abracon_com_oscillators_aseseries_pdf,535_9558_1_nd_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: 11,_3_3v_cmos_smd_crystal_clock_oscillator,_abracon_,ase_xxxmhz,x1,ase_8_000mhz_lc_t,oscillator_smd_abracon_ase_4pin_3_2x2_5mm_handsoldering,1,_,https_abracon_com_oscillators_aseseries_pdf,535_9558_1_nd
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: revision_,
 - all: date_,2023_08_02_17_08_46_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: date_,2023_08_02_17_08_46
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: date_,2023_08_02_17_08_46_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: date_,2023_08_02_17_08_46
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: statistics_
 - all: component_groups_,11_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: component_groups_,11
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: component_groups_,11_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: component_groups_,11
 - all: component_count_,21_(17_smd_4_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: component_count_,21_(17_smd_4_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: component_count_,21_(17_smd_4_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: component_count_,21_(17_smd_4_tht)
 - all: fitted_components_,21_(17_smd_4_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: fitted_components_,21_(17_smd_4_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: fitted_components_,21_(17_smd_4_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: fitted_components_,21_(17_smd_4_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: number_of_pcbs_,1
 - all: total_components_,21_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: total_components_,21
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: total_components_,21_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,digikey: total_components_,21
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
 projects_flat: projects_flat/cepr_stm32_canbus_module/version_current/working
 projects_folder: projects_folder/cepr/stm32-canbus-module/version_current/working
 repo:

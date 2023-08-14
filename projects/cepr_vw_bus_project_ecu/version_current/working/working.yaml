@@ -13,1442 +13,2673 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cepr_vw_bus_project_ecu\version_current\working
 oomp_key: oomp_projects_flat_cepr_vw_bus_project_ecu
 oomp_key_simple: projects_flat_cepr_vw_bus_project_ecu
-parts_verbose:
+parts_oomp:
 - all: 1_j15_pin_header_straight_1x08_pitch2_54mm_1_conn_01x08_female___
-  designation: conn_01x08_female
   designator: j15
-  footprint: pin_header_straight_1x08_pitch2_54mm
-  id: '1'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1_j15_pin_header_straight_1x08_pitch2_54mm_1_conn_01x08_female___
+    designation: conn_01x08_female
+    designator: j15
+    footprint: pin_header_straight_1x08_pitch2_54mm
+    id: '1'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 2_pc4,pc3,pc2_c_1206_handsoldering_3_47uf_10v___
-  designation: 47uf_10v
   designator: pc4
-  footprint: c_1206_handsoldering
-  id: '2'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2_pc4,pc3,pc2_c_1206_handsoldering_3_47uf_10v___
+    designation: 47uf_10v
+    designator: pc4
+    footprint: c_1206_handsoldering
+    id: '2'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 2_pc4,pc3,pc2_c_1206_handsoldering_3_47uf_10v___
-  designation: 47uf_10v
   designator: pc3
-  footprint: c_1206_handsoldering
-  id: '2'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 2_pc4,pc3,pc2_c_1206_handsoldering_3_47uf_10v___
+    designation: 47uf_10v
+    designator: pc3
+    footprint: c_1206_handsoldering
+    id: '2'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 2_pc4,pc3,pc2_c_1206_handsoldering_3_47uf_10v___
-  designation: 47uf_10v
   designator: pc2
-  footprint: c_1206_handsoldering
-  id: '2'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 2_pc4,pc3,pc2_c_1206_handsoldering_3_47uf_10v___
+    designation: 47uf_10v
+    designator: pc2
+    footprint: c_1206_handsoldering
+    id: '2'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 3_u4_xp_01asb0907b_1_mpx4250ap1___
-  designation: mpx4250ap1
   designator: u4
-  footprint: xp_01asb0907b
-  id: '3'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 3_u4_xp_01asb0907b_1_mpx4250ap1___
+    designation: mpx4250ap1
+    designator: u4
+    footprint: xp_01asb0907b
+    id: '3'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp23
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp23
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp22
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp22
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp21
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp21
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp20
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp20
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp19
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp19
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp18
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp18
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp17
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp17
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp16
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp16
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp15
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp15
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp55
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp55
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp54
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp54
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp53
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp53
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp52
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp52
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp51
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp51
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp50
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp50
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp49
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp49
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp40
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp40
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp39
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp39
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp47
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp47
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp46
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp46
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp26
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp26
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp45
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp45
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp43
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp43
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp42
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp42
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp41
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp41
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp14
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id031
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp14
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp13
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id032
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp13
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp32
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id033
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp32
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp31
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id034
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp31
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp30
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id035
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp30
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp29
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id036
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp29
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp28
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id037
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp28
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp27
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id038
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp27
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp25
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id039
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp25
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp24
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id040
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp24
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp12
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id041
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp12
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp11
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id042
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp11
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp10
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id043
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp10
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp9
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id044
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp9
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp8
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id045
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp8
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp7
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id046
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp7
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp6
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id047
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp6
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp5
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id048
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp5
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp4
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id049
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp4
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp3
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id050
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp3
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp2
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id051
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp2
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
-  designation: jumper
   designator: jp1
-  footprint: pin_header_straight_1x02_pitch2_54mm
-  id: '4'
-  quantity: '47'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id052
+    all: 4_jp23,jp22,jp21,jp20,jp19,jp18,jp17,jp16,jp15,jp55,jp54,jp53,jp52,jp51,jp50,jp49,jp40,jp39,jp47,jp46,jp26,jp45,jp43,jp42,jp41,jp14,jp13,jp32,jp31,jp30,jp29,jp28,jp27,jp25,jp24,jp12,jp11,jp10,jp9,jp8,jp7,jp6,jp5,jp4,jp3,jp2,jp1_pin_header_straight_1x02_pitch2_54mm_47_jumper___
+    designation: jumper
+    designator: jp1
+    footprint: pin_header_straight_1x02_pitch2_54mm
+    id: '4'
+    quantity: '47'
+    supplier_and_ref: ''
 - all: 5_c1_c_0805_handsoldering_1_0_47nf_50v___
-  designation: 0_47nf_50v
   designator: c1
-  footprint: c_0805_handsoldering
-  id: '5'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id053
+    all: 5_c1_c_0805_handsoldering_1_0_47nf_50v___
+    designation: 0_47nf_50v
+    designator: c1
+    footprint: c_0805_handsoldering
+    id: '5'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
-  designation: nup1301,215
   designator: d26
-  footprint: sot_23
-  id: '6'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id054
+    all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
+    designation: nup1301,215
+    designator: d26
+    footprint: sot_23
+    id: '6'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
-  designation: nup1301,215
   designator: d25
-  footprint: sot_23
-  id: '6'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id055
+    all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
+    designation: nup1301,215
+    designator: d25
+    footprint: sot_23
+    id: '6'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
-  designation: nup1301,215
   designator: d24
-  footprint: sot_23
-  id: '6'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id056
+    all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
+    designation: nup1301,215
+    designator: d24
+    footprint: sot_23
+    id: '6'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
-  designation: nup1301,215
   designator: d23
-  footprint: sot_23
-  id: '6'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id057
+    all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
+    designation: nup1301,215
+    designator: d23
+    footprint: sot_23
+    id: '6'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
-  designation: nup1301,215
   designator: d22
-  footprint: sot_23
-  id: '6'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id058
+    all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
+    designation: nup1301,215
+    designator: d22
+    footprint: sot_23
+    id: '6'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
-  designation: nup1301,215
   designator: d21
-  footprint: sot_23
-  id: '6'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id059
+    all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
+    designation: nup1301,215
+    designator: d21
+    footprint: sot_23
+    id: '6'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
-  designation: nup1301,215
   designator: d20
-  footprint: sot_23
-  id: '6'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id060
+    all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
+    designation: nup1301,215
+    designator: d20
+    footprint: sot_23
+    id: '6'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
-  designation: nup1301,215
   designator: d7
-  footprint: sot_23
-  id: '6'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id061
+    all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
+    designation: nup1301,215
+    designator: d7
+    footprint: sot_23
+    id: '6'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
-  designation: nup1301,215
   designator: d6
-  footprint: sot_23
-  id: '6'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id062
+    all: 6_d26,d25,d24,d23,d22,d21,d20,d7,d6_sot_23_9_nup1301,215___
+    designation: nup1301,215
+    designator: d6
+    footprint: sot_23
+    id: '6'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 7_r11,r46,r23_r_0805_handsoldering_3_150___
-  designation: '150'
   designator: r11
-  footprint: r_0805_handsoldering
-  id: '7'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id063
+    all: 7_r11,r46,r23_r_0805_handsoldering_3_150___
+    designation: '150'
+    designator: r11
+    footprint: r_0805_handsoldering
+    id: '7'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 7_r11,r46,r23_r_0805_handsoldering_3_150___
-  designation: '150'
   designator: r46
-  footprint: r_0805_handsoldering
-  id: '7'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id064
+    all: 7_r11,r46,r23_r_0805_handsoldering_3_150___
+    designation: '150'
+    designator: r46
+    footprint: r_0805_handsoldering
+    id: '7'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 7_r11,r46,r23_r_0805_handsoldering_3_150___
-  designation: '150'
   designator: r23
-  footprint: r_0805_handsoldering
-  id: '7'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id065
+    all: 7_r11,r46,r23_r_0805_handsoldering_3_150___
+    designation: '150'
+    designator: r23
+    footprint: r_0805_handsoldering
+    id: '7'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 8_r51_r_0805_handsoldering_1_309___
-  designation: '309'
   designator: r51
-  footprint: r_0805_handsoldering
-  id: '8'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id066
+    all: 8_r51_r_0805_handsoldering_1_309___
+    designation: '309'
+    designator: r51
+    footprint: r_0805_handsoldering
+    id: '8'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 9_r31,r45,r44_r_0805_handsoldering_3_200___
-  designation: '200'
   designator: r31
-  footprint: r_0805_handsoldering
-  id: '9'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id067
+    all: 9_r31,r45,r44_r_0805_handsoldering_3_200___
+    designation: '200'
+    designator: r31
+    footprint: r_0805_handsoldering
+    id: '9'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 9_r31,r45,r44_r_0805_handsoldering_3_200___
-  designation: '200'
   designator: r45
-  footprint: r_0805_handsoldering
-  id: '9'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id068
+    all: 9_r31,r45,r44_r_0805_handsoldering_3_200___
+    designation: '200'
+    designator: r45
+    footprint: r_0805_handsoldering
+    id: '9'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 9_r31,r45,r44_r_0805_handsoldering_3_200___
-  designation: '200'
   designator: r44
-  footprint: r_0805_handsoldering
-  id: '9'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id069
+    all: 9_r31,r45,r44_r_0805_handsoldering_3_200___
+    designation: '200'
+    designator: r44
+    footprint: r_0805_handsoldering
+    id: '9'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 10_d5,d14,d12,d10,d8_led_0805_handsoldering_5_led_red_10ma_1_9v___
-  designation: led_red_10ma_1_9v
   designator: d5
-  footprint: led_0805_handsoldering
-  id: '10'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id070
+    all: 10_d5,d14,d12,d10,d8_led_0805_handsoldering_5_led_red_10ma_1_9v___
+    designation: led_red_10ma_1_9v
+    designator: d5
+    footprint: led_0805_handsoldering
+    id: '10'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 10_d5,d14,d12,d10,d8_led_0805_handsoldering_5_led_red_10ma_1_9v___
-  designation: led_red_10ma_1_9v
   designator: d14
-  footprint: led_0805_handsoldering
-  id: '10'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id071
+    all: 10_d5,d14,d12,d10,d8_led_0805_handsoldering_5_led_red_10ma_1_9v___
+    designation: led_red_10ma_1_9v
+    designator: d14
+    footprint: led_0805_handsoldering
+    id: '10'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 10_d5,d14,d12,d10,d8_led_0805_handsoldering_5_led_red_10ma_1_9v___
-  designation: led_red_10ma_1_9v
   designator: d12
-  footprint: led_0805_handsoldering
-  id: '10'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id072
+    all: 10_d5,d14,d12,d10,d8_led_0805_handsoldering_5_led_red_10ma_1_9v___
+    designation: led_red_10ma_1_9v
+    designator: d12
+    footprint: led_0805_handsoldering
+    id: '10'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 10_d5,d14,d12,d10,d8_led_0805_handsoldering_5_led_red_10ma_1_9v___
-  designation: led_red_10ma_1_9v
   designator: d10
-  footprint: led_0805_handsoldering
-  id: '10'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id073
+    all: 10_d5,d14,d12,d10,d8_led_0805_handsoldering_5_led_red_10ma_1_9v___
+    designation: led_red_10ma_1_9v
+    designator: d10
+    footprint: led_0805_handsoldering
+    id: '10'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 10_d5,d14,d12,d10,d8_led_0805_handsoldering_5_led_red_10ma_1_9v___
-  designation: led_red_10ma_1_9v
   designator: d8
-  footprint: led_0805_handsoldering
-  id: '10'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id074
+    all: 10_d5,d14,d12,d10,d8_led_0805_handsoldering_5_led_red_10ma_1_9v___
+    designation: led_red_10ma_1_9v
+    designator: d8
+    footprint: led_0805_handsoldering
+    id: '10'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 11_d2,d18,d17_led_0805_handsoldering_3_led_blue_10ma_3v___
-  designation: led_blue_10ma_3v
   designator: d2
-  footprint: led_0805_handsoldering
-  id: '11'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id075
+    all: 11_d2,d18,d17_led_0805_handsoldering_3_led_blue_10ma_3v___
+    designation: led_blue_10ma_3v
+    designator: d2
+    footprint: led_0805_handsoldering
+    id: '11'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 11_d2,d18,d17_led_0805_handsoldering_3_led_blue_10ma_3v___
-  designation: led_blue_10ma_3v
   designator: d18
-  footprint: led_0805_handsoldering
-  id: '11'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id076
+    all: 11_d2,d18,d17_led_0805_handsoldering_3_led_blue_10ma_3v___
+    designation: led_blue_10ma_3v
+    designator: d18
+    footprint: led_0805_handsoldering
+    id: '11'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 11_d2,d18,d17_led_0805_handsoldering_3_led_blue_10ma_3v___
-  designation: led_blue_10ma_3v
   designator: d17
-  footprint: led_0805_handsoldering
-  id: '11'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id077
+    all: 11_d2,d18,d17_led_0805_handsoldering_3_led_blue_10ma_3v___
+    designation: led_blue_10ma_3v
+    designator: d17
+    footprint: led_0805_handsoldering
+    id: '11'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 12_u10,u9,u5_ssop_8_2_95x2_8mm_pitch0_65mm_3_sn74lvc2t45mdcttep___
-  designation: sn74lvc2t45mdcttep
   designator: u10
-  footprint: ssop_8_2_95x2_8mm_pitch0_65mm
-  id: '12'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id078
+    all: 12_u10,u9,u5_ssop_8_2_95x2_8mm_pitch0_65mm_3_sn74lvc2t45mdcttep___
+    designation: sn74lvc2t45mdcttep
+    designator: u10
+    footprint: ssop_8_2_95x2_8mm_pitch0_65mm
+    id: '12'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 12_u10,u9,u5_ssop_8_2_95x2_8mm_pitch0_65mm_3_sn74lvc2t45mdcttep___
-  designation: sn74lvc2t45mdcttep
   designator: u9
-  footprint: ssop_8_2_95x2_8mm_pitch0_65mm
-  id: '12'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id079
+    all: 12_u10,u9,u5_ssop_8_2_95x2_8mm_pitch0_65mm_3_sn74lvc2t45mdcttep___
+    designation: sn74lvc2t45mdcttep
+    designator: u9
+    footprint: ssop_8_2_95x2_8mm_pitch0_65mm
+    id: '12'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 12_u10,u9,u5_ssop_8_2_95x2_8mm_pitch0_65mm_3_sn74lvc2t45mdcttep___
-  designation: sn74lvc2t45mdcttep
   designator: u5
-  footprint: ssop_8_2_95x2_8mm_pitch0_65mm
-  id: '12'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id080
+    all: 12_u10,u9,u5_ssop_8_2_95x2_8mm_pitch0_65mm_3_sn74lvc2t45mdcttep___
+    designation: sn74lvc2t45mdcttep
+    designator: u5
+    footprint: ssop_8_2_95x2_8mm_pitch0_65mm
+    id: '12'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 13_l1_l_0805_handsoldering_1_10uh___
-  designation: 10uh
   designator: l1
-  footprint: l_0805_handsoldering
-  id: '13'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id081
+    all: 13_l1_l_0805_handsoldering_1_10uh___
+    designation: 10uh
+    designator: l1
+    footprint: l_0805_handsoldering
+    id: '13'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 14_c46,c39,c9_c_0805_handsoldering_3_1uf_35v___
-  designation: 1uf_35v
   designator: c46
-  footprint: c_0805_handsoldering
-  id: '14'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id082
+    all: 14_c46,c39,c9_c_0805_handsoldering_3_1uf_35v___
+    designation: 1uf_35v
+    designator: c46
+    footprint: c_0805_handsoldering
+    id: '14'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 14_c46,c39,c9_c_0805_handsoldering_3_1uf_35v___
-  designation: 1uf_35v
   designator: c39
-  footprint: c_0805_handsoldering
-  id: '14'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id083
+    all: 14_c46,c39,c9_c_0805_handsoldering_3_1uf_35v___
+    designation: 1uf_35v
+    designator: c39
+    footprint: c_0805_handsoldering
+    id: '14'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 14_c46,c39,c9_c_0805_handsoldering_3_1uf_35v___
-  designation: 1uf_35v
   designator: c9
-  footprint: c_0805_handsoldering
-  id: '14'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id084
+    all: 14_c46,c39,c9_c_0805_handsoldering_3_1uf_35v___
+    designation: 1uf_35v
+    designator: c9
+    footprint: c_0805_handsoldering
+    id: '14'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 15_u11_soic_8_1ep_3_9x4_9mm_pitch1_27mm_1_tle8366___
-  designation: tle8366
   designator: u11
-  footprint: soic_8_1ep_3_9x4_9mm_pitch1_27mm
-  id: '15'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id085
+    all: 15_u11_soic_8_1ep_3_9x4_9mm_pitch1_27mm_1_tle8366___
+    designation: tle8366
+    designator: u11
+    footprint: soic_8_1ep_3_9x4_9mm_pitch1_27mm
+    id: '15'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 16_c38,c37_c_0805_handsoldering_2_22uf_25v___
-  designation: 22uf_25v
   designator: c38
-  footprint: c_0805_handsoldering
-  id: '16'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id086
+    all: 16_c38,c37_c_0805_handsoldering_2_22uf_25v___
+    designation: 22uf_25v
+    designator: c38
+    footprint: c_0805_handsoldering
+    id: '16'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 16_c38,c37_c_0805_handsoldering_2_22uf_25v___
-  designation: 22uf_25v
   designator: c37
-  footprint: c_0805_handsoldering
-  id: '16'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id087
+    all: 16_c38,c37_c_0805_handsoldering_2_22uf_25v___
+    designation: 22uf_25v
+    designator: c37
+    footprint: c_0805_handsoldering
+    id: '16'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 17_r50_r_0805_handsoldering_1_910___
-  designation: '910'
   designator: r50
-  footprint: r_0805_handsoldering
-  id: '17'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id088
+    all: 17_r50_r_0805_handsoldering_1_910___
+    designation: '910'
+    designator: r50
+    footprint: r_0805_handsoldering
+    id: '17'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 18_d3,d19,d16_led_0805_handsoldering_3_led_green_2_5ma_2_7v___
-  designation: led_green_2_5ma_2_7v
   designator: d3
-  footprint: led_0805_handsoldering
-  id: '18'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id089
+    all: 18_d3,d19,d16_led_0805_handsoldering_3_led_green_2_5ma_2_7v___
+    designation: led_green_2_5ma_2_7v
+    designator: d3
+    footprint: led_0805_handsoldering
+    id: '18'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 18_d3,d19,d16_led_0805_handsoldering_3_led_green_2_5ma_2_7v___
-  designation: led_green_2_5ma_2_7v
   designator: d19
-  footprint: led_0805_handsoldering
-  id: '18'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id090
+    all: 18_d3,d19,d16_led_0805_handsoldering_3_led_green_2_5ma_2_7v___
+    designation: led_green_2_5ma_2_7v
+    designator: d19
+    footprint: led_0805_handsoldering
+    id: '18'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 18_d3,d19,d16_led_0805_handsoldering_3_led_green_2_5ma_2_7v___
-  designation: led_green_2_5ma_2_7v
   designator: d16
-  footprint: led_0805_handsoldering
-  id: '18'
-  quantity: '3'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id091
+    all: 18_d3,d19,d16_led_0805_handsoldering_3_led_green_2_5ma_2_7v___
+    designation: led_green_2_5ma_2_7v
+    designator: d16
+    footprint: led_0805_handsoldering
+    id: '18'
+    quantity: '3'
+    supplier_and_ref: ''
 - all: 19_u12_sot_223_3_tabpin2_1_ld1117s50tr_sot223___
-  designation: ld1117s50tr_sot223
   designator: u12
-  footprint: sot_223_3_tabpin2
-  id: '19'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id092
+    all: 19_u12_sot_223_3_tabpin2_1_ld1117s50tr_sot223___
+    designation: ld1117s50tr_sot223
+    designator: u12
+    footprint: sot_223_3_tabpin2
+    id: '19'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 20_u8_soic_8_3_9x4_9mm_pitch1_27mm_1_mcp2003b___
-  designation: mcp2003b
   designator: u8
-  footprint: soic_8_3_9x4_9mm_pitch1_27mm
-  id: '20'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id093
+    all: 20_u8_soic_8_3_9x4_9mm_pitch1_27mm_1_mcp2003b___
+    designation: mcp2003b
+    designator: u8
+    footprint: soic_8_3_9x4_9mm_pitch1_27mm
+    id: '20'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 21_r30_r_0805_handsoldering_1_4k7___
-  designation: 4k7
   designator: r30
-  footprint: r_0805_handsoldering
-  id: '21'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id094
+    all: 21_r30_r_0805_handsoldering_1_4k7___
+    designation: 4k7
+    designator: r30
+    footprint: r_0805_handsoldering
+    id: '21'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 22_r28,r27_r_0805_handsoldering_2_33k___
-  designation: 33k
   designator: r28
-  footprint: r_0805_handsoldering
-  id: '22'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id095
+    all: 22_r28,r27_r_0805_handsoldering_2_33k___
+    designation: 33k
+    designator: r28
+    footprint: r_0805_handsoldering
+    id: '22'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 22_r28,r27_r_0805_handsoldering_2_33k___
-  designation: 33k
   designator: r27
-  footprint: r_0805_handsoldering
-  id: '22'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id096
+    all: 22_r28,r27_r_0805_handsoldering_2_33k___
+    designation: 33k
+    designator: r27
+    footprint: r_0805_handsoldering
+    id: '22'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 23_pc1_cp_tantalum_case_c_eia_6032_28_reflow_1_47uf___
-  designation: 47uf
   designator: pc1
-  footprint: cp_tantalum_case_c_eia_6032_28_reflow
-  id: '23'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id097
+    all: 23_pc1_cp_tantalum_case_c_eia_6032_28_reflow_1_47uf___
+    designation: 47uf
+    designator: pc1
+    footprint: cp_tantalum_case_c_eia_6032_28_reflow
+    id: '23'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c43
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id098
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c43
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c36
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id099
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c36
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c35
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id100
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c35
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c22
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id101
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c22
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c16
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id102
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c16
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c7
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id103
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c7
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c33
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id104
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c33
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c23
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id105
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c23
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c21
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id106
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c21
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c19
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id107
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c19
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c17
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id108
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c17
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c14
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id109
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c14
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c12
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id110
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c12
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
-  designation: 0_1uf_50v
   designator: c4
-  footprint: c_0805_handsoldering
-  id: '24'
-  quantity: '14'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id111
+    all: 24_c43,c36,c35,c22,c16,c7,c33,c23,c21,c19,c17,c14,c12,c4_c_0805_handsoldering_14_0_1uf_50v___
+    designation: 0_1uf_50v
+    designator: c4
+    footprint: c_0805_handsoldering
+    id: '24'
+    quantity: '14'
+    supplier_and_ref: ''
 - all: 25_c6_c_0805_handsoldering_1_0_22nf_200v___
-  designation: 0_22nf_200v
   designator: c6
-  footprint: c_0805_handsoldering
-  id: '25'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id112
+    all: 25_c6_c_0805_handsoldering_1_0_22nf_200v___
+    designation: 0_22nf_200v
+    designator: c6
+    footprint: c_0805_handsoldering
+    id: '25'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
-  designation: '470'
   designator: r6
-  footprint: r_0805_handsoldering
-  id: '26'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id113
+    all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
+    designation: '470'
+    designator: r6
+    footprint: r_0805_handsoldering
+    id: '26'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
-  designation: '470'
   designator: r26
-  footprint: r_0805_handsoldering
-  id: '26'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id114
+    all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
+    designation: '470'
+    designator: r26
+    footprint: r_0805_handsoldering
+    id: '26'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
-  designation: '470'
   designator: r10
-  footprint: r_0805_handsoldering
-  id: '26'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id115
+    all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
+    designation: '470'
+    designator: r10
+    footprint: r_0805_handsoldering
+    id: '26'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
-  designation: '470'
   designator: r9
-  footprint: r_0805_handsoldering
-  id: '26'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id116
+    all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
+    designation: '470'
+    designator: r9
+    footprint: r_0805_handsoldering
+    id: '26'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
-  designation: '470'
   designator: r8
-  footprint: r_0805_handsoldering
-  id: '26'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id117
+    all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
+    designation: '470'
+    designator: r8
+    footprint: r_0805_handsoldering
+    id: '26'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
-  designation: '470'
   designator: r15
-  footprint: r_0805_handsoldering
-  id: '26'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id118
+    all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
+    designation: '470'
+    designator: r15
+    footprint: r_0805_handsoldering
+    id: '26'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
-  designation: '470'
   designator: r5
-  footprint: r_0805_handsoldering
-  id: '26'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id119
+    all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
+    designation: '470'
+    designator: r5
+    footprint: r_0805_handsoldering
+    id: '26'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
-  designation: '470'
   designator: r3
-  footprint: r_0805_handsoldering
-  id: '26'
-  quantity: '8'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id120
+    all: 26_r6,r26,r10,r9,r8,r15,r5,r3_r_0805_handsoldering_8_470___
+    designation: '470'
+    designator: r3
+    footprint: r_0805_handsoldering
+    id: '26'
+    quantity: '8'
+    supplier_and_ref: ''
 - all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
-  designation: 0_22uf_50v
   designator: c8
-  footprint: c_0805_handsoldering
-  id: '27'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id121
+    all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
+    designation: 0_22uf_50v
+    designator: c8
+    footprint: c_0805_handsoldering
+    id: '27'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
-  designation: 0_22uf_50v
   designator: c42
-  footprint: c_0805_handsoldering
-  id: '27'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id122
+    all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
+    designation: 0_22uf_50v
+    designator: c42
+    footprint: c_0805_handsoldering
+    id: '27'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
-  designation: 0_22uf_50v
   designator: c41
-  footprint: c_0805_handsoldering
-  id: '27'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id123
+    all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
+    designation: 0_22uf_50v
+    designator: c41
+    footprint: c_0805_handsoldering
+    id: '27'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
-  designation: 0_22uf_50v
   designator: c34
-  footprint: c_0805_handsoldering
-  id: '27'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id124
+    all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
+    designation: 0_22uf_50v
+    designator: c34
+    footprint: c_0805_handsoldering
+    id: '27'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
-  designation: 0_22uf_50v
   designator: c32
-  footprint: c_0805_handsoldering
-  id: '27'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id125
+    all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
+    designation: 0_22uf_50v
+    designator: c32
+    footprint: c_0805_handsoldering
+    id: '27'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
-  designation: 0_22uf_50v
   designator: c20
-  footprint: c_0805_handsoldering
-  id: '27'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id126
+    all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
+    designation: 0_22uf_50v
+    designator: c20
+    footprint: c_0805_handsoldering
+    id: '27'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
-  designation: 0_22uf_50v
   designator: c18
-  footprint: c_0805_handsoldering
-  id: '27'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id127
+    all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
+    designation: 0_22uf_50v
+    designator: c18
+    footprint: c_0805_handsoldering
+    id: '27'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
-  designation: 0_22uf_50v
   designator: c15
-  footprint: c_0805_handsoldering
-  id: '27'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id128
+    all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
+    designation: 0_22uf_50v
+    designator: c15
+    footprint: c_0805_handsoldering
+    id: '27'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
-  designation: 0_22uf_50v
   designator: c13
-  footprint: c_0805_handsoldering
-  id: '27'
-  quantity: '9'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id129
+    all: 27_c8,c42,c41,c34,c32,c20,c18,c15,c13_c_0805_handsoldering_9_0_22uf_50v___
+    designation: 0_22uf_50v
+    designator: c13
+    footprint: c_0805_handsoldering
+    id: '27'
+    quantity: '9'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: rn5a1
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id130
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: rn5a1
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: r48
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id131
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: r48
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: r47
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id132
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: r47
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: r29
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id133
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: r29
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: r24
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id134
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: r24
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: r12
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id135
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: r12
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: r16
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id136
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: r16
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: r39
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id137
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: r39
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: r35
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id138
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: r35
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: r21
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id139
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: r21
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
-  designation: 10k
   designator: r17
-  footprint: r_0805_handsoldering
-  id: '28'
-  quantity: '11'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id140
+    all: 28_rn5a1,r48,r47,r29,r24,r12,r16,r39,r35,r21,r17_r_0805_handsoldering_11_10k___
+    designation: 10k
+    designator: r17
+    footprint: r_0805_handsoldering
+    id: '28'
+    quantity: '11'
+    supplier_and_ref: ''
 - all: 29_r25_r_0805_handsoldering_1_22k___
-  designation: 22k
   designator: r25
-  footprint: r_0805_handsoldering
-  id: '29'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id141
+    all: 29_r25_r_0805_handsoldering_1_22k___
+    designation: 22k
+    designator: r25
+    footprint: r_0805_handsoldering
+    id: '29'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 30_r14,r41,r37,r33,r19_r_0805_handsoldering_5_1k___
-  designation: 1k
   designator: r14
-  footprint: r_0805_handsoldering
-  id: '30'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id142
+    all: 30_r14,r41,r37,r33,r19_r_0805_handsoldering_5_1k___
+    designation: 1k
+    designator: r14
+    footprint: r_0805_handsoldering
+    id: '30'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 30_r14,r41,r37,r33,r19_r_0805_handsoldering_5_1k___
-  designation: 1k
   designator: r41
-  footprint: r_0805_handsoldering
-  id: '30'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id143
+    all: 30_r14,r41,r37,r33,r19_r_0805_handsoldering_5_1k___
+    designation: 1k
+    designator: r41
+    footprint: r_0805_handsoldering
+    id: '30'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 30_r14,r41,r37,r33,r19_r_0805_handsoldering_5_1k___
-  designation: 1k
   designator: r37
-  footprint: r_0805_handsoldering
-  id: '30'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id144
+    all: 30_r14,r41,r37,r33,r19_r_0805_handsoldering_5_1k___
+    designation: 1k
+    designator: r37
+    footprint: r_0805_handsoldering
+    id: '30'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 30_r14,r41,r37,r33,r19_r_0805_handsoldering_5_1k___
-  designation: 1k
   designator: r33
-  footprint: r_0805_handsoldering
-  id: '30'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id145
+    all: 30_r14,r41,r37,r33,r19_r_0805_handsoldering_5_1k___
+    designation: 1k
+    designator: r33
+    footprint: r_0805_handsoldering
+    id: '30'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 30_r14,r41,r37,r33,r19_r_0805_handsoldering_5_1k___
-  designation: 1k
   designator: r19
-  footprint: r_0805_handsoldering
-  id: '30'
-  quantity: '5'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id146
+    all: 30_r14,r41,r37,r33,r19_r_0805_handsoldering_5_1k___
+    designation: 1k
+    designator: r19
+    footprint: r_0805_handsoldering
+    id: '30'
+    quantity: '5'
+    supplier_and_ref: ''
 - all: 31_r13_r_0805_handsoldering_1_3_9k___
-  designation: 3_9k
   designator: r13
-  footprint: r_0805_handsoldering
-  id: '31'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id147
+    all: 31_r13_r_0805_handsoldering_1_3_9k___
+    designation: 3_9k
+    designator: r13
+    footprint: r_0805_handsoldering
+    id: '31'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 32_r7_r_0805_handsoldering_1_750___
-  designation: '750'
   designator: r7
-  footprint: r_0805_handsoldering
-  id: '32'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id148
+    all: 32_r7_r_0805_handsoldering_1_750___
+    designation: '750'
+    designator: r7
+    footprint: r_0805_handsoldering
+    id: '32'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 33_r4,r2_r_0805_handsoldering_2_2_49k___
-  designation: 2_49k
   designator: r4
-  footprint: r_0805_handsoldering
-  id: '33'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id149
+    all: 33_r4,r2_r_0805_handsoldering_2_2_49k___
+    designation: 2_49k
+    designator: r4
+    footprint: r_0805_handsoldering
+    id: '33'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 33_r4,r2_r_0805_handsoldering_2_2_49k___
-  designation: 2_49k
   designator: r2
-  footprint: r_0805_handsoldering
-  id: '33'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id150
+    all: 33_r4,r2_r_0805_handsoldering_2_2_49k___
+    designation: 2_49k
+    designator: r2
+    footprint: r_0805_handsoldering
+    id: '33'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 34_r1_r_0805_handsoldering_1_1m___
-  designation: 1m
   designator: r1
-  footprint: r_0805_handsoldering
-  id: '34'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id151
+    all: 34_r1_r_0805_handsoldering_1_1m___
+    designation: 1m
+    designator: r1
+    footprint: r_0805_handsoldering
+    id: '34'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 35_c40_c_0805_handsoldering_1_22nf_50v___
-  designation: 22nf_50v
   designator: c40
-  footprint: c_0805_handsoldering
-  id: '35'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id152
+    all: 35_c40_c_0805_handsoldering_1_22nf_50v___
+    designation: 22nf_50v
+    designator: c40
+    footprint: c_0805_handsoldering
+    id: '35'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 36_c11_c_0805_handsoldering_1_0_33uf_50v___
-  designation: 0_33uf_50v
   designator: c11
-  footprint: c_0805_handsoldering
-  id: '36'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id153
+    all: 36_c11_c_0805_handsoldering_1_0_33uf_50v___
+    designation: 0_33uf_50v
+    designator: c11
+    footprint: c_0805_handsoldering
+    id: '36'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 37_c10_c_0805_handsoldering_1_10nf_100v___
-  designation: 10nf_100v
   designator: c10
-  footprint: c_0805_handsoldering
-  id: '37'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id154
+    all: 37_c10_c_0805_handsoldering_1_10nf_100v___
+    designation: 10nf_100v
+    designator: c10
+    footprint: c_0805_handsoldering
+    id: '37'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 38_c2_c_0805_handsoldering_1_4_7nf_100v___
-  designation: 4_7nf_100v
   designator: c2
-  footprint: c_0805_handsoldering
-  id: '38'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id155
+    all: 38_c2_c_0805_handsoldering_1_4_7nf_100v___
+    designation: 4_7nf_100v
+    designator: c2
+    footprint: c_0805_handsoldering
+    id: '38'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 39_r49,r43_r_0805_handsoldering_2_3_74k___
-  designation: 3_74k
   designator: r49
-  footprint: r_0805_handsoldering
-  id: '39'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id156
+    all: 39_r49,r43_r_0805_handsoldering_2_3_74k___
+    designation: 3_74k
+    designator: r49
+    footprint: r_0805_handsoldering
+    id: '39'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 39_r49,r43_r_0805_handsoldering_2_3_74k___
-  designation: 3_74k
   designator: r43
-  footprint: r_0805_handsoldering
-  id: '39'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id157
+    all: 39_r49,r43_r_0805_handsoldering_2_3_74k___
+    designation: 3_74k
+    designator: r43
+    footprint: r_0805_handsoldering
+    id: '39'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 40_q2,q5_tsop_6_1_65x3_05mm_pitch0_95mm_2_sq3457ev___
-  designation: sq3457ev
   designator: q2
-  footprint: tsop_6_1_65x3_05mm_pitch0_95mm
-  id: '40'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id158
+    all: 40_q2,q5_tsop_6_1_65x3_05mm_pitch0_95mm_2_sq3457ev___
+    designation: sq3457ev
+    designator: q2
+    footprint: tsop_6_1_65x3_05mm_pitch0_95mm
+    id: '40'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 40_q2,q5_tsop_6_1_65x3_05mm_pitch0_95mm_2_sq3457ev___
-  designation: sq3457ev
   designator: q5
-  footprint: tsop_6_1_65x3_05mm_pitch0_95mm
-  id: '40'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id159
+    all: 40_q2,q5_tsop_6_1_65x3_05mm_pitch0_95mm_2_sq3457ev___
+    designation: sq3457ev
+    designator: q5
+    footprint: tsop_6_1_65x3_05mm_pitch0_95mm
+    id: '40'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 41_q1,q3_sot_23_2_2n7002___
-  designation: 2n7002
   designator: q1
-  footprint: sot_23
-  id: '41'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id160
+    all: 41_q1,q3_sot_23_2_2n7002___
+    designation: 2n7002
+    designator: q1
+    footprint: sot_23
+    id: '41'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 41_q1,q3_sot_23_2_2n7002___
-  designation: 2n7002
   designator: q3
-  footprint: sot_23
-  id: '41'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id161
+    all: 41_q1,q3_sot_23_2_2n7002___
+    designation: 2n7002
+    designator: q3
+    footprint: sot_23
+    id: '41'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 42_j11_ed120_4ds_1_ignitor_pack___
-  designation: ignitor_pack
   designator: j11
-  footprint: ed120_4ds
-  id: '42'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id162
+    all: 42_j11_ed120_4ds_1_ignitor_pack___
+    designation: ignitor_pack
+    designator: j11
+    footprint: ed120_4ds
+    id: '42'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 43_j10,j9,j8,j7_ed120_2ds_4_injector___
-  designation: injector
   designator: j10
-  footprint: ed120_2ds
-  id: '43'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id163
+    all: 43_j10,j9,j8,j7_ed120_2ds_4_injector___
+    designation: injector
+    designator: j10
+    footprint: ed120_2ds
+    id: '43'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 43_j10,j9,j8,j7_ed120_2ds_4_injector___
-  designation: injector
   designator: j9
-  footprint: ed120_2ds
-  id: '43'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id164
+    all: 43_j10,j9,j8,j7_ed120_2ds_4_injector___
+    designation: injector
+    designator: j9
+    footprint: ed120_2ds
+    id: '43'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 43_j10,j9,j8,j7_ed120_2ds_4_injector___
-  designation: injector
   designator: j8
-  footprint: ed120_2ds
-  id: '43'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id165
+    all: 43_j10,j9,j8,j7_ed120_2ds_4_injector___
+    designation: injector
+    designator: j8
+    footprint: ed120_2ds
+    id: '43'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 43_j10,j9,j8,j7_ed120_2ds_4_injector___
-  designation: injector
   designator: j7
-  footprint: ed120_2ds
-  id: '43'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id166
+    all: 43_j10,j9,j8,j7_ed120_2ds_4_injector___
+    designation: injector
+    designator: j7
+    footprint: ed120_2ds
+    id: '43'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 44_c25,c31,c29,c27_c_0805_handsoldering_4_22uf_16v___
-  designation: 22uf_16v
   designator: c25
-  footprint: c_0805_handsoldering
-  id: '44'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id167
+    all: 44_c25,c31,c29,c27_c_0805_handsoldering_4_22uf_16v___
+    designation: 22uf_16v
+    designator: c25
+    footprint: c_0805_handsoldering
+    id: '44'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 44_c25,c31,c29,c27_c_0805_handsoldering_4_22uf_16v___
-  designation: 22uf_16v
   designator: c31
-  footprint: c_0805_handsoldering
-  id: '44'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id168
+    all: 44_c25,c31,c29,c27_c_0805_handsoldering_4_22uf_16v___
+    designation: 22uf_16v
+    designator: c31
+    footprint: c_0805_handsoldering
+    id: '44'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 44_c25,c31,c29,c27_c_0805_handsoldering_4_22uf_16v___
-  designation: 22uf_16v
   designator: c29
-  footprint: c_0805_handsoldering
-  id: '44'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id169
+    all: 44_c25,c31,c29,c27_c_0805_handsoldering_4_22uf_16v___
+    designation: 22uf_16v
+    designator: c29
+    footprint: c_0805_handsoldering
+    id: '44'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 44_c25,c31,c29,c27_c_0805_handsoldering_4_22uf_16v___
-  designation: 22uf_16v
   designator: c27
-  footprint: c_0805_handsoldering
-  id: '44'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id170
+    all: 44_c25,c31,c29,c27_c_0805_handsoldering_4_22uf_16v___
+    designation: 22uf_16v
+    designator: c27
+    footprint: c_0805_handsoldering
+    id: '44'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 45_u15,u14,u13,u7_ti_so_powerpad_8_4_drv103h___
-  designation: drv103h
   designator: u15
-  footprint: ti_so_powerpad_8
-  id: '45'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id171
+    all: 45_u15,u14,u13,u7_ti_so_powerpad_8_4_drv103h___
+    designation: drv103h
+    designator: u15
+    footprint: ti_so_powerpad_8
+    id: '45'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 45_u15,u14,u13,u7_ti_so_powerpad_8_4_drv103h___
-  designation: drv103h
   designator: u14
-  footprint: ti_so_powerpad_8
-  id: '45'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id172
+    all: 45_u15,u14,u13,u7_ti_so_powerpad_8_4_drv103h___
+    designation: drv103h
+    designator: u14
+    footprint: ti_so_powerpad_8
+    id: '45'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 45_u15,u14,u13,u7_ti_so_powerpad_8_4_drv103h___
-  designation: drv103h
   designator: u13
-  footprint: ti_so_powerpad_8
-  id: '45'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id173
+    all: 45_u15,u14,u13,u7_ti_so_powerpad_8_4_drv103h___
+    designation: drv103h
+    designator: u13
+    footprint: ti_so_powerpad_8
+    id: '45'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 45_u15,u14,u13,u7_ti_so_powerpad_8_4_drv103h___
-  designation: drv103h
   designator: u7
-  footprint: ti_so_powerpad_8
-  id: '45'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id174
+    all: 45_u15,u14,u13,u7_ti_so_powerpad_8_4_drv103h___
+    designation: drv103h
+    designator: u7
+    footprint: ti_so_powerpad_8
+    id: '45'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 46_r42,r38,r34,r20_r_0805_handsoldering_4_26_1k___
-  designation: 26_1k
   designator: r42
-  footprint: r_0805_handsoldering
-  id: '46'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id175
+    all: 46_r42,r38,r34,r20_r_0805_handsoldering_4_26_1k___
+    designation: 26_1k
+    designator: r42
+    footprint: r_0805_handsoldering
+    id: '46'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 46_r42,r38,r34,r20_r_0805_handsoldering_4_26_1k___
-  designation: 26_1k
   designator: r38
-  footprint: r_0805_handsoldering
-  id: '46'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id176
+    all: 46_r42,r38,r34,r20_r_0805_handsoldering_4_26_1k___
+    designation: 26_1k
+    designator: r38
+    footprint: r_0805_handsoldering
+    id: '46'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 46_r42,r38,r34,r20_r_0805_handsoldering_4_26_1k___
-  designation: 26_1k
   designator: r34
-  footprint: r_0805_handsoldering
-  id: '46'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id177
+    all: 46_r42,r38,r34,r20_r_0805_handsoldering_4_26_1k___
+    designation: 26_1k
+    designator: r34
+    footprint: r_0805_handsoldering
+    id: '46'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 46_r42,r38,r34,r20_r_0805_handsoldering_4_26_1k___
-  designation: 26_1k
   designator: r20
-  footprint: r_0805_handsoldering
-  id: '46'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id178
+    all: 46_r42,r38,r34,r20_r_0805_handsoldering_4_26_1k___
+    designation: 26_1k
+    designator: r20
+    footprint: r_0805_handsoldering
+    id: '46'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 47_r40,r36,r22,r18_r_0805_handsoldering_4_47_5k___
-  designation: 47_5k
   designator: r40
-  footprint: r_0805_handsoldering
-  id: '47'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id179
+    all: 47_r40,r36,r22,r18_r_0805_handsoldering_4_47_5k___
+    designation: 47_5k
+    designator: r40
+    footprint: r_0805_handsoldering
+    id: '47'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 47_r40,r36,r22,r18_r_0805_handsoldering_4_47_5k___
-  designation: 47_5k
   designator: r36
-  footprint: r_0805_handsoldering
-  id: '47'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id180
+    all: 47_r40,r36,r22,r18_r_0805_handsoldering_4_47_5k___
+    designation: 47_5k
+    designator: r36
+    footprint: r_0805_handsoldering
+    id: '47'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 47_r40,r36,r22,r18_r_0805_handsoldering_4_47_5k___
-  designation: 47_5k
   designator: r22
-  footprint: r_0805_handsoldering
-  id: '47'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id181
+    all: 47_r40,r36,r22,r18_r_0805_handsoldering_4_47_5k___
+    designation: 47_5k
+    designator: r22
+    footprint: r_0805_handsoldering
+    id: '47'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 47_r40,r36,r22,r18_r_0805_handsoldering_4_47_5k___
-  designation: 47_5k
   designator: r18
-  footprint: r_0805_handsoldering
-  id: '47'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id182
+    all: 47_r40,r36,r22,r18_r_0805_handsoldering_4_47_5k___
+    designation: 47_5k
+    designator: r18
+    footprint: r_0805_handsoldering
+    id: '47'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 48_d15,d13,d11,d9_d_sma_handsoldering_4_b340a_13_f___
-  designation: b340a_13_f
   designator: d15
-  footprint: d_sma_handsoldering
-  id: '48'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id183
+    all: 48_d15,d13,d11,d9_d_sma_handsoldering_4_b340a_13_f___
+    designation: b340a_13_f
+    designator: d15
+    footprint: d_sma_handsoldering
+    id: '48'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 48_d15,d13,d11,d9_d_sma_handsoldering_4_b340a_13_f___
-  designation: b340a_13_f
   designator: d13
-  footprint: d_sma_handsoldering
-  id: '48'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id184
+    all: 48_d15,d13,d11,d9_d_sma_handsoldering_4_b340a_13_f___
+    designation: b340a_13_f
+    designator: d13
+    footprint: d_sma_handsoldering
+    id: '48'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 48_d15,d13,d11,d9_d_sma_handsoldering_4_b340a_13_f___
-  designation: b340a_13_f
   designator: d11
-  footprint: d_sma_handsoldering
-  id: '48'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id185
+    all: 48_d15,d13,d11,d9_d_sma_handsoldering_4_b340a_13_f___
+    designation: b340a_13_f
+    designator: d11
+    footprint: d_sma_handsoldering
+    id: '48'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 48_d15,d13,d11,d9_d_sma_handsoldering_4_b340a_13_f___
-  designation: b340a_13_f
   designator: d9
-  footprint: d_sma_handsoldering
-  id: '48'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id186
+    all: 48_d15,d13,d11,d9_d_sma_handsoldering_4_b340a_13_f___
+    designation: b340a_13_f
+    designator: d9
+    footprint: d_sma_handsoldering
+    id: '48'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 49_c30,c28,c26,c24_c_0805_handsoldering_4_1nf_50v___
-  designation: 1nf_50v
   designator: c30
-  footprint: c_0805_handsoldering
-  id: '49'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id187
+    all: 49_c30,c28,c26,c24_c_0805_handsoldering_4_1nf_50v___
+    designation: 1nf_50v
+    designator: c30
+    footprint: c_0805_handsoldering
+    id: '49'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 49_c30,c28,c26,c24_c_0805_handsoldering_4_1nf_50v___
-  designation: 1nf_50v
   designator: c28
-  footprint: c_0805_handsoldering
-  id: '49'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id188
+    all: 49_c30,c28,c26,c24_c_0805_handsoldering_4_1nf_50v___
+    designation: 1nf_50v
+    designator: c28
+    footprint: c_0805_handsoldering
+    id: '49'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 49_c30,c28,c26,c24_c_0805_handsoldering_4_1nf_50v___
-  designation: 1nf_50v
   designator: c26
-  footprint: c_0805_handsoldering
-  id: '49'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id189
+    all: 49_c30,c28,c26,c24_c_0805_handsoldering_4_1nf_50v___
+    designation: 1nf_50v
+    designator: c26
+    footprint: c_0805_handsoldering
+    id: '49'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 49_c30,c28,c26,c24_c_0805_handsoldering_4_1nf_50v___
-  designation: 1nf_50v
   designator: c24
-  footprint: c_0805_handsoldering
-  id: '49'
-  quantity: '4'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id190
+    all: 49_c30,c28,c26,c24_c_0805_handsoldering_4_1nf_50v___
+    designation: 1nf_50v
+    designator: c24
+    footprint: c_0805_handsoldering
+    id: '49'
+    quantity: '4'
+    supplier_and_ref: ''
 - all: 50_j2_raspberrypi_uhat_1_raspberry_pi_2_3___
-  designation: raspberry_pi_2_3
   designator: j2
-  footprint: raspberrypi_uhat
-  id: '50'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id191
+    all: 50_j2_raspberrypi_uhat_1_raspberry_pi_2_3___
+    designation: raspberry_pi_2_3
+    designator: j2
+    footprint: raspberrypi_uhat
+    id: '50'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 51_j3_ed120_3ds_1_tps___
-  designation: tps
   designator: j3
-  footprint: ed120_3ds
-  id: '51'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id192
+    all: 51_j3_ed120_3ds_1_tps___
+    designation: tps
+    designator: j3
+    footprint: ed120_3ds
+    id: '51'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 52_j5_ed120_2ds_1_head_temperature___
-  designation: head_temperature
   designator: j5
-  footprint: ed120_2ds
-  id: '52'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id193
+    all: 52_j5_ed120_2ds_1_head_temperature___
+    designation: head_temperature
+    designator: j5
+    footprint: ed120_2ds
+    id: '52'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 53_j4_ed120_2ds_1_iat___
-  designation: iat
   designator: j4
-  footprint: ed120_2ds
-  id: '53'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id194
+    all: 53_j4_ed120_2ds_1_iat___
+    designation: iat
+    designator: j4
+    footprint: ed120_2ds
+    id: '53'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 54_y1_resonator_smd_murata_3pin_3_2x1_3mm_1_cstce16m0v53_r0___
-  designation: cstce16m0v53_r0
   designator: y1
-  footprint: resonator_smd_murata_3pin_3_2x1_3mm
-  id: '54'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id195
+    all: 54_y1_resonator_smd_murata_3pin_3_2x1_3mm_1_cstce16m0v53_r0___
+    designation: cstce16m0v53_r0
+    designator: y1
+    footprint: resonator_smd_murata_3pin_3_2x1_3mm
+    id: '54'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 55_d1_microsmp_1_mss1p3l_m3_89a___
-  designation: mss1p3l_m3_89a
   designator: d1
-  footprint: microsmp
-  id: '55'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id196
+    all: 55_d1_microsmp_1_mss1p3l_m3_89a___
+    designation: mss1p3l_m3_89a
+    designator: d1
+    footprint: microsmp
+    id: '55'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 56_j1_ed120_4ds_1_o2___
-  designation: o2
   designator: j1
-  footprint: ed120_4ds
-  id: '56'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id197
+    all: 56_j1_ed120_4ds_1_o2___
+    designation: o2
+    designator: j1
+    footprint: ed120_4ds
+    id: '56'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 57_j12_ed120_3ds_1_oil_pressure___
-  designation: oil_pressure
   designator: j12
-  footprint: ed120_3ds
-  id: '57'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id198
+    all: 57_j12_ed120_3ds_1_oil_pressure___
+    designation: oil_pressure
+    designator: j12
+    footprint: ed120_3ds
+    id: '57'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 58_j13_ed120_3ds_1_fuel_pressure___
-  designation: fuel_pressure
   designator: j13
-  footprint: ed120_3ds
-  id: '58'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id199
+    all: 58_j13_ed120_3ds_1_fuel_pressure___
+    designation: fuel_pressure
+    designator: j13
+    footprint: ed120_3ds
+    id: '58'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 59_u3_tqfp_64_14x14mm_pitch0_8mm_1_atmega2561_16au___
-  designation: atmega2561_16au
   designator: u3
-  footprint: tqfp_64_14x14mm_pitch0_8mm
-  id: '59'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id200
+    all: 59_u3_tqfp_64_14x14mm_pitch0_8mm_1_atmega2561_16au___
+    designation: atmega2561_16au
+    designator: u3
+    footprint: tqfp_64_14x14mm_pitch0_8mm
+    id: '59'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 60_j6_ed120_3ds_1_crankshaft_position_sensor___
-  designation: crankshaft_position_sensor
   designator: j6
-  footprint: ed120_3ds
-  id: '60'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id201
+    all: 60_j6_ed120_3ds_1_crankshaft_position_sensor___
+    designation: crankshaft_position_sensor
+    designator: j6
+    footprint: ed120_3ds
+    id: '60'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 61_j14_ed120_3ds_1_power___
-  designation: power
   designator: j14
-  footprint: ed120_3ds
-  id: '61'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id202
+    all: 61_j14_ed120_3ds_1_power___
+    designation: power
+    designator: j14
+    footprint: ed120_3ds
+    id: '61'
+    quantity: '1'
+    supplier_and_ref: ''
 - all: 62_l3,l4_bourns_srr1260_2_47uh___
-  designation: 47uh
   designator: l3
-  footprint: bourns_srr1260
-  id: '62'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id203
+    all: 62_l3,l4_bourns_srr1260_2_47uh___
+    designation: 47uh
+    designator: l3
+    footprint: bourns_srr1260
+    id: '62'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 62_l3,l4_bourns_srr1260_2_47uh___
-  designation: 47uh
   designator: l4
-  footprint: bourns_srr1260
-  id: '62'
-  quantity: '2'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id204
+    all: 62_l3,l4_bourns_srr1260_2_47uh___
+    designation: 47uh
+    designator: l4
+    footprint: bourns_srr1260
+    id: '62'
+    quantity: '2'
+    supplier_and_ref: ''
 - all: 63_d4_d_sod_123f_1_d_schottky___
-  designation: d_schottky
   designator: d4
-  footprint: d_sod_123f
-  id: '63'
-  quantity: '1'
-  supplier_and_ref: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id205
+    all: 63_d4_d_sod_123f_1_d_schottky___
+    designation: d_schottky
+    designator: d4
+    footprint: d_sod_123f
+    id: '63'
+    quantity: '1'
+    supplier_and_ref: ''
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
+- *id031
+- *id032
+- *id033
+- *id034
+- *id035
+- *id036
+- *id037
+- *id038
+- *id039
+- *id040
+- *id041
+- *id042
+- *id043
+- *id044
+- *id045
+- *id046
+- *id047
+- *id048
+- *id049
+- *id050
+- *id051
+- *id052
+- *id053
+- *id054
+- *id055
+- *id056
+- *id057
+- *id058
+- *id059
+- *id060
+- *id061
+- *id062
+- *id063
+- *id064
+- *id065
+- *id066
+- *id067
+- *id068
+- *id069
+- *id070
+- *id071
+- *id072
+- *id073
+- *id074
+- *id075
+- *id076
+- *id077
+- *id078
+- *id079
+- *id080
+- *id081
+- *id082
+- *id083
+- *id084
+- *id085
+- *id086
+- *id087
+- *id088
+- *id089
+- *id090
+- *id091
+- *id092
+- *id093
+- *id094
+- *id095
+- *id096
+- *id097
+- *id098
+- *id099
+- *id100
+- *id101
+- *id102
+- *id103
+- *id104
+- *id105
+- *id106
+- *id107
+- *id108
+- *id109
+- *id110
+- *id111
+- *id112
+- *id113
+- *id114
+- *id115
+- *id116
+- *id117
+- *id118
+- *id119
+- *id120
+- *id121
+- *id122
+- *id123
+- *id124
+- *id125
+- *id126
+- *id127
+- *id128
+- *id129
+- *id130
+- *id131
+- *id132
+- *id133
+- *id134
+- *id135
+- *id136
+- *id137
+- *id138
+- *id139
+- *id140
+- *id141
+- *id142
+- *id143
+- *id144
+- *id145
+- *id146
+- *id147
+- *id148
+- *id149
+- *id150
+- *id151
+- *id152
+- *id153
+- *id154
+- *id155
+- *id156
+- *id157
+- *id158
+- *id159
+- *id160
+- *id161
+- *id162
+- *id163
+- *id164
+- *id165
+- *id166
+- *id167
+- *id168
+- *id169
+- *id170
+- *id171
+- *id172
+- *id173
+- *id174
+- *id175
+- *id176
+- *id177
+- *id178
+- *id179
+- *id180
+- *id181
+- *id182
+- *id183
+- *id184
+- *id185
+- *id186
+- *id187
+- *id188
+- *id189
+- *id190
+- *id191
+- *id192
+- *id193
+- *id194
+- *id195
+- *id196
+- *id197
+- *id198
+- *id199
+- *id200
+- *id201
+- *id202
+- *id203
+- *id204
+- *id205
 projects_flat: projects_flat/cepr_vw_bus_project_ecu/version_current/working
 projects_folder: projects_folder/cepr/vw-bus-project-ecu/version_current/working
 repo:
