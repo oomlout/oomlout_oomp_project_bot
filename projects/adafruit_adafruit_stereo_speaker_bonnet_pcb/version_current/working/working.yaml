@@ -13,6 +13,58 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_stereo_speaker_bonnet_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_stereo_speaker_bonnet_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_stereo_speaker_bonnet_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0805_nooutline,c2_c3,0_1uf,0805_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0805_nooutline,c2_c3,0_1uf,0805_no,2,_,
+- all: 2,,cap_ceramic0805_nooutline,c1_c6_c9_c10,10uf,0805_no,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic0805_nooutline,c1_c6_c9_c10,10uf,0805_no,4,_,
+- all: 3,,header_1x25,conn1,header_1x25,1x25_round_70mil,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,header_1x25,conn1,header_1x25,1x25_round_70mil,1,_,
+- all: 4,,ferrite_0805no,fb1_fb2_fb3_fb4,ferrite,0805_no,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,ferrite_0805no,fb1_fb2_fb3_fb4,ferrite,0805_no,4,_,
+- all: 5,,header_1x376mil,jp2_jp4_jp5,header_1x376mil,1x03_round_76,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,header_1x376mil,jp2_jp4_jp5,header_1x376mil,1x03_round_76,3,_,
+- all: 6,,audioamp_max98357,left0_right0,max98357a,qfn16_3mm,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,audioamp_max98357,left0_right0,max98357a,qfn16_3mm,2,_,
+- all: 7,,resistor0805_nooutline,r2,100k,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,resistor0805_nooutline,r2,100k,0805_no,1,_,
+- all: 8,,resistor0805_nooutline,r1,390k,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,resistor0805_nooutline,r1,390k,0805_no,1,_,
+- all: 9,,raspberrypi_bplus_bonnet_thmsmt,rpi1,raspberrypi_bplus_bonnet_thmsmt,pi_bonnet_thmsmt,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,raspberrypi_bplus_bonnet_thmsmt,rpi1,raspberrypi_bplus_bonnet_thmsmt,pi_bonnet_thmsmt,1,_,
+- all: 10,,termblock_1x2,x1_x2,3_5mm,termblock_1x2_3_5mm,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,termblock_1x2,x1_x2,3_5mm,termblock_1x2_3_5mm,2,_,
+- all: 11,,con_jst_ph_4pin,x3,4_jst_ph,jstph4,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,con_jst_ph_4pin,x3,4_jst_ph,jstph4,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_03_17_21_23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_03_17_21_23
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,12_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,12
+- all: component_count_,26_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,26_(0_smd_0_tht)
+- all: fitted_components_,22_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,22_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,22_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,22
 projects_flat: projects_flat/adafruit_adafruit_stereo_speaker_bonnet_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_stereo_speaker_bonnet_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB/version_current/working

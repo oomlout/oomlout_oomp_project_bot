@@ -13,6 +13,52 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_eyelights_led_glasses_and_driver_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_eyelights_led_glasses_and_driver_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_eyelights_led_glasses_and_driver_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0603_no,c2_c6,1uf,0603_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0603_no,c2_c6,1uf,0603_no,2,_,
+- all: 2,,cap_ceramic0805_nooutline,c1_c3_c4_c5,10uf,0805_no,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic0805_nooutline,c1_c3_c4_c5,10uf,0805_no,4,_,
+- all: 3,,stemma_i2c_qt,conn1_conn2,stemma_i2c_qt,jst_sh4,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,stemma_i2c_qt,conn1_conn2,stemma_i2c_qt,jst_sh4,2,_,
+- all: 4,,rgbled_ca_2121,led1_led2_led3_led4_led5_led6_led7_led8_led9_led10_led11_led12_led13_led14_led15_led16_led17_led18_led19_led20_led21_led22_led23_led24_led25_led26_led27_led28_led29_led30_led31_led32_led33_led34_led35_led36_led37_led38_led39_led40_led41_led42_led43_led44_led45_led46_led47_led48_led49_led50_led51_led52_led53_led54_led55_led56_led57_led58_led59_led60_led61_led62_led63_led64_led66_led67_led68_led69_led70_led71_led72_led73_led74_led75_led76_led77_led78_led79_led80_led81_led82_led83_led84_led85_led86_led87_led88_led89_led90_led91_led92_led93_led94_led95_led96_led97_led98_led99_led100_led101_led102_led103_led104_led105_led106_led107_led108_led109_led110_led111_led112_led113_led114_led115_led116_led117,rgbled_ca_2121,rgbled_2121,116,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,rgbled_ca_2121,led1_led2_led3_led4_led5_led6_led7_led8_led9_led10_led11_led12_led13_led14_led15_led16_led17_led18_led19_led20_led21_led22_led23_led24_led25_led26_led27_led28_led29_led30_led31_led32_led33_led34_led35_led36_led37_led38_led39_led40_led41_led42_led43_led44_led45_led46_led47_led48_led49_led50_led51_led52_led53_led54_led55_led56_led57_led58_led59_led60_led61_led62_led63_led64_led66_led67_led68_led69_led70_led71_led72_led73_led74_led75_led76_led77_led78_led79_led80_led81_led82_led83_led84_led85_led86_led87_led88_led89_led90_led91_led92_led93_led94_led95_led96_led97_led98_led99_led100_led101_led102_led103_led104_led105_led106_led107_led108_led109_led110_led111_led112_led113_led114_led115_led116_led117,rgbled_ca_2121,rgbled_2121,116,_,
+- all: 5,,resistor_0603_noout,r4_r8_r10_r13_r16_r19_r22_r25_r27_r30_r33_r36_r39,22,0603_no,13,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,resistor_0603_noout,r4_r8_r10_r13_r16_r19_r22_r25_r27_r30_r33_r36_r39,22,0603_no,13,_,
+- all: 6,,resistor_0603_noout,r2_r3_r5_r6_r9_r11_r12_r14_r15_r17_r18_r20_r21_r23_r24_r26_r28_r29_r31_r32_r34_r35_r37_r38_r40_r41,51,0603_no,26,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,resistor_0603_noout,r2_r3_r5_r6_r9_r11_r12_r14_r15_r17_r18_r20_r21_r23_r24_r26_r28_r29_r31_r32_r34_r35_r37_r38_r40_r41,51,0603_no,26,_,
+- all: 7,,resistor_0603_noout,r1_r7_r42,2_2k,0603_no,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,resistor_0603_noout,r1_r7_r42,2_2k,0603_no,3,_,
+- all: 8,,is31fl3741,x1,is31fl3741,qfn60_7mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,is31fl3741,x1,is31fl3741,qfn60_7mm,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_33_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_33
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,8_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,8
+- all: component_count_,167_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,167_(0_smd_0_tht)
+- all: fitted_components_,167_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,167_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,167_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,167
 projects_flat: projects_flat/adafruit_adafruit_eyelights_led_glasses_and_driver_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_eyelights_led_glasses_and_driver_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-EyeLights-LED-Glasses-and-Driver-PCB/version_current/working

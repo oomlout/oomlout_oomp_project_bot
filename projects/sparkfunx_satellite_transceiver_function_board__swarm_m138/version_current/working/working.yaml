@@ -13,6 +13,66 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfunx_satellite_transceiver_function_board__swarm_m138\version_current\working
 oomp_key: oomp_projects_flat_sparkfunx_satellite_transceiver_function_board_swarm_m138
 oomp_key_simple: projects_flat_sparkfunx_satellite_transceiver_function_board_swarm_m138
+parts_verbose:
+- all: 1,,0_1uf_0603_25v_5%,c2_c3_c6_c7_c8,0_1uf_0603_25v_5%,0603,5,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,0_1uf_0603_25v_5%,c2_c3_c6_c7_c8,0_1uf_0603_25v_5%,0603,5,_,
+- all: 2,,100uf_polar_eia3528_10v_20%(tant),c4_c5,100uf_polar_eia3528_10v_20%(tant),eia3528,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,100uf_polar_eia3528_10v_20%(tant),c4_c5,100uf_polar_eia3528_10v_20%(tant),eia3528,2,_,
+- all: 3,,10uf_0603_6_3v_20%,c1_c9,10uf_0603_6_3v_20%,0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,10uf_0603_6_3v_20%,c1_c9,10uf_0603_6_3v_20%,0603,2,_,
+- all: 4,,jumper_smt_2_no_silk,en0_ewp0,jumper_smt_2_no_silk,smt_jumper_2_no_silk,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,jumper_smt_2_no_silk,en0_ewp0,jumper_smt_2_no_silk,smt_jumper_2_no_silk,2,_,
+- all: 5,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 6,,jumper_smt_3_1_nc_trace_silk,gpio1,jumper_smt_3_1_nc_trace_silk,smt_jumper_3_1_nc_trace_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,jumper_smt_3_1_nc_trace_silk,gpio1,jumper_smt_3_1_nc_trace_silk,smt_jumper_3_1_nc_trace_silk,1,_,
+- all: 7,,stand_off_reflow_m2_5_1_5mm_tall,h5_h6,stand_off_reflow_m2_5_1_5mm_tall,stand_off_reflow_m2_5,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,stand_off_reflow_m2_5_1_5mm_tall,h5_h6,stand_off_reflow_m2_5_1_5mm_tall,stand_off_reflow_m2_5,2,_,
+- all: 8,,micromod_function_standard,j3,micromod_function_standard,m_2_card_e_22_function_standard,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,micromod_function_standard,j3,micromod_function_standard,m_2_card_e_22_function_standard,1,_,
+- all: 9,,oshw_logos,logo2,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,oshw_logos,logo2,oshw_logos,oshw_logo_s,1,_,
+- all: 10,,special_instructions_ordering,logo1,special_instructions_ordering,ordering_instructions,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,special_instructions_ordering,logo1,special_instructions_ordering,ordering_instructions,1,_,
+- all: 11,,100kohm_0603_1_10w_1%,r1_r2_r3_r4,100kohm_0603_1_10w_1%,0603,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,100kohm_0603_1_10w_1%,r1_r2_r3_r4,100kohm_0603_1_10w_1%,0603,4,_,
+- all: 12,,eeprom_i2c512k,u3,eeprom_i2c512k,so08,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,eeprom_i2c512k,u3,eeprom_i2c512k,so08,1,_,
+- all: 13,,mic94064_5_mic94064yc6,u2,mic94064_5_mic94064yc6,sc_70_6,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,mic94064_5_mic94064yc6,u2,mic94064_5_mic94064yc6,sc_70_6,1,_,
+- all: 14,,swarm_m138_transceiver_main,u1,swarm_m138_transceiver_main,m_2_swarm_m138_a,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,swarm_m138_transceiver_main,u1,swarm_m138_transceiver_main,m_2_swarm_m138_a,1,_,
+- all: 15,,sparkx_logo5,u$1_u$2,sparkx_logo5,sparkx_large,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,sparkx_logo5,u$1_u$2,sparkx_logo5,sparkx_large,2,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_15
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,15
+- all: component_count_,27_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,27_(0_smd_0_tht)
+- all: fitted_components_,27_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,27_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,27_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,27
 projects_flat: projects_flat/sparkfunx_satellite_transceiver_function_board__swarm_m138/version_current/working
 projects_folder: projects_folder/sparkfunx/Satellite_Transceiver_Function_Board__Swarm_M138/version_current/working
 repo:

@@ -4,7 +4,11 @@ import oom_markdown
 
 def load_data():
     print("loading data")
-    github_data = "https://github.com/oomlout/oomlout_project_src"
+    github_datas = []
+    github_datas.append("https://github.com/oomlout/oomlout_project_src")
+    github_datas.append("https://github.com/oomlout/oomlout_part_src")
+
+
 
     #make tmp/data directory if it doesn't already exist
     if not os.path.exists("tmp\\data\\"):

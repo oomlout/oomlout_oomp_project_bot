@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\asukiaaa_ltc7004_with_mosfet\version_current\working
 oomp_key: oomp_projects_flat_asukiaaa_ltc7004_with_mosfet
 oomp_key_simple: projects_flat_asukiaaa_ltc7004_with_mosfet
+parts_verbose:
+- all: 1_rv1_r_1206_3216metric_1_varistor___
+  designation: varistor
+  designator: rv1
+  footprint: r_1206_3216metric
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u1_gatedriver_ltc7004_1_gatedriver_ltc7004___
+  designation: gatedriver_ltc7004
+  designator: u1
+  footprint: gatedriver_ltc7004
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_j1_terminal_9_52mm_1x02_1714971_1_conn_01x02___
+  designation: conn_01x02
+  designator: j1
+  footprint: terminal_9_52mm_1x02_1714971
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_r1_r_0603_1608metric_1_100___
+  designation: '100'
+  designator: r1
+  footprint: r_0603_1608metric
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_c3,c2_c_0603_1608metric_2_0_1uf___
+  designation: 0_1uf
+  designator: c3
+  footprint: c_0603_1608metric
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_c3,c2_c_0603_1608metric_2_0_1uf___
+  designation: 0_1uf
+  designator: c2
+  footprint: c_0603_1608metric
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_j3_terminalblock_phoenix_mkds_1,5_2_5_08_1x02_p5_08mm_horizontal_1_conn_01x02___
+  designation: conn_01x02
+  designator: j3
+  footprint: terminalblock_phoenix_mkds_1,5_2_5_08_1x02_p5_08mm_horizontal
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_j2_ns_tech_grove_1x04_p2mm_vertical_1_grove_i2c_connector___
+  designation: grove_i2c_connector
+  designator: j2
+  footprint: ns_tech_grove_1x04_p2mm_vertical
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_q1_dfn5_1_q_nmos_sgd___
+  designation: q_nmos_sgd
+  designator: q1
+  footprint: dfn5
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 9_c1_c_0603_1608metric_1_1uf___
+  designation: 1uf
+  designator: c1
+  footprint: c_0603_1608metric
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/asukiaaa_ltc7004_with_mosfet/version_current/working
 projects_folder: projects_folder/asukiaaa/LTC7004-with-mosfet/version_current/working
 repo:

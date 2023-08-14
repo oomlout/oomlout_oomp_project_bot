@@ -13,6 +13,64 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_mpr121_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_mpr121_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_mpr121_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0603_no,c4_c7,0_1uf,0603_no,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 1,,cap_ceramic0603_no,c4_c7,0_1uf,0603_no,2,_,,
+- all: 2,,cap_ceramic0805_nooutline,c5_c6,10uf,0805_no,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 2,,cap_ceramic0805_nooutline,c5_c6,10uf,0805_no,2,_,,
+- all: 3,,stemma_i2c_qt,conn3_conn4,stemma_i2c_qt,jst_sh4,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 3,,stemma_i2c_qt,conn3_conn4,stemma_i2c_qt,jst_sh4,2,_,,
+- all: 4,,led0603_nooutline,d2,green,chipled_0603_nooutline,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 4,,led0603_nooutline,d2,green,chipled_0603_nooutline,1,_,,
+- all: 5,,led0603_nooutline,d1,red,chipled_0603_nooutline,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 5,,led0603_nooutline,d1,red,chipled_0603_nooutline,1,_,,
+- all: 6,,header_1x13,jp1,header_1x13,1x13_round_70,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 6,,header_1x13,jp1,header_1x13,1x13_round_70,1,_,,
+- all: 7,,header_1x770mil,jp2,header_1x770mil,1x07_round_70,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 7,,header_1x770mil,jp2,header_1x770mil,1x07_round_70,1,_,,
+- all: 8,,mosfet_n_dual,q3,bss138,sot363,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 8,,mosfet_n_dual,q3,bss138,sot363,1,_,,
+- all: 9,,resistor_0603_noout,r7,1k,0603_no,1,_,,e_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 9,,resistor_0603_noout,r7,1k,0603_no,1,_,,e
+- all: 10,,resistor_0603_noout,r1_r6_r9,10k,0603_no,3,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 10,,resistor_0603_noout,r1_r6_r9,10k,0603_no,3,_,,
+- all: 11,,resistor_4pack,r8,10k,respack_4x0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 11,,resistor_4pack,r8,10k,respack_4x0603,1,_,,
+- all: 12,,resistor_0603_noout,r5,75k,0603_no,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 12,,resistor_0603_noout,r5,75k,0603_no,1,_,,
+- all: 13,,vreg_sot23_5,u2,ap2112k_3_3,sot23_5,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 13,,vreg_sot23_5,u2,ap2112k_3_3,sot23_5,1,_,,
+- all: 14,,mpr121q,u1,mpr121,qfn20_3mm_nothermal,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 14,,mpr121q,u1,mpr121,qfn20_3mm_nothermal,1,_,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: revision_,
+- all: date_,2023_08_03_17_21_22_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: date_,2023_08_03_17_21_22
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: statistics_
+- all: component_groups_,14_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: component_groups_,14
+- all: component_count_,19_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: component_count_,19_(0_smd_0_tht)
+- all: fitted_components_,19_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: fitted_components_,19_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: number_of_pcbs_,1
+- all: total_components_,19_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: total_components_,19
 projects_flat: projects_flat/adafruit_adafruit_mpr121_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_mpr121_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-MPR121-PCB/version_current/working

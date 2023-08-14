@@ -13,6 +13,74 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_airlift_shield_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_airlift_shield_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_airlift_shield_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0805_nooutline,c5,1uf,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0805_nooutline,c5,1uf,0805_no,1,_,
+- all: 2,,cap_ceramic0805_nooutline,c1_c2_c3_c4_c6_c7,10uf,0805_no,6,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic0805_nooutline,c1_c2_c3_c4_c6_c7,10uf,0805_no,6,_,
+- all: 3,,led_rgb_plcc6_3535,d1,rgb_plcc,rgbled_3535_plcc6,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,led_rgb_plcc6_3535,d1,rgb_plcc,rgbled_3535_plcc6,1,_,
+- all: 4,,atecc108,ecc1,atecc108,soic8,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,atecc108,ecc1,atecc108,soic8,1,_,
+- all: 5,,74ahc1g125,ic1,74ahc1g125,sot23_5l,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,74ahc1g125,ic1,74ahc1g125,sot23_5l,1,_,
+- all: 6,,lp298xs,ic4,lp298xs,sot23_5l,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,lp298xs,ic4,lp298xs,sot23_5l,1,_,
+- all: 7,,header_1x1070mil,jp5,header_1x1070mil,1x10_round70,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,header_1x1070mil,jp5,header_1x1070mil,1x10_round70,1,_,
+- all: 8,,header_1x1round,jp1_jp6_jp7_jp8_jp9_jp10_jp11_jp12_jp13_jp14,header_1x1round,1x01_round,10,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,header_1x1round,jp1_jp6_jp7_jp8_jp9_jp10_jp11_jp12_jp13_jp14,header_1x1round,1x01_round,10,_,
+- all: 9,,header_1x670mil,jp4,header_1x670mil,1x06_round_70,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,header_1x670mil,jp4,header_1x670mil,1x06_round_70,1,_,
+- all: 10,,header_1x870mil,jp2_jp3,header_1x870mil,1x08_round_70,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,header_1x870mil,jp2_jp3,header_1x870mil,1x08_round_70,2,_,
+- all: 11,,arduino_r3_icsp_nodim,m1,arduino_r3_icsp_nodim,arduinor3_icsp_nodim,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,arduino_r3_icsp_nodim,m1,arduino_r3_icsp_nodim,arduinor3_icsp_nodim,1,_,
+- all: 12,,mosfet_nwide,q3,bss138,sot23_wide,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,mosfet_nwide,q3,bss138,sot23_wide,1,_,
+- all: 13,,resistor_0603_noout,r1_r5_r6,1k,0603_no,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,resistor_0603_noout,r1_r5_r6,1k,0603_no,3,_,
+- all: 14,,resistor_0603_noout,r2_r7_r8,10k,0603_no,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,resistor_0603_noout,r2_r7_r8,10k,0603_no,3,_,
+- all: 15,,resistor_4pack,r4,10k,respack_4x0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,resistor_4pack,r4,10k,respack_4x0603,1,_,
+- all: 16,,switch_tact_smt_evqq2_small,sw2,tactile,evq_q2_smaller,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,switch_tact_smt_evqq2_small,sw2,tactile,evq_q2_smaller,1,_,
+- all: 17,,74hc4050d,u2,74hc4050,soic16,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,74hc4050d,u2,74hc4050,soic16,1,_,
+- all: 18,,esp32_wroom32,x2,esp32_wroom32,wroom32,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,esp32_wroom32,x2,esp32_wroom32,wroom32,1,_,
+- all: 19,,microsd,x1,microsd,microsd,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,microsd,x1,microsd,microsd,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_32_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_32
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,19_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,19
+- all: component_count_,38_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,38_(0_smd_0_tht)
+- all: fitted_components_,38_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,38_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,38_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,38
 projects_flat: projects_flat/adafruit_adafruit_airlift_shield_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_airlift_shield_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Airlift-Shield-PCB/version_current/working

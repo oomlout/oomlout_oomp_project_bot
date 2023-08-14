@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_pyruler_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_pyruler_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_pyruler_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0603_no,c2_c3,1uf,0603_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0603_no,c2_c3,1uf,0603_no,2,_,
+- all: 2,,cap_ceramic0805_nooutline,c1_c8,10uf,0805_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic0805_nooutline,c1_c8,10uf,0805_no,2,_,
+- all: 3,,usb_micro_narrow,cn1,4u#20329,4uconn_20329_narrow,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,usb_micro_narrow,cn1,4u#20329,4uconn_20329_narrow,1,_,
+- all: 4,,diode_sod_123fl,d2_d3,schottky,sod_123fl,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,diode_sod_123fl,d2_d3,schottky,sod_123fl,2,_,
+- all: 5,,atsamd21e,ic3,atsamd21e,qfn32_5mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,atsamd21e,ic3,atsamd21e,qfn32_5mm,1,_,
+- all: 6,,header_1x570mil,jp3_jp4,header_1x570mil,1x05_round_70,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,header_1x570mil,jp3_jp4,header_1x570mil,1x05_round_70,2,_,
+- all: 7,,led0603_nooutline,l3,blue,chipled_0603_nooutline,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,led0603_nooutline,l3,blue,chipled_0603_nooutline,1,_,
+- all: 8,,led0603_nooutline,l4_pwr0,green,chipled_0603_nooutline,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,led0603_nooutline,l4_pwr0,green,chipled_0603_nooutline,2,_,
+- all: 9,,led0603_nooutline,l0_l2,red,chipled_0603_nooutline,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,led0603_nooutline,l0_l2,red,chipled_0603_nooutline,2,_,
+- all: 10,,led0603_nooutline,l1,yellow,chipled_0603_nooutline,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,led0603_nooutline,l1,yellow,chipled_0603_nooutline,1,_,
+- all: 11,,apa1022020,led1,ap102_2020,apa102_2020,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,apa1022020,led1,ap102_2020,apa102_2020,1,_,
+- all: 12,,switch_tact_smt4_6x2_8,q2,reset,btn_kmr2_4_6x2_8,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,switch_tact_smt4_6x2_8,q2,reset,btn_kmr2_4_6x2_8,1,_,
+- all: 13,,resistor_0603_noout,r1_r2_r3,2_2k,0603_no,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,resistor_0603_noout,r1_r2_r3,2_2k,0603_no,3,_,
+- all: 14,,resistor_0603_noout,r4_r5_r6,10k,0603_no,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,resistor_0603_noout,r4_r5_r6,10k,0603_no,3,_,
+- all: 15,,resistor_0603_noout,r7,2m,0603_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,resistor_0603_noout,r7,2m,0603_no,1,_,
+- all: 16,,_tpb1,27_,swc0_swd0,_tpb1,27_,_b1,27_,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,_tpb1,27_,swc0_swd0,_tpb1,27_,_b1,27_,2,_,
+- all: 17,,vreg_sot23_5,u1,ap2112k_3_3,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,vreg_sot23_5,u1,ap2112k_3_3,sot23_5,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_03_17_21_23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_03_17_21_23
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,17_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,17
+- all: component_count_,28_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,28_(0_smd_0_tht)
+- all: fitted_components_,28_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,28_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,28_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,28
 projects_flat: projects_flat/adafruit_adafruit_pyruler_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_pyruler_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-PyRuler-PCB/version_current/working

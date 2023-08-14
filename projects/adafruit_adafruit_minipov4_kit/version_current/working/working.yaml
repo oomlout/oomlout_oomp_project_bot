@@ -13,6 +13,67 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_minipov4_kit\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_minipov4_kit
 oomp_key_simple: projects_flat_adafruit_adafruit_minipov4_kit
+parts_verbose:
+- all: 1,,cappth2,c1,100n,cap_pth_small2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cappth2,c1,100n,cap_pth_small2,1,_,
+- all: 2,,cpol_use2_5_6,c2_c3,100uf,_e2,5_6_,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cpol_use2_5_6,c2_c3,100uf,_e2,5_6_,2,_,
+- all: 3,,zener_diodedo34_7,d3_d4,zener_diodedo34_7,do34z7,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,zener_diodedo34_7,d3_d4,zener_diodedo34_7,do34z7,2,_,
+- all: 4,,avr_mega8_ppth,ic1,avr_mega8_ppth,dil28_3,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,avr_mega8_ppth,ic1,avr_mega8_ppth,dil28_3,1,_,
+- all: 5,,avr_isp_6,isp0,avr_isp_6,avr_isp_6,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,avr_isp_6,isp0,avr_isp_6,avr_isp_6,1,_,
+- all: 6,,pinhd_1x8big,jp2,breakout,1x08_big,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,pinhd_1x8big,jp2,breakout,1x08_big,1,_,
+- all: 7,,header_1x2,jp1,header_1x2,1x02_oval,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,header_1x2,jp1,header_1x2,1x02_oval,1,_,
+- all: 8,,led_rgb_ca_piranha,led1_led2_led3_led4_led5_led6_led7_led8,led_rgb_ca_piranha,piranha5mm,8,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,led_rgb_ca_piranha,led1_led2_led3_led4_led5_led6_led7_led8,led_rgb_ca_piranha,piranha5mm,8,_,
+- all: 9,,cermoscill,q1,12mhz,cerm_osc,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,cermoscill,q1,12mhz,cerm_osc,1,_,
+- all: 10,,transistor_npnto92,q2_q3_q4,2n2222,to_92,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,transistor_npnto92,q2_q3_q4,2n2222,to_92,3,_,
+- all: 11,,r_us_0207_9,r1_r2,47r,0207_9,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,r_us_0207_9,r1_r2,47r,0207_9,2,_,
+- all: 12,,r_us_0207_9,r3_r14_r15_r16,2k2,0207_9,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,r_us_0207_9,r3_r14_r15_r16,2k2,0207_9,4,_,
+- all: 13,,r_us_0207_9,r5_r6_r7_r8_r9_r10_r11_r12,r_us_0207_9,0207_9,8,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,r_us_0207_9,r5_r6_r7_r8_r9_r10_r11_r12,r_us_0207_9,0207_9,8,_,
+- all: "14,,trimpot3386,tm2,10k\xEE\xA9,trim_3386,1,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "14,,trimpot3386,tm2,10k\xEE\
+    \xA9,trim_3386,1,_,"
+- all: 15,,usbpth,usb0,usbpth,usb_b_pth,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,usbpth,usb0,usbpth,usb_b_pth,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_03_17_21_22_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_03_17_21_22
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,15
+- all: component_count_,37_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,37_(0_smd_0_tht)
+- all: fitted_components_,37_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,37_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,37_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,37
 projects_flat: projects_flat/adafruit_adafruit_minipov4_kit/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_minipov4_kit/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-MiniPOV4-Kit/version_current/working

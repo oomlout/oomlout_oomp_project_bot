@@ -15,7 +15,8 @@ def go_through_directories():
             #if any of filter is in filename
             if any(x in filename for x in filter):
                 if file.endswith(".kicad_pcb"):
-                    oom_kicad.generate_outputs(filename=filename)
+                    oom_kicad.genera
+                    te_outputs(filename=filename)
 
 
 if __name__ == '__main__':

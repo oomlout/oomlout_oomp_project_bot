@@ -13,6 +13,28 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\asukiaaa_sidebbforraspberrypi\version_current\working
 oomp_key: oomp_projects_flat_asukiaaa_sidebbforraspberrypi
 oomp_key_simple: projects_flat_asukiaaa_sidebbforraspberrypi
+parts_verbose:
+- all: 1_p1_pinheader_2x20_p2_54mm_vertical_1_conn_02x20_odd_even___
+  designation: conn_02x20_odd_even
+  designator: p1
+  footprint: pinheader_2x20_p2_54mm_vertical
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j2,j1_pinsocket_1x17_p2_54mm_vertical_2_conn_01x17___
+  designation: conn_01x17
+  designator: j2
+  footprint: pinsocket_1x17_p2_54mm_vertical
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_j2,j1_pinsocket_1x17_p2_54mm_vertical_2_conn_01x17___
+  designation: conn_01x17
+  designator: j1
+  footprint: pinsocket_1x17_p2_54mm_vertical
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/asukiaaa_sidebbforraspberrypi/version_current/working
 projects_folder: projects_folder/asukiaaa/SideBBForRaspberryPi/version_current/working
 repo:

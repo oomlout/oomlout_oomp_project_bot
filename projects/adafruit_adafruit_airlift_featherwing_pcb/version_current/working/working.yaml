@@ -13,6 +13,66 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_airlift_featherwing_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_airlift_featherwing_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_airlift_featherwing_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0603_no,c12,0_1uf,0603_no,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 1,,cap_ceramic0603_no,c12,0_1uf,0603_no,1,_,,
+- all: 2,,cap_ceramic0805_nooutline,c1_c2_c6_c8_c10,10uf,0805_no,5,_,,b_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 2,,cap_ceramic0805_nooutline,c1_c2_c6_c8_c10,10uf,0805_no,5,_,,b
+- all: 3,,led_rgb_plcc6cree_clv6a,d3,led_rgb_plcc6cree_clv6a,rgbled_plcc6,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 3,,led_rgb_plcc6cree_clv6a,d3,led_rgb_plcc6cree_clv6a,rgbled_plcc6,1,_,,
+- all: 4,,diode_schottkysod_123,d4,mbr120,sod_123,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 4,,diode_schottkysod_123,d4,mbr120,sod_123,1,_,,
+- all: 5,,atecc108,ecc1,atecc108,soic8,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 5,,atecc108,ecc1,atecc108,soic8,1,_,,
+- all: 6,,74ahc1g125,ic2,74ahc1g125,sot23_5l,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 6,,74ahc1g125,ic2,74ahc1g125,sot23_5l,1,_,,
+- all: 7,,header_1x12_min,jp3,header_1x12_min,1x12_round_min,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 7,,header_1x12_min,jp3,header_1x12_min,1x12_round_min,1,_,,
+- all: 8,,header_1x16_min,jp1,header_1x16_min,1x16_round_min,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 8,,header_1x16_min,jp1,header_1x16_min,1x16_round_min,1,_,,
+- all: 9,,mosfet_p,q3,dmg2305,sot23_r,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 9,,mosfet_p,q3,dmg2305,sot23_r,1,_,,
+- all: 10,,resistor_0603_noout,r2_r3_r4,1k,0603_no,3,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 10,,resistor_0603_noout,r2_r3_r4,1k,0603_no,3,_,,
+- all: 11,,resistor_0603_noout,r1_r5_r6,10k,0603_no,3,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 11,,resistor_0603_noout,r1_r5_r6,10k,0603_no,3,_,,
+- all: 12,,resistor_0603_noout,r7_r12,100k,0603_no,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 12,,resistor_0603_noout,r7_r12,100k,0603_no,2,_,,
+- all: 13,,switch_tact_smt4_6x2_8,sw2,kmr2,btn_kmr2_4_6x2_8,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 13,,switch_tact_smt4_6x2_8,sw2,kmr2,btn_kmr2_4_6x2_8,1,_,,
+- all: 14,,vreg_sot23_5,u2,ap2112_3_3,sot23_5,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 14,,vreg_sot23_5,u2,ap2112_3_3,sot23_5,1,_,,
+- all: 15,,esp32_wroom32_skinny,x3,esp32_wroom32_skinny,wroom32_skinny,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 15,,esp32_wroom32_skinny,x3,esp32_wroom32_skinny,wroom32_skinny,1,_,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: revision_,
+- all: date_,2023_08_02_17_08_32_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: date_,2023_08_02_17_08_32
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: statistics_
+- all: component_groups_,15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: component_groups_,15
+- all: component_count_,24_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: component_count_,24_(0_smd_0_tht)
+- all: fitted_components_,24_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: fitted_components_,24_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: number_of_pcbs_,1
+- all: total_components_,24_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: total_components_,24
 projects_flat: projects_flat/adafruit_adafruit_airlift_featherwing_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_airlift_featherwing_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-AirLift-FeatherWing-PCB/version_current/working

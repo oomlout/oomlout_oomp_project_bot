@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_bluefruit_classic_pcbs\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_bluefruit_classic_pcbs
 oomp_key_simple: projects_flat_adafruit_adafruit_bluefruit_classic_pcbs
+parts_verbose:
+- all: 1,,cap_ceramic0805_nooutline,c1_c4,10uf,0805_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0805_nooutline,c1_c4,10uf,0805_no,2,_,
+- all: 2,,diodesod_123,d2,mbr120,sod_123,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,diodesod_123,d2,mbr120,sod_123,1,_,
+- all: 3,,74lvc2g34dbvr,ic1,74lvc2g34dbvr,sot23_6,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,74lvc2g34dbvr,ic1,74lvc2g34dbvr,sot23_6,1,_,
+- all: 4,,header_2x3,jp5,header_2x3,2x03_round_70mil,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,header_2x3,jp5,header_2x3,2x03_round_70mil,1,_,
+- all: 5,,pinhd_1x1cb,jp1_jp2,pinhd_1x1cb,1x01_cleanbig,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,pinhd_1x1cb,jp1_jp2,pinhd_1x1cb,1x01_cleanbig,2,_,
+- all: 6,,pinhd_1x6b,jp4,pinhd_1x6b,1x06_big,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,pinhd_1x6b,jp4,pinhd_1x6b,1x06_big,1,_,
+- all: 7,,led0805_nooutline,led3_led4,blue,chipled_0805_nooutline,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,led0805_nooutline,led3_led4,blue,chipled_0805_nooutline,2,_,
+- all: 8,,led0805_nooutline,led1,red,chipled_0805_nooutline,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,led0805_nooutline,led1,red,chipled_0805_nooutline,1,_,
+- all: 9,,resistor0805_nooutline,r8_r10,220,0805_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,resistor0805_nooutline,r8_r10,220,0805_no,2,_,
+- all: 10,,resistor0805_nooutline,r2,470,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,resistor0805_nooutline,r2,470,0805_no,1,_,
+- all: 11,,resistor0805_nooutline,r5,2_2k,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,resistor0805_nooutline,r5,2_2k,0805_no,1,_,
+- all: 12,,resistor0805_nooutline,r1,10k,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,resistor0805_nooutline,r1,10k,0805_no,1,_,
+- all: 13,,resistor_0805mp,r6,10k,_0805mp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,resistor_0805mp,r6,10k,_0805mp,1,_,
+- all: 14,,spst_tact_kmr2,sw1,spst_tact_kmr2,kmr2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,spst_tact_kmr2,sw1,spst_tact_kmr2,kmr2,1,_,
+- all: 15,,bluetooth_module,u1,bluefruit,bluetooth_module,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,bluetooth_module,u1,bluefruit,bluetooth_module,1,_,
+- all: 16,,vreg_sot23_5,u2,mic5225_3_3,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,vreg_sot23_5,u2,mic5225_3_3,sot23_5,1,_,
+- all: 17,,jst_2pin_smt_ra,vbat0,jst_2ph,jst_ph_2_smt_ra,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,jst_2pin_smt_ra,vbat0,jst_2ph,jst_ph_2_smt_ra,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_32_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_32
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,17_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,17
+- all: component_count_,21_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,21_(0_smd_0_tht)
+- all: fitted_components_,21_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,21_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,21
 projects_flat: projects_flat/adafruit_adafruit_bluefruit_classic_pcbs/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_bluefruit_classic_pcbs/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Bluefruit-Classic-PCBs/version_current/working

@@ -13,6 +13,46 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_charlieplex_bonnet_pcbs\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_charlieplex_bonnet_pcbs
 oomp_key_simple: projects_flat_adafruit_adafruit_charlieplex_bonnet_pcbs
+parts_verbose:
+- all: 1,,cap_ceramic0805_nooutline,c4,10uf,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0805_nooutline,c4,10uf,0805_no,1,_,
+- all: 2,,led0603_nooutline,c2_1_c2_10_c2_11_c2_12_c2_13_c2_14_c2_15_c2_16_c2_2_c2_3_c2_4_c2_5_c2_6_c2_7_c2_8_c2_9_c3_1_c3_10_c3_11_c3_12_c3_13_c3_14_c3_15_c3_16_c3_2_c3_3_c3_4_c3_5_c3_6_c3_7_c3_8_c3_9_c4_1_c4_10_c4_11_c4_12_c4_13_c4_14_c4_15_c4_16_c4_2_c4_3_c4_4_c4_5_c4_6_c4_7_c4_8_c4_9_c5_1_c5_10_c5_11_c5_12_c5_13_c5_14_c5_15_c5_16_c5_2_c5_3_c5_4_c5_5_c5_6_c5_7_c5_8_c5_9_c6_1_c6_10_c6_11_c6_12_c6_13_c6_14_c6_15_c6_16_c6_2_c6_3_c6_4_c6_5_c6_6_c6_7_c6_8_c6_9_c7_1_c7_10_c7_11_c7_12_c7_13_c7_14_c7_15_c7_16_c7_2_c7_3_c7_4_c7_5_c7_6_c7_7_c7_8_c7_9_c8_1_c8_10_c8_11_c8_12_c8_13_c8_14_c8_15_c8_16_c8_2_c8_3_c8_4_c8_5_c8_6_c8_7_c8_8_c8_9_c9_1_c9_10_c9_11_c9_12_c9_13_c9_14_c9_15_c9_16_c9_2_c9_3_c9_4_c9_5_c9_6_c9_7_c9_8_c9_9,led0603_nooutline,chipled_0603_nooutline,128,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,led0603_nooutline,c2_1_c2_10_c2_11_c2_12_c2_13_c2_14_c2_15_c2_16_c2_2_c2_3_c2_4_c2_5_c2_6_c2_7_c2_8_c2_9_c3_1_c3_10_c3_11_c3_12_c3_13_c3_14_c3_15_c3_16_c3_2_c3_3_c3_4_c3_5_c3_6_c3_7_c3_8_c3_9_c4_1_c4_10_c4_11_c4_12_c4_13_c4_14_c4_15_c4_16_c4_2_c4_3_c4_4_c4_5_c4_6_c4_7_c4_8_c4_9_c5_1_c5_10_c5_11_c5_12_c5_13_c5_14_c5_15_c5_16_c5_2_c5_3_c5_4_c5_5_c5_6_c5_7_c5_8_c5_9_c6_1_c6_10_c6_11_c6_12_c6_13_c6_14_c6_15_c6_16_c6_2_c6_3_c6_4_c6_5_c6_6_c6_7_c6_8_c6_9_c7_1_c7_10_c7_11_c7_12_c7_13_c7_14_c7_15_c7_16_c7_2_c7_3_c7_4_c7_5_c7_6_c7_7_c7_8_c7_9_c8_1_c8_10_c8_11_c8_12_c8_13_c8_14_c8_15_c8_16_c8_2_c8_3_c8_4_c8_5_c8_6_c8_7_c8_8_c8_9_c9_1_c9_10_c9_11_c9_12_c9_13_c9_14_c9_15_c9_16_c9_2_c9_3_c9_4_c9_5_c9_6_c9_7_c9_8_c9_9,led0603_nooutline,chipled_0603_nooutline,128,_,
+- all: 3,,resistor_0603_noout,r1_r2,10k,0603_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,resistor_0603_noout,r1_r2,10k,0603_no,2,_,
+- all: 4,,raspberrypi_bplus_bonnet_thmsmt,rpi1,raspberrypi_bplus_bonnet_thmsmt,pi_bonnet_thmsmt,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,raspberrypi_bplus_bonnet_thmsmt,rpi1,raspberrypi_bplus_bonnet_thmsmt,pi_bonnet_thmsmt,1,_,
+- all: 5,,is31fl3731qfn,u1,is31fl3731_sals2,qfn28_4mm_0_4mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,is31fl3731qfn,u1,is31fl3731_sals2,qfn28_4mm_0_4mm,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_32_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_32
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,5_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,5
+- all: component_count_,133_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,133_(0_smd_0_tht)
+- all: fitted_components_,133_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,133_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,133_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,133
 projects_flat: projects_flat/adafruit_adafruit_charlieplex_bonnet_pcbs/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_charlieplex_bonnet_pcbs/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-CharliePlex-Bonnet-PCBs/version_current/working

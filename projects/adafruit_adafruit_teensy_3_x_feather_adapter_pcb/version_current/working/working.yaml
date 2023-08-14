@@ -13,6 +13,61 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_teensy_3_x_feather_adapter_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_teensy_3_x_feather_adapter_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_teensy_3_x_feather_adapter_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0603_no,c7,1uf,0603_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0603_no,c7,1uf,0603_no,1,_,
+- all: "2,,cap_ceramic0805_nooutline,c3_c6_c8,10\xE2\xB5f,0805_no,3,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "2,,cap_ceramic0805_nooutline,c3_c6_c8,10\xE2\
+    \xB5f,0805_no,3,_,"
+- all: 3,,led0805_nooutline,chg0,orange,chipled_0805_nooutline,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,led0805_nooutline,chg0,orange,chipled_0805_nooutline,1,_,
+- all: 4,,diode_schottkysod_123,d4,mbr120,sod_123,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,diode_schottkysod_123,d4,mbr120,sod_123,1,_,
+- all: 5,,header_1x12,jp3,header_1x12,1x12_round,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,header_1x12,jp3,header_1x12,1x12_round,1,_,
+- all: 6,,header_1x16round,jp1,header_1x16round,1x16_round,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,header_1x16round,jp1,header_1x16round,1x16_round,1,_,
+- all: 7,,resistor_0603_noout,r2,1k,0603_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,resistor_0603_noout,r2,1k,0603_no,1,_,
+- all: 8,,resistor_0603_noout,r8,2_2k,0603_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,resistor_0603_noout,r8,2_2k,0603_no,1,_,
+- all: 9,,resistor_0603_noout,r3_r6,100k,0603_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,resistor_0603_noout,r3_r6,100k,0603_no,2,_,
+- all: 10,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,
+- all: 11,,teensy_3_1_all_pins,u$1,teensy_3_1_all_pins,teensy3_all_pins,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,teensy_3_1_all_pins,u$1,teensy_3_1_all_pins,teensy3_all_pins,1,_,
+- all: 12,,con_jst_ph_2pin,x1,jstph,jstph2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,con_jst_ph_2pin,x1,jstph,jstph2,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_03_17_21_23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_03_17_21_23
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,12_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,12
+- all: component_count_,15_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,15_(0_smd_0_tht)
+- all: fitted_components_,15_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,15_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,15
 projects_flat: projects_flat/adafruit_adafruit_teensy_3_x_feather_adapter_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_teensy_3_x_feather_adapter_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB/version_current/working

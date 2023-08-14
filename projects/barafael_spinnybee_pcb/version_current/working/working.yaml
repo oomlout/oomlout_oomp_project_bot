@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\barafael_spinnybee_pcb\version_current\working
 oomp_key: oomp_projects_flat_barafael_spinnybee_pcb
 oomp_key_simple: projects_flat_barafael_spinnybee_pcb
+parts_verbose:
+- all: 1_j7_pinheader_1x02_p2_54mm_vertical_1_conn_01x02___
+  designation: conn_01x02
+  designator: j7
+  footprint: pinheader_1x02_p2_54mm_vertical
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j6_pinheader_1x03_p2_54mm_vertical_1_conn_01x03___
+  designation: conn_01x03
+  designator: j6
+  footprint: pinheader_1x03_p2_54mm_vertical
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_j5_pinheader_1x05_p2_54mm_vertical_1_conn_01x05___
+  designation: conn_01x05
+  designator: j5
+  footprint: pinheader_1x05_p2_54mm_vertical
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_j4,j3_pinheader_1x06_p2_54mm_vertical_2_conn_01x06___
+  designation: conn_01x06
+  designator: j4
+  footprint: pinheader_1x06_p2_54mm_vertical
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_j4,j3_pinheader_1x06_p2_54mm_vertical_2_conn_01x06___
+  designation: conn_01x06
+  designator: j3
+  footprint: pinheader_1x06_p2_54mm_vertical
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_j2,j1_pinheader_1x14_p2_54mm_vertical_2_conn_01x14___
+  designation: conn_01x14
+  designator: j2
+  footprint: pinheader_1x14_p2_54mm_vertical
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_j2,j1_pinheader_1x14_p2_54mm_vertical_2_conn_01x14___
+  designation: conn_01x14
+  designator: j1
+  footprint: pinheader_1x14_p2_54mm_vertical
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/barafael_spinnybee_pcb/version_current/working
 projects_folder: projects_folder/barafael/spinnyBee-PCB/version_current/working
 repo:

@@ -13,6 +13,60 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\oomlout_dlsb_driverboard_v1\version_current\working
 oomp_key: oomp_projects_flat_oomlout_dlsb_driverboard_v1
 oomp_key_simple: projects_flat_oomlout_dlsb_driverboard_v1
+parts_verbose:
+- all: 1,_oompid_capc_0603_x_nf100_v50_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,_oompid_capc_0603_x_nf100_v50
+- all: 2,_oompid_capc_0603_x_pf20_v50_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,_oompid_capc_0603_x_pf20_v50
+- all: 3,_oompid_head_i01_x_pi01_01_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,_oompid_head_i01_x_pi01_01
+- all: 4,_oompid_head_i01_x_pi2x03_sm_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,_oompid_head_i01_x_pi2x03_sm
+- all: 5,_oompid_head_jstsh_x_pi04_rs_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,_oompid_head_jstsh_x_pi04_rs
+- all: 6,_oompid_mosn_t252_x_k4184_01_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,_oompid_mosn_t252_x_k4184_01
+- all: 7,_oompid_trnn_so23_x_ks8050_01_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,_oompid_trnn_so23_x_ks8050_01
+- all: 8,_oompid_rese_0603_x_o103_01_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,_oompid_rese_0603_x_o103_01
+- all: 9,_oompid_rese_0603_x_o271_01_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,_oompid_rese_0603_x_o271_01
+- all: 10,_oompid_mcuu_sc14_84_attiny_01_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,_oompid_mcuu_sc14_84_attiny_01
+- all: 11,_oompid_vreg_so223_x_kld1117_v33d_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,_oompid_vreg_so223_x_kld1117_v33d
+- all: 12,oompid_xtal_5032_x_mz16_01_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,oompid_xtal_5032_x_mz16_01
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_59_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_59
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,12_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,12
+- all: component_count_,16_(15_smd_1_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,16_(15_smd_1_tht)
+- all: fitted_components_,16_(15_smd_1_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,16_(15_smd_1_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,16_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,16
 projects_flat: projects_flat/oomlout_dlsb_driverboard_v1/version_current/working
 projects_folder: projects_folder/oomlout/DLSB-DRIVERBOARD-V1/version_current/working
 repo:

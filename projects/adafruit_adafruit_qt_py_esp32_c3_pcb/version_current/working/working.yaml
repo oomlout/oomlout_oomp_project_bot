@@ -13,6 +13,86 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_qt_py_esp32_c3_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_qt_py_esp32_c3_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_qt_py_esp32_c3_pcb
+parts_verbose:
+- all: 1,,cap_ceramic_0402no,c17_c18,16pf,_0402no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic_0402no,c17_c18,16pf,_0402no,2,_,
+- all: 2,,cap_ceramic_0402no,c16,0_01uf,_0402no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic_0402no,c16,0_01uf,_0402no,1,_,
+- all: 3,,cap_ceramic_0402no,c4_c10_c14,0_1uf,_0402no,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,cap_ceramic_0402no,c4_c10_c14,0_1uf,_0402no,3,_,
+- all: 4,,cap_ceramic_0402no,c2_c3_c11_c15,1uf,_0402no,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,cap_ceramic_0402no,c2_c3_c11_c15,1uf,_0402no,4,_,
+- all: 5,,cap_ceramic0805_nooutline,c1_c6_c8,22uf,0805_no,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,cap_ceramic0805_nooutline,c1_c6_c8,22uf,0805_no,3,_,
+- all: 6,,cap_ceramic_0402no,c7_c9,tbd,_0402no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,cap_ceramic_0402no,c7_c9,tbd,_0402no,2,_,
+- all: 7,,stemma_i2c_qtskinny,conn1,stemma_i2c_qtskinny,jst_sh4_skinny,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,stemma_i2c_qtskinny,conn1,stemma_i2c_qtskinny,jst_sh4_skinny,1,_,
+- all: 8,,diode_sod323mini,d1_d2,nsr0320,sod_323_mini,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,diode_sod323mini,d1_d2,nsr0320,sod_323_mini,2,_,
+- all: 9,,header_1x7_castel,jp1_jp3,header_1x7_castel,1x07_castel,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,header_1x7_castel,jp1_jp3,header_1x7_castel,1x07_castel,2,_,
+- all: 10,,inductor_0402,l2,0_ohm,_0402,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,inductor_0402,l2,0_ohm,_0402,1,_,
+- all: 11,,inductor_0402,l1,2nh,_0402,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,inductor_0402,l1,2nh,_0402,1,_,
+- all: 12,,ws2812b_sk6805_1515,led1,ws2812b_sk6805_1515,sk6805_1515,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,ws2812b_sk6805_1515,led1,ws2812b_sk6805_1515,sk6805_1515,1,_,
+- all: 13,,switch_tact_smt4_6x2_8,q1,boot0,btn_kmr2_4_6x2_8,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,switch_tact_smt4_6x2_8,q1,boot0,btn_kmr2_4_6x2_8,1,_,
+- all: 14,,switch_tact_smt_kmr2slim,q2,reset,btn_kmr2_slim,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,switch_tact_smt_kmr2slim,q2,reset,btn_kmr2_slim,1,_,
+- all: 15,,resistor_0402no,r3,0,_0402no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,resistor_0402no,r3,0,_0402no,1,_,
+- all: 16,,resistor_0402no,r4,1k,_0402no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,resistor_0402no,r4,1k,_0402no,1,_,
+- all: 17,,resistor_0402no,r5_r6,5_1k,_0402no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,resistor_0402no,r5_r6,5_1k,_0402no,2,_,
+- all: 18,,resistor_0402no,r1_r2,10k,_0402no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,resistor_0402no,r1_r2,10k,_0402no,2,_,
+- all: 19,,resistor_two6mil,r7,10k,_0603mp_two6mil,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,resistor_two6mil,r7,10k,_0603mp_two6mil,1,_,
+- all: 20,,_tpb1,27_,swc1_swc2,_tpb1,27_,_b1,27_,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,_tpb1,27_,swc1_swc2,_tpb1,27_,_b1,27_,2,_,
+- all: 21,,vreg_sot23_5,u1,ap2112k_3_3,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,vreg_sot23_5,u1,ap2112k_3_3,sot23_5,1,_,
+- all: 22,,esp32_c3fh4,u2,esp32_c3fh4,qfn32_5mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,,esp32_c3fh4,u2,esp32_c3fh4,qfn32_5mm,1,_,
+- all: 23,,antenna_johanson_2450at18b100,x1,2_4ghz,ant_2450at18b100,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,,antenna_johanson_2450at18b100,x1,2_4ghz,ant_2450at18b100,1,_,
+- all: 24,,usb_c,x6,usb_type_c,usb_c_cusb31_cfm2ax_01_x,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 24,,usb_c,x6,usb_type_c,usb_c_cusb31_cfm2ax_01_x,1,_,
+- all: 25,,crystal_2x1_6mm,y1,40mhz,crystal_2x1_6,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 25,,crystal_2x1_6mm,y1,40mhz,crystal_2x1_6,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_03_17_21_23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_03_17_21_23
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,25_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,25
+- all: component_count_,39_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,39_(0_smd_0_tht)
+- all: fitted_components_,39_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,39_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,39_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,39
 projects_flat: projects_flat/adafruit_adafruit_qt_py_esp32_c3_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_qt_py_esp32_c3_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-QT-Py-ESP32-C3-PCB/version_current/working

@@ -13,6 +13,82 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_bluefruit_ez_link_shield_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_bluefruit_ez_link_shield_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_bluefruit_ez_link_shield_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0805_nooutline,c2,2_2uf,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0805_nooutline,c2,2_2uf,0805_no,1,_,
+- all: 2,,cap_ceramic0805_nooutline,c1_c4,10uf,0805_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic0805_nooutline,c1_c4,10uf,0805_no,2,_,
+- all: 3,,741g07dbv,ic2,741g07dbv,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,741g07dbv,ic2,741g07dbv,sot23_5,1,_,
+- all: 4,,74lvc2g34dbvr,ic1,74lvc2g34dbvr,sot23_6,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,74lvc2g34dbvr,ic1,74lvc2g34dbvr,sot23_6,1,_,
+- all: 5,,header_1x570mil,jp1,header_1x570mil,1x05_round_70,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,header_1x570mil,jp1,header_1x570mil,1x05_round_70,1,_,
+- all: 6,,header_2x3,jp5,header_2x3,2x03_round_70mil,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,header_2x3,jp5,header_2x3,2x03_round_70mil,1,_,
+- all: 7,,pinhd_1x6b,jp6,pinhd_1x6b,1x06_big,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,pinhd_1x6b,jp6,pinhd_1x6b,1x06_big,1,_,
+- all: 8,,pinhd_1x8big,jp3_jp4,pinhd_1x8big,1x08_big,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,pinhd_1x8big,jp3_jp4,pinhd_1x8big,1x08_big,2,_,
+- all: 9,,led0805_nooutline,led3_led4,blue,chipled_0805_nooutline,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,led0805_nooutline,led3_led4,blue,chipled_0805_nooutline,2,_,
+- all: 10,,led0805_nooutline,led1,red,chipled_0805_nooutline,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,led0805_nooutline,led1,red,chipled_0805_nooutline,1,_,
+- all: 11,,resistor0805_nooutline,r7,47_ohm,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,resistor0805_nooutline,r7,47_ohm,0805_no,1,_,
+- all: 12,,resistor0805_nooutline,r8_r10,220,0805_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,resistor0805_nooutline,r8_r10,220,0805_no,2,_,
+- all: 13,,resistor0805_nooutline,r2,1k,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,resistor0805_nooutline,r2,1k,0805_no,1,_,
+- all: 14,,resistor0805_nooutline,r5,2_2k,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,resistor0805_nooutline,r5,2_2k,0805_no,1,_,
+- all: 15,,resistor0805_nooutline,r1_r4,10k,0805_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,resistor0805_nooutline,r1_r4,10k,0805_no,2,_,
+- all: 16,,resistor_0805mp,r3_r6,10k,_0805mp,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,resistor_0805mp,r3_r6,10k,_0805mp,2,_,
+- all: 17,,dpdt_eg1390,sw2,dpdt_eg1390,eg1390,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,dpdt_eg1390,sw2,dpdt_eg1390,eg1390,1,_,
+- all: 18,,spst_tact_evqq2,sw3,spst_tact_evqq2,evq_q2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,spst_tact_evqq2,sw3,spst_tact_evqq2,evq_q2,1,_,
+- all: 19,,spst_tact_kmr2,sw1,spst_tact_kmr2,kmr2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,spst_tact_kmr2,sw1,spst_tact_kmr2,kmr2,1,_,
+- all: 20,,bluetooth_module,u1,bluefruit,bluetooth_module,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,bluetooth_module,u1,bluefruit,bluetooth_module,1,_,
+- all: 21,,vreg_sot23_5,u2,mic5225_3_3,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,vreg_sot23_5,u2,mic5225_3_3,sot23_5,1,_,
+- all: 22,,arduino_r3_icsp,u$5,arduino_r3_icsp,arduinor3_icsp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,,arduino_r3_icsp,u$5,arduino_r3_icsp,arduinor3_icsp,1,_,
+- all: 23,,pinhd_1x10,u$6,pinhd_1x10,1x10_big,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,,pinhd_1x10,u$6,pinhd_1x10,1x10_big,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_32_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_32
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,23
+- all: component_count_,29_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,29_(0_smd_0_tht)
+- all: fitted_components_,29_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,29_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,29_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,29
 projects_flat: projects_flat/adafruit_adafruit_bluefruit_ez_link_shield_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_bluefruit_ez_link_shield_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB/version_current/working

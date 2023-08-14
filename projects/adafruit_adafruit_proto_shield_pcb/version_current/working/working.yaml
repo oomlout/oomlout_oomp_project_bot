@@ -13,6 +13,64 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_proto_shield_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_proto_shield_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_proto_shield_pcb
+parts_verbose:
+- all: 1,,c_us025_025x050,c1_c2,c_us025_025x050,c025_025x050,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,c_us025_025x050,c1_c2,c_us025_025x050,c025_025x050,2,_,
+- all: 2,,12_strip,gndstrip1_gndstrip2_vccstrip1_vccstrip2,12_strip,12_strip,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,12_strip,gndstrip1_gndstrip2_vccstrip1_vccstrip2,12_strip,12_strip,4,_,
+- all: 3,,smd_14,ic1,smd_14,so_14nmw,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,smd_14,ic1,smd_14,so_14nmw,1,_,
+- all: 4,,pinhd_1x6b,jp9,pinhd_1x6b,1x06_big,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,pinhd_1x6b,jp9,pinhd_1x6b,1x06_big,1,_,
+- all: 5,,pinhd_1x8big,jp1_jp4,pinhd_1x8big,1x08_big,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,pinhd_1x8big,jp1_jp4,pinhd_1x8big,1x08_big,2,_,
+- all: 6,,led3mm,led1_led2,led3mm,led3mm,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,led3mm,led1_led2,led3mm,led3mm,2,_,
+- all: 7,,arduino_r3_icsp,m1,arduino_r3_icsp,arduinor3_icsp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,arduino_r3_icsp,m1,arduino_r3_icsp,arduinor3_icsp,1,_,
+- all: 8,,r_us_0207_5v,r1_r2,r_us_0207_5v,0207_5v,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,r_us_0207_5v,r1_r2,r_us_0207_5v,0207_5v,2,_,
+- all: 9,,10_xx,reset0_s1,reset,b3f_10xx,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,10_xx,reset0_s1,reset,b3f_10xx,2,_,
+- all: 10,,3_strip,u$5_u$10_u$11_u$12_u$13_u$14_u$15_u$17_u$18_u$20_u$21_u$22_u$23_u$26_u$28_u$29_u$30_u$31_u$32_u$33,3_strip,3_strip,20,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,3_strip,u$5_u$10_u$11_u$12_u$13_u$14_u$15_u$17_u$18_u$20_u$21_u$22_u$23_u$26_u$28_u$29_u$30_u$31_u$32_u$33,3_strip,3_strip,20,_,
+- all: 11,,5_strip,u$24_u$43,5_strip,5_strip,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,5_strip,u$24_u$43,5_strip,5_strip,2,_,
+- all: 12,,protoshield_5_strip,u$3,5_strip,5_strip,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,protoshield_5_strip,u$3,5_strip,5_strip,1,_,
+- all: 13,,perfhole,u$2_u$4_u$6_u$7_u$8_u$9_u$16_u$19_u$25_u$27_u$34_u$35_u$37_u$38_u$39_u$40_u$41,perfhole,perfhole,17,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,perfhole,u$2_u$4_u$6_u$7_u$8_u$9_u$16_u$19_u$25_u$27_u$34_u$35_u$37_u$38_u$39_u$40_u$41,perfhole,perfhole,17,_,
+- all: 14,,pinhd_1x10,u$1,pinhd_1x10,1x10_big,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,pinhd_1x10,u$1,pinhd_1x10,1x10_big,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_03_17_21_23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_03_17_21_23
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,14_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,14
+- all: component_count_,58_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,58_(0_smd_0_tht)
+- all: fitted_components_,58_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,58_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,58_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,58
 projects_flat: projects_flat/adafruit_adafruit_proto_shield_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_proto_shield_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Proto-Shield-PCB/version_current/working

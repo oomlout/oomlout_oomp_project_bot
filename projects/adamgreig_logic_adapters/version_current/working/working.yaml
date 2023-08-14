@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamgreig_logic_adapters\version_current\working
 oomp_key: oomp_projects_flat_adamgreig_logic_adapters
 oomp_key_simple: projects_flat_adamgreig_logic_adapters
+parts_verbose:
+- all: 1_j7_molex_picoblade_53398_0471_1_uart___
+  designation: uart
+  designator: j7
+  footprint: molex_picoblade_53398_0471
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j6,j5_dil_254p_08_2_saleae_4_7___
+  designation: saleae_4_7
+  designator: j6
+  footprint: dil_254p_08
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_j6,j5_dil_254p_08_2_saleae_4_7___
+  designation: saleae_4_7
+  designator: j5
+  footprint: dil_254p_08
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_j4_dil_254p_12_1_pmod___
+  designation: pmod
+  designator: j4
+  footprint: dil_254p_12
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_j3_molex_picoblade_53398_0771_1_spi___
+  designation: spi
+  designator: j3
+  footprint: molex_picoblade_53398_0771
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_j2,j1_dil_254p_08_2_saleae_0_3___
+  designation: saleae_0_3
+  designator: j2
+  footprint: dil_254p_08
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_j2,j1_dil_254p_08_2_saleae_0_3___
+  designation: saleae_0_3
+  designator: j1
+  footprint: dil_254p_08
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adamgreig_logic_adapters/version_current/working
 projects_folder: projects_folder/adamgreig/logic_adapters/version_current/working
 repo:

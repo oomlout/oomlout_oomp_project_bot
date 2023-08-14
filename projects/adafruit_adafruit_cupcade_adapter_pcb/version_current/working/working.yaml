@@ -13,6 +13,58 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_cupcade_adapter_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_cupcade_adapter_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_cupcade_adapter_pcb
+parts_verbose:
+- all: 1,,header_1x3,audio0,header_1x3,1x03_oval,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,header_1x3,audio0,header_1x3,1x03_oval,1,_,
+- all: 2,,header_1x2,button_a0_button_b0_button_credit0_button_start0,header_1x2,1x02_oval,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,header_1x2,button_a0_button_b0_button_credit0_button_start0,header_1x2,1x02_oval,4,_,
+- all: 3,,cap_ceramic0805_nooutline,c3,0_1uf,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,cap_ceramic0805_nooutline,c3,0_1uf,0805_no,1,_,
+- all: 4,,cap_ceramic0805_nooutline,c2,10uf,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,cap_ceramic0805_nooutline,c2,10uf,0805_no,1,_,
+- all: 5,,cap_electrolyticpanasonic_c,c1,100uf,panasonic_c,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,cap_electrolyticpanasonic_c,c1,100uf,panasonic_c,1,_,
+- all: 6,,lm339d,ic1,lm339d,so14,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,lm339d,ic1,lm339d,so14,1,_,
+- all: 7,,tl072d,ic2,tl072d,so08,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,tl072d,ic2,tl072d,so08,1,_,
+- all: 8,,header_1x5,joystick0,header_1x5,1x05_oval,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,header_1x5,joystick0,header_1x5,1x05_oval,1,_,
+- all: 9,,rasberrypi_idc,jp1,rasberrypi_idc,rasberrypi_idc,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,rasberrypi_idc,jp1,rasberrypi_idc,rasberrypi_idc,1,_,
+- all: 10,,resistor0805_nooutline,r1_r2_r3_r4_r5,10k,0805_no,5,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,resistor0805_nooutline,r1_r2_r3_r4_r5,10k,0805_no,5,_,
+- all: 11,,header_1x2,speaker0,8ohm,1x02_oval,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,header_1x2,speaker0,8ohm,1x02_oval,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_33_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_33
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,11_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,11
+- all: component_count_,18_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,18_(0_smd_0_tht)
+- all: fitted_components_,18_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,18_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,18_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,18
 projects_flat: projects_flat/adafruit_adafruit_cupcade_adapter_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_cupcade_adapter_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Cupcade-Adapter-PCB/version_current/working

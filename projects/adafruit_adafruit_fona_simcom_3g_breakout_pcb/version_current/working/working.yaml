@@ -13,6 +13,97 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_fona_simcom_3g_breakout_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_fona_simcom_3g_breakout_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_fona_simcom_3g_breakout_pcb
+parts_verbose:
+- all: 1,,cap_4pack1206,c15_c17,10pf,respack_4x0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_4pack1206,c15_c17,10pf,respack_4x0603,2,_,
+- all: 2,,cap_ceramic0805_nooutline,c5_c8,10pf,0805_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic0805_nooutline,c5_c8,10pf,0805_no,2,_,
+- all: 3,,cap_ceramic0805_nooutline,c3_c4_c6_c10,33pf,0805_no,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,cap_ceramic0805_nooutline,c3_c4_c6_c10,33pf,0805_no,4,_,
+- all: 4,,cap_4pack1206,c14_c16,33pf,respack_4x0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,cap_4pack1206,c14_c16,33pf,respack_4x0603,2,_,
+- all: "5,,cap_ceramic0805_nooutline,c1_c9_c11,10\xE2\xB5f,0805_no,3,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "5,,cap_ceramic0805_nooutline,c1_c9_c11,10\xE2\
+    \xB5f,0805_no,3,_,"
+- all: 6,,c_usc1210,c2_c7,100uf,c1210,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,c_usc1210,c2_c7,100uf,c1210,2,_,
+- all: 7,,led0805_nooutline,chrg0,orange,chipled_0805_nooutline,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,led0805_nooutline,chrg0,orange,chipled_0805_nooutline,1,_,
+- all: 8,,jst_2pin,cn2,jstph,jstph2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,jst_2pin,cn2,jstph,jstph2,1,_,
+- all: 9,,diodesod_323,d3_d4_d5_d6,1n4148,sod_323,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,diodesod_323,d3_d4_d5_d6,1n4148,sod_323,4,_,
+- all: 10,,diode_zenersod123,d1,mmsz5231bt1g,sod_123,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,diode_zenersod123,d1,mmsz5231bt1g,sod_123,1,_,
+- all: 11,,tvsarray_5lane,d2,smf05c,sot363,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,tvsarray_5lane,d2,smf05c,sot363,1,_,
+- all: 12,,led0805_nooutline,done0_pwrstat0,green,chipled_0805_nooutline,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,led0805_nooutline,done0_pwrstat0,green,chipled_0805_nooutline,2,_,
+- all: 13,,74125pw,ic1,74125pw,tssop14,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,74125pw,ic1,74125pw,tssop14,1,_,
+- all: 14,,header_1x18,jp1,header_1x18,1x18_round70,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,header_1x18,jp1,header_1x18,1x18_round70,1,_,
+- all: 15,,header_1x2round,jp2,header_1x2round,1x02_round,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,header_1x2round,jp2,header_1x2round,1x02_round,1,_,
+- all: 16,,inductor_0805mp,l2,33nh,_0805mp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,inductor_0805mp,l2,33nh,_0805mp,1,_,
+- all: 17,,led0805_nooutline,netstat0,red,chipled_0805_nooutline,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,led0805_nooutline,netstat0,red,chipled_0805_nooutline,1,_,
+- all: 18,,mosfet_nwide,q2,bss138,sot23_wide,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,mosfet_nwide,q2,bss138,sot23_wide,1,_,
+- all: 19,,resistor0805_nooutline,r1,470,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,resistor0805_nooutline,r1,470,0805_no,1,_,
+- all: 20,,resistor0805_nooutline,r2_r4_r5,1k,0805_no,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,resistor0805_nooutline,r2_r4_r5,1k,0805_no,3,_,
+- all: 21,,resistor0805_nooutline,r3_r6,2k,0805_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,resistor0805_nooutline,r3_r6,2k,0805_no,2,_,
+- all: 22,,resistor0805_nooutline,r8,10k,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,,resistor0805_nooutline,r8,10k,0805_no,1,_,
+- all: 23,,switch_tact_smt4_6x2_8,sw1,kmr2,btn_kmr2_4_6x2_8,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,,switch_tact_smt4_6x2_8,sw1,kmr2,btn_kmr2_4_6x2_8,1,_,
+- all: 24,,mcp73831_2,u2,mcp73831t_2aci_ot,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 24,,mcp73831_2,u2,mcp73831t_2aci_ot,sot23_5,1,_,
+- all: 25,,gsm_sim5320_literal,u1,sim5320,sim5320,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 25,,gsm_sim5320_literal,u1,sim5320,sim5320,1,_,
+- all: 26,,audio_3_5mmjack_4pol,x4,4uconn_18510,4uconn_18510,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 26,,audio_3_5mmjack_4pol,x4,4uconn_18510,4uconn_18510,1,_,
+- all: 27,,usbmicro_20329,x2,microb,4uconn_20329,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 27,,usbmicro_20329,x2,microb,4uconn_20329,1,_,
+- all: 28,,sim_lockamphenol,x6,sim_lockamphenol,c707_10m006_512_2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 28,,sim_lockamphenol,x6,sim_lockamphenol,c707_10m006_512_2,1,_,
+- all: 29,,smaconnector_edge_ufl,x1,ufl,sma_edgelaunch_ufl,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 29,,smaconnector_edge_ufl,x1,ufl,sma_edgelaunch_ufl,1,_,
+- all: 30,,antenna_u_fl,x3,ufl,u_fl,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 30,,antenna_u_fl,x3,ufl,u_fl,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_33_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_33
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,30_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,30
+- all: component_count_,46_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,46_(0_smd_0_tht)
+- all: fitted_components_,46_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,46_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,46_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,46
 projects_flat: projects_flat/adafruit_adafruit_fona_simcom_3g_breakout_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_fona_simcom_3g_breakout_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB/version_current/working

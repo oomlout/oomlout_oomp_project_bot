@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\bsakatu_topre_pad\version_current\working
 oomp_key: oomp_projects_flat_bsakatu_topre_pad
 oomp_key_simple: projects_flat_bsakatu_topre_pad
+parts_verbose:
+- all: 1_sw_ec1_topre_sw_temp_1_sw_electro_capacitive___
+  designation: sw_electro_capacitive
+  designator: sw_ec1
+  footprint: topre_sw_temp
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_p_,ref_,p_,p__pin_1_4_conn_1___
+  designation: conn_1
+  designator: p_
+  footprint: pin_1
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_p_,ref_,p_,p__pin_1_4_conn_1___
+  designation: conn_1
+  designator: ref_
+  footprint: pin_1
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_p_,ref_,p_,p__pin_1_4_conn_1___
+  designation: conn_1
+  designator: p_
+  footprint: pin_1
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_p_,ref_,p_,p__pin_1_4_conn_1___
+  designation: conn_1
+  designator: p_
+  footprint: pin_1
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_p__pin_1_square_1_conn_1___
+  designation: conn_1
+  designator: p_
+  footprint: pin_1_square
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_hole_m2_6,hole_m2_6_hole_m2_6_2_val____
+  designation: val_
+  designator: hole_m2_6
+  footprint: hole_m2_6
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_hole_m2_6,hole_m2_6_hole_m2_6_2_val____
+  designation: val_
+  designator: hole_m2_6
+  footprint: hole_m2_6
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/bsakatu_topre_pad/version_current/working
 projects_folder: projects_folder/bsakatu/topre_pad/version_current/working
 repo:

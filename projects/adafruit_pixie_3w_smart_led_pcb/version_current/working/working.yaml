@@ -13,6 +13,62 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_pixie_3w_smart_led_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_pixie_3w_smart_led_pcb
 oomp_key_simple: projects_flat_adafruit_pixie_3w_smart_led_pcb
+parts_verbose:
+- all: 1,,cap_ceramic_0805mp,c1_c2,_22uf,6_3v_,_0805mp,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic_0805mp,c1_c2,_22uf,6_3v_,_0805mp,2,_,
+- all: 2,,pic12(l)f157x,ic1,pic12(l)f157x,msop_8,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,pic12(l)f157x,ic1,pic12(l)f157x,msop_8,1,_,
+- all: 3,,m030_1pwr_sig,in0_out0,m030_1pwr_sig,1x03_0_1pwr_sig,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,m030_1pwr_sig,in0_out0,m030_1pwr_sig,1x03_0_1pwr_sig,2,_,
+- all: 4,,rgbled_ca,led1,rgbled_ca,rgbled3w4pin,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,rgbled_ca,led1,rgbled_ca,rgbled3w4pin,1,_,
+- all: 5,,irlml2060trpbf,q1_q3_q5,irlml2060trpbf,sot23_3,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,irlml2060trpbf,q1_q3_q5,irlml2060trpbf,sot23_3,3,_,
+- all: 6,,mmbt2222a,q2_q4_q6,mmbt2222a,sot23_3,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,mmbt2222a,q2_q4_q6,mmbt2222a,sot23_3,3,_,
+- all: 7,,resistor1206,r1_r3_r5,1_74_0_25w,1206,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,resistor1206,r1_r3_r5,1_74_0_25w,1206,3,_,
+- all: 8,,rgbled_resistor0603,r8,33,0603_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,rgbled_resistor0603,r8,33,0603_res,1,_,
+- all: 9,,rgbled_resistor0603,r7,100,0603_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,rgbled_resistor0603,r7,100,0603_res,1,_,
+- all: 10,,resistor_0603mp,r9,100,_0603mp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,resistor_0603mp,r9,100,_0603mp,1,_,
+- all: 11,,rgbled_resistor0603,r2_r4_r6,47k,0603_res,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,rgbled_resistor0603,r2_r4_r6,47k,0603_res,3,_,
+- all: 12,,align_cross,u$1_u$2_u$3_u$4,align_cross,align_cross,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,align_cross,u$1_u$2_u$3_u$4,align_cross,align_cross,4,_,
+- all: 13,,pixie_logo,u$5,pixie_logo,pixie_logo,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,pixie_logo,u$5,pixie_logo,pixie_logo,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_03_17_21_23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_03_17_21_23
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,13_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,13
+- all: component_count_,26_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,26_(0_smd_0_tht)
+- all: fitted_components_,26_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,26_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,26_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,26
 projects_flat: projects_flat/adafruit_pixie_3w_smart_led_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Pixie-3W-Smart-LED-PCB/version_current/working
 repo:

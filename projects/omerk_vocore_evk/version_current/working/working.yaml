@@ -13,6 +13,58 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\omerk_vocore_evk\version_current\working
 oomp_key: oomp_projects_flat_omerk_vocore_evk
 oomp_key_simple: projects_flat_omerk_vocore_evk
+parts_verbose:
+- all: 1,,c_euc0805,c1_c2_c3_c4_c5_c6,c_euc0805,c0805,6,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,c_euc0805,c1_c2_c3_c4_c5_c6,c_euc0805,c0805,6,_,
+- all: 2,,con_rj45_hr911105a,cn3_cn4,con_rj45_hr911105a,hr911105a,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,con_rj45_hr911105a,cn3_cn4,con_rj45_hr911105a,hr911105a,2,_,
+- all: 3,,con_usb_a_female_th,cn1,host,usb_a_female_th,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,con_usb_a_female_th,cn1,host,usb_a_female_th,1,_,
+- all: 4,,con_usb_micro_female_smd,cn2,micro,usb_molex_47346_0001,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,con_usb_micro_female_smd,cn2,micro,usb_molex_47346_0001,1,_,
+- all: 5,,ejtag_mips,j2,ejtag_mips,m2x7,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,ejtag_mips,j2,ejtag_mips,m2x7,1,_,
+- all: 6,,m023_5mm,j1,m023_5mm,screwterminal_3_5mm_2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,m023_5mm,j1,m023_5mm,screwterminal_3_5mm_2,1,_,
+- all: 7,,m03pth,j4,m03pth,1x03,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,m03pth,j4,m03pth,1x03,1,_,
+- all: 8,,m12x2,j3,m12x2,m2x12,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,m12x2,j3,m12x2,m2x12,1,_,
+- all: 9,,vocore_v10a,mod1,vocore_v10a,vocore_v10a,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,vocore_v10a,mod1,vocore_v10a,vocore_v10a,1,_,
+- all: 10,,sj,sj1_sj2_sj3_sj4,sj,sj,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,sj,sj1_sj2_sj3_sj4,sj,sj,4,_,
+- all: 11,,ldo1117_sot223,u1,ldo1117_sot223,sot223_3l,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,ldo1117_sot223,u1,ldo1117_sot223,sot223_3l,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_59_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_59
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,11_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,11
+- all: component_count_,20_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,20_(0_smd_0_tht)
+- all: fitted_components_,20_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,20_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,20_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,20
 projects_flat: projects_flat/omerk_vocore_evk/version_current/working
 projects_folder: projects_folder/omerk/vocore-evk/version_current/working
 repo:

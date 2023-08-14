@@ -13,6 +13,82 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_feather_328p_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_feather_328p_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_feather_328p_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0603_no,c4_c5_c9_c10,0_1uf,0603_no,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0603_no,c4_c5_c9_c10,0_1uf,0603_no,4,_,
+- all: 2,,cap_ceramic0603_no,c8_c11,1uf,0603_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic0603_no,c8_c11,1uf,0603_no,2,_,
+- all: 3,,cap_ceramic0805_nooutline,c1_c2_c3_c6,10uf,0805_no,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,cap_ceramic0805_nooutline,c1_c2_c3_c6,10uf,0805_no,4,_,
+- all: 4,,cap_ceramic_0805mp,c7,10uf,_0805mp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,cap_ceramic_0805mp,c7,10uf,_0805mp,1,_,
+- all: 5,,led0805_nooutline,chg0,orange,chipled_0805_nooutline,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,led0805_nooutline,chg0,orange,chipled_0805_nooutline,1,_,
+- all: 6,,diode_schottkysod_123,d4,mbr120,sod_123,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,diode_schottkysod_123,d4,mbr120,sod_123,1,_,
+- all: 7,,led0805_nooutline,d3,red,chipled_0805_nooutline,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,led0805_nooutline,d3,red,chipled_0805_nooutline,1,_,
+- all: 8,,led0805_nooutline,d1_d5,yellow,chipled_0805_nooutline,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,led0805_nooutline,d1_d5,yellow,chipled_0805_nooutline,2,_,
+- all: 9,,cp2104,ic1,cp2104,qfn24_4mm_smsc,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,cp2104,ic1,cp2104,qfn24_4mm_smsc,1,_,
+- all: 10,,mega8_mi,ic2,mega8_mi,mlf32_th,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,mega8_mi,ic2,mega8_mi,mlf32_th,1,_,
+- all: 11,,header_1x12,jp3,header_1x12,1x12_round,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,header_1x12,jp3,header_1x12,1x12_round,1,_,
+- all: 12,,header_1x16round,jp1,header_1x16round,1x16_round,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,header_1x16round,jp1,header_1x16round,1x16_round,1,_,
+- all: 13,,mosfet_p,q3,dmg341,sot23_r,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,mosfet_p,q3,dmg341,sot23_r,1,_,
+- all: 14,,resistor_0603mp,r1,1k,_0603mp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,resistor_0603mp,r1,1k,_0603mp,1,_,
+- all: 15,,resistor_0603_noout,r2_r6_r7_r10,1k,0603_no,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,resistor_0603_noout,r2_r6_r7_r10,1k,0603_no,4,_,
+- all: 16,,resistor_0603_noout,r4_r8,10k,0603_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,resistor_0603_noout,r4_r8,10k,0603_no,2,_,
+- all: 17,,resistor_4pack,r5,100k,respack_4x0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,resistor_4pack,r5,100k,respack_4x0603,1,_,
+- all: 18,,switch_tact_smt4_6x2_8,sw2,kmr2,btn_kmr2_4_6x2_8,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,switch_tact_smt4_6x2_8,sw2,kmr2,btn_kmr2_4_6x2_8,1,_,
+- all: 19,,vreg_sot23_5,u2,ap2112_3_3,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,vreg_sot23_5,u2,ap2112_3_3,sot23_5,1,_,
+- all: 20,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,
+- all: 21,,usb_micro_20329_v2,x4,20329,4uconn_20329_v2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,usb_micro_20329_v2,x4,20329,4uconn_20329_v2,1,_,
+- all: 22,,con_jst_ph_2pin,x1,jstph,jstph2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,,con_jst_ph_2pin,x1,jstph,jstph2,1,_,
+- all: 23,,resonatormu,y2,resonatormu,resonator,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,,resonatormu,y2,resonatormu,resonator,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_33_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_33
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,23
+- all: component_count_,35_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,35_(0_smd_0_tht)
+- all: fitted_components_,35_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,35_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,35_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,35
 projects_flat: projects_flat/adafruit_adafruit_feather_328p_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_feather_328p_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Feather-328P-PCB/version_current/working

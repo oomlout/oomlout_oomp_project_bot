@@ -13,6 +13,87 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_music_maker_featherwing_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_music_maker_featherwing_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_music_maker_featherwing_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0603_no,c4_c5,22pf,0603_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0603_no,c4_c5,22pf,0603_no,2,_,
+- all: 2,,cap_ceramic0603_no,c21_c22,10nf,0603_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic0603_no,c21_c22,10nf,0603_no,2,_,
+- all: "3,,cap_ceramic0603_no,c26,0_1\xE2\xB5f,0603_no,1,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "3,,cap_ceramic0603_no,c26,0_1\xE2\
+    \xB5f,0603_no,1,_,"
+- all: 4,,cap_ceramic0603_no,c3_c8_c19,1uf,0603_no,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,cap_ceramic0603_no,c3_c8_c19,1uf,0603_no,3,_,
+- all: "5,,cap_ceramic0805_nooutline,c20,10\xE2\xB5f,0805_no,1,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "5,,cap_ceramic0805_nooutline,c20,10\xE2\
+    \xB5f,0805_no,1,_,"
+- all: "6,,cap_ceramic_0805mp,c6,10\xE2\xB5f,_0805mp,1,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "6,,cap_ceramic_0805mp,c6,10\xE2\
+    \xB5f,_0805mp,1,_,"
+- all: 7,,cpol_usc,c1_c2,220uf,panasonic_c,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,cpol_usc,c1_c2,220uf,panasonic_c,2,_,
+- all: 8,,microsd,cn1,2908_05wb_m6,microsd,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,microsd,cn1,2908_05wb_m6,microsd,1,_,
+- all: 9,,ferrite_0805no,fb1_fb2,feritte,0805_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,ferrite_0805no,fb1_fb2,feritte,0805_no,2,_,
+- all: 10,,header_1x12,jp1,header_1x12,1x12_round,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,header_1x12,jp1,header_1x12,1x12_round,1,_,
+- all: 11,,header_1x13,jp3,header_1x13,1x13_round_70,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,header_1x13,jp3,header_1x13,1x13_round_70,1,_,
+- all: 12,,header_1x1round,jp5,header_1x1round,1x01_round,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,header_1x1round,jp5,header_1x1round,1x01_round,1,_,
+- all: 13,,header_1x2round,jp2_jp4,header_1x2round,1x02_round,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,header_1x2round,jp2_jp4,header_1x2round,1x02_round,2,_,
+- all: 14,,featherwing_nodim,ms1,featherwing_nodim,featherwing_nodim,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,featherwing_nodim,ms1,featherwing_nodim,featherwing_nodim,1,_,
+- all: 15,,resistor_0603_noout,r3_r4,22,0603_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,resistor_0603_noout,r3_r4,22,0603_no,2,_,
+- all: 16,,resistor_0603_noout,r6_r7,100,0603_no,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,resistor_0603_noout,r6_r7,100,0603_no,2,_,
+- all: 17,,resistor_4pack,r16,100k,respack_4x0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,resistor_4pack,r16,100k,respack_4x0603,1,_,
+- all: 18,,resistor_0603_noout,r2,100k,0603_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,resistor_0603_noout,r2,100k,0603_no,1,_,
+- all: 19,,resistor_0603_noout,r1,1m,0603_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,resistor_0603_noout,r1,1m,0603_no,1,_,
+- all: 20,,switch_tact_smt4_6x2_8,sw1,kmr2,btn_kmr2_4_6x2_8,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,switch_tact_smt4_6x2_8,sw1,kmr2,btn_kmr2_4_6x2_8,1,_,
+- all: 21,,vreg_sot23_6_dualap7312,u2,ap7312_1833w6_7,sot23_6,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,vreg_sot23_6_dualap7312,u2,ap7312_1833w6_7,sot23_6,1,_,
+- all: 22,,vs1053b,u1,vs1053b,lqfp48,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,,vs1053b,u1,vs1053b,lqfp48,1,_,
+- all: 23,,audio_3_5mmjack_4pol,x1,audio_3_5mmjack_4pol,4uconn_18510,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,,audio_3_5mmjack_4pol,x1,audio_3_5mmjack_4pol,4uconn_18510,1,_,
+- all: 24,,crystal3_2x2_5,y1,abm8g_12_288mhz_4y_t3,crystal_3_2x2_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 24,,crystal3_2x2_5,y1,abm8g_12_288mhz_4y_t3,crystal_3_2x2_5,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_03_17_21_22_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_03_17_21_22
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,24_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,24
+- all: component_count_,33_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,33_(0_smd_0_tht)
+- all: fitted_components_,33_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,33_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,33_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,33
 projects_flat: projects_flat/adafruit_adafruit_music_maker_featherwing_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_music_maker_featherwing_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Music-Maker-FeatherWing-PCB/version_current/working

@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\f6itu_alexandrie\version_current\working
 oomp_key: oomp_projects_flat_f6itu_alexandrie
 oomp_key_simple: projects_flat_f6itu_alexandrie
+parts_verbose:
+- all: 1,,c,c1_c2_c3_c4_c6_c7_c16_c18_c20,100n,c_0805_2012metric_pad1_18x1_45mm_handsolder,9,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,c,c1_c2_c3_c4_c6_c7_c16_c18_c20,100n,c_0805_2012metric_pad1_18x1_45mm_handsolder,9,_,
+- all: 2,,cp_small,c17_c19,10u,cp_tantalum_case_c_eia_6032_28_hand,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cp_small,c17_c19,10u,cp_tantalum_case_c_eia_6032_28_hand,2,_,
+- all: 3,,d,d9,d,d_smb_handsoldering,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,d,d9,d,d_smb_handsoldering,1,_,
+- all: 4,,led,d1_d3_d4_d5,led,led_1206_3216metric_pad1_42x1_75mm_handsolder,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,led,d1_d3_d4_d5,led,led_1206_3216metric_pad1_42x1_75mm_handsolder,4,_,
+- all: 5,,conn_01x02,j5,conn_01x02,kk100_22_23_2021,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,conn_01x02,j5,conn_01x02,kk100_22_23_2021,1,_,
+- all: 6,,conn_01x03,j11,conn_01x03,kk100_22_23_2031,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,conn_01x03,j11,conn_01x03,kk100_22_23_2031,1,_,
+- all: 7,,conn_01x06,j4,conn_01x06,kk100_22_23_2061,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,conn_01x06,j4,conn_01x06,kk100_22_23_2061,1,_,
+- all: 8,,conn_01x13,j6,conn_01x13,kk100_22_23_2131,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,conn_01x13,j6,conn_01x13,kk100_22_23_2131,1,_,
+- all: 9,,conn_01x07,j7,conn_01x07,molex_kk_6410_07_07x2_54mm_straight,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,conn_01x07,j7,conn_01x07,molex_kk_6410_07_07x2_54mm_straight,1,_,
+- all: 10,,conn_01x10,j1_j8,kk_10,kk100_22_23_2101,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,conn_01x10,j1_j8,kk_10,kk100_22_23_2101,2,_,
+- all: 11,,conn_01x05,j2_j3,kk_5,kk100_22_23_2051,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,conn_01x05,j2_j3,kk_5,kk100_22_23_2051,2,_,
+- all: 12,,r,r8_r10_r11_r12,1k2,r_0805_2012metric_pad1_20x1_40mm_handsolder,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,r,r8_r10_r11_r12,1k2,r_0805_2012metric_pad1_20x1_40mm_handsolder,4,_,
+- all: 13,,r,r7,4k7,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,r,r7,4k7,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,
+- all: 14,,r,r1_r2_r3_r4_r5_r6,10k,r_0805_2012metric_pad1_20x1_40mm_handsolder,6,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,r,r1_r2_r3_r4_r5_r6,10k,r_0805_2012metric_pad1_20x1_40mm_handsolder,6,_,
+- all: 15,,74hct04,u1_u2,74hct04,so_14_3_9x8_65mm_p1_27mm,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,74hct04,u1_u2,74hct04,so_14_3_9x8_65mm_p1_27mm,2,_,
+- all: 16,linear_regulator_5v,7805d_pack,u12,78m05_dpak,to_263_3_tabpin4,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,linear_regulator_5v,7805d_pack,u12,78m05_dpak,to_263_3_tabpin4,1,_,
+- all: 17,_8_bit_shift_register,tpic6b595,u3_u4_u6_u7,tpic6b595,so_20_12_8x7_5mm_p1_27mm,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,_8_bit_shift_register,tpic6b595,u3_u4_u6_u7,tpic6b595,so_20_12_8x7_5mm_p1_27mm,4,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_57_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_57
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,17_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,17
+- all: component_count_,43_(34_smd_9_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,43_(34_smd_9_tht)
+- all: fitted_components_,43_(34_smd_9_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,43_(34_smd_9_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,43_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,43
 projects_flat: projects_flat/f6itu_alexandrie/version_current/working
 projects_folder: projects_folder/F6ITU/Alexandrie/version_current/working
 repo:

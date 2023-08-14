@@ -13,6 +13,57 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_drv8833_motor_driver_breakout_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_drv8833_motor_driver_breakout_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_drv8833_motor_driver_breakout_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0805_nooutline,c3,0_1uf,0805_no,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0805_nooutline,c3,0_1uf,0805_no,1,_,
+- all: "2,,cap_ceramic0805_nooutline,c2,10\xE2\xB5f,0805_no,1,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "2,,cap_ceramic0805_nooutline,c2,10\xE2\
+    \xB5f,0805_no,1,_,"
+- all: "3,,cap_ceramic0805_nooutline,c1_c4,10\xE2\xB5f_16v,0805_no,2,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "3,,cap_ceramic0805_nooutline,c1_c4,10\xE2\
+    \xB5f_16v,0805_no,2,_,"
+- all: 4,,termblock_1x2,j1,vmotorin,termblock_1x2_3_5mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,termblock_1x2,j1,vmotorin,termblock_1x2_3_5mm,1,_,
+- all: 5,,header_1x2round,jp2_jp3_jp4,header_1x2round,1x02_round,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,header_1x2round,jp2_jp3_jp4,header_1x2round,1x02_round,3,_,
+- all: 6,,header_1x870mil,jp5,header_1x870mil,1x08_round_70,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,header_1x870mil,jp5,header_1x870mil,1x08_round_70,1,_,
+- all: 7,,mosfet_pwide,q1,dmg3415u,sot23_wide,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,mosfet_pwide,q1,dmg3415u,sot23_wide,1,_,
+- all: "8,,resistor_1206,r1_r2,0_2\xEE\xA9,_1206,2,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "8,,resistor_1206,r1_r2,0_2\xEE\
+    \xA9,_1206,2,_,"
+- all: 9,,drv8833,u1,drv8833pwpr,htssop16,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,drv8833,u1,drv8833pwpr,htssop16,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_33_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_33
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,9_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,9
+- all: component_count_,13_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,13_(0_smd_0_tht)
+- all: fitted_components_,13_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,13_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,13_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,13
 projects_flat: projects_flat/adafruit_adafruit_drv8833_motor_driver_breakout_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_drv8833_motor_driver_breakout_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB/version_current/working

@@ -13,6 +13,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\f6itu_k_pa_protec\version_current\working
 oomp_key: oomp_projects_flat_f6itu_k_pa_protec
 oomp_key_simple: projects_flat_f6itu_k_pa_protec
+parts_verbose:
+- all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c5_c6_c8_c12_c13_c14_c16_c17_c18_c19_c20_c21_c22_c23,100n,c_0805_2012metric_pad1_18x1_45mm_handsolder,16,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c5_c6_c8_c12_c13_c14_c16_c17_c18_c19_c20_c21_c22_c23,100n,c_0805_2012metric_pad1_18x1_45mm_handsolder,16,_,~
+- all: 2,_unpolarized_capacitor,_small_symbol_,c_small,c4_c7_c9_c10_c15,1u,c_0805_2012metric_pad1_18x1_45mm_handsolder,5,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,_unpolarized_capacitor,_small_symbol_,c_small,c4_c7_c9_c10_c15,1u,c_0805_2012metric_pad1_18x1_45mm_handsolder,5,_,~
+- all: 3,_unpolarized_capacitor,_small_symbol_,c_small,c3_c11_c24,10u,c_0805_2012metric_pad1_18x1_45mm_handsolder,3,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,_unpolarized_capacitor,_small_symbol_,c_small,c3_c11_c24,10u,c_0805_2012metric_pad1_18x1_45mm_handsolder,3,_,~
+- all: 4,_diode,_small_symbol_,d_small,d1,bas16j,d_sod_323,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,_diode,_small_symbol_,d_small,d1,bas16j,d_sod_323,1,_,~
+- all: 5,_diode,_small_symbol_,d_small,d2_d3_d4_d5_d6_d7,s1m,d_sma_handsoldering,6,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,_diode,_small_symbol_,d_small,d2_d3_d4_d5_d6_d7,s1m,d_sma_handsoldering,6,_,~
+- all: 6,_16_bit_i_o_expander,_i2c,_interrupts,_w_pull_ups,_soic_28_,mcp23017_so,ic1,mcp23017_so,soic_28w_7_5x17_9mm_p1_27mm,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20001952c_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,_16_bit_i_o_expander,_i2c,_interrupts,_w_pull_ups,_soic_28_,mcp23017_so,ic1,mcp23017_so,soic_28w_7_5x17_9mm_p1_27mm,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20001952c_pdf
+- all: 7,_generic_connector,_single_row,_01x10,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x10_male,j1_j3_j5,idc_10_straight,idc_header_2x05_p2_54mm_vertical,3,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,_generic_connector,_single_row,_01x10,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x10_male,j1_j3_j5,idc_10_straight,idc_header_2x05_p2_54mm_vertical,3,_,~
+- all: 8,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_female,j4,molex_kk_2,molex_kk_254_ae_6410_02a_1x02_p2_54mm_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_female,j4,molex_kk_2,molex_kk_254_ae_6410_02a_1x02_p2_54mm_vertical,1,_,~
+- all: 9,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_male,j6,molex_kk_2,molex_kk_254_ae_6410_02a_1x02_p2_54mm_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_male,j6,molex_kk_2,molex_kk_254_ae_6410_02a_1x02_p2_54mm_vertical,1,_,~
+- all: 10,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03_male,j7,molex_kk_3,molex_kk_254_ae_6410_03a_1x03_p2_54mm_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03_male,j7,molex_kk_3,molex_kk_254_ae_6410_03a_1x03_p2_54mm_vertical,1,_,~
+- all: 11,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_male,j2_j8,molex_kk_4,molex_kk_254_ae_6410_04a_1x04_p2_54mm_vertical,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,_generic_connector,_single_row,_01x04,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x04_male,j2_j8,molex_kk_4,molex_kk_254_ae_6410_04a_1x04_p2_54mm_vertical,2,_,~
+- all: 12,_ferrite_bead,_small_symbol_,ferritebead_small,l1_l2_l3_l4,2743021447,fair_rite_2743021447,4,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,_ferrite_bead,_small_symbol_,ferritebead_small,l1_l2_l3_l4,2743021447,fair_rite_2743021447,4,_,~
+- all: 13,_0_115a_id,_60v_vds,_n_channel_mosfet,_sot_23_,2n7002,q1_q2,2n7002,sot_23,2,_,https_www_onsemi_com_pub_collateral_nds7002a_d_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,_0_115a_id,_60v_vds,_n_channel_mosfet,_sot_23_,2n7002,q1_q2,2n7002,sot_23,2,_,https_www_onsemi_com_pub_collateral_nds7002a_d_pdf
+- all: 14,_resistor,_small_symbol_,r_small,r6_r7_r8_r18_r19_r20_r22,1k,r_0805_2012metric_pad1_20x1_40mm_handsolder,7,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,_resistor,_small_symbol_,r_small,r6_r7_r8_r18_r19_r20_r22,1k,r_0805_2012metric_pad1_20x1_40mm_handsolder,7,_,~
+- all: 15,_resistor,_small_symbol_,r_small,r1_r2_r3_r4_r9_r10_r11_r16_r17,2_2k,r_0805_2012metric_pad1_20x1_40mm_handsolder,9,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,_resistor,_small_symbol_,r_small,r1_r2_r3_r4_r9_r10_r11_r16_r17,2_2k,r_0805_2012metric_pad1_20x1_40mm_handsolder,9,_,~
+- all: 16,_resistor,_small_symbol_,r_small,r5_r21_r23_r25_r26_r27_r28_r29_r30_r31,10k,r_0805_2012metric_pad1_20x1_40mm_handsolder,10,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,_resistor,_small_symbol_,r_small,r5_r21_r23_r25_r26_r27_r28_r29_r30_r31,10k,r_0805_2012metric_pad1_20x1_40mm_handsolder,10,_,~
+- all: 17,_resistor,_small_symbol_,r_small,r24,22k,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,_resistor,_small_symbol_,r_small,r24,22k,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~
+- all: 18,potentiometer,r_potentiometer_small,rv12_rv13_rv14_rv15,1k,potentiometer_bourns_tc33x_vertical,4,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,potentiometer,r_potentiometer_small,rv12_rv13_rv14_rv15,1k,potentiometer_bourns_tc33x_vertical,4,_,~
+- all: 19,_rotary_encoder,_dual_channel,_incremental_quadrate_outputs,_with_switch_,rotaryencoder_dual_switch,sw1,rotaryencoder_dual_switch,rotaryencoder_dual_alps_ec11e_switch_vertical_h20mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,_rotary_encoder,_dual_channel,_incremental_quadrate_outputs,_with_switch_,rotaryencoder_dual_switch,sw1,rotaryencoder_dual_switch,rotaryencoder_dual_alps_ec11e_switch_vertical_h20mm,1,_,~
+- all: 20,quad_2_input_nor_gate,74hc02,u2,74hc02,soic_14_3_9x8_7mm_p1_27mm,1,_,http_www_ti_com_lit_gpn_sn74hc02_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,quad_2_input_nor_gate,74hc02,u2,74hc02,soic_14_3_9x8_7mm_p1_27mm,1,_,http_www_ti_com_lit_gpn_sn74hc02
+- all: 21,,74hc21,u3,74hc21,soic_14_3_9x8_7mm_p1_27mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,74hc21,u3,74hc21,soic_14_3_9x8_7mm_p1_27mm,1,_,
+- all: 22,_800ma_low_dropout_linear_regulator,_3_3v_fixed_output,_to_220_to_252_to_263_sot_223_,lm1117_3_3,u4,lm1117_3_3,sot_223_3_tabpin2,1,_,http_www_ti_com_lit_ds_symlink_lm1117_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,_800ma_low_dropout_linear_regulator,_3_3v_fixed_output,_to_220_to_252_to_263_sot_223_,lm1117_3_3,u4,lm1117_3_3,sot_223_3_tabpin2,1,_,http_www_ti_com_lit_ds_symlink_lm1117_pdf
+- all: 23,_quad_differential_comparators,_soic_14_tssop_14_,lm339,u1,lm339,soic_14_3_9x8_7mm_p1_27mm,1,_,https_www_st_com_resource_en_datasheet_lm139_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,_quad_differential_comparators,_soic_14_tssop_14_,lm339,u1,lm339,soic_14_3_9x8_7mm_p1_27mm,1,_,https_www_st_com_resource_en_datasheet_lm139_pdf
+- all: 24,,yaaj_dcdc_stepdown_lm2596,u6,yaaj_dcdc_stepdown_lm2596,yaaj_dcdc_stepdown_lm2596,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 24,,yaaj_dcdc_stepdown_lm2596,u6,yaaj_dcdc_stepdown_lm2596,yaaj_dcdc_stepdown_lm2596,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_58_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_58
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,24_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,24
+- all: component_count_,83_(73_smd_10_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,83_(73_smd_10_tht)
+- all: fitted_components_,83_(73_smd_10_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,83_(73_smd_10_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,83_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,83
 projects_flat: projects_flat/f6itu_k_pa_protec/version_current/working
 projects_folder: projects_folder/F6ITU/K_PA_Protec/version_current/working
 repo:

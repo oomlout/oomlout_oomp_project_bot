@@ -13,6 +13,54 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_prototyping_pi_plate_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_prototyping_pi_plate_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_prototyping_pi_plate_pcb
+parts_verbose:
+- all: 1,,1x4_3_5mm,cn1_cn2_cn3,1x4_3_5mm,1x04_3_5mm,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,1x4_3_5mm,cn1_cn2_cn3,1x4_3_5mm,1x04_3_5mm,3,_,
+- all: 2,,1x4_cleanbig,cn4,1x4_cleanbig,1x04_cleanbig,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,1x4_cleanbig,cn4,1x4_cleanbig,1x04_cleanbig,1,_,
+- all: 3,,1x2_3_5mm,j1_j2,1x2_3_5mm,1x2_3_5mm,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,1x2_3_5mm,j1_j2,1x2_3_5mm,1x2_3_5mm,2,_,
+- all: 4,,1x5,j3,1x5,1x05_3_5mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,1x5,j3,1x5,1x05_3_5mm,1,_,
+- all: 5,,pinhd_1x6b,jp3,pinhd_1x6b,1x06_big,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,pinhd_1x6b,jp3,pinhd_1x6b,1x06_big,1,_,
+- all: 6,,pinhd_1x8_3_5mm,jp1,pinhd_1x8_3_5mm,1x08_3_5mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,pinhd_1x8_3_5mm,jp1,pinhd_1x8_3_5mm,1x08_3_5mm,1,_,
+- all: 7,,pinhd_1x8big,jp2_jp4_jp5_jp6,pinhd_1x8big,1x08_big,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,pinhd_1x8big,jp2_jp4_jp5_jp6,pinhd_1x8big,1x08_big,4,_,
+- all: 8,,raspberrypi_bb,u$1,raspberrypi_bb,rasberrypi_shield,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,raspberrypi_bb,u$1,raspberrypi_bb,rasberrypi_shield,1,_,
+- all: 9,,smd_16soic,u$2,smd_16soic,so_16nmw,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,smd_16soic,u$2,smd_16soic,so_16nmw,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_03_17_21_23_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_03_17_21_23
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,9_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,9
+- all: component_count_,15_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,15_(0_smd_0_tht)
+- all: fitted_components_,15_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,15_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,15
 projects_flat: projects_flat/adafruit_adafruit_prototyping_pi_plate_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_prototyping_pi_plate_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Prototyping-Pi-Plate-PCB/version_current/working

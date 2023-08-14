@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamjvr_barebonecape\version_current\working
 oomp_key: oomp_projects_flat_adamjvr_barebonecape
 oomp_key_simple: projects_flat_adamjvr_barebonecape
+parts_verbose:
+- all: 1_p1_beaglebone_black_1_beaglebone_black___
+  designation: beaglebone_black
+  designator: p1
+  footprint: beaglebone_black
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u1_so8e_1_24c16___
+  designation: 24c16
+  designator: u1
+  footprint: so8e
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r3,r2,r1_sm0805_3_4_7k___
+  designation: 4_7k
+  designator: r3
+  footprint: sm0805
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_r3,r2,r1_sm0805_3_4_7k___
+  designation: 4_7k
+  designator: r2
+  footprint: sm0805
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_r3,r2,r1_sm0805_3_4_7k___
+  designation: 4_7k
+  designator: r1
+  footprint: sm0805
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 4_r4,r5_sm0805_2_1_5k___
+  designation: 1_5k
+  designator: r4
+  footprint: sm0805
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_r4,r5_sm0805_2_1_5k___
+  designation: 1_5k
+  designator: r5
+  footprint: sm0805
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_c1_sm0805_1_0_1u___
+  designation: 0_1u
+  designator: c1
+  footprint: sm0805
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_j1_pin_array_2x2_1_conn_2x2___
+  designation: conn_2x2
+  designator: j1
+  footprint: pin_array_2x2
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adamjvr_barebonecape/version_current/working
 projects_folder: projects_folder/adamjvr/BareBoneCape/version_current/working
 repo:

@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\oomlout_oomlout_ooeb\version_current\working
 oomp_key: oomp_projects_flat_oomlout_oomlout_ooeb
 oomp_key_simple: projects_flat_oomlout_oomlout_ooeb
+parts_verbose:
+- all: 1,light_emitting_diode,led,d1,led,led_d10_0mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,light_emitting_diode,led,d1,led,led_d10_0mm,1,_,~
+- all: 2,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_male,j4,conn_01x02_male,pinheader_1x02_p2_54mm_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02_male,j4,conn_01x02_male,pinheader_1x02_p2_54mm_vertical,1,_,~
+- all: 3,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03_male,j1,conn_01x03_male,pinheader_1x03_p2_54mm_horizontal,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03_male,j1,conn_01x03_male,pinheader_1x03_p2_54mm_horizontal,1,_,~
+- all: 4,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03_male,j2_j3,conn_01x03_male,pinheader_1x03_p2_54mm_vertical,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03_male,j2_j3,conn_01x03_male,pinheader_1x03_p2_54mm_vertical,2,_,~
+- all: 5,_5a_ic,_60v_vce,_silicon_darlington_power_npn_transistor,_to_220_,tip120,q1,tip120,to_220_3_vertical,1,_,https_www_onsemi_com_pub_collateral_tip120_d_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,_5a_ic,_60v_vce,_silicon_darlington_power_npn_transistor,_to_220_,tip120,q1,tip120,to_220_3_vertical,1,_,https_www_onsemi_com_pub_collateral_tip120_d_pdf
+- all: 6,resistor,r,r1_r3,r,r_axial_din0411_l9_9mm_d3_6mm_p12_70mm_horizontal,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,resistor,r,r1_r3,r,r_axial_din0411_l9_9mm_d3_6mm_p12_70mm_horizontal,2,_,~
+- all: 7,photoresistor,r_photo,r2,r_photo,r_ldr_10x8_5mm_p7_6mm_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,photoresistor,r_photo,r2,r_photo,r_ldr_10x8_5mm_p7_6mm_vertical,1,_,~
+- all: 8,potentiometer,r_potentiometer,rv1,r_potentiometer,,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,potentiometer,r_potentiometer,rv1,r_potentiometer,,1,_,~
+- all: 9,_push_button_switch,_generic,_two_pins_,sw_push,sw1,sw_push,sw_push_6mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,_push_button_switch,_generic,_two_pins_,sw_push,sw1,sw_push,sw_push_6mm,1,_,~
+- all: 10,_push_button_switch,_generic,_two_pins_,sw_push,sw2,sw_push,sw_push_12mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,_push_button_switch,_generic,_two_pins_,sw_push,sw2,sw_push,sw_push_12mm,1,_,~
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_59_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_59
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,10_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,10
+- all: component_count_,12_(0_smd_11_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,12_(0_smd_11_tht)
+- all: fitted_components_,12_(0_smd_11_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,12_(0_smd_11_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,12_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,12
 projects_flat: projects_flat/oomlout_oomlout_ooeb/version_current/working
 projects_folder: projects_folder/oomlout/oomlout-OOEB/version_current/working
 repo:

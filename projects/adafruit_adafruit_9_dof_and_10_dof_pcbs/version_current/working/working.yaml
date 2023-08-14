@@ -13,6 +13,61 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_9_dof_and_10_dof_pcbs\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_9_dof_and_10_dof_pcbs
 oomp_key_simple: projects_flat_adafruit_adafruit_9_dof_and_10_dof_pcbs
+parts_verbose:
+- all: 1,,cap_ceramic_0805mp,c1,10nf,_0805mp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic_0805mp,c1,10nf,_0805mp,1,_,
+- all: 2,,cap_ceramic_0805mp,c3,0_1uf,_0805mp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic_0805mp,c3,0_1uf,_0805mp,1,_,
+- all: "3,,cap_ceramic_0805mp,c7,0_22\xE2\xB5f,_0805mp,1,_,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "3,,cap_ceramic_0805mp,c7,0_22\xE2\
+    \xB5f,_0805mp,1,_,"
+- all: 4,,cap_ceramic_0805mp,c2,470nf,_0805mp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,cap_ceramic_0805mp,c2,470nf,_0805mp,1,_,
+- all: 5,,cap_ceramic_0805mp,c6,4_7uf,_0805mp,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,cap_ceramic_0805mp,c6,4_7uf,_0805mp,1,_,
+- all: 6,,cap_ceramic_0805mp,c5_c8_c9,10uf,_0805mp,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,cap_ceramic_0805mp,c5_c8_c9,10uf,_0805mp,3,_,
+- all: 7,,header_1x10round,jp1,header_1x10round,1x10_round,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,header_1x10round,jp1,header_1x10round,1x10_round,1,_,
+- all: 8,,mosfet_nwide,q1_q2,bss138,sot23_wide,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,mosfet_nwide,q1_q2,bss138,sot23_wide,2,_,
+- all: 9,,resistor_0805mp,r1_r2_r3_r4_r5_r6_r7,10k,_0805mp,7,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,resistor_0805mp,r1_r2_r3_r4_r5_r6_r7,10k,_0805mp,7,_,
+- all: 10,,gyro_l3g2400d,u1,l3gd20,l3g4200d_lga16l,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,gyro_l3g2400d,u1,l3gd20,l3g4200d_lga16l,1,_,
+- all: 11,,lsm303dlhc,u2,lsm303dlhc,lga14,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,lsm303dlhc,u2,lsm303dlhc,lga14,1,_,
+- all: 12,,vreg_sot23_5,u4,mic5225_3_3,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,vreg_sot23_5,u4,mic5225_3_3,sot23_5,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_32_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_32
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,12_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,12
+- all: component_count_,21_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,21_(0_smd_0_tht)
+- all: fitted_components_,21_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,21_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,21
 projects_flat: projects_flat/adafruit_adafruit_9_dof_and_10_dof_pcbs/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_9_dof_and_10_dof_pcbs/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-9-DOF-and-10-DOF-PCBs/version_current/working

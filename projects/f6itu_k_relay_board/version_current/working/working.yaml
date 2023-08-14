@@ -13,6 +13,64 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\f6itu_k_relay_board\version_current\working
 oomp_key: oomp_projects_flat_f6itu_k_relay_board
 oomp_key_simple: projects_flat_f6itu_k_relay_board
+parts_verbose:
+- all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c13,22p,c_0805_2012metric_pad1_18x1_45mm_handsolder,2,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c13,22p,c_0805_2012metric_pad1_18x1_45mm_handsolder,2,_,~,,
+- all: 2,_unpolarized_capacitor,_small_symbol_,c_small,c20,100p,c_0805_2012metric_pad1_18x1_45mm_handsolder,1,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 2,_unpolarized_capacitor,_small_symbol_,c_small,c20,100p,c_0805_2012metric_pad1_18x1_45mm_handsolder,1,_,~,,
+- all: 3,_unpolarized_capacitor,_small_symbol_,c_small,c2_c5_c7_c9_c11,10n,c_0805_2012metric_pad1_18x1_45mm_handsolder,5,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 3,_unpolarized_capacitor,_small_symbol_,c_small,c2_c5_c7_c9_c11,10n,c_0805_2012metric_pad1_18x1_45mm_handsolder,5,_,~,,
+- all: 4,_unpolarized_capacitor,_small_symbol_,c_small,c3_c4_c6_c8_c10_c12_c14_c15_c16_c17_c18_c19,100n,c_0805_2012metric_pad1_18x1_45mm_handsolder,12,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 4,_unpolarized_capacitor,_small_symbol_,c_small,c3_c4_c6_c8_c10_c12_c14_c15_c16_c17_c18_c19,100n,c_0805_2012metric_pad1_18x1_45mm_handsolder,12,_,~,,
+- all: 5,_diode,_small_symbol_,d_small,d1,bas16j,d_sod_323_handsoldering,1,_,~,d,1=k_2=a_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 5,_diode,_small_symbol_,d_small,d1,bas16j,d_sod_323_handsoldering,1,_,~,d,1=k_2=a
+- all: 6,_diode,_small_symbol_,d_small,d3_d4_d5_d6,d_small,d_sod_323_handsoldering,4,_,~,d,1=k_2=a_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 6,_diode,_small_symbol_,d_small,d3_d4_d5_d6,d_small,d_sod_323_handsoldering,4,_,~,d,1=k_2=a
+- all: 7,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j1_j2_j3_j4,ant3,coaxial_n_flange,4,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 7,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j1_j2_j3_j4,ant3,coaxial_n_flange,4,_,~,,
+- all: 8,_generic_connector,_double_row,_02x05,_odd_even_pin_numbering_scheme_(row_1_odd_numbers,_row_2_even_numbers),_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_02x05_odd_even,j10,con_idc,idc_header_2x05_p2_54mm_vertical,1,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 8,_generic_connector,_double_row,_02x05,_odd_even_pin_numbering_scheme_(row_1_odd_numbers,_row_2_even_numbers),_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_02x05_odd_even,j10,con_idc,idc_header_2x05_p2_54mm_vertical,1,_,~,,
+- all: 9,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j6_j7_j8,from_atu_out,bnc_amphenol_031532951rfx,3,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 9,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j6_j7_j8,from_atu_out,bnc_amphenol_031532951rfx,3,_,~,,
+- all: 10,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j5_j9_j11,trx_from_sdr,sma_pins,3,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 10,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j5_j9_j11,trx_from_sdr,sma_pins,3,_,~,,
+- all: 11,_omron_ultracompact,_ultrasensitive_dpdt_relay,_single_side_stable_,g6h_2,k3,tq2_12v,dips762w80p254l1400h530q10n,1,_,http_cdn_reichelt_de_documents_datenblatt_c300_g6h%23omr_pdf,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 11,_omron_ultracompact,_ultrasensitive_dpdt_relay,_single_side_stable_,g6h_2,k3,tq2_12v,dips762w80p254l1400h530q10n,1,_,http_cdn_reichelt_de_documents_datenblatt_c300_g6h%23omr_pdf,,
+- all: 12,,g2r_1_e_dc12,k1_k2_k4_k5,tra2_l_12vdc_s_z,relay_g2r_1_e_ac12,4,_,g2r_1_e_dc12,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 12,,g2r_1_e_dc12,k1_k2_k4_k5,tra2_l_12vdc_s_z,relay_g2r_1_e_ac12,4,_,g2r_1_e_dc12,,
+- all: 13,_resistor,_small_symbol_,r_small,r2,5k6,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 13,_resistor,_small_symbol_,r_small,r2,5k6,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~,,
+- all: 14,_resistor,_small_symbol_,r_small,r1,33k,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: 14,_resistor,_small_symbol_,r_small,r1,33k,r_0805_2012metric_pad1_20x1_40mm_handsolder,1,_,~,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: revision_,
+- all: date_,2023_08_02_17_08_58_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: date_,2023_08_02_17_08_58
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: statistics_
+- all: component_groups_,14_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: component_groups_,14
+- all: component_count_,43_(27_smd_16_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: component_count_,43_(27_smd_16_tht)
+- all: fitted_components_,43_(27_smd_16_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: fitted_components_,43_(27_smd_16_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: number_of_pcbs_,1
+- all: total_components_,43_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,sim_device,sim_pins: total_components_,43
 projects_flat: projects_flat/f6itu_k_relay_board/version_current/working
 projects_folder: projects_folder/F6ITU/K_Relay_Board/version_current/working
 repo:

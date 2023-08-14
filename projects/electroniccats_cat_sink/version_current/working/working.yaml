@@ -13,6 +13,74 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_cat_sink\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_cat_sink
 oomp_key_simple: projects_flat_electroniccats_cat_sink
+parts_verbose:
+- all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c2_c3,390pf,c_0603_1608metric,2,_,~,,c376830_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 1,_unpolarized_capacitor,_small_symbol_,c_small,c2_c3,390pf,c_0603_1608metric,2,_,~,,c376830
+- all: 2,_unpolarized_capacitor,_small_symbol_,c_small,c8_c9,0_1uf,c_0603_1608metric,2,_,~,,c149620_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 2,_unpolarized_capacitor,_small_symbol_,c_small,c8_c9,0_1uf,c_0603_1608metric,2,_,~,,c149620
+- all: 3,_unpolarized_capacitor,_small_symbol_,c_small,c4_c5_c6_c7,1uf,c_0603_1608metric,4,_,~,,c26413_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 3,_unpolarized_capacitor,_small_symbol_,c_small,c4_c5_c6_c7,1uf,c_0603_1608metric,4,_,~,,c26413
+- all: 4,_unpolarized_capacitor,_small_symbol_,c_small,c1_c10,3_3uf,c_1206_3216metric,2,_,~,,c76663_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 4,_unpolarized_capacitor,_small_symbol_,c_small,c1_c10,3_3uf,c_1206_3216metric,2,_,~,,c76663
+- all: 5,light_emitting_diode,led,d2,fault,led_0603_1608metric,1,_,~,,c84268_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 5,light_emitting_diode,led,d2,fault,led_0603_1608metric,1,_,~,,c84268
+- all: 6,zener_diode,d_zener,d1,nzh10c,d_sod_123f,1,_,~,_nzh10c,115_,c551630_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 6,zener_diode,d_zener,d1,nzh10c,d_sod_123f,1,_,~,_nzh10c,115_,c551630
+- all: 7,light_emitting_diode,led,d3,power,led_0603_1608metric,1,_,~,,c118330_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 7,light_emitting_diode,led,d3,power,led_0603_1608metric,1,_,~,,c118330
+- all: 8,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02,j1,vout,terminalblock_bornier_2_p5_08mm,1,_,~,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 8,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02,j1,vout,terminalblock_bornier_2_p5_08mm,1,_,~,,
+- all: 9,,usb_c_plug_usb2_0_connector,p1,usb_c_plug_usb2_0,c393939,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,,c393939_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 9,,usb_c_plug_usb2_0_connector,p1,usb_c_plug_usb2_0,c393939,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,,c393939
+- all: 10,_p_mosfet_transistor,_gate_source_drain_,si3421dv,q1_q2,si3421dv,sot_23_6,2,_,https_www_mouser_mx_datasheet_2_427_si3421dv_1764435_pdf,si3421dv_t1_ge3,c144884_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 10,_p_mosfet_transistor,_gate_source_drain_,si3421dv,q1_q2,si3421dv,sot_23_6,2,_,https_www_mouser_mx_datasheet_2_427_si3421dv_1764435_pdf,si3421dv_t1_ge3,c144884
+- all: 11,_resistor,_small_symbol_,r_small,r3,0r,r_0603_1608metric,1,_,~,erj_3gey0r00v,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 11,_resistor,_small_symbol_,r_small,r3,0r,r_0603_1608metric,1,_,~,erj_3gey0r00v,
+- all: 12,_resistor,_small_symbol_,r_small,r2_r6_r13_r18,1k,r_0603_1608metric,4,_,~,,c115325_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 12,_resistor,_small_symbol_,r_small,r2_r6_r13_r18,1k,r_0603_1608metric,4,_,~,,c115325
+- all: 13,_resistor,_small_symbol_,r_small,r1_r5,2_4k,r_0603_1608metric,2,_,~,,c98728_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 13,_resistor,_small_symbol_,r_small,r1_r5,2_4k,r_0603_1608metric,2,_,~,,c98728
+- all: 14,_resistor,_small_symbol_,r_small,r4_r7_r8_r9_r10,5_1k,r_0603_1608metric,5,_,~,,c131715_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 14,_resistor,_small_symbol_,r_small,r4_r7_r8_r9_r10,5_1k,r_0603_1608metric,5,_,~,,c131715
+- all: 15,_resistor,_small_symbol_,r_small,r11_r14_r15_r16_r17,10k,r_0603_1608metric,5,_,~,,c99198_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 15,_resistor,_small_symbol_,r_small,r11_r14_r15_r16_r17,10k,r_0603_1608metric,5,_,~,,c99198
+- all: 16,_resistor,_small_symbol_,r_small,r12,50k,r_0603_1608metric,1,_,~,,c304067_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 16,_resistor,_small_symbol_,r_small,r12,50k,r_0603_1608metric,1,_,~,,c304067
+- all: 17,_switch,_three_position,_single_pole_triple_throw,_3_position_switch,_sp3t_,sw_sp4t,sw2,current,k3_1410s_e1,1,_,~,k3_1410s_e1,c145846_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 17,_switch,_three_position,_single_pole_triple_throw,_3_position_switch,_sp3t_,sw_sp4t,sw2,current,k3_1410s_e1,1,_,~,k3_1410s_e1,c145846
+- all: 18,_switch,_three_position,_single_pole_triple_throw,_3_position_switch,_sp3t_,sw_sp4t,sw1,voltage,k3_1410s_e1,1,_,~,k3_1410s_e1,c145846_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 18,_switch,_three_position,_single_pole_triple_throw,_3_position_switch,_sp3t_,sw_sp4t,sw1,voltage,k3_1410s_e1,1,_,~,k3_1410s_e1,c145846
+- all: 19,f,cypd3177_24lqxi,u1,cypd3177_24lqxi,qfn_24_1ep_4x4mm_p0_5mm_ep2_7x2_7mm,1,_,https_www_cypress_com_file_460416_download,cypd3177_24lqxq,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: 19,f,cypd3177_24lqxi,u1,cypd3177_24lqxi,qfn_24_1ep_4x4mm_p0_5mm_ep2_7x2_7mm,1,_,https_www_cypress_com_file_460416_download,cypd3177_24lqxq,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: variant_,default
+- all: revision_,v1_0_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: revision_,v1_0
+- all: date_,2020_10_24_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: date_,2020_10_24
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: statistics_
+- all: component_groups_,19_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: component_groups_,19
+- all: component_count_,38_(34_smd_4_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: component_count_,38_(34_smd_4_tht)
+- all: fitted_components_,38_(34_smd_4_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: fitted_components_,38_(34_smd_4_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: number_of_pcbs_,1
+- all: total_components_,38_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc: total_components_,38
 projects_flat: projects_flat/electroniccats_cat_sink/version_current/working
 projects_folder: projects_folder/ElectronicCats/Cat-Sink/version_current/working
 repo:

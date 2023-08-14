@@ -80,6 +80,91 @@ owner:
   subscriptions_url: https://api.github.com/users/aaronw2/subscriptions
   type: User
   url: https://api.github.com/users/aaronw2
+parts_verbose:
+- all: "1,unpolarized_capacitor,c,c302_c303_c304_c305,0_1uf,c_0603_1608metric,4,_,~,kemet,c0603c104m3rac7867,digikey,399_c0603c104m3rac7867ct_nd,https_www_digikey_com_en_products_detail_kemet_c0603c104m3rac7867_416046,0_1_\xE2\
+    \xB5f_\xE2\xB120%_25v_ceramic_capacitor_x7r_0603_(1608_metric),kemet,,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : "1,unpolarized_capacitor,c,c302_c303_c304_c305,0_1uf,c_0603_1608metric,4,_,~,kemet,c0603c104m3rac7867,digikey,399_c0603c104m3rac7867ct_nd,https_www_digikey_com_en_products_detail_kemet_c0603c104m3rac7867_416046,0_1_\xE2\
+    \xB5f_\xE2\xB120%_25v_ceramic_capacitor_x7r_0603_(1608_metric),kemet,,,"
+- all: "2,unpolarized_capacitor,c,c301,10uf_10v,c_0603_1608metric,1,_,~,samsung_electro_mechanics,cl10a106mp8nnnc,digikey,1276_1871_1_nd,https_www_digikey_com_en_products_detail_samsung_electro_mechanics_cl10a106mp8nnnc_3887529,10_\xE2\
+    \xB5f_\xE2\xB120%_10v_ceramic_capacitor_x5r_0603_(1608_metric),samsung_electro_mechanics,,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : "2,unpolarized_capacitor,c,c301,10uf_10v,c_0603_1608metric,1,_,~,samsung_electro_mechanics,cl10a106mp8nnnc,digikey,1276_1871_1_nd,https_www_digikey_com_en_products_detail_samsung_electro_mechanics_cl10a106mp8nnnc_3887529,10_\xE2\
+    \xB5f_\xE2\xB120%_10v_ceramic_capacitor_x5r_0603_(1608_metric),samsung_electro_mechanics,,,"
+- all: 3,schottky_diode,d_schottky,d301,dss12utr,d_sod_123f,1,_,~,smc_diode_solutions,dss12utr,digikey,1655_1925_1_nd,https_www_digikey_com_en_products_detail_smc_diode_solutions_dss12utr_8341857,diode_schottky_20_v_1a_surface_mount_sod_123fl,,,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : 3,schottky_diode,d_schottky,d301,dss12utr,d_sod_123f,1,_,~,smc_diode_solutions,dss12utr,digikey,1655_1925_1_nd,https_www_digikey_com_en_products_detail_smc_diode_solutions_dss12utr_8341857,diode_schottky_20_v_1a_surface_mount_sod_123fl,,,,
+- all: "4,light_emitting_diode,led,d302,green,led_0603_1608metric,1,_,~,w\xE3\xBC\
+    rth_elektronik,150060vs55040,digikey,732_12017_1_nd,https_www_digikey_com_en_products_detail_w%c3%bcrth_elektronik_150060vs55040_8557182,green_573nm_led_indication_discrete_2v_0603_(1608_metric),w\xE3\
+    \xBCrth_elektronik,,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : "4,light_emitting_diode,led,d302,green,led_0603_1608metric,1,_,~,w\xE3\xBCrth_elektronik,150060vs55040,digikey,732_12017_1_nd,https_www_digikey_com_en_products_detail_w%c3%bcrth_elektronik_150060vs55040_8557182,green_573nm_led_indication_discrete_2v_0603_(1608_metric),w\xE3\
+    \xBCrth_elektronik,,,"
+- all: 5,_generic_connector,_single_row,_01x05,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x05_male,j301,external_motion,jst_ph_s5b_ph_k_1x05_p2_00mm_horizontal,1,_,~,jst_sales_america_inc_,b5b_ph_sm4_tbt(lf)(sn),digikey,455_3362_1_nd,https_www_digikey_com_en_products_detail_jst_sales_america_inc_b5b_ph_sm4_tbt_lf_sn_9918859,_connector_header_surface_mount_5_position_0_079_(2_00mm)_,jst_sales_america_inc_,,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : 5,_generic_connector,_single_row,_01x05,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x05_male,j301,external_motion,jst_ph_s5b_ph_k_1x05_p2_00mm_horizontal,1,_,~,jst_sales_america_inc_,b5b_ph_sm4_tbt(lf)(sn),digikey,455_3362_1_nd,https_www_digikey_com_en_products_detail_jst_sales_america_inc_b5b_ph_sm4_tbt_lf_sn_9918859,_connector_header_surface_mount_5_position_0_079_(2_00mm)_,jst_sales_america_inc_,,,
+- all: "6,resistor,r,r301,330,r_0603_1608metric,1,_,~,yageo,rc0603fr_07330rl,digikey,311_330hrct_nd,https_www_digikey_com_en_products_detail_yageo_rc0603fr_07330rl_727162,_330_ohms_\xE2\
+    \xB11%_0_1w,_1_10w_chip_resistor_0603_(1608_metric)_moisture_resistant_thick_film_,yageo,,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : "6,resistor,r,r301,330,r_0603_1608metric,1,_,~,yageo,rc0603fr_07330rl,digikey,311_330hrct_nd,https_www_digikey_com_en_products_detail_yageo_rc0603fr_07330rl_727162,_330_ohms_\xE2\
+    \xB11%_0_1w,_1_10w_chip_resistor_0603_(1608_metric)_moisture_resistant_thick_film_,yageo,,,"
+- all: 7,resistor,r,r306_r307_r308_r309,2_2k,r_0603_1608metric,4,_,~,yageo,rc0603fr_074k7l,digikey,311_4_70khrct_nd,https_www_digikey_com_en_products_detail_yageo_rc0603fr_074k7l_727212,_0_ohms_jumper_0_063w,_1_16w_chip_resistor_0402_(1005_metric)_moisture_resistant_thick_film_,yageo,,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : 7,resistor,r,r306_r307_r308_r309,2_2k,r_0603_1608metric,4,_,~,yageo,rc0603fr_074k7l,digikey,311_4_70khrct_nd,https_www_digikey_com_en_products_detail_yageo_rc0603fr_074k7l_727212,_0_ohms_jumper_0_063w,_1_16w_chip_resistor_0402_(1005_metric)_moisture_resistant_thick_film_,yageo,,,
+- all: "8,resistor,r,r302_r303_r304_r305_r310,10k,r_0603_1608metric,5,_,~,yageo,rc0402fr_070rl,digikey,311_0_0lrct_nd,https_www_digikey_com_en_products_detail_yageo_rc0402fr_070rl_2827570,_10_kohms_\xE2\
+    \xB11%_0_1w,_1_10w_chip_resistor_0603_(1608_metric)_moisture_resistant_thick_film_,yageo,,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : "8,resistor,r,r302_r303_r304_r305_r310,10k,r_0603_1608metric,5,_,~,yageo,rc0402fr_070rl,digikey,311_0_0lrct_nd,https_www_digikey_com_en_products_detail_yageo_rc0402fr_070rl_2827570,_10_kohms_\xE2\
+    \xB11%_0_1w,_1_10w_chip_resistor_0603_(1608_metric)_moisture_resistant_thick_film_,yageo,,,"
+- all: "9,_intelligent_9_axis_absolute_orientation_sensor,_lga_28_,bno080,u_,bno085,lga_28_5_2x3_8mm_p0_5mm,1,_,https_www_ceva_dsp_com_wp_content_uploads_2019_10_bno080_085_datasheet_pdf,_ceva_technologies,_inc_,bno085,digikey,1888_1006_1_nd,https_www_digikey_com_en_products_detail_ceva_technologies_inc_bno085_9445940,_accelerometer,_gyroscope,_magnetometer,_9_axis_sensor_i\xE2\
+    \xB2c,_spi,_uart_output_,_ceva_technologies,_inc_,,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : "9,_intelligent_9_axis_absolute_orientation_sensor,_lga_28_,bno080,u_,bno085,lga_28_5_2x3_8mm_p0_5mm,1,_,https_www_ceva_dsp_com_wp_content_uploads_2019_10_bno080_085_datasheet_pdf,_ceva_technologies,_inc_,bno085,digikey,1888_1006_1_nd,https_www_digikey_com_en_products_detail_ceva_technologies_inc_bno085_9445940,_accelerometer,_gyroscope,_magnetometer,_9_axis_sensor_i\xE2\
+    \xB2c,_spi,_uart_output_,_ceva_technologies,_inc_,,,"
+- all: 10,,om_7604_c7,y301,om_7604_c7,osc_om_7604_c7,1,_,_32_768_khz_xo_(standard)_cmos_oscillator_1_2v_~_5_5v_enable_disable_4_smd,_no_lead_,micro_crystal_ag,om_7604_c7_32_768khz_20ppm_ta_qc,digikey,2195_om_7604_c7_32_768khz_20ppm_ta_qcct_nd,https_www_digikey_com_en_products_detail_micro_crystal_ag_om_7604_c7_32_768khz_20ppm_ta_qc_10431069,_32_768_khz_xo_(standard)_cmos_oscillator_1_2v_~_5_5v_enable_disable_4_smd,_no_lead_,micro_crystal,manufacturer_recommendations,0_7_mm,4_2_06_2019_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : 10,,om_7604_c7,y301,om_7604_c7,osc_om_7604_c7,1,_,_32_768_khz_xo_(standard)_cmos_oscillator_1_2v_~_5_5v_enable_disable_4_smd,_no_lead_,micro_crystal_ag,om_7604_c7_32_768khz_20ppm_ta_qc,digikey,2195_om_7604_c7_32_768khz_20ppm_ta_qcct_nd,https_www_digikey_com_en_products_detail_micro_crystal_ag_om_7604_c7_32_768khz_20ppm_ta_qc_10431069,_32_768_khz_xo_(standard)_cmos_oscillator_1_2v_~_5_5v_enable_disable_4_smd,_no_lead_,micro_crystal,manufacturer_recommendations,0_7_mm,4_2_06_2019
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : project_info_
+- all: schematic_,working_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : schematic_,working
+- all: variant_,default_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : variant_,default
+- all: revision_,1_0_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : revision_,1_0
+- all: date_,2022_03_03_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : date_,2022_03_03
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : statistics_
+- all: component_groups_,10_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : component_groups_,10
+- all: component_count_,20_(17_smd_2_tht)_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : component_count_,20_(17_smd_2_tht)
+- all: fitted_components_,20_(17_smd_2_tht)_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : fitted_components_,20_(17_smd_2_tht)
+- all: number_of_pcbs_,1_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : number_of_pcbs_,1
+- all: total_components_,20_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,spr,spn,spurl,desc,manufacturer,standard,maximum_package_height,partrev
+  : total_components_,20
 private: false
 projects_flat: projects_flat/aaronw2_slimevr/version_current/working
 projects_folder: projects_folder/aaronw2/slimevr/version_current/working

@@ -13,6 +13,54 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_rs485_modbus_featherwing\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_rs485_modbus_featherwing
 oomp_key_simple: projects_flat_electroniccats_rs485_modbus_featherwing
+parts_verbose:
+- all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c2,0_1uf,c_0603_1608metric_pad1_05x0_95mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_210_wtc_mlcc_general_purpose_1534899_pdf,0603f104z160ct,,mouser_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: 1,_unpolarized_capacitor,_small_symbol_,c_small,c2,0_1uf,c_0603_1608metric_pad1_05x0_95mm_handsolder,1,_,https_www_mouser_mx_datasheet_2_210_wtc_mlcc_general_purpose_1534899_pdf,0603f104z160ct,,mouser
+- all: 2,_unpolarized_capacitor,_small_symbol_,c_small,c1,10uf,c_0603_1608metric_pad1_05x0_95mm_handsolder,1,_,https_lcsc_com_product_detail_others_yageo_cc0603krx5r6bb106_c326057_html,cc0603krx5r6bb106,c326057,lcsc_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: 2,_unpolarized_capacitor,_small_symbol_,c_small,c1,10uf,c_0603_1608metric_pad1_05x0_95mm_handsolder,1,_,https_lcsc_com_product_detail_others_yageo_cc0603krx5r6bb106_c326057_html,cc0603krx5r6bb106,c326057,lcsc
+- all: 3,_generic_screw_terminal,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,screw_terminal_01x02,j3,screw_terminal_01x02,terminalblock_bornier_2_p5_08mm,1,_,https_lcsc_com_product_detail_pluggable_system_terminal_block_ningbo_kangnex_elec_wj500v_5_08_2p_14_00a_c8465_html,wj500v_5_08_2p,c8465,lcsc_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: 3,_generic_screw_terminal,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,screw_terminal_01x02,j3,screw_terminal_01x02,terminalblock_bornier_2_p5_08mm,1,_,https_lcsc_com_product_detail_pluggable_system_terminal_block_ningbo_kangnex_elec_wj500v_5_08_2p_14_00a_c8465_html,wj500v_5_08_2p,c8465,lcsc
+- all: 4,_generic_connector,_single_row,_01x16,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x16,j1,feather_long,terminalblock_altech_ak300_2_p5_00mm,1,_,~,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: 4,_generic_connector,_single_row,_01x16,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x16,j1,feather_long,terminalblock_altech_ak300_2_p5_00mm,1,_,~,,,
+- all: 5,_generic_connector,_single_row,_01x12,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x12,j2,feather_short,pinheader_1x12_p2_54mm_vertical,1,_,,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: 5,_generic_connector,_single_row,_01x12,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x12,j2,feather_short,pinheader_1x12_p2_54mm_vertical,1,_,,,,
+- all: 6,_resistor,_small_symbol_,r_small,r6,120,r_0603_1608metric_pad1_05x0_95mm_handsolder,1,_,https_lcsc_com_product_detail_chip_resistor_surface_mount_120r_121_5_c103256_html,rtt03121jtp,c103256,lcsc_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: 6,_resistor,_small_symbol_,r_small,r6,120,r_0603_1608metric_pad1_05x0_95mm_handsolder,1,_,https_lcsc_com_product_detail_chip_resistor_surface_mount_120r_121_5_c103256_html,rtt03121jtp,c103256,lcsc
+- all: 7,_resistor,_small_symbol_,r_small,r1_r2_r3_r4,10k,r_0603_1608metric_pad1_05x0_95mm_handsolder,4,_,https_www_mouser_mx_datasheet_2_447_pyu_rc_group_51_rohs_l_11_1984063_pdf,rc0603jr_0710kl,,mouser_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: 7,_resistor,_small_symbol_,r_small,r1_r2_r3_r4,10k,r_0603_1608metric_pad1_05x0_95mm_handsolder,4,_,https_www_mouser_mx_datasheet_2_447_pyu_rc_group_51_rohs_l_11_1984063_pdf,rc0603jr_0710kl,,mouser
+- all: 8,_resistor,_small_symbol_,r_small,r5_r7,20k,r_0603_1608metric_pad1_05x0_95mm_handsolder,2,_,https_lcsc_com_product_detail_chip_resistor_surface_mount_uni_royal_uniroyal_elec_0603waj0203t5e_c25586_html,0603waj0203t5e,c25586,lcsc_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: 8,_resistor,_small_symbol_,r_small,r5_r7,20k,r_0603_1608metric_pad1_05x0_95mm_handsolder,2,_,https_lcsc_com_product_detail_chip_resistor_surface_mount_uni_royal_uniroyal_elec_0603waj0203t5e_c25586_html,0603waj0203t5e,c25586,lcsc
+- all: 9,_industrial_3_3v_low_power_half_duplex_rs_485_transceiver_10mbps,_soic_8_,sp3485en,u1,sp3485en,soic_8_3_9x4_9mm_p1_27mm,1,_,https_www_mouser_mx_datasheet_2_146_sp3485_1816391_pdf,sp3485en_l_tr,,mouser_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: 9,_industrial_3_3v_low_power_half_duplex_rs_485_transceiver_10mbps,_soic_8_,sp3485en,u1,sp3485en,soic_8_3_9x4_9mm_p1_27mm,1,_,https_www_mouser_mx_datasheet_2_146_sp3485_1816391_pdf,sp3485en_l_tr,,mouser
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: variant_,default
+- all: revision_,1_0_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: revision_,1_0
+- all: date_,2020_11_03_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: date_,2020_11_03
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: statistics_
+- all: component_groups_,9_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: component_groups_,9
+- all: component_count_,13_(10_smd_3_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: component_count_,13_(10_smd_3_tht)
+- all: fitted_components_,13_(10_smd_3_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: fitted_components_,13_(10_smd_3_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: number_of_pcbs_,1
+- all: total_components_,13_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,manf#,lcsc#,proveedor: total_components_,13
 projects_flat: projects_flat/electroniccats_rs485_modbus_featherwing/version_current/working
 projects_folder: projects_folder/ElectronicCats/RS485_Modbus_FeatherWing/version_current/working
 repo:

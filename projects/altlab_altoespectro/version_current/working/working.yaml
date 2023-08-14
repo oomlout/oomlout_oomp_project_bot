@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\altlab_altoespectro\version_current\working
 oomp_key: oomp_projects_flat_altlab_altoespectro
 oomp_key_simple: projects_flat_altlab_altoespectro
+parts_verbose:
+- all: 1_@hole0,@hole1,@hole2__3____
+  designation: ''
+  designator: '@hole0'
+  footprint: ''
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_@hole0,@hole1,@hole2__3____
+  designation: ''
+  designator: '@hole1'
+  footprint: ''
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_@hole0,@hole1,@hole2__3____
+  designation: ''
+  designator: '@hole2'
+  footprint: ''
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_c1,c2_c0402_2_0_01uf___
+  designation: 0_01uf
+  designator: c1
+  footprint: c0402
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_c1,c2_c0402_2_0_01uf___
+  designation: 0_01uf
+  designator: c2
+  footprint: c0402
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_ic1_dil22_4_1_ilx544a___
+  designation: ilx544a
+  designator: ic1
+  footprint: dil22_4
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_jp1_1x03_1_sensortemp___
+  designation: sensortemp
+  designator: jp1
+  footprint: 1x03
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_jp2_1x07_1_control___
+  designation: control
+  designator: jp2
+  footprint: 1x07
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/altlab_altoespectro/version_current/working
 projects_folder: projects_folder/altLab/AltoEspectro/version_current/working
 repo:
