@@ -13,62 +13,243 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_gator_uv\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_gator_uv
 oomp_key_simple: projects_flat_sparkfun_gator_uv
-parts_verbose:
+parts_oomp:
 - all: 1,,0_1uf_0603_25v_(_80_20%),c4,0_1uf_0603_25v_(_80_20%),0603,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,0_1uf_0603_25v_(_80_20%),c4,0_1uf_0603_25v_(_80_20%),0603,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,,0_1uf_0603_25v_(_80_20%),c4,0_1uf_0603_25v_(_80_20%),0603,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,0_1uf_0603_25v_(_80_20%),c4,0_1uf_0603_25v_(_80_20%),0603,1,_,
 - all: 2,,diode_zener_bzt52c3v6s,d2_d3_d4,diode_zener_bzt52c3v6s,sod_323,3,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,diode_zener_bzt52c3v6s,d2_d3_d4,diode_zener_bzt52c3v6s,sod_323,3,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,,diode_zener_bzt52c3v6s,d2_d3_d4,diode_zener_bzt52c3v6s,sod_323,3,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,diode_zener_bzt52c3v6s,d2_d3_d4,diode_zener_bzt52c3v6s,sod_323,3,_,
 - all: 3,,led_red0603,d1,red,led_0603,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,led_red0603,d1,red,led_0603,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,,led_red0603,d1,red,led_0603,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,led_red0603,d1,red,led_0603,1,_,
 - all: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,
 - all: 5,,gatorgator_mini,j1_j2_j3_j4_j5_j6_j7_j8,gatorgator_mini,gator_mini,8,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,gatorgator_mini,j1_j2_j3_j4_j5_j6_j7_j8,gatorgator_mini,gator_mini,8,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,,gatorgator_mini,j1_j2_j3_j4_j5_j6_j7_j8,gatorgator_mini,gator_mini,8,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,gatorgator_mini,j1_j2_j3_j4_j5_j6_j7_j8,gatorgator_mini,gator_mini,8,_,
 - all: 6,,stand_off,jp3_jp4,stand_off,stand_off,2,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,stand_off,jp3_jp4,stand_off,stand_off,2,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,,stand_off,jp3_jp4,stand_off,stand_off,2,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,stand_off,jp3_jp4,stand_off,stand_off,2,_,
 - all: 7,,oshw_logomini,logo1,oshw_logomini,oshw_logo_mini,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,oshw_logomini,logo1,oshw_logomini,oshw_logo_mini,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,,oshw_logomini,logo1,oshw_logomini,oshw_logo_mini,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,oshw_logomini,logo1,oshw_logomini,oshw_logo_mini,1,_,
 - all: 8,,mosfet_pch_dmg2307l,q1,mosfet_pch_dmg2307l,sot23_3,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,mosfet_pch_dmg2307l,q1,mosfet_pch_dmg2307l,sot23_3,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,,mosfet_pch_dmg2307l,q1,mosfet_pch_dmg2307l,sot23_3,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,mosfet_pch_dmg2307l,q1,mosfet_pch_dmg2307l,sot23_3,1,_,
 - all: 9,,10kohm_0603_1_10w_1%,r1_r2_r4_r5,10kohm_0603_1_10w_1%,0603,4,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,10kohm_0603_1_10w_1%,r1_r2_r4_r5,10kohm_0603_1_10w_1%,0603,4,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,,10kohm_0603_1_10w_1%,r1_r2_r4_r5,10kohm_0603_1_10w_1%,0603,4,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,10kohm_0603_1_10w_1%,r1_r2_r4_r5,10kohm_0603_1_10w_1%,0603,4,_,
 - all: 10,,1kohm_0603_1_10w_1%,r3,1kohm_0603_1_10w_1%,0603,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,1kohm_0603_1_10w_1%,r3,1kohm_0603_1_10w_1%,0603,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,,1kohm_0603_1_10w_1%,r3,1kohm_0603_1_10w_1%,0603,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,1kohm_0603_1_10w_1%,r3,1kohm_0603_1_10w_1%,0603,1,_,
 - all: 11,,300kohm_0603_1_10w_1%,r6,300kohm_0603_1_10w_1%,0603,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,300kohm_0603_1_10w_1%,r6,300kohm_0603_1_10w_1%,0603,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,,300kohm_0603_1_10w_1%,r6,300kohm_0603_1_10w_1%,0603,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,300kohm_0603_1_10w_1%,r6,300kohm_0603_1_10w_1%,0603,1,_,
 - all: 12,,veml6070{dblquote},u1,veml6070{dblquote},veml6070,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,veml6070{dblquote},u1,veml6070{dblquote},veml6070,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: 12,,veml6070{dblquote},u1,veml6070{dblquote},veml6070,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,veml6070{dblquote},u1,veml6070{dblquote},veml6070,1,_,
 - all: 13,,sfe_logo_name_flame_1_inch,u$1_u$2,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,2,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,sfe_logo_name_flame_1_inch,u$1_u$2,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,2,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: 13,,sfe_logo_name_flame_1_inch,u$1_u$2,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,2,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,sfe_logo_name_flame_1_inch,u$1_u$2,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,2,_,
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
 - all: date_,2023_08_06_12_56_03_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_03
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: date_,2023_08_06_12_56_03_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_03
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
 - all: component_groups_,13_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,13
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: component_groups_,13_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,13
 - all: component_count_,27_(0_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,27_(0_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: component_count_,27_(0_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,27_(0_smd_0_tht)
 - all: fitted_components_,27_(0_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,27_(0_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: fitted_components_,27_(0_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,27_(0_smd_0_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id029
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
 - all: total_components_,27_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,27
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id030
+    all: total_components_,27_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,27
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030
 projects_flat: projects_flat/sparkfun_gator_uv/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_gator_uv/version_current/working
 projects_folder: projects_folder/sparkfun/gator_UV/version_current/working

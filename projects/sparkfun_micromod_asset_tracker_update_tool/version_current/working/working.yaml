@@ -13,58 +13,323 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_micromod_asset_tracker_update_tool\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_micromod_asset_tracker_update_tool
 oomp_key_simple: projects_flat_sparkfun_micromod_asset_tracker_update_tool
-parts_verbose:
+parts_oomp:
 - all: 1,,0_1uf_0603_25v_5%,c3,0_1uf_0603_25v_5%,0603,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,0_1uf_0603_25v_5%,c3,0_1uf_0603_25v_5%,0603,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,,0_1uf_0603_25v_5%,c3,0_1uf_0603_25v_5%,0603,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,0_1uf_0603_25v_5%,c3,0_1uf_0603_25v_5%,0603,1,_,
 - all: 2,,jumper_combo_2_nc_trace,cts0_dcd0_dsr0_dtr0_ri0_rts0_rxi0_txo0,jumper_combo_2_nc_trace,combo_jumper_2_nc_trace,8,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,jumper_combo_2_nc_trace,cts0_dcd0_dsr0_dtr0_ri0_rts0_rxi0_txo0,jumper_combo_2_nc_trace,combo_jumper_2_nc_trace,8,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,,jumper_combo_2_nc_trace,cts0_dcd0_dsr0_dtr0_ri0_rts0_rxi0_txo0,jumper_combo_2_nc_trace,combo_jumper_2_nc_trace,8,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,jumper_combo_2_nc_trace,cts0_dcd0_dsr0_dtr0_ri0_rts0_rxi0_txo0,jumper_combo_2_nc_trace,combo_jumper_2_nc_trace,8,_,
 - all: 3,,led_blue0603,d1,blue,led_0603,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,led_blue0603,d1,blue,led_0603,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,,led_blue0603,d1,blue,led_0603,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,led_blue0603,d1,blue,led_0603,1,_,
 - all: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,
 - all: 5,,conn_01pth_no_silk_yes_stop,j1_j2,conn_01pth_no_silk_yes_stop,1x01_no_silk,2,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,conn_01pth_no_silk_yes_stop,j1_j2,conn_01pth_no_silk_yes_stop,1x01_no_silk,2,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,,conn_01pth_no_silk_yes_stop,j1_j2,conn_01pth_no_silk_yes_stop,1x01_no_silk,2,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,conn_01pth_no_silk_yes_stop,j1_j2,conn_01pth_no_silk_yes_stop,1x01_no_silk,2,_,
 - all: 6,,micromod_2222,j5,micromod_2222,m_2_card_e_22,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,micromod_2222,j5,micromod_2222,m_2_card_e_22,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: 6,,micromod_2222,j5,micromod_2222,m_2_card_e_22,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,micromod_2222,j5,micromod_2222,m_2_card_e_22,1,_,
 - all: 7,,oshw_logomini,logo1,oshw_logomini,oshw_logo_mini,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,oshw_logomini,logo1,oshw_logomini,oshw_logo_mini,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: 7,,oshw_logomini,logo1,oshw_logomini,oshw_logo_mini,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,oshw_logomini,logo1,oshw_logomini,oshw_logo_mini,1,_,
 - all: 8,,sfe_logo_name_flame_1_inch,logo3,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,sfe_logo_name_flame_1_inch,logo3,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: 8,,sfe_logo_name_flame_1_inch,logo3,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,sfe_logo_name_flame_1_inch,logo3,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,
 - all: 9,,special_instructions_ordering,logo2,special_instructions_ordering,ordering_instructions,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,special_instructions_ordering,logo2,special_instructions_ordering,ordering_instructions,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: 9,,special_instructions_ordering,logo2,special_instructions_ordering,ordering_instructions,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,special_instructions_ordering,logo2,special_instructions_ordering,ordering_instructions,1,_,
 - all: 10,,1kohm_0603_1_10w_1%,r1,1kohm_0603_1_10w_1%,0603,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,1kohm_0603_1_10w_1%,r1,1kohm_0603_1_10w_1%,0603,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: 10,,1kohm_0603_1_10w_1%,r1,1kohm_0603_1_10w_1%,0603,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,1kohm_0603_1_10w_1%,r1,1kohm_0603_1_10w_1%,0603,1,_,
 - all: 11,,ch340c,u2,ch340c,so016,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,ch340c,u2,ch340c,so016,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part:
+    classification: electronic
+    color: converter
+    description_extra: ''
+    description_main: usb_to_serial_converter
+    directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    distributors: []
+    footprint:
+    - directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm//working/working.kicad_mod
+      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
+      oomp_key: oomp_kicad_package_so_sop_16_3_9x9_9mm_p1_27mm
+    id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    kicad_reference: U
+    make_files: true
+    manufacturer: wch
+    md5: 8b394cfe55fb40b61533e33d89af18b7
+    md5_10: 8b394cfe55
+    md5_5: 8b394
+    md5_6: 8b394c
+    name: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch340C
+    notes: []
+    oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    part_number: ch340c
+    pins:
+      '1':
+        name: gnd
+        number: '1'
+        type: signal
+      '10':
+        name: dsr
+        number: '10'
+        type: signal
+      '11':
+        name: ri
+        number: '11'
+        type: signal
+      '12':
+        name: dcd
+        number: '12'
+        type: signal
+      '13':
+        name: dtr
+        number: '13'
+        type: signal
+      '14':
+        name: rts
+        number: '14'
+        type: signal
+      '15':
+        name: rs232
+        number: '15'
+        type: signal
+      '16':
+        name: vcc
+        number: '16'
+        type: signal
+      '2':
+        name: txd
+        number: '2'
+        type: signal
+      '3':
+        name: rxd
+        number: '3'
+        type: signal
+      '4':
+        name: v3
+        number: '4'
+        type: signal
+      '5':
+        name: ud_plus
+        number: '5'
+        type: signal
+      '6':
+        name: ud_negative
+        number: '6'
+        type: gnd
+      '7':
+        name: not_connected
+        number: '7'
+        type: signal
+      '8':
+        name: out
+        number: '8'
+        type: signal
+      '9':
+        name: cts
+        number: '9'
+        type: signal
+    short_code: isp16ch340c
+    short_name: usb to serial converter (ch340c)
+    size: sop_16
+    symbol:
+    - directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340c//working/working.kicad_sym
+      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340c
+      oomp_key: oomp_kicad_interface_usb_ch340c
+    type: ic
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: 11,,ch340c,u2,ch340c,so016,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,ch340c,u2,ch340c,so016,1,_,
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
 - all: date_,2023_08_06_12_56_07_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_07
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: date_,2023_08_06_12_56_07_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_07
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id023
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
 - all: component_groups_,11_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,11
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id024
+    all: component_groups_,11_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,11
 - all: component_count_,19_(0_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,19_(0_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id025
+    all: component_count_,19_(0_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,19_(0_smd_0_tht)
 - all: fitted_components_,19_(0_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,19_(0_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: fitted_components_,19_(0_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,19_(0_smd_0_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id027
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
 - all: total_components_,19_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,19
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id028
+    all: total_components_,19_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,19
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
 projects_flat: projects_flat/sparkfun_micromod_asset_tracker_update_tool/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_micromod_asset_tracker_update_tool/version_current/working
 projects_folder: projects_folder/sparkfun/MicroMod_Asset_Tracker_Update_Tool/version_current/working

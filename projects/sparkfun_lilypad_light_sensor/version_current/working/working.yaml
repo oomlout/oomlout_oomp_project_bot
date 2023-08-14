@@ -13,46 +13,179 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lilypad_light_sensor\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lilypad_light_sensor
 oomp_key_simple: projects_flat_sparkfun_lilypad_light_sensor
-parts_verbose:
+parts_oomp:
 - all: 1,,sewtap_nohole2,light1_light2_light3,sewtap_nohole2,petal_nohole_2side,3,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,sewtap_nohole2,light1_light2_light3,sewtap_nohole2,petal_nohole_2side,3,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id001
+    all: 1,,sewtap_nohole2,light1_light2_light3,sewtap_nohole2,petal_nohole_2side,3,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,sewtap_nohole2,light1_light2_light3,sewtap_nohole2,petal_nohole_2side,3,_,
 - all: 2,,sewtap6,light_0_light_0_lights0,sewtap6,petal_small_2side,3,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,sewtap6,light_0_light_0_lights0,sewtap6,petal_small_2side,3,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id002
+    all: 2,,sewtap6,light_0_light_0_lights0,sewtap6,petal_small_2side,3,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,sewtap6,light_0_light_0_lights0,sewtap6,petal_small_2side,3,_,
 - all: 3,,resistor0402,r1,10k,c0402,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,resistor0402,r1,10k,c0402,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id003
+    all: 3,,resistor0402,r1,10k,c0402,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,resistor0402,r1,10k,c0402,1,_,
 - all: 4,,temt6000,u1,temt6000,temt6000_sen,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,temt6000,u1,temt6000,temt6000_sen,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id004
+    all: 4,,temt6000,u1,temt6000,temt6000_sen,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,temt6000,u1,temt6000,temt6000_sen,1,_,
 - all: 5,,logo_lplp,u$2,logo_lplp,logo_lilypad,1,_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,logo_lplp,u$2,logo_lplp,logo_lilypad,1,_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id005
+    all: 5,,logo_lplp,u$2,logo_lplp,logo_lilypad,1,_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,logo_lplp,u$2,logo_lplp,logo_lilypad,1,_,
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id006
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id007
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id008
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id009
+    all: ''
 - all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id010
+    all: ''
 - all: project_info__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id011
+    all: project_info__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
 - all: schematic_,working_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id012
+    all: schematic_,working_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
 - all: variant_,default_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id013
+    all: variant_,default_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
 - all: revision_,_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id014
+    all: revision_,_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
 - all: date_,2023_08_06_12_56_04_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_04
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id015
+    all: date_,2023_08_06_12_56_04_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_04
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id016
+    all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id017
+    all: statistics__
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
 - all: component_groups_,5_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,5
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id018
+    all: component_groups_,5_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,5
 - all: component_count_,9_(0_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,9_(0_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id019
+    all: component_count_,9_(0_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,9_(0_smd_0_tht)
 - all: fitted_components_,9_(0_smd_0_tht)_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,9_(0_smd_0_tht)
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id020
+    all: fitted_components_,9_(0_smd_0_tht)_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,9_(0_smd_0_tht)
 - all: number_of_pcbs_,1_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id021
+    all: number_of_pcbs_,1_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
 - all: total_components_,9_
-  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,9
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id022
+    all: total_components_,9_
+    row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,9
+parts_verbose:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
 projects_flat: projects_flat/sparkfun_lilypad_light_sensor/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lilypad_light_sensor/version_current/working
 projects_folder: projects_folder/sparkfun/LilyPad_Light_Sensor/version_current/working
