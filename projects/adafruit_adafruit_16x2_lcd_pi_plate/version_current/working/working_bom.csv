@@ -1,25 +1,10 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,R-US_0207/10,BLUE0 RED0,220,0207_10,2, ,
-2,,10-XX,DOWN0 LEFT0 RIGHT0 SELECT0 UP0,10-XX,B3F-10XX,5, ,
-3,,R-US_0207/10,GREEN0,330,0207_10,1, ,
-4,,MCP23017SP2,IC1,MCP23017SP2,DIL28-3-ROUND,1, ,
-5,,TRIM,TM1,10K,6MM,1, ,
-6,,HD44780LCD_RGBLONGPINS,U$1,HD44780LCD_RGBLONGPINS,LCD1602-RGB,1, ,
-7,,RASPBERRYPI_BB,U$4,RASPBERRYPI_BB,RASBERRYPI_SHIELD,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-32
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,7
-Component Count:,12 (0 SMD/ 0 THT)
-Fitted Components:,12 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,12
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"LEFT0,SELECT0,DOWN0,RIGHT0,UP0";"B3F-10XX";5;"";;;
+2;"BLUE0,RED0";"0207_10";2;"220";;;
+3;"U$4";"RASBERRYPI_SHIELD";1;"RASPBERRYPI_BB";;;
+4;"TM1";"6MM";1;"10K";;;
+5;"U$1";"LCD1602-RGB";1;"HD44780LCD_RGBLONGPINS";;;
+6;"IC1";"DIL28-3-ROUND";1;"MCP23017SP2";;;
+7;"GREEN0";"0207_10";1;"330";;;
+8;"U$2";"ADAFRUIT_5MM";1;"";;;
+9;"A1,A2,A0";"SOLDERJUMPER_2WAY_OPEN_NOPASTE";3;"";;;
