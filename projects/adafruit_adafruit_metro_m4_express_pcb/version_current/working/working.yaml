@@ -157,6 +157,37 @@ parts_oomp:
 - all: 21,,resistor_0603_noout,r11,330r,0603_no,1,_,_
   designator: ''
   name: unmatched
+  oomp_part:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 330_ohm
+    directory: parts/electronic_resistor_0603_330_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    - directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+      oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+    from_yaml: false
+    id: electronic_resistor_0603_330_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: 5ca593d15951b92a6ad1b19b156e6052
+    md5_10: 5ca593d159
+    md5_5: 5ca59
+    md5_6: 5ca593
+    name: Electronic Resistor 0603 330 Ohm
+    oomp_key: oomp_electronic_resistor_0603_330_ohm
+    part_number: ''
+    short_code: r6o331
+    size: '0603'
+    symbol:
+    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+      oomp_key: oomp_kicad_device_r
+    type: resistor
   oomp_part_id: unmatched
   part_verbose: &id021
     all: 21,,resistor_0603_noout,r11,330r,0603_no,1,_,_
@@ -171,6 +202,37 @@ parts_oomp:
 - all: 23,,resistor_0603_noout,r4,1k,0603_no,1,_,_
   designator: ''
   name: unmatched
+  oomp_part:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 1000_ohm
+    directory: parts/electronic_resistor_0603_1000_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    - directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+      oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+    from_yaml: false
+    id: electronic_resistor_0603_1000_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: 01afabf1a1678439fdd5ce5dd9569083
+    md5_10: 01afabf1a1
+    md5_5: 01afa
+    md5_6: 01afab
+    name: Electronic Resistor 0603 1000 Ohm
+    oomp_key: oomp_electronic_resistor_0603_1000_ohm
+    part_number: ''
+    short_code: r6o102
+    size: '0603'
+    symbol:
+    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+      oomp_key: oomp_kicad_device_r
+    type: resistor
   oomp_part_id: unmatched
   part_verbose: &id023
     all: 23,,resistor_0603_noout,r4,1k,0603_no,1,_,_
@@ -178,6 +240,37 @@ parts_oomp:
 - all: 24,,resistor_0603_noout,r3_r5_r7,10k,0603_no,3,_,_
   designator: ''
   name: unmatched
+  oomp_part:
+    classification: electronic
+    color: ''
+    description_extra: ''
+    description_main: 10000_ohm
+    directory: parts/electronic_resistor_0603_10000_ohm
+    distributors: []
+    filter: ''
+    footprint:
+    - directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
+      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
+      oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
+    from_yaml: false
+    id: electronic_resistor_0603_10000_ohm
+    kicad_reference: R
+    make_files: true
+    manufacturer: ''
+    md5: 98b9ca34207fb0534abeb029e2151ce1
+    md5_10: 98b9ca3420
+    md5_5: 98b9c
+    md5_6: 98b9ca
+    name: Electronic Resistor 0603 10000 Ohm
+    oomp_key: oomp_electronic_resistor_0603_10000_ohm
+    part_number: ''
+    short_code: r6o103
+    size: '0603'
+    symbol:
+    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+      oomp_key: oomp_kicad_device_r
+    type: resistor
   oomp_part_id: unmatched
   part_verbose: &id024
     all: 24,,resistor_0603_noout,r3_r5_r7,10k,0603_no,3,_,_

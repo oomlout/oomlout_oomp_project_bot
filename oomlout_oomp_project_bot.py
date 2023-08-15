@@ -31,8 +31,11 @@ def copy_data():
 
 def save_projects_to_yaml(**kwargs):
     projects = {}
+    count = 1
+    print(f"loading projects from indivdual yamls")
     # go through all directories in projects
     for root, dirs, files in os.walk("projects"):
+        
         #go through all files
         for file in files:
             #check for a brd file            
@@ -43,6 +46,19 @@ def save_projects_to_yaml(**kwargs):
                 with open(filename, 'r') as stream:
                     try:
                         yaml_dict = yaml.load(stream, Loader=yaml.FullLoader)
+                        if "oomp_key" in yaml_dict:
+                            print(F"loading {filename}")
+                            oomp_key = yaml_dict["oomp_key"]
+                            oomp_key = oomp_key.replace("oomp_projects_flat_", "")
+                            projects[oomp_key] = yaml_dict
+                            count += 1
+                            #print a dot every 100
+                            #if count % 100 == 0:
+                            #    print(".", end="", flush=True)
+                        
+                        else:
+                            print(F"no oomp_key in {filename}")
+                    
                     except:
                         print("yaml file error")
                         continue
