@@ -102,33 +102,6 @@ parts_oomp:
 - all: 13,,resistor_0402no,r6_r7_r11,1k,_0402no,3,_,_
   designator: ''
   name: unmatched
-  oomp_part:
-    classification: electronic
-    color: ''
-    description_extra: ''
-    description_main: 1000_ohm
-    directory: parts/electronic_resistor_0402_1000_ohm
-    distributors: []
-    filter: ''
-    from_yaml: false
-    id: electronic_resistor_0402_1000_ohm
-    kicad_reference: R
-    make_files: true
-    manufacturer: ''
-    md5: 70cb9a65beb74c5b856215050b7c3469
-    md5_10: 70cb9a65be
-    md5_5: 70cb9
-    md5_6: 70cb9a
-    name: Electronic Resistor 0402 1000 Ohm
-    oomp_key: oomp_electronic_resistor_0402_1000_ohm
-    part_number: ''
-    short_code: r4o102
-    size: '0402'
-    symbol:
-    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-      oomp_key: oomp_kicad_device_r
-    type: resistor
   oomp_part_id: unmatched
   part_verbose: &id013
     all: 13,,resistor_0402no,r6_r7_r11,1k,_0402no,3,_,_
@@ -136,33 +109,6 @@ parts_oomp:
 - all: 14,,resistor_0402no,r1_r2_r5,10k,_0402no,3,_,_
   designator: ''
   name: unmatched
-  oomp_part:
-    classification: electronic
-    color: ''
-    description_extra: ''
-    description_main: 10000_ohm
-    directory: parts/electronic_resistor_0402_10000_ohm
-    distributors: []
-    filter: ''
-    from_yaml: false
-    id: electronic_resistor_0402_10000_ohm
-    kicad_reference: R
-    make_files: true
-    manufacturer: ''
-    md5: 809c3c0eebd9db9a8729102e6b3027c7
-    md5_10: 809c3c0eeb
-    md5_5: 809c3
-    md5_6: 809c3c
-    name: Electronic Resistor 0402 10000 Ohm
-    oomp_key: oomp_electronic_resistor_0402_10000_ohm
-    part_number: ''
-    short_code: r4o103
-    size: '0402'
-    symbol:
-    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-      oomp_key: oomp_kicad_device_r
-    type: resistor
   oomp_part_id: unmatched
   part_verbose: &id014
     all: 14,,resistor_0402no,r1_r2_r5,10k,_0402no,3,_,_

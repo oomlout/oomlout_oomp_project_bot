@@ -18,21 +18,21 @@ parts_oomp:
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id002
+  part_verbose: &id001
     all: 1,,cap_ceramic0603_no,c2_c4,22pf,0603_no,2,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap_ceramic0603_no,c2_c4,22pf,0603_no,2,_,
 - all: 2,,cap_ceramic0603_no,c7_c10_c11_c12_c14_c15,1uf,0603_no,6,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id003
+  part_verbose: &id002
     all: 2,,cap_ceramic0603_no,c7_c10_c11_c12_c14_c15,1uf,0603_no,6,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap_ceramic0603_no,c7_c10_c11_c12_c14_c15,1uf,0603_no,6,_,
 - all: "3,,cap_ceramic0805_nooutline,c3_c5_c6_c8_c13,10\xE2\xB5f,0805_no,5,_,_"
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id004
+  part_verbose: &id003
     all: "3,,cap_ceramic0805_nooutline,c3_c5_c6_c8_c13,10\xE2\xB5f,0805_no,5,_,_"
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: "3,,cap_ceramic0805_nooutline,c3_c5_c6_c8_c13,10\xE2\
       \xB5f,0805_no,5,_,"
@@ -40,219 +40,162 @@ parts_oomp:
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id005
+  part_verbose: &id004
     all: 4,,led0805_nooutline,chg0,orange,chipled_0805_nooutline,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,led0805_nooutline,chg0,orange,chipled_0805_nooutline,1,_,
 - all: 5,,diode_schottkysod_123,d4,mbr120,sod_123,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id006
+  part_verbose: &id005
     all: 5,,diode_schottkysod_123,d4,mbr120,sod_123,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,diode_schottkysod_123,d4,mbr120,sod_123,1,_,
 - all: 6,,_tpb1,27_,d_0_d_0,_tpb1,27_,_b1,27_,2,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id007
+  part_verbose: &id006
     all: 6,,_tpb1,27_,d_0_d_0,_tpb1,27_,_b1,27_,2,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,_tpb1,27_,d_0_d_0,_tpb1,27_,_b1,27_,2,_,
 - all: 7,,header_1x12,jp3,header_1x12,1x12_round,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id008
+  part_verbose: &id007
     all: 7,,header_1x12,jp3,header_1x12,1x12_round,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,header_1x12,jp3,header_1x12,1x12_round,1,_,
 - all: 8,,header_1x16round,jp1,header_1x16round,1x16_round,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id009
+  part_verbose: &id008
     all: 8,,header_1x16round,jp1,header_1x16round,1x16_round,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,header_1x16round,jp1,header_1x16round,1x16_round,1,_,
 - all: 9,,inductor,l2,10uh,inductor_1007,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id010
+  part_verbose: &id009
     all: 9,,inductor,l2,10uh,inductor_1007,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,inductor,l2,10uh,inductor_1007,1,_,
 - all: 10,,led0805_nooutline,l0,red,chipled_0805_nooutline,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id011
+  part_verbose: &id010
     all: 10,,led0805_nooutline,l0,red,chipled_0805_nooutline,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,led0805_nooutline,l0,red,chipled_0805_nooutline,1,_,
 - all: 11,,ws2812b3535,led1,ws2812b3535,led3535,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id012
+  part_verbose: &id011
     all: 11,,ws2812b3535,led1,ws2812b3535,led3535,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,ws2812b3535,led1,ws2812b3535,led3535,1,_,
 - all: 12,,mosfet_p,q3,dmg341,sot23_r,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id013
+  part_verbose: &id012
     all: 12,,mosfet_p,q3,dmg341,sot23_r,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,mosfet_p,q3,dmg341,sot23_r,1,_,
 - all: 13,,resistor_0603_noout,r2,1k,0603_no,1,_,_
   designator: ''
   name: unmatched
-  oomp_part:
-    classification: electronic
-    color: ''
-    description_extra: ''
-    description_main: 1000_ohm
-    directory: parts/electronic_resistor_0603_1000_ohm
-    distributors: []
-    filter: ''
-    footprint:
-    - directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
-      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
-      oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
-    from_yaml: false
-    id: electronic_resistor_0603_1000_ohm
-    kicad_reference: R
-    make_files: true
-    manufacturer: ''
-    md5: 01afabf1a1678439fdd5ce5dd9569083
-    md5_10: 01afabf1a1
-    md5_5: 01afa
-    md5_6: 01afab
-    name: Electronic Resistor 0603 1000 Ohm
-    oomp_key: oomp_electronic_resistor_0603_1000_ohm
-    part_number: ''
-    short_code: r6o102
-    size: '0603'
-    symbol:
-    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-      oomp_key: oomp_kicad_device_r
-    type: resistor
   oomp_part_id: unmatched
-  part_verbose: &id014
+  part_verbose: &id013
     all: 13,,resistor_0603_noout,r2,1k,0603_no,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,resistor_0603_noout,r2,1k,0603_no,1,_,
 - all: 14,,resistor_0603_noout,r7,2_2k,0603_no,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id015
+  part_verbose: &id014
     all: 14,,resistor_0603_noout,r7,2_2k,0603_no,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,resistor_0603_noout,r7,2_2k,0603_no,1,_,
 - all: 15,,resistor_0603_noout,r3_r4_r5_r6,10k,0603_no,4,_,_
   designator: ''
   name: unmatched
-  oomp_part: &id001
-    classification: electronic
-    color: ''
-    description_extra: ''
-    description_main: 10000_ohm
-    directory: parts/electronic_resistor_0603_10000_ohm
-    distributors: []
-    filter: ''
-    footprint:
-    - directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
-      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
-      oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
-    from_yaml: false
-    id: electronic_resistor_0603_10000_ohm
-    kicad_reference: R
-    make_files: true
-    manufacturer: ''
-    md5: 98b9ca34207fb0534abeb029e2151ce1
-    md5_10: 98b9ca3420
-    md5_5: 98b9c
-    md5_6: 98b9ca
-    name: Electronic Resistor 0603 10000 Ohm
-    oomp_key: oomp_electronic_resistor_0603_10000_ohm
-    part_number: ''
-    short_code: r6o103
-    size: '0603'
-    symbol:
-    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-      oomp_key: oomp_kicad_device_r
-    type: resistor
   oomp_part_id: unmatched
-  part_verbose: &id016
+  part_verbose: &id015
     all: 15,,resistor_0603_noout,r3_r4_r5_r6,10k,0603_no,4,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,resistor_0603_noout,r3_r4_r5_r6,10k,0603_no,4,_,
 - all: 16,,resistor_4pack_no,r9,100k,respack_4x0603_no,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id017
+  part_verbose: &id016
     all: 16,,resistor_4pack_no,r9,100k,respack_4x0603_no,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,resistor_4pack_no,r9,100k,respack_4x0603_no,1,_,
 - all: 17,,resistor_0603_noout,r8,10k_,0603_no,1,_,_
   designator: ''
   name: unmatched
-  oomp_part: *id001
   oomp_part_id: unmatched
-  part_verbose: &id018
+  part_verbose: &id017
     all: 17,,resistor_0603_noout,r8,10k_,0603_no,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,resistor_0603_noout,r8,10k_,0603_no,1,_,
 - all: 18,,switch_tact_smt4_6x2_8,sw1,kmr2,btn_kmr2_4_6x2_8,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id019
+  part_verbose: &id018
     all: 18,,switch_tact_smt4_6x2_8,sw1,kmr2,btn_kmr2_4_6x2_8,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,switch_tact_smt4_6x2_8,sw1,kmr2,btn_kmr2_4_6x2_8,1,_,
 - all: 19,,spiflash_8pinux,u1,2mb_flash,uson8,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id020
+  part_verbose: &id019
     all: 19,,spiflash_8pinux,u1,2mb_flash,uson8,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,spiflash_8pinux,u1,2mb_flash,uson8,1,_,
 - all: 20,,vreg_sot23_5,u2,ap2112_3_3,sot23_5,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id021
+  part_verbose: &id020
     all: 20,,vreg_sot23_5,u2,ap2112_3_3,sot23_5,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,vreg_sot23_5,u2,ap2112_3_3,sot23_5,1,_,
 - all: 21,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id022
+  part_verbose: &id021
     all: 21,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,
 - all: 22,,atsamd51j,u$14,atsamd51j,pqfn64_1,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id023
+  part_verbose: &id022
     all: 22,,atsamd51j,u$14,atsamd51j,pqfn64_1,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,,atsamd51j,u$14,atsamd51j,pqfn64_1,1,_,
 - all: 23,,xtal_3_2x1_5,x2,32_768,xtal3215,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id024
+  part_verbose: &id023
     all: 23,,xtal_3_2x1_5,x2,32_768,xtal3215,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 23,,xtal_3_2x1_5,x2,32_768,xtal3215,1,_,
 - all: 24,,con_jst_ph_2pin,x1,jstph,jstph2,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id025
+  part_verbose: &id024
     all: 24,,con_jst_ph_2pin,x1,jstph,jstph2,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 24,,con_jst_ph_2pin,x1,jstph,jstph2,1,_,
 - all: 25,,usb_micro_20329_v2,x3,microusb,4uconn_20329_v2,1,_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id026
+  part_verbose: &id025
     all: 25,,usb_micro_20329_v2,x3,microusb,4uconn_20329_v2,1,_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 25,,usb_micro_20329_v2,x3,microusb,4uconn_20329_v2,1,_,
+- all: ''
+  designator: ''
+  name: unmatched
+  oomp_part_id: unmatched
+  part_verbose: &id026
+    all: ''
 - all: ''
   designator: ''
   name: unmatched
@@ -277,97 +220,92 @@ parts_oomp:
   oomp_part_id: unmatched
   part_verbose: &id030
     all: ''
-- all: ''
-  designator: ''
-  name: unmatched
-  oomp_part_id: unmatched
-  part_verbose: &id031
-    all: ''
 - all: project_info__
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id032
+  part_verbose: &id031
     all: project_info__
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
 - all: schematic_,working_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id033
+  part_verbose: &id032
     all: schematic_,working_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
 - all: variant_,default_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id034
+  part_verbose: &id033
     all: variant_,default_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
 - all: revision_,_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id035
+  part_verbose: &id034
     all: revision_,_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
 - all: date_,2023_08_02_17_08_33_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id036
+  part_verbose: &id035
     all: date_,2023_08_02_17_08_33_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_33
 - all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id037
+  part_verbose: &id036
     all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
 - all: statistics__
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id038
+  part_verbose: &id037
     all: statistics__
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
 - all: component_groups_,25_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id039
+  part_verbose: &id038
     all: component_groups_,25_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,25
 - all: component_count_,39_(0_smd_0_tht)_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id040
+  part_verbose: &id039
     all: component_count_,39_(0_smd_0_tht)_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,39_(0_smd_0_tht)
 - all: fitted_components_,39_(0_smd_0_tht)_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id041
+  part_verbose: &id040
     all: fitted_components_,39_(0_smd_0_tht)_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,39_(0_smd_0_tht)
 - all: number_of_pcbs_,1_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id042
+  part_verbose: &id041
     all: number_of_pcbs_,1_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
 - all: total_components_,39_
   designator: ''
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id043
+  part_verbose: &id042
     all: total_components_,39_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,39
 parts_verbose:
+- *id001
 - *id002
 - *id003
 - *id004
@@ -409,7 +347,6 @@ parts_verbose:
 - *id040
 - *id041
 - *id042
-- *id043
 projects_flat: projects_flat/adafruit_adafruit_feather_m4_express_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_feather_m4_express_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Feather-M4-Express-PCB/version_current/working

@@ -191,7 +191,7 @@ parts_oomp:
     all: 21,_20mhz,_32kb_flash,_2kb_sram,_1kb_eeprom,_tqfp_32_,atmega328pb_a,u4,atmega328pb_a,tqfp_32_7x7mm_p0_8mm_short_inner,1,_,http_ww1_microchip_com_downloads_en_devicedoc_40001906c_pdf_
     row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,_20mhz,_32kb_flash,_2kb_sram,_1kb_eeprom,_tqfp_32_,atmega328pb_a,u4,atmega328pb_a,tqfp_32_7x7mm_p0_8mm_short_inner,1,_,http_ww1_microchip_com_downloads_en_devicedoc_40001906c_pdf
 - all: 22,,atmega328pb_mu_mcu_microchip_atmega,u2,atmega328pb_mu,qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm,1,_,http_ww1_microchip_com_downloads_en_devicedoc_40001906c_pdf_
-  designator: ''
+  designator: no_designator
   name: unmatched
   oomp_part:
     classification: electronic

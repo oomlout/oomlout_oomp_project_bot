@@ -11,4 +11,5 @@
 * action_cleanup_project.py -- cleans up unwanted files from a project directory
 * action_harvest_parts.py -- take the working_bom.csv and add parts_verbose to yaml file
 * action_match_parts.py -- go trhough each part and match parts_verbose aprts with parts_oomp
+* action_find_part.py -- go through all projects and compile a list of all the entries with  search term
 

@@ -38,37 +38,6 @@ parts_oomp:
 - all: 4,,resistor_0603_noout,r5_r6,100,0603_no,2,_,_
   designator: ''
   name: unmatched
-  oomp_part:
-    classification: electronic
-    color: ''
-    description_extra: ''
-    description_main: 100_ohm
-    directory: parts/electronic_resistor_0603_100_ohm
-    distributors: []
-    filter: ''
-    footprint:
-    - directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
-      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
-      oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
-    from_yaml: false
-    id: electronic_resistor_0603_100_ohm
-    kicad_reference: R
-    make_files: true
-    manufacturer: ''
-    md5: 560a9abfe6baee6dda04d14bc7f86ae5
-    md5_10: 560a9abfe6
-    md5_5: 560a9
-    md5_6: 560a9a
-    name: Electronic Resistor 0603 100 Ohm
-    oomp_key: oomp_electronic_resistor_0603_100_ohm
-    part_number: ''
-    short_code: r6o101
-    size: '0603'
-    symbol:
-    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-      oomp_key: oomp_kicad_device_r
-    type: resistor
   oomp_part_id: unmatched
   part_verbose: &id004
     all: 4,,resistor_0603_noout,r5_r6,100,0603_no,2,_,_
@@ -76,37 +45,6 @@ parts_oomp:
 - all: 5,,resistor_0603_noout,r1_r2_r3,10k,0603_no,3,_,_
   designator: ''
   name: unmatched
-  oomp_part:
-    classification: electronic
-    color: ''
-    description_extra: ''
-    description_main: 10000_ohm
-    directory: parts/electronic_resistor_0603_10000_ohm
-    distributors: []
-    filter: ''
-    footprint:
-    - directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
-      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
-      oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
-    from_yaml: false
-    id: electronic_resistor_0603_10000_ohm
-    kicad_reference: R
-    make_files: true
-    manufacturer: ''
-    md5: 98b9ca34207fb0534abeb029e2151ce1
-    md5_10: 98b9ca3420
-    md5_5: 98b9c
-    md5_6: 98b9ca
-    name: Electronic Resistor 0603 10000 Ohm
-    oomp_key: oomp_electronic_resistor_0603_10000_ohm
-    part_number: ''
-    short_code: r6o103
-    size: '0603'
-    symbol:
-    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-      oomp_key: oomp_kicad_device_r
-    type: resistor
   oomp_part_id: unmatched
   part_verbose: &id005
     all: 5,,resistor_0603_noout,r1_r2_r3,10k,0603_no,3,_,_
@@ -114,37 +52,6 @@ parts_oomp:
 - all: 6,,resistor_0603_noout,r4,22k,0603_no,1,_,_
   designator: ''
   name: unmatched
-  oomp_part:
-    classification: electronic
-    color: ''
-    description_extra: ''
-    description_main: 22000_ohm
-    directory: parts/electronic_resistor_0603_22000_ohm
-    distributors: []
-    filter: ''
-    footprint:
-    - directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
-      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
-      oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
-    from_yaml: false
-    id: electronic_resistor_0603_22000_ohm
-    kicad_reference: R
-    make_files: true
-    manufacturer: ''
-    md5: 1fe71377ebe9401bc8abc6de4392fd9c
-    md5_10: 1fe71377eb
-    md5_5: 1fe71
-    md5_6: 1fe713
-    name: Electronic Resistor 0603 22000 Ohm
-    oomp_key: oomp_electronic_resistor_0603_22000_ohm
-    part_number: ''
-    short_code: r6o223
-    size: '0603'
-    symbol:
-    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-      oomp_key: oomp_kicad_device_r
-    type: resistor
   oomp_part_id: unmatched
   part_verbose: &id006
     all: 6,,resistor_0603_noout,r4,22k,0603_no,1,_,_
@@ -152,37 +59,6 @@ parts_oomp:
 - all: 7,,resistor_0603_noout,r7,47k,0603_no,1,_,_
   designator: ''
   name: unmatched
-  oomp_part:
-    classification: electronic
-    color: ''
-    description_extra: ''
-    description_main: 47000_ohm
-    directory: parts/electronic_resistor_0603_47000_ohm
-    distributors: []
-    filter: ''
-    footprint:
-    - directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0603_1608metric//working/working.kicad_mod
-      link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0603_1608metric
-      oomp_key: oomp_kicad_resistor_smd_r_0603_1608metric
-    from_yaml: false
-    id: electronic_resistor_0603_47000_ohm
-    kicad_reference: R
-    make_files: true
-    manufacturer: ''
-    md5: cb6d6ecee78f82a38c256f006416138b
-    md5_10: cb6d6ecee7
-    md5_5: cb6d6
-    md5_6: cb6d6e
-    name: Electronic Resistor 0603 47000 Ohm
-    oomp_key: oomp_electronic_resistor_0603_47000_ohm
-    part_number: ''
-    short_code: r6o473
-    size: '0603'
-    symbol:
-    - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-      link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-      oomp_key: oomp_kicad_device_r
-    type: resistor
   oomp_part_id: unmatched
   part_verbose: &id007
     all: 7,,resistor_0603_noout,r7,47k,0603_no,1,_,_
