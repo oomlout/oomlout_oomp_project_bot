@@ -1,29 +1,27 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC_0402NO,C5 C6,220pF,_0402NO,2, ,
-2,,CAP_CERAMIC_0402NO,C1,0.1uF,_0402NO,1, ,
-3,,CAP_CERAMIC_0402NO,C3,1uF,_0402NO,1, ,
-4,,CAP_CERAMIC0805-NOOUTLINE,C2,10uF,0805-NO,1, ,
-5,,FERRITE_0402,FB1 FB2,Ferrite,_0402,2, ,
-6,,HEADER-1X7_CASTEL,JP1 JP3,HEADER-1X7_CASTEL,1X07_CASTEL,2, ,
-7,,RESISTOR_0402NO,R1,10K,_0402NO,1, ,
-8,,RESISTOR_0402NO,R2,1M,_0402NO,1, ,
-9,,AUDIOAMP_MAX98357,U1,MAX98357A,QFN16_3MM,1, ,
-10,,CON_MOLEX_2P,U$12,CON_MOLEX_2P,53398-0271,1, ,
-11,,MICROSD104031-0811,X1,MicroSD,MOLEX_104031-0811,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-32
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,11
-Component Count:,14 (0 SMD/ 0 THT)
-Fitted Components:,14 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,14
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C5,C6";"_0402NO";2;"220pF";;;
+2;"FB1,FB2";"_0402";2;"Ferrite";;;
+3;"U1";"QFN16_3MM";1;"MAX98357A";;;
+4;"PLABEL9";"PLABEL9";1;"";;;
+5;"PLABEL8";"PLABEL8";1;"";;;
+6;"R2";"_0402NO";1;"1M";;;
+7;"PLABEL11";"PLABEL11";1;"";;;
+8;"C3";"_0402NO";1;"1uF";;;
+9;"PLABEL10";"PLABEL10";1;"";;;
+10;"U$12";"53398-0271";1;"CON_MOLEX_2P";;;
+11;"U$8,U$6";"FIDUCIAL_1MM";2;"FIDUCIAL_1MM";;;
+12;"PLABEL7";"PLABEL7";1;"";;;
+13;"X1";"MOLEX_104031-0811";1;"MicroSD";;;
+14;"R1";"_0402NO";1;"10K";;;
+15;"C2";"0805-NO";1;"10uF";;;
+16;"C1";"_0402NO";1;"0.1uF";;;
+17;"PLABEL6";"PLABEL6";1;"";;;
+18;"PLABEL17";"PLABEL17";1;"";;;
+19;"PLABEL13";"PLABEL13";1;"";;;
+20;"PLABEL14";"PLABEL14";1;"";;;
+21;"PLABEL12";"PLABEL12";1;"";;;
+22;"SJ1";"SOLDERJUMPER_2WAY_OPEN_NOPASTE";1;"";;;
+23;"JP1,JP3";"1X07_CASTEL";2;"";;;
+24;"U$3";"PCBFEAT-REV-040";1;"";;;
+25;"PLABEL15";"PLABEL15";1;"";;;
+26;"PLABEL16";"PLABEL16";1;"";;;

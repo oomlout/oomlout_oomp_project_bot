@@ -1,24 +1,11 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C1 C2,10uF,0805-NO,2, ,
-2,,DIODESOD-323,D1 D2 D3,1N4148,SOD-323,3, ,
-3,,HEADER-1X770MIL,JP2,HEADER-1X770MIL,1X07_ROUND_70,1, ,
-4,,RESISTOR0805_NOOUTLINE,R1 R4,10K,0805-NO,2, ,
-5,,BMP183,U3,BMP183,BMP18X_EXTENDED,1, ,
-6,,VREG_SOT23-5,U2,MIC5225-3.3,SOT23-5,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-32
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,6
-Component Count:,10 (0 SMD/ 0 THT)
-Fitted Components:,10 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,10
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D3,D2";"SOD-323";2;"1n4148";;;
+2;"C1,C2";"0805-NO";2;"10uF";;;
+3;"U$7,U$8";"MOUNTINGHOLE_2.0_PLATED";2;"MOUNTINGHOLE2.0";;;
+4;"JP2";"1X07_ROUND_70";1;"";;;
+5;"U$6,U$2";"ADAFRUIT_2.5MM";2;"";;;
+6;"U3";"BMP18X_EXTENDED";1;"BMP183";;;
+7;"U$5,U$15";"FIDUCIAL_1MM";2;"FIDUCIAL";;;
+8;"R1,R4";"0805-NO";2;"10K";;;
+9;"U2";"SOT23-5";1;"MIC5225-3.3";;;
+10;"D1";"SOD-323";1;"1N4148";;;
