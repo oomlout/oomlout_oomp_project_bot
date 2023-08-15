@@ -9,4 +9,6 @@
 * action_generate_image_resolutions.py -- generate resolutions of images
 * action_generate_readmes -- generate all the readmes
 * action_cleanup_project.py -- cleans up unwanted files from a project directory
+* action_harvest_parts.py -- take the working_bom.csv and add parts_verbose to yaml file
+* action_match_parts.py -- go trhough each part and match parts_verbose aprts with parts_oomp
 
