@@ -1,21 +1,41 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,HEADER-1X12MM,JP2 JP4 JP5 JP6 JP7 JP8 JP9 JP10,HEADER-1X12MM,1X01_2MM,8, ,
-2,,HEADER-1X7_CASTEL,JP1 JP3,HEADER-1X7_CASTEL,1X07_CASTEL,2, ,
-3,,EYE_SPI_DISPLAY_SLIM,X1,EYE_SPI_DISPLAY_SLIM,EYE_SPI_DISPLAY_SLIM,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-33
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,3
-Component Count:,11 (0 SMD/ 0 THT)
-Fitted Components:,11 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,11
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"JP2,JP5,JP9,JP8,JP4,JP7,JP10,JP6";"1X01_2MM";8;"";;;
+2;"PLABEL4";"PLABEL4";1;"";;;
+3;"SJ1,SJ6,SJ2,SJ5,SJ4,SJ3";"SOLDERJUMPER_CLOSEDWIRE";6;"";;;
+4;"PLABEL24";"PLABEL24";1;"";;;
+5;"PLABEL13";"PLABEL13";1;"";;;
+6;"X1";"EYE_SPI_DISPLAY_SLIM";1;"EYE_SPI_DISPLAY_SLIM";;;
+7;"PLABEL22";"PLABEL22";1;"";;;
+8;"PLABEL6";"PLABEL6";1;"";;;
+9;"PLABEL1";"PLABEL1";1;"";;;
+10;"PLABEL25";"PLABEL25";1;"";;;
+11;"PLABEL27";"PLABEL27";1;"";;;
+12;"U$6,U$8";"FIDUCIAL_1MM";2;"FIDUCIAL_1MM";;;
+13;"PLABEL5";"PLABEL5";1;"";;;
+14;"PLABEL26";"PLABEL26";1;"";;;
+15;"PLABEL7";"PLABEL7";1;"";;;
+16;"PLABEL3";"PLABEL3";1;"";;;
+17;"PLABEL14";"PLABEL14";1;"";;;
+18;"PLABEL12";"PLABEL12";1;"";;;
+19;"PLABEL28";"PLABEL28";1;"";;;
+20;"PLABEL20";"PLABEL20";1;"";;;
+21;"PLABEL21";"PLABEL21";1;"";;;
+22;"PLABEL8";"PLABEL8";1;"";;;
+23;"PLABEL2";"PLABEL2";1;"";;;
+24;"PLABEL23";"PLABEL23";1;"";;;
+25;"PLABEL9";"PLABEL9";1;"";;;
+26;"PLABEL11";"PLABEL11";1;"";;;
+27;"PLABEL10";"PLABEL10";1;"";;;
+28;"PLABEL29";"PLABEL29";1;"";;;
+29;"PLABEL30";"PLABEL30";1;"";;;
+30;"PLABEL19";"PLABEL19";1;"";;;
+31;"PLABEL33";"PLABEL33";1;"";;;
+32;"PLABEL36";"PLABEL36";1;"";;;
+33;"U$2";"ADAFRUIT_3.5MM";1;"";;;
+34;"JP1,JP3";"1X07_CASTEL";2;"";;;
+35;"PLABEL32";"PLABEL32";1;"";;;
+36;"U$3";"PCBFEAT-REV-040";1;"";;;
+37;"PLABEL34";"PLABEL34";1;"";;;
+38;"PLABEL35";"PLABEL35";1;"";;;
+39;"PLABEL37";"PLABEL37";1;"";;;
+40;"PLABEL31";"PLABEL31";1;"";;;

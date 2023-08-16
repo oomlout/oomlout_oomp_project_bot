@@ -1,27 +1,28 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0603_NO,C1,4.7nF,0603-NO,1, ,
-2,,CAP_CERAMIC0805_10MGAP,C18,1uF,0805_10MGAP,1, ,
-3,,CAP_CERAMIC0805-NOOUTLINE,C16 C17,10uF,0805-NO,2, ,
-4,,AP3602,IC3,AP3602,SOT23-6,1, ,
-5,,CAN_TRANSCIEVER_TCAN1051V,IC1,TJA1051T/3,SOIC8_150MIL,1, ,
-6,,HEADER-1X770MIL,JP2,HEADER-1X770MIL,1X07_ROUND_70,1, ,
-7,,RESISTOR_0603_NOOUT,R10 R11,60 ohm,0603-NO,2, ,
-8,,SWITCH_DPDTEG1390,SW2,EG1390,EG1390,1, ,
-9,,TERMBLOCK_1X3,X4,3.5mm Terminal,TERMBLOCK_1X3-3.5MM,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-32
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,9
-Component Count:,11 (0 SMD/ 0 THT)
-Fitted Components:,11 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,11
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"PLABEL0";"PLABEL0";1;"";;;
+2;"PLABEL8";"PLABEL8";1;"";;;
+3;"PLABEL4";"PLABEL4";1;"";;;
+4;"U$3,U$2";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+5;"IC1";"SOIC8_150MIL";1;"TJA1051T/3";;;
+6;"PLABEL11";"PLABEL11";1;"";;;
+7;"PLABEL5";"PLABEL5";1;"";;;
+8;"PLABEL10";"PLABEL10";1;"";;;
+9;"PLABEL2";"PLABEL2";1;"";;;
+10;"X4";"TERMBLOCK_1X3-3.5MM";1;"3.5mm Terminal";;;
+11;"JP2";"1X07_ROUND_70";1;"";;;
+12;"PLABEL7";"PLABEL7";1;"";;;
+13;"C16,C17";"0805-NO";2;"10uF";;;
+14;"R11,R10";"0603-NO";2;"60 ohm";;;
+15;"PLABEL1";"PLABEL1";1;"";;;
+16;"PLABEL9";"PLABEL9";1;"";;;
+17;"C18";"0805_10MGAP";1;"1uF";;;
+18;"PLABEL6";"PLABEL6";1;"";;;
+19;"SW2";"EG1390";1;"EG1390";;;
+20;"PLABEL3";"PLABEL3";1;"";;;
+21;"C1";"0603-NO";1;"4.7nF";;;
+22;"IC3";"SOT23-6";1;"AP3602";;;
+23;"PLABEL14";"PLABEL14";1;"";;;
+24;"PLABEL13";"PLABEL13";1;"";;;
+25;"U$7";"PCBFEAT-REV-040";1;"";;;
+26;"U$6";"ADAFRUIT_3.5MM";1;"";;;
+27;"PLABEL12";"PLABEL12";1;"";;;

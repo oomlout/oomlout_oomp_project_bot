@@ -1,26 +1,17 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0603_NO,C1 C2,0.1uF,0603-NO,2, ,
-2,,STEMMA_I2C_QT,CONN1 CONN2,STEMMA_I2C_QT,JST_SH4,2, ,
-3,,LED0603_NOOUTLINE,D1,GREEN,CHIPLED_0603_NOOUTLINE,1, ,
-4,,HEADER-1X4ROUND,JP1,HEADER-1X4ROUND,1X04_ROUND,1, ,
-5,,HEADER-1X6ROUND,JP2,HEADER-1X6ROUND,1X06_ROUND,1, ,
-6,,RESISTOR_0603_NOOUT,R1,10K,0603-NO,1, ,
-7,,RESISTOR_4PACK,R5,10K,RESPACK_4X0603,1, ,
-8,,DS3502,U$1,DS3502,MSOP10,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-33
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,8
-Component Count:,10 (0 SMD/ 0 THT)
-Fitted Components:,10 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,10
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"JP2";"1X06_ROUND";1;"";;;
+2;"C2,C1";"0603-NO";2;"0.1uF";;;
+3;"U$3,U$7,U$2,U$6";"MOUNTINGHOLE_2.5_PLATED";4;"MOUNTINGHOLE2.5";;;
+4;"CONN1,CONN2";"JST_SH4";2;"STEMMA_I2C_QT";;;
+5;"JP1";"1X04_ROUND";1;"";;;
+6;"R1";"0603-NO";1;"10K";;;
+7;"R5";"RESPACK_4X0603";1;"10K";;;
+8;"U$1";"MSOP10";1;"DS3502";;;
+9;"FID1,FID2";"FIDUCIAL_1MM";2;"FIDUCIAL_1MM";;;
+10;"D1";"CHIPLED_0603_NOOUTLINE";1;"GREEN";;;
+11;"U$8";"ADAFRUIT_3.5MM";1;"";;;
+12;"SJ1,SJ2";"SOLDERJUMPER_ARROW_NOPASTE";2;"";;;
+13;"U$9";"PCBFEAT-REV-040";1;"";;;
+14;"U$5";"KATTNI_STOP";1;"";;;
+15;"U$10,U$11";"STEMMAQT";2;"";;;
+16;"SJ3";"SOLDERJUMPER_CLOSEDWIRE";1;"";;;
