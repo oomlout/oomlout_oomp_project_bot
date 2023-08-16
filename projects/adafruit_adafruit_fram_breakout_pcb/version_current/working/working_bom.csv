@@ -1,26 +1,13 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0603_NO,C1,0.1uF,0603-NO,1, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C3 C4,10uF,0805-NO,2, ,
-3,,HEADER-1X970MIL,JP1,HEADER-1X970MIL,1X09_ROUND_70,1, ,
-4,,RESISTOR_4PACK,R1,10K,RESPACK_4X0603,1, ,
-5,,74HC4050DTSSOP,U3,74HC4050D,TSSOP16,1, ,
-6,,VREG_SOT23-5,U4,AP2112K-3.3,SOT23-5,1, ,
-7,,SPIFLASH_8PIN208MIL,U1,Generic SPI Flash,SOIC8_208MIL,1, ,
-8,,SPIFLASH_8PINUX,U2,Generic SPI Flash,USON8,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-22
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,8
-Component Count:,9 (0 SMD/ 0 THT)
-Fitted Components:,9 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,9
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"SOIC8_208MIL";1;"Generic SPI Flash";;;
+2;"U4";"SOT23-5";1;"AP2112K-3.3";;;
+3;"C1";"0603-NO";1;"0.1uF";;;
+4;"C3,C4";"0805-NO";2;"10uF";;;
+5;"U$19";"ADAFRUIT_3.5MM";1;"";;;
+6;"U$16,U$17";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+7;"R1";"RESPACK_4X0603";1;"10K";;;
+8;"JP1";"1X09_ROUND_70";1;"";;;
+9;"U3";"TSSOP16";1;"74HC4050D";;;
+10;"FID3,FID2";"FIDUCIAL_1MM";2;"FIDUCIAL_1MM";;;
+11;"U2";"USON8";1;"Generic SPI Flash";;;
+12;"U$21";"PCBFEAT-REV-040";1;"";;;

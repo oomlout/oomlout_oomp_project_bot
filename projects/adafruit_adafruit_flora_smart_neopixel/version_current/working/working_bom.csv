@@ -1,18 +1,7 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-33
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,0
-Component Count:,0 (0 SMD/ 0 THT)
-Fitted Components:,0 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,0
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"DATA_INPUT0,GND0,DATA_OUTPUT0,VDD0";"SEWINGTAP_0.5";4;"SEWTAP0.5IN";;;
+2;"LED2";"RGBLED5050";1;"RGBLED5050";;;
+3;"R3,R2";"R0805";2;"22";;;
+4;"C1";"C0805K";1;"1uF";;;
+5;"IC2";"SO08-SKINNYPADS";1;"WS2811-SOP8";;;
+6;"R1";"R0805";1;"1.0K";;;

@@ -1,22 +1,7 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C2,10uF,0805-NO,1, ,
-2,,SEWTAP0.5IN,GND0 SCL1 SCL2 SDA1 SDA2 VCC0,SEWTAP0.5IN,SEWINGTAP_0.5,6, ,
-3,,RESISTOR0805_NOOUTLINE,R2 R3,10K,0805-NO,2, ,
-4,,SI114X,U1,SI1145,SI114X,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-33
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,4
-Component Count:,10 (0 SMD/ 0 THT)
-Fitted Components:,10 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,10
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"FID2,FID1";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+2;"GND0,SCL2,VCC0,SCL1,SDA1,SDA2";"SEWINGTAP_0.5";6;"SEWTAP0.5IN";;;
+3;"R2,R3";"0805-NO";2;"10K";;;
+4;"U1";"SI114X";1;"SI1145";;;
+5;"U$4,U$3";"ADAFRUIT_2.5MM";2;"";;;
+6;"C2";"0805-NO";1;"10uF";;;

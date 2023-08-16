@@ -1,21 +1,4 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,HEADER-1X1276MIL,JP1 JP4 JP5,HEADER-1X1276MIL,1X12_ROUND_76MIL,3, ,
-2,,HEADER-1X16_76MIL,JP2 JP3 JP6,HEADER-1X16_76MIL,1X16_ROUND_76MIL,3, ,
-3,,FEATHERWING_NODIM,MS1 MS2 MS3,FEATHERWING_NODIM,FEATHERWING_DIM,3, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-33
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,3
-Component Count:,9 (0 SMD/ 0 THT)
-Fitted Components:,9 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,9
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"JP1,JP5,JP4";"1X12_ROUND_76MIL";3;"";;;
+2;"JP2,JP6,JP3";"1X16_ROUND_76MIL";3;"";;;
+3;"MS2,MS3,MS1";"FEATHERWING_DIM";3;"FEATHERWING_NODIM";;;

@@ -1,20 +1,7 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,HEADER-1X970MIL,JP1 JP2,HEADER-1X970MIL,1X09_ROUND_70,2, ,
-2,,EYE_SPI_DISPLAY_FLIP,X1,EYE_SPI_DISPLAY_FLIP,EYE_SPI_DISPLAY_BOTCONTACT,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-33
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,2
-Component Count:,3 (0 SMD/ 0 THT)
-Fitted Components:,3 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,3
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U$5,U$4";"FIDUCIAL_1MM";2;"FIDUCIAL_1MM";;;
+2;"U$9,U$10";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+3;"JP1,JP2";"1X09_ROUND_70";2;"";;;
+4;"X1";"EYE_SPI_DISPLAY_BOTCONTACT";1;"EYE_SPI_DISPLAY_FLIP";;;
+5;"U$22";"EYESPI_MINI_LOGO";1;"";;;
+6;"U$2";"PCBFEAT-REV-040";1;"";;;
