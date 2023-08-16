@@ -16,7 +16,7 @@ def main(**kwargs):
             #check for a kicad_brd file
             filename = os.path.join(root, file)
         
-            filter = ["coddingtonbear"]
+            filter = ["v"]
             if any(x in filename for x in filter):                
                 if file.endswith(".kicad_pcb"):
                     test_file_schematic = filename.replace(".kicad_pcb", ".sch")
@@ -76,7 +76,7 @@ def main(**kwargs):
                             
                             #mouse click at 100 100
 
-                            
+
                             oomBase.oomMouseClick(150,200)
                             #wait one second
                             oomBase.delay(1)
@@ -123,13 +123,14 @@ def main(**kwargs):
                         count += 1
                     if count % 50 == 0:
                         pass
-                        oom_kicad.push_to_git()
+                        #oom_kicad.push_to_git()
                         pass
-    oom_kicad.push_to_git()
+    #oom_kicad.push_to_git()
 
 def git_and_get_schematic_name(**kwargs):
     project = kwargs.get('project',"")
     return_value = ""
+    clone_url = ""
     if project != "":
         if "repo" in project:
             repo = project["repo"]
