@@ -1,22 +1,8 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C-EUC0603,C2 C4 C5 C6 C7 C9 C10 C11 C13 C14,C-EUC0603,C0603,10, ,
-2,,WS2812B5050-NARROW,LED1 LED2 LED3 LED4 LED5 LED6 LED7 LED8 LED9 LED10 LED11 LED12 LED13 LED14 LED15,WS2812B5050-NARROW,WS2812B-NARROW,15, ,
-3,,RESISTOR_0603_NOOUT,R1,470 ohm,0603-NO,1, ,
-4,,RING_END_CONN_X3,U$1 U$2,RING_END_CONN_X3,RING_END_CONN_X3,2, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-22
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,4
-Component Count:,28 (0 SMD/ 0 THT)
-Fitted Components:,28 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,28
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"FID1,FID2,FID3";"FIDUCIAL_1MM";3;"FIDUCIAL""";;;
+2;"LED6,LED14,LED5,LED13,LED1,LED11,LED15,LED2,LED3,LED10,LED8,LED9,LED7,LED4,LED12";"WS2812B-NARROW";15;"WS2812B5050-NARROW";;;
+3;"C10,C9,C6,C5,C13,C7,C4,C2,C14,C11";"C0603";10;"";;;
+4;"R1";"0603-NO";1;"470 ohm";;;
+5;"TP4,TP2,TP6,TP3,TP5,TP1";"TP20R";6;"TPTP20R";;;
+6;"U$3";"ADAFRUIT_3.5MM";1;"";;;
+7;"U$1,U$2";"RING_END_CONN_X3";2;"RING_END_CONN_X3";;;
