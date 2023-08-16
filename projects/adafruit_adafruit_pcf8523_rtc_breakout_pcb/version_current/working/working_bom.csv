@@ -1,25 +1,14 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,BATTERYCR1220_SMT,B1,CR1220,CR1220,1, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C1 C2,10uF,0805-NO,2, ,
-3,,RTC_PCF8523T,IC1,RTC_PCF8523T,SOIC8_150MIL,1, ,
-4,,HEADER-1X576MIL,JP2,HEADER-1X576MIL,1X05_ROUND_76,1, ,
-5,,CRYSTAL8.0X3.8,Q1,32.768,CRYSTAL_8X3.8,1, ,
-6,,RESISTOR0805_NOOUTLINE,R3,1K,0805-NO,1, ,
-7,,RESISTOR0805_NOOUTLINE,R1 R2,10K,0805-NO,2, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,7
-Component Count:,9 (0 SMD/ 0 THT)
-Fitted Components:,9 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,9
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U$1,U$4";"MOUNTINGHOLE_2.0_PLATED";2;"MOUNTINGHOLE2.0";;;
+2;"R3";"0805-NO";1;"1K";;;
+3;"C2,C1";"0805-NO";2;"10uF";;;
+4;"FID1,FID2";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+5;"R2,R1";"0805-NO";2;"10K";;;
+6;"Q1";"CRYSTAL_8X3.8";1;"32.768";;;
+7;"IC1";"SOIC8_150MIL";1;"RTC_PCF8523T";;;
+8;"B1";"CR1220";1;"CR1220";;;
+9;"U$2";"ADAFRUIT_3.5MM";1;"";;;
+10;"JP2";"1X05_ROUND_76";1;"";;;
+11;"U$3";"PCBFEAT-REV-040";1;"";;;
+12;"SJ1,SJ2";"SOLDERJUMPER_CLOSEDWIRE";2;"";;;
+13;"U$5";"ADAFRUIT_5MM";1;"";;;

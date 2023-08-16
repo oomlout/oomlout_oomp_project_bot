@@ -1,28 +1,17 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C4 C5,220pF,0805-NO,2, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C1 C2,1uF,0805-NO,2, ,
-3,,CAP_CERAMIC0805-NOOUTLINE,C3,10uF,0805-NO,1, ,
-4,,FERRITE_0805,FB1 FB2,Ferrite,_0805,2, ,
-5,,HEADER-1X570MIL,JP1,HEADER-1X570MIL,1X05_ROUND_70,1, ,
-6,,RESISTOR0805_NOOUTLINE,R1 R2,100,0805-NO,2, ,
-7,,RESISTOR0805_NOOUTLINE,R3,10K,0805-NO,1, ,
-8,,AUDIOAMP_PAM8302A,U1,PAM8302AASCR,MSOP8_0.65MM,1, ,
-9,,TRIMPOT3303W/X,VR1,10K trim,TRIMPOT_BOURNS_3303W,1, ,
-10,,TERMBLOCK_1X2,X1,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-22
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,10
-Component Count:,14 (0 SMD/ 0 THT)
-Fitted Components:,14 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,14
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R2,R1";"0805-NO";2;"100";;;
+2;"U1";"MSOP8_0.65MM";1;"PAM8302AASCR";;;
+3;"JP1";"1X05_ROUND_70";1;"";;;
+4;"C2,C1";"0805-NO";2;"1uF";;;
+5;"U$10,U$11";"MOUNTINGHOLE_2.0_PLATED";2;"MOUNTINGHOLE2.0";;;
+6;"FID2,FID1";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+7;"R3";"0805-NO";1;"10K";;;
+8;"C3";"0805-NO";1;"10uF";;;
+9;"C4,C5";"0805-NO";2;"220pF";;;
+10;"U$3";"SYMBOL_PLUS";1;"";;;
+11;"FB2,FB1";"_0805";2;"Ferrite";;;
+12;"X1";"TERMBLOCK_1X2-3.5MM";1;"";;;
+13;"U$5";"ADAFRUIT_3.5MM";1;"";;;
+14;"VR1";"TRIMPOT_BOURNS_3303W";1;"10K trim";;;
+15;"U$4";"SYMBOL_MINUS";1;"";;;
+16;"U$6";"PCBFEAT-REV-040";1;"";;;

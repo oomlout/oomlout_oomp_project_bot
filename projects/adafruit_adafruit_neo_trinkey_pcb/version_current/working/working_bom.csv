@@ -1,27 +1,13 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0603_NO,C4 C5,1uF,0603-NO,2, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C3 C8,10uF,0805-NO,2, ,
-3,,USB_TYPEAPCB,CN1,USB_TYPEAPCB,USBA_PCB,1, ,
-4,,ATSAMD21E,IC3,ATSAMD21E,QFN32_5MM,1, ,
-5,,WS2812B3535,LED1 LED2 LED3 LED4,WS2812B3535,LED3535,4, ,
-6,,SWITCH_TACT_SMT4.6X2.8,Q2,reset,BTN_KMR2_4.6X2.8,1, ,
-7,,TPTP16R,RST0 SWD0,TPTP16R,TP16R,2, ,
-8,,TPTP15R,SWC0,TPTP15R,TP15R,1, ,
-9,,VREG_SOT23-5,U1,AP2112K-3.3,SOT23-5,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-22
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,9
-Component Count:,15 (0 SMD/ 0 THT)
-Fitted Components:,15 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,15
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C3,C8";"0805-NO";2;"10uF";;;
+2;"Q2";"BTN_KMR2_4.6X2.8";1;"reset";;;
+3;"FID2,FID1";"FIDUCIAL_1MM";2;"FIDUCIAL_1MM";;;
+4;"U1";"SOT23-5";1;"AP2112K-3.3";;;
+5;"LED3,LED2,LED4,LED1";"LED3535";4;"WS2812B3535";;;
+6;"C5,C4";"0603-NO";2;"1uF";;;
+7;"CN1";"USBA_PCB";1;"";;;
+8;"IC3";"QFN32_5MM";1;"ATSAMD21E";;;
+9;"SWD0,RST0";"TP16R";2;"TPTP16R";;;
+10;"U$8";"PCBFEAT-REV-040";1;"";;;
+11;"U$10";"ADAFRUIT_9MM";1;"";;;
+12;"SWC0";"TP15R";1;"TPTP15R";;;
