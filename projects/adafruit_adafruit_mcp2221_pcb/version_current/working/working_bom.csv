@@ -1,30 +1,19 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,BOM,REV
-1,,CAP_CERAMIC0603_NO,C9,0.1uF,0603-NO,1, ,,,
-2,,CAP_CERAMIC0603_NO,C2 C6,1uF,0603-NO,2, ,,,
-3,,CAP_CERAMIC0805-NOOUTLINE,C1 C10,10uF,0805-NO,2, ,,,A
-4,,STEMMA_I2C_QT,CONN1,STEMMA_I2C_QT,JST_SH4,1, ,,,
-5,,TPTP17R,D+0 D-0,TPTP17R,TP17R,2, ,,,
-6,,MCP2221_ML,IC1,MCP2221_ML,QFN16_4MM,1, ,,,
-7,,HEADER-1X670MIL,JP1 JP2,HEADER-1X670MIL,1X06_ROUND_70,2, ,,,
-8,,LED0603_NOOUTLINE,LED1,green,CHIPLED_0603_NOOUTLINE,1, ,,,
-9,,RESISTOR_4PACK,R1,5.1K,RESPACK_4X0603,1, ,,,
-10,,RESISTOR_0603_NOOUT,R3,10k,0603-NO,1, ,,,
-11,,VREG_SOT23-5,U2,AP2112-3.3,SOT23-5,1, ,,,
-12,,USB_C,X6,USBC,USB_C_CUSB31-CFM2AX-01-X,1, ,,,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-22
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,12
-Component Count:,16 (0 SMD/ 0 THT)
-Fitted Components:,16 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,16
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U$6,U$7";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+2;"@HOLE1,@HOLE0";"";2;"";;;
+3;"C6,C2";"0603-NO";2;"1uF";;;
+4;"C1,C10";"0805-NO";2;"10uF";;;
+5;"IC1";"QFN16_4MM";1;"MCP2221_ML";;;
+6;"CONN1";"JST_SH4";1;"STEMMA_I2C_QT";;;
+7;"R1";"RESPACK_4X0603";1;"5.1K";;;
+8;"R3";"0603-NO";1;"10k";;;
+9;"FID2,FID1";"FIDUCIAL_1MM";2;"FIDUCIAL_1MM";;;
+10;"U$2";"ADAFRUIT_2.5MM";1;"";;;
+11;"X6";"USB_C_CUSB31-CFM2AX-01-X";1;"USBC";;;
+12;"JP2,JP1";"1X06_ROUND_70";2;"";;;
+13;"U2";"SOT23-5";1;"AP2112-3.3";;;
+14;"C9";"0603-NO";1;"0.1uF";;;
+15;"LED1";"CHIPLED_0603_NOOUTLINE";1;"green";;;
+16;"D-0,D+0";"TP17R";2;"TPTP17R";;;
+17;"SJ1";"SOLDERJUMPER_2WAY_OPEN_NOPASTE";1;"";;;
+18;"U$3";"STEMMAQT";1;"";;;

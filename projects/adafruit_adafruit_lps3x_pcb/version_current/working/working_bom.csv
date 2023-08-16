@@ -1,29 +1,18 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0603_NO,C1,0.1uF,0603-NO,1, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C2 C3,10uF,0805-NO,2, ,
-3,,STEMMA_I2C_QT,CONN3 CONN4,STEMMA_I2C_QT,JST_SH4,2, ,
-4,,DIODESOD-323,D2,1N4148,SOD-323,1, ,
-5,,LED0603_NOOUTLINE,D1,GREEN,CHIPLED_0603_NOOUTLINE,1, ,
-6,,HEADER-1X8ROUND,JP3,HEADER-1X8ROUND,1X08_ROUND,1, ,
-7,,MOSFET-N_DUAL,Q2,BSS138,SOT363,1, ,
-8,,RESISTOR_0603_NOOUT,R1 R4 R5,10K,0603-NO,3, ,
-9,,RESISTOR_4PACK,R3,10K,RESPACK_4X0603,1, ,
-10,,VREG_SOT23-5,U2,AP2112K-3.3,SOT23-5,1, ,
-11,,LPS33W,U$2,LPS33W,CCLGA10L,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-22
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,11
-Component Count:,15 (0 SMD/ 0 THT)
-Fitted Components:,15 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,15
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"0603-NO";1;"0.1uF";;;
+2;"U$2";"CCLGA10L";1;"LPS33W";;;
+3;"Q2";"SOT363";1;"BSS138";;;
+4;"FID4,FID3";"FIDUCIAL_1MM";2;"FIDUCIAL_1MM";;;
+5;"U$1,U$17";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+6;"U2";"SOT23-5";1;"AP2112K-3.3";;;
+7;"C2,C3";"0805-NO";2;"10uF";;;
+8;"R1,R5,R4";"0603-NO";3;"10K";;;
+9;"JP3";"1X08_ROUND";1;"";;;
+10;"U$4";"ADAFRUIT_2.5MM";1;"";;;
+11;"CONN3,CONN4";"JST_SH4";2;"STEMMA_I2C_QT";;;
+12;"R3";"RESPACK_4X0603";1;"10K";;;
+13;"D1";"CHIPLED_0603_NOOUTLINE";1;"GREEN";;;
+14;"D2";"SOD-323";1;"1N4148";;;
+15;"U$31,U$30";"STEMMAQT";2;"";;;
+16;"SJ1";"SOLDERJUMPER_ARROW_NOPASTE";1;"";;;
+17;"U$25";"PCBFEAT-REV-040";1;"";;;

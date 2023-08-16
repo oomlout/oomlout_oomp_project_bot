@@ -1,28 +1,19 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C1 C2 C3,0.1uF,0805-NO,3, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C4 C5,10uF,0805-NO,2, ,
-3,,DIODESOD-323,D1 D2 D3,1N4148,SOD-323,3, ,
-4,,FERRITE-0805NO,FB1,FERRITE-0805NO,0805-NO,1, ,
-5,,HEADER-1X870MIL,JP1,HEADER-1X870MIL,1X08_ROUND_70,1, ,
-6,,RESISTOR0805_NOOUTLINE,R6 R7 R8,10K,0805-NO,3, ,
-7,,RESISTOR0805_NOOUTLINE,R1,430Ω / 4300Ω 0.1%,0805-NO,1, ,
-8,,TEMP_MAX31865,U1,MAX31865,QFN20_4MM_0.65MM,1, ,
-9,,VREG_SOT23-5,U3,MIC5225-3.3,SOT23-5,1, ,
-10,,TERMBLOCK_1X2,X1 X2,3.5mm,TERMBLOCK_1X2-3.5MM,2, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-22
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,10
-Component Count:,18 (0 SMD/ 0 THT)
-Fitted Components:,18 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,18
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U$18,U$19";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+2;"SJ3,SJ4";"SOLDERJUMPER_ARROW_NOPASTE";2;"";;;
+3;"U$8";"PCBFEAT-REV-040";1;"";;;
+4;"JP1";"1X08_ROUND_70";1;"";;;
+5;"FB1";"0805-NO";1;"";;;
+6;"FID1,FID2";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+7;"C1,C2";"0805-NO";2;"0.1uF";;;
+8;"U3";"SOT23-5";1;"MIC5225-3.3";;;
+9;"C4,C5";"0805-NO";2;"10uF";;;
+10;"C3";"0805-NO";1;"100nF";;;
+11;"U$16";"ADAFRUIT_3.5MM";1;"";;;
+12;"D2,D3,D1";"SOD-323";3;"1N4148";;;
+13;"R1";"0805-NO";1;"430Ω / 4300Ω 0.1%";;;
+14;"R8,R7,R6";"0805-NO";3;"10K";;;
+15;"SJ1";"SOLDERJUMPER_2WAY_OPEN_NOPASTE";1;"";;;
+16;"X2,X1";"TERMBLOCK_1X2-3.5MM";2;"3.5mm";;;
+17;"U1";"QFN20_4MM_0.65MM";1;"MAX31865";;;
+18;"U$20,U$21";"ADAFRUIT_5MM";2;"";;;
