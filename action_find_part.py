@@ -1,11 +1,55 @@
 import os
+import oomlout_oomp_project_bot
 
 oomp_parts = {}
 matched = 0
 matches = ["project_id;all;"]
-search_terms = ["ch340"]
+searches = ["ch340","atmega328","bme280","c_0402", "c_0603","c_0805", "c_1203", "c0603", "c0402", "c0805", "c1206", "ch340c","ch340g","ch340e","ch340x","ch340t","ch340n","ch340k","ch340b"]
 
-def go_through_directories():
+
+def main(**kwargs):
+    global oomp_parts    
+    global matched
+    search_terms = kwargs.get("search_terms","")
+    projects = kwargs.get("projects","")
+    #oomp_parts = oomlout_oomp_project_bot.load_oomp_parts_from_yaml()
+    #if search term is a string make it an array
+    if isinstance(search_terms, str):
+        search_terms = [search_terms]
+    
+    count2 = 1
+    match_file = f"tmp/find/{search_terms[0]}.csv"
+    for project_id in projects:
+            project = projects[project_id]
+            yaml_dict = project
+            if yaml_dict != None:
+                if "parts_verbose"  in yaml_dict:
+                    for part in yaml_dict["parts_verbose"]:
+                        #if any of the strings in search_terms are in part["all"] then add it to matches
+                        all = part.get("all","")
+                        #if search_terms is a string turn it into a list
+                        if isinstance(search_terms, str):
+                            search_terms = [search_terms]
+                        for term in search_terms:                                
+                            if term in all:
+                                matches.append(f"{project_id};{part['all']}")   
+                                matched = matched + 1 
+                count2 += 1
+
+                
+            # print a dot every 100
+            if count2 % 100 == 0:
+                print(".", end="", flush=True)
+                save_matches(match_file=match_file)
+            
+    save_matches(match_file=match_file)
+
+
+def go_through_directories_old(**kwargs):
+    search_terms = kwargs.get("search_terms","")
+    #if search term is a string make it an array
+    if isinstance(search_terms, str):
+        search_terms = [search_terms]
     global oomp_parts
     global matched
     #load oomp_parts
@@ -42,6 +86,9 @@ def go_through_directories():
                         for part in yaml_dict["parts_verbose"]:
                             #if any of the strings in search_terms are in part["all"] then add it to matches
                             all = part.get("all","")
+                            #if search_terms is a string turn it into a list
+                            if isinstance(search_terms, str):
+                                search_terms = [search_terms]
                             for term in search_terms:                                
                                 if term in all:
                                     matches.append(f"{project_id};{part['all']}")   
@@ -57,9 +104,9 @@ def go_through_directories():
         # git commit every 1000
     save_matches()
 
-def save_matches():
+def save_matches(**kwargs):
     #save matches to matches.csv
-    match_file = f"tmp/find/{search_terms[0]}.csv"
+    match_file = kwargs.get("match_file","tmp/data/matches.csv")
     #make directory if it doesn't exist
     import os
     if not os.path.exists(os.path.dirname(match_file)):
@@ -179,14 +226,14 @@ def all_match(**kwargs):
     return True
 
 
-
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
-    go_through_directories()
+    #oomlout_oomp_project_bot.save_projects_to_yaml()
+    #projects = oomlout_oomp_project_bot.load_projects_from_yaml()
+    projects = oomlout_oomp_project_bot.load_projects_from_pickle()
+    for search_terms in searches:
+        print(f"searching for {search_terms}")
+        matches = ["project_id;all;"]
+        matched = 0
+        
+        main(search_terms=search_terms, projects=projects)
+    

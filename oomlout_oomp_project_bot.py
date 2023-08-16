@@ -28,6 +28,58 @@ def copy_data():
     shutil.copytree(directory_src, directory_dst, dirs_exist_ok=True)
     print("data copied")
 
+def load_oomp_parts_from_yaml(**kwargs):
+    print("loading oomp_parts from yaml"    )
+    #load oomp_parts
+    oomp_parts_yaml = "tmp/data/oomlout_oomp_part_src/parts.yaml"
+    #load yaml_file
+    import yaml
+    with open(oomp_parts_yaml, 'r') as stream:
+        try:
+            print("loading oomp_parts")
+            oomp_parts = yaml.load(stream, Loader=yaml.FullLoader)
+        except yaml.YAMLError as exc:
+            print("yaml error")
+            print(exc)
+    print(f"loaded {len(oomp_parts)} oomp_parts from yaml")
+    return oomp_parts
+
+
+def load_projects_from_yaml(**kwargs):
+    #start so we can print the elapsed time at the end
+    import time
+    start = time.time()
+    yaml_file = kwargs.get("yaml_file", "projects.yaml")
+    print(f"loading projects from yaml {yaml_file}")
+    #load from yaml
+    import yaml
+    with open(yaml_file, 'r') as stream:
+        try:
+            yaml_dict = yaml.load(stream, Loader=yaml.FullLoader)
+        except:
+            print("yaml file error")
+            return
+    print(f"loaded {len(yaml_dict)} projects from yaml")
+    end = time.time()
+    elapsed = end - start
+    print(f"elapsed time: {elapsed}")
+    return yaml_dict
+
+def load_projects_from_pickle(**kwargs):
+    #start so we can print the elapsed time at the end
+    import time
+    start = time.time()
+    pickle_file = kwargs.get("pickle_file", "tmp/pickle/projects.pickle")
+    print(f"loading projects from pickle {pickle_file}")
+    #load from pickle
+    import pickle
+    with open(pickle_file, 'rb') as handle:
+        pickle_dict = pickle.load(handle)
+    print(f"loaded {len(pickle_dict)} projects from pickle")
+    end = time.time()
+    elapsed = end - start
+    print(f"elapsed time: {elapsed}")
+    return pickle_dict
 
 def save_projects_to_yaml(**kwargs):
     projects = {}
@@ -67,6 +119,24 @@ def save_projects_to_yaml(**kwargs):
     import yaml
     with open("projects.yaml", "w") as outfile:
         yaml.dump(projects, outfile, indent=4)
+    print(f"saved {count} projects to yaml")
+
+    print("saving projects to pickle")
+    pickle_file = "tmp/pickle/projects.pickle"
+    #make directory if it soen't exist
+    if not os.path.exists(os.path.dirname(pickle_file)):
+        os.makedirs(os.path.dirname(pickle_file))
+    import pickle
+    with open(pickle_file, 'wb') as handle:
+        pickle.dump(projects, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    print(f"saved {count} projects to pickle")
+
+    print("saving projects to json")
+    json_file = "tmp/json/projects.json"
+    #make directory if it soen't exist
+    if not os.path.exists(os.path.dirname(json_file)):
+        os.makedirs(os.path.dirname(json_file))
+    print(f"saved {count} projects to json")
 
 
 def go_through_directories():
