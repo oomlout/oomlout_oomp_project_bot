@@ -1,0 +1,38 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d6d99b75-844f-4754-9864-64a97d007ace)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (symbol (lib_id "R") (at 134.62 83.82 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 00000000-0000-0000-0000-0000550c2db6)
+    (property "Reference" "R?" (at 136.652 83.82 90)
+      (effects (font (size 1.016 1.016)))
+    )
+    (property "Value" "R" (at 134.7978 83.7946 90)
+      (effects (font (size 1.016 1.016)))
+    )
+    (property "Footprint" "" (at 132.842 83.82 90)
+      (effects (font (size 0.762 0.762)))
+    )
+    (property "Datasheet" "" (at 134.62 83.82 0)
+      (effects (font (size 0.762 0.762)))
+    )
+    (instances
+      (project "kge"
+        (path "/d6d99b75-844f-4754-9864-64a97d007ace"
+          (reference "R?") (unit 1)
+        )
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

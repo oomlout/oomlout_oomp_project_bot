@@ -1,0 +1,65 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 73313e7d-2620-42c3-9f0a-70fbbe406c9a)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 39.37 46.355) (size 47.625 42.545) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005ac991db)
+    (property "Sheetname" "MCU-STM32F446RET6" (at 39.37 45.6434 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/StepDC/StepDC/MCU-STM32F446RET6.sch" (at 39.37 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "StepDC"
+        (path "/73313e7d-2620-42c3-9f0a-70fbbe406c9a" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 144.78 66.675) (size 54.61 36.195) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005ac991f0)
+    (property "Sheetname" "Driver - DRV8801" (at 144.78 65.9634 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/StepDC/StepDC/Driver - DRV8801.sch" (at 144.78 103.4546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "StepDC"
+        (path "/73313e7d-2620-42c3-9f0a-70fbbe406c9a" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 48.26 123.825) (size 52.07 40.64) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005ac9920e)
+    (property "Sheetname" "Power" (at 48.26 123.1134 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/StepDC/StepDC/Power.sch" (at 48.26 165.0496 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "StepDC"
+        (path "/73313e7d-2620-42c3-9f0a-70fbbe406c9a" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

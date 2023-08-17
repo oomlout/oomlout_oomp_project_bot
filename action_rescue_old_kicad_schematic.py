@@ -15,7 +15,7 @@ def main(**kwargs):
         for file in files:
             #check for a kicad_brd file
             filename = os.path.join(root, file)
-        
+            print(f"working on {filename}")
             filter = ["v"]
             if any(x in filename for x in filter):                
                 if file.endswith(".kicad_pcb"):
@@ -23,9 +23,10 @@ def main(**kwargs):
                     test_file_schematic_src = filename.replace(".kicad_pcb", "_src.sch")
                     test_file_schematic_dst = filename.replace(".kicad_pcb", ".kicad_sch")
                     test_file_schematic_pdf = filename.replace(".kicad_pcb", "_schematic.pdf")
+                    test_eagle_board_file = filename.replace(".kicad_pcb", ".brd")
                     yaml_file = filename.replace(".kicad_pcb", ".yaml")
                     #if test_file schematic exists and no pdf exists
-                    if os.path.isfile(test_file_schematic) and not os.path.isfile(test_file_schematic_pdf) and not os.path.isfile(test_file_schematic_dst) and os.path.isfile(yaml_file):
+                    if os.path.isfile(test_file_schematic) and not os.path.isfile(test_file_schematic_pdf) and not os.path.isfile(test_file_schematic_dst) and os.path.isfile(yaml_file) and not os.path.isfile(test_eagle_board_file):
                         import yaml
                         with open(yaml_file) as f:
                             project = yaml.load(f, Loader=yaml.FullLoader)                        
@@ -62,18 +63,21 @@ def main(**kwargs):
                             #if the following libraries in clipboard lower
                             if "the following libraries were not found" in clipboard.lower():
                                 oomBase.oomSendEsc(delay=2)
+                            if "the project symbol library cache file" not in clipboard.lower():
                                 oomBase.oomSendTab(delay=2)
-                                oomBase.oomSendEnter(delay=10)
-                                oomBase.oomSendEnter(delay=10)
-                                oomBase.oomSendEnter(delay=10)
+                            else:
+                                print("skipping tab")
+                            oomBase.oomSendEnter(delay=10)
+                            oomBase.oomSendEnter(delay=10)
+
+
+                            oomBase.oomSendEnter(delay=10)
 
                             
                             oomBase.oomSendEnter(delay=2)
                             #wait one second
                             oomBase.delay(1)
 
-                            
-                            
                             #mouse click at 100 100
 
 

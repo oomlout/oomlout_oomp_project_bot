@@ -1,0 +1,78 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 89590be6-f0ee-43d5-aff3-70f68d02f88c)
+
+  (paper "USLetter")
+
+  (title_block
+    (company "ashtonjohnson.com")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Programming\n" (at 71.12 55.88 0)
+    (effects (font (size 3.048 3.048)) (justify left bottom))
+    (uuid 469d0770-942c-46a7-ad38-bd1438a77e96)
+  )
+  (text "MCU\n" (at 182.88 57.15 0)
+    (effects (font (size 3.048 3.048)) (justify left bottom))
+    (uuid cd86d396-d83e-44b4-a1d8-ff2e7c217431)
+  )
+
+  (sheet (at 151.13 43.18) (size 78.74 22.86) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-0000572e713b)
+    (property "Sheetname" "MCU" (at 151.13 42.3414 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/kicad_templates/PSoC_Module/MCU.sch" (at 151.13 66.7262 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "PSoC_Module_MotherBoard"
+        (path "/89590be6-f0ee-43d5-aff3-70f68d02f88c" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 46.99 43.18) (size 67.31 22.86) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-0000572f8524)
+    (property "Sheetname" "Programming Interface" (at 46.99 42.3414 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/kicad_templates/PSoC_Module/PROG_IFC.sch" (at 46.99 66.7262 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "PSoC_Module_MotherBoard"
+        (path "/89590be6-f0ee-43d5-aff3-70f68d02f88c" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 77.47) (size 77.47 25.4) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-0000573271a2)
+    (property "Sheetname" "PSoC Extra Circuits" (at 152.4 76.6314 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/kicad_templates/PSoC_Module/MCU_EXTRAS.sch" (at 152.4 103.5562 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "PSoC_Module_MotherBoard"
+        (path "/89590be6-f0ee-43d5-aff3-70f68d02f88c" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

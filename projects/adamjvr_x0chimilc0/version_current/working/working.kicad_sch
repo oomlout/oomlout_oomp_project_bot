@@ -1,0 +1,184 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ed392b5c-5281-4b8e-8673-8328ee8572c6)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 121.92 31.75) (size 48.26 34.29) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005df40455)
+    (property "Sheetname" "USB C Interfaces" (at 121.92 31.0384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/X0chimilc0/PCB/X0chimilc0/USB_C.sch" (at 121.92 66.6246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "X0chimilc0"
+        (path "/ed392b5c-5281-4b8e-8673-8328ee8572c6" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 175.26 78.74) (size 54.61 33.02) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005e02c3ce)
+    (property "Sheetname" "STM32 Power " (at 175.26 78.0284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/X0chimilc0/PCB/X0chimilc0/MCU_Power.sch" (at 175.26 112.3446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "X0chimilc0"
+        (path "/ed392b5c-5281-4b8e-8673-8328ee8572c6" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 222.25 133.35) (size 49.53 22.86) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005e1a79e6)
+    (property "Sheetname" "Audio Input/Output" (at 222.25 132.6384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/X0chimilc0/PCB/X0chimilc0/Audio_IO.sch" (at 222.25 156.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "X0chimilc0"
+        (path "/ed392b5c-5281-4b8e-8673-8328ee8572c6" (page "10"))
+      )
+    )
+  )
+
+  (sheet (at 124.46 80.01) (size 43.18 29.21) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005e2aca94)
+    (property "Sheetname" "Power Supplies" (at 124.46 79.2984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/X0chimilc0/PCB/X0chimilc0/Power.sch" (at 124.46 109.8046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "X0chimilc0"
+        (path "/ed392b5c-5281-4b8e-8673-8328ee8572c6" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 175.26 31.75) (size 60.96 39.37) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005e2acbae)
+    (property "Sheetname" "Microcontroller: STM32 M7/M4 Dual" (at 175.26 31.0384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/X0chimilc0/PCB/X0chimilc0/Microcontroller.sch" (at 175.26 71.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "X0chimilc0"
+        (path "/ed392b5c-5281-4b8e-8673-8328ee8572c6" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 81.28 30.48) (size 35.56 43.18) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005e2acd97)
+    (property "Sheetname" "FPGA Lattice" (at 81.28 29.7684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/X0chimilc0/PCB/X0chimilc0/FPGA.sch" (at 81.28 74.2446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "X0chimilc0"
+        (path "/ed392b5c-5281-4b8e-8673-8328ee8572c6" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 240.03 31.75) (size 27.94 39.37) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005e2ad524)
+    (property "Sheetname" "STM32 DD3 Memory" (at 240.03 31.0384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/X0chimilc0/PCB/X0chimilc0/DDR3_MCU.sch" (at 240.03 71.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "X0chimilc0"
+        (path "/ed392b5c-5281-4b8e-8673-8328ee8572c6" (page "11"))
+      )
+    )
+  )
+
+  (sheet (at 27.94 29.21) (size 43.18 41.91) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005e2ad622)
+    (property "Sheetname" "FPGA DDR3 Memory" (at 27.94 28.4984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/X0chimilc0/PCB/X0chimilc0/DDR3_FPGA.sch" (at 27.94 71.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "X0chimilc0"
+        (path "/ed392b5c-5281-4b8e-8673-8328ee8572c6" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 179.07 119.38) (size 36.83 38.1) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005e30bdf7)
+    (property "Sheetname" "Audio Codec WM8994ECS/R" (at 179.07 118.6684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/X0chimilc0/PCB/X0chimilc0/Codec.sch" (at 179.07 158.0646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "X0chimilc0"
+        (path "/ed392b5c-5281-4b8e-8673-8328ee8572c6" (page "9"))
+      )
+    )
+  )
+
+  (sheet (at 64.77 96.52) (size 35.56 36.83) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005ea384bf)
+    (property "Sheetname" "FPGA Power Supply" (at 64.77 95.8084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/X0chimilc0/PCB/X0chimilc0/FPGA_Power.sch" (at 64.77 133.9346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "X0chimilc0"
+        (path "/ed392b5c-5281-4b8e-8673-8328ee8572c6" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

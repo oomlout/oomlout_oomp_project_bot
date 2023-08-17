@@ -1,0 +1,78 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 33ef3cea-f392-4d61-8906-79016599aa41)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "rpitx" (at 177.8 180.34 0)
+    (effects (font (size 1.524 1.524)) (justify left bottom))
+    (uuid 07468ff3-550f-4b59-a716-92c3ccd14066)
+  )
+  (text "0.1 to 50 MHz 1W linear amplifier\n" (at 187.96 190.5 0)
+    (effects (font (size 1.524 1.524)) (justify left bottom))
+    (uuid 9be858ba-2f73-4e72-acaf-cb1317bdfec5)
+  )
+  (text "1.0" (at 270.51 194.31 0)
+    (effects (font (size 1.524 1.524)) (justify left bottom))
+    (uuid cf300e75-5c20-4801-895f-4451cf71b808)
+  )
+
+  (sheet (at 86.36 40.64) (size 59.69 38.1) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005515d395)
+    (property "Sheetname" "RPi_GPIO" (at 86.36 39.8014 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/rpitx_lopafi/RPi_GPIO.sch" (at 86.36 79.4262 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "RPi_Hat"
+        (path "/33ef3cea-f392-4d61-8906-79016599aa41" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 19.05 40.64) (size 58.42 38.1) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005ab81795)
+    (property "Sheetname" "relayage" (at 19.05 39.8014 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/rpitx_lopafi/relayage.sch" (at 19.05 79.4262 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "RPi_Hat"
+        (path "/33ef3cea-f392-4d61-8906-79016599aa41" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 151.13 40.64) (size 54.61 36.83) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00005ac16da6)
+    (property "Sheetname" "Sheet5AC16DA5" (at 151.13 39.8014 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/rpitx_lopafi/ampli.sch" (at 151.13 78.1562 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "RPi_Hat"
+        (path "/33ef3cea-f392-4d61-8906-79016599aa41" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
