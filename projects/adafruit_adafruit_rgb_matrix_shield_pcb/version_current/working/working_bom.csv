@@ -1,26 +1,13 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,HEADER-1X1070MIL,JP6,HEADER-1X1070MIL,1X10_ROUND70,1, ,
-2,,HEADER-1X876MIL,JP2 JP3,HEADER-1X876MIL,1X08_ROUND_76,2, ,
-3,,PINHD-1X6CB,JP8,PINHD-1X6CB,1X06-CLEANBIG,1, ,
-4,,PINHD-1X8CLEANBIG,JP1 JP4,PINHD-1X8CLEANBIG,1X08-CLEANBIG,2, ,
-5,,HEADER-2X8_SHROUDED,JP15,Shrouded 2x8,2X08_SHROUDED,1, ,
-6,,PINHEAD,MATRIX_PWR0,PINHEAD,TERMBLOCK508,1, ,
-7,,10-XX,S4,6mm,B3F-10XX,1, ,
-8,,ARDUINO_R3_ICSP_NODIM,U$41,ARDUINO_R3_ICSP_NODIM,ARDUINOR3_ICSP_NODIM,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,8
-Component Count:,10 (0 SMD/ 0 THT)
-Fitted Components:,10 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,10
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SJ13,SJ3,SJ10,SJ5,SJ9,SJ14,SJ12,SJ8,SJ2,SJ4,SJ1,SJ7,SJ6";"SOLDERJUMPER_CLOSEDWIRE";13;"";;;
+2;"U$9";"ADAFRUIT_TEXT_20MM";1;"";;;
+3;"JP8";"1X06-CLEANBIG";1;"";;;
+4;"MATRIX_PWR0";"TERMBLOCK508";1;"PINHEAD";;;
+5;"@HOLE2,@HOLE1,@HOLE0";"";3;"";;;
+6;"JP15";"2X08_SHROUDED";1;"Shrouded 2x8";;;
+7;"JP1,JP4";"1X08-CLEANBIG";2;"";;;
+8;"JP3,JP2";"1X08_ROUND_76";2;"";;;
+9;"U$8";"PCBFEAT-REV-040";1;"";;;
+10;"JP6";"1X10_ROUND70";1;"";;;
+11;"S4";"B3F-10XX";1;"6mm";;;
+12;"U$41";"ARDUINOR3_ICSP_NODIM";1;"ARDUINO_R3_ICSP_NODIM";;;

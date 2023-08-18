@@ -1,0 +1,36 @@
+### Footprint positions - created on Fri Aug 18 04:17:17 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref      Val           Package                PosX       PosY       Rot  Side
+@HOLE0                                      129.2021  -122.7845    0.0000  top
+@HOLE1                                      167.8101  -122.7845    0.0000  top
+@HOLE2                                      129.0751   -87.2245    0.0000  top
+@HOLE3                                      167.6831   -87.2245    0.0000  top
+BATT_IN0                 JSTPH2             143.9341  -121.8955  180.0000  top
+BATT_OUT0                JSTPH2             153.8401  -121.8955  180.0000  top
+C3         0.47uF        C0805K             145.3311  -108.9415  180.0000  top
+C4         10uF          A_3216-18R         151.5541  -108.9415  180.0000  top
+C5         10uF          A_3216-18R         148.3791   -98.0195    0.0000  top
+CHG0       ORANGE        CHIPLED_0805       132.1231  -107.5445   90.0000  top
+D1         B120          SMADIODE           140.1241   -97.2575  180.0000  top
+D2         B120          SMADIODE           160.0631  -102.3375    0.0000  top
+ERR0       RED           CHIPLED_0805       164.7621  -107.5445  -90.0000  top
+IC1                      SO16               149.5221  -103.8615  180.0000  top
+IN0        1X2-3.5MM     3.5MMTERM          134.9171  -121.6415    0.0000  top
+OUT0       1X2-3.5MM     3.5MMTERM          162.2221  -121.5145    0.0000  top
+PG0        GREEN         CHIPLED_0805       150.1571   -93.4475  -90.0000  top
+R1         adj           0805-THM           134.4091  -100.9405    0.0000  top
+R6         6.19K         R0805              142.5371  -105.8935   90.0000  top
+R7         7.3k          R0805              142.5371  -101.4485   90.0000  top
+R11        470           R0805              145.7121   -93.4475    0.0000  top
+RTH0       10K_@_25degC  0805-THM           134.4091  -104.1155    0.0000  top
+STAT3                    1X01               128.6941  -107.5445    0.0000  top
+STAT4                    1X01               168.1911  -107.5445    0.0000  top
+U$1        2.1MMJACKSMT  DCJACK_2MM_SMT     158.9201   -89.5105  -90.0000  top
+U$2                      ADAFRUIT200MIL     129.0751  -117.5775    0.0000  top
+U$3        FIDUCIAL      FIDUCIAL_1MM       168.1911  -117.4505   90.0000  top
+U$4        FIDUCIAL      FIDUCIAL_1MM       128.9481   -91.2885   90.0000  top
+USB0       MINI-USB      USB-MINIB          137.5841   -89.5105  180.0000  top
+VIN0       1X2-3.5MM     3.5MMTERM          147.9981   -88.4945  180.0000  top
+## End

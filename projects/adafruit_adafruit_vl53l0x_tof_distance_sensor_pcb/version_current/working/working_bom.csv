@@ -1,26 +1,14 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C3,0.1uF,0805-NO,1, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C1 C2,10µF,0805-NO,2, ,
-3,,DIODESOD-323,D1,1N4148,SOD-323,1, ,
-4,,HEADER-1X770MIL,JP1,HEADER-1X770MIL,1X07_ROUND_70,1, ,
-5,,MOSFET-NWIDE,Q1 Q2,BSS138,SOT23-WIDE,2, ,
-6,,RESISTOR0805_NOOUTLINE,R1 R2 R3 R4 R5 R6,10K,0805-NO,6, ,
-7,,VREG_SOT23-5,U2,MIC5225_2.8V,SOT23-5,1, ,
-8,,VL53L0X,U1,VL53L0X,LGA12_ST,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,8
-Component Count:,15 (0 SMD/ 0 THT)
-Fitted Components:,15 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,15
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C3";"0805-NO";1;"0.1uF";;;
+2;"R4,R3,R1,R5,R6,R2";"0805-NO";6;"10K";;;
+3;"Q2,Q1";"SOT23-WIDE";2;"BSS138";;;
+4;"U$18";"ADAFRUIT_2.5MM";1;"";;;
+5;"C1,C2";"0805-NO";2;"10µF";;;
+6;"U$14,U$13";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+7;"JP1";"1X07_ROUND_70";1;"";;;
+8;"D1";"SOD-323";1;"1N4148";;;
+9;"FID3,FID2";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+10;"U1";"LGA12_ST";1;"VL53L0X";;;
+11;"U2";"SOT23-5";1;"MIC5225_2.8V";;;
+12;"U$12";"PCBFEAT-REV-040";1;"";;;
+13;"U$15";"ADAFRUIT_3.5MM";1;"";;;

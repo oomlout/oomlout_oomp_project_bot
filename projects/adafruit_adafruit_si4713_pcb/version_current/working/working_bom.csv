@@ -1,33 +1,20 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,PINHD-1X1,ANT0,PINHD-1X1,1X01,1, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C6 C7,20pF,0805-NO,2, ,
-3,,CAP_CERAMIC0805-NOOUTLINE,C1,22nF,0805-NO,1, ,
-4,,CAP_CERAMIC0805-NOOUTLINE,C2 C3,0.47uF,0805-NO,2, ,
-5,,CAP_CERAMIC0805-NOOUTLINE,C4 C5,10uF,0805-NO,2, ,
-6,,DIODESOD-323,D1 D2,1n4148,SOD-323,2, ,
-7,,HEADER-1X11,JP1,HEADER-1X11,1X11_ROUND,1, ,
-8,,INDUCTOR_0805,L1,120nH,_0805,1, ,
-9,,MOSFET-NREFLOW,Q1 Q2,BSS138,SOT23,2, ,
-10,,RESISTOR0805_NOOUTLINE,R1 R3 R5 R6,10K,0805-NO,4, ,
-11,,RESISTOR_0805MP,R2 R4,10K,_0805MP,2, ,
-12,,VREG_SOT23-5,U2,MIC5225-3.3,SOT23-5,1, ,
-13,,SI471X,U1,Si471x,SI471X,1, ,
-14,,AUDIO_3.5MMJACK,X3,3.5mm stereo,4UCONN_19269,1, ,
-15,,CRYSTAL8.0X3.8,Y2,32.768,CRYSTAL_8X3.8,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,15
-Component Count:,24 (0 SMD/ 0 THT)
-Fitted Components:,24 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,24
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R4,R2";"_0805MP";2;"10K";;;
+2;"Q1,Q2";"SOT23";2;"BSS138";;;
+3;"U$17,U$15";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+4;"ANT0";"1X01";1;"";;;
+5;"C1";"0805-NO";1;"22nF";;;
+6;"D2,D1";"SOD-323";2;"1n4148";;;
+7;"C6,C7";"0805-NO";2;"20pF";;;
+8;"L1";"_0805";1;"120nH";;;
+9;"R5,R1,R3,R6";"0805-NO";4;"10K";;;
+10;"C5,C4";"0805-NO";2;"10uF";;;
+11;"C3,C2";"0805-NO";2;"0.47uF";;;
+12;"U$7";"ADAFRUIT_3.5MM";1;"";;;
+13;"JP1";"1X11_ROUND";1;"";;;
+14;"U1";"SI471X";1;"Si471x";;;
+15;"X3";"4UCONN_19269";1;"3.5mm stereo";;;
+16;"U2";"SOT23-5";1;"MIC5225-3.3";;;
+17;"FID1,FID2";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+18;"Y2";"CRYSTAL_8X3.8";1;"32.768";;;
+19;"U$9";"ADAFRUIT_TEXT_20MM";1;"";;;

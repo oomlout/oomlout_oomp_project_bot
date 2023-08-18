@@ -1,24 +1,10 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,HEADER-1X1276MIL,JP1,HEADER-1X1276MIL,1X12_ROUND_76MIL,1, ,
-2,,HEADER-1X16_76MIL,JP3,HEADER-1X16_76MIL,1X16_ROUND_76MIL,1, ,
-3,,FEATHERWING_NODIM,MS1,FEATHERWING_NODIM,FEATHERWING_DIM,1, ,
-4,,OS102011MA1Q,S2,OS102011MA1Q,OS102011MA1Q,1, ,
-5,,TERMBLOCK_1X2,X1 X2 X3 X4,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,4, ,
-6,,TERMBLOCK_1X3,X5 X6 X7 X8 X9 X10 X11 X12,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,8, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,6
-Component Count:,16 (0 SMD/ 0 THT)
-Fitted Components:,16 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,16
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"X4,X2,X1,X3";"TERMBLOCK_1X2-3.5MM";4;"";;;
+2;"X10,X6,X5,X11,X12,X7,X8,X9";"TERMBLOCK_1X3-3.5MM";8;"";;;
+3;"U$3,U$4,U$5,U$2";"MOUNTINGHOLE_3.0_PLATEDTHIN";4;"MOUNTINGHOLE3.0THIN";;;
+4;"JP3";"1X16_ROUND_76MIL";1;"";;;
+5;"JP1";"1X12_ROUND_76MIL";1;"";;;
+6;"MS1";"FEATHERWING_DIM";1;"FEATHERWING_NODIM";;;
+7;"U$6";"PCBFEAT-REV-040";1;"";;;
+8;"U$7,U$8";"ADAFRUIT_3.5MM";2;"";;;
+9;"S2";"OS102011MA1Q";1;"OS102011MA1Q";;;

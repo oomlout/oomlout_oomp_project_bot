@@ -1,27 +1,15 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C1,1uF,0805-NO,1, ,
-2,,LED0805_NOOUTLINE,D1,GREEN,CHIPLED_0805_NOOUTLINE,1, ,
-3,,HEADER-1X570MIL,JP1,HEADER-1X570MIL,1X05_ROUND_70,1, ,
-4,,MOSFET-PWIDE,Q1,DMG3415,SOT23-WIDE,1, ,
-5,,RESISTOR0805_NOOUTLINE,R1,1K,0805-NO,1, ,
-6,,RESISTOR0805_NOOUTLINE,R2,1M,0805-NO,1, ,
-7,,SWITCH_TACT_SMT_EVQQ2_SMALL,SW1,EVQQ,EVQ-Q2_SMALLER,1, ,
-8,,TPL5111,U2,TPL5110,SOT23-6,1, ,
-9,,TRIMPOTTC33X-2,VR1,200k,TRIMPOT_BOURNS_TC33X-2,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,9
-Component Count:,9 (0 SMD/ 0 THT)
-Fitted Components:,9 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,9
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U$5";"ADAFRUIT_3.5MM";1;"";;;
+2;"Q1";"SOT23-WIDE";1;"DMG3415";;;
+3;"U$7,U$8";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+4;"R2";"0805-NO";1;"1M";;;
+5;"VR1";"TRIMPOT_BOURNS_TC33X-2";1;"200k";;;
+6;"FID2,FID1";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+7;"SW1";"EVQ-Q2_SMALLER";1;"EVQQ";;;
+8;"C1";"0805-NO";1;"1uF";;;
+9;"JP1";"1X05_ROUND_70";1;"";;;
+10;"D1";"CHIPLED_0805_NOOUTLINE";1;"GREEN";;;
+11;"R1";"0805-NO";1;"1K";;;
+12;"U2";"SOT23-6";1;"TPL5110";;;
+13;"U$11";"PCBFEAT-REV-040";1;"";;;
+14;"SJ1,SJ2";"SOLDERJUMPER_CLOSEDWIRE";2;"";;;

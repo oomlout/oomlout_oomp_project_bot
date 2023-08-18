@@ -1,23 +1,12 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C1,10uF,0805-NO,1, ,
-2,,HEADER-1X12,JP1 JP3,HEADER-1X12,1X12_ROUND,2, ,
-3,,RESISTOR0805_NOOUTLINE,R1 R2 R3 R4 R5,10K,0805-NO,5, ,
-4,,RESISTOR_0805MP,R6,10K,_0805MP,1, ,
-5,,TCA9548A,U1,TCA9548APWR,TSSOP24,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,5
-Component Count:,10 (0 SMD/ 0 THT)
-Fitted Components:,10 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,10
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R5,R2,R4,R1,R3";"0805-NO";5;"10K";;;
+2;"FID1,FID3";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+3;"U$4,U$5";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+4;"JP1,JP3";"1X12_ROUND";2;"";;;
+5;"U1";"TSSOP24";1;" TCA9548APWR";;;
+6;"R6";"_0805MP";1;"10K";;;
+7;"C1";"0805-NO";1;"10uF";;;
+8;"A1,A0,A2";"SOLDERJUMPER_ARROW_NOPASTE";3;"";;;
+9;"SCLPU0,SDAPU0";"SOLDERJUMPER_CLOSEDWIRE";2;"";;;
+10;"U$6";"PCBFEAT-REV-040";1;"";;;
+11;"U$7";"ADAFRUIT_TEXT_20MM";1;"";;;

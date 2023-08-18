@@ -1,26 +1,17 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C3 C5,10uF,0805-NO,2, ,
-2,,LED0805_NOOUTLINE,D1,RED,CHIPLED_0805_NOOUTLINE,1, ,
-3,,ATSAMD10D14A,IC1,ATSAMD10D14A,QFN24_4MM,1, ,
-4,,MOSFET-N_DUAL,Q3,2N7002D,SOT363,1, ,
-5,,RESISTOR_0603_NOOUT,R1 R2,1K,0603-NO,2, ,
-6,,RESISTOR_4PACK,R6,10K,RESPACK_4X0603,1, ,
-7,,VREG_SOT23-5,U2,MIC5225-3.3,SOT23-5,1, ,
-8,,STEMMA_I2C_RASMT,X1,STEMMA_I2C_RASMT,JSTPH4,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,8
-Component Count:,10 (0 SMD/ 0 THT)
-Fitted Components:,10 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,10
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"@HOLE0,@HOLE1";"";2;"";;;
+2;"C5,C3";"0805-NO";2;"10uF";;;
+3;"FID2,FID1";"FIDUCIAL_1MM";2;"FIDUCIAL_1MM";;;
+4;"R1,R2";"0603-NO";2;"1K";;;
+5;"D1";"CHIPLED_0805_NOOUTLINE";1;"RED";;;
+6;"R6";"RESPACK_4X0603";1;"10K";;;
+7;"TP3";"TP10R";1;"TPTP10R";;;
+8;"U2";"SOT23-5";1;"MIC5225-3.3";;;
+9;"U$5";"STEMMA_SOIL_TOP";1;"";;;
+10;"X1";"JSTPH4";1;"STEMMA_I2C_RASMT";;;
+11;"Q3";"SOT363";1;"2N7002D";;;
+12;"IC1";"QFN24_4MM";1;"ATSAMD10D14A";;;
+13;"TP2,TP1,TP4";"TP15R";3;"TPTP15R";;;
+14;"SJ8,SJ9";"SOLDERJUMPER_ARROW_NOPASTE";2;"";;;
+15;"U$4";"STEMMA_SOIL_BOT";1;"";;;
+16;"U$12";"PCBFEAT-REV-040";1;"";;;

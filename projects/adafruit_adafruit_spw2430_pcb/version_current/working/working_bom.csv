@@ -1,23 +1,10 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C2,0.1uF,0805-NO,1, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C1 C3 C4,10uF,0805-NO,3, ,
-3,,HEADER-1X576MIL,JP1,HEADER-1X576MIL,1X05_ROUND_76,1, ,
-4,,VREG_SOT23-5,U2,MIC5225-3.3,SOT23-5,1, ,
-5,,SPW2430HR5H-B,U1,SPW2430HR5H-B,SPW2430HR5H-B,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,5
-Component Count:,7 (0 SMD/ 0 THT)
-Fitted Components:,7 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,7
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1,C4,C3";"0805-NO";3;"10uF";;;
+2;"FID1,FID2";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+3;"U2";"SOT23-5";1;"MIC5225-3.3";;;
+4;"C2";"0805-NO";1;"0.1uF";;;
+5;"JP1";"1X05_ROUND_76";1;"";;;
+6;"U1";"SPW2430HR5H-B";1;"SPW2430HR5H-B";;;
+7;"U$13";"PCBFEAT-REV-040";1;"";;;
+8;"U$12";"MOUNTINGHOLE_2.5_PLATED";1;"MOUNTINGHOLE2.5";;;
+9;"U$5";"ADAFRUIT_3.5MM";1;"";;;

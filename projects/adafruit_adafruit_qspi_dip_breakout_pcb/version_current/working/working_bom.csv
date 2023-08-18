@@ -1,20 +1,5 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,HEADER-1X476MIL,JP2 JP3,HEADER-1X476MIL,1X04_ROUND_76,2, ,
-2,,SPIFLASH_8PIN208MIL,U1,GENERIC QSPI,SOIC8_208MIL,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,2
-Component Count:,3 (0 SMD/ 0 THT)
-Fitted Components:,3 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,3
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"FID1";"FIDUCIAL_1MM";1;"FIDUCIAL_1MM";;;
+2;"JP2,JP3";"1X04_ROUND_76";2;"";;;
+3;"U1";"SOIC8_208MIL";1;"GENERIC QSPI";;;
+4;"U$4";"ADAFRUIT_2.5MM";1;"";;;

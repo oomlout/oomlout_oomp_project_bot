@@ -1,27 +1,14 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C1 C2,0.47uF,0805-NO,2, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C3 C5,10µF,0805-NO,2, ,
-3,,HEADER-1X7THICKER,JP1,HEADER-1X7THICKER,1X07_ROUND_76,1, ,
-4,,MOSFET-NWIDE,Q1 Q2,BSS138,SOT23-WIDE,2, ,
-5,,RESISTOR0805_NOOUTLINE,R5 R6 R7 R8,10K,0805-NO,4, ,
-6,,VREG_SOT23-5,U2,RT9193,SOT23-5,1, ,
-7,,SI5351A,U1,Si5351A-B-GT,MSOP10,1, ,
-8,,SMACONNECTOR_EDGE,X1 X2 X3,SMACONNECTOR_EDGE,SMA_EDGELAUNCH,3, ,
-9,,CRYSTAL3.2X2.5,Y1,25MHz,CRYSTAL_3.2X2.5,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,9
-Component Count:,17 (0 SMD/ 0 THT)
-Fitted Components:,17 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,17
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"FID2,FID1";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+2;"U$10,U$11";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+3;"R6,R8,R5,R7";"0805-NO";4;"10K";;;
+4;"JP1";"1X07_ROUND_76";1;"";;;
+5;"C1,C2";"0805-NO";2;"0.47uF";;;
+6;"Q2,Q1";"SOT23-WIDE";2;"BSS138";;;
+7;"U2";"SOT23-5";1;"RT9193";;;
+8;"Y1";"CRYSTAL_3.2X2.5";1;"25MHz";;;
+9;"X2,X1,X3";"SMA_EDGELAUNCH";3;"";;;
+10;"U1";"MSOP10";1;"Si5351A-B-GT";;;
+11;"C5,C3";"0805-NO";2;"10µF";;;
+12;"U$12";"ADAFRUIT_3.5MM";1;"";;;
+13;"U$23";"ADAFRUIT_TEXT_20MM";1;"";;;

@@ -1,25 +1,31 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,BOM
-1,,CAP_CERAMIC0603_NO,C2 C3,0.1uF,0603-NO,2, ,,
-2,,CAP_CERAMIC0805-NOOUTLINE,C1,10uF,0805-NO,1, ,,
-3,,TSC2046PW,IC1,TSC2046PW,TSSOP16,1, ,,
-4,,HEADER-1X11,JP1,HEADER-1X11,1X11_ROUND,1, ,,
-5,,HEADER-1X2ROUND,JP4 JP5,HEADER-1X2ROUND,1X02_ROUND,2, ,,
-6,,RESISTOR_0603_NOOUT,R1,10K,0603-NO,1, ,,
-7,,FPC_4PIN_MT,U$7,FPC_4PIN_MT,FPC_CONN_1MM_DUAL_4P_MT,1, ,,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,7
-Component Count:,9 (0 SMD/ 0 THT)
-Fitted Components:,9 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,9
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"PLABEL13";"PLABEL13";1;"";;;
+2;"PLABEL15";"PLABEL15";1;"";;;
+3;"PLABEL6";"PLABEL6";1;"";;;
+4;"PLABEL7";"PLABEL7";1;"";;;
+5;"PLABEL12";"PLABEL12";1;"";;;
+6;"IC1";"TSSOP16";1;"TSC2046PW";;;
+7;"PLABEL2";"PLABEL2";1;"";;;
+8;"PLABEL5";"PLABEL5";1;"";;;
+9;"PLABEL11";"PLABEL11";1;"";;;
+10;"PLABEL4";"PLABEL4";1;"";;;
+11;"R1";"0603-NO";1;"10K";;;
+12;"U$5,U$4";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+13;"PLABEL16";"PLABEL16";1;"";;;
+14;"PLABEL14";"PLABEL14";1;"";;;
+15;"C3,C2";"0603-NO";2;"0.1uF";;;
+16;"PLABEL8";"PLABEL8";1;"";;;
+17;"JP1";"1X11_ROUND";1;"";;;
+18;"JP4,JP5";"1X02_ROUND";2;"";;;
+19;"U$6";"PCBFEAT-REV-040";1;"";;;
+20;"PLABEL9";"PLABEL9";1;"";;;
+21;"C1";"0805-NO";1;"10uF";;;
+22;"FID3,FID2";"FIDUCIAL_1MM";2;"FIDUCIAL_1MM";;;
+23;"U$8";"ADAFRUIT_3.5MM";1;"";;;
+24;"PLABEL1";"PLABEL1";1;"";;;
+25;"PLABEL3";"PLABEL3";1;"";;;
+26;"PLABEL0";"PLABEL0";1;"";;;
+27;"U$7";"FPC_CONN_1MM_DUAL_4P_MT";1;"FPC_4PIN_MT";;;
+28;"PLABEL10";"PLABEL10";1;"";;;
+29;"PLABEL17";"PLABEL17";1;"";;;
+30;"PLABEL18";"PLABEL18";1;"";;;

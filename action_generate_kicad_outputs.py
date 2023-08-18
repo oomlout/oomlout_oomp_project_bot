@@ -7,9 +7,6 @@ def go_through_directories():
         #go through all files
         for file in files:
             #check for a brd file
-
-
-  
             
             filename = os.path.join(root, file)
             filter = ["sparkfun","adafruit","omerk"]

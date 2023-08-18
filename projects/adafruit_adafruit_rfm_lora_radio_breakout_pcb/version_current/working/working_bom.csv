@@ -1,28 +1,15 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC0805-NOOUTLINE,C2,0.1uF,0805-NO,1, ,
-2,,CAP_CERAMIC0805-NOOUTLINE,C1 C3,10uF,0805-NO,2, ,
-3,,HEADER-1X1ROUND,JP2,HEADER-1X1ROUND,1X01_ROUND,1, ,
-4,,HEADER-1X570MIL,JP1,HEADER-1X570MIL,1X05_ROUND_70,1, ,
-5,,HEADER-1X970MIL,JP3,HEADER-1X970MIL,1X09_ROUND_70,1, ,
-6,,RESISTOR0805_NOOUTLINE,R1 R2 R3,100K,0805-NO,3, ,
-7,,74HC4050DTSSOP,U2,74HC4050D,TSSOP16,1, ,
-8,,VREG_SOT23-5,U3,AP2112K-3.3,SOT23-5,1, ,
-9,,RFM69HCW_SMT,U1,RFM69HCW,RFMHCW_SMT,1, ,
-10,,SMACONNECTOR_EDGE_UFL,X1,uFL/SMA,SMA_EDGELAUNCH_UFL,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,10
-Component Count:,13 (0 SMD/ 0 THT)
-Fitted Components:,13 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,13
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U$8";"ADAFRUIT_3.5MM";1;"";;;
+2;"FID1,FID2";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+3;"JP1";"1X05_ROUND_70";1;"";;;
+4;"R3,R1,R2";"0805-NO";3;"100K";;;
+5;"U1";"RFMHCW_SMT";1;"RFM69HCW";;;
+6;"C3,C1";"0805-NO";2;"10uF";;;
+7;"X1";"SMA_EDGELAUNCH_UFL";1;"uFL/SMA";;;
+8;"U3";"SOT23-5";1;"AP2112K-3.3";;;
+9;"JP2";"1X01_ROUND";1;"";;;
+10;"U2";"TSSOP16";1;"74HC4050D";;;
+11;"C2";"0805-NO";1;"0.1uF";;;
+12;"JP3";"1X09_ROUND_70";1;"";;;
+13;"U$19";"ADAFRUIT_TEXT_20MM";1;"";;;
+14;"U$14";"PCBFEAT-REV-040";1;"";;;

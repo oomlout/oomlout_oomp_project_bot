@@ -1,27 +1,14 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP_CERAMIC_0805,C1,0.1µF,_0805,1, ,
-2,,CAP_CERAMIC_0805,C2 C3,10µF,_0805,2, ,
-3,,HEADER-1X770MIL,JP1,HEADER-1X770MIL,1X07_ROUND_70,1, ,
-4,,LEDEV45-21,LED1,45-21/LK2C-B38452C4CB2/2T,EVERLIGHT_45-21,1, ,
-5,,MOSFET-NWIDE,Q1 Q2 Q3,BSS138,SOT23-WIDE,3, ,
-6,,RESISTOR_0805,R1 R2 R3 R4 R6,10K,_0805,5, ,
-7,,RESISTOR_0805,R5,TBD,_0805,1, ,
-8,,VREG_SOT23-5,U2,RT9193,SOT23-5,1, ,
-9,,LIGHT_TCS3472,U1,TCS34725,TCS3472_FN6,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,9
-Component Count:,16 (0 SMD/ 0 THT)
-Fitted Components:,16 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,16
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R2,R4,R6,R1,R3";"_0805";5;"10K";;;
+2;"FID1,FID2";"FIDUCIAL_1MM";2;"FIDUCIAL""";;;
+3;"C1";"_0805";1;"0.1µF";;;
+4;"Q3,Q1,Q2";"SOT23-WIDE";3;"BSS138";;;
+5;"U2";"SOT23-5";1;"RT9193";;;
+6;"U$14,U$8";"MOUNTINGHOLE_2.5_PLATED";2;"MOUNTINGHOLE2.5";;;
+7;"C3,C2";"_0805";2;"10µF";;;
+8;"R5";"_0805";1;"TBD";;;
+9;"U$2";"ADAFRUIT_2.5MM";1;"";;;
+10;"JP1";"1X07_ROUND_70";1;"";;;
+11;"LED1";"EVERLIGHT_45-21";1;"45-21/LK2C-B38452C4CB2/2T";;;
+12;"U1";"TCS3472_FN6";1;"TCS34725";;;
+13;"U$18";"ADAFRUIT_5MM";1;"";;;
