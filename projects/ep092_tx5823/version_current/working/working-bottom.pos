@@ -1,0 +1,57 @@
+### Footprint positions - created on Sat Aug 19 03:12:27 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val               Package                                    PosX       PosY       Rot  Side
+C6        Cin               C_1206                                  86.8000   -59.4000    0.0000  bottom
+C7        Ccomp2            C_0805                                  86.2000   -53.7000    0.0000  bottom
+C9        Cinx              C_0805                                  86.0000   -57.1000    0.0000  bottom
+C10       Ccomp             C_0805                                  86.2000   -50.8000  180.0000  bottom
+C19       1uF               C_0603                                  88.4000   -29.3000  -90.0000  bottom
+C21       100nF             C_0402                                  89.5000   -31.1000    0.0000  bottom
+C22       100nF             C_0402                                  90.5000   -29.7000    0.0000  bottom
+C23       100nF             C_0402                                  86.2000   -26.9000   90.0000  bottom
+C24       100nF             C_0402                                  77.2000   -26.7000   90.0000  bottom
+C25       100nF             C_0402                                  86.2000   -29.7000   90.0000  bottom
+C26       1uF               C_0603                                  89.5000   -22.8000    0.0000  bottom
+C27       10uF              C_1206                                  90.1000   -21.0000    0.0000  bottom
+C28       1uF               C_0603                                  79.7000   -29.1000   90.0000  bottom
+C29       100nF             C_0402                                 111.9000   -29.5000    0.0000  bottom
+C30       100nF             C_0402                                  91.4000   -41.0000  -90.0000  bottom
+C33       100nF             C_0402                                  95.0000   -41.2000  -90.0000  bottom
+C34       1uF               C_0603                                  93.3000   -41.1000  -90.0000  bottom
+C35       47uF              TantalC_SizeB_EIA-3528_Reflow          102.9000   -31.8000    0.0000  bottom
+C36       47uF              TantalC_SizeB_EIA-3528_Reflow          103.1000   -37.6000    0.0000  bottom
+C37       100nF/NP0         C_1206                                  88.3000   -41.0000    0.0000  bottom
+C38       1uF/50V           C_1206                                  97.7000   -46.6000  -90.0000  bottom
+D2        DIODESCH          Diode-SMC_Standard                      93.4000   -64.0000   90.0000  bottom
+D5        DIODESCH          Diode-SMC_Standard                     104.0000   -44.8000  180.0000  bottom
+IC2       ATTINY13A-SS      SOIC-8-N                               112.4000   -24.5000    0.0000  bottom
+L2        15uH              Choke_SMD_12x12mm_h4.5mm               103.2000   -55.4000   90.0000  bottom
+P2        ISP               micro_match3x2                         101.9000   -24.7000    0.0000  bottom
+P3        Mavlink           Connector_Molex_PicoBlade_53261-0571    81.2800   -21.5900    0.0000  bottom
+Q1        MOS_N             SO8_WITH_EP                             86.8000   -64.5000  180.0000  bottom
+R3        Rt                R_0402                                  87.4000   -55.1000  180.0000  bottom
+R5        Rcomp             R_0402                                  85.4000   -52.3000  180.0000  bottom
+R9        Rsense            R_1206                                  91.4000   -58.1000  180.0000  bottom
+R12       open              R_0603                                  86.8000   -46.6000   90.0000  bottom
+R13       10k               R_0603                                  79.7000   -31.9000  -90.0000  bottom
+R14       open              R_0603                                  85.0000   -46.6000   90.0000  bottom
+R17       open              R_0402                                  90.5000   -24.0000  180.0000  bottom
+R19       open              R_0402                                  92.5000   -24.8000    0.0000  bottom
+R20       open              R_0402                                  93.3000   -26.5000  -90.0000  bottom
+R23       10                R_0805                                 107.9000   -31.5000  -90.0000  bottom
+R24       10k               R_0603                                 109.6000   -30.2000  -90.0000  bottom
+R25       100               R_1206                                 112.8000   -31.9000    0.0000  bottom
+R26       open              R_0603                                  79.3000   -33.3000    0.0000  bottom
+R29       75                C_0805                                 103.3000   -35.2000    0.0000  bottom
+R30       75                C_0805                                  88.8000   -43.4000    0.0000  bottom
+R31       300R              C_0805                                 109.4000   -35.1000  180.0000  bottom
+RP1       1k                R_Array_Concave_4x0603                  98.1000   -35.7000  180.0000  bottom
+U1        LM25118           TSSOP-20_4.4x6.5mm_Pitch0.65mm_EP       92.5000   -53.2000    0.0000  bottom
+U3        TPS7A7200RGT      QFN-16-1EP_3x3mm_Pitch0.5mm             90.1700   -26.6700  -90.0000  bottom
+U7        MAX7456_DS        TSSOP-20_4.4x6.5mm_Pitch0.65mm_EP       91.0000   -35.5000    0.0000  bottom
+U8        OPTO-TRANSISTOR4  SO-4                                    82.7000   -29.9000    0.0000  bottom
+X1        27MHz             CRYSTAL_MT                              83.5000   -36.7000  180.0000  bottom
+Y1        16MHz             CerOsc_3,2x1,3                          77.4000   -29.9000   90.0000  bottom
+## End

@@ -1,22 +1,6 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,Unpolarized capacitor,C,C1 C2 C3 C4 C5 C6 C18 C19 C20 C21 C22 C23,100n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,12, ,~
-2,Polarized capacitor,C_Polarized,C8 C9 C10 C11 C12 C13 C14 C15 C16 C17,100u,CP_Radial_D10.0mm_P5.00mm,10, ,~
-3,"Generic connector, single row, 01x02, script generated",Conn_01x02_Socket,J1 J2,Conn_01x02_Socket,1711725,2, ,~
-4,"Inductor, small symbol",L_Small,L1 L2 L3 L4,L_Small,L_Toroid_Horizontal_25x22,4, ,~
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-58
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,4
-Component Count:,28 (12 SMD/ 16 THT)
-Fitted Components:,28 (12 SMD/ 16 THT)
-Number of PCBs:,1
-Total Components:,28
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C10,C15,C12,C14,C17,C13,C8,C9,C16,C11";"CP_Radial_D10.0mm_P5.00mm";10;"100u";;;
+2;"L1,L3,L2,L4";"L_Toroid_Horizontal_25x22";4;"L_Small";;;
+3;"J2,J1";"1711725";2;"Conn_01x02_Socket";;;
+4;"H1,H4,H3,H2";"MountingHole_3.2mm_M3_Pad";4;"MountingHole";;;
+5;"C2,C18,C3,C1,C4,C21,C23,C22,C19,C5,C6,C20";"C_1206_3216Metric_Pad1.33x1.80mm_HandSolder";12;"100n";;;

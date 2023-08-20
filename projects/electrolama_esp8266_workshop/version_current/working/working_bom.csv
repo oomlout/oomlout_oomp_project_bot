@@ -1,27 +1,12 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,M025MM,CON1,M025MM,SCREWTERMINAL-5MM-2,1, ,
-2,,LED5MM,LED1 LED2,LED5MM,LED5MM,2, ,
-3,,RESISTOR-PTH-0.4,R2 R3,470,RTH025W,2, ,
-4,,RESISTOR-PTH-0.4,R1 R4 R5,10k,RTH025W,3, ,
-5,,TAC_SWITCHPTH,SW1,TAC_SWITCHPTH,TACTILE-PTH,1, ,
-6,,DHT11,U2,DHT11,DHT11,1, ,
-7,,HC-SR501,U3,HC-SR501,HC-SR501,1, ,
-8,,NODEMCU_DEVKIT_V1.0,U1,NODEMCU_DEVKIT_V1.0,NODEMCU_DEVKIT_V1.0,1, ,
-9,,LDR,VR1,LDR,LDR,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-03_17-21-23
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,9
-Component Count:,13 (0 SMD/ 0 THT)
-Fitted Components:,13 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,13
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"LED1,LED2";"LED5MM";2;"";;;
+2;"U2";"DHT11";1;"DHT11";;;
+3;"@HOLE1,@HOLE2,@HOLE3,@HOLE0";"";4;"";;;
+4;"R1,R5,R4";"RTH025W";3;"10k";;;
+5;"SW1";"TACTILE-PTH";1;"";;;
+6;"CON1";"SCREWTERMINAL-5MM-2";1;"M025MM";;;
+7;"R3,R2";"RTH025W";2;"470";;;
+8;"VR1";"LDR";1;"LDR";;;
+9;"U3";"HC-SR501";1;"HC-SR501";;;
+10;"U$1";"PROTO_VIAS_05X05_1.2";1;"PROTO_VIAS_05X05-1.2";;;
+11;"U1";"NODEMCU_DEVKIT_V1.0";1;"NODEMCU_DEVKIT_V1.0";;;

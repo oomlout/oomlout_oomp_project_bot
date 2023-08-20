@@ -1,0 +1,58 @@
+### Footprint positions - created on Sat Aug 19 15:00:55 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                 PosX       PosY       Rot  Side
+@HOLE0                                        124.5011   -66.5036    0.0000  top
+@HOLE1                                        172.5011   -66.5036    0.0000  top
+@HOLE2                                        124.5011  -143.5036    0.0000  top
+@HOLE3                                        172.5011  -143.5036    0.0000  top
+C1        100nF           C0603               172.5011   -78.5036    0.0000  top
+C2        100nF           C0603               156.5011   -69.5036   90.0000  top
+C3        1uF             C0603               169.5011   -72.5036   90.0000  top
+C4        1uF             C0603               160.5011   -69.5036  -90.0000  top
+C5        15pF            C0603               148.0011   -79.5036  -90.0000  top
+C6        15pF            C0603               154.0011   -79.5036   90.0000  top
+F1        500mA_PTC_1812  1812                139.5011   -68.5036  -90.0000  top
+IC1       ATMEGA32U4-QFN  QFN-44N             164.5011   -78.5036  180.0000  top
+ICSP0     ICSP            2X03PTH             172.0411   -85.1076  -90.0000  top
+JP2       OLED            1X04                130.5011   -76.5036  -90.0000  top
+LED1      BLUE            LED-0603            130.0011   -66.5036   90.0000  top
+LED2      RED             LED-0603            133.5011   -66.5036   90.0000  top
+LED3      GREEN           LED-0603            136.0011   -66.5036   90.0000  top
+R1        22R             R0603               166.5011   -69.5036  -90.0000  top
+R2        10K             R0603               158.5011   -69.5036   90.0000  top
+R3        4K7             R0603               130.0011   -71.5036  -90.0000  top
+R4        1K              R0603               133.5011   -71.5036  -90.0000  top
+R5        1K              R0603               136.0011   -71.5036  -90.0000  top
+R6        22R             R0603               164.5011   -69.5036  -90.0000  top
+R7        5.1K            R0603               154.0011   -72.5036  -90.0000  top
+R18       5.1K            R0603               142.0011   -74.0036   90.0000  top
+S1        1               TACTILE-PTH-6MM     130.5011   -93.5036   90.0000  top
+S2        2               TACTILE-PTH-6MM     142.5011   -93.5036   90.0000  top
+S3        3               TACTILE-PTH-6MM     154.5011   -93.5036   90.0000  top
+S4        4               TACTILE-PTH-6MM     166.5011   -93.5036   90.0000  top
+S5        5               TACTILE-PTH-6MM     130.5011  -104.5036   90.0000  top
+S6        6               TACTILE-PTH-6MM     142.5011  -104.5036   90.0000  top
+S7        7               TACTILE-PTH-6MM     154.5011  -104.5036   90.0000  top
+S8        8               TACTILE-PTH-6MM     166.5011  -104.5036   90.0000  top
+S9        9               TACTILE-PTH-6MM     130.5011  -115.5036   90.0000  top
+S10       10              TACTILE-PTH-6MM     142.5011  -115.5036   90.0000  top
+S11       11              TACTILE-PTH-6MM     154.5011  -115.5036   90.0000  top
+S12       12              TACTILE-PTH-6MM     166.5011  -115.5036   90.0000  top
+S13       13              TACTILE-PTH-6MM     130.5011  -126.5036   90.0000  top
+S14       14              TACTILE-PTH-6MM     142.5011  -126.5036   90.0000  top
+S15       15              TACTILE-PTH-6MM     154.5011  -126.5036   90.0000  top
+S16       16              TACTILE-PTH-6MM     166.5011  -126.5036   90.0000  top
+S17       17              TACTILE-PTH-6MM     130.5011  -137.5036   90.0000  top
+S18       18              TACTILE-PTH-6MM     142.5011  -137.5036   90.0000  top
+S19       19              TACTILE-PTH-6MM     154.5011  -137.5036   90.0000  top
+S20       20              TACTILE-PTH-6MM     166.5011  -137.5036   90.0000  top
+S21       RESET           TACTILE_SMD_3X4X2   172.5011   -72.5036  -90.0000  top
+S22       HWB             TACTILE_SMD_3X4X2   124.5011   -72.5036   90.0000  top
+SJ1       HWB             SJ                  124.5011   -79.0036  180.0000  top
+U$15      USB-C           USB-C-U52A          152.1011   -71.5036  180.0000  top
+XTL1      16MHz           CRYSTAL-SMD-3X2     151.0011   -79.5036  180.0000  top
+Z1        PGB1010603      TVS0603             168.5011   -69.5036   90.0000  top
+Z2        PGB1010603      TVS0603             162.5011   -69.5036   90.0000  top
+## End

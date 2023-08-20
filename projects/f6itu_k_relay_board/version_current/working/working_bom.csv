@@ -1,32 +1,22 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Sim.Device,Sim.Pins
-1,"Unpolarized capacitor, small symbol",C_Small,C1 C13,22p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2, ,~,,
-2,"Unpolarized capacitor, small symbol",C_Small,C20,100p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1, ,~,,
-3,"Unpolarized capacitor, small symbol",C_Small,C2 C5 C7 C9 C11,10n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,5, ,~,,
-4,"Unpolarized capacitor, small symbol",C_Small,C3 C4 C6 C8 C10 C12 C14 C15 C16 C17 C18 C19,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,12, ,~,,
-5,"Diode, small symbol",D_Small,D1,BAS16J,D_SOD-323_HandSoldering,1, ,~,D,1=K 2=A
-6,"Diode, small symbol",D_Small,D3 D4 D5 D6,D_Small,D_SOD-323_HandSoldering,4, ,~,D,1=K 2=A
-7,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J1 J2 J3 J4,ANT3,Coaxial_N_Flange,4, ,~,,
-8,"Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x05_Odd_Even,J10,Con_IDC,IDC-Header_2x05_P2.54mm_Vertical,1, ,~,,
-9,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J6 J7 J8,FROM ATU OUT,BNC_Amphenol_031532951RFX,3, ,~,,
-10,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J5 J9 J11,TRX From SDR,SMA_PINS,3, ,~,,
-11,"Omron Ultracompact, Ultrasensitive DPDT Relay, Single-side Stable",G6H-2,K3,TQ2-12V,DIPS762W80P254L1400H530Q10N,1, ,http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf,,
-12,,G2R-1-E_DC12,K1 K2 K4 K5,TRA2 L-12VDC-S-Z,RELAY_G2R-1-E AC12,4, ,G2R-1-E DC12,,
-13,"Resistor, small symbol",R_Small,R2,5K6,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,
-14,"Resistor, small symbol",R_Small,R1,33k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-58
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,14
-Component Count:,43 (27 SMD/ 16 THT)
-Fitted Components:,43 (27 SMD/ 16 THT)
-Number of PCBs:,1
-Total Components:,43
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J6";"BNC_Amphenol_031532951RFX";1;"FROM ATU OUT";;;
+2;"K5,K1,K4,K2";"RELAY_G2R-1-E AC12";4;"TRA2 L-12VDC-S-Z";;;
+3;"K3";"DIPS762W80P254L1400H530Q10N";1;"TQ2-12V";;;
+4;"J9";"SMA_PINS";1;"To PA input";;;
+5;"J7";"BNC_Amphenol_031532951RFX";1;"TO ATU IN";;;
+6;"J8";"BNC_Amphenol_031532951RFX";1;"FROM LPF";;;
+7;"J10";"IDC-Header_2x05_P2.54mm_Vertical";1;"Con_IDC";;;
+8;"J11";"SMA_PINS";1;"To CTL";;;
+9;"J5";"SMA_PINS";1;"TRX From SDR";;;
+10;"C20";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"100p";;;
+11;"D3,D6,D4,D5";"D_SOD-323_HandSoldering";4;"D_Small";;;
+12;"C11,C9,C2,C5,C7";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";5;"10n";;;
+13;"J2";"Coaxial_N_Flange";1;"ANT1";;;
+14;"J3";"Coaxial_N_Flange";1;"ANT2";;;
+15;"J4";"Coaxial_N_Flange";1;"ANT4";;;
+16;"C19,C8,C14,C10,C3,C4,C16,C18,C12,C15,C17,C6";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";12;"100n";;;
+17;"D1";"D_SOD-323_HandSoldering";1;"BAS16J";;;
+18;"R1";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"33k";;;
+19;"R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"5K6";;;
+20;"C1,C13";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"22p";;;
+21;"J1";"Coaxial_N_Flange";1;"ANT3";;;

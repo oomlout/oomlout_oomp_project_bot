@@ -1,42 +1,30 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C5 C6 C8 C12 C13 C14 C16 C17 C18 C19 C20 C21 C22 C23,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,16, ,~
-2,"Unpolarized capacitor, small symbol",C_Small,C4 C7 C9 C10 C15,1u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,5, ,~
-3,"Unpolarized capacitor, small symbol",C_Small,C3 C11 C24,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,3, ,~
-4,"Diode, small symbol",D_Small,D1,BAS16J,D_SOD-323,1, ,~
-5,"Diode, small symbol",D_Small,D2 D3 D4 D5 D6 D7,S1M,D_SMA_Handsoldering,6, ,~
-6,"16-bit I/O expander, I2C, interrupts, w pull-ups, SOIC-28",MCP23017_SO,IC1,MCP23017_SO,SOIC-28W_7.5x17.9mm_P1.27mm,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf
-7,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10_Male,J1 J3 J5,IDC 10 Straight,IDC-Header_2x05_P2.54mm_Vertical,3, ,~
-8,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Female,J4,Molex KK 2,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,1, ,~
-9,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Male,J6,Molex KK 2,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,1, ,~
-10,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03_Male,J7,Molex KK 3,Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical,1, ,~
-11,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Male,J2 J8,Molex KK 4,Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical,2, ,~
-12,"Ferrite bead, small symbol",FerriteBead_Small,L1 L2 L3 L4,2743021447,Fair-Rite_2743021447,4, ,~
-13,"0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23",2N7002,Q1 Q2,2N7002,SOT-23,2, ,https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
-14,"Resistor, small symbol",R_Small,R6 R7 R8 R18 R19 R20 R22,1k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,7, ,~
-15,"Resistor, small symbol",R_Small,R1 R2 R3 R4 R9 R10 R11 R16 R17,2.2k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,9, ,~
-16,"Resistor, small symbol",R_Small,R5 R21 R23 R25 R26 R27 R28 R29 R30 R31,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10, ,~
-17,"Resistor, small symbol",R_Small,R24,22k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~
-18,Potentiometer,R_Potentiometer_Small,RV12 RV13 RV14 RV15,1k,Potentiometer_Bourns_TC33X_Vertical,4, ,~
-19,"Rotary encoder, dual channel, incremental quadrate outputs, with switch",RotaryEncoder_Dual_Switch,SW1,RotaryEncoder_Dual_Switch,RotaryEncoder_Dual_Alps_EC11E-Switch_Vertical_H20mm,1, ,~
-20,quad 2-input NOR gate,74HC02,U2,74HC02,SOIC-14_3.9x8.7mm_P1.27mm,1, ,http://www.ti.com/lit/gpn/sn74hc02
-21,,74HC21,U3,74HC21,SOIC-14_3.9x8.7mm_P1.27mm,1, ,
-22,"800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223",LM1117-3.3,U4,LM1117-3.3,SOT-223-3_TabPin2,1, ,http://www.ti.com/lit/ds/symlink/lm1117.pdf
-23,"Quad Differential Comparators, SOIC-14/TSSOP-14",LM339,U1,LM339,SOIC-14_3.9x8.7mm_P1.27mm,1, ,https://www.st.com/resource/en/datasheet/lm139.pdf
-24,,YAAJ_DCDC_StepDown_LM2596,U6,YAAJ_DCDC_StepDown_LM2596,YAAJ_DCDC_StepDown_LM2596,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-58
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,24
-Component Count:,83 (73 SMD/ 10 THT)
-Fitted Components:,83 (73 SMD/ 10 THT)
-Number of PCBs:,1
-Total Components:,83
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R27,R30,R26,R28,R25,R29,R5,R31,R23,R21";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";10;"10k";;;
+2;"C22,C21,C17,C18,C19,C13,C23,C14,C20,C6,C8,C5,C1,C2,C16,C12";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";16;"100n";;;
+3;"J11";"MountingHole_3.2mm_M3_Pad_Via";1;"MH3";;;
+4;"J10";"MountingHole_3.2mm_M3_Pad_Via";1;"MH2";;;
+5;"J9";"MountingHole_3.2mm_M3_Pad_Via";1;"MH1";;;
+6;"R10,R1,R11,R16,R3,R4,R17,R9,R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";9;"2.2k";;;
+7;"J14";"MountingHole_3.2mm_M3_Pad_Via";1;"MH6";;;
+8;"J12";"MountingHole_3.2mm_M3_Pad_Via";1;"MH4";;;
+9;"SW1";"RotaryEncoder_Dual_Alps_EC11E-Switch_Vertical_H20mm";1;"RotaryEncoder_Dual_Switch";;;
+10;"J13";"MountingHole_3.2mm_M3_Pad_Via";1;"MH5";;;
+11;"R7,R6,R22,R19,R18,R20,R8";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";7;"1k";;;
+12;"C9,C4,C15,C7,C10";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";5;"1u";;;
+13;"J8,J2";"Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical";2;"Molex KK 4";;;
+14;"D3,D6,D5,D7,D2,D4";"D_SMA_Handsoldering";6;"S1M";;;
+15;"J4,J6";"Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical";2;"Molex KK 2";;;
+16;"D1";"D_SOD-323";1;"BAS16J";;;
+17;"IC1";"SOIC-28W_7.5x17.9mm_P1.27mm";1;"MCP23017_SO";;;
+18;"RV13,RV14,RV15,RV12";"Potentiometer_Bourns_TC33X_Vertical";4;"1k";;;
+19;"C11,C3,C24";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";3;"10u";;;
+20;"R24";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"22k";;;
+21;"J3,J1,J5";"IDC-Header_2x05_P2.54mm_Vertical";3;"IDC 10 Straight";;;
+22;"U4";"SOT-223-3_TabPin2";1;"LM1117-3.3";;;
+23;"U1";"SOIC-14_3.9x8.7mm_P1.27mm";1;"LM339";;;
+24;"L3,L1,L4,L2";"Fair-Rite_2743021447";4;"2743021447";;;
+25;"Q1,Q2";"SOT-23";2;"2N7002";;;
+26;"J7";"Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical";1;"Molex KK 3";;;
+27;"U6";"YAAJ_DCDC_StepDown_LM2596";1;"YAAJ_DCDC_StepDown_LM2596";;;
+28;"U2";"SOIC-14_3.9x8.7mm_P1.27mm";1;"74HC02";;;
+29;"U3";"SOIC-14_3.9x8.7mm_P1.27mm";1;"74HC21";;;

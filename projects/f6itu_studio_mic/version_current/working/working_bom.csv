@@ -1,34 +1,17 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Sim.Device,Sim.Pins,Sim.Enable
-1,"Unpolarized capacitor, small symbol",C_Small,C91 C92,220pF,,2, ,~,,,
-2,"Unpolarized capacitor, small symbol",C_Small,C9 C19,1nF 100V,C_0805_2012Metric,2, ,~,,,
-3,"Unpolarized capacitor, small symbol",C_Small,C11 C12 C13 C14 C15 C16,10nF,C_0805_2012Metric,6, ,~,,,
-4,"Unpolarized capacitor, small symbol",C_Small,C4 C6 C8 C10 C17 C18,100nF 100V,C_0805_2012Metric,6, ,~,,,
-5,"Polarized capacitor, small symbol",C_Polarized_Small,C1 C2 C3 C5 C7,47uF,CP_Elec_8x10.5,5, ,~,,,
-6,Zener diode,D_Zener,D1,12V,D_MiniMELF_Handsoldering,1, ,~,,,
-7,"75V 0.15A Fast switching Diode, SOD-323",1N4148WS,D2 D3 D4 D5 D6 D7 D8,1N4148WS,D_SOD-323_HandSoldering,7, ,https://www.vishay.com/docs/85751/1n4148ws.pdf,D,1=K 2=A,
-8,"XLR Connector, Male or Female, 3 Pins",XLR3,J1,XLR3,Pads_3pin_10mm,1, ,~,,,
-9,Condenser microphone,Microphone_Condenser,MK1,Condenser capsule,Pads_2pin_10mm,1, ,~,,,
-10,"Resistor, small symbol",R_Small,R1 R2,47,R_0805_2012Metric,2, ,~,,,
-11,"Resistor, small symbol",R_Small,R5,200,R_0805_2012Metric,1, ,~,,,
-12,"Resistor, small symbol",R_Small,R3 R4 R8 R11 R12,2.2k,R_0805_2012Metric,5, ,~,,,
-13,"Resistor, small symbol",R_Small,R6 R7,47k,R_0805_2012Metric,2, ,~,,,
-14,"Resistor, small symbol",R_Small,R9 R10 R13 R101 R102 R103 R104 R105 R106 R107 R108 R109 R110,100M,R_0805_2012Metric,13, ,~,,,
-15,Hex inverter schmitt trigger,74HC14,U2,HEF40106BT,SO-14_3.9x8.65mm_P1.27mm,1, ,http://www.ti.com/lit/gpn/sn74HC14,,,
-16,"Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8",OPA1612AxD,U1,OPA1652,SOIC-8_3.9x4.9mm_P1.27mm,1, ,https://www.ti.com/lit/ds/symlink/opa1654.pdf,,,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,1
-Date:,2023-03-18
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,16
-Component Count:,56 (54 SMD/ 0 THT)
-Fitted Components:,56 (54 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,56
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C12,C16,C15,C11,C13,C14";"C_0805_2012Metric";6;"10nF";;;
+2;"C8,C17,C10,C18,C4,C6";"C_0805_2012Metric";6;"100nF 100V";;;
+3;"U2";"SO-14_3.9x8.65mm_P1.27mm";1;"HEF40106BT";;;
+4;"D1";"D_MiniMELF_Handsoldering";1;"12V";;;
+5;"R12,R3,R11,R4,R8";"R_0805_2012Metric";5;"2.2k";;;
+6;"R5";"R_0805_2012Metric";1;"200";;;
+7;"R10,R9,R101,R102,R105,R107,R13,R103,R104,R108,R109,R106,R110";"R_0805_2012Metric";13;"100M";;;
+8;"D8,D3,D7,D2,D4,D6,D5";"D_SOD-323_HandSoldering";7;"1N4148WS";;;
+9;"C3,C1,C7,C2,C5";"CP_Elec_8x10.5";5;"47uF";;;
+10;"R2,R1";"R_0805_2012Metric";2;"47";;;
+11;"R6,R7";"R_0805_2012Metric";2;"47k";;;
+12;"H1,H2";"MountingHole_2.7mm_M2.5_ISO14580";2;"M2.5";;;
+13;"J1";"Pads_3pin_10mm";1;"XLR3";;;
+14;"C19,C9";"C_0805_2012Metric";2;"1nF 100V";;;
+15;"MK1";"Pads_2pin_10mm";1;"Condenser capsule";;;
+16;"U1";"SOIC-8_3.9x4.9mm_P1.27mm";1;"OPA1652 ";;;

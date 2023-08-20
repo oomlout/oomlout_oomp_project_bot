@@ -1,64 +1,47 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Sim.Device,Sim.Pins,Height,Mouser Part Number,Mouser Price/Stock,Manufacturer_Name,Manufacturer_Part_Number
-1,"Unpolarized capacitor, small symbol",C_Small,C36,1n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1, ,~,,,,,,,
-2,"Unpolarized capacitor, small symbol",C_Small,C2 C3 C30,10n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,3, ,~,,,,,,,
-3,"Unpolarized capacitor, small symbol",C_Small,C14 C15 C16 C17 C18 C19 C20 C21,100n,C_1812_4532Metric_Pad1.57x3.40mm_HandSolder,8, ,~,,,,,,,
-4,"Unpolarized capacitor, small symbol",C_Small,C4 C5 C7 C22 C27 C28 C35,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,7, ,~,,,,,,,
-5,"Unpolarized capacitor, small symbol",C_Small,C6 C23 C24 C25 C31 C34 C37,1u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,7, ,~,,,,,,,
-6,"Unpolarized capacitor, small symbol",C_Small,C26,10u,CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder,1, ,~,,,,,,,
-7,"Polarized capacitor, small symbol",C_Polarized_Small,C29,220u,C_Elec_8x10.2,1, ,~,,,,,,,
-8,"Unpolarized capacitor, small symbol",C_Small,C9 C10,10n/250V,C_1812_4532Metric_Pad1.57x3.40mm_HandSolder,2, ,~,,,,,,,
-9,"Unpolarized capacitor, small symbol",C_Small,C8 C11,1u/250V,C_1812_4532Metric_Pad1.57x3.40mm_HandSolder,2, ,~,,,,,,,
-10,"Polarized capacitor, small symbol",C_Polarized_Small,C32,22u/63V,C_2220_5650Metric_Pad1.97x5.40mm_HandSolder,1, ,~,,,,,,,
-11,"Polarized capacitor, small symbol",C_Polarized_Small,C33,330u/63V,CP_Elec_18x17.5,1, ,~,,,,,,,
-12,"Unpolarized capacitor, small symbol",C_Small,C12 C13,TBD,C_1812_4532Metric_Pad1.57x3.40mm_HandSolder,2, ,~,,,,,,,
-13,"Diode, small symbol",D_Small,D3 D4 D7,BAS16J,D_SOD-323_HandSoldering,3, ,~,D,1=K 2=A,,,,,
-14,"1500W bidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE",1N62xxCA,D5 D6,CDSOD323-TC03,D_SOD-323_HandSoldering,2, ,https://www.vishay.com/docs/88301/15ke.pdf,,,,,,,
-15,"1500W bidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE",1N62xxCA,D2,CDSOD323-TC15,D_SOD-323_HandSoldering,1, ,https://www.vishay.com/docs/88301/15ke.pdf,,,,,,,
-16,Board Mount Current Sensors Hall Effect IC LF 30A 66 mV/A,ACHS-7123-000E,IC2,ACHS-7123-000E,SOIC-8_3.9x4.9mm_P1.27mm,1, ,https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/85fe2f5daf3917ca61a2261dca329268.pdf,,,2.035,630-ACHS-7123-000E,https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACHS-7123-000E?qs=w%2Fv1CP2dgqqiNyZEYkpD6A%3D%3D,Avago Technologies,ACHS-7123-000E
-17,"Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x03_Odd_Even,J3,Conn_02x03_Odd_Even,PinHeader_2x03_P2.54mm_Vertical_SMD,1, ,~,,,,,,,
-18,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J1 J2,Conn_Coaxial,SMA_PINS,2, ,~,,,,,,,
-19,"Generic connector, single row, 01x02, script generated",Conn_01x02_Socket,J6,Phoenix/1711725,1711725,1, ,~,,,,,,,
-20,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05,J4,To P.A.,Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical,1, ,~,,,,,,,
-21,"Generic connector, single row, 01x01, script generated",Conn_01x01_Socket,J5 J7,Wurth Redcube 7461057,7461057,2, ,~,,,,,,,
-22,"Inductor, small symbol",L_Small,L2 L3,2743021447,Fair-Rite_2743021447,2, ,~,,,,,,,
-23,"Inductor, small symbol",L_Small,L4,FT82-61?,T50_V_smd,1, ,~,,,,,,,
-24,"-0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23",BSS84,Q4,BSS84,SOT-23,1, ,http://assets.nexperia.com/documents/data-sheet/BSS84.pdf,,,,,,,
-25,"RF MOSFET Transistors RF Power LDMOS Transistor, 300 W CW over 1.8-250 MHz, 50 V",MRF300AN,Q1,MRF300AN tab dwn,TO-247-3_Horizontal_TabDown,1, ,http://www.nxp.com/docs/en/data-sheet/MRF300AN.pdf,,,5.21,771-MRF300AN,https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/MRF300AN?qs=y6ZabgHbY%252ByXQNig6kaSKw%3D%3D,NXP,MRF300AN
-26,"RF MOSFET Transistors RF Power LDMOS Transistor, 300 W CW over 1.8-250 MHz, 50 V",MRF300AN,Q2,MRF300BN tab up,TO-247-3_Horizontal_TabUp,1, ,http://www.nxp.com/docs/en/data-sheet/MRF300AN.pdf,,,5.21,771-MRF300AN,https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/MRF300AN?qs=y6ZabgHbY%252ByXQNig6kaSKw%3D%3D,NXP,MRF300AN
-27,"Resistor, small symbol",R_Small,R9 R10,1R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2, ,~,,,,,,,
-28,"Resistor, small symbol",R_Small,R18 R19 R20,4R7,R_1812_4532Metric_Pad1.30x3.40mm_HandSolder,3, ,~,,,,,,,
-29,"Resistor, small symbol",R_Small,R2,5R6,R_1812_4532Metric_Pad1.30x3.40mm_HandSolder,1, ,~,,,,,,,
-30,"Resistor, small symbol",R_Small,R3 R8,22R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2, ,~,,,,,,,
-31,"Resistor, small symbol",R_Small,R23,100R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,,,,,,
-32,"Resistor, small symbol",R_Small,R4 R7,220R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2, ,~,,,,,,,
-33,"Resistor, small symbol",R_Small,R11 R12 R13 R14 R15 R16,470R,R_Axial_DIN0414_L11.9mm_D4.5mm_P25.40mm_Horizontal,6, ,~,,,,,,,
-34,"Resistor, small symbol",R_Small,R6,1.2k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,,,,,,
-35,"Resistor, small symbol",R_Small,R17 R22,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2, ,~,,,,,,,
-36,"Resistor, small symbol",R_Small,R21,27k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,,,,,,
-37,"Resistor, small symbol",R_Small,R5,NTC10K,R_MELF_MMB-0207,1, ,~,,,,,,,
-38,Potentiometer,R_Potentiometer_Small,RV3,1k,Potentiometer_Bourns_3269W_Vertical,1, ,~,,,,,,,
-39,Potentiometer,R_Potentiometer_Small,RV1 RV2,10k,Potentiometer_Bourns_3269W_Vertical,2, ,~,,,,,,,
-40,"Transformer, single primary, single secondary",Transformer_1P_1S,T1,BN43-202  3:1,BN43-202,1, ,~,,,,,,,
-41,"Transformer, single primary, single secondary",Transformer_1P_1S,T2,FT-114A-61,FT114A-61,1, ,~,,,,,,,
-42,"Transformer, single primary, single secondary",Transformer_1P_1S,T3,FT-114A-61,FT114A-61_B,1, ,~,,,,,,,
-43,"Transformer, single primary, single secondary",Transformer_1P_1S,T4,FT-114A-61,FT114A-61_out,1, ,~,,,,,,,
-44,"Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8",LM358,U1,LM358,SOIC-8_3.9x4.9mm_P1.27mm,1, ,http://www.ti.com/lit/ds/symlink/lm2904-n.pdf,,,,,,,
-45,"Positive 500mA 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)",LM78M05_TO252,U2,LM78M05_TO252,TO-252-2,1, ,https://www.onsemi.com/pub/Collateral/MC78M00-D.PDF,,,,,,,
-46,"Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14",TL074,U3,LMC660AIM_NOPB,SOIC-14_3.9x8.7mm_P1.27mm,1, ,http://www.ti.com/lit/ds/symlink/tl071.pdf,,,,,,,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-58
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,46
-Component Count:,88 (73 SMD/ 14 THT)
-Fitted Components:,88 (73 SMD/ 14 THT)
-Number of PCBs:,1
-Total Components:,88
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J1,J2";"SMA_PINS";2;"Conn_Coaxial";;;
+2;"C7,C27,C22,C4,C28,C5,C35";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";7;"100n";;;
+3;"C34,C23,C6,C24,C31,C37,C25";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";7;"1u";;;
+4;"J5,J7";"7461057";2;"Wurth Redcube 7461057";;;
+5;"R16,R11";"R_Axial_DIN0414_L11.9mm_D4.5mm_P25.40mm_Horizontal";2;"470R";;;
+6;"C16,C18,C17,C15,C19,C21,C14,C20";"C_1812_4532Metric_Pad1.57x3.40mm_HandSolder";8;"100n";;;
+7;"J3";"PinHeader_2x03_P2.54mm_Vertical_SMD";1;"Conn_02x03_Odd_Even";;;
+8;"RV3";"Potentiometer_Bourns_3269W_Vertical";1;"1k";;;
+9;"H4,H2,H1,H5,H3";"MountingHole_3.5mm_Pad_TopBottom";5;"MountingHole_Pad";;;
+10;"D2";"D_SOD-323_HandSoldering";1;"CDSOD323-TC15";;;
+11;"R23";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"100R";;;
+12;"R10,R9";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"1R";;;
+13;"C13,C12";"C_1812_4532Metric_Pad1.57x3.40mm_HandSolder";2;"TBD";;;
+14;"D5,D6";"D_SOD-323_HandSoldering";2;"CDSOD323-TC03";;;
+15;"T3";"FT114A-61_B";1;"FT-114A-61";;;
+16;"R8,R3";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"22R";;;
+17;"C26";"CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder";1;"10u";;;
+18;"C33";"CP_Elec_18x17.5";1;"330u/63V";;;
+19;"C32";"C_2220_5650Metric_Pad1.97x5.40mm_HandSolder";1;"22u/63V";;;
+20;"L3,L2";"Fair-Rite_2743021447";2;"2743021447";;;
+21;"U3";"SOIC-14_3.9x8.7mm_P1.27mm";1;"LMC660AIM_NOPB";;;
+22;"R6";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"1.2k";;;
+23;"J6";"1711725";1;"Phoenix/1711725";;;
+24;"D4,D7,D3";"D_SOD-323_HandSoldering";3;"BAS16J";;;
+25;"C11,C8";"C_1812_4532Metric_Pad1.57x3.40mm_HandSolder";2;"1u/250V";;;
+26;"C2,C30,C3";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";3;"10n";;;
+27;"R2";"R_1812_4532Metric_Pad1.30x3.40mm_HandSolder";1;"5R6";;;
+28;"C9,C10";"C_1812_4532Metric_Pad1.57x3.40mm_HandSolder";2;"10n/250V";;;
+29;"U1";"SOIC-8_3.9x4.9mm_P1.27mm";1;"LM358";;;
+30;"C36";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"1n";;;
+31;"RV1,RV2";"Potentiometer_Bourns_3269W_Vertical";2;"10k";;;
+32;"IC2";"SOIC-8_3.9x4.9mm_P1.27mm";1;"ACHS-7123-000E";;;
+33;"R20,R18,R19";"R_1812_4532Metric_Pad1.30x3.40mm_HandSolder";3;"4R7";;;
+34;"R7,R4";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"220R";;;
+35;"Q2";"TO-247-3_Horizontal_TabUp";1;"MRF300BN tab up";;;
+36;"C29";"C_Elec_8x10.2";1;"220u";;;
+37;"R5";"R_MELF_MMB-0207";1;"NTC10K";;;
+38;"L4";"T50_V_smd";1;"FT82-61?";;;
+39;"T4";"FT114A-61_out";1;"FT-114A-61";;;
+40;"Q1";"TO-247-3_Horizontal_TabDown";1;"MRF300AN tab dwn";;;
+41;"Q4";"SOT-23";1;"BSS84";;;
+42;"T1";"BN43-202";1;"BN43-202  3:1";;;
+43;"U2";"TO-252-2";1;"LM78M05_TO252";;;
+44;"T2";"FT114A-61";1;"FT-114A-61";;;
+45;"R22,R17";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"10k";;;
+46;"R21";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"27k";;;

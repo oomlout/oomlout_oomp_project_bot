@@ -1,33 +1,16 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Spice_Netlist_Enabled,Spice_Primitive,DNP
-1,Unpolarized capacitor,C,C4,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,~,,,
-2,Unpolarized capacitor,C,C1 C9 C10,10uF 16V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,3, ,~,,,
-3,Polarized capacitor,C_Polarized,C5 C6 C7 C8,10uF 50v,CP_Elec_6.3x5.4_Nichicon,4, ,~,,,
-4,Polarized capacitor,C_Polarized,C2,22uF 16V,CP_Elec_5x5.4,1, ,~,,,
-5,Zener diode,D_Zener,D3,24V,SOT-23_Handsoldering,1, ,~,,,
-6,Zener diode,D_Zener,D1,5V6,SC-59_Handsoldering,1, ,~,,,
-7,"Diode, anode on pin 1, for simulation only!",DIODE,D2,Signal Diode,SOT-23_Handsoldering,1, ,~,Y,D,
-8,"XLR Connector, Male or Female, 3 Pins",XLR3,J1,XLR3,PinHeader_1x03_P2.54mm_Vertical,1, ,~,,,
-9,Microphone,Microphone,MK1,AOM-5024L-HD-F-R,PinHeader_1x02_P2.54mm_Vertical,1, ,~,,,
-10,Resistor,R,R5 R6,100R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,~,,,
-11,Resistor,R,R1 R8 R12,4k7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3, ,~,,,
-12,Resistor,R,R4 R9 R10,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3, ,~,,,
-13,Resistor,R,R7 R11,33k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,~,,,
-14,Resistor,R,R2,100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,~,,,
-15,"Operational amplifier, single, node sequence=1:+ 2:- 3:OUT 4:V+ 5:V-",OPAMP,U1,OPA1611,SOIC-8_3.9x4.9mm_P1.27mm,1, ,~,Y,X,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,1.0
-Date:,2022-06-13
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,15
-Component Count:,26 (24 SMD/ 0 THT)
-Fitted Components:,26 (24 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,26
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C5,C7,C6,C8";"CP_Elec_6.3x5.4_Nichicon";4;"10uF 50v";;;
+2;"C2,C3";"CP_Elec_5x5.4";2;"22uF 16V";;;
+3;"XLR";"PinHeader_1x03_P2.54mm_Vertical";1;"XLR3";;;
+4;"MIC";"PinHeader_1x02_P2.54mm_Vertical";1;"Microphone";;;
+5;"C10,C1,C9";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";3;"10uF 16V";;;
+6;"R6,R5";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"100R";;;
+7;"U1";"SOIC-8_3.9x4.9mm_P1.27mm";1;"OPAMP";;;
+8;"D2";"SOT-23_Handsoldering";1;"DIODE";;;
+9;"D1";"SC-59_Handsoldering";1;"5V6";;;
+10;"R2";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"100k";;;
+11;"R4,R10,R9";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";3;"10k";;;
+12;"R11,R7";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"33k";;;
+13;"R1,R3,R8,R12";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";4;"4k7";;;
+14;"D3";"SOT-23_Handsoldering";1;"24V";;;
+15;"C4";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"0.1uF";;;

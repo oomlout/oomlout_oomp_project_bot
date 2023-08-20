@@ -1,60 +1,43 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C17 C45,4.7p,ATC_500_HandSoldering,2, ,
-2,,C,C44,6.8p,ATC_500_HandSoldering,1, ,
-3,,C,C30,12p,ATC_500_HandSoldering,1, ,
-4,,C,C43,22p,ATC_500_HandSoldering,1, ,
-5,,C,C16 C18 C29 C41,39p,ATC_500_HandSoldering,4, ,
-6,,C,C24 C28 C38,56p,ATC_500_HandSoldering,3, ,
-7,,C,C23 C40,68p,ATC_500_HandSoldering,2, ,
-8,,C,C22 C50 C55,82p,ATC_500_HandSoldering,3, ,
-9,,C,C49,100p,ATC_500_HandSoldering,1, ,
-10,,C,C11 C27,120p,ATC_500_HandSoldering,2, ,
-11,,C,C39 C51,150p,ATC_500_HandSoldering,2, ,
-12,,C,C37 C42,180p,ATC_500_HandSoldering,2, ,
-13,,C,C31 C35 C36,220p,ATC_500_HandSoldering,3, ,
-14,,C,C26,240p,ATC_500_HandSoldering,1, ,
-15,,C,C21,330p,ATC_500_HandSoldering,1, ,
-16,,C,C48,390p,ATC_500_HandSoldering,1, ,
-17,,C,C20 C25,470p,ATC_500_HandSoldering,2, ,
-18,,C,C47,560p,ATC_500_HandSoldering,1, ,
-19,,C,C34,680p,ATC_500_HandSoldering,1, ,
-20,,C,C19,1000p,ATC_500_HandSoldering,1, ,
-21,,C,C33 C46,1100p,ATC_500_HandSoldering,2, ,
-22,,C,C32,2200p,ATC_500_HandSoldering,1, ,
-23,,C,C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C12 C13 C14 C15 C52 C53 C54 C56 C57 C58 C60 C61 C62 C63 C64 C65 C66 C67 C70,10n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,29, ,
-24,,C,C68,100n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,
-25,,C,C59,C (nc),ATC_500_HandSoldering,1, ,
-26,,D,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15,D,D_SMB,15, ,
-27,,Conn_02x05_Counter_Clockwise,J1,Conn_02x05_Counter_Clockwise,PinHeader_2x05_P2.54mm_Vertical,1, ,
-28,,L_Core_Ferrite_Small,L2 L15,169nH,T50_V_THT,2, ,
-29,,L_Core_Ferrite_Small,L8,196nH,T50_V_THT,1, ,
-30,,L_Core_Ferrite_Small,L7,235nH,T50_V_THT,1, ,
-31,,L_Core_Ferrite_Small,L6 L9 L14 L16,311nH,T50_V_THT,4, ,
-32,,L_Core_Ferrite_Small,L13,351nH,T50_V_THT,1, ,
-33,,L_Core_Ferrite_Small,L1,562nH,T50_V_THT,1, ,
-34,,L_Core_Ferrite_Small,L5,1.18uH,T50_V_THT,1, ,
-35,,L_Core_Ferrite_Small,L12,1.36uH,T50_V_THT,1, ,
-36,,L_Core_Ferrite_Small,L11,2.02uH,T50_V_THT,1, ,
-37,,L_Core_Ferrite_Small,L3,3.5uH,T50_V_THT,1, ,
-38,,L_Core_Ferrite_Small,L10,4.4uH,T50_V_THT,1, ,
-39,,L_Core_Ferrite_Small,L4,"1,66uH",T50_V_THT,1, ,
-40,,L_Core_Ferrite_Small,L17 L24 L25 L26 L27 L28 L29 L30 L31 L32 L33 L34 L35 L36 L37,Choke,L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,15, ,
-41,,BNC,P1 P3 P4,SMA,SMA_PINS,3, ,
-42,,D2n-d2n,RL1 RL2 RL3 RL4 RL5 RL6 RL7 RL8 RL9 RL10 RL11 RL12 RL13 RL14 RL15,D2n,D2n,15, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-57
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,42
-Component Count:,134 (99 SMD/ 35 THT)
-Fitted Components:,134 (99 SMD/ 35 THT)
-Number of PCBs:,1
-Total Components:,134
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"L1";"T50_V_THT";1;"562nH";;;
+2;"L2,L15";"T50_V_THT";2;"169nH";;;
+3;"L3";"T50_V_THT";1;"3.5uH";;;
+4;"L4";"T50_V_THT";1;"1,66uH";;;
+5;"L5";"T50_V_THT";1;"1.18uH";;;
+6;"L6,L9,L14,L16";"T50_V_THT";4;"311nH";;;
+7;"L7";"T50_V_THT";1;"235nH";;;
+8;"L8";"T50_V_THT";1;"196nH";;;
+9;"L10";"T50_V_THT";1;"4.4uH";;;
+10;"L11";"T50_V_THT";1;"2.02uH";;;
+11;"L12";"T50_V_THT";1;"1.36uH";;;
+12;"L13";"T50_V_THT";1;"351nH";;;
+13;"P1,P3,P4";"SMA_PINS";3;"SMA";;;
+14;"RL2,RL3,RL4,RL5,RL6,RL9,RL11,RL13,RL14,RL15,RL12,RL10,RL8,RL1,RL7";"D2n";15;"D2n";;;
+15;"J1";"PinHeader_2x05_P2.54mm_Vertical";1;" ";;;
+16;"C2,C3,C4,C5,C6,C7,C8,C9,C10,C14,C15,C52,C53,C54,C56,C57,C58,C60,C61,C62,C63,C64,C66,C67,C70,C65,C1,C12,C13";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";29;"10n";;;
+17;"C11,C27";"ATC_500_HandSoldering";2;"120p";;;
+18;"C16,C18,C29,C41";"ATC_500_HandSoldering";4;"39p";;;
+19;"C19";"ATC_500_HandSoldering";1;"1000p";;;
+20;"C20,C25";"ATC_500_HandSoldering";2;"470p";;;
+21;"C21";"ATC_500_HandSoldering";1;"330p";;;
+22;"C22,C50,C55";"ATC_500_HandSoldering";3;"82p";;;
+23;"C23,C40";"ATC_500_HandSoldering";2;"68p";;;
+24;"C24,C28,C38";"ATC_500_HandSoldering";3;"56p";;;
+25;"C26";"ATC_500_HandSoldering";1;"240p";;;
+26;"C30";"ATC_500_HandSoldering";1;"12p";;;
+27;"C31,C35,C36";"ATC_500_HandSoldering";3;"220p";;;
+28;"C32";"ATC_500_HandSoldering";1;"2200p";;;
+29;"C33,C46";"ATC_500_HandSoldering";2;"1100p";;;
+30;"C34";"ATC_500_HandSoldering";1;"680p";;;
+31;"C37,C42";"ATC_500_HandSoldering";2;"180p";;;
+32;"C43";"ATC_500_HandSoldering";1;"22p";;;
+33;"C44";"ATC_500_HandSoldering";1;"6.8p";;;
+34;"C45,C17";"ATC_500_HandSoldering";2;"4.7p";;;
+35;"C47";"ATC_500_HandSoldering";1;"560p";;;
+36;"C48";"ATC_500_HandSoldering";1;"390p";;;
+37;"C49";"ATC_500_HandSoldering";1;"100p";;;
+38;"C51,C39";"ATC_500_HandSoldering";2;"150p";;;
+39;"C59";"ATC_500_HandSoldering";1;"C (nc)";;;
+40;"C68";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"100n";;;
+41;"D1,D2,D3,D4,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D5";"D_SMB";15;"D";;;
+42;"L17,L24,L25,L26,L27,L29,L30,L31,L33,L35,L36,L37,L34,L32,L28";"L_0805_2012Metric_Pad1.15x1.40mm_HandSolder";15;"Choke";;;

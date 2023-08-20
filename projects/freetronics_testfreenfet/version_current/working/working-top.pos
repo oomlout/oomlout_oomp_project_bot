@@ -1,0 +1,36 @@
+### Footprint positions - created on Sat Aug 19 21:23:45 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                      PosX       PosY       Rot  Side
+@HOLE0                                             131.9911  -106.2736    0.0000  top
+@HOLE1                                             144.6911  -106.2736    0.0000  top
+@HOLE2                                             129.8311  -114.6736    0.0000  top
+@HOLE3                                             146.8311  -114.6736    0.0000  top
+@HOLE4                                             146.8311   -86.6736    0.0000  top
+@HOLE5                                             129.8311   -86.6736    0.0000  top
+C1        1uF_0603        0603                     157.3911   -89.2556   90.0000  top
+IC1       WS2811-SOP8     SO08-SKINNYPADS          152.8191   -91.0336  180.0000  top
+J1        Digital_0_7     1X08                     170.0911   -80.8736  180.0000  top
+J2        Analog          1X06                     157.3911  -129.1336    0.0000  top
+J3        Digital_8_13    1X10                     148.2471   -80.8736  180.0000  top
+JP3       DRAIN           1X01_2_1_MM              131.9911   -93.5736    0.0000  top
+JP4       SOURCE          1X01_2_1_MM              144.6911   -93.5736    0.0000  top
+JP5       IN              1X03                     130.7211   -97.3836  -90.0000  top
+JP6       OUT             1X03                     145.9611   -97.3836  -90.0000  top
+LED1      GREEN_PASS      LED-0603                 161.7091  -108.8136  180.0000  top
+LED2      YELLOW_TEST     LED-0603                 155.3591  -113.8936  180.0000  top
+LED3      RED_FAIL        LED-0603                 161.7091  -118.9736  180.0000  top
+LED4      BLUE            LED-0603                 130.7211  -120.2436    0.0000  top
+PIEZO0    BUZZERSMD12X12  BUZZER-12X12-SMT         165.0111   -97.3836  180.0000  top
+PIEZO2    PIEZOPOLARISED  PIEZO12MMWIDEPOLARISED   165.0111   -97.3836    0.0000  top
+POWER0    Power           1X08                     134.5311  -129.1336    0.0000  top
+R1        560R            0603                     157.3911  -108.8136    0.0000  top
+R2        560R            0603                     151.0411  -108.8136    0.0000  top
+R3        560R            0603                     157.3911  -118.9736    0.0000  top
+R4        1K              0603                     138.3411   -96.1136  180.0000  top
+R5        1K5             0603                     134.5311  -120.2436  180.0000  top
+R6        1K              0603                     137.0711   -92.3036  180.0000  top
+S1        RESET           TACTILE-PTH              127.9271  -126.3396  180.0000  top
+S2        START           TACTILE-PTH              138.3411  -102.4636  -90.0000  top
+## End
