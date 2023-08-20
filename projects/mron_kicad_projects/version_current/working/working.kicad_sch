@@ -1,0 +1,86 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 216971e3-9b56-416b-890a-04e87ced7be6)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (symbol (lib_id "R") (at 139.7 87.63 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 00000000-0000-0000-0000-000057769e7b)
+    (property "Reference" "R?" (at 141.732 87.63 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "R" (at 139.7 87.63 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 137.922 87.63 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Datasheet" "" (at 139.7 87.63 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (instances
+      (project "GitTestProject"
+        (path "/216971e3-9b56-416b-890a-04e87ced7be6"
+          (reference "R?") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Q_NIGBT_ECG") (at 144.78 83.82 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 00000000-0000-0000-0000-000057769ead)
+    (property "Reference" "Q?" (at 152.4 82.55 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "Q_NIGBT_ECG" (at 163.83 85.09 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "" (at 149.86 81.28 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Datasheet" "" (at 144.78 83.82 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (instances
+      (project "GitTestProject"
+        (path "/216971e3-9b56-416b-890a-04e87ced7be6"
+          (reference "Q?") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "LED") (at 147.32 73.66 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 00000000-0000-0000-0000-000057769fdc)
+    (property "Reference" "D?" (at 144.78 73.66 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "LED" (at 149.86 73.66 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 147.32 73.66 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Datasheet" "" (at 147.32 73.66 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (instances
+      (project "GitTestProject"
+        (path "/216971e3-9b56-416b-890a-04e87ced7be6"
+          (reference "D?") (unit 1)
+        )
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

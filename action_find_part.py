@@ -4,8 +4,8 @@ import oomlout_oomp_project_bot
 oomp_parts = {}
 matched = 0
 matches = ["project_id;all;"]
-searches = ["ch340","atmega328","bme280","c_0402", "c_0603","c_0805", "c_1203", "c0603", "c0402", "c0805", "c1206", "ch340c","ch340g","ch340e","ch340x","ch340t","ch340n","ch340k","ch340b"]
-
+#searches = ["mosfet","atmega328","bme280","c_0402", "c_0603","c_0805", "c_1203", "c0603", "c0402", "c0805", "c1206", "ch340c","ch340g","ch340e","ch340x","ch340t","ch340n","ch340k","ch340b"]
+searches = ["mosfet"]
 
 def main(**kwargs):
     global oomp_parts    

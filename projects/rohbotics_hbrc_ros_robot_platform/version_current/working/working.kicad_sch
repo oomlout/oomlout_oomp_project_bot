@@ -1,0 +1,50 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid c4921e01-5172-4e87-8daa-73c7e408fb12)
+
+  (paper "A")
+
+  (title_block
+    (title "ST-Link")
+    (date "2020-03-16")
+    (rev "Rev. A")
+    (company "HBRC ROS Robot (HR2) Platform")
+  )
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "~{PWR_EN}" (shape output) (at 96.52 102.87 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 2c46bc83-f8fb-45c5-abdd-c18c56d146b8)
+  )
+  (hierarchical_label "MCO" (shape bidirectional) (at 96.52 97.79 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 37aa9a41-19a6-4e9f-b1dd-99ff1fee8398)
+  )
+  (hierarchical_label "NRST" (shape bidirectional) (at 96.52 72.39 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 3818a8e5-7cad-4282-a90f-8669b248cc3e)
+  )
+  (hierarchical_label "STLK_RX" (shape bidirectional) (at 96.52 87.63 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid cb869d1f-6a4e-479d-95f7-a825c0206d44)
+  )
+  (hierarchical_label "TMS" (shape bidirectional) (at 96.52 82.55 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid e9184e2a-e5c7-470f-bc14-874121036a5e)
+  )
+  (hierarchical_label "STLK_TX" (shape bidirectional) (at 96.52 92.71 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid effc480d-727d-41fe-948d-73265e273d3a)
+  )
+  (hierarchical_label "TCK" (shape bidirectional) (at 96.52 77.47 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid f7d365a3-c3fb-4b60-83b4-b26db51c757b)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

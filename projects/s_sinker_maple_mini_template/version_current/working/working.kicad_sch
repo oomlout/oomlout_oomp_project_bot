@@ -1,0 +1,47 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 0b0c2fb3-0809-4de8-bfbe-65c43b5a8251)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 200.025 29.845) (size 52.705 50.165) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-000057f84f92)
+    (property "Sheetname" "Maple_mini" (at 200.025 29.0064 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/Maple_Mini_Template/Maple_mini.sch" (at 200.025 80.6962 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (pin "3V3" input (at 200.025 38.735 180)
+      (effects (font (size 1.524 1.524)) (justify left))
+      (uuid e1a1efe3-c25d-4f53-82cf-993ad13d7eb4)
+    )
+    (pin "D-" input (at 200.025 51.435 180)
+      (effects (font (size 1.524 1.524)) (justify left))
+      (uuid 9a08bafd-a36a-4f6d-b63a-4ab6276a0a91)
+    )
+    (pin "D+" input (at 200.025 55.245 180)
+      (effects (font (size 1.524 1.524)) (justify left))
+      (uuid f2541ac6-5c56-40d3-af88-e15133b1b53d)
+    )
+    (pin "5V" input (at 200.025 43.815 180)
+      (effects (font (size 1.524 1.524)) (justify left))
+      (uuid e17a6d78-7108-49dc-806a-ccc141ad9ac2)
+    )
+    (instances
+      (project "Maple_Mini_Template"
+        (path "/0b0c2fb3-0809-4de8-bfbe-65c43b5a8251" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

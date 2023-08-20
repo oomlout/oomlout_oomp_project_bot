@@ -1,0 +1,70 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid a3fb9c8e-6c54-4379-ba91-8f23adc5eac7)
+
+  (paper "A3")
+
+  (title_block
+    (title "PTWS Schematic")
+    (company "HOSKINS.TECH")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 22.86 22.86) (size 48.26 40.64) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-000057a8c991)
+    (property "Sheetname" "Main" (at 22.86 22.0214 0)
+      (effects (font (size 1.524 1.524)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/PTWS/Hardware/KiCAD/Main.sch" (at 22.86 64.1862 0)
+      (effects (font (size 1.524 1.524)) (justify left top))
+    )
+    (instances
+      (project "ptws"
+        (path "/a3fb9c8e-6c54-4379-ba91-8f23adc5eac7" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 22.86 71.12) (size 49.53 40.64) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-000057aa0953)
+    (property "Sheetname" "Power" (at 22.86 70.4084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/PTWS/Hardware/KiCAD/Power.sch" (at 22.86 112.3446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ptws"
+        (path "/a3fb9c8e-6c54-4379-ba91-8f23adc5eac7" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 22.86 119.38) (size 49.53 40.64) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-000057aa0956)
+    (property "Sheetname" "Indication" (at 22.86 118.6684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "../../../../tmp/git/PTWS/Hardware/KiCAD/Indication.sch" (at 22.86 160.6046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ptws"
+        (path "/a3fb9c8e-6c54-4379-ba91-8f23adc5eac7" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

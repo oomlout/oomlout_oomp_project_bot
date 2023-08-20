@@ -63,20 +63,27 @@ def main(**kwargs):
                             #if the following libraries in clipboard lower
                             if "the following libraries were not found" in clipboard.lower():
                                 oomBase.oomSendEsc(delay=2)
-                            if "the project symbol library cache file" not in clipboard.lower():
+                            if "the project symbol library cache file" not in clipboard.lower() or clipboard =="":
                                 oomBase.oomSendTab(delay=2)
                             else:
                                 print("skipping tab")
+                            #click rescue symbols if its not an enter one 1044 802
+                            oomBase.oomMouseClick(1044,802)
+                            oomBase.delay(1)
+
                             oomBase.oomSendEnter(delay=10)
                             oomBase.oomSendEnter(delay=10)
 
 
                             oomBase.oomSendEnter(delay=10)
+
 
                             
                             oomBase.oomSendEnter(delay=2)
                             #wait one second
                             oomBase.delay(1)
+
+                            
 
                             #mouse click at 100 100
 
