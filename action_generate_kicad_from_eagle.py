@@ -32,6 +32,7 @@ def go_through_directories():
                     oom_kicad.eagle_to_kicad(filename=filename, computer="surface")
 
                     count += 1
+                    print(f"count is {count}")
                     if count % 100 == 0:
                         oom_kicad.push_to_git()
     oom_kicad.push_to_git()
