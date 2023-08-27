@@ -3,6 +3,7 @@ import os
 
 def go_through_directories():
     # go through all directories in projects
+    count = 1
     for root, dirs, files in os.walk("projects"):
         #go through all files
         for file in files:
@@ -15,9 +16,13 @@ def go_through_directories():
             #if any of filter is in filename
             if any(x in filename for x in filter):
                 if file.endswith(".kicad_pcb"):
-                    oom_kicad.generate_outputs(filename=filename, computer="surface")
+                    count += oom_kicad.generate_outputs(filename=filename, computer="surface")
                     pass
-
+                #commit to git every 1
+                    if count % 1 == 0:
+                        oom_kicad.push_to_git(count = count )
+                        pass    
+    
 
 
 if __name__ == '__main__':
