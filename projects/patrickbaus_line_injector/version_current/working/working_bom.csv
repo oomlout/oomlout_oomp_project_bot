@@ -1,29 +1,11 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,DNP,MFN,PN,Alternative
-1,Unpolarized capacitor,C,C4 C6,1u,C_1206_3216Metric,2, ,~,,TDK,CGA5L2X7R2A105M160AE,TDK CGA5L2X7R2A105K160AA
-2,Unpolarized capacitor,C,C2,4.7u,C_1210_3225Metric,1, ,~,,TDK,CNA6P1X7R2A475K250AE,TDK CNC6P1X7R2A475K250AE
-3,Polarized capacitor,C_Polarized,C5,33u,CP_Radial_D10.0mm_P5.00mm,1, ,~,,United Chemicon,EGXF351ELL330MJ35S,Rubycon 160LEX33MEFC10X16
-4,Polarized capacitor,C_Polarized,C1 C3,1m,CP_Radial_D18.0mm_P7.50mm,2, ,~,,Nichicon,UPW2A102MHD,United Chemicon EKYB101ELL102MM40S
-5,"Heatsink with electrical connection, 1 pin",Heatsink_Pad,HS1,Heatsink,Heatsink_42x25mm_2xFixation_Ohmite-R-series,1, ,~,,Ohmite,RA-T2X-38E,
-6,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01_Female,J1 J2 J3 J4 J5 J6,Conn_01x01_Female,Schuetzinger_4mm_Jack,6, ,~,,Schützinger,SWEB 8094 AU / RT SWEB 8094 AU / SW,Cliff FCR7350R Cliff FCR7350B
-7,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J7,Conn_Coaxial,BNC_Amphenol_B6252HB-NPP3G-50_Horizontal,1, ,~,,TE Connectivity,5227161-7,
-8,Housing,Housing,N1,Housing,,1, ,~,,Hammond Manufacturing Ltd.,1457N1201EBK,
-9,"N-MOSFET transistor, gate/drain/source",Q_NMOS_GDS,Q1,AOT2618,TO-220-3_Vertical,1, ,~,,Alpha & Omega Semiconductor Inc.,AOT2618L,
-10,Resistor,R,R2 R3 R4,49.9R,R_1206_3216Metric,3, ,~,,Yageo,AC1206FR-0749R9L,Panasonic ERJ-U08F49R9V
-11,Resistor,R,R1,10k,R_0805_2012Metric,1, ,~,,Yageo,AC0805FR-0710KL,Panasonic ERJ-6ENF1002V
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,v1.0.1
-Date:,2022-03-07
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,11
-Component Count:,20 (7 SMD/ 12 THT)
-Fitted Components:,20 (7 SMD/ 12 THT)
-Number of PCBs:,1
-Total Components:,20
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C5";"CP_Radial_D10.0mm_P5.00mm";1;"33u";;;
+2;"C2";"C_1210_3225Metric";1;"4.7u";;;
+3;"C1,C3";"CP_Radial_D18.0mm_P7.50mm";2;"1m";;;
+4;"J6,J4,J2,J5,J3,J1";"Schuetzinger_4mm_Jack";6;"Conn_01x01_Female";;;
+5;"Q1";"TO-220-3_Vertical";1;"AOT2618";;;
+6;"R1";"R_0805_2012Metric";1;"10k";;;
+7;"C6,C4";"C_1206_3216Metric";2;"1u";;;
+8;"J7";"BNC_Amphenol_B6252HB-NPP3G-50_Horizontal";1;"Conn_Coaxial";;;
+9;"HS1";"Heatsink_42x25mm_2xFixation_Ohmite-R-series";1;"Heatsink";;;
+10;"R2,R3,R4";"R_1206_3216Metric";3;"49.9R";;;

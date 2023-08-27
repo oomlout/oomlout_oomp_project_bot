@@ -1,0 +1,42 @@
+### Footprint positions - created on Sun Aug 27 10:49:25 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                  PosX       PosY       Rot  Side
+C1        2200u         CPR10X20             138.4300   -88.9000   90.0000  top
+C2        100n          C1                   128.2700   -71.1200    0.0000  top
+C3        100u          C1.5V8V              138.4300   -62.8650    0.0000  top
+C4        100n          C1                   138.4300   -70.4850    0.0000  top
+C5        100n          C1                    83.8200   -76.2000  180.0000  top
+C6        100n          C1                    85.0900  -113.0300    0.0000  top
+C8        22p           C1                    81.2800   -90.1700   90.0000  top
+C9        22p           C1                    77.4700   -90.1700  -90.0000  top
+D1        SR104         DO-41                140.9700   -78.7400  -90.0000  top
+D2        SR104         DO-41                132.0800   -60.9600  -90.0000  top
+L1        39uH          self_cms_we-tpc_XL   133.3500   -81.2800    0.0000  top
+P3        DATA          SIL-6                146.0500  -111.7600  -90.0000  top
+P4        DATA          SIL-6                 57.1500  -111.7600  -90.0000  top
+P5        ISP           isp                   74.9300  -116.8400    0.0000  top
+P6        CONN_1        HOLE3                139.7000  -115.5700    0.0000  top
+P7        CONN_1        HOLE3                 63.5000  -115.5700    0.0000  top
+P8        DISPLAY       SIL-16-ELL           101.6000   -77.4700   90.0000  top
+P9        I2C           PIN_ARRAY_3X1         99.0600  -113.0300    0.0000  top
+Q2        NX2301P       SOT23GDS_NP          123.1900   -97.7900  180.0000  top
+Q4        NX2301P       SOT23GDS_NP          123.1900   -92.7100  180.0000  top
+Q6        NX2301P       SOT23GDS_NP          123.1900   -87.6300  180.0000  top
+Q8        NX2301P       SOT23GDS_NP          123.1900   -82.5500  180.0000  top
+Q10       NX2301P       SOT23GDS_NP          123.1900   -75.5650  180.0000  top
+Q12       NX2301P       SOT23GDS_NP          123.1900   -70.4850  180.0000  top
+Q14       NX2301P       SOT23GDS_NP          123.1900   -65.4050  180.0000  top
+Q16       NX2301P       SOT23GDS_NP          123.1900   -60.3250  180.0000  top
+R1        10k           R4-LARGE_PADS        114.3000  -106.6800  180.0000  top
+R2        IREF          R4-LARGE_PADS         83.8200   -67.3100   90.0000  top
+R3        SDA           R4-LARGE_PADS         93.9800  -118.1100  -90.0000  top
+R4        SCL           R4-LARGE_PADS        104.1400  -118.1100   90.0000  top
+SW1       RESET         SW_PUSH_SMALL        127.0000  -106.6800    0.0000  top
+U2        ATMEGA328P-P  DIP-28__300_ELL       85.0900  -105.4100  180.0000  top
+U3        74HC138       DIP-16__300_ELL      113.0300   -90.1700  -90.0000  top
+U4        74HC138       DIP-16__300_ELL      113.0300   -67.3100  -90.0000  top
+U5        TLC5940       DIP-28__300_ELL       92.7100   -77.4700   90.0000  top
+X1        16MHz         Crystal               80.0100   -96.5200    0.0000  top
+## End

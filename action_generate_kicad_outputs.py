@@ -20,14 +20,6 @@ def go_through_directories():
 
 
 
-
-
-
-
-i
-f
-_
-_
-name__ == '__main__':
+if __name__ == '__main__':
     go_through_directories()
 

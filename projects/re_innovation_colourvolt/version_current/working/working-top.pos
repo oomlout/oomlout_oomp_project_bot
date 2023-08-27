@@ -1,0 +1,64 @@
+### Footprint positions - created on Sun Aug 27 15:40:09 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                     Package                           PosX       PosY       Rot  Side
+BZ1       BUZZER                  BUZZER_lg_pads                 31.7500   -42.5450   90.0000  top
+C1        10uf                    C1V7_lg_pad                    21.5900   -12.7000  -90.0000  top
+C2        100u                    C1V7_lg_pad                    34.9250   -12.7000  -90.0000  top
+C3        100n                    C1_wide_lg_pad                 78.1050   -37.4650   90.0000  top
+C4        10u                     C1V7_lg_pad                    34.9250   -19.6850   90.0000  top
+C5        10u                     C1V7_lg_pad                    62.8650   -17.7800   90.0000  top
+C6        10u                     C1V7_lg_pad                    76.8350   -17.1450  180.0000  top
+C7        100n                    C1_wide_lg_pad                 23.4950   -26.6700   90.0000  top
+C8        CP1                     C1V7_lg_pad                    70.4850   -24.1300   90.0000  top
+D1        1N4001                  D4_lg_pad                      31.1150    -4.4450  180.0000  top
+D2        1N4001                  D4_lg_pad                      30.4800    -7.6200    0.0000  top
+D3        VT2045BP                TO220_DIODE                    42.5450    -2.5400   90.0000  top
+D4        1N4001                  D4_lg_pad                      81.2800   -41.9100   90.0000  top
+D5        1N4148                  D3_lg_pad                      74.9300   -12.0650    0.0000  top
+D6        UF4001                  D4_lg_pad                      62.8650   -55.2450  180.0000  top
+D7        5v1                     D3_lg_pad                      28.5750   -26.6700  -90.0000  top
+D8        DIODE                   D3_lg_pad                      55.8800   -25.4000   90.0000  top
+IC2       ATTINY85                TRINKET                        69.8500   -37.4650    0.0000  top
+K1        IO_0-2                  SIL-3_lg_pad_1mm               69.8500   -29.8450  180.0000  top
+K2        IO_3-5                  SIL-3_lg_pad_1mm               67.3100   -50.1650  180.0000  top
+K3        Vsense                  SIL-3_lg_pad_1mm_marker        31.7500   -27.3050   90.0000  top
+K4        Vpower                  SIL-3_lg_pad_1mm_marker        31.7500    -1.2700    0.0000  top
+MH1       CONN_1                  1pin_3mmhole                   19.6850    -4.4450    0.0000  top
+MH2       CONN_1                  1pin_3mmhole                   85.0900   -52.0700    0.0000  top
+MH3       CONN_1                  1pin_3mmhole                   85.0900    -4.4450    0.0000  top
+MH4       CONN_1                  1pin_3mmhole                   19.6850   -52.0700    0.0000  top
+P1        FTDI_OUTPUT             SIL-6_large_pads_marker        88.2650   -18.4150  -90.0000  top
+P2        IN                      SIL_2_screw_blocks             38.7350   -63.5000    0.0000  top
+P3        Vinput                  1pin_1.2mm                     38.7350   -55.2450   90.0000  top
+P4        5V                      1pin_1.2mm                     81.2800   -33.6550    0.0000  top
+P5        ISP                     DIL_3x2_large_pads_1mm         85.7250   -28.5750   90.0000  top
+P6        GND                     1pin_1.2mm                     70.4850   -55.2450   90.0000  top
+P7        S_INPUT                 SIL-6_large_pads_marker        16.5100   -18.4150  -90.0000  top
+P8        Vd                      1pin_1.2mm                     52.7050    -5.7150  -90.0000  top
+P9        Vg                      1pin_1.2mm                     49.5300    -5.7150    0.0000  top
+P11       Voutput                 1pin_1.2mm                     54.6100   -55.2450    0.0000  top
+P12       Vsense                  1pin_1.2mm                     23.4950   -31.7500    0.0000  top
+P13       OUT                     SIL_2_screw_blocks             57.7850   -63.5000    0.0000  top
+P14       FET_IN                  1pin_1.2mm                     75.5650   -29.8450    0.0000  top
+Q1        PNP                     TO92-EBC_large_pad             70.4850   -16.5100   90.0000  top
+Q2        NPN                     TO92-EBC_large_pad             63.5000   -12.0650  -90.0000  top
+Q3        MOSFET_N                TO220_VERT_BUZ11_matt          55.2450    -2.5400   90.0000  top
+R1        1k                      R3-LARGE_PADS_0_8_hole         74.9300    -1.9050  180.0000  top
+R2        100k                    R3-LARGE_PADS_0_8_hole         74.9300    -4.4450    0.0000  top
+R3        10k                     R3-LARGE_PADS_0_8_hole         74.9300    -6.9850  180.0000  top
+R4        1k                      R3-LARGE_PADS_0_8_hole         74.9300    -9.5250  180.0000  top
+R5        10k                     R3-LARGE_PADS_0_8_hole         81.2800   -26.0350    0.0000  top
+R6        330                     R3-LARGE_PADS_0_8_hole         26.0350   -42.5450  -90.0000  top
+R7        R                       R3-LARGE_PADS_0_8_hole         20.9550   -27.9400   90.0000  top
+R8        R                       R3-LARGE_PADS_0_8_hole         26.0350   -26.6700   90.0000  top
+R9        10                      R3-LARGE_PADS_0_8_hole         58.4200   -25.4000   90.0000  top
+SW1       SW_PUSH                 SW_PUSH_SMALL_ml_large_hole    32.3850   -42.5450  180.0000  top
+U1        7805/LM2931             TO92_7805_matt                 28.5750   -12.0650   90.0000  top
+U2        LM7812                  TO92_7805_matt                 65.4050    -3.8100   90.0000  top
+U3        AUIRS2124               SO8E                           62.8650   -25.4000    0.0000  top
+VAL       OSHW_logo_small_back    OSHW_logo_small_back           39.3700   -72.3900    0.0000  top
+VAL       reinnovation_logo_15mm  reinnovation_logo_15mm         50.0380   -45.9740    0.0000  top
+VR1       P6KE33CA-E3             D4_lg_pad                      44.4500   -14.6050  180.0000  top
+## End

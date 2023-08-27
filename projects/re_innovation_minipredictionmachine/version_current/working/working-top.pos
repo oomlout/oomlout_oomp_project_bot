@@ -1,0 +1,32 @@
+### Footprint positions - created on Sun Aug 27 16:12:40 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                      PosX       PosY       Rot  Side
+C1        10u          C_1V7_TH                  19.6850    12.0650  -90.0000  top
+C2        10u          C_1V7_TH                  27.3050    12.0650  -90.0000  top
+CON1      BARREL_JACK  DC_Power_2_1               9.5250    13.3350    0.0000  top
+D4        D_Schottky   TH_Diode_1                14.6050    19.0500    0.0000  top
+D5        D_Schottky   TH_Diode_1                37.4650    19.0500  180.0000  top
+DISP1     OLED_I2C     TH_OLED1306               25.4000    81.2800    0.0000  top
+F1        500mA        TH_MC36188_FUSE           28.5750    18.4150  180.0000  top
+P1        SERIAL_HC12  TH_SIL_5_1mm              41.2750    88.2650  -90.0000  top
+P2        USB          TH_USB_B_lg_pad           38.1000     7.6200    0.0000  top
+P3        NODEMCU_1    TH_SIL-15                 19.0500    22.2250    0.0000  top
+P4        NODEMCU_2    TH_SIL-15                 31.7500    52.7050  180.0000  top
+P5        LOCAL_5V?    SIL-2_solder_connect       5.0800    84.4550    0.0000  top
+P6        WS2812_LED   SIL-4_screw_terminals      5.7150    80.0100  -90.0000  top
+P8        LOGO1        CEC_Globe_10mm_FCU        44.4500    35.6870    0.0000  top
+P9        LOGO2        TCEC_Words_13mm           23.2410    98.5520    0.0000  top
+P10       POWER        SIL-2_screw_terminal       6.9850     4.6990    0.0000  top
+R1        330          TH_Resistor_1             20.3200    66.6750  180.0000  top
+R2        330          TH_Resistor_1             20.3200    63.5000  180.0000  top
+R3        10k          TH_Resistor_1             15.8750    35.5600    0.0000  top
+R4        10k          TH_Resistor_1             15.8750    38.7350    0.0000  top
+SW1       SWUP         SW_PUSH_SMALL_lg_pad      45.0850    76.8350    0.0000  top
+SW2       SWDOWN       SW_PUSH_SMALL_lg_pad      45.0850    58.4200    0.0000  top
+SW3       ON/OFF       SW_SPDT_R_Angle_ALIEX      4.4450    36.8300  180.0000  top
+U1        NODEMCU      NodeMCU_Amica_R2_FSILK     7.6200    26.0350   90.0000  top
+U2        L4940V5      TO220_7805_Vert           23.4950     5.0800   90.0000  top
+U3        74LVC1G17    SM_SOT-23-5               27.4320    65.0240  -90.0000  top
+## End

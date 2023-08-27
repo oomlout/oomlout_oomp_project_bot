@@ -1,0 +1,58 @@
+### Footprint positions - created on Sun Aug 27 11:21:25 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                             PosX       PosY       Rot  Side
+C1        22u           C_0805_HandSoldering_V          185.4200  -120.6500   90.0000  top
+C2        1u            C_0805_HandSoldering_V          177.8000  -111.7600  180.0000  top
+C3        22u           C_0805_HandSoldering_V          175.2600  -118.1100   90.0000  top
+C4        1u            C_0805_HandSoldering_V          167.6400  -132.0800   90.0000  top
+C5        1u            C_0805_HandSoldering_V          163.8300  -128.2700    0.0000  top
+C6        0.1u          C_0805_HandSoldering_V          160.0200  -120.6500    0.0000  top
+C7        10u           C_0805_HandSoldering_V          160.0200  -123.1900    0.0000  top
+C8        0.1u          C_0805_HandSoldering_V          146.0500  -104.1400    0.0000  top
+C9        10u           C_0805_HandSoldering_V          143.5100  -101.6000  180.0000  top
+C10       0.1u          C_0805_HandSoldering_V          134.6200  -101.6000   90.0000  top
+C11       10u           C_0805_HandSoldering_V          138.4300  -101.6000    0.0000  top
+C12       0.1u          C_0805_HandSoldering_V          138.4300  -114.3000  180.0000  top
+C13       0.1u          C_0805_HandSoldering_V          142.2400  -128.2700  180.0000  top
+C14       0.1u          C_0805_HandSoldering_V          140.9700  -119.3800   90.0000  top
+D1        1n4001        DO-41                           154.9400  -125.7300   90.0000  top
+G***      OSHW_LOGO     OSHW_LOGO                       184.1500  -100.9650    0.0000  top
+JP1       PU-           Pin_Header_Straight_1x03        125.7300  -119.3800  180.0000  top
+JP2       PU+           Pin_Header_Straight_1x03        125.7300  -130.8100  180.0000  top
+L1        4.7uH         Neosid_Inductor_SMS-ME3015      176.5300  -123.1900    0.0000  top
+P1        BATTERY       JST-XH-2                        189.2300  -133.3500    0.0000  top
+P2        SG1           JST-XH-2                        120.6500  -121.9200  -90.0000  top
+P3        SG2           JST-XH-2                        120.6500  -132.0800  -90.0000  top
+P4        DEBUG         Pin_Header_Straight_1x07        120.6500   -95.2500   90.0000  top
+P5        SG3           JST-XH-4                        120.6500  -109.2200  -90.0000  top
+Q1        MMBT4403      SOT-23_Handsoldering            139.7000  -105.4100   90.0000  top
+Q2        TMS2302CX     SOT-23_Handsoldering            148.5900  -127.0000  180.0000  top
+R1        1M            R_0805_HandSoldering_V          181.6100  -125.7300  -90.0000  top
+R2        0R            R_0805_HandSoldering_V          171.4500  -114.3000  -90.0000  top
+R3        0             R3-LARGE_PADS                   168.9100  -124.4600    0.0000  top
+R4        1M            R_0805_HandSoldering_V          181.6100  -130.8100  -90.0000  top
+R5        2M            R_0805_HandSoldering_V          149.8600  -133.3500  180.0000  top
+R6        14k           R_0805_HandSoldering_V          137.1600  -109.2200    0.0000  top
+R7        10k           R_0805_HandSoldering_V          138.4300  -111.7600  180.0000  top
+R8        150           R_0805_HandSoldering_V          137.1600  -118.1100  180.0000  top
+R9        150           R_0805_HandSoldering_V          130.8100  -119.3800    0.0000  top
+R10       150           R_0805_HandSoldering_V          129.5400  -115.5700  -90.0000  top
+R11       150           R_0805_HandSoldering_V          137.1600  -120.6500  180.0000  top
+R12       150           R_0805_HandSoldering_V          130.8100  -130.8100    0.0000  top
+R13       150           R_0805_HandSoldering_V          129.5400  -127.0000  -90.0000  top
+R14       10k           R_0805_HandSoldering_V          142.2400  -125.7300  180.0000  top
+R15       10k           R_0805_HandSoldering_V          137.1600  -132.0800  -90.0000  top
+R16       10k           R_0805_HandSoldering_V          139.7000  -132.0800  -90.0000  top
+R17       10k           R_0805_HandSoldering_V          121.9200  -100.3300    0.0000  top
+SW1       RESET         SW_PUSH_SMALL                   128.2700  -107.9500    0.0000  top
+SW2       POWER         SW_Micro_SPST                   190.5000  -123.1900   90.0000  top
+U1        nRF24L01      Pin_Header_Straight_2x04        167.6400   -95.2500    0.0000  top
+U2        LTC3621       MSOP-8-1EP_3x3mm_Pitch0.65mm    180.3400  -116.8400   90.0000  top
+U3        MCP1702       SOT-23_Handsoldering            163.8300  -132.0800  180.0000  top
+U4        MKL05Z32VLC4  LQFP-32_7x7mm_Pitch0.8mm        161.2900  -111.7600   90.0000  top
+U5        HX711         SOIC-16_3.9x9.9mm_Pitch1.27mm   147.3200  -111.7600    0.0000  top
+U6        GY-85         Socket_Strip_Straight_1x08      142.2400   -95.2500    0.0000  top
+Y1        32.768kHz     Crystal_Round_Horizontal_2mm    165.1000  -119.3800  -90.0000  top
+## End

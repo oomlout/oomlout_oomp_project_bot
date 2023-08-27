@@ -1,0 +1,49 @@
+### Footprint positions - created on Sun Aug 27 20:18:23 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                              PosX       PosY       Rot  Side
+C13       220n                SMD_0402_RT                      -51.9000    54.4000  180.0000  top
+C14       220n                SMD_0402_RT                      -55.6000    51.3000   90.0000  top
+C15       220n                SMD_0402_RT                      -46.1000    46.1000  -90.0000  top
+C16       220n                SMD_0402_RT                      -51.9000    53.5000  180.0000  top
+C17       220n                SMD_0402_RT                      -51.0000    41.3000    0.0000  top
+C18       2u2                 SMD_0402_RT                      -51.0000    42.2000    0.0000  top
+C20       2u2                 SMD_0402_RT                      -69.8000    44.4000  180.0000  top
+J1        USB_MICRO_B         MICROUSB_B_10118192-0001LF       -77.3000    47.8000    0.0000  top
+P1        5V_IN               005INCH_PINSTRIP_THRUHOLE_2PIN   -72.9000    53.5000  -90.0000  top
+P2        PIN_5VIN            1MM_PINSTRIP_THRUHOLE_1PIN       -73.3000    55.3000   90.0000  top
+P3        PIN_GND             1MM_PINSTRIP_THRUHOLE_1PIN       -72.3000    55.3000   90.0000  top
+P4        RTC_BATT            005INCH_PINSTRIP_THRUHOLE_2PIN   -71.6300    53.5000  -90.0000  top
+P5        PIN_USB-            1MM_PINSTRIP_THRUHOLE_1PIN       -75.3000    55.3000  -90.0000  top
+P7        PIN_USB+            1MM_PINSTRIP_THRUHOLE_1PIN       -76.3000    55.3000   90.0000  top
+P8        FIDU                TP_SMD_05MM                      -78.1000    42.1000    0.0000  top
+P10       FIDU                TP_SMD_05MM                      -46.5000    54.7000    0.0000  top
+P12       PIN_BT_DTM_TXD      1MM_PINSTRIP_THRUHOLE_1PIN       -55.3000    40.3000   90.0000  top
+P13       PIN_BT_DTM_RXD      1MM_PINSTRIP_THRUHOLE_1PIN       -56.3000    40.3000   90.0000  top
+P14       BATT                005INCH_PINSTRIP_THRUHOLE_2PIN   -72.9000    42.1000   90.0000  top
+P16       PIN_VDD             1MM_PINSTRIP_THRUHOLE_1PIN       -50.3000    55.3000   90.0000  top
+P17       PIN_PB0             1MM_PINSTRIP_THRUHOLE_1PIN       -54.3000    40.3000   90.0000  top
+P18       PIN_PB1             1MM_PINSTRIP_THRUHOLE_1PIN       -53.3000    40.3000   90.0000  top
+P19       PIN_I2C_SCL         1MM_PINSTRIP_THRUHOLE_1PIN       -59.3000    40.3000   90.0000  top
+P20       PIN_I2C_SDA         1MM_PINSTRIP_THRUHOLE_1PIN       -60.3000    40.3000   90.0000  top
+P21       PIN_GPS_TXD1        1MM_PINSTRIP_THRUHOLE_1PIN       -57.3000    40.3000   90.0000  top
+P22       PIN_GPS_RXD1        1MM_PINSTRIP_THRUHOLE_1PIN       -58.3000    40.3000   90.0000  top
+P23       PIN_BOOT0           1MM_PINSTRIP_THRUHOLE_1PIN       -51.3000    55.3000   90.0000  top
+P24       PIN_USART_RX        1MM_PINSTRIP_THRUHOLE_1PIN       -53.3000    55.3000   90.0000  top
+P25       PIN_SWCLK_USART_TX  1MM_PINSTRIP_THRUHOLE_1PIN       -54.3000    55.3000   90.0000  top
+P26       PIN_SWDIO           1MM_PINSTRIP_THRUHOLE_1PIN       -55.3000    55.3000   90.0000  top
+P27       PIN_STM32_RST       1MM_PINSTRIP_THRUHOLE_1PIN       -52.3000    55.3000   90.0000  top
+P28       PIN_GND             1MM_PINSTRIP_THRUHOLE_1PIN       -56.3000    55.3000  -90.0000  top
+P29       PIN_BATT+           1MM_PINSTRIP_THRUHOLE_1PIN       -72.8000    40.3000   90.0000  top
+P30       PIN_RTC_PWR         1MM_PINSTRIP_THRUHOLE_1PIN       -71.3000    55.3000   90.0000  top
+P31       PIN_BATT_GND        1MM_PINSTRIP_THRUHOLE_1PIN       -71.8000    40.3000   90.0000  top
+R20       NA                  SMD_0402_RT                      -46.2000    41.5000  180.0000  top
+SW1       WKUP_BUTTON         SKSGPAE010                       -68.3000    47.8000  -90.0000  top
+SW2       BOOT_BUTTON         SKSGPAE010                       -75.7000    42.1000  180.0000  top
+SW3       RESET_BUTTON        SKSGPAE010                       -75.7000    53.5000  180.0000  top
+U1        STM32F072CX         UFQFPN48_BOTPAD                  -51.0000    47.8000  -45.0000  top
+U2        SIM33ELA            SIM33ELA                         -61.3000    47.8000  180.0000  top
+U6        TPD2S017            SOT23-6                          -71.8000    47.8000  180.0000  top
+U8        MCP73831            SOT23-5                          -69.8000    42.1000  -90.0000  top
+## End

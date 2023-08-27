@@ -1,21 +1,5 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,DC Barrel Jack with an internal switch,Barrel_Jack_Switch,J32,Barrel_Jack_Switch,BarrelJack_Horizontal,1, ,~
-2,"oompID: HEAD-I01-X-PI03-01;name: 2.54 mm 3 Pin Header;hexID: H301;Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",HEAD-I01-X-PI03-01-H301,J5 J6 J7 J8 J9 J10 J11 J12 J13 J14 J15 J16 J17 J18 J19 J20 J21 J22 J23 J24 J25 J26 J27 J28 J29 J30 J31 J33 J34 J35 J36 J37 J38 J39 J40 J41 J42 J43 J44 J45,HEAD-I01-X-PI03-01-H301,HEAD-I01-X-PI03-01-H301,40, ,oom.lt/H301
-3,"oompID: HEAD-I01-X-PI20-01;name: 2.54 mm 20 Pin Header;hexID: H20;Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)",HEAD-I01-X-PI20-01-H20,J1 J2 J3 J4,HEAD-I01-X-PI20-01-H20,HEAD-I01-X-PI20-01-H20,4, ,oom.lt/H20
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-59
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,3
-Component Count:,45 (0 SMD/ 45 THT)
-Fitted Components:,45 (0 SMD/ 45 THT)
-Number of PCBs:,1
-Total Components:,45
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;",,,,,,,,,,,,,,,,,,,,,,,";"";24;"";;;
+2;"J27,J36,J8,J39,J20,J30,J5,J9,J11,J7,J6,J44,J23,J34,J21,J38,J37,J29,J16,J42,J28,J45,J15,J18,J24,J43,J13,J17,J12,J40,J25,J19,J41,J26,J22,J14,J33,J31,J35,J10";"HEAD-I01-X-PI03-01-H301";40;"HEAD-I01-X-PI03-01-H301";;;
+3;"J3,J1,J4,J2";"HEAD-I01-X-PI20-01-H20";4;"HEAD-I01-X-PI20-01-H20";;;
+4;"J32";"BarrelJack_Horizontal";1;"Barrel_Jack_Switch";;;

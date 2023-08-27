@@ -1,21 +1,6 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,J5 J9,Conn_01x01,FlexyPin_1x01_P2.54mm,2, ,~
-2,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J2 J3 J4 J6 J7 J8,Conn_01x02,FlexyPin_1x02_P2.54mm,6, ,~
-3,"Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x07,J1 J10,Conn_01x07,PinHeader_1x07_P2.54mm_Vertical,2, ,~
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-59
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,3
-Component Count:,10 (0 SMD/ 10 THT)
-Fitted Components:,10 (0 SMD/ 10 THT)
-Number of PCBs:,1
-Total Components:,10
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J4,J8,J7,J2,J3,J6";"FlexyPin_1x02_P2.54mm";6;"Conn_01x02";;;
+2;"REF**";"Fiducial_0.5mm_Mask1.5mm";1;"Fiducial_0.5mm_Mask1.5mm";;;
+3;"J5,J9";"FlexyPin_1x01_P2.54mm";2;"Conn_01x01";;;
+4;"G***,G***";"SolderParty-New-Logo_7.5x6.4mm_SilkScreen";2;"LOGO";;;
+5;"J10,J1";"PinHeader_1x07_P2.54mm_Vertical";2;"Conn_01x07";;;

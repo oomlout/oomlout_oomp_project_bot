@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"c_elec_3x5.3";1;"100u";;;
+2;"C2,C3,C4,C5";"c_0805";4;"10n";;;
+3;"J1";"vasch_strip_25x2";1;"CPC_EXTPORT";;;
+4;"R1,R3";"r_0805";2;"1k";;;
+5;"U1";"plcc32_pth-skt";1;"W29C040 or SST39V040";;;
+6;"D1,D2,D3";"sod323";3;"DIODE";;;
+7;"SW2";"pin_strip_3";1;"ROM0ENABLE";;;
+8;"SW3";"pin_strip_3";1;"ROM7ENABLE";;;
+9;"U2";"plcc44_pth-skt";1;"XC9536XLPC44";;;
+10;"J2";"pin_strip_2x2";1;"PROG";;;
+11;"R2,R4";"r_0805";2;"10k";;;
+12;"LD1";"led_3mm_red";1;"RED";;;
+13;"J3";"pin_strip_6";1;"JTAG";;;
+14;"SW1";"switch-eg1213-spdt";1;"~{READ}/WRITE";;;
+15;"C6,C7";"c_0805";2;"1u";;;
+16;"U3";"sot23-5";1;"TLV70033";;;
