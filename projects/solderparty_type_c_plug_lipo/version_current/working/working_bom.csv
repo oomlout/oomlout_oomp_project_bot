@@ -1,28 +1,15 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC
-1,"Unpolarized capacitor, small symbol",C_Small,C1 C2,10uF,C_0603_1608Metric,2, ,~,
-2,"Light emitting diode, small symbol",LED_Small,D1,LED_CHR,LED_0603_1608Metric,1, ,~,
-3,"Light emitting diode, small symbol",LED_Small,D2,LED_DONE,LED_0603_1608Metric,1, ,~,
-4,"Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x01,J1,Conn_Battery,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,1, ,~,C47647
-5,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J4,Conn_Pwr,PinHeader_1x04_P2.54mm_Vertical,1, ,~,
-6,USB 2.0-only Type-C Plug connector,USB_C_Plug_USB2.0,J2,USB_C_Plug_USB2.0,USB_C_Plug_UTC009-C12,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,
-7,"Resistor, small symbol",R_Small,R3 R4,1K,R_0603_1608Metric,2, ,~,
-8,"Resistor, small symbol",R_Small,R2,2K,R_0603_1608Metric,1, ,~,
-9,"Resistor, small symbol",R_Small,R1,5.1K,R_0603_1608Metric,1, ,~,
-10,,ME4055-N,U1,ME4055-N,SOT-23-6,1, ,https://datasheet.lcsc.com/lcsc/2207251602_MICRONE-Nanjing-Micro-One-Elec-ME4055AM6G-N_C82121.pdf,C82121
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-08-59
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,10
-Component Count:,12 (11 SMD/ 1 THT)
-Fitted Components:,12 (11 SMD/ 1 THT)
-Number of PCBs:,1
-Total Components:,12
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"R_0603_1608Metric";1;"5.1K";;;
+2;"C2,C1";"C_0603_1608Metric";2;"10uF";;;
+3;"J4";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_Pwr";;;
+4;"R4,R3";"R_0603_1608Metric";2;"1K";;;
+5;"D2";"LED_0603_1608Metric";1;"LED_DONE";;;
+6;"J2";"USB_C_Plug_UTC009-C12";1;"USB_C_Plug_USB2.0";;;
+7;"G***";"SolderParty-New-Logo_5x4.2mm_SilkScreen";1;"LOGO";;;
+8;"D1";"LED_0603_1608Metric";1;"LED_CHR";;;
+9;"J1";"JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal";1;"Conn_Battery";;;
+10;"R2";"R_0603_1608Metric";1;"2K";;;
+11;"U1";"SOT-23-6";1;"ME4055-N";;;
+12;"G***";"SolderParty-New-Logo_7.5x6.4mm_SilkScreen";1;"LOGO";;;
+13;"TP2";"TestPoint_Pad_D1.5mm";1;"TP_D+";;;
+14;"TP1";"TestPoint_Pad_D1.5mm";1;"TP_D-";;;
