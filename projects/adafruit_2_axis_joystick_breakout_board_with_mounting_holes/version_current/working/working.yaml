@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_2_axis_joystick_breakout_board_with_mounting_holes\version_current\working
 oomp_key: oomp_projects_flat_adafruit_2_axis_joystick_breakout_board_with_mounting_holes
 oomp_key_simple: projects_flat_adafruit_2_axis_joystick_breakout_board_with_mounting_holes
+parts_verbose:
+- all: 1_u$1_adafruit200mil_1____
+  designation: ''
+  designator: u$1
+  footprint: adafruit200mil
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0,@hole3,@hole2__4____
+  designation: ''
+  designator: '@hole1'
+  footprint: ''
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0,@hole3,@hole2__4____
+  designation: ''
+  designator: '@hole0'
+  footprint: ''
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0,@hole3,@hole2__4____
+  designation: ''
+  designator: '@hole3'
+  footprint: ''
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0,@hole3,@hole2__4____
+  designation: ''
+  designator: '@hole2'
+  footprint: ''
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_u1_joystick_1_joystickpth___
+  designation: joystickpth
+  designator: u1
+  footprint: joystick
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_jp1_1x05_1____
+  designation: ''
+  designator: jp1
+  footprint: 1x05
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_2_axis_joystick_breakout_board_with_mounting_holes/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_2_axis_joystick_breakout_board_with_mounting_holes/version_current/working
 projects_folder: projects_folder/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/version_current/working

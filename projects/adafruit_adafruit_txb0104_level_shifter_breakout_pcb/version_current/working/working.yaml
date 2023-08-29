@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_txb0104_level_shifter_breakout_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_txb0104_level_shifter_breakout_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_txb0104_level_shifter_breakout_pcb
+parts_verbose:
+- all: 1_jp4,jp3_1x06_cleanbig_2____
+  designation: ''
+  designator: jp4
+  footprint: 1x06_cleanbig
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_jp4,jp3_1x06_cleanbig_2____
+  designation: ''
+  designator: jp3
+  footprint: 1x06_cleanbig
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_c1,c2_0805_no_2_0_1uf___
+  designation: 0_1uf
+  designator: c1
+  footprint: 0805_no
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_c1,c2_0805_no_2_0_1uf___
+  designation: 0_1uf
+  designator: c2
+  footprint: 0805_no
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_u2_tssop14_1____
+  designation: ''
+  designator: u2
+  footprint: tssop14
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_r1_0805_no_1_10k___
+  designation: 10k
+  designator: r1
+  footprint: 0805_no
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_u$5_fiducial_1mm_1_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: u$5
+  footprint: fiducial_1mm
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_u$7_pcbfeat_rev_040_1____
+  designation: ''
+  designator: u$7
+  footprint: pcbfeat_rev_040
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_u$4_adafruit_2_5mm_1____
+  designation: ''
+  designator: u$4
+  footprint: adafruit_2_5mm
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_txb0104_level_shifter_breakout_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_txb0104_level_shifter_breakout_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB/version_current/working

@@ -13,6 +13,42 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_rocketcat\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_rocketcat
 oomp_key_simple: projects_flat_electroniccats_rocketcat
+parts_verbose:
+- all: 1_gy_87,j1_socket_strip_straight_1x08_pitch2_54mm_2_conn_01x08___
+  designation: conn_01x08
+  designator: gy_87
+  footprint: socket_strip_straight_1x08_pitch2_54mm
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_gy_87,j1_socket_strip_straight_1x08_pitch2_54mm_2_conn_01x08___
+  designation: conn_01x08
+  designator: j1
+  footprint: socket_strip_straight_1x08_pitch2_54mm
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_wemos1_wemos_d1_mini_connectors_only_1_wemos_mini___
+  designation: wemos_mini
+  designator: wemos1
+  footprint: wemos_d1_mini_connectors_only
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_c1_c_rect_l11_5mm_w3_2mm_p10_00mm_mkt_1_0_1uf___
+  designation: 0_1uf
+  designator: c1
+  footprint: c_rect_l11_5mm_w3_2mm_p10_00mm_mkt
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_g__electronic_cats_logo_8x6_1_logo___
+  designation: logo
+  designator: g_
+  footprint: electronic_cats_logo_8x6
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/electroniccats_rocketcat/version_current/working
 projects_folder: projects_folder/ElectronicCats/RocketCat/version_current/working
 repo:

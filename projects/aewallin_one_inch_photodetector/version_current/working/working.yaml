@@ -13,6 +13,68 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\aewallin_one_inch_photodetector\version_current\working
 oomp_key: oomp_projects_flat_aewallin_one_inch_photodetector
 oomp_key_simple: projects_flat_aewallin_one_inch_photodetector
+parts_verbose:
+- all: 1,unpolarized_capacitor,c,c104,10n,c_0603_1608metric,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,unpolarized_capacitor,c,c104,10n,c_0603_1608metric,1,_,~
+- all: 2,unpolarized_capacitor,c,c108_c109,100n,c_0603_1608metric,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,unpolarized_capacitor,c,c108_c109,100n,c_0603_1608metric,2,_,~
+- all: 3,unpolarized_capacitor,c,c101_c102_c103_c107_c112_c113_c114,4u7,c_0603_1608metric,7,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,unpolarized_capacitor,c,c101_c102_c103_c107_c112_c113_c114,4u7,c_0603_1608metric,7,_,~
+- all: 4,unpolarized_capacitor,c,c105_c106_c115,c,c_0603_1608metric,3,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,unpolarized_capacitor,c,c105_c106_c115,c,c_0603_1608metric,3,_,~
+- all: 5,diode,d,d101_d103,d,d_sod_323f,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,diode,d,d101_d103,d,d_sod_323f,2,_,~
+- all: 6,,s597x_aw,d102,s597x,to_18_3,1,_,http_www_osram_os_com_graphics_xpic5_00215016_0_pdf_bp%20104%20fs_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,s597x_aw,d102,s597x,to_18_3,1,_,http_www_osram_os_com_graphics_xpic5_00215016_0_pdf_bp%20104%20fs_pdf
+- all: 7,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03,j102,conn_01x03,pinheader_1x03_p2_54mm_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03,j102,conn_01x03,pinheader_1x03_p2_54mm_vertical,1,_,~
+- all: 8,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j101,conn_coaxial,mmcx_molex_73415_1471_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j101,conn_coaxial,mmcx_molex_73415_1471_vertical,1,_,~
+- all: 9,inductor,l,l101,100u,l_0805_2012metric,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,inductor,l,l101,100u,l_0805_2012metric,1,_,~
+- all: 10,resistor,r,r104_rf101,r,r_0603_1608metric,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,resistor,r,r104_rf101,r,r_0603_1608metric,2,_,~
+- all: 11,resistor,r,r106,49r9,r_0603_1608metric,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,resistor,r,r106,49r9,r_0603_1608metric,1,_,~
+- all: 12,resistor,r,r102,300r,r_0603_1608metric,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,resistor,r,r102,300r,r_0603_1608metric,1,_,~
+- all: 13,resistor,r,r101_r107,49k9,r_0603_1608metric,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,resistor,r,r101_r107,49k9,r_0603_1608metric,2,_,~
+- all: 14,_200ma,_adjustable,_ultralow_noise,_ultrahigh_psrr_rf_linear_regulator,_msop_10_,lt3042xmse,u101,lt3042xmse,msop_10_1ep_3x3mm_p0_5mm_ep1_68x1_88mm,1,_,https_www_analog_com_media_en_technical_documentation_data_sheets_3042fb_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,_200ma,_adjustable,_ultralow_noise,_ultrahigh_psrr_rf_linear_regulator,_msop_10_,lt3042xmse,u101,lt3042xmse,msop_10_1ep_3x3mm_p0_5mm_ep1_68x1_88mm,1,_,https_www_analog_com_media_en_technical_documentation_data_sheets_3042fb_pdf
+- all: 15,,lt3093xmse_aw,u102,lt3093xmse,msop_12_1ep_3x4mm_p0_65mm_ep1_65x2_85mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,lt3093xmse_aw,u102,lt3093xmse,msop_12_1ep_3x4mm_p0_65mm_ep1_65x2_85mm,1,_,
+- all: 16,_single_low_power,_3_9ghz,_wideband,_ultra_low_noise,_voltage_feedback_operational_amplifier_with_disable,_sot_23_6_,opa847xdbv,u103,opa847xdbv,sot_23_6,1,_,http_www_ti_com_lit_ds_symlink_opa847_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,_single_low_power,_3_9ghz,_wideband,_ultra_low_noise,_voltage_feedback_operational_amplifier_with_disable,_sot_23_6_,opa847xdbv,u103,opa847xdbv,sot_23_6,1,_,http_www_ti_com_lit_ds_symlink_opa847_pdf
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,draft_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,draft
+- all: date_,2019_12_20_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2019_12_20
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,16_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,16
+- all: component_count_,28_(23_smd_3_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,28_(23_smd_3_tht)
+- all: fitted_components_,28_(23_smd_3_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,28_(23_smd_3_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,28_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,28
 projects_flat: projects_flat/aewallin_one_inch_photodetector/version_current/working
 projects_folder: projects_folder/aewallin/One-Inch-Photodetector/version_current/working
 repo:

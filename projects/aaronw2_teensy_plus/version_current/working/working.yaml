@@ -83,7 +83,7 @@ parts_oomp:
   designator: fid5
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id001
+  part_verbose:
     all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
     designation: fiducial_1mm
     designator: fid5
@@ -95,7 +95,7 @@ parts_oomp:
   designator: fid4
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id002
+  part_verbose:
     all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
     designation: fiducial_1mm
     designator: fid4
@@ -107,7 +107,7 @@ parts_oomp:
   designator: fid3
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id003
+  part_verbose:
     all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
     designation: fiducial_1mm
     designator: fid3
@@ -119,7 +119,7 @@ parts_oomp:
   designator: fid6
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id004
+  part_verbose:
     all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
     designation: fiducial_1mm
     designator: fid6
@@ -131,7 +131,7 @@ parts_oomp:
   designator: fid2
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id005
+  part_verbose:
     all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
     designation: fiducial_1mm
     designator: fid2
@@ -143,7 +143,7 @@ parts_oomp:
   designator: fid1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id006
+  part_verbose:
     all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
     designation: fiducial_1mm
     designator: fid1
@@ -155,7 +155,7 @@ parts_oomp:
   designator: sw1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id007
+  part_verbose:
     all: 2_sw1_sw_spst_kmr2_1_sw_spst_kmr2___
     designation: sw_spst_kmr2
     designator: sw1
@@ -167,7 +167,7 @@ parts_oomp:
   designator: rn1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id008
+  part_verbose:
     all: 3_rn1_r_array_convex_8x0602_1_100k___
     designation: 100k
     designator: rn1
@@ -179,7 +179,7 @@ parts_oomp:
   designator: j8
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id009
+  part_verbose:
     all: 4_j8_pinheader_2x07_p2_54mm_vertical_1_conn_02x07_odd_even___
     designation: conn_02x07_odd_even
     designator: j8
@@ -191,7 +191,7 @@ parts_oomp:
   designator: c11
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id010
+  part_verbose:
     all: 5_c11,c9,c14,c10_c_0805_2012metric_4_10uf___
     designation: 10uf
     designator: c11
@@ -203,7 +203,7 @@ parts_oomp:
   designator: c9
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id011
+  part_verbose:
     all: 5_c11,c9,c14,c10_c_0805_2012metric_4_10uf___
     designation: 10uf
     designator: c9
@@ -215,7 +215,7 @@ parts_oomp:
   designator: c14
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id012
+  part_verbose:
     all: 5_c11,c9,c14,c10_c_0805_2012metric_4_10uf___
     designation: 10uf
     designator: c14
@@ -227,7 +227,7 @@ parts_oomp:
   designator: c10
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id013
+  part_verbose:
     all: 5_c11,c9,c14,c10_c_0805_2012metric_4_10uf___
     designation: 10uf
     designator: c10
@@ -239,7 +239,7 @@ parts_oomp:
   designator: c8
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id014
+  part_verbose:
     all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
     designation: 0_1uf
     designator: c8
@@ -251,7 +251,7 @@ parts_oomp:
   designator: c4
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id015
+  part_verbose:
     all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
     designation: 0_1uf
     designator: c4
@@ -263,7 +263,7 @@ parts_oomp:
   designator: c1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id016
+  part_verbose:
     all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
     designation: 0_1uf
     designator: c1
@@ -275,7 +275,7 @@ parts_oomp:
   designator: c202
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id017
+  part_verbose:
     all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
     designation: 0_1uf
     designator: c202
@@ -287,7 +287,7 @@ parts_oomp:
   designator: c13
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id018
+  part_verbose:
     all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
     designation: 0_1uf
     designator: c13
@@ -299,7 +299,7 @@ parts_oomp:
   designator: c2
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id019
+  part_verbose:
     all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
     designation: 0_1uf
     designator: c2
@@ -311,7 +311,7 @@ parts_oomp:
   designator: c6
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id020
+  part_verbose:
     all: 7_c6,c207,c12,c3_c_0603_1608metric_4_1uf___
     designation: 1uf
     designator: c6
@@ -323,7 +323,7 @@ parts_oomp:
   designator: c207
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id021
+  part_verbose:
     all: 7_c6,c207,c12,c3_c_0603_1608metric_4_1uf___
     designation: 1uf
     designator: c207
@@ -335,7 +335,7 @@ parts_oomp:
   designator: c12
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id022
+  part_verbose:
     all: 7_c6,c207,c12,c3_c_0603_1608metric_4_1uf___
     designation: 1uf
     designator: c12
@@ -347,7 +347,7 @@ parts_oomp:
   designator: c3
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id023
+  part_verbose:
     all: 7_c6,c207,c12,c3_c_0603_1608metric_4_1uf___
     designation: 1uf
     designator: c3
@@ -359,7 +359,7 @@ parts_oomp:
   designator: j201
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id024
+  part_verbose:
     all: 8_j201_pinheader_1x03_p2_54mm_vertical_1_conn_01x03___
     designation: conn_01x03
     designator: j201
@@ -371,7 +371,7 @@ parts_oomp:
   designator: u201
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id025
+  part_verbose:
     all: 9_u201_qfn_16_1ep_3x3mm_p0_5mm_ep2_7x2_7mm_thermalvias_1_tps55340_q1___
     designation: tps55340_q1
     designator: u201
@@ -383,7 +383,7 @@ parts_oomp:
   designator: r204
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id026
+  part_verbose:
     all: 10_r204_r_0603_1608metric_1_10k___
     designation: 10k
     designator: r204
@@ -395,7 +395,7 @@ parts_oomp:
   designator: r203
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id027
+  part_verbose:
     all: 11_r203_r_0603_1608metric_1_86_6k___
     designation: 86_6k
     designator: r203
@@ -407,7 +407,7 @@ parts_oomp:
   designator: r202
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id028
+  part_verbose:
     all: 12_r202_r_0603_1608metric_1_1_62k___
     designation: 1_62k
     designator: r202
@@ -419,7 +419,7 @@ parts_oomp:
   designator: r201
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id029
+  part_verbose:
     all: 13_r201_r_0603_1608metric_1_18_7k___
     designation: 18_7k
     designator: r201
@@ -431,7 +431,7 @@ parts_oomp:
   designator: q201
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id030
+  part_verbose:
     all: 14_q201_sot_323_sc_70_1_bss214nw___
     designation: bss214nw
     designator: q201
@@ -443,7 +443,7 @@ parts_oomp:
   designator: l201
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id031
+  part_verbose:
     all: 15_l201_l_vishay_ihlp_1212_1_3_3uh___
     designation: 3_3uh
     designator: l201
@@ -455,7 +455,7 @@ parts_oomp:
   designator: d201
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id032
+  part_verbose:
     all: 16_d201_d_sod_123f_1_ss24fl___
     designation: ss24fl
     designator: d201
@@ -467,7 +467,7 @@ parts_oomp:
   designator: c206
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id033
+  part_verbose:
     all: 17_c206_c_1210_3225metric_1_47uf___
     designation: 47uf
     designator: c206
@@ -479,7 +479,7 @@ parts_oomp:
   designator: c205
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id034
+  part_verbose:
     all: 18_c205_c_0603_1608metric_1_47nf___
     designation: 47nf
     designator: c205
@@ -491,7 +491,7 @@ parts_oomp:
   designator: c204
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id035
+  part_verbose:
     all: 19_c204_c_0603_1608metric_1_820pf___
     designation: 820pf
     designator: c204
@@ -503,7 +503,7 @@ parts_oomp:
   designator: c203
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id036
+  part_verbose:
     all: 20_c203_c_0603_1608metric_1_22nf___
     designation: 22nf
     designator: c203
@@ -515,7 +515,7 @@ parts_oomp:
   designator: c201
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id037
+  part_verbose:
     all: 21_c201_c_0603_1608metric_1_22uf___
     designation: 22uf
     designator: c201
@@ -527,7 +527,7 @@ parts_oomp:
   designator: u1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id038
+  part_verbose:
     all: 22_u1_texas_s_pvqfn_n14_1_sn74ahct125n___
     designation: sn74ahct125n
     designator: u1
@@ -539,7 +539,7 @@ parts_oomp:
   designator: j11
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id039
+  part_verbose:
     all: 23_j11_pinheader_2x04_p2_54mm_vertical_1_conn_02x04_odd_even___
     designation: conn_02x04_odd_even
     designator: j11
@@ -551,7 +551,7 @@ parts_oomp:
   designator: j12
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id040
+  part_verbose:
     all: 24_j12_pinheader_1x02_p2_54mm_vertical_1_conn_01x02___
     designation: conn_01x02
     designator: j12
@@ -563,7 +563,7 @@ parts_oomp:
   designator: d1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id041
+  part_verbose:
     all: 25_d1_led_ws2813_mini_2_1_ws2813_mini___
     designation: ws2813_mini
     designator: d1
@@ -575,7 +575,7 @@ parts_oomp:
   designator: j10
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id042
+  part_verbose:
     all: 26_j10_pinheader_1x14_p2_54mm_vertical_1_conn_01x14___
     designation: conn_01x14
     designator: j10
@@ -587,7 +587,7 @@ parts_oomp:
   designator: j7
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id043
+  part_verbose:
     all: 27_j7,j3_pinheader_1x14_p2_54mm_vertical_2_conn_01x14_male___
     designation: conn_01x14_male
     designator: j7
@@ -599,7 +599,7 @@ parts_oomp:
   designator: j3
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id044
+  part_verbose:
     all: 27_j7,j3_pinheader_1x14_p2_54mm_vertical_2_conn_01x14_male___
     designation: conn_01x14_male
     designator: j3
@@ -611,7 +611,7 @@ parts_oomp:
   designator: j9
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id045
+  part_verbose:
     all: 28_j9_pinheader_1x01_p2_54mm_vertical_1_conn_01x01_male___
     designation: conn_01x01_male
     designator: j9
@@ -623,7 +623,7 @@ parts_oomp:
   designator: j5
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id046
+  part_verbose:
     all: 29_j5_pinheader_1x05_p2_54mm_vertical_1_conn_01x05_male___
     designation: conn_01x05_male
     designator: j5
@@ -632,52 +632,328 @@ parts_oomp:
     quantity: '1'
     supplier_and_ref: ''
 parts_verbose:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- *id008
-- *id009
-- *id010
-- *id011
-- *id012
-- *id013
-- *id014
-- *id015
-- *id016
-- *id017
-- *id018
-- *id019
-- *id020
-- *id021
-- *id022
-- *id023
-- *id024
-- *id025
-- *id026
-- *id027
-- *id028
-- *id029
-- *id030
-- *id031
-- *id032
-- *id033
-- *id034
-- *id035
-- *id036
-- *id037
-- *id038
-- *id039
-- *id040
-- *id041
-- *id042
-- *id043
-- *id044
-- *id045
-- *id046
+- all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: fid5
+  footprint: fiducial_0_5mm_mask1mm
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: fid4
+  footprint: fiducial_0_5mm_mask1mm
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: fid3
+  footprint: fiducial_0_5mm_mask1mm
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: fid6
+  footprint: fiducial_0_5mm_mask1mm
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: fid2
+  footprint: fiducial_0_5mm_mask1mm
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 1_fid5,fid4,fid3,fid6,fid2,fid1_fiducial_0_5mm_mask1mm_6_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: fid1
+  footprint: fiducial_0_5mm_mask1mm
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 2_sw1_sw_spst_kmr2_1_sw_spst_kmr2___
+  designation: sw_spst_kmr2
+  designator: sw1
+  footprint: sw_spst_kmr2
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_rn1_r_array_convex_8x0602_1_100k___
+  designation: 100k
+  designator: rn1
+  footprint: r_array_convex_8x0602
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_j8_pinheader_2x07_p2_54mm_vertical_1_conn_02x07_odd_even___
+  designation: conn_02x07_odd_even
+  designator: j8
+  footprint: pinheader_2x07_p2_54mm_vertical
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_c11,c9,c14,c10_c_0805_2012metric_4_10uf___
+  designation: 10uf
+  designator: c11
+  footprint: c_0805_2012metric
+  id: '5'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 5_c11,c9,c14,c10_c_0805_2012metric_4_10uf___
+  designation: 10uf
+  designator: c9
+  footprint: c_0805_2012metric
+  id: '5'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 5_c11,c9,c14,c10_c_0805_2012metric_4_10uf___
+  designation: 10uf
+  designator: c14
+  footprint: c_0805_2012metric
+  id: '5'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 5_c11,c9,c14,c10_c_0805_2012metric_4_10uf___
+  designation: 10uf
+  designator: c10
+  footprint: c_0805_2012metric
+  id: '5'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
+  designation: 0_1uf
+  designator: c8
+  footprint: c_0603_1608metric
+  id: '6'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
+  designation: 0_1uf
+  designator: c4
+  footprint: c_0603_1608metric
+  id: '6'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
+  designation: 0_1uf
+  designator: c1
+  footprint: c_0603_1608metric
+  id: '6'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
+  designation: 0_1uf
+  designator: c202
+  footprint: c_0603_1608metric
+  id: '6'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
+  designation: 0_1uf
+  designator: c13
+  footprint: c_0603_1608metric
+  id: '6'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 6_c8,c4,c1,c202,c13,c2_c_0603_1608metric_6_0_1uf___
+  designation: 0_1uf
+  designator: c2
+  footprint: c_0603_1608metric
+  id: '6'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 7_c6,c207,c12,c3_c_0603_1608metric_4_1uf___
+  designation: 1uf
+  designator: c6
+  footprint: c_0603_1608metric
+  id: '7'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 7_c6,c207,c12,c3_c_0603_1608metric_4_1uf___
+  designation: 1uf
+  designator: c207
+  footprint: c_0603_1608metric
+  id: '7'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 7_c6,c207,c12,c3_c_0603_1608metric_4_1uf___
+  designation: 1uf
+  designator: c12
+  footprint: c_0603_1608metric
+  id: '7'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 7_c6,c207,c12,c3_c_0603_1608metric_4_1uf___
+  designation: 1uf
+  designator: c3
+  footprint: c_0603_1608metric
+  id: '7'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 8_j201_pinheader_1x03_p2_54mm_vertical_1_conn_01x03___
+  designation: conn_01x03
+  designator: j201
+  footprint: pinheader_1x03_p2_54mm_vertical
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 9_u201_qfn_16_1ep_3x3mm_p0_5mm_ep2_7x2_7mm_thermalvias_1_tps55340_q1___
+  designation: tps55340_q1
+  designator: u201
+  footprint: qfn_16_1ep_3x3mm_p0_5mm_ep2_7x2_7mm_thermalvias
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 10_r204_r_0603_1608metric_1_10k___
+  designation: 10k
+  designator: r204
+  footprint: r_0603_1608metric
+  id: '10'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 11_r203_r_0603_1608metric_1_86_6k___
+  designation: 86_6k
+  designator: r203
+  footprint: r_0603_1608metric
+  id: '11'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 12_r202_r_0603_1608metric_1_1_62k___
+  designation: 1_62k
+  designator: r202
+  footprint: r_0603_1608metric
+  id: '12'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 13_r201_r_0603_1608metric_1_18_7k___
+  designation: 18_7k
+  designator: r201
+  footprint: r_0603_1608metric
+  id: '13'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 14_q201_sot_323_sc_70_1_bss214nw___
+  designation: bss214nw
+  designator: q201
+  footprint: sot_323_sc_70
+  id: '14'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 15_l201_l_vishay_ihlp_1212_1_3_3uh___
+  designation: 3_3uh
+  designator: l201
+  footprint: l_vishay_ihlp_1212
+  id: '15'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 16_d201_d_sod_123f_1_ss24fl___
+  designation: ss24fl
+  designator: d201
+  footprint: d_sod_123f
+  id: '16'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 17_c206_c_1210_3225metric_1_47uf___
+  designation: 47uf
+  designator: c206
+  footprint: c_1210_3225metric
+  id: '17'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 18_c205_c_0603_1608metric_1_47nf___
+  designation: 47nf
+  designator: c205
+  footprint: c_0603_1608metric
+  id: '18'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 19_c204_c_0603_1608metric_1_820pf___
+  designation: 820pf
+  designator: c204
+  footprint: c_0603_1608metric
+  id: '19'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 20_c203_c_0603_1608metric_1_22nf___
+  designation: 22nf
+  designator: c203
+  footprint: c_0603_1608metric
+  id: '20'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 21_c201_c_0603_1608metric_1_22uf___
+  designation: 22uf
+  designator: c201
+  footprint: c_0603_1608metric
+  id: '21'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 22_u1_texas_s_pvqfn_n14_1_sn74ahct125n___
+  designation: sn74ahct125n
+  designator: u1
+  footprint: texas_s_pvqfn_n14
+  id: '22'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 23_j11_pinheader_2x04_p2_54mm_vertical_1_conn_02x04_odd_even___
+  designation: conn_02x04_odd_even
+  designator: j11
+  footprint: pinheader_2x04_p2_54mm_vertical
+  id: '23'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 24_j12_pinheader_1x02_p2_54mm_vertical_1_conn_01x02___
+  designation: conn_01x02
+  designator: j12
+  footprint: pinheader_1x02_p2_54mm_vertical
+  id: '24'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 25_d1_led_ws2813_mini_2_1_ws2813_mini___
+  designation: ws2813_mini
+  designator: d1
+  footprint: led_ws2813_mini_2
+  id: '25'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 26_j10_pinheader_1x14_p2_54mm_vertical_1_conn_01x14___
+  designation: conn_01x14
+  designator: j10
+  footprint: pinheader_1x14_p2_54mm_vertical
+  id: '26'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 27_j7,j3_pinheader_1x14_p2_54mm_vertical_2_conn_01x14_male___
+  designation: conn_01x14_male
+  designator: j7
+  footprint: pinheader_1x14_p2_54mm_vertical
+  id: '27'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 27_j7,j3_pinheader_1x14_p2_54mm_vertical_2_conn_01x14_male___
+  designation: conn_01x14_male
+  designator: j3
+  footprint: pinheader_1x14_p2_54mm_vertical
+  id: '27'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 28_j9_pinheader_1x01_p2_54mm_vertical_1_conn_01x01_male___
+  designation: conn_01x01_male
+  designator: j9
+  footprint: pinheader_1x01_p2_54mm_vertical
+  id: '28'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 29_j5_pinheader_1x05_p2_54mm_vertical_1_conn_01x05_male___
+  designation: conn_01x05_male
+  designator: j5
+  footprint: pinheader_1x05_p2_54mm_vertical
+  id: '29'
+  quantity: '1'
+  supplier_and_ref: ''
 private: false
 projects_flat: projects_flat/aaronw2_teensy_plus/version_current/working
 projects_folder: projects_folder/aaronw2/teensy-plus/version_current/working

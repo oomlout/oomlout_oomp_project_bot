@@ -13,6 +13,74 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dchwebb_ampelope\version_current\working
 oomp_key: oomp_projects_flat_dchwebb_ampelope
 oomp_key_simple: projects_flat_dchwebb_ampelope
+parts_verbose:
+- all: 1,_switch,_single_pole_double_throw,_center_off_position_,sw_spdt_msm,e1_mode1_e2_mode1_e3_mode1_e4_mode1,sw_spdt_msm,spdt_subminiature_aligned,4,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,_switch,_single_pole_double_throw,_center_off_position_,sw_spdt_msm,e1_mode1_e2_mode1_e3_mode1_e4_mode1,sw_spdt_msm,spdt_subminiature_aligned,4,_,~
+- all: 2,potentiometer,r_pot,enva_a_pot1_enva_d_pot1_enva_r_pot1_enva_s_pot1_envb_a_pot1_envb_d_pot1_envb_r_pot1_envb_s_pot1_lfo_pot1,r_pot,alpha_9mm_potentiometer_aligned,9,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,potentiometer,r_pot,enva_a_pot1_enva_d_pot1_enva_r_pot1_enva_s_pot1_envb_a_pot1_envb_d_pot1_envb_r_pot1_envb_s_pot1_lfo_pot1,r_pot,alpha_9mm_potentiometer_aligned,9,_,~
+- all: 3,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j9,audio1_in,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j9,audio1_in,thonkiconn_hole,1,_,~
+- all: 4,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j13,audio1_out,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j13,audio1_out,thonkiconn_hole,1,_,~
+- all: 5,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j10,audio2_in,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j10,audio2_in,thonkiconn_hole,1,_,~
+- all: 6,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j14,audio2_out,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j14,audio2_out,thonkiconn_hole,1,_,~
+- all: 7,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j11,audio3_in,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j11,audio3_in,thonkiconn_hole,1,_,~
+- all: 8,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j15,audio3_out,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j15,audio3_out,thonkiconn_hole,1,_,~
+- all: 9,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j12,audio4_in,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j12,audio4_in,thonkiconn_hole,1,_,~
+- all: 10,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j16,audio4_out,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j16,audio4_out,thonkiconn_hole,1,_,~
+- all: 11,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j17,clock_in,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j17,clock_in,thonkiconn_hole,1,_,~
+- all: 12,_generic_connector,_single_row,_01x12,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x12_male,j1_j2_j3_j4,conn_01x12_male,pinheader_1x12_p2_54mm_vertical,4,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,_generic_connector,_single_row,_01x12,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x12_male,j1_j2_j3_j4,conn_01x12_male,pinheader_1x12_p2_54mm_vertical,4,_,~
+- all: 13,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j18,env1_out,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j18,env1_out,thonkiconn_hole,1,_,~
+- all: 14,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j19,env3_out,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j19,env3_out,thonkiconn_hole,1,_,~
+- all: 15,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j5,gate1_in,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j5,gate1_in,thonkiconn_hole,1,_,~
+- all: 16,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j6,gate2_in,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j6,gate2_in,thonkiconn_hole,1,_,~
+- all: 17,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j7,gate3_in,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j7,gate3_in,thonkiconn_hole,1,_,~
+- all: 18,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j8,gate4_in,thonkiconn_hole,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,_audio_jack,_2_poles_(mono_ts),_switched_pole_(normalling)_,audiojack2_ground_switch,j8,gate4_in,thonkiconn_hole,1,_,~
+- all: 19,light_emitting_diode,led,led1_led2_led3_led4,led,led_d3_0mm,4,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,light_emitting_diode,led,led1_led2_led3_led4,led,led_d3_0mm,4,_,~
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_50_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_50
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,19_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,19
+- all: component_count_,36_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,36_(0_smd_0_tht)
+- all: fitted_components_,36_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,36_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,36_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,36
 projects_flat: projects_flat/dchwebb_ampelope/version_current/working
 projects_folder: projects_folder/dchwebb/Ampelope/version_current/working
 repo:

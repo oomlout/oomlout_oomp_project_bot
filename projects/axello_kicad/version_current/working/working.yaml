@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\axello_kicad\version_current\working
 oomp_key: oomp_projects_flat_axello_kicad
 oomp_key_simple: projects_flat_axello_kicad
+parts_verbose:
+- all: 1_bt1_batteryholder_1_battery___
+  designation: battery
+  designator: bt1
+  footprint: batteryholder
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: "2_c1_c_1206_handsoldering_1_1\xE2\xB5f___"
+  designation: "1\xE2\xB5f"
+  designator: c1
+  footprint: c_1206_handsoldering
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_d1_led_3mm_1_led___
+  designation: led
+  designator: d1
+  footprint: led_3mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_r1,r3_r_0805_handsoldering_2_1k___
+  designation: 1k
+  designator: r1
+  footprint: r_0805_handsoldering
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_r1,r3_r_0805_handsoldering_2_1k___
+  designation: 1k
+  designator: r3
+  footprint: r_0805_handsoldering
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_r2_r_0805_handsoldering_1_470k___
+  designation: 470k
+  designator: r2
+  footprint: r_0805_handsoldering
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_u1_soic_8_3_9x4_9mm_pitch1_27mm_1_7555___
+  designation: '7555'
+  designator: u1
+  footprint: soic_8_3_9x4_9mm_pitch1_27mm
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/axello_kicad/version_current/working
 projects_folder: projects_folder/axello/kicad/version_current/working
 repo:

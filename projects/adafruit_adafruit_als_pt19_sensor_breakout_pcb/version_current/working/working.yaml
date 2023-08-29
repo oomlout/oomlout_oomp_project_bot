@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_als_pt19_sensor_breakout_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_als_pt19_sensor_breakout_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_als_pt19_sensor_breakout_pcb
+parts_verbose:
+- all: 1_u$2_mountinghole_2_0_plated_1_mountinghole2_0___
+  designation: mountinghole2_0
+  designator: u$2
+  footprint: mountinghole_2_0_plated
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_jp2_1x03_round_1____
+  designation: ''
+  designator: jp2
+  footprint: 1x03_round
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r1_0603_no_1_10k___
+  designation: 10k
+  designator: r1
+  footprint: 0603_no
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_u1_als_pt19_315c_1_als_pt19_315c___
+  designation: als_pt19_315c
+  designator: u1
+  footprint: als_pt19_315c
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_fid1_fiducial_1mm_1_fiducial____
+  designation: fiducial_
+  designator: fid1
+  footprint: fiducial_1mm
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_u$1_adafruit_2_5mm_1____
+  designation: ''
+  designator: u$1
+  footprint: adafruit_2_5mm
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_u$3_pcbfeat_rev_040_1____
+  designation: ''
+  designator: u$3
+  footprint: pcbfeat_rev_040
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_als_pt19_sensor_breakout_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_als_pt19_sensor_breakout_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB/version_current/working

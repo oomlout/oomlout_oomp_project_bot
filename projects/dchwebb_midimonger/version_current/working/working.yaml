@@ -13,6 +13,68 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dchwebb_midimonger\version_current\working
 oomp_key: oomp_projects_flat_dchwebb_midimonger
 oomp_key_simple: projects_flat_dchwebb_midimonger
+parts_verbose:
+- all: 1,,3d_model_dummy,d9,3d_model_dummy,3d_dummy,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,3d_model_dummy,d9,3d_model_dummy,3d_dummy,1,_,
+- all: 2,light_emitting_diode,led,d5,cv1,led_d3_0mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,light_emitting_diode,led,d5,cv1,led_d3_0mm,1,_,~
+- all: 3,light_emitting_diode,led,d6,cv2,led_d3_0mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,light_emitting_diode,led,d6,cv2,led_d3_0mm,1,_,~
+- all: 4,light_emitting_diode,led,d7,cv3,led_d3_0mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,light_emitting_diode,led,d7,cv3,led_d3_0mm,1,_,~
+- all: 5,light_emitting_diode,led,d8,cv4,led_d3_0mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,light_emitting_diode,led,d8,cv4,led_d3_0mm,1,_,~
+- all: 6,light_emitting_diode,led,d1,gate1,led_d3_0mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,light_emitting_diode,led,d1,gate1,led_d3_0mm,1,_,~
+- all: 7,light_emitting_diode,led,d2,gate2,led_d3_0mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,light_emitting_diode,led,d2,gate2,led_d3_0mm,1,_,~
+- all: 8,light_emitting_diode,led,d3,gate3,led_d3_0mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,light_emitting_diode,led,d3,gate3,led_d3_0mm,1,_,~
+- all: 9,light_emitting_diode,led,d4,gate4,led_d3_0mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,light_emitting_diode,led,d4,gate4,led_d3_0mm,1,_,~
+- all: 10,_rj_connector,_8p8c_(8_positions_8_connected)_,rj45,j1_j2_j3_j4_j5_j6,cv_out,rj45_molex_42878_8506,6,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,_rj_connector,_8p8c_(8_positions_8_connected)_,rj45,j1_j2_j3_j4_j5_j6,cv_out,rj45_molex_42878_8506,6,_,~
+- all: 11,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03_female,j23,conn_01x03_female,pinheader_1x03_p2_54mm_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03_female,j23,conn_01x03_female,pinheader_1x03_p2_54mm_vertical,1,_,~
+- all: 12,_generic_connector,_single_row,_01x08,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x08_female,j21_j22,conn_01x08_female,socket_strip_straight_1x08_pitch2_54mm,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,_generic_connector,_single_row,_01x08,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x08_female,j21_j22,conn_01x08_female,socket_strip_straight_1x08_pitch2_54mm,2,_,~
+- all: 13,_generic_connector,_single_row,_01x09,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x09_female,j20,conn_01x09_female,socket_strip_straight_1x09_pitch2_54mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,_generic_connector,_single_row,_01x09,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x09_female,j20,conn_01x09_female,socket_strip_straight_1x09_pitch2_54mm,1,_,~
+- all: 14,_generic_connector,_double_row,_02x04,_odd_even_pin_numbering_scheme_(row_1_odd_numbers,_row_2_even_numbers),_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_02x04_odd_even,j9,conn_02x04_odd_even,pinheader_2x04_p2_54mm_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,_generic_connector,_double_row,_02x04,_odd_even_pin_numbering_scheme_(row_1_odd_numbers,_row_2_even_numbers),_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_02x04_odd_even,j9,conn_02x04_odd_even,pinheader_2x04_p2_54mm_vertical,1,_,~
+- all: 15,_audio_jack,_3_poles_(stereo_trs)_,audiojack3,j7,midi_in,thonkiconn_stereo_pj366st,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,_audio_jack,_3_poles_(stereo_trs)_,audiojack3,j7,midi_in,thonkiconn_stereo_pj366st,1,_,~
+- all: 16,,1734517_1,j8,usb_b_micro,usb_te_1734517_1,1,_,https_uk_rs_online_com_web_p_products_7187236__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,1734517_1,j8,usb_b_micro,usb_te_1734517_1,1,_,https_uk_rs_online_com_web_p_products_7187236_
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,v1_0_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,v1_0
+- all: date_,2023_02_28_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_02_28
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,16_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,16
+- all: component_count_,22_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,22_(0_smd_0_tht)
+- all: fitted_components_,22_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,22_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,22_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,22
 projects_flat: projects_flat/dchwebb_midimonger/version_current/working
 projects_folder: projects_folder/dchwebb/MidiMonger/version_current/working
 repo:

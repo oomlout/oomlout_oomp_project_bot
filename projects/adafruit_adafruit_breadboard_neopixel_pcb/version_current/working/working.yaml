@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_breadboard_neopixel_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_breadboard_neopixel_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_breadboard_neopixel_pcb
+parts_verbose:
+- all: 1_r2,r3_r0603_2_22___
+  designation: '22'
+  designator: r2
+  footprint: r0603
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_r2,r3_r0603_2_22___
+  designation: '22'
+  designator: r3
+  footprint: r0603
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0__2____
+  designation: ''
+  designator: '@hole1'
+  footprint: ''
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0__2____
+  designation: ''
+  designator: '@hole0'
+  footprint: ''
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_led1_ws28115050_1_ws28115050___
+  designation: ws28115050
+  designator: led1
+  footprint: ws28115050
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_c1_c0603k_1_1uf___
+  designation: 1uf
+  designator: c1
+  footprint: c0603k
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_jp1,jp2_1x03_cleanbig_2____
+  designation: ''
+  designator: jp1
+  footprint: 1x03_cleanbig
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_jp1,jp2_1x03_cleanbig_2____
+  designation: ''
+  designator: jp2
+  footprint: 1x03_cleanbig
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_r1_r0603_1_1_0k___
+  designation: 1_0k
+  designator: r1
+  footprint: r0603
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_u$1_adafruit_2_5mm_1____
+  designation: ''
+  designator: u$1
+  footprint: adafruit_2_5mm
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_breadboard_neopixel_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_breadboard_neopixel_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit_Breadboard_NeoPixel_PCB/version_current/working

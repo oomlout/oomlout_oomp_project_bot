@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_pi_cobber_pcbs\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_pi_cobber_pcbs
 oomp_key_simple: projects_flat_adafruit_adafruit_pi_cobber_pcbs
+parts_verbose:
+- all: 1_u$5,u$4,u$2,u$3_mountinghole_2_5_plated_4_mountinghole2_5___
+  designation: mountinghole2_5
+  designator: u$5
+  footprint: mountinghole_2_5_plated
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_u$5,u$4,u$2,u$3_mountinghole_2_5_plated_4_mountinghole2_5___
+  designation: mountinghole2_5
+  designator: u$4
+  footprint: mountinghole_2_5_plated
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_u$5,u$4,u$2,u$3_mountinghole_2_5_plated_4_mountinghole2_5___
+  designation: mountinghole2_5
+  designator: u$2
+  footprint: mountinghole_2_5_plated
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_u$5,u$4,u$2,u$3_mountinghole_2_5_plated_4_mountinghole2_5___
+  designation: mountinghole2_5
+  designator: u$3
+  footprint: mountinghole_2_5_plated
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_jp1_rasberrypi_idc_1_pi___
+  designation: pi
+  designator: jp1
+  footprint: rasberrypi_idc
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u$7_adafruit_5mm_1____
+  designation: ''
+  designator: u$7
+  footprint: adafruit_5mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_jp3_1x13_round_70_1_left___
+  designation: left
+  designator: jp3
+  footprint: 1x13_round_70
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_jp2_1x13_round_70_1_right___
+  designation: right
+  designator: jp2
+  footprint: 1x13_round_70
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_pi_cobber_pcbs/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_pi_cobber_pcbs/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Pi-Cobber-PCBs/version_current/working

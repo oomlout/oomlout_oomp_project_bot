@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_bast_m7\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_bast_m7
 oomp_key_simple: projects_flat_electroniccats_bast_m7
+parts_verbose:
+- all: 1_u3_sot_23_5_1_ap2112k_3_3___
+  designation: ap2112k_3_3
+  designator: u3
+  footprint: sot_23_5
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u2_tqfp_80_12x12mm_p0_5mm_1_mimxrt1011dae5a___
+  designation: mimxrt1011dae5a
+  designator: u2
+  footprint: tqfp_80_12x12mm_p0_5mm
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u1_soic_8_5_23x5_23mm_p1_27mm_1_w25q128jvs___
+  designation: w25q128jvs
+  designator: u1
+  footprint: soic_8_5_23x5_23mm_p1_27mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_j1_jst_ph_b2b_ph_sm4_tb_1x02_1mp_p2_00mm_vertical_1_conn_battery___
+  designation: conn_battery
+  designator: j1
+  footprint: jst_ph_b2b_ph_sm4_tb_1x02_1mp_p2_00mm_vertical
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_j4_pinsocket_1x12_p2_54mm_vertical_1_conn_right___
+  designation: conn_right
+  designator: j4
+  footprint: pinsocket_1x12_p2_54mm_vertical
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_j3_pinsocket_1x16_p2_54mm_vertical_1_conn_left___
+  designation: conn_left
+  designator: j3
+  footprint: pinsocket_1x16_p2_54mm_vertical
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/electroniccats_bast_m7/version_current/working
 projects_folder: projects_folder/ElectronicCats/Bast-M7/version_current/working
 repo:

@@ -13,6 +13,21 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\akiyukiokayasu_swd2conthrough\version_current\working
 oomp_key: oomp_projects_flat_akiyukiokayasu_swd2conthrough
 oomp_key_simple: projects_flat_akiyukiokayasu_swd2conthrough
+parts_verbose:
+- all: 1_j2_mac8_xb_1_p1_27mm_vertical_5pin_1_conn_01x05___
+  designation: conn_01x05
+  designator: j2
+  footprint: mac8_xb_1_p1_27mm_vertical_5pin
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j1_pinheader_2x05_p1_27mm_vertical_1_jlink_9pincortexm_adapter___
+  designation: jlink_9pincortexm_adapter
+  designator: j1
+  footprint: pinheader_2x05_p1_27mm_vertical
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/akiyukiokayasu_swd2conthrough/version_current/working
 projects_folder: projects_folder/AkiyukiOkayasu/SWD2Conthrough/version_current/working
 repo:

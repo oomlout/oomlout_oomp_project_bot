@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_eyespi_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_eyespi_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_eyespi_pcb
+parts_verbose:
+- all: 1_u$5,u$4_fiducial_1mm_2_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: u$5
+  footprint: fiducial_1mm
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_u$5,u$4_fiducial_1mm_2_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: u$4
+  footprint: fiducial_1mm
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_u$9,u$10_mountinghole_2_5_plated_2_mountinghole2_5___
+  designation: mountinghole2_5
+  designator: u$9
+  footprint: mountinghole_2_5_plated
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_u$9,u$10_mountinghole_2_5_plated_2_mountinghole2_5___
+  designation: mountinghole2_5
+  designator: u$10
+  footprint: mountinghole_2_5_plated
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_jp1,jp2_1x09_round_70_2____
+  designation: ''
+  designator: jp1
+  footprint: 1x09_round_70
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_jp1,jp2_1x09_round_70_2____
+  designation: ''
+  designator: jp2
+  footprint: 1x09_round_70
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_x1_eye_spi_display_botcontact_1_eye_spi_display_flip___
+  designation: eye_spi_display_flip
+  designator: x1
+  footprint: eye_spi_display_botcontact
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_u$22_eyespi_mini_logo_1____
+  designation: ''
+  designator: u$22
+  footprint: eyespi_mini_logo
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_u$2_pcbfeat_rev_040_1____
+  designation: ''
+  designator: u$2
+  footprint: pcbfeat_rev_040
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_eyespi_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_eyespi_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-EYESPI-PCB/version_current/working

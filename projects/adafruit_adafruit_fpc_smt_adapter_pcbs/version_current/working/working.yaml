@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_fpc_smt_adapter_pcbs\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_fpc_smt_adapter_pcbs
 oomp_key_simple: projects_flat_adafruit_adafruit_fpc_smt_adapter_pcbs
+parts_verbose:
+- all: 1_u$4_1x40_1mm_1_pinhd_1x40_1mm___
+  designation: pinhd_1x40_1mm
+  designator: u$4
+  footprint: 1x40_1mm
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u$2_1x40_0_7mm_1_pinhd_1x40_0_7mm___
+  designation: pinhd_1x40_0_7mm
+  designator: u$2
+  footprint: 1x40_0_7mm
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_jp1_2x20_big_1____
+  designation: ''
+  designator: jp1
+  footprint: 2x20_big
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_jp3,jp2_1x20_big_2____
+  designation: ''
+  designator: jp3
+  footprint: 1x20_big
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_jp3,jp2_1x20_big_2____
+  designation: ''
+  designator: jp2
+  footprint: 1x20_big
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_con1_1x40_0_5mm_1_pinhd_1x40_0_5mm___
+  designation: pinhd_1x40_0_5mm
+  designator: con1
+  footprint: 1x40_0_5mm
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_u$5_adafruit_text_20mm_1____
+  designation: ''
+  designator: u$5
+  footprint: adafruit_text_20mm
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_u$3_1x40_0_8mm_1_pinhd_1x40_0_8mm___
+  designation: pinhd_1x40_0_8mm
+  designator: u$3
+  footprint: 1x40_0_8mm
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_u$1_1x40_0_6mm_1_pinhd_1x40_0_6mm___
+  designation: pinhd_1x40_0_6mm
+  designator: u$1
+  footprint: 1x40_0_6mm
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_fpc_smt_adapter_pcbs/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_fpc_smt_adapter_pcbs/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-FPC-SMT-Adapter-PCBs/version_current/working

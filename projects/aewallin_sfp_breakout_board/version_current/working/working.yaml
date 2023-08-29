@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\aewallin_sfp_breakout_board\version_current\working
 oomp_key: oomp_projects_flat_aewallin_sfp_breakout_board
 oomp_key_simple: projects_flat_aewallin_sfp_breakout_board
+parts_verbose:
+- all: 1,unpolarized_capacitor,c,c108_c109,10n,c_0805_2012metric,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,unpolarized_capacitor,c,c108_c109,10n,c_0805_2012metric,2,_,~
+- all: 2,unpolarized_capacitor,c,c102_c106_c107_c110_c111_c112_c113,100n,c_0805_2012metric,7,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,unpolarized_capacitor,c,c102_c106_c107_c110_c111_c112_c113,100n,c_0805_2012metric,7,_,~
+- all: 3,unpolarized_capacitor,c,c104_c105,1u,c_0805_2012metric,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,unpolarized_capacitor,c,c104_c105,1u,c_0805_2012metric,2,_,~
+- all: 4,unpolarized_capacitor,c,c101_c103,10u,c_0805_2012metric,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,unpolarized_capacitor,c,c101_c103,10u,c_0805_2012metric,2,_,~
+- all: 5,diode,d,d101,d,diode_do_214ba,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,diode,d,d101,d,diode_do_214ba,1,_,~
+- all: 6,light_emitting_diode,led,d102_d103_d104_d105,led,led_0805_2012metric,4,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,light_emitting_diode,led,d102_d103_d104_d105,led,led_0805_2012metric,4,_,~
+- all: 7,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02,j102,conn_01x02,terminalblock_te_282834_2_1x02_p2_54mm_horizontal,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02,j102,conn_01x02,terminalblock_te_282834_2_1x02_p2_54mm_horizontal,1,_,~
+- all: 8,_generic_connector,_double_row,_02x02,_counter_clockwise_pin_numbering_scheme_(similar_to_dip_package_numbering),_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_02x02_counter_clockwise,j103,conn_02x02_counter_clockwise,pinheader_2x02_p2_54mm_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,_generic_connector,_double_row,_02x02,_counter_clockwise_pin_numbering_scheme_(similar_to_dip_package_numbering),_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_02x02_counter_clockwise,j103,conn_02x02_counter_clockwise,pinheader_2x02_p2_54mm_vertical,1,_,~
+- all: 9,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j104_j105_j106_j107,conn_coaxial,sma_amphenol_132289_edgemount,4,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,_coaxial_connector_(bnc,_sma,_smb,_smc,_cinch_rca,_lemo,_)_,conn_coaxial,j104_j105_j106_j107,conn_coaxial,sma_amphenol_132289_edgemount,4,_,~
+- all: 10,,usb_b_micro_connector,j101,usb_b_micro,usb_micro_b_molex_105017_0001,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,usb_b_micro_connector,j101,usb_b_micro,usb_micro_b_molex_105017_0001,1,_,~
+- all: 11,,jumper_device,jp101,jumper,pinheader_1x02_p2_54mm_vertical,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,jumper_device,jp101,jumper,pinheader_1x02_p2_54mm_vertical,1,_,~
+- all: 12,inductor,l,l101_l102,1uh,l_0805_2012metric,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,inductor,l,l101_l102,1uh,l_0805_2012metric,2,_,~
+- all: 13,,sfp_connector_awallin,p101,sfp_connector,connector_sfp_and_cage,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,sfp_connector_awallin,p101,sfp_connector,connector_sfp_and_cage,1,_,
+- all: 14,resistor,r,r101_r102_r103_r106,680r,r_0805_2012metric,4,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,resistor,r,r101_r102_r103_r106,680r,r_0805_2012metric,4,_,~
+- all: 15,resistor,r,r104_r105_r107_r108_r109,6k8,r_0805_2012metric,5,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,resistor,r,r104_r105_r107_r108_r109,6k8,r_0805_2012metric,5,_,~
+- all: 16,hex_inverter_schmitt_trigger,74hc14,u102,74hc14,tssop_14_4_4x5mm_p0_65mm,1,_,http_www_ti_com_lit_gpn_sn74hc14_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,hex_inverter_schmitt_trigger,74hc14,u102,74hc14,tssop_14_4_4x5mm_p0_65mm,1,_,http_www_ti_com_lit_gpn_sn74hc14
+- all: 17,_3_3v,_1_5a,_low_noise,_fast_transient_response_ldo_regulator,_to_263_5_,lt1963axq_3_3,u101,lt1963axq_3_3,to_263_5_tabpin3,1,_,https_www_analog_com_media_en_technical_documentation_data_sheets_1963aff_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,_3_3v,_1_5a,_low_noise,_fast_transient_response_ldo_regulator,_to_263_5_,lt1963axq_3_3,u101,lt1963axq_3_3,to_263_5_tabpin3,1,_,https_www_analog_com_media_en_technical_documentation_data_sheets_1963aff_pdf
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,2018_11_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,2018_11
+- all: date_,2023_08_02_17_08_38_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_38
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,17_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,17
+- all: component_count_,40_(36_smd_4_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,40_(36_smd_4_tht)
+- all: fitted_components_,40_(36_smd_4_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,40_(36_smd_4_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,40_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,40
 projects_flat: projects_flat/aewallin_sfp_breakout_board/version_current/working
 projects_folder: projects_folder/aewallin/SFP-Breakout-Board/version_current/working
 repo:
