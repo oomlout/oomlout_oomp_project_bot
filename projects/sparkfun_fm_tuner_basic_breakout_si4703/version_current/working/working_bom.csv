@@ -1,35 +1,19 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,RESISTANCE
-1,,CAP0402-CAP,C5,4.7pF,0402-CAP,1, ,,
-2,,CAP0402-CAP,C3 C4,22pF,0402-CAP,2, ,,
-3,,CAP0402-CAP,C2,22nF,0402-CAP,1, ,,
-4,,CAP0402-CAP,C1,0.1uF,0402-CAP,1, ,,
-5,,CAP0402-CAP,C6 C7,1uF,0402-CAP,2, ,,
-6,,LOGO-SFENW2,JP2,LOGO-SFENW2,SFE-NEW-WEB,1, ,,
-7,,LOGO-SFESK,JP3,LOGO-SFESK,SFE-LOGO-FLAME,1, ,,
-8,,M01PTH,JP5,M01PTH,1X01,1, ,,
-9,,M10{dblquote},JP1,M10{dblquote},1X10,1, ,,
-10,,INDUCTOR0402,L1,ferrite,C0402,1, ,,75 Ohm
-11,,RESISTOR0402-RES,R9 R10 R11 R12,330,0402-RES,4, ,,
-12,,RESISTOR0402-RES,R3 R8,4.7k,0402-RES,2, ,,
-13,,RESISTOR0402-RES,R1 R2,10k,0402-RES,2, ,,
-14,,SPARKFUN_SI470X,U1,SPARKFUN_SI470X,SPARKFUN_SI470X,1, ,,
-15,,CREATIVE_COMMONS,U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,1, ,,
-16,,OSHW-LOGOS,U$3,OSHW-LOGOS,OSHW-LOGO-S,1, ,,
-17,,CRYSTAL32-SMD,Y1,32.768kHz,CRYSTAL-32KHZ-SMD,1, ,,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-06_12-56-02
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,17
-Component Count:,24 (0 SMD/ 0 THT)
-Fitted Components:,24 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,24
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U$1";"CREATIVE_COMMONS";1;"CREATIVE_COMMONS";;;
+2;"JP1";"1X10";1;"M10"";;;
+3;"JP5";"1X01";1;"M01PTH";;;
+4;"JP4,JP6";"MICRO-FIDUCIAL";2;"FIDUCIALUFIDUCIAL";;;
+5;"R10,R9,R11,R12";"0402-RES";4;"330";;;
+6;"JP3";"SFE-LOGO-FLAME";1;"LOGO-SFESK";;;
+7;"U1";"SPARKFUN_SI470X";1;"SI4703";;;
+8;"R3,R8";"0402-RES";2;"4.7k";;;
+9;"C4,C3";"0402-CAP";2;"22pF";;;
+10;"C7,C6";"0402-CAP";2;"1uF";;;
+11;"Y1";"CRYSTAL-32KHZ-SMD";1;"32.768kHz";;;
+12;"R1,R2";"0402-RES";2;"10k";;;
+13;"L1";"C0402";1;"ferrite";;;
+14;"C5";"0402-CAP";1;"4.7pF";;;
+15;"C1";"0402-CAP";1;"0.1uF";;;
+16;"C2";"0402-CAP";1;"22nF";;;
+17;"JP2";"SFE-NEW-WEB";1;"LOGO-SFENW2";;;
+18;"U$3";"OSHW-LOGO-S";1;"OSHW-LOGOS";;;
