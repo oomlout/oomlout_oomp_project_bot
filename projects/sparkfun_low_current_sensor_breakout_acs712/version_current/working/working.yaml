@@ -13,6 +13,60 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_low_current_sensor_breakout_acs712\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_low_current_sensor_breakout_acs712
 oomp_key_simple: projects_flat_sparkfun_low_current_sensor_breakout_acs712
+parts_verbose:
+- all: 1,,cap0402_cap,c1,100pf,0402_cap,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap0402_cap,c1,100pf,0402_cap,1,_,
+- all: 2,,cap0402_cap,c5,1nf,0402_cap,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap0402_cap,c5,1nf,0402_cap,1,_,
+- all: 3,,cap0402_cap,c2_c3_c4,0_1uf,0402_cap,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,cap0402_cap,c2_c3_c4,0_1uf,0402_cap,3,_,
+- all: 4,,m01pth,jp4_jp5,m01pth,1x01,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,m01pth,jp4_jp5,m01pth,1x01,2,_,
+- all: 5,,m01pth_2mm,jp1_jp2,m01pth_2mm,1x01_2mm,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,m01pth_2mm,jp1_jp2,m01pth_2mm,1x01_2mm,2,_,
+- all: 6,,m03pth,jp3,m03pth,1x03,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,m03pth,jp3,m03pth,1x03,1,_,
+- all: 7,,resistor0402_res,r2,1k,0402_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,resistor0402_res,r2,1k,0402_res,1,_,
+- all: 8,,resistor0402_res,r1,47k,0402_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,resistor0402_res,r1,47k,0402_res,1,_,
+- all: 9,,trimpotsmd,r3_r4,trimpotsmd,trimpot_3mm,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,trimpotsmd,r3_r4,trimpotsmd,trimpot_3mm,2,_,
+- all: 10,,acs712,u1,acs712,so08,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,acs712,u1,acs712,so08,1,_,
+- all: 11,,opa344,u2,opa344,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,opa344,u2,opa344,sot23_5,1,_,
+- all: 12,,logo_sfenew,u$2,logo_sfenew,sfe_new_weblogo,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,logo_sfenew,u$2,logo_sfenew,sfe_new_weblogo,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_05_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_05
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,12_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,12
+- all: component_count_,17_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,17_(0_smd_0_tht)
+- all: fitted_components_,17_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,17_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,17_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,17
 projects_flat: projects_flat/sparkfun_low_current_sensor_breakout_acs712/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_low_current_sensor_breakout_acs712/version_current/working
 projects_folder: projects_folder/sparkfun/Low_Current_Sensor_Breakout-ACS712/version_current/working

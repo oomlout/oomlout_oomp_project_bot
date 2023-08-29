@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_max31855k_thermocouple_breakout\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_max31855k_thermocouple_breakout
 oomp_key_simple: projects_flat_sparkfun_max31855k_thermocouple_breakout
+parts_verbose:
+- all: 1,,10nf_10000pf_50v_10%(0603),c2,10nf,0603_cap,1,_,,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: 1,,10nf_10000pf_50v_10%(0603),c2,10nf,0603_cap,1,_,,,,
+- all: 2,,0_1uf_25v(_80_20%)(0603),c1,0_1uf,0603_cap,1,_,,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: 2,,0_1uf_25v(_80_20%)(0603),c1,0_1uf,0603_cap,1,_,,,,
+- all: 3,,frame_letter,frame1,_version,creative_commons,1,_,,brent_wilkins,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: 3,,frame_letter,frame1,_version,creative_commons,1,_,,brent_wilkins,,
+- all: 4,,pcb_thermocouple,jp2,pcb_thermocouple,pcc_smp,1,_,,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: 4,,pcb_thermocouple,jp2,pcb_thermocouple,pcc_smp,1,_,,,,
+- all: 5,,inductor0603,l1_l2,470ohm,0603,2,_,,,nduc_12579,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: 5,,inductor0603,l1_l2,470ohm,0603,2,_,,,nduc_12579,
+- all: 6,,oshw_logos,logo1_logo4,oshw_logos,oshw_logo_s,2,_,,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: 6,,oshw_logos,logo1_logo4,oshw_logos,oshw_logo_s,2,_,,,,
+- all: 7,,sfe_logo_name_flame_1_inch,logo2_logo3,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,2,_,,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: 7,,sfe_logo_name_flame_1_inch,logo2_logo3,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,2,_,,,,
+- all: 8,,10kohm_1_10w_1%(0603)0603,r1,10k,0603_res,1,_,,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: 8,,10kohm_1_10w_1%(0603)0603,r1,10k,0603_res,1,_,,,,
+- all: 9,,stand_off,standoff1_standoff4,stand_off,stand_off,2,_,,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: 9,,stand_off,standoff1_standoff4,stand_off,stand_off,2,_,,,,
+- all: 10,,max31855k,u1,max31855k,soic8,1,_,,,ic_12578,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: 10,,max31855k,u1,max31855k,soic8,1,_,,,ic_12578,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: revision_,
+- all: date_,2023_08_06_12_56_06_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: date_,2023_08_06_12_56_06
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: statistics_
+- all: component_groups_,11_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: component_groups_,11
+- all: component_count_,15_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: component_count_,15_(0_smd_0_tht)
+- all: fitted_components_,14_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: fitted_components_,14_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: number_of_pcbs_,1
+- all: total_components_,14_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,designer,prod_id,vcc: total_components_,14
 projects_flat: projects_flat/sparkfun_max31855k_thermocouple_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_max31855k_thermocouple_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/MAX31855K_Thermocouple_Breakout/version_current/working

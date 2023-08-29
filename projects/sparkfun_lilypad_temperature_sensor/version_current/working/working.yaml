@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lilypad_temperature_sensor\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lilypad_temperature_sensor
 oomp_key_simple: projects_flat_sparkfun_lilypad_temperature_sensor
+parts_verbose:
+- all: 1_temp_0,temps0,temp_0_petal_small_2side_3_sewtap6___
+  designation: sewtap6
+  designator: temp_0
+  footprint: petal_small_2side
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_temp_0,temps0,temp_0_petal_small_2side_3_sewtap6___
+  designation: sewtap6
+  designator: temps0
+  footprint: petal_small_2side
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_temp_0,temps0,temp_0_petal_small_2side_3_sewtap6___
+  designation: sewtap6
+  designator: temp_0
+  footprint: petal_small_2side
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_temp3,temp1,temp2_petal_nohole_2side_3_sewtap_nohole2___
+  designation: sewtap_nohole2
+  designator: temp3
+  footprint: petal_nohole_2side
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_temp3,temp1,temp2_petal_nohole_2side_3_sewtap_nohole2___
+  designation: sewtap_nohole2
+  designator: temp1
+  footprint: petal_nohole_2side
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_temp3,temp1,temp2_petal_nohole_2side_3_sewtap_nohole2___
+  designation: sewtap_nohole2
+  designator: temp2
+  footprint: petal_nohole_2side
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_u1_sot23_3_1_mcp9700___
+  designation: mcp9700
+  designator: u1
+  footprint: sot23_3
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_c1_0603_cap_1_0_1uf___
+  designation: 0_1uf
+  designator: c1
+  footprint: 0603_cap
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_u$2_logo_lilypad_1_logo_lplp___
+  designation: logo_lplp
+  designator: u$2
+  footprint: logo_lilypad
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_lilypad_temperature_sensor/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lilypad_temperature_sensor/version_current/working
 projects_folder: projects_folder/sparkfun/LilyPad_Temperature_Sensor/version_current/working

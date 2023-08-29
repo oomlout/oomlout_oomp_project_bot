@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\tinkerforge_industrial_digital_in_4_v2_bricklet\version_current\working
 oomp_key: oomp_projects_flat_tinkerforge_industrial_digital_in_4_v2_bricklet
 oomp_key_simple: projects_flat_tinkerforge_industrial_digital_in_4_v2_bricklet
+parts_verbose:
+- all: 1,,c,c2,220pf,c0402f,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,c,c2,220pf,c0402f,1,_,
+- all: 2,,c,c4,100nf,c0603f,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,c,c4,100nf,c0603f,1,_,
+- all: 3,,c,c3,1uf,c0603f,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,c,c3,1uf,c0603f,1,_,
+- all: 4,,c,c1,10uf,c0805,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,c,c1,10uf,c0805,1,_,
+- all: 5,,led,d1_d2_d3_d4_d5,blue,d0603f,5,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,led,d1_d2_d3_d4_d5,blue,d0603f,5,_,
+- all: 6,connector_01x02,conn_01x02,p3,boot,solderjumper,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,connector_01x02,conn_01x02,p3,boot,solderjumper,1,_,
+- all: 7,,con_sensor2,p1,con_sensor2,con_sensor2,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,con_sensor2,p1,con_sensor2,con_sensor2,1,_,
+- all: 8,connector_01x01,conn_01x01,p2,debug,debug_pad,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,connector_01x01,conn_01x01,p2,debug,debug_pad,1,_,
+- all: 9,,conn_8,p4,digital_input,oq_8p,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,conn_8,p4,digital_input,oq_8p,1,_,
+- all: 10,,r,r1,1k,r0603f,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,r,r1,1k,r0603f,1,_,
+- all: 11,,r,r2_r3_r4_r5,4_7k,r1210,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,r,r2_r3_r4_r5,4_7k,r1210,4,_,
+- all: 12,4_resistors_pack,r_pack4,rp3,10k,0603x4,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,4_resistors_pack,r_pack4,rp3,10k,0603x4,1,_,
+- all: 13,4_resistors_pack,r_pack4,rp2,1k,0603x4,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,4_resistors_pack,r_pack4,rp2,1k,0603x4,1,_,
+- all: 14,4_resistors_pack,r_pack4,rp1,82,4x0402,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,4_resistors_pack,r_pack4,rp1,82,4x0402,1,_,
+- all: 15,,drill,u3_u4_u5_u6,drill,drill_np,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,drill,u3_u4_u5_u6,drill,drill_np,4,_,
+- all: 16,_dip_16,_quad_dc_optocoupler,_vce_35v,_ctr_50%_,ltv_847,u2,ltv846s,dip_16,1,_,http_www_us_liteon_com_downloads_ltv_817_827_847_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,_dip_16,_quad_dc_optocoupler,_vce_35v,_ctr_50%_,ltv_847,u2,ltv846s,dip_16,1,_,http_www_us_liteon_com_downloads_ltv_817_827_847_pdf
+- all: 17,,xmc1xxx24,u1,xmc1100,qfn24_4x4mm_0_5mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,xmc1xxx24,u1,xmc1100,qfn24_4x4mm_0_5mm,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,2_0_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,2_0
+- all: date_,2023_01_30_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_01_30
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,17_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,17
+- all: component_count_,27_(13_smd_14_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,27_(13_smd_14_tht)
+- all: fitted_components_,27_(13_smd_14_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,27_(13_smd_14_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,27_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,27
 projects_flat: projects_flat/tinkerforge_industrial_digital_in_4_v2_bricklet/version_current/working
 projects_folder: projects_folder/Tinkerforge/industrial-digital-in-4-v2-bricklet/version_current/working
 repo:

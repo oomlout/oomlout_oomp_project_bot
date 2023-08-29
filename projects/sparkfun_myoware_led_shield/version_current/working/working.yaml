@@ -15,6 +15,72 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_myoware_led_shield\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_myoware_led_shield
 oomp_key_simple: projects_flat_sparkfun_myoware_led_shield
+parts_verbose:
+- all: 1,,4_7uf_6_3v_10%(0603)0603,c1_c2,4_7uf,0603_cap,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 1,,4_7uf_6_3v_10%(0603)0603,c1_c2,4_7uf,0603_cap,2,_,,
+- all: 2,,led_green0603,d2,green,led_0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 2,,led_green0603,d2,green,led_0603,1,_,,
+- all: 3,,led_red0603,d1,red,led_0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 3,,led_red0603,d1,red,led_0603,1,_,,
+- all: 4,,sma_b500,d3_d4,sma_b500,led_bar_smd,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 4,,sma_b500,d3_d4,sma_b500,led_bar_smd,2,_,,
+- all: 5,,frame_letter,frame1,frame_letter,creative_commons,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 5,,frame_letter,frame1,frame_letter,creative_commons,1,_,,
+- all: 6,,m021x02_no_silk,jp3,lipo,1x02_no_silk,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 6,,m021x02_no_silk,jp3,lipo,1x02_no_silk,1,_,,
+- all: 7,,m031x03_no_silk,jp1,power,1x03_no_silk,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 7,,m031x03_no_silk,jp1,power,1x03_no_silk,1,_,,
+- all: 8,,m031x03_no_silk,jp2,signal,1x03_no_silk,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 8,,m031x03_no_silk,jp2,signal,1x03_no_silk,1,_,,
+- all: 9,,usb_microb_plugconn_11752,jp4,usb_microb_plugconn_11752,usb_b_micro_smd_v03,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 9,,usb_microb_plugconn_11752,jp4,usb_microb_plugconn_11752,usb_b_micro_smd_v03,1,_,,
+- all: 10,,oshw_logos,logo2,oshw_logos,oshw_logo_s,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 10,,oshw_logos,logo2,oshw_logos,oshw_logo_s,1,_,,
+- all: 11,,sfe_logo_flame_1_inch,logo1,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 11,,sfe_logo_flame_1_inch,logo1,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,,
+- all: 12,,jumper_pad_2_nc_by_trace,mode0,jumper_pad_2_nc_by_trace,pad_jumper_2_nc_by_trace_yes_silk,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 12,,jumper_pad_2_nc_by_trace,mode0,jumper_pad_2_nc_by_trace,pad_jumper_2_nc_by_trace_yes_silk,1,_,,
+- all: 13,,330ohm1_10w1%(0603),r3_r5,330,0603_res,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 13,,330ohm1_10w1%(0603),r3_r5,330,0603_res,2,_,,
+- all: 14,,r_us_r0603,r1,6_49k,r0603,1,_,,res_13202_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 14,,r_us_r0603,r1,6_49k,r0603,1,_,,res_13202
+- all: 15,,r_us_r0603,r2,7_5k,r0603,1,_,,res_13203_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 15,,r_us_r0603,r2,7_5k,r0603,1,_,,res_13203
+- all: 16,,10kohm_1_10w_1%(0603)0603,r4,10k,0603_res,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 16,,10kohm_1_10w_1%(0603)0603,r4,10k,0603_res,1,_,,
+- all: 17,,lm391v,u2,lm391v,plcc20s,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 17,,lm391v,u2,lm391v,plcc20s,1,_,,
+- all: 18,,mcp73831,u1,mcp73831,sot23_5,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 18,,mcp73831,u1,mcp73831,sot23_5,1,_,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: revision_,
+- all: date_,2023_08_06_12_56_10_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: date_,2023_08_06_12_56_10
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: statistics_
+- all: component_groups_,18_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_groups_,18
+- all: component_count_,21_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_count_,21_(0_smd_0_tht)
+- all: fitted_components_,21_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: fitted_components_,21_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: number_of_pcbs_,1
+- all: total_components_,21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: total_components_,21
 projects_flat: projects_flat/sparkfun_myoware_led_shield/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_myoware_led_shield/version_current/working
 projects_folder: projects_folder/sparkfun/MyoWare_LED_Shield/version_current/working

@@ -15,6 +15,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_ft245rl_breakout\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_ft245rl_breakout
 oomp_key_simple: projects_flat_sparkfun_ft245rl_breakout
+parts_verbose:
+- all: 1_c2,c3_0402_cap_2_0_1uf___
+  designation: 0_1uf
+  designator: c2
+  footprint: 0402_cap
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_c2,c3_0402_cap_2_0_1uf___
+  designation: 0_1uf
+  designator: c3
+  footprint: 0402_cap
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_u1_ssop28db_1_ft245rl___
+  designation: ft245rl
+  designator: u1
+  footprint: ssop28db
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_jp3,jp4_fiducial_1x2_2_fiducial1x2___
+  designation: fiducial1x2
+  designator: jp3
+  footprint: fiducial_1x2
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_jp3,jp4_fiducial_1x2_2_fiducial1x2___
+  designation: fiducial1x2
+  designator: jp4
+  footprint: fiducial_1x2
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_sj1_sj_2s_notrace_1_solderjumpernc2___
+  designation: solderjumpernc2
+  designator: sj1
+  footprint: sj_2s_notrace
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_jp1,jp2_1x09_2_m09___
+  designation: m09
+  designator: jp1
+  footprint: 1x09
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_jp1,jp2_1x09_2_m09___
+  designation: m09
+  designator: jp2
+  footprint: 1x09
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_x2_usb_minib_1_usbsmd___
+  designation: usbsmd
+  designator: x2
+  footprint: usb_minib
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_c1_cpol_1206_1_10uf___
+  designation: 10uf
+  designator: c1
+  footprint: cpol_1206
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_u$1_sfe_new_weblogo_1_logo_sfenew___
+  designation: logo_sfenew
+  designator: u$1
+  footprint: sfe_new_weblogo
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_ft245rl_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_ft245rl_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/FT245RL_Breakout/version_current/working

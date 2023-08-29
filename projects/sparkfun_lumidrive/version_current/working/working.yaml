@@ -15,6 +15,97 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lumidrive\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lumidrive
 oomp_key_simple: projects_flat_sparkfun_lumidrive
+parts_verbose:
+- all: 1,,0_1uf_0603_25v_(_80_20%),c2_c4_c5_c10_c12_c14,0_1uf_0603_25v_(_80_20%),0603,6,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 1,,0_1uf_0603_25v_(_80_20%),c2_c4_c5_c10_c12_c14,0_1uf_0603_25v_(_80_20%),0603,6,_,,
+- all: 2,,1_0uf_0805_25v_10%,c8,1_0uf_0805_25v_10%,0805,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 2,,1_0uf_0805_25v_10%,c8,1_0uf_0805_25v_10%,0805,1,_,,
+- all: 3,,15pf_0603_50v_5%,c15_c16,15pf_0603_50v_5%,0603,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 3,,15pf_0603_50v_5%,c15_c16,15pf_0603_50v_5%,0603,2,_,,
+- all: 4,,2_2uf_0603_10v_20%,c9,2_2uf_0603_10v_20%,0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 4,,2_2uf_0603_10v_20%,c9,2_2uf_0603_10v_20%,0603,1,_,,
+- all: 5,,4_7uf_0603_6_3v_(10%),c1_c3,4_7uf_0603_6_3v_(10%),0603,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 5,,4_7uf_0603_6_3v_(10%),c1_c3,4_7uf_0603_6_3v_(10%),0603,2,_,,
+- all: 6,,diode_schottky_bat20j,d1_d3,1a_23v_620mv,sod_323,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 6,,diode_schottky_bat20j,d1_d3,1a_23v_620mv,sod_323,2,_,,
+- all: 7,,led_blue0603,d9,blue,led_0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 7,,led_blue0603,d9,blue,led_0603,1,_,,
+- all: 8,,led_yellow0603,d2,yellow,led_0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 8,,led_yellow0603,d2,yellow,led_0603,1,_,,
+- all: "9,,inductorfb_30ohm,fb1,30\xEE\xA9_1_8a,0603,1,_,,_"
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: "9,,inductorfb_30ohm,fb1,30\xEE\
+    \xA9_1_8a,0603,1,_,,"
+- all: 10,,frame_letter,frame1,frame_letter,creative_commons,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 10,,frame_letter,frame1,frame_letter,creative_commons,1,_,,
+- all: 11,,stand_off,h1_h2_h3_h4,stand_off,stand_off,4,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 11,,stand_off,h1_h2_h3_h4,stand_off,stand_off,4,_,,
+- all: 12,,conn_021x02_no_silk,j1,conn_021x02_no_silk,1x02_no_silk,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 12,,conn_021x02_no_silk,j1,conn_021x02_no_silk,1x02_no_silk,1,_,,
+- all: 13,,conn_02small_pokehome,j3_j4,conn_02small_pokehome,1x02_pokehome,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 13,,conn_02small_pokehome,j3_j4,conn_02small_pokehome,1x02_pokehome,2,_,,
+- all: 14,,conn_06no_silk_female_pth,j5,conn_06no_silk_female_pth,1x06_no_silk,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 14,,conn_06no_silk_female_pth,j5,conn_06no_silk_female_pth,1x06_no_silk,1,_,,
+- all: 15,,jst_2mm_male,j6,jst_2mm_male,jst_2_smd,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 15,,jst_2mm_male,j6,jst_2mm_male,jst_2_smd,1,_,,
+- all: 16,,usb_c16pin,j8,usb_c16pin,usb_c_16p,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 16,,usb_c16pin,j8,usb_c16pin,usb_c_16p,1,_,,
+- all: 17,,oshw_logom,logo1,oshw_logom,oshw_logo_m,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 17,,oshw_logom,logo1,oshw_logom,oshw_logo_m,1,_,,
+- all: 18,,sfe_logo_name_flame_2_inch,logo3,sfe_logo_name_flame_2_inch,sfe_logo_name_flame_2,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 18,,sfe_logo_name_flame_2_inch,logo3,sfe_logo_name_flame_2_inch,sfe_logo_name_flame_2,1,_,,
+- all: 19,,mosfet_pch_dmg2307l,q1,mosfet_pch_dmg2307l,sot23_3,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 19,,mosfet_pch_dmg2307l,q1,mosfet_pch_dmg2307l,sot23_3,1,_,,
+- all: 20,,10kohm_0603_1_10w_1%,r4_r5_r10,10kohm_0603_1_10w_1%,0603,3,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 20,,10kohm_0603_1_10w_1%,r4_r5_r10,10kohm_0603_1_10w_1%,0603,3,_,,
+- all: 21,,1kohm_0603_1_10w_1%,r1_r2,1kohm_0603_1_10w_1%,0603,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 21,,1kohm_0603_1_10w_1%,r1_r2,1kohm_0603_1_10w_1%,0603,2,_,,
+- all: 22,,2_0kohm_0603_1_10w_5%,r3,2_0kohm_0603_1_10w_5%,0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 22,,2_0kohm_0603_1_10w_5%,r3,2_0kohm_0603_1_10w_5%,0603,1,_,,
+- all: 23,,5_1kohm5_1kohm_0603_1_10w_1%,r6_r7,5_1kohm5_1kohm_0603_1_10w_1%,0603,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 23,,5_1kohm5_1kohm_0603_1_10w_1%,r6_r7,5_1kohm5_1kohm_0603_1_10w_1%,0603,2,_,,
+- all: 24,,momentary_switch_spst_2_smd_4_6x2_8mm,s2,btn2,tactile_switch_smd_4_6x2_8mm,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 24,,momentary_switch_spst_2_smd_4_6x2_8mm,s2,btn2,tactile_switch_smd_4_6x2_8mm,1,_,,
+- all: 25,,momentary_switch_spst_2_smd_4_6x2_8mm,s1,reset,tactile_switch_smd_4_6x2_8mm,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 25,,momentary_switch_spst_2_smd_4_6x2_8mm,s1,reset,tactile_switch_smd_4_6x2_8mm,1,_,,
+- all: 26,,atsamd21g_a,u2,atsamd21g_a,tqfp_48,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 26,,atsamd21g_a,u2,atsamd21g_a,tqfp_48,1,_,,
+- all: 27,,mcp73831,u1,mcp73831,sot23_5,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 27,,mcp73831,u1,mcp73831,sot23_5,1,_,,
+- all: 28,,v_reg_ap2112k_3_3v,u3,v_reg_ap2112k_3_3v,sot23_5,1,_,,vreg_12457_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 28,,v_reg_ap2112k_3_3v,u3,v_reg_ap2112k_3_3v,sot23_5,1,_,,vreg_12457
+- all: 29,,w25q32fvss,u4,w25q32fvss,soic_8,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 29,,w25q32fvss,u4,w25q32fvss,soic_8,1,_,,
+- all: 30,,crystal_32_768khzsmd_3_2x1_5,y1,32_768khz,crystal_smd_3_2x1_5mm,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 30,,crystal_32_768khzsmd_3_2x1_5,y1,32_768khz,crystal_smd_3_2x1_5mm,1,_,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: revision_,
+- all: date_,2023_08_06_12_56_06_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: date_,2023_08_06_12_56_06
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: statistics_
+- all: component_groups_,30_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_groups_,30
+- all: component_count_,46_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_count_,46_(0_smd_0_tht)
+- all: fitted_components_,46_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: fitted_components_,46_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: number_of_pcbs_,1
+- all: total_components_,46_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: total_components_,46
 projects_flat: projects_flat/sparkfun_lumidrive/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lumidrive/version_current/working
 projects_folder: projects_folder/sparkfun/LumiDrive/version_current/working
