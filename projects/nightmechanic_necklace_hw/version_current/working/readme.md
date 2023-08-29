@@ -1,28 +1,8 @@
-# OOMP Project  
-## Necklace_HW  by nightmechanic  
-  
-oomp key: oomp_projects_flat_nightmechanic_necklace_hw  
-(snippet of original readme)  
-  
-Necklace_HW  
-===========  
-  
-This repository contains the HW for Gali's Necklace project.  
-It is a Kicad project  
-  
-Copyright Nightmechanic 2014  
-  
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Gali's Necklace</span> by <span xmlns:cc="http://creativecommons.org/ns-" property="cc:attributionName">NIghtmechanic (Ran Katz)</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/nightmechanic/Necklace_HW/" rel="dct:source">https://github.com/nightmechanic/Necklace_HW/</a>.  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/nightmechanic/Necklace_HW](https://github.com/nightmechanic/Necklace_HW)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# Necklace_HW by nightmechanic  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/nightmechanic/Necklace_HW  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

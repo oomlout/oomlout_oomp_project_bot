@@ -1,22 +1,8 @@
-# OOMP Project  
-## hub75shifter  by kiu  
-  
-oomp key: oomp_projects_flat_kiu_hub75shifter  
-(snippet of original readme)  
-  
-- hub75shifter  
-Modular ticker display  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/kiu/hub75shifter](https://github.com/kiu/hub75shifter)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# hub75shifter by kiu  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/kiu/hub75shifter  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

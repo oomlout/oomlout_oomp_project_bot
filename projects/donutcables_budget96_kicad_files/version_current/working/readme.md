@@ -1,27 +1,8 @@
-# OOMP Project  
-## Budget96-Kicad-Files  by DonutCables  
-  
-oomp key: oomp_projects_flat_donutcables_budget96_kicad_files  
-(snippet of original readme)  
-  
-- Budget96-Kicad-Files  
- Budget 96key case Kicad Files  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/DonutCables/Budget96-Kicad-Files](https://github.com/DonutCables/Budget96-Kicad-Files)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3d.png](working_3d_140.png)](working_3d.png)  
-  
-[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
-  
-[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  
+
+# Budget96-Kicad-Files by DonutCables  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/DonutCables/Budget96-Kicad-Files  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

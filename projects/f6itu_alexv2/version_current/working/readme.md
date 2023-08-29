@@ -1,61 +1,8 @@
-# OOMP Project  
-## AlexV2  by F6ITU  
-  
-oomp key: oomp_projects_flat_f6itu_alexv2  
-(snippet of original readme)  
-  
-- Alexandrie_V2  
-  
-Dual ADC OpenHPSDR frontend control board  
-  
-Kicad files  
-  
-* Control board for Alexiares filter set driven by an Orion/OrionMK2/Anvelina SDR board with dual 16 bits ADC  
-  
-![aka "Alexandrie V2](https://github.com/F6ITU/AlexV2/blob/main/AlexV2_front.jpg)  
-  
-This board supports the SPI "Alexiares" protocol (also called "J15") of   
-the original Hermes SDR board designed by the OpenHPSDR group.  
-  
-This second version drives a dual RX BPF filter.   
-It also remains compatible with older versions of Alex (see assembly notes  
-  
-As the third generation of Alexiares frontend is not sold by Apache but still under an open hardware licence,   
-a new and more "modular" design was needed by many hams wishing to home-build a "Orion class" fontend  
-  
-A common Gerber set of files will be used for both RX filters (one with a "RX2_GND" relay, one with a strap on the relay footprint)  
-  
-TX filter depends on user's choice. The original 150W Alexiares lpf (https://github.com/F6ITU/Alexiares_LPF)  
-or LA2NI Zolotarev 600W LPF (https://github.com/LA2NI/Zolotarev-LPF)  
-This board could also be used with the new Aries ATU/Zolotarev lpf/Munin400 high power frontend  
-  
-This work is protected by the TAPR Open Hardware Licence https://www.tapr.org/ohl.html  
-Original work by Graham Haddock, KE9H and Phil Harman, VK6APH.  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/F6ITU/AlexV2](https://github.com/F6ITU/AlexV2)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
-  
-[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
-  
-[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
-  
-[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
-  
-[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
-  
-[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
-  
-[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
-  
-[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  
+
+# AlexV2 by F6ITU  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/F6ITU/AlexV2  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

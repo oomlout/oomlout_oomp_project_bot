@@ -1,55 +1,8 @@
-# OOMP Project  
-## angle-sensor-board  by cvra  
-  
-oomp key: oomp_projects_flat_cvra_angle_sensor_board  
-(snippet of original readme)  
-  
-﻿- Carte Codeur Absolu  
-  
-![3D rendering of the board](overview.png)  
-  
--- Cahier des charges  
-  
---- Général  
-  
-* Le but de cette carte est de fournir une information de position angulaire absolue, c'est-à-dire un angle par rapport à une position de référence.  
-* La carte se connecte à une carte moteur CVRA pour en augmenter les capacités.  
-* La carte fournit 4096 points par tour.  
-* La carte est assemblable à la main, mais peut nécessiter un pochoir pour les composants SMD.  
-  
---- Electronique  
-  
-* Alimentation: 20mA @ 3.3V.  
-* Connection compatible avec le connecteur de la carte moteur (P3 sur [ce schéma](https://github.com/cvra/motor-control-board/raw/revA/Moteur.pdf).  
-* Interface SPI.  
-* Branchement par un connecteur PicoBlade 5 pin.  
-* LED pour indiquer l’alimentation.  
-* Respecte les [design rules Aisler](https://aisler.net/help/design-rules-and-specifications/design-rules).  
-* Taille des passifs: 0603.  
-  
--- Mécanique  
-  
-* le plus petit possible (13mmx11mm)  
-* 2x demi trous M2 sur bord opposée  
-* connecteur sortie parallèle au PCB, sur face opposée au capteur  
-* LED sur la même face que le connecteur  
-* Capteur centré au milieux des vis  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/cvra/angle-sensor-board](https://github.com/cvra/angle-sensor-board)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3d.png](working_3d_140.png)](working_3d.png)  
-  
-[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
-  
-[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  
+
+# angle-sensor-board by cvra  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/cvra/angle-sensor-board  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

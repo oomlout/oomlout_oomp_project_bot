@@ -1,57 +1,8 @@
-# OOMP Project  
-## Alexiares_HPF  by F6ITU  
-  
-oomp key: oomp_projects_flat_f6itu_alexiares_hpf  
-(snippet of original readme)  
-  
-- Alexiares_HPF  
-This repository contains the High Pass Filter project of the OpenHPSDR Alexiares frontend  
-  
-This work is protected by the TAPR Open Hardware Licence https://www.tapr.org/ohl.html  
-  
-Original work by Graham Haddock, KE9H and Phil Harman, VK6APH.  
-  
-for more informations, please refer to   
-  
-https://wiki.electrolab.fr/Projets:Lab:2017:Peripheriques_Angelia  
-  
-3D image of the board are stored on this repo  
-  
-HPF_top.jpg  
-  
-HPF_bottom.jpg  
-  
-Bom is available in CSV format  
-  
-A separate BOM in XLS format is dedicated to filter capacitors  
-  
-Note that ALL filter caps must be C0G or at least NP0 quality  
-  
-Schematics, pcb design, modules and libs are in Kicad format  
-  
-Gerber files are fully compatible with Protel 4.6 format  
-  
-Board's dimensions are oversized to fit the 5x10 and 10x10cm size of all board of the Hermes project under Kicad:  
-  
-* Alexandrie (Ἀλεξάνδρεια), Alexiares SPI interface  
-* Alexi2C ( Ἄλεξις), Alternate Alexiares I2C interface  
-* Alexiares_lpf (Ἀλεξιάρης) Alexiares low pass filter  
-* Alexiares_hpf (Ἀλεξιάρης) Alexiares high-pass filter  
-* Alexiares_Coax_Out (Ἀλεξιάρης ) Alexiares antenna switch boards  
-* Télémaque (Τηλέμαχος),  SSPA U/V/C°/Refl/FWD sensor for the Mentor board   
-* Mentor (Μέντωρ) Micro-controler unit(MCU) and security module controling Telemaque informations  
-* Ulysse ou Odysseus (Ὀδυσσεύς), medium power reflectometer for the Telemaque/Mentor set  
-* Themis (Θέμις), low power bidirectionnal reflectometer with pre-distorsion (pure signal) output  
-* Aiôn (αἰών), 10 MH  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/F6ITU/Alexiares_HPF](https://github.com/F6ITU/Alexiares_HPF)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# Alexiares_HPF by F6ITU  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/F6ITU/Alexiares_HPF  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

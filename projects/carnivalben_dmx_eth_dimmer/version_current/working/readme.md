@@ -1,25 +1,8 @@
-# OOMP Project  
-## dmx-eth-dimmer  by CarnivalBen  
-  
-oomp key: oomp_projects_flat_carnivalben_dmx_eth_dimmer  
-(snippet of original readme)  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/CarnivalBen/dmx-eth-dimmer](https://github.com/CarnivalBen/dmx-eth-dimmer)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3d.png](working_3d_140.png)](working_3d.png)  
-  
-[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
-  
-[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  
+
+# dmx-eth-dimmer by CarnivalBen  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/CarnivalBen/dmx-eth-dimmer  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

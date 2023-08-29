@@ -1,57 +1,8 @@
-# OOMP Project  
-## Adafruit-STEMMA-Speaker-PCB  by adafruit  
-  
-oomp key: oomp_projects_flat_adafruit_adafruit_stemma_speaker_pcb  
-(snippet of original readme)  
-  
--- Adafruit STEMMA Speaker Plug and Play Audio Amplifier PCB  
-  
-<a href="http://www.adafruit.com/products/3885"><img src="assets/3885.jpg?raw=true" width="500px"><br/>  
-Click here to purchase one from the Adafruit shop</a>  
-  
-PCB files for the Adafruit STEMMA Speaker Plug and Play Audio Amplifier.   
-  
-Format is EagleCAD schematic and board layout  
-* https://www.adafruit.com/product/3885  
-  
---- Description  
-  
-Hey, have you heard the good news? With Adafruit STEMMA boards you can easily and safely plug sensors and devices together, like this Adafruit STEMMA Speaker - Plug and Play Audio Amplifier. Like the name implies, it's got a class D audio amplifier on board, and our favorite little 1 Watt 8 ohm speaker.  
-  
-Connecting it up is easy - you only need ground, 3 to 5V power, and audio signal. The audio signal does not need to be AC coupled, we do that for you, and can range up to the power pin voltage (3 or 5V peak-to-peak). You can use either the 3-pin JST socket or the alligator/sew-pads for this slim and portable package. The sound quality is good enough for music, tones, speech, whatever you like and volume can be adjusted with a small screwdriver.  
-  
-For use with a CircuitPlayground or micro:bit, this JST to alligator-clip cable works best. Red is power, ground is black and signal is white.  
-  
-For use with a breadboard, try this JST to male/plug-header. (We also have a socket-header cable if you want)  
-  
---- License  
-  
-Adafruit invests time and resources providing this open source design, pleas  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB](https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
-  
-[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
-  
-[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
-  
-[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
-  
-[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
-  
-[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
-  
-[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
-  
-[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  
+
+# Adafruit-STEMMA-Speaker-PCB by adafruit  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

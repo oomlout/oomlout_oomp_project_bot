@@ -1,29 +1,8 @@
-# OOMP Project  
-## vw-bus-77-electrical-washer-switch-adapter  by cepr  
-  
-oomp key: oomp_projects_flat_cepr_vw_bus_77_electrical_washer_switch_adapter  
-(snippet of original readme)  
-  
-- vw-bus-77-electrical-washer-switch-adapter  
-Convert your VW bus washer switch to an electrical push button  
-  
-You can purchase it on OSH Park here: https://oshpark.com/shared_projects/CfsMA4pX  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/cepr/vw-bus-77-electrical-washer-switch-adapter](https://github.com/cepr/vw-bus-77-electrical-washer-switch-adapter)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3d.png](working_3d_140.png)](working_3d.png)  
-  
-[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
-  
-[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  
+
+# vw-bus-77-electrical-washer-switch-adapter by cepr  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/cepr/vw-bus-77-electrical-washer-switch-adapter  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

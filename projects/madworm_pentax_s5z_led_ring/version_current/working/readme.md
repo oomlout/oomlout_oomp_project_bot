@@ -1,39 +1,8 @@
-# OOMP Project  
-## Pentax-S5z-LED-ring  by madworm  
-  
-oomp key: oomp_projects_flat_madworm_pentax_s5z_led_ring  
-(snippet of original readme)  
-  
-  
-Pentax-S5z-LED-ring  
-===================  
-  
-LAYOUT FILES: LED ring for my old Pentax S5z digital camera.  
-  
-The center-hole diameter is 28mm and the board slides right over the extended objective.  
-  
-You will find code for this project in [this](https://github.com/madworm/ATtiny_projects/tree/master/13/PT4115_PWM) repository.  
-  
-[![Pentax-S5z-LED-ring](/Docs/pcb.jpg)](/Docs/pcb.jpg)  
-  
-[![Pentax-S5z-LED-ring](/Docs/lights_on.jpg)](/Docs/lights_on.jpg)  
-  
-  
----  
-  
-Before having PC-boards made, please make sure you know about your manufacturer's peculiarities!  
-Especially drill-sizes and their tolerances may vary too much and give you trouble.  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/madworm/Pentax-S5z-LED-ring](https://github.com/madworm/Pentax-S5z-LED-ring)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# Pentax-S5z-LED-ring by madworm  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/madworm/Pentax-S5z-LED-ring  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

@@ -1,74 +1,8 @@
-# OOMP Project  
-## LilyPixel  by sparkfun  
-  
-oomp key: oomp_projects_flat_sparkfun_lilypixel  
-(snippet of original readme)  
-  
-LilyPad Pixel Board  
-===================  
-  
-![LilyPad Pixel](https://cdn.sparkfun.com//assets/parts/1/0/4/7/0/13264-02.jpg)  
-  
-[*LilyPad Pixel Board (DEV-13264)*](https://www.sparkfun.com/products/13264)  
-  
-This is a sewable single RGB LEDThe pixel board is equipped with a WS2812. This is an RGB LED with an WS2811 built right into the LED.   
-These can be chained together to form a display or an addressable string.   
-  
-Repository Contents  
--------------------  
-* **/Hardware** - All Eagle design files (.brd, .sch)  
-* **/Production** - Test bed files and production panel files  
-  
-Product Versions  
-----------------  
-* [DEV-13264](https://www.sparkfun.com/products/13264)- Version 1.1. Currently live.   
-* [DEV-11891](https://www.sparkfun.com/products/11891)- Version 1.0. Retired.  
-  
-Version History  
----------------  
-* [V_1.1](https://github.com/sparkfun/LilyPixel/tree/V_1.1) - GitHub files version 1.1  
-* [V_1.0](https://github.com/sparkfun/LilyPixel/tree/V_1.0) - GitHub files version 1.0  
-  
-License Information  
--------------------  
-  
-This product is _**open source**_!   
-  
-Please review the LICENSE.md file for license information.   
-  
-If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.  
-  
-Distributed as-is; no warranty is given.  
-  
-- Your friends at SparkFun.  
-  
-_**Note:** A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles._  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/sparkfun/LilyPixel](https://github.com/sparkfun/LilyPixel)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
-  
-[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
-  
-[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
-  
-[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
-  
-[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
-  
-[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
-  
-[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
-  
-[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  
+
+# LilyPixel by sparkfun  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/sparkfun/LilyPixel  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

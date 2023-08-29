@@ -1,23 +1,8 @@
-# OOMP Project  
-## CH340E-MB  by rocketscream  
-  
-oomp key: oomp_projects_flat_rocketscream_ch340e_mb  
-(snippet of original readme)  
-  
-- CH340E-MB  
-CH340E USB-Serial Adapter  
-  
-![picture](image/CH340E-MB.jpg)  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/rocketscream/CH340E-MB](https://github.com/rocketscream/CH340E-MB)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# CH340E-MB by rocketscream  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/rocketscream/CH340E-MB  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

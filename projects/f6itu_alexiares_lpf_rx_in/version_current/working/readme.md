@@ -1,63 +1,8 @@
-# OOMP Project  
-## Alexiares_LPF_RX_In  by F6ITU  
-  
-oomp key: oomp_projects_flat_f6itu_alexiares_lpf_rx_in  
-(snippet of original readme)  
-  
-- Alexiares_LPF_RX_In  
-  
-THIS PROJECT IS DEPRECATED. DO NOT USE IT WITH ANGELIA/ALEX ARCHITECTURE  
-(could be used as a simple lpf with notch for any other short waves sdr project  
-  
-Alex RX 7th order lpf with 88-108 rejection notch  
-  
-This repository contains the High Pass Filter project of the OpenHPSDR Alexiares frontend  
-  
-Originaly, this filter is located on the RX, HPF board of Alexiares.   
-As the size of this hpf board is limited, it has been decided to   
-put this lpf and the TX/RX relay (RXpath and Pure Signal path) on a   
-specific board.  
-  
-The filter is a 7th order lpf with 2 notch rejection frequecies   
-centered on the FM broadcast band (88 and 108 MHz). Thus, very strong  
-FM radio station will not be received in the 4th Nyquist zone of   
-the SDR.  
-  
-A "watertight" rf shielding could be placed around the board or around   
-the filter itself.   
-  
-The file lpf input.PNG gives a simulation of this filter  
-  
-Part of this work is protected by the TAPR Open Hardware Licence https://www.tapr.org/ohl.html  
-  
-Original work by Graham Haddock, KE9H and Phil Harman, VK6APH.  
-  
-  
-Board's dimensions are undersized to fit the 10x10cm   
-size of all board of the Hermes project under Kicad:   
-  
-AlexI2C  
-  
-Alexandrie  
-  
-Alexiares_Coax_Out   
-  
-Alexiares_HPF   
-  
-Alexiares_LPF  
-  
-Mentor  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/F6ITU/Alexiares_LPF_RX_In](https://github.com/F6ITU/Alexiares_LPF_RX_In)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# Alexiares_LPF_RX_In by F6ITU  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/F6ITU/Alexiares_LPF_RX_In  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

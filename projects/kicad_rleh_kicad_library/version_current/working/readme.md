@@ -1,38 +1,8 @@
-# OOMP Project  
-## kicad-library  by kicad-rleh  
-  
-oomp key: oomp_projects_flat_kicad_rleh_kicad_library  
-(snippet of original readme)  
-  
-KiCad Library  
-=============  
-  
-This repository contains the official schematic and 3D libraries supported by the KiCad library team.  
-  
-The footprint libraries are the `*.pretty` repos themselves and are used online by default. If you want to download them locally, the `library-repos-install.bat` and `library-repos-install.sh` scripts [in the KiCad source](http://bazaar.launchpad.net/~kicad-product-committers/kicad/product/files/head:/scripts/) can do this automatically.  
-  
-  
-How to Contribute  
-=================  
-  
-Please, check the [CONTRIBUTING.md](CONTRIBUTING.md) file, or refer to the [Wiki Page](https://github.com/KiCad/kicad-library/wiki/How-To-Contribute).  
-  
-Further Information  
-===================  
-  
-* [KiCad Website](http://kicad-pcb.org/contribute/librarians/)  
-* [KiCad Library Convention](https://github.com/KiCad/kicad-library/wiki/Kicad-Library-Convention) (KLC)  
-* [KiCad Library Wiki](https://github.com/KiCad/kicad-library/wiki)  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/kicad-rleh/kicad-library](https://github.com/kicad-rleh/kicad-library)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# kicad-library by kicad-rleh  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/kicad-rleh/kicad-library  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

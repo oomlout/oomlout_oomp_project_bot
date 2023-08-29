@@ -1,19 +1,8 @@
-# OOMP Project  
-## FRM16_Relay_Module_I2C_Controller  by Junes-PhD  
-  
-oomp key: oomp_projects_flat_junes_phd_frm16_relay_module_i2c_controller  
-(snippet of original readme)  
-  
-- FRM16_Relay_Module_I2C_Controller  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/Junes-PhD/FRM16_Relay_Module_I2C_Controller](https://github.com/Junes-PhD/FRM16_Relay_Module_I2C_Controller)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# FRM16_Relay_Module_I2C_Controller by Junes-PhD  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/Junes-PhD/FRM16_Relay_Module_I2C_Controller  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

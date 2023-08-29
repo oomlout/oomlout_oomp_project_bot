@@ -13,21 +13,6 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cepr_vw_bus_77_electrical_washer_switch_adapter\version_current\working
 oomp_key: oomp_projects_flat_cepr_vw_bus_77_electrical_washer_switch_adapter
 oomp_key_simple: projects_flat_cepr_vw_bus_77_electrical_washer_switch_adapter
-parts_oomp:
-- all: 1_sw1_sw_push_6mm_1_sw_push_dual___
-  designator: sw1
-  name: unmatched
-  oomp_part_id: unmatched
-  part_verbose: &id001
-    all: 1_sw1_sw_push_6mm_1_sw_push_dual___
-    designation: sw_push_dual
-    designator: sw1
-    footprint: sw_push_6mm
-    id: '1'
-    quantity: '1'
-    supplier_and_ref: ''
-parts_verbose:
-- *id001
 projects_flat: projects_flat/cepr_vw_bus_77_electrical_washer_switch_adapter/version_current/working
 projects_folder: projects_folder/cepr/vw-bus-77-electrical-washer-switch-adapter/version_current/working
 repo:

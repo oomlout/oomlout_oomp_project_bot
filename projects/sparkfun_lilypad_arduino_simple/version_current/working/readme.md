@@ -1,41 +1,8 @@
-# OOMP Project  
-## LilyPad_Arduino_Simple  by sparkfun  
-  
-oomp key: oomp_projects_flat_sparkfun_lilypad_arduino_simple  
-(snippet of original readme)  
-  
-LilyPad Arduino Simple  
-======================  
-  
-![LilyPad Arduino Simple Board](https://cdn.sparkfun.com//assets/parts/4/6/6/3/10274-01c.jpg)  
-  
-[*LilyPad Arduino Simple Board (DEV-10274)*](https://www.sparkfun.com/products/10274)  
-  
-This LilyPad board is smaller than the LilyPad Main Board, with fewer pins. However, it does have a   
-built-in power supply socket, and an on/off switch.   
-  
-Repository Contents  
--------------------  
-  
-* **/Hardware** - All Eagle design files (.brd, .sch, .STL)  
-* **/Production** - Test bed files and production panel files  
-  
-License Information  
--------------------  
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).  
-The code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!  
-  
-Distributed as-is; no warranty is given.  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/sparkfun/LilyPad_Arduino_Simple](https://github.com/sparkfun/LilyPad_Arduino_Simple)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# LilyPad_Arduino_Simple by sparkfun  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/sparkfun/LilyPad_Arduino_Simple  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

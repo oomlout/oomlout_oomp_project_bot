@@ -1,24 +1,8 @@
-# OOMP Project  
-## Q916  by mhorimoto  
-  
-oomp key: oomp_projects_flat_mhorimoto_q916  
-(snippet of original readme)  
-  
-- Q916  
-  
-モノレールカメラのスイッチ周囲の回路図  
-  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/mhorimoto/Q916](https://github.com/mhorimoto/Q916)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# Q916 by mhorimoto  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/mhorimoto/Q916  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

@@ -1,56 +1,8 @@
-# OOMP Project  
-## nucleo144-shield  by cvra  
-  
-oomp key: oomp_projects_flat_cvra_nucleo144_shield  
-(snippet of original readme)  
-  
-- CVRA Nucleo144 shield  
-  
-![assembled PCB](/shield.jpg)  
-  
--- Requirements list  
-* Alim en entrée  
- - 5V, bus + nucleo + shield (borne à visser)  
- - 6V, servo (borne à visser)  
-* debug connector  
-* 2x CAN interface with CAN transceiver:  
-  - 6x Connector for one CAN interface (mounted as needed)  
-  - 3x Connector for other CAN interface (mounted as needed)  
-* Interface panel connector (20 pin)  
-  - 5V, GND (2 pin)  
-  - 2x CAN for debug (1 for each interface) (4 pin)  
-  - RGB LED (3 GPIO to control) (3 pin)  
-  - I/O (11 pin)  
-* 15x RC-Servo output: connecteur 3pin 2.54mm standard (+,-,signal). use PWM if available and GPIO for the rest (software PWM)  
-* 2x Encoder connector (5-pin Molex CHA, CHB, CHN, 5V, GND)  
-(3x Encoder connector if I/O available on MCU)  
-* Additional connectors (if I/O available on MCU)  
-  - 1x I2C Molex  
-  - 1x UART Molex  
-  - 1x SPI Molex  
-  - 4x GPIO (with 4x GND) on 2.54mm standard pin holes (no connector)  
-  - 1x 5V power to power board and distribute over CAN  
-* SDCard/SPI-flash for logging  
-* Mechanical dimension  
-  - Width and length, max same as Nucleo-144 board (70mmx108mm)  
-  - Maximum mechanical available space including output cable for Nucleo board and shield ( height = 36mm, lenght = 136.5mm)  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/cvra/nucleo144-shield](https://github.com/cvra/nucleo144-shield)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3d.png](working_3d_140.png)](working_3d.png)  
-  
-[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
-  
-[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  
+
+# nucleo144-shield by cvra  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/cvra/nucleo144-shield  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

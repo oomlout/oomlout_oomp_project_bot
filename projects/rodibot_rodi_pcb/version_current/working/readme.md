@@ -1,57 +1,8 @@
-# OOMP Project  
-## rodi-pcb  by rodibot  
-  
-oomp key: oomp_projects_flat_rodibot_rodi_pcb  
-(snippet of original readme)  
-  
-- rodi-pcb  
-Schematic and board files for RoDI (Robot Didáctico inalámbrico)  
-  
--- Pin assignment  
-  
---- Ultraonic Sensors (HC-SR04)  
-  
-| Module        | ATEMGA328 Pin Name | Arduino Pin Name |  
-| ------------- | :-------------:    | :-------------:  |  
-| LEFT_US_TRIG  | PC3                | A3               |  
-| LEFT_US_ECHO  | PD2                | 2                |  
-| CENTER_US_TRIG| PB4                | 12               |  
-| CENTER_US_ECHO| PC0                | A0               |  
-| RIGHT_US_TRIG | PB1                | 9                |  
-| RIGHT_US_ECHO | PB2                | 10               |  
-  
---- IMU (MPU6050)  
-  
-| Module        | ATEMGA328 Pin Name | Arduino Pin Name |  
-| ------------- | :-------------:    | :-------------:  |  
-| IMU_SDA       | PC4                | A4               |  
-| IMU_SCL       | PC5                | A5               |  
-  
---- Leds and buzzer  
-  
-| Module        | ATEMGA328 Pin Name | Arduino Pin Name |  
-| ------------- | :-------------:    | :-------------:  |  
-| WS2812b       | PB3                | 11               |  
-| USER_LED      | PB5                | 13               |  
-| BUZZER        | PD7                | 7                |  
-  
---- Servos and Hall effect sensors  
-  
-| Module        | ATEMGA328 Pin Name | Arduino Pin Name |  
-| ------------- | :-------------:    | :-------------:  |  
-| LEFT_SERVO    | PD4                | 4                |  
-| RIGHT_SERVO   | PD5                | 5                |  
-| LEFT_HALL     | PD3                | 3                |  
-| RIGHT_HALL      
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/rodibot/rodi-pcb](https://github.com/rodibot/rodi-pcb)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# rodi-pcb by rodibot  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/rodibot/rodi-pcb  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

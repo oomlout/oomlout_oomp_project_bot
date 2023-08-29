@@ -1,34 +1,8 @@
-# OOMP Project  
-## Qwiic_Pressure-MS5637  by sparkfunX  
-  
-oomp key: oomp_projects_flat_sparkfunx_qwiic_pressure_ms5637  
-(snippet of original readme)  
-  
-SparkFun Qwiic Pressure with MS5637  
-========================================  
-  
-![SparkFun Pressure Sensor (Qwiic) - MS5637](https://cdn.sparkfun.com//assets/parts/1/2/8/9/3/14688-Pressure_Sensor__Qwiic__-_MS5637-01.jpg)  
-  
-[*SparkX Pressure Sensor (Qwiic) - MS5637 (SPX-14688)*](https://www.sparkfun.com/products/14688)  
-  
-MEMs based barometric pressure sensors are quite common these days. The Qwiic Pressure Sensor with the MS5637 shines by being the most sensitive barometric pressure sensor we have come across. It is capable of detecting the difference in 13cm of air! And the MS5637 is low cost and easy to use.  
-  
-The Qwiic Pressure Sensor for the MS5637 is a very sensitive, fully calibrated, low power, easy to use barometric pressure sensor capable of detecting a change of as little as 13cm of air! The Qwiic Pressure Sensor is perfect for home weather stations, detecting changes in altitude, and pneumatic based switches or actuators.  
-  
-The original manufacturer TE has written a great Arduino library for the device. We've added a heap of examples and new functions to make the sensor even easier to use. Search the Arduino Library manager for 'SparkFun MS5637' to get the latest library features.  
-  
-This board is one of our many [Qwiic](https://www.sparkfun.com/qwiic) compatible boards! Simply plug and go. No soldering, no figuring out which is SDA or SCL, and no voltage regulation or translation required!  
-  
-SparkFun labored with love to create this code. Feel like supporting open source ha  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/sparkfunX/Qwiic_Pressure-MS5637](https://github.com/sparkfunX/Qwiic_Pressure-MS5637)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# Qwiic_Pressure-MS5637 by sparkfunX  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/sparkfunX/Qwiic_Pressure-MS5637  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

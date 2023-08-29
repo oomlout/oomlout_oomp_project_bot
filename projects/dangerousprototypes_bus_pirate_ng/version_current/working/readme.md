@@ -1,23 +1,8 @@
-# OOMP Project  
-## bus_pirate_ng  by DangerousPrototypes  
-  
-oomp key: oomp_projects_flat_dangerousprototypes_bus_pirate_ng  
-(snippet of original readme)  
-  
-- bus_pirate_ng  
-Bus Pirate NG firmware and hardware  
-  
-Check the blog at http://dangerousprototypes.com/blog/2018/09/13/prototype-bus-pirate-next-gen-v1/  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/DangerousPrototypes/bus_pirate_ng](https://github.com/DangerousPrototypes/bus_pirate_ng)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# bus_pirate_ng by DangerousPrototypes  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/DangerousPrototypes/bus_pirate_ng  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

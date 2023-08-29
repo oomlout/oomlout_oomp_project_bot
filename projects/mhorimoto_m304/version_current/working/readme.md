@@ -1,29 +1,8 @@
-# OOMP Project  
-## M304  by mhorimoto  
-  
-oomp key: oomp_projects_flat_mhorimoto_m304  
-(snippet of original readme)  
-  
-- M304  
-UECS Controller Shield for Arduino MEGA I/F  
-  
-  
--- PARTS  
-  
---- NIC  
-  
-Tzt smart electronics USR-ES  
-https://ja.aliexpress.com/item/4000226162371.html?spm=a2g0o.productlist.0.0.108b556fFrPpIG&algo_pvid=0f65874c-7d38-4736-bc98-e0055426879e&algo_exp_id=0f65874c-7d38-4736-bc98-e0055426879e-11&pdp_ext_f=%7B%22sku_id%22%3A%2210000000891679931%22%7D&pdp_npi=2%40dis%21JPY%21%21563.0%21%21%21311.0%21%21%402101e9d116535463700423560e6ebc%2110000000891679931%21sea  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/mhorimoto/M304](https://github.com/mhorimoto/M304)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# M304 by mhorimoto  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/mhorimoto/M304  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

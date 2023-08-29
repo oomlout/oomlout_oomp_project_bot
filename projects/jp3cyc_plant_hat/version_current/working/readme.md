@@ -1,48 +1,8 @@
-# OOMP Project  
-## plant-hat  by jp3cyc  
-  
-oomp key: oomp_projects_flat_jp3cyc_plant_hat  
-(snippet of original readme)  
-  
-- plant-hat  
-ラズパイで植物の水やりをするための基板  
-  
-- 機能  
-  - 12V入力対応（ラズパイ用USB電源不要）  
-  - 12VモータPWM駆動回路搭載  
-  - I2C用コネクタ搭載  
-  - ユニバーサル基板エリアあり  
-  - 3cm角ファン搭載可能  
-  
-- 使い方  
--- 電源ON  
-  DCジャックに12V電源を差し込み，スイッチをONにするとラズパイが起動します．（Rev1基板ではON-OFFの印刷が逆転しています）  
+
+# plant-hat by jp3cyc  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/jp3cyc/plant-hat  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
     
--- GPIO操作  
-  - J7コネクタはGPIO 35，J6コネクタは32番に接続されています．  
-  - GPIO35番をONにしたいときは，GPIO35の出力をHにしてください．  
-  - GPIO35，GPIO32はPWM出力に対応しているので，PWM出力が可能です（未検証）  
-  - ラズパイのGPIOを操作できればソフトウェアは何でも使えます（例：C，Python，Node-redなど）  
-  
--- 利用上の注意  
-Raspberry Piの時計のタイマーは符号付き32bit intで実装されている都合上，2038年1月19日12時14分7秒(JST)を超えると，1901年にタイムスリップします．  
-そのため，2038年1月19日12時14分7秒をまたぐ水やりを行うと，プログラムの実装によっては水が出続ける可能性があります．  
-ご利用時はご注意ください．  
-  
-参考文献  
-https://ja.wikipedia.org/wiki/2038%E5%B9%B4%E5%95%8F%E9%A1%8C  
-  
-https://www.youtube.com/watch?v=WLyIPslm_rw  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/jp3cyc/plant-hat](https://github.com/jp3cyc/plant-hat)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  

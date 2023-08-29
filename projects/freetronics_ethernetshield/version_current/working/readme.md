@@ -1,63 +1,8 @@
-# OOMP Project  
-## EthernetShield  by freetronics  
-  
-oomp key: oomp_projects_flat_freetronics_ethernetshield  
-(snippet of original readme)  
-  
-Freetronics Ethernet Shield  
-===========================  
-Copyright 2010-2012 Freetronics Pty Ltd    
-Freetronics site:  www.freetronics.com    
-Freetronics email: info@freetronics.com    
-  
-10/100base-T Ethernet shield for the Freetronics Eleven, Arduino Uno,  
-and other boards compatible with the R3 header format.  
-  
-Includes significant prototyping area using the spare shield area, and  
-supports Power-over-Ethernet (PoE) using either simple jumpers for DIY  
-PoE or a daughter-board module for full standards-compliant PoE.  
-  
-Features:  
-  
- * Prototyping area.  
- * 10/100Base-T connectivity.  
- * Power-over-Ethernet "PD" (powered device) support.  
- * Activity / status indicators.  
- * Reset button wired through to Arduino reset pin.  
- * Wiznet W5100 IC reset circuit.  
- * SPI bus contention fixed for W5100 IC.  
- * Parts overlay on both the top and the bottom.  
-  
-  
-More information is available on our product page at:  
-  
-  http://www.freetronics.com/ethernet  
-  
-The "docs" folder within this repository includes a handy copy of the  
-schematic in PDF format and image(s) of the pcb.  
-  
-  
-INSTALLATION  
-------------  
-The design is saved as an EAGLE project. EAGLE PCB design software is  
-available from www.cadsoftusa.com free for non-commercial use. To use  
-this project download it and place the directory containing these files  
-into the "eagle" directory on your computer. Then open EAGLE and  
-navigate to Projects -> eagle -> EthernetShieldR3.  
-  
-  
-DISTRIBUTION  
-------------  
-The specific terms of distribution of this project are gove  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/freetronics/EthernetShield](https://github.com/freetronics/EthernetShield)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# EthernetShield by freetronics  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/freetronics/EthernetShield  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

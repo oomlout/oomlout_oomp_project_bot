@@ -1,52 +1,8 @@
-# OOMP Project  
-## front-panel-board  by cvra  
-  
-oomp key: oomp_projects_flat_cvra_front_panel_board  
-(snippet of original readme)  
-  
-- Front Panel PCB  
-  
-![CAD view of the board](front-panel-board.png)  
-![Board dimensions](board-dimensions.png)  
-  
-This small PCB is used to expose debug and HMI signals from inside the robot to  
-the external world through a front panel. The main goal is to simplify the  
-wiring and have a sturdy mount.  
-  
-  
--- Requirements  
-  
-* USB Forwarding: Picoblade -> USB  
-* Ethernet forwarding: Picoblade -> RJ45  
-* CVRA debug forwarding  
-* CAN forwardig  
-* 6 LEDS + Team selection indication (RGB)  
-* 2 buttons for team selection  
-* Connector for the hall sensor starter: 5V, Signal, GND  
-* One connector to the nucleo shield for all GPIOs  
-* Max width: 80 mm, but lower is better  
-* Max length: 30mm  
-* Connectors must be at least 1.5mm off the board to go through the panel  
-* The board height should be as symmetrical as possible  
-* 2xM2 mounting holes.  
-* SWDIO exposed through something sturdier than Picoblade used in the past  
-* The silkscreen should document pinout to simplify troubleshooting  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/cvra/front-panel-board](https://github.com/cvra/front-panel-board)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3d.png](working_3d_140.png)](working_3d.png)  
-  
-[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
-  
-[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  
+
+# front-panel-board by cvra  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/cvra/front-panel-board  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

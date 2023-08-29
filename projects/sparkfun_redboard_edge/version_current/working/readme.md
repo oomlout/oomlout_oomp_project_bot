@@ -1,57 +1,8 @@
-# OOMP Project  
-## RedBoard_Edge  by sparkfun  
-  
-oomp key: oomp_projects_flat_sparkfun_redboard_edge  
-(snippet of original readme)  
-  
-SparkFun RedBoard Edge  
-========================================  
-  
-![SparkFun RedBoard Edge](https://cdn.sparkfun.com/r/500-500/assets/parts/1/2/6/0/6/14525-SparkFun_RedBoard_Edge-01.jpg)  
-  
-[*SparkFun RedBoard Edge (DEV-14525)*](https://www.sparkfun.com/products/14525)  
-  
-The RedBoard Edge is a RedBoard that's been rebuilt around the idea that projects are eventually put into an enclosure to help clean up their look.  
-  
-Repository Contents  
--------------------  
-  
-* **/Hardware** - Eagle design files (.brd, .sch)  
-* **/Production** - Production panel files.  
-  
-Documentation  
---------------  
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/redboard-edge-hookup-guide)** - Basic hookup guide for the RedBoard Edge.  
-  
-Product Versions  
-----------------  
-* [DEV-14525](https://www.sparkfun.com/products/14525)- SparkFun red version  
-* *[SPX-14471 (RETIRED)](https://www.sparkfun.com/products/retired/14471)- SparkX version*  
-  
-License Information  
--------------------  
-  
-This product is _**open source**_!   
-  
-Please review the LICENSE.md file for license information.   
-  
-If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.  
-  
-Distributed as-is; no warranty is given.  
-  
-- Your friends at SparkFun.  
-  
-_<COLLABORATION CREDIT>_  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/sparkfun/RedBoard_Edge](https://github.com/sparkfun/RedBoard_Edge)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# RedBoard_Edge by sparkfun  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/sparkfun/RedBoard_Edge  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

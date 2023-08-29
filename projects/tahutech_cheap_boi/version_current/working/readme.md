@@ -1,49 +1,8 @@
-# OOMP Project  
-## cheap_boi  by TahuTech  
-  
-oomp key: oomp_projects_flat_tahutech_cheap_boi  
-(snippet of original readme)  
-  
-- The cheap_boi mechanical keyboard  
---- The cheap_boi is going to be a new custom mechanical keyboard with a low pricetag  
--- TL;DR  
-- WIP, PCB v0.2 has been tested and confirmed working   
-- cheap, ortholinear keyboard with  OLED-Display and RGB underglow  
-- Gerbers added, print on own risk  
-- [BOM](http://htmlpreview.github.io/?https://github.com/MangoIV/cheap_boi/bom/ibom.html)  
--- Render of front side  
-![render of front side](https://github.com/MangoIV/cheap_boi/blob/master/renders/pcb_front.jpg "render of front side")  
-![render of front side](https://github.com/MangoIV/cheap_boi/blob/master/renders/plate_front_side.jpg "render of the plate")  
--- Features  
---- implemented  
-- microcontroller ATmega32u4  
-- ortholinear layout similar to the planck  
-- 4 individual function keys   
-- underglow LEDs using WS2812B  
-- OLED display using SSD1306  
-- FR4 Bottom- and Switchplate with windows to see microcontroller and OLED  
-- have a look at the folder "renders" to see renders of the PCB and plates  
-- a working firmware exists on my fork of the qmk_firmware on the branch cheap_boi  
-- acrylic case has been made and is confirmed working   
-- easier crystal footprint since v0.2  
---- planned  
-- alps/mx hybrid switch cutouts on the top plate  
-- add some nice silkscreen art on PCB and top plate   
---- in the future  
-- change the design to arm, won't come that quickly though   
---- current status concerning prototype  
-- PCBs and parts have arrived and been tested  
-- the second Prototype has been built and is fully working   
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/TahuTech/cheap_boi](https://github.com/TahuTech/cheap_boi)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# cheap_boi by TahuTech  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/TahuTech/cheap_boi  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

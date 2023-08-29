@@ -1,22 +1,8 @@
-# OOMP Project  
-## RedCometESP32  by rocketscream  
-  
-oomp key: oomp_projects_flat_rocketscream_redcometesp32  
-(snippet of original readme)  
-  
-- Red Comet ESP32  
-![Red Comet ESP32](RedCometESP32.jpg)  
-An ultra low power ESP32 board. The board is able to run from variety type of battery below and above it's 3.3V operating voltage. This allow batteries such as 3xNiMH or 4xNiMH, Li-Ion/Pol, 3 or 4 alkaline and LiFePO4 to be used. Board sleep at 13.0 uA with charger off.  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/rocketscream/RedCometESP32](https://github.com/rocketscream/RedCometESP32)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# RedCometESP32 by rocketscream  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/rocketscream/RedCometESP32  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

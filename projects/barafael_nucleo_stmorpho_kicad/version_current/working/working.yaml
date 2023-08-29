@@ -13,21 +13,6 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\barafael_nucleo_stmorpho_kicad\version_current\working
 oomp_key: oomp_projects_flat_barafael_nucleo_stmorpho_kicad
 oomp_key_simple: projects_flat_barafael_nucleo_stmorpho_kicad
-parts_oomp:
-- all: 1_a1_st_nucleo_f401re_1_nucleo_f401re___
-  designator: a1
-  name: unmatched
-  oomp_part_id: unmatched
-  part_verbose: &id001
-    all: 1_a1_st_nucleo_f401re_1_nucleo_f401re___
-    designation: nucleo_f401re
-    designator: a1
-    footprint: st_nucleo_f401re
-    id: '1'
-    quantity: '1'
-    supplier_and_ref: ''
-parts_verbose:
-- *id001
 projects_flat: projects_flat/barafael_nucleo_stmorpho_kicad/version_current/working
 projects_folder: projects_folder/barafael/nucleo-stmorpho-kicad/version_current/working
 repo:

@@ -1,51 +1,8 @@
-# OOMP Project  
-## MAX3232_Breakout  by sparkfun  
-  
-oomp key: oomp_projects_flat_sparkfun_max3232_breakout  
-(snippet of original readme)  
-  
-SparkFun Transceiver Breakout - MAX3232  
-===============================  
-  
-![SparkFun Transceiver Breakout - MAX3232](https://cdn.sparkfun.com//assets/parts/6/7/3/8/11189-02a.jpg)  
-  
-[*SparkFun Transceiver Breakout - MAX3232 (BOB-11189)*](https://www.sparkfun.com/products/11189)  
-  
-This is the RS232 converter IC that is capable of running at 3V and communicating with 5V logic.  
-We’ve taken the SOIC package MAX3232 and broken out all the pins you need to set up your RS232 to TTL connection.   
-We’ve also included the necessary 0.1uF charge pump capacitors.   
-  
-Repository Contents  
--------------------  
-* **/Hardware** - Eagle design files (.brd, .sch)  
-* **/Production** - Production panel files (.brd)  
-  
-Documentation  
--------------------  
-* [Serial Communication](https://learn.sparkfun.com/tutorials/serial-communication) - Basic tutorial on serial communication implemented on logic-level (TTL) and RS-232.  
-  
-License Information  
--------------------  
-  
-This product is _**open source**_!   
-  
-Please review the LICENSE.md file for license information.   
-  
-If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.  
-  
-Distributed as-is; no warranty is given.  
-  
-- Your friends at SparkFun.  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/sparkfun/MAX3232_Breakout](https://github.com/sparkfun/MAX3232_Breakout)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# MAX3232_Breakout by sparkfun  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/sparkfun/MAX3232_Breakout  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

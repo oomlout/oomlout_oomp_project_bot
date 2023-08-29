@@ -1,27 +1,8 @@
-# OOMP Project  
-## PTWS  by hoskinstech  
-  
-oomp key: oomp_projects_flat_hoskinstech_ptws  
-(snippet of original readme)  
-  
-- PTWS  
-Peak Tide Warning System  
-  
-This is the github repository for the Hoskins.Tech Peak Tide Warning System project.  The project is currently ongoing and is not complete.  Therefore, the project in this repository is not ready for cloning.  
-  
-Brian Hoskins  
-Hoskins.Tech  
-26 July 2016  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/hoskinstech/PTWS](https://github.com/hoskinstech/PTWS)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# PTWS by hoskinstech  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/hoskinstech/PTWS  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

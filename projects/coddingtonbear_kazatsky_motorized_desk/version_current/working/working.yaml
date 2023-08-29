@@ -13,60 +13,6 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\coddingtonbear_kazatsky_motorized_desk\version_current\working
 oomp_key: oomp_projects_flat_coddingtonbear_kazatsky_motorized_desk
 oomp_key_simple: projects_flat_coddingtonbear_kazatsky_motorized_desk
-parts_oomp:
-- all: 1_u1_allegro_sip_3_1_a1369xua_10___
-  designator: u1
-  name: unmatched
-  oomp_part_id: unmatched
-  part_verbose: &id001
-    all: 1_u1_allegro_sip_3_1_a1369xua_10___
-    designation: a1369xua_10
-    designator: u1
-    footprint: allegro_sip_3
-    id: '1'
-    quantity: '1'
-    supplier_and_ref: ''
-- all: 2_j1_pinheader_1x03_p2_54mm_vertical_1_hall___
-  designator: j1
-  name: unmatched
-  oomp_part_id: unmatched
-  part_verbose: &id002
-    all: 2_j1_pinheader_1x03_p2_54mm_vertical_1_hall___
-    designation: hall
-    designator: j1
-    footprint: pinheader_1x03_p2_54mm_vertical
-    id: '2'
-    quantity: '1'
-    supplier_and_ref: ''
-- all: 3_r1_0805_milling_1_1k___
-  designator: r1
-  name: unmatched
-  oomp_part_id: unmatched
-  part_verbose: &id003
-    all: 3_r1_0805_milling_1_1k___
-    designation: 1k
-    designator: r1
-    footprint: 0805_milling
-    id: '3'
-    quantity: '1'
-    supplier_and_ref: ''
-- all: 4_c1_0805_milling_1_20p___
-  designator: c1
-  name: unmatched
-  oomp_part_id: unmatched
-  part_verbose: &id004
-    all: 4_c1_0805_milling_1_20p___
-    designation: 20p
-    designator: c1
-    footprint: 0805_milling
-    id: '4'
-    quantity: '1'
-    supplier_and_ref: ''
-parts_verbose:
-- *id001
-- *id002
-- *id003
-- *id004
 projects_flat: projects_flat/coddingtonbear_kazatsky_motorized_desk/version_current/working
 projects_folder: projects_folder/coddingtonbear/kazatsky-motorized-desk/version_current/working
 repo:

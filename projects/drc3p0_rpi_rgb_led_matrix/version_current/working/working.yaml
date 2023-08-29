@@ -13,34 +13,6 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\drc3p0_rpi_rgb_led_matrix\version_current\working
 oomp_key: oomp_projects_flat_drc3p0_rpi_rgb_led_matrix
 oomp_key_simple: projects_flat_drc3p0_rpi_rgb_led_matrix
-parts_oomp:
-- all: 1_panel_1_pin_header_straight_2x08_1_conn_02x08___
-  designator: panel_1
-  name: unmatched
-  oomp_part_id: unmatched
-  part_verbose: &id001
-    all: 1_panel_1_pin_header_straight_2x08_1_conn_02x08___
-    designation: conn_02x08
-    designator: panel_1
-    footprint: pin_header_straight_2x08
-    id: '1'
-    quantity: '1'
-    supplier_and_ref: ''
-- all: 2_p1_pin_header_straight_2x13_1_rpi_header___
-  designator: p1
-  name: unmatched
-  oomp_part_id: unmatched
-  part_verbose: &id002
-    all: 2_p1_pin_header_straight_2x13_1_rpi_header___
-    designation: rpi_header
-    designator: p1
-    footprint: pin_header_straight_2x13
-    id: '2'
-    quantity: '1'
-    supplier_and_ref: ''
-parts_verbose:
-- *id001
-- *id002
 projects_flat: projects_flat/drc3p0_rpi_rgb_led_matrix/version_current/working
 projects_folder: projects_folder/Drc3p0/rpi-rgb-led-matrix/version_current/working
 repo:

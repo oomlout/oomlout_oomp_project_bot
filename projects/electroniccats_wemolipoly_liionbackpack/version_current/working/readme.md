@@ -1,35 +1,8 @@
-# OOMP Project  
-## WeMoLiPoly-LiIonBackpack  by ElectronicCats  
-  
-oomp key: oomp_projects_flat_electroniccats_wemolipoly_liionbackpack  
-(snippet of original readme)  
-  
-- Wemos Shield V1.0 LiPoly LiIon Backpack  
-WeMos ESP8266 V1.0 LiPoly/LiIon Backpack  
-  
-<a href="https://www.tindie.com/stores/sabas1080/?ref=offsite_badges&utm_source=sellers_sabas1080&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie"width="200" height="55"></a>  
-  
-Electronic Cats invests time and resources providing this open source code,  
-please support Electronic Cats and open-source hardware by purchasing  
-products from Electronic Cats!  
-  
-Designed by Electronic Cats.  
-CERN Open Hardware Licence 1.2 (CERN OHL 1.2), check cern_ohl_v_1_2.txt for more information All text above must be included in any redistribution  
-  
-Use Library Kicad  
-____________  
-  
-https://github.com/sabas1080/kicadlibrary  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/ElectronicCats/WeMoLiPoly-LiIonBackpack](https://github.com/ElectronicCats/WeMoLiPoly-LiIonBackpack)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# WeMoLiPoly-LiIonBackpack by ElectronicCats  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/ElectronicCats/WeMoLiPoly-LiIonBackpack  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

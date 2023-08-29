@@ -1,43 +1,8 @@
-# OOMP Project  
-## video_card  by hairymnstr  
-  
-oomp key: oomp_projects_flat_hairymnstr_video_card  
-(snippet of original readme)  
-  
-- ECB Video Card  
-  
-![A screenshot of a PCB with HDMI connector and various SMD chips](video_card.png)  
-  
-This is a project to create a working HDMI output video card for an ECB based 8 bit computer.  The general plan is to use this card with a Z80/Z180 based processor card and a backplane of some sort.  As far as I can see it's compatible with standard ECB layout and will probably work with other modern-retro computers.  It will probably work perfectly well as a standalone ARM based computer.  
-  
--- Specs  
-  
-A brief description of the board's features:  
-  
-* STM32F429 ARM Cortex-M4 at 180MHz  
-* Hardware support for 2D DMA and graphics related operations  
-* 32MB (16M x 16) SDRAM at 90MHz for framebuffer and image storage  
-* USB host port via a single USB-A socket up to full-speed (12Mbps)  
-* SD card socket via SPI interface  
-* Two UART headers for 3.3V level interface  
-* 8 bit data bus interface  
-  * Mapped into 32 registers of the I/O address space  
-  * Selectable to any combination of the top 3 bits of the 8 bit IO bus  
-  * Support for interrupt generation including IEI/IEO cascading support  
-  * Can operate in Z80 mode-2 because the interrupt ack is mapped to an interrupt on the STM32  
-  
--- Architecture  
-  
-The core of the board is the STM32F429 which supports an LCD TFT controller which is outputting the hardware sync signals and the 3 colour channels as parallel data.  The pinout of the chip in use (only one I can currently get) limits the colour depth to 18 bits.  The LCD TFT interface is connect  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/hairymnstr/video_card](https://github.com/hairymnstr/video_card)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# video_card by hairymnstr  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/hairymnstr/video_card  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

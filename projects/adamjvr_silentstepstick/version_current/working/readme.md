@@ -1,30 +1,8 @@
-# OOMP Project  
-## SilentStepStick  by adamjvr  
-  
-oomp key: oomp_projects_flat_adamjvr_silentstepstick  
-(snippet of original readme)  
-  
-- SilentStepStick  
-The Silent-Step-Stick is a Stepper Motor Driver Board for 2-Phase Motors based on [Trinamic](https://www.trinamic.com) Motor Drivers.  
-  
-* Hardware compatible with [StepStick](https://reprap.org/wiki/StepStick) and [Pololu A4988](https://www.pololu.com/product/1182)  
-* [Trinamic](https://www.trinamic.com) stepper motor driver (chopper drive / constant current drive) with  
-  * Automatic standby current reduction  
-  * **microPlyer** - microstep interpolator for increased smoothness of microstepping  
-  * **stealthChop** - for quiet operation and smooth motion  
-  * **spreadCycle** - highly dynamic motor control chopper  
-* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).  
-* **[Documentation on learn.watterott.com](https://learn.watterott.com)**  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/adamjvr/SilentStepStick](https://github.com/adamjvr/SilentStepStick)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# SilentStepStick by adamjvr  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/adamjvr/SilentStepStick  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

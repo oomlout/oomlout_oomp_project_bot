@@ -1,37 +1,8 @@
-# OOMP Project  
-## halakekit_first_break  by asukiaaa  
-  
-oomp key: oomp_projects_flat_asukiaaa_halakekit_first_break  
-(snippet of original readme)  
-  
-- HaLakeKitFirstBreak  
-A KiCAD project for HaLakeKitFirst with using Arduino Pro Micro.  
-  
-![HaLakeKitFirst image](/docs/pcb_design.png)  
-  
-- Components  
-- (Arduino Pro Micro)[https://www.aliexpress.com/item/New-Pro-Micro-for-arduino-ATmega32U4-5V-16MHz-Module-with-2-row-pin-header-For-Leonardo/32773740303.html?spm=2114.13010208.99999999.6.SOWUxH]  
-- (L type pin header)[http://akizukidenshi.com/catalog/g/gC-01627/]  
-- (Pin Socket)[http://akizukidenshi.com/catalog/g/gC-05779/]  
-  
-- Reference  
-(HaLakeKitFirst)[https://github.com/nyampass/HaLakeKitFirst-Library]  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/asukiaaa/halakekit_first_break](https://github.com/asukiaaa/halakekit_first_break)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3d.png](working_3d_140.png)](working_3d.png)  
-  
-[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
-  
-[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  
+
+# halakekit_first_break by asukiaaa  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/asukiaaa/halakekit_first_break  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

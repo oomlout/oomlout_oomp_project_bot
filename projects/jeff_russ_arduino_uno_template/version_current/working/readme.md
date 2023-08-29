@@ -1,40 +1,8 @@
-# OOMP Project  
-## Arduino_Uno_Template  by Jeff-Russ  
-  
-oomp key: oomp_projects_flat_jeff_russ_arduino_uno_template  
-(snippet of original readme)  
-  
-- Arduino Uno Kicad Template  
-  
-This is a template for Kicad version 5 which could be used for:  
-  
-1. Building a Arduino Uno Rev.3 clone  
-2. Designing a shield or module for the Uno  
-3. Designing anything using the ATmega328P with the Uno during prototyping  
-  
-For items 2 & 3, this project can be used as a template by placing it in the user template directory for kicad. Unlike the template for the Arduino Uno that comes with Kicad 5, this contains the full schematic for the Uno as a sub-sheet as well as the Uno's BOM. The main sheet has connections to the subsheet just as you would see with the actual Uno's female pin headers.   
-  
-![sheet](docs/sheet.jpg)  
-  
-Inside it sub-sheet is the full schematic which could be keep intact if making a clone or whittled down to just what you need on the final design.    
-  
-![sheet](docs/sch.jpg)    
-  
-The pcb has a head start for you if you are making a shield; it has some footprints in place for that (but not for the components of the Uno itself).  
-  
-![sheet](meta/brd.png)  
-  
-In addition to using this project as Kicad template in the formal sense you might also choose to start a project in your own way and then choose "`Append Schematic Sheet...`", choosing either Arduino_Uno_Template.sch` or `Arduino_Uno_R3.sch`. Just be sure to add the Arduino_Uno_R3 library from this project to yours!  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/Jeff-Russ/Arduino_Uno_Template](https://github.com/Jeff-Russ/Arduino_Uno_Template)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# Arduino_Uno_Template by Jeff-Russ  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/Jeff-Russ/Arduino_Uno_Template  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

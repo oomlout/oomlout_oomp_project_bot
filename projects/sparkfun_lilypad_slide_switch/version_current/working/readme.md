@@ -1,72 +1,8 @@
-# OOMP Project  
-## LilyPad_Slide_Switch  by sparkfun  
-  
-oomp key: oomp_projects_flat_sparkfun_lilypad_slide_switch  
-(snippet of original readme)  
-  
-SparkFun LilyPad Slide Switch   
-========================================  
-  
-![SparkFun LilyPad Slide Switch](https://cdn.sparkfun.com//assets/parts/2/9/1/9/09350-01.jpg)  
-  
-[*SparkFun LilyPad Slide Switch (DEV-09350)*](https://www.sparkfun.com/products/9350)  
-  
-This is a simple slide switch for the LilyPad.   
-Use it as a simple ON/OFF switch, or to control LEDs, buzzers, sensors, etc. The swtiches on each board are rated for 4 volts at 300mA, but will work at 5 volts with a reduction in current.  
-  
-Repository Contents  
--------------------  
-  
-* **/Hardware** - Eagle design files (.brd, .sch)  
-* **/Production** - Production panel files (.brd)  
-  
-  
-Documentation  
---------------  
-  
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/lilypad-buttons-and-switches)** - Basic hookup guide for the LilyPad Switch.  
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.  
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.   
-  
-  
-License Information  
--------------------  
-This product is _**open source**_!   
-  
-The **hardware** is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).  
-  
-Please use, reuse, and modify these files as you see fit. Please maintain attribution to SparkFun Electronics and release anything derivative under the same license.  
-  
-Distributed as-is; no warranty is given.  
-  
-- Your friends at SparkFun.  
-  
-_Note: A portion of this s  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/sparkfun/LilyPad_Slide_Switch](https://github.com/sparkfun/LilyPad_Slide_Switch)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
-  
-[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
-  
-[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
-  
-[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
-  
-[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
-  
-[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
-  
-[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
-  
-[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  
+
+# LilyPad_Slide_Switch by sparkfun  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/sparkfun/LilyPad_Slide_Switch  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

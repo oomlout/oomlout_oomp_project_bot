@@ -1,68 +1,8 @@
-# OOMP Project  
-## Mono_Audio_Amp_Breakout-TPA2005D1  by sparkfun  
-  
-oomp key: oomp_projects_flat_sparkfun_mono_audio_amp_breakout_tpa2005d1  
-(snippet of original readme)  
-  
-SparkFun Mono Audio Amp Breakout - TPA2005D1  
-========================================  
-  
-![SparkFun Mono Audio Amp Breakout - TPA2005D1](https://cdn.sparkfun.com//assets/parts/6/4/0/0/11044-01a.jpg)  
-  
-[*SparkFun Mono Audio Amp Breakout - TPA2005D1 (BOB-11044)*](https://www.sparkfun.com/products/11044)  
-  
-This tiny audio amplifier is based on the Texas Instruments TPA2005D1.   
-Its efficient class-D operation means low heat and long battery life.   
-It can drive an 8-Ohm speaker at up to 1.4 Watts; it won’t shake a stadium, but it will provide plenty of volume for your audio projects.  
-  
-Repository Contents  
--------------------  
-  
-* **/Hardware** - Eagle design files (.brd, .sch)  
-* **/Production** - Production panel files (.brd)  
-  
-  
-Documentation  
---------------  
-* **[Hookup Guide](https://www.sparkfun.com/tutorials/392)** - Basic hookup guide for the Mono Audio Amplifier.  
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.  
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.   
-  
-  
-License Information  
--------------------  
-This product is _**open source**_!   
-  
-The **hardware** is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).  
-  
-Please use, reuse, and modify these files as you see fit. Please maintain attribution to SparkFun Electronics and release anything derivative under the same license.  
-  
-Distributed as-is; no warranty  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/sparkfun/Mono_Audio_Amp_Breakout-TPA2005D1](https://github.com/sparkfun/Mono_Audio_Amp_Breakout-TPA2005D1)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
-  
-[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
-  
-[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
-  
-[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
-  
-[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
-  
-[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
-  
-[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
-  
-[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  
+
+# Mono_Audio_Amp_Breakout-TPA2005D1 by sparkfun  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/sparkfun/Mono_Audio_Amp_Breakout-TPA2005D1  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

@@ -1,50 +1,8 @@
-# OOMP Project  
-## gridMeter  by re-innovation  
-  
-oomp key: oomp_projects_flat_re_innovation_gridmeter  
-(snippet of original readme)  
-  
-- gridMeter  
-A National Grid frequency monitor for visualising power flows on the national grid  
-  
-- Overview  
-  
-  
-  
-  
-- Collaborators  
-* James Fowkes - Software and PCB design v1  
-* Matt Little - PCB design v2 and Hardware  
-  
-  
-- PCB  
-This holds the PCB files done using KiCAD  
-http://kicad-pcb.org/  
-  
-- Software  
-This holds the software. Uploaded via the Arduino IDE.  
-This is programmed to an ATTiny84  
-It requires  
-  
-- Hardware  
-This holds the mechanical files for the enclosure.  
-  
-  
-  
-- To DO  
-  
-- Update PCB design with changes  
-- Enclosure design - version 1 done  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/re-innovation/gridMeter](https://github.com/re-innovation/gridMeter)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# gridMeter by re-innovation  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/re-innovation/gridMeter  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

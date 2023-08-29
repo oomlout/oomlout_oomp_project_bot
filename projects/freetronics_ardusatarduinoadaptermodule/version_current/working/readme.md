@@ -1,63 +1,8 @@
-# OOMP Project  
-## ArduSatArduinoAdapterModule  by freetronics  
-  
-oomp key: oomp_projects_flat_freetronics_ardusatarduinoadaptermodule  
-(snippet of original readme)  
-  
-Freetronics ArduSat Arduino Adapter Module  
-==========================================  
-Copyright 2012 Freetronics Pty Ltd   www.freetronics.com    
-  
-CubeSat-compatible module that allows an Arduino or compatible board  
-to be plugged in upside down. All Arduino headers and CubeSat bus  
-headers are broken out to allow you to quickly hook any Arduino  
-model with Uno-compatible headers into a satellite stack.  
-  
-Includes prototyping area to add your own parts.  
-  
-Features:  
-  
- * CubeSat bus fully broken out, with CubeSat 5V and 3.3V duplicated.  
- * Jumpers to allow easy linkage of Arduino and CubeSat power rails.  
- * 5V and 3.3V "power on" LEDs.  
- * Reset button connected to Arduino reset pin.  
- * Parts overlay on both the top and the bottom so you can see what you  
-   are connecting without having to keep turning the board over.  
- * Prototyping area.  
- * Gold-plated PCB surface.  
-  
-More information is available at:  
-  
-  http://www.freetronics.com.au/asaam  
-  
-  
-INSTALLATION  
-------------  
-The design is saved as an EAGLE project. EAGLE PCB design software is  
-available from www.cadsoftusa.com free for non-commercial use. To use  
-this project download it and place the directory containing these files  
-into the "eagle" directory on your computer. Then open EAGLE and  
-navigate to Projects -> eagle -> ArduSatArduinoAdapterModule.  
-  
-  
-DISTRIBUTION  
-------------  
-The specific terms of distribution of this project are governed by the  
-license referenced below.  
-  
-  
-LICENSE  
--------  
-Licensed under the TAPR Open Hardware License   
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/freetronics/ArduSatArduinoAdapterModule](https://github.com/freetronics/ArduSatArduinoAdapterModule)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# ArduSatArduinoAdapterModule by freetronics  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/freetronics/ArduSatArduinoAdapterModule  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

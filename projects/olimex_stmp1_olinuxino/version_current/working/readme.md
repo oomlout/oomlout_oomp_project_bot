@@ -1,52 +1,8 @@
-# OOMP Project  
-## STMP1-OLinuXino  by OLIMEX  
-  
-oomp key: oomp_projects_flat_olimex_stmp1_olinuxino  
-(snippet of original readme)  
-  
-- STMP1-OLinuXino  
-  
-STMP1 (es-ti-em-pai) OLinuXino (o-linux-ino) is based on STM32MP1XX Dual Core Cortex-A7 + Cortex-M4 microprocessors from ST Microelectronics. The Cortex-A7 can run Linux/Android OS while Cortex-M4 handle Real-Time events.  
-  
-Features are:  
-  
-- mainline Linux support  
-- automotive -40+125C operating temperature on all devices!  
-- 1GB DDR3L  
-- Gigabit Ethernet interface  
-- Three USB 2.0  
-- Two FD-CAN  
-- Two ADC  
-- Two DAC  
-- Camera IF  
-- Six I2C  
-- Three I2S  
-- Three SD MMC  
-- FMC (NAND) Flash  
-- Six SPI  
-- Four UART  
-- MIPI DSI 3Gb (157 only)  
-- Secure Boot  
-- Crypto Hash (C version only)  
-  
-STMP1-OLinuXino is designed in the same size and connector locations as A20-OLinuXino-LIME2 so being replacable and pin to pin compatible.   
-  
-STMP1-OLinuXino is manufactured in -40+125C operating temperature and targets industrial applications.  
-  
-- License  
-- Hardware is with CERN OHL v1.2 license  
-- Software is with GPLv3 license  
-- Documentation is with CC BY-SA 4.0 license  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/OLIMEX/STMP1-OLinuXino](https://github.com/OLIMEX/STMP1-OLinuXino)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# STMP1-OLinuXino by OLIMEX  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/OLIMEX/STMP1-OLinuXino  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

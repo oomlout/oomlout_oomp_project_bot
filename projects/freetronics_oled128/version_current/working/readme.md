@@ -1,37 +1,8 @@
-# OOMP Project  
-## OLED128  by freetronics  
-  
-oomp key: oomp_projects_flat_freetronics_oled128  
-(snippet of original readme)  
-  
-Kicad Schematic and PCB layout files for the Freetronics OLED128 module. Based around the SSD1351 OLED controller chip.  
-  
-![OLED128 PCB Front](https://cdn.shopify.com/s/files/1/0045/8932/products/oled128-1_medium.jpg?838)  
-![OLED128 PCB Back](https://cdn.shopify.com/s/files/1/0045/8932/products/oled128-2_medium.jpg?838)  
-  
-![OLED128 Displaying Stripchart FTOLED sample sketch](https://cdn.shopify.com/s/files/1/0045/8932/products/oled128-9_medium.jpg?838)  
-  
-Designed by Angus Gratton and Marc Alexander.  
-  
-Copyright (C) 2013 Freetronics Pty Ltd. Open Source Hardware, licensed under the TAPR Open Hardware License.  
-  
-- Resources  
-  
-[OLED128 Home Page](http://freetronics.com/oled128)  
-  
-[OLED128 QuickStart Guide](http://freetronics.com/pages/oled128-quickstart-guide)  
-  
-[FTOLED Arduino Library](https://github.com/freetronics/FTOLED)  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/freetronics/OLED128](https://github.com/freetronics/OLED128)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# OLED128 by freetronics  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/freetronics/OLED128  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

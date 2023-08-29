@@ -1,42 +1,8 @@
-# OOMP Project  
-## Serial-Knob  by madworm  
-  
-oomp key: oomp_projects_flat_madworm_serial_knob  
-(snippet of original readme)  
-  
-  
-Serial-Knob  
-===========  
-  
-LAYOUT FILES: Rotary encoder + microcontroller. Sends commands via serial.  
-  
-ATtiny25/45/85 + ALPS STEC12E08.  
-  
-The microcontroller can evaluate direction of rotation, speed and acceleration + button status.  
-Depending on the requirements, this can be encoded in one single byte and sent to the target.  
-  
-Step / direction decoding is also possible. By adding a multiplicator, this board could also  
-be used as a stepper-controller tester. Turn the knob, and the stepper should follow.  
-  
-You will find code for this project in [this](https://github.com/madworm/ATtiny_projects/tree/master/85/Serial-Knob) repository.  
-  
-[![Serial-Knob panel](/gerber_files__4x4/PNGs/Serial-Knob__front_purple.png)](/gerber_files__4x4/PNGs/Serial-Knob__front_purple.png)  
-  
----  
-  
-Before having PC-boards made, please make sure you know about your manufacturer's peculiarities!  
-Especially drill-sizes and their tolerances may vary too much and give you trouble.  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/madworm/Serial-Knob](https://github.com/madworm/Serial-Knob)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# Serial-Knob by madworm  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/madworm/Serial-Knob  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

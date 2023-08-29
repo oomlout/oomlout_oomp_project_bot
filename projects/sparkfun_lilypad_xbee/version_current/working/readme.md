@@ -1,40 +1,8 @@
-# OOMP Project  
-## LilyPad_XBee  by sparkfun  
-  
-oomp key: oomp_projects_flat_sparkfun_lilypad_xbee  
-(snippet of original readme)  
-  
-LilyPad XBee  
-============  
-  
-[![LilyPad XBee](https://cdn.sparkfun.com//assets/parts/2/2/2/7/08937-01a.jpg)  
-*LilyPad XBee (DEV-08937)*](https://www.sparkfun.com/products/8937)  
-  
-The LilyPad Xbee is a breakout board for the popular XBee modules.   
-Board includes easy-to-sew tabs and all the necessary power regulation to run on the LilyPad system.   
-  
-Repository Contents  
--------------------  
-  
-* **/Hardware** - All Eagle design files (.brd, .sch, .STL)  
-* **/Production** - Test bed files and production panel files  
-  
-  
-License Information  
--------------------  
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).  
-  
-Distributed as-is; no warranty is given.  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/sparkfun/LilyPad_XBee](https://github.com/sparkfun/LilyPad_XBee)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# LilyPad_XBee by sparkfun  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/sparkfun/LilyPad_XBee  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

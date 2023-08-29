@@ -1,46 +1,8 @@
-# OOMP Project  
-## preenfm2  by cosmikwolf  
-  
-oomp key: oomp_projects_flat_cosmikwolf_preenfm2  
-(snippet of original readme)  
-  
--- preenfm2  
-  
-Ixox/preenfm2 is the official preenfm2 repository.  
-  
-You can find here the sources of the firmware as well as the hardware files for the PCB, MCU board and cases.  
-  
-If you think something is missing or not clear, please contact me.  
-  
-If you don't have the preenfm2 bootlader installed, you need to flash it first, [read this] (http://ixox.fr/preenfm2/build-it/burn-firmware/)  
-  
-To compile the firmware, you'll need [arm-gcc version 4.7] (https://launchpad.net/gcc-arm-embedded/+milestone/4.7-2012-q4-major)  
-  
-Add the bin directory to your PATH, and run **'make'**, you'll get the list of the available targets.  
-  
-**'make pfm'** builds the firmware.  
-  
-Then put your preenfm2 in [bootloader mode](http://ixox.fr/preenfm2/manual/upgrade-firmware/). Look at DFU part 4.  
-  
-**'make installdfu'** flash the firmware on the preenfm2 using the DFU protocol.  
-  
-Once it's done, unplug the power cable and plug it back.  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/cosmikwolf/preenfm2](https://github.com/cosmikwolf/preenfm2)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3d.png](working_3d_140.png)](working_3d.png)  
-  
-[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
-  
-[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  
+
+# preenfm2 by cosmikwolf  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/cosmikwolf/preenfm2  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

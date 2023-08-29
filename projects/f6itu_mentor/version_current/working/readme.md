@@ -1,67 +1,8 @@
-# OOMP Project  
-## Mentor  by F6ITU  
-  
-oomp key: oomp_projects_flat_f6itu_mentor  
-(snippet of original readme)  
-  
-- Mentor  
-  
-Kicad files  
-  
-An Arduino based SSPA display controler for HPSDR/Hermes familly  
-This module controls   
-- voltage  
-- current  
-- temperature  
-- VSWR/PWR  
-- cooling fan  
-- 4x40 lcd display  
-and shuts down the Bias current while beeping in case of dificulties  
-  
-This board and the associated firmware have been developped by ON7EQ.   
-  
-http://www.qsl.net/on7eq/projects/arduino_sspa.htm  
-  
-Some code modifications have been made by John Melton for   
-the Hermes familly.  
-  
-The design of this board uses the generic output names  
-used by all Hermes/Angelia boards and could directly be plugged   
-on the Alexandrie control board  
-  
-So far, NO SSPA and NO Reflectometer/Refl-fwd coupler have been  
-designed. A multipurpose 33dB Tandem Match coupler  
-is under development (for both VSWR/PWR measurement and   
-predistorsion -aka "pure signal"- sampling)  
-  
-  
-Board's dimensions are oversized to fit the 5x10 and 10x10cm   
-size of all board of the Hermes project under Kicad:   
-  
-AlexI2C  
-  
-Alexandrie   
-  
-Alexiares_Coax_Out  
-  
-Alexiares_HPF  
-  
-Alexiares_LPF  
-  
-Mentor(this one)  
-  
-  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/F6ITU/Mentor](https://github.com/F6ITU/Mentor)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# Mentor by F6ITU  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/F6ITU/Mentor  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

@@ -1,25 +1,8 @@
-# OOMP Project  
-## stepdown_100V_to_15V_150mA  by ep092  
-  
-oomp key: oomp_projects_flat_ep092_stepdown_100v_to_15v_150ma  
-(snippet of original readme)  
-  
-stepdown_100V_to_15V_150mA  
-==========================  
-  
- Stepdown from 100V to 15V based on L5009 from Ti   
-  
-Footprint of IC is wrong  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/ep092/stepdown_100V_to_15V_150mA](https://github.com/ep092/stepdown_100V_to_15V_150mA)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# stepdown_100V_to_15V_150mA by ep092  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/ep092/stepdown_100V_to_15V_150mA  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

@@ -1,50 +1,8 @@
-# OOMP Project  
-## Adafruit-TCA9548A-I2C-Multiplexer-PCB  by adafruit  
-  
-oomp key: oomp_projects_flat_adafruit_adafruit_tca9548a_i2c_multiplexer_pcb  
-(snippet of original readme)  
-  
--- Adafruit TCA9548A I2C Multiplexer PCB  
-<a href="http://www.adafruit.com/products/2717"><img src="assets/image.jpg?raw=true" width="500px"><br/>  
-Click here to purchase one from the Adafruit shop</a>  
-  
-You just found the perfect I2C sensor, and you want to wire up two or three or more of them to your Arduino when you realize "Uh oh, this chip has a fixed I2C address, and from what I know about I2C, you cannot have two devices with the same address on the same SDA/SCL pins!" Are you out of luck? You would be, if you didn't have this ultra-cool TCA9548A 1-to-8 I2C multiplexer!  
-  
-Finally, a way to get up to 8 same-address I2C devices hooked up to one microcontroller - this multiplexer acts as a gatekeeper, shuttling the commands to the selected set of I2C pins with your command.  
-  
-Using it is fairly straight-forward: the multiplexer itself is on I2C address 0x70 (but can be adjusted from 0x70 to 0x77) and you simply write a single byte with the desired multiplexed output number to that port, and bam - any future I2C packets will get sent to that port. In theory, you could have 8 of these multiplexers on each of 0x70-0x77 addresses in order to control 64 of the same-I2C-addressed-part.  
-  
-PCB files for the Adafruit TCA9548A I2C Multiplexer. The format is EagleCAD schematic and board layout  
-- https://www.adafruit.com/products/2717  
-  
---- License  
-  
-Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products   
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB](https://github.com/adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3D_bottom.png](working_3D_bottom_140.png)](working_3D_bottom.png)  
-  
-[![working_3D_top.png](working_3D_top_140.png)](working_3D_top.png)  
-  
-[![working_assembly_page_01.png](working_assembly_page_01_140.png)](working_assembly_page_01.png)  
-  
-[![working_assembly_page_02.png](working_assembly_page_02_140.png)](working_assembly_page_02.png)  
-  
-[![working_assembly_page_03.png](working_assembly_page_03_140.png)](working_assembly_page_03.png)  
-  
-[![working_assembly_page_04.png](working_assembly_page_04_140.png)](working_assembly_page_04.png)  
-  
-[![working_assembly_page_05.png](working_assembly_page_05_140.png)](working_assembly_page_05.png)  
-  
-[![working_assembly_page_06.png](working_assembly_page_06_140.png)](working_assembly_page_06.png)  
+
+# Adafruit-TCA9548A-I2C-Multiplexer-PCB by adafruit  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

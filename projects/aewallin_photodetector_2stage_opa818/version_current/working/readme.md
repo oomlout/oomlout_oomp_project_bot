@@ -1,38 +1,8 @@
-# OOMP Project  
-## Photodetector_2stage_OPA818  by aewallin  
-  
-oomp key: oomp_projects_flat_aewallin_photodetector_2stage_opa818  
-(snippet of original readme)  
-  
-- Photodetector_2stage_OPA818  
-Photodetector based on [TI OPA818](https://www.ti.com/product/OPA818) transimpedance amplifier followed by a second stage noninverting amplifier. Both AC (high bandwidth) and DC (low bandwidth) outputs using SMA connectors. Requires bipolar power-supply, e.g. +/-12V, and uses low-noise voltage regulators [LT3042](https://www.analog.com/en/products/lt3042.html) and [LT3093](https://www.analog.com/en/products/lt3093.html). Fits thru-hole photodiodes with TO-18/TO-46 pinout. Two-sided PCB 45mm x 34mm. Enclosure designed to fit optical table and 25mm beam-height.  
-  
-Measurement data overlaid with [TIASim](https://github.com/aewallin/TIASim) predictions show a parasitic feedback-capacitance of ca 0.15-0.17 pF when no Cf (C126 in shematic) capacitor is installed.   
-  
-See also [One-Inch-Photodetector](https://github.com/aewallin/One-Inch-Photodetector) if you don't need a second stage of gain.  
-  
--- Built and measured boards  
-  
-Hamamatsu S5793 Si photodiode, 33 kOhm transimpedance, 20 dB postgain, ca 38 MHz bandwidth. Used for 674nm/30cm ultra-stable cavity PDH laser-lock since 2022-06.  
-  
-![S5793](/doc/S5793_33kohm_20db.png "S5793 33 kOhm")  
-Wideband view of PDH-locking signal spectrum. EOM frequency 25 MHz. 674nm power at photodetector ca 10 uW. Traces SA-floor (green), Detector Dark (Red), Bright (laser unlocked, Blue), Laser locked (yellow). Note 2nd harmonic at 50 MHz, and shot noise in blue trace at low frequencies.  
-![PDH1](/doc/2022-06-18_newPDH_wide.png "P  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/aewallin/Photodetector_2stage_OPA818](https://github.com/aewallin/Photodetector_2stage_OPA818)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3d.png](working_3d_140.png)](working_3d.png)  
-  
-[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
-  
-[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  
+
+# Photodetector_2stage_OPA818 by aewallin  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/aewallin/Photodetector_2stage_OPA818  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

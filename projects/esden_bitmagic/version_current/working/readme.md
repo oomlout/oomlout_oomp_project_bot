@@ -1,34 +1,8 @@
-# OOMP Project  
-## bitmagic  by esden  
-  
-oomp key: oomp_projects_flat_esden_bitmagic  
-(snippet of original readme)  
-  
-This repository contains files related to the BitMagic hardware.  
-  
-BitMagic-Basic is a simple USB High Speed Logic Analyzer compatible with [Sigrok](http://sigrok.org) and is based on the [fx2grok-flat](https://sigrok.org/wiki/Fx2grok-fx2grok-flat) design.  
-  
-BitMagic-One is a faster USB 3.0 SuperSpeed data syphon hardware.  
-  
-This hardware implements the acquisition of CPU Trace data in combination with [Orbuculum](https://github.com/mubes/orbuculum) and a streaming 32bit logic analyzer in combination with [Sigrok](http://sigrok.org).  
-  
-This project is aspiring to become a series of open source hardware streaming Logic Analyzers and data syphons compatible with open source software data processors like [Orbuculum](https://github.com/mubes/orbuculum), [Sigrok](http://sigrok.org) and more.  
-  
-All hardware design is licensed under [Creative Commons CC-BY-SA V4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.  
-  
-For more information and if you want to get involved in the development or have questions join the [-bitmagic 1BitSquared Discord channel](https://1bitsquared.com/pages/chat) and watch [Esden's streams](https://www.twitch.tv/esden).  
-  
-Cheers, Esden :D  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/esden/bitmagic](https://github.com/esden/bitmagic)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# bitmagic by esden  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/esden/bitmagic  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

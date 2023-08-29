@@ -1,48 +1,8 @@
-# OOMP Project  
-## LIS3DH_Breakout  by sparkfun  
-  
-oomp key: oomp_projects_flat_sparkfun_lis3dh_breakout  
-(snippet of original readme)  
-  
-SparkFun Triple Axis Accelerometer Breakout - LIS3DH  
-=============================================  
-  
-![SparkFun Triple Axis Accelerometer Breakout - LIS3DH](https://cdn.sparkfun.com//assets/parts/1/1/6/8/0/13963-02.jpg)    
-  
-[*SparkFun Triple Axis Accelerometer Breakout - LIS3DH(SEN-13963)*](https://www.sparkfun.com/products/13963)  
-  
-This breakout board makes it easy to use the tiny LIS3DH accelerometer in your project.   
-The LIS3DH is a smart low-power, three-axis, capacitive micro-machined accelerometer with 12 bits of resolution.  
-  
-This product replaced the MMA-8452Q.  
-  
-Repository Contents  
--------------------  
-* **/Hardware** - All Eagle design files (.brd, .sch)  
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>  
-* **/Production** - Production panel files (.brd)  
-  
-Documentation  
---------------  
-* **[Library](https://github.com/sparkfun/SparkFun_LIS3DH_Arduino_Library)** - Arduino library.  
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/lis3dh-hookup-guide)** - Basic hookup guide.  
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.  
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.   
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.  
-  
-Version History  
----------------  
-* [V_0.1](https://github.com/sparkfun/LIS3DH_Breakout/tree/V_0.1) - Prototype  
-* [V_H1.0_L1.0.0](ht  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/sparkfun/LIS3DH_Breakout](https://github.com/sparkfun/LIS3DH_Breakout)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# LIS3DH_Breakout by sparkfun  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/sparkfun/LIS3DH_Breakout  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

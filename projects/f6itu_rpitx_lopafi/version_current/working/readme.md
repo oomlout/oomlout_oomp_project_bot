@@ -1,48 +1,8 @@
-# OOMP Project  
-## rpitx_lopafi  by F6ITU  
-  
-oomp key: oomp_projects_flat_f6itu_rpitx_lopafi  
-(snippet of original readme)  
-  
-- rpitx_lopafi  
-  
-Low pass filter for the Raspberry-Pi based TX RF transceiver  
-  
-YAOHKP ! Yet another open hardware kicad project  
-  
-LoPaFi is a "keep it simple stupid" version of a low pass filter with a Raspberry-Pi (or Up Board) form factor.  
-  
-It is intended to fit on a RP Board running RpiTX by F5OEO  
-  
-https://github.com/F5OEO/rpitx  
-  
-This filter is made of 5 different Cauer filters with rejection notches on F2 and F3, using T50 toroids and 1206 smd caps  
-  
-Switching is made with NEC EC2-5NU miniature relays (Kemet, NEC, Axicom), directly powered by the SoC board  
-  
-Each relay is directly driven by a  bufferized and software driven GPIO  
-  
-For more information, pse refer to the Wiki hosted on this very same wiki page  
-   
- This hardware development is "under construction" as long as a first version hasn't been "branched"   
-   
- Please, do not fork before the first stable release unless you intend to contribute to the main development  
-   
- This project is protected by the CERN Open Hardware Licence https://www.ohwr.org/projects/cernohl/wiki  
-   
-   
-  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/F6ITU/rpitx_lopafi](https://github.com/F6ITU/rpitx_lopafi)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# rpitx_lopafi by F6ITU  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/F6ITU/rpitx_lopafi  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

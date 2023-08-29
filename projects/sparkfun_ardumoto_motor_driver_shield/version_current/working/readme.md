@@ -1,51 +1,8 @@
-# OOMP Project  
-## Ardumoto-Motor_Driver_Shield  by sparkfun  
-  
-oomp key: oomp_projects_flat_sparkfun_ardumoto_motor_driver_shield  
-(snippet of original readme)  
-  
-SparkFun Ardumoto - Motor Driver Shield  
-=======================================  
-  
-![SparkFun Ardumoto - Motor Driver Shield](https://cdn.sparkfun.com//assets/parts/1/2/0/2/5/14129-01.jpg)  
-  
-[*SparkFun Ardumoto - Motor Driver Shield (DEV-14129)*](https://www.sparkfun.com/products/14129)  
-  
-This is a motor shield for Arduino that will control two DC motors.   
-Based on the L298 H-bridge, the SparkFun Ardumoto can drive up to 2 amps per channel.   
-  
-Repository Contents  
--------------------  
-* **/Firmware** - Example Arduino sketch  
-* **/Hardware** - All Eagle design files (.brd, .sch)  
-  
-Documentation  
---------------  
-* [Hookup Guide](https://learn.sparkfun.com/tutorials/ardumoto-kit-hookup-guide)  
-  
-Version History  
----------------  
-  
-* [HW_1.4_FW_1.0](https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield/tree/HW_1.4_FW_1.0) - Version 1.4  
-* [V_2.0.0](https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield/tree/V_2.0.0) - Initial build release  
-* [V_2.0.1](https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield/tree/V_2.0.1) - Public release  
-  
-License Information  
--------------------  
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).  
-The code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!  
-  
-Distributed as-is; no warranty is given.  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield](https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# Ardumoto-Motor_Driver_Shield by sparkfun  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

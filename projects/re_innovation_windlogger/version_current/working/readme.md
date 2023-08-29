@@ -1,52 +1,8 @@
-# OOMP Project  
-## WindLogger  by re-innovation  
-  
-oomp key: oomp_projects_flat_re_innovation_windlogger  
-(snippet of original readme)  
-  
-- Low Cost Data Logger for Wind Speed Parameters  
-This repository has the open-source files for a Data Logger for Wind Speed and other small wind turbine parameters.  
-  
-So far there have been two different versions of this unit:  
-* Version 1 was released in 2014. This was basic add on shield for the 'DataDuino' (an Arduino based SD card datalogger from www.re-innovation.co.uk)  
-* Version 2 was released on 2016. This was a surface mount design with additional functions such as solar PV charging.  
-  
-The Wind Logger was originally designed by Matt Little of www.re-innovation.co.uk  
-Contact: info@re-innovation.co.uk  
-  
-Please see: www.re-innovation.co.uk and search for 'wind datalogger' for more details.  
-Some more details are available here:  
-https://www.re-innovation.co.uk/docs/wind-datalogger/  
-  
-The folders in this repository include:  
-	  
-* WindLogger_PCB  
-The PCB files were created in KiCAD PCB design software  
-These are in Windlogger_PCB  
-There are the KICAD project files and the GERBER files for both the DataDuino and the Windlogger Shield	  
-  
-* WindLogger_FIRMWARE  
-Example code has been written for uploading via the Arduino IDE.  
-  
-* WindLogger_FIXINGS  
-The CAD design for fixing system for an anemometer and a wind vane.  
-These is a work in progress. Originally draw using CorelDraw - I hope to update/convert this soon.  
-	  
-* WindLogger_INSTRUCTIONS  
-These are the instructions in a number of formats and languages.  
-  
--- Version 1 - 2014  
-Overview of the design:  
-  A PCF8563 Real Time Clock is used to times  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/re-innovation/WindLogger](https://github.com/re-innovation/WindLogger)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# WindLogger by re-innovation  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/re-innovation/WindLogger  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

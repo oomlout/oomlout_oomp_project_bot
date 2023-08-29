@@ -1,44 +1,8 @@
-# OOMP Project  
-## simplebot_shield  by freetronics  
-  
-oomp key: oomp_projects_flat_freetronics_simplebot_shield  
-(snippet of original readme)  
-  
-- SimpleBot Shield  
-  
-This breakout shield for a wheeled robot was created to work with  
-@ajfisher's [SimpleBot R3](https://github.com/nodebotsau/simplebot)  
-design, as used for [NodeBots](http://nodebots.io) days here in Australia.  
-  
-Originally designed for assembly at [LCA 2015 Open Hardware MiniConf](http://www.openhardwareconf.org/index.php/Main_Page).  
-  
-![PCB Preview Image](pcb_top.png)  
-  
-- The shield provides for:  
-  
-* 6 hobby servo connections, included 2 marked motor connections.  
-* Onboard 6V linear regulator for servo power.  
-* "SR04" Ultrasonic rangefinder mount.  
-* Light Dependent Resistor for communications, ambient light sensing.  
-* 4 WS2812B "NeoPixels" mounted in corners of the board.  
-* Screw terminal connections for 5 analog pins, power & ground.  
-* Additional header for 2 more digital pins, power & ground.  
-* Dedicated footprint area for [Freetronics IMU9](http://www.freetronics.com/products/9-dof-imu-accelerometer-gyroscope-magnetometer) accelerometer, gyroscope, magnetometer module.  
-  
-- Resources  
-  
-* Home page (coming soon)  
-* [Schematic PDF](https://raw.githubusercontent.com/freetronics/simplebot_shield/master/simplebot_shield_schematic.pdf)  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/freetronics/simplebot_shield](https://github.com/freetronics/simplebot_shield)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# simplebot_shield by freetronics  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/freetronics/simplebot_shield  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

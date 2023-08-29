@@ -1,32 +1,8 @@
-# OOMP Project  
-## LoranC  by romavis  
-  
-oomp key: oomp_projects_flat_romavis_loranc  
-(snippet of original readme)  
-  
-LORAN C (USSR "Chayka") receiver project  
-----  
-  
-----Initial idea of project:  
-To build Loran-C navigational receiver with digital signal processing.    
-Loran-C is (was?) a ground-based longwave navigational system working on frequency of 100 KHz, that was heavely used both by civilians and military prior to wide GPS adoption.  
-  
-Receiver should also be able to lock onto signal of USSR "Chayka" system, similar to Loran-C, due to my location (nearest transmitter chain is "Chayka" GRI 8000)  
-  
-----Licensed under:  
-  
-![alt text](http://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC-BY-SA")  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/romavis/LoranC](https://github.com/romavis/LoranC)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# LoranC by romavis  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/romavis/LoranC  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

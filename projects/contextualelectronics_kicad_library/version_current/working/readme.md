@@ -1,40 +1,8 @@
-# OOMP Project  
-## kicad-library  by ContextualElectronics  
-  
-oomp key: oomp_projects_flat_contextualelectronics_kicad_library  
-(snippet of original readme)  
-  
-kicad-library  
-=============  
-  
-The schematic and 3D libraries supported by KiCad team.  
-  
-The footprint libraries are the `*.pretty` repos themselves and are used online by default. If you want to download them locally, the `library-repos-install.bat` and `library-repos-install.sh` scripts [in the KiCad source](http://bazaar.launchpad.net/~kicad-product-committers/kicad/product/files/head:/scripts/) can do this automatically.  
-  
-  
-For more information, please check: http://kicad-pcb.org/contribute/librarians/  
-  
-  
-How to Contribute  
-=================  
-  
-Please, check the [CONTRIBUTING.md](CONTRIBUTING.md) file.  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/ContextualElectronics/kicad-library](https://github.com/ContextualElectronics/kicad-library)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
-  
-[![working_3d.png](working_3d_140.png)](working_3d.png)  
-  
-[![working_3d_back.png](working_3d_back_140.png)](working_3d_back.png)  
-  
-[![working_3d_front.png](working_3d_front_140.png)](working_3d_front.png)  
+
+# kicad-library by ContextualElectronics  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/ContextualElectronics/kicad-library  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

@@ -1,19 +1,8 @@
-# OOMP Project  
-## hmo_icu  by realthunder  
-  
-oomp key: oomp_projects_flat_realthunder_hmo_icu  
-(snippet of original readme)  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/realthunder/hmo_icu](https://github.com/realthunder/hmo_icu)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# hmo_icu by realthunder  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/realthunder/hmo_icu  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

@@ -1,27 +1,8 @@
-# OOMP Project  
-## UTCape  by graycatlabs  
-  
-oomp key: oomp_projects_flat_graycatlabs_utcape  
-(snippet of original readme)  
-  
-- UTCape  
-  
-A BeagleBone Black cape to support unit tests in software libraries like PyBBIO   
-and Bonsescript.   
-  
-The current concept would allow testing of GPIO, UART, SPI, I2C, ADC, eCAP, PWM,  
-and eQEP software.  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/graycatlabs/UTCape](https://github.com/graycatlabs/UTCape)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# UTCape by graycatlabs  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/graycatlabs/UTCape  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

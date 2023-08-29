@@ -1,27 +1,8 @@
-# OOMP Project  
-## TuxCon-Kitty  by OLIMEX  
-  
-oomp key: oomp_projects_flat_olimex_tuxcon_kitty  
-(snippet of original readme)  
-  
-- TuxCon-Kitty  
-Small OSHW badge project made with KiCad and Arduino for TruxCon conference  
-  
--- License  
-  
-* Software License is GPL3  
-* Hardware License is Apache 2.0  
-* Documentation License is CC-BY-SA3.0 (https://creativecommons.org/licenses/by-sa/3.0/)  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/OLIMEX/TuxCon-Kitty](https://github.com/OLIMEX/TuxCon-Kitty)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# TuxCon-Kitty by OLIMEX  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/OLIMEX/TuxCon-Kitty  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

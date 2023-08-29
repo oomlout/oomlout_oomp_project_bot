@@ -1,19 +1,8 @@
-# OOMP Project  
-## mobile-sensor-pcb  by rascalmicro  
-  
-oomp key: oomp_projects_flat_rascalmicro_mobile_sensor_pcb  
-(snippet of original readme)  
-  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/rascalmicro/mobile-sensor-pcb](https://github.com/rascalmicro/mobile-sensor-pcb)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# mobile-sensor-pcb by rascalmicro  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/rascalmicro/mobile-sensor-pcb  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

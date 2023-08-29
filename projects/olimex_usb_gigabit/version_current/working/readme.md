@@ -1,42 +1,8 @@
-# OOMP Project  
-## USB-GIGABIT  by OLIMEX  
-  
-oomp key: oomp_projects_flat_olimex_usb_gigabit  
-(snippet of original readme)  
-  
-- USB-GIGABIT  
-USB 1.1, USB 2.0, USB 3.0 to Ethernet 10/100/1000Mbit converter  
-  
-With A20 OLinuXino boards and USB 2.0 host the speed is: upload 319 Mbit, download 295 Mbit.  
-  
-  
--- Commands  
-    iperf3 -c 192.168.0.xxx -p 2001 -t 3  
-    iperf3 -c 192.168.0.xxx -p 2001 -t 3 -R  
-      
-  
-  
--- Results  
-  
-| Board     |     Upload    |    Download   |  
-| ----------|--------------:|--------------:|  
-| PC        | 231 Mbits/sec | 312 Mbits/sec |  
-| A20-MICRO | 319 Mbits/sec | 295 Mbits/sec |  
-  
-  
-- License  
-- Hardware is with CERN OHL v1.2 license  
-- Documentation is with CC BY-SA 4.0 license  
-  
-  full source readme at [readme_src.md](readme_src.md)  
-  
-source repo at: [https://github.com/OLIMEX/USB-GIGABIT](https://github.com/OLIMEX/USB-GIGABIT)  
-## Board  
-  
-[![working_3d.png](working_3d_600.png)](working_3d.png)  
-## Schematic  
-  
-[![working_schematic.png](working_schematic_600.png)](working_schematic.png)  
-  
-[schematic pdf](working_schematic.pdf)  
-## Images  
+
+# USB-GIGABIT by OLIMEX  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+https://github.com/OLIMEX/USB-GIGABIT  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    

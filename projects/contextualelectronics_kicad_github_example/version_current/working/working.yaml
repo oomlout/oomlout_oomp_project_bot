@@ -15,21 +15,6 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\contextualelectronics_kicad_github_example\version_current\working
 oomp_key: oomp_projects_flat_contextualelectronics_kicad_github_example
 oomp_key_simple: projects_flat_contextualelectronics_kicad_github_example
-parts_oomp:
-- all: 1_g__csos_1_logo___
-  designator: g_
-  name: unmatched
-  oomp_part_id: unmatched
-  part_verbose: &id001
-    all: 1_g__csos_1_logo___
-    designation: logo
-    designator: g_
-    footprint: csos
-    id: '1'
-    quantity: '1'
-    supplier_and_ref: ''
-parts_verbose:
-- *id001
 projects_flat: projects_flat/contextualelectronics_kicad_github_example/version_current/working
 projects_folder: projects_folder/ContextualElectronics/kicad-github-example/version_current/working
 repo:
