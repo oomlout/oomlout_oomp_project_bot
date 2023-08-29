@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\kazu_zamasu_lpc_link2_board\version_current\working
 oomp_key: oomp_projects_flat_kazu_zamasu_lpc_link2_board
 oomp_key_simple: projects_flat_kazu_zamasu_lpc_link2_board
+parts_verbose:
+- all: 1_link2_lpclink2_base_smt_1_lpclink2___
+  designation: lpclink2
+  designator: link2
+  footprint: lpclink2_base_smt
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j2,j7_socket_strip_straight_2x05_2_conn_02x05___
+  designation: conn_02x05
+  designator: j2
+  footprint: socket_strip_straight_2x05
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_j2,j7_socket_strip_straight_2x05_2_conn_02x05___
+  designation: conn_02x05
+  designator: j7
+  footprint: socket_strip_straight_2x05
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_j3_socket_strip_straight_2x07_1_conn_02x07___
+  designation: conn_02x07
+  designator: j3
+  footprint: socket_strip_straight_2x07
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_j4,j8_socket_strip_straight_2x10_2_conn_02x10___
+  designation: conn_02x10
+  designator: j4
+  footprint: socket_strip_straight_2x10
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_j4,j8_socket_strip_straight_2x10_2_conn_02x10___
+  designation: conn_02x10
+  designator: j8
+  footprint: socket_strip_straight_2x10
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_j9_socket_strip_straight_2x12_1_conn_02x12___
+  designation: conn_02x12
+  designator: j9
+  footprint: socket_strip_straight_2x12
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_j6_socket_strip_straight_1x09_1_conn_01x09___
+  designation: conn_01x09
+  designator: j6
+  footprint: socket_strip_straight_1x09
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_g__logo_f_cu_h2_3_1_logo___
+  designation: logo
+  designator: g_
+  footprint: logo_f_cu_h2_3
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/kazu_zamasu_lpc_link2_board/version_current/working
 projects_folder: projects_folder/Kazu-zamasu/LPC-Link2-Board/version_current/working
 repo:

@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jonasnorling_usb_probe_board\version_current\working
 oomp_key: oomp_projects_flat_jonasnorling_usb_probe_board
 oomp_key_simple: projects_flat_jonasnorling_usb_probe_board
+parts_verbose:
+- all: 1_g__elemental_4mm_mask_1_logo___
+  designation: logo
+  designator: g_
+  footprint: elemental_4mm_mask
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_g__elemental_4mm_1_logo___
+  designation: logo
+  designator: g_
+  footprint: elemental_4mm
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r11_r_0603_1608metric_pad0_98x0_95mm_handsolder_1_r___
+  designation: r
+  designator: r11
+  footprint: r_0603_1608metric_pad0_98x0_95mm_handsolder
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_d1_led_0603_1608metric_pad1_05x0_95mm_handsolder_1_led___
+  designation: led
+  designator: d1
+  footprint: led_0603_1608metric_pad1_05x0_95mm_handsolder
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_j4_pinheader_1x04_p2_54mm_vertical_1_conn_01x04___
+  designation: conn_01x04
+  designator: j4
+  footprint: pinheader_1x04_p2_54mm_vertical
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_j1_usb_micro_b_amphenol_10118194_horizontal_1_usb_b_micro___
+  designation: usb_b_micro
+  designator: j1
+  footprint: usb_micro_b_amphenol_10118194_horizontal
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_j2_pinheader_1x02_p2_54mm_vertical_1_conn_01x02___
+  designation: conn_01x02
+  designator: j2
+  footprint: pinheader_1x02_p2_54mm_vertical
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_j3_usb_a_molex_67643_horizontal_1_usb_a___
+  designation: usb_a
+  designator: j3
+  footprint: usb_a_molex_67643_horizontal
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/jonasnorling_usb_probe_board/version_current/working
 projects_folder: projects_folder/JonasNorling/usb-probe-board/version_current/working
 repo:

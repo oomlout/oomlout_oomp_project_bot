@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\solderparty_kmk_firmware\version_current\working
 oomp_key: oomp_projects_flat_solderparty_kmk_firmware
 oomp_key_simple: projects_flat_solderparty_kmk_firmware
+parts_verbose:
+- all: 1_frame2_creative_commons_1_frame_letter___
+  designation: frame_letter
+  designator: frame2
+  footprint: creative_commons
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_jp1_1x05_round_70_1____
+  designation: ''
+  designator: jp1
+  footprint: 1x05_round_70
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_jp4,jp2_1x14_round70_2____
+  designation: ''
+  designator: jp4
+  footprint: 1x14_round70
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_jp4,jp2_1x14_round70_2____
+  designation: ''
+  designator: jp2
+  footprint: 1x14_round70
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_jp3,jp5_1x12_2____
+  designation: ''
+  designator: jp3
+  footprint: 1x12
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_jp3,jp5_1x12_2____
+  designation: ''
+  designator: jp5
+  footprint: 1x12
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/solderparty_kmk_firmware/version_current/working
 projects_folder: projects_folder/solderparty/kmk_firmware/version_current/working
 repo:

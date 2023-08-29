@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\oomlout_ibbc_0001\version_current\working
 oomp_key: oomp_projects_flat_oomlout_ibbc_0001
 oomp_key_simple: projects_flat_oomlout_ibbc_0001
+parts_verbose:
+- all: 1_c2,c1_c_0805_2012metric_2_10uf___
+  designation: 10uf
+  designator: c2
+  footprint: c_0805_2012metric
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_c2,c1_c_0805_2012metric_2_10uf___
+  designation: 10uf
+  designator: c1
+  footprint: c_0805_2012metric
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_u1_sot_23_5_1_ap2112k_3_3___
+  designation: ap2112k_3_3
+  designator: u1
+  footprint: sot_23_5
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u2_lga_14_3x5mm_p0_8mm_layoutborder1x6y_1_adxl343___
+  designation: adxl343
+  designator: u2
+  footprint: lga_14_3x5mm_p0_8mm_layoutborder1x6y
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_u3_module_conn_brbo_ibbc_sz01_1_module_conn_brbo_ibbc_sz01___
+  designation: module_conn_brbo_ibbc_sz01
+  designator: u3
+  footprint: module_conn_brbo_ibbc_sz01
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_c3_c_0603_1608metric_1_100nf___
+  designation: 100nf
+  designator: c3
+  footprint: c_0603_1608metric
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/oomlout_ibbc_0001/version_current/working
 projects_folder: projects_folder/oomlout/IBBC_0001/version_current/working
 repo:

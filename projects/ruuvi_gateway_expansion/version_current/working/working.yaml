@@ -13,6 +13,28 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ruuvi_gateway_expansion\version_current\working
 oomp_key: oomp_projects_flat_ruuvi_gateway_expansion
 oomp_key_simple: projects_flat_ruuvi_gateway_expansion
+parts_verbose:
+- all: 1_j1,j3,j2_ruuvi_connector_ffc_3_ruuvi_connector___
+  designation: ruuvi_connector
+  designator: j1
+  footprint: ruuvi_connector_ffc
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_j1,j3,j2_ruuvi_connector_ffc_3_ruuvi_connector___
+  designation: ruuvi_connector
+  designator: j3
+  footprint: ruuvi_connector_ffc
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_j1,j3,j2_ruuvi_connector_ffc_3_ruuvi_connector___
+  designation: ruuvi_connector
+  designator: j2
+  footprint: ruuvi_connector_ffc
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
 projects_flat: projects_flat/ruuvi_gateway_expansion/version_current/working
 projects_folder: projects_folder/ruuvi/gateway-expansion/version_current/working
 repo:

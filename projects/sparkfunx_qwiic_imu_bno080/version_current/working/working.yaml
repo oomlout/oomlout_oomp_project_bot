@@ -13,6 +13,42 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfunx_qwiic_imu_bno080\version_current\working
 oomp_key: oomp_projects_flat_sparkfunx_qwiic_imu_bno080
 oomp_key_simple: projects_flat_sparkfunx_qwiic_imu_bno080
+parts_verbose:
+- all: 1_jp6,jp1,jp5,jp2_stand_off_4_stand_off___
+  designation: stand_off
+  designator: jp6
+  footprint: stand_off
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_jp6,jp1,jp5,jp2_stand_off_4_stand_off___
+  designation: stand_off
+  designator: jp1
+  footprint: stand_off
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_jp6,jp1,jp5,jp2_stand_off_4_stand_off___
+  designation: stand_off
+  designator: jp5
+  footprint: stand_off
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_jp6,jp1,jp5,jp2_stand_off_4_stand_off___
+  designation: stand_off
+  designator: jp2
+  footprint: stand_off
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_frame1_creative_commons_1_frame_letter___
+  designation: frame_letter
+  designator: frame1
+  footprint: creative_commons
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfunx_qwiic_imu_bno080/version_current/working
 projects_folder: projects_folder/sparkfunx/Qwiic_IMU_BNO080/version_current/working
 repo:

@@ -15,6 +15,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\johaa1993_pdb\version_current\working
 oomp_key: oomp_projects_flat_johaa1993_pdb
 oomp_key_simple: projects_flat_johaa1993_pdb
+parts_verbose:
+- all: 1_d1_led_0805_1_led___
+  designation: led
+  designator: d1
+  footprint: led_0805
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u2_sot_23_5_1_lm3490im5_12_nopb___
+  designation: lm3490im5_12_nopb
+  designator: u2
+  footprint: sot_23_5
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_p1,p2_xt60_2_conn_xt60___
+  designation: conn_xt60
+  designator: p1
+  footprint: xt60
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_p1,p2_xt60_2_conn_xt60___
+  designation: conn_xt60
+  designator: p2
+  footprint: xt60
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_p3_pin_header_straight_1x02_1_conn_01x02___
+  designation: conn_01x02
+  designator: p3
+  footprint: pin_header_straight_1x02
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_r1_r_0805_1_4_7k___
+  designation: 4_7k
+  designator: r1
+  footprint: r_0805
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_r2_r_0805_1_10k___
+  designation: 10k
+  designator: r2
+  footprint: r_0805
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_u1_sod_123_1_nsi45020at1g___
+  designation: nsi45020at1g
+  designator: u1
+  footprint: sod_123
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_q1_my_to_220_neutral123_horizontal_largepads_1_irfb7537pbf___
+  designation: irfb7537pbf
+  designator: q1
+  footprint: my_to_220_neutral123_horizontal_largepads
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/johaa1993_pdb/version_current/working
 projects_folder: projects_folder/johaa1993/PDB/version_current/working
 repo:

@@ -13,6 +13,21 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\myelin_tiny_tft\version_current\working
 oomp_key: oomp_projects_flat_myelin_tiny_tft
 oomp_key_simple: projects_flat_myelin_tiny_tft
+parts_verbose:
+- all: 1_p2_pin_header_straight_2x13_1_conn_02x13___
+  designation: conn_02x13
+  designator: p2
+  footprint: pin_header_straight_2x13
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_p1_26_pin_fpc_0_8mm_tft_1_conn_02x13___
+  designation: conn_02x13
+  designator: p1
+  footprint: 26_pin_fpc_0_8mm_tft
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/myelin_tiny_tft/version_current/working
 projects_folder: projects_folder/myelin/tiny-tft/version_current/working
 repo:

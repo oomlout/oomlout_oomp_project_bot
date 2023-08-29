@@ -13,6 +13,35 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_freepixel\version_current\working
 oomp_key: oomp_projects_flat_freetronics_freepixel
 oomp_key_simple: projects_flat_freetronics_freepixel
+parts_verbose:
+- all: 1_j2,j1_1x03_2____
+  designation: ''
+  designator: j2
+  footprint: 1x03
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_j2,j1_1x03_2____
+  designation: ''
+  designator: j1
+  footprint: 1x03
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_led1_ws2812b_1_ws2812b5050___
+  designation: ws2812b5050
+  designator: led1
+  footprint: ws2812b
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_c1_0603_1_100nf___
+  designation: 100nf
+  designator: c1
+  footprint: '0603'
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_freepixel/version_current/working
 projects_folder: projects_folder/freetronics/FREEPIXEL/version_current/working
 repo:

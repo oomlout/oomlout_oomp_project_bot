@@ -13,6 +13,42 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ruuvi_connector\version_current\working
 oomp_key: oomp_projects_flat_ruuvi_connector
 oomp_key_simple: projects_flat_ruuvi_connector
+parts_verbose:
+- all: 1_u1_wson6_1_tmp117aidrvr___
+  designation: tmp117aidrvr
+  designator: u1
+  footprint: wson6
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_c1_0603_cap_1_1uf_10v_20%_x8r_0603___
+  designation: 1uf_10v_20%_x8r_0603
+  designator: c1
+  footprint: 0603_cap
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_h2_breakoutholes_1_breakout_holes___
+  designation: breakout_holes
+  designator: h2
+  footprint: breakoutholes
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_t2_mountinghole_3_2mm_m3_pad_via_1_mounting_hole___
+  designation: mounting_hole
+  designator: t2
+  footprint: mountinghole_3_2mm_m3_pad_via
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_j1_ruuvi_connector_ffc_1_afc07_s08eca_00___
+  designation: afc07_s08eca_00
+  designator: j1
+  footprint: ruuvi_connector_ffc
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/ruuvi_connector/version_current/working
 projects_folder: projects_folder/ruuvi/connector/version_current/working
 repo:

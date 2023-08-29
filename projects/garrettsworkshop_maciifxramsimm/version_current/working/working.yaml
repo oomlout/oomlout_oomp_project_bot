@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\garrettsworkshop_maciifxramsimm\version_current\working
 oomp_key: oomp_projects_flat_garrettsworkshop_maciifxramsimm
 oomp_key_simple: projects_flat_garrettsworkshop_maciifxramsimm
+parts_verbose:
+- all: 1_j1_simm_30_edge_1_dram_simm_30___
+  designation: dram_simm_30
+  designator: j1
+  footprint: simm_30_edge
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_c1,c2,c4,c3_c_0805_4_2u2___
+  designation: 2u2
+  designator: c1
+  footprint: c_0805
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_c1,c2,c4,c3_c_0805_4_2u2___
+  designation: 2u2
+  designator: c2
+  footprint: c_0805
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_c1,c2,c4,c3_c_0805_4_2u2___
+  designation: 2u2
+  designator: c4
+  footprint: c_0805
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_c1,c2,c4,c3_c_0805_4_2u2___
+  designation: 2u2
+  designator: c3
+  footprint: c_0805
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_h2,h1,h4,h3_pastehole_1_152mm_npth_4_mountinghole___
+  designation: mountinghole
+  designator: h2
+  footprint: pastehole_1_152mm_npth
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_h2,h1,h4,h3_pastehole_1_152mm_npth_4_mountinghole___
+  designation: mountinghole
+  designator: h1
+  footprint: pastehole_1_152mm_npth
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_h2,h1,h4,h3_pastehole_1_152mm_npth_4_mountinghole___
+  designation: mountinghole
+  designator: h4
+  footprint: pastehole_1_152mm_npth
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_h2,h1,h4,h3_pastehole_1_152mm_npth_4_mountinghole___
+  designation: mountinghole
+  designator: h3
+  footprint: pastehole_1_152mm_npth
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 4_j2_simm_64_socket_th_p1_27mm_1_iifxram___
+  designation: iifxram
+  designator: j2
+  footprint: simm_64_socket_th_p1_27mm
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/garrettsworkshop_maciifxramsimm/version_current/working
 projects_folder: projects_folder/garrettsworkshop/MacIIfxRAMSIMM/version_current/working
 repo:

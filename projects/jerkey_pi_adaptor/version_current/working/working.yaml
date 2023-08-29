@@ -13,6 +13,35 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jerkey_pi_adaptor\version_current\working
 oomp_key: oomp_projects_flat_jerkey_pi_adaptor
 oomp_key_simple: projects_flat_jerkey_pi_adaptor
+parts_verbose:
+- all: 1_mh,mh_mountinghole_3mm_2_mountinghole_3mm_jakefixed___
+  designation: mountinghole_3mm_jakefixed
+  designator: mh
+  footprint: mountinghole_3mm
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_mh,mh_mountinghole_3mm_2_mountinghole_3mm_jakefixed___
+  designation: mountinghole_3mm_jakefixed
+  designator: mh
+  footprint: mountinghole_3mm
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_p2_pin_array_13x2_1_conn_13x2___
+  designation: conn_13x2
+  designator: p2
+  footprint: pin_array_13x2
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_p1_pin_header_angled_2x05_1_conn_5x2___
+  designation: conn_5x2
+  designator: p1
+  footprint: pin_header_angled_2x05
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/jerkey_pi_adaptor/version_current/working
 projects_folder: projects_folder/jerkey/pi-adaptor/version_current/working
 repo:

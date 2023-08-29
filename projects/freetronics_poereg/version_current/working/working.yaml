@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_poereg\version_current\working
 oomp_key: oomp_projects_flat_freetronics_poereg
 oomp_key_simple: projects_flat_freetronics_poereg
+parts_verbose:
+- all: 1_c1_panasonic_d_1_100uf_25v___
+  designation: 100uf_25v
+  designator: c1
+  footprint: panasonic_d
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j3,j2_1x01_2_m01_plain___
+  designation: m01_plain
+  designator: j3
+  footprint: 1x01
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_j3,j2_1x01_2_m01_plain___
+  designation: m01_plain
+  designator: j2
+  footprint: 1x01
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_led1_led_0603_1_blue___
+  designation: blue
+  designator: led1
+  footprint: led_0603
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_reg1_ag9900lp_1_ag9912lp___
+  designation: ag9912lp
+  designator: reg1
+  footprint: ag9900lp
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_sj1_sjc_1_sjc_normal___
+  designation: sjc_normal
+  designator: sj1
+  footprint: sjc
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_j1_1x04_1_poe_header___
+  designation: poe_header
+  designator: j1
+  footprint: 1x04
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_r1_r0603_1_4k7___
+  designation: 4k7
+  designator: r1
+  footprint: r0603
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_c2_eia3216_1_10uf_1206___
+  designation: 10uf_1206
+  designator: c2
+  footprint: eia3216
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_poereg/version_current/working
 projects_folder: projects_folder/freetronics/POEREG/version_current/working
 repo:

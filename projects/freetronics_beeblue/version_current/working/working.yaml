@@ -13,6 +13,35 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_beeblue\version_current\working
 oomp_key: oomp_projects_flat_freetronics_beeblue
 oomp_key_simple: projects_flat_freetronics_beeblue
+parts_verbose:
+- all: 1_xb1_xbee_pro_1_xbee_pro___
+  designation: xbee_pro
+  designator: xb1
+  footprint: xbee_pro
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u1_bluetooth_smd_1_hc_05___
+  designation: hc_05
+  designator: u1
+  footprint: bluetooth_smd
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_sj2_sj_1_reset_enable___
+  designation: reset_enable
+  designator: sj2
+  footprint: sj
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_sj1_sj_1_command_mode___
+  designation: command_mode
+  designator: sj1
+  footprint: sj
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_beeblue/version_current/working
 projects_folder: projects_folder/freetronics/BeeBlue/version_current/working
 repo:

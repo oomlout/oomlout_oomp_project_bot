@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\olimex_mod_ir_temp\version_current\working
 oomp_key: oomp_projects_flat_olimex_mod_ir_temp
 oomp_key_simple: projects_flat_olimex_mod_ir_temp
+parts_verbose:
+- all: 1_p1_uextm_smd_1_conn_02x05___
+  designation: conn_02x05
+  designator: p1
+  footprint: uextm_smd
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2__logo_pbfree_1____
+  designation: ''
+  designator: ''
+  footprint: logo_pbfree
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_p2_sip4_smd_1_conn_01x04___
+  designation: conn_01x04
+  designator: p2
+  footprint: sip4_smd
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4__olimex_logo_tb_1____
+  designation: ''
+  designator: ''
+  footprint: olimex_logo_tb
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_c1_c_0603_5mil_dws_1_1uf___
+  designation: 1uf
+  designator: c1
+  footprint: c_0603_5mil_dws
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_r1,r2_r_0603_5mil_dws_2_10k___
+  designation: 10k
+  designator: r1
+  footprint: r_0603_5mil_dws
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_r1,r2_r_0603_5mil_dws_2_10k___
+  designation: 10k
+  designator: r2
+  footprint: r_0603_5mil_dws
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 7_u1_mlx90614_1_mlx90614___
+  designation: mlx90614
+  designator: u1
+  footprint: mlx90614
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/olimex_mod_ir_temp/version_current/working
 projects_folder: projects_folder/OLIMEX/MOD-IR-TEMP/version_current/working
 repo:

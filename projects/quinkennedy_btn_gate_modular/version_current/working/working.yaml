@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\quinkennedy_btn_gate_modular\version_current\working
 oomp_key: oomp_projects_flat_quinkennedy_btn_gate_modular
 oomp_key_simple: projects_flat_quinkennedy_btn_gate_modular
+parts_verbose:
+- all: 1_h1_pinheader_2x08_p2_54mm_vertical_1_euro_pwr_2x8___
+  designation: euro_pwr_2x8
+  designator: h1
+  footprint: pinheader_2x08_p2_54mm_vertical
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_h_smd1_pinheader_2x08_p2_54mm_vertical_smd_1_euro_pwr_2x8___
+  designation: euro_pwr_2x8
+  designator: h_smd1
+  footprint: pinheader_2x08_p2_54mm_vertical_smd
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r1_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering_1_10k___
+  designation: 10k
+  designator: r1
+  footprint: resistor_smd_thtuniversal_0805to1206_rm10_handsoldering
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_r2_resistor_smd_thtuniversal_0805to1206_rm10_handsoldering_1_1k___
+  designation: 1k
+  designator: r2
+  footprint: resistor_smd_thtuniversal_0805to1206_rm10_handsoldering
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_sw1_pushbutton_round_d12mm_tht_ks_01q_01_1_ks_01q_01_obsolete___
+  designation: ks_01q_01_obsolete
+  designator: sw1
+  footprint: pushbutton_round_d12mm_tht_ks_01q_01
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_sw2_toggle_switch_100sp1t1b4m2qe_1_sw_spdt___
+  designation: sw_spdt
+  designator: sw2
+  footprint: toggle_switch_100sp1t1b4m2qe
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_j1_thonkiconn_mill_1_thonk___
+  designation: thonk
+  designator: j1
+  footprint: thonkiconn_mill
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/quinkennedy_btn_gate_modular/version_current/working
 projects_folder: projects_folder/quinkennedy/btn-gate-modular/version_current/working
 repo:

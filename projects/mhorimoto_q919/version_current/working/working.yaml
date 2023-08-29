@@ -13,6 +13,21 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mhorimoto_q919\version_current\working
 oomp_key: oomp_projects_flat_mhorimoto_q919
 oomp_key_simple: projects_flat_mhorimoto_q919
+parts_verbose:
+- all: 1_j1_pinheader_1x15_p2_54mm_vertical_1_analog___
+  designation: analog
+  designator: j1
+  footprint: pinheader_1x15_p2_54mm_vertical
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j2_pinheader_1x15_p2_54mm_vertical_1_digital___
+  designation: digital
+  designator: j2
+  footprint: pinheader_1x15_p2_54mm_vertical
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/mhorimoto_q919/version_current/working
 projects_folder: projects_folder/mhorimoto/Q919/version_current/working
 repo:

@@ -15,6 +15,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\russellmcc_dco\version_current\working
 oomp_key: oomp_projects_flat_russellmcc_dco
 oomp_key_simple: projects_flat_russellmcc_dco
+parts_verbose:
+- all: 1_p2,p3,p1_pdb12_3_100kb___
+  designation: 100kb
+  designator: p2
+  footprint: pdb12
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_p2,p3,p1_pdb12_3_100kb___
+  designation: 100kb
+  designator: p3
+  footprint: pdb12
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_p2,p3,p1_pdb12_3_100kb___
+  designation: 100kb
+  designator: p1
+  footprint: pdb12
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_cv_in0,aux_in0,out0_erthenvar_jack_3_audio_jackerthenvar___
+  designation: audio_jackerthenvar
+  designator: cv_in0
+  footprint: erthenvar_jack
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_cv_in0,aux_in0,out0_erthenvar_jack_3_audio_jackerthenvar___
+  designation: audio_jackerthenvar
+  designator: aux_in0
+  footprint: erthenvar_jack
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_cv_in0,aux_in0,out0_erthenvar_jack_3_audio_jackerthenvar___
+  designation: audio_jackerthenvar
+  designator: out0
+  footprint: erthenvar_jack
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_piggy0_2x4_1____
+  designation: ''
+  designator: piggy0
+  footprint: 2x4
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/russellmcc_dco/version_current/working
 projects_folder: projects_folder/russellmcc/dco/version_current/working
 repo:

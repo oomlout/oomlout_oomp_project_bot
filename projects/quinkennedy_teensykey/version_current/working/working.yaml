@@ -13,6 +13,28 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\quinkennedy_teensykey\version_current\working
 oomp_key: oomp_projects_flat_quinkennedy_teensykey
 oomp_key_simple: projects_flat_quinkennedy_teensykey
+parts_verbose:
+- all: 1_u1_teensy30_31_32_lc_smt_combi_1_teensy3_2___
+  designation: teensy3_2
+  designator: u1
+  footprint: teensy30_31_32_lc_smt_combi
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_sw1_mx_alps_choc_1u_1_mx_with_led___
+  designation: mx_with_led
+  designator: sw1
+  footprint: mx_alps_choc_1u
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_d1_d_do_35_sod27_p7_62mm_horizontal_1_d___
+  designation: d
+  designator: d1
+  footprint: d_do_35_sod27_p7_62mm_horizontal
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/quinkennedy_teensykey/version_current/working
 projects_folder: projects_folder/quinkennedy/TeensyKey/version_current/working
 repo:

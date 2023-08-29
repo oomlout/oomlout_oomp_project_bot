@@ -13,6 +13,42 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\gigahawk_freecad_export_action_test\version_current\working
 oomp_key: oomp_projects_flat_gigahawk_freecad_export_action_test
 oomp_key_simple: projects_flat_gigahawk_freecad_export_action_test
+parts_verbose:
+- all: 1_u1_dip_40_w15_24mm_1_mc68a00___
+  designation: mc68a00
+  designator: u1
+  footprint: dip_40_w15_24mm
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_r2,r3_r_axial_din0414_l11_9mm_d4_5mm_p15_24mm_horizontal_2_r___
+  designation: r
+  designator: r2
+  footprint: r_axial_din0414_l11_9mm_d4_5mm_p15_24mm_horizontal
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_r2,r3_r_axial_din0414_l11_9mm_d4_5mm_p15_24mm_horizontal_2_r___
+  designation: r
+  designator: r3
+  footprint: r_axial_din0414_l11_9mm_d4_5mm_p15_24mm_horizontal
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_j1_usb_mini_b_lumberg_2486_01_horizontal_1_usb_b_mini___
+  designation: usb_b_mini
+  designator: j1
+  footprint: usb_mini_b_lumberg_2486_01_horizontal
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_r1_r_0805_2012metric_1_r___
+  designation: r
+  designator: r1
+  footprint: r_0805_2012metric
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/gigahawk_freecad_export_action_test/version_current/working
 projects_folder: projects_folder/Gigahawk/freecad-export-action-test/version_current/working
 repo:

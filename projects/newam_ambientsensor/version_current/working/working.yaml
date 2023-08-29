@@ -13,6 +13,28 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\newam_ambientsensor\version_current\working
 oomp_key: oomp_projects_flat_newam_ambientsensor
 oomp_key_simple: projects_flat_newam_ambientsensor
+parts_verbose:
+- all: 1_x1_a_2004_3_4_lp_n_r_1_rj22___
+  designation: rj22
+  designator: x1
+  footprint: a_2004_3_4_lp_n_r
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_c1_c_0603_1_100u___
+  designation: 100u
+  designator: c1
+  footprint: c_0603
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u1_dfn_6_1ep_2x2mm_pitch0_65mm_1_opt3002___
+  designation: opt3002
+  designator: u1
+  footprint: dfn_6_1ep_2x2mm_pitch0_65mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/newam_ambientsensor/version_current/working
 projects_folder: projects_folder/newAM/AmbientSensor/version_current/working
 repo:

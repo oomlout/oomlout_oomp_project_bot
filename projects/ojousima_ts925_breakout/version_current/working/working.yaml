@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ojousima_ts925_breakout\version_current\working
 oomp_key: oomp_projects_flat_ojousima_ts925_breakout
 oomp_key_simple: projects_flat_ojousima_ts925_breakout
+parts_verbose:
+- all: 1_c1,c2,c3,c4,c5,c6_smd0805_cap_m_6_c___
+  designation: c
+  designator: c1
+  footprint: smd0805_cap_m
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 1_c1,c2,c3,c4,c5,c6_smd0805_cap_m_6_c___
+  designation: c
+  designator: c2
+  footprint: smd0805_cap_m
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 1_c1,c2,c3,c4,c5,c6_smd0805_cap_m_6_c___
+  designation: c
+  designator: c3
+  footprint: smd0805_cap_m
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 1_c1,c2,c3,c4,c5,c6_smd0805_cap_m_6_c___
+  designation: c
+  designator: c4
+  footprint: smd0805_cap_m
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 1_c1,c2,c3,c4,c5,c6_smd0805_cap_m_6_c___
+  designation: c
+  designator: c5
+  footprint: smd0805_cap_m
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 1_c1,c2,c3,c4,c5,c6_smd0805_cap_m_6_c___
+  designation: c
+  designator: c6
+  footprint: smd0805_cap_m
+  id: '1'
+  quantity: '6'
+  supplier_and_ref: ''
+- all: 2_p1,p2_pin_header_straight_1x08_2_conn_01x08___
+  designation: conn_01x08
+  designator: p1
+  footprint: pin_header_straight_1x08
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_p1,p2_pin_header_straight_1x08_2_conn_01x08___
+  designation: conn_01x08
+  designator: p2
+  footprint: pin_header_straight_1x08
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_u1_ssop_16_4_4x5_2mm_pitch0_65mm_1_ts925___
+  designation: ts925
+  designator: u1
+  footprint: ssop_16_4_4x5_2mm_pitch0_65mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/ojousima_ts925_breakout/version_current/working
 projects_folder: projects_folder/ojousima/TS925-breakout/version_current/working
 repo:

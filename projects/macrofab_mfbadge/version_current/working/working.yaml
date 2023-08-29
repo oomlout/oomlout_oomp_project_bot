@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\macrofab_mfbadge\version_current\working
 oomp_key: oomp_projects_flat_macrofab_mfbadge
 oomp_key_simple: projects_flat_macrofab_mfbadge
+parts_verbose:
+- all: 1_d2,d3,d1,d4_apa3010_4_apa3010surck___
+  designation: apa3010surck
+  designator: d2
+  footprint: apa3010
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_d2,d3,d1,d4_apa3010_4_apa3010surck___
+  designation: apa3010surck
+  designator: d3
+  footprint: apa3010
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_d2,d3,d1,d4_apa3010_4_apa3010surck___
+  designation: apa3010surck
+  designator: d1
+  footprint: apa3010
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_d2,d3,d1,d4_apa3010_4_apa3010surck___
+  designation: apa3010surck
+  designator: d4
+  footprint: apa3010
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_r1,r4,r3,r2_0805_4_100___
+  designation: '100'
+  designator: r1
+  footprint: 0805
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_r1,r4,r3,r2_0805_4_100___
+  designation: '100'
+  designator: r4
+  footprint: 0805
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_r1,r4,r3,r2_0805_4_100___
+  designation: '100'
+  designator: r3
+  footprint: 0805
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_r1,r4,r3,r2_0805_4_100___
+  designation: '100'
+  designator: r2
+  footprint: 0805
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_u$1_mf_frame_1_mf_framemf_frame___
+  designation: mf_framemf_frame
+  designator: u$1
+  footprint: mf_frame
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_batt1_smtm2032_1_smtm2032_tr___
+  designation: smtm2032_tr
+  designator: batt1
+  footprint: smtm2032
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/macrofab_mfbadge/version_current/working
 projects_folder: projects_folder/MacroFab/MFBadge/version_current/working
 repo:

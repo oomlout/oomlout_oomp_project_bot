@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\esden_radio\version_current\working
 oomp_key: oomp_projects_flat_esden_radio
 oomp_key_simple: projects_flat_esden_radio
+parts_verbose:
+- all: 1_u1_epcos_dcc6c_1_epcos_dcc6c___
+  designation: epcos_dcc6c
+  designator: u1
+  footprint: epcos_dcc6c
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_l1_ipc_indc1608x95n_1_l___
+  designation: l
+  designator: l1
+  footprint: ipc_indc1608x95n
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r1_ipc_resc1608x55n_1_r___
+  designation: r
+  designator: r1
+  footprint: ipc_resc1608x55n
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_p1,p2_emerson_142_0701_801_2_conn_coax___
+  designation: conn_coax
+  designator: p1
+  footprint: emerson_142_0701_801
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_p1,p2_emerson_142_0701_801_2_conn_coax___
+  designation: conn_coax
+  designator: p2
+  footprint: emerson_142_0701_801
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_c1,c2_ipc_capc1608x95n_2_100n___
+  designation: 100n
+  designator: c1
+  footprint: ipc_capc1608x95n
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_c1,c2_ipc_capc1608x95n_2_100n___
+  designation: 100n
+  designator: c2
+  footprint: ipc_capc1608x95n
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/esden_radio/version_current/working
 projects_folder: projects_folder/esden/radio/version_current/working
 repo:

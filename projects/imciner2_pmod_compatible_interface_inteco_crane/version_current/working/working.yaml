@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\imciner2_pmod_compatible_interface_inteco_crane\version_current\working
 oomp_key: oomp_projects_flat_imciner2_pmod_compatible_interface_inteco_crane
 oomp_key_simple: projects_flat_imciner2_pmod_compatible_interface_inteco_crane
+parts_verbose:
+- all: 1_j1,j2,j3,j4_pmod_double_male_4_pmod_dual___
+  designation: pmod_dual
+  designator: j1
+  footprint: pmod_double_male
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_j1,j2,j3,j4_pmod_double_male_4_pmod_dual___
+  designation: pmod_dual
+  designator: j2
+  footprint: pmod_double_male
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_j1,j2,j3,j4_pmod_double_male_4_pmod_dual___
+  designation: pmod_dual
+  designator: j3
+  footprint: pmod_double_male
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_j1,j2,j3,j4_pmod_double_male_4_pmod_dual___
+  designation: pmod_dual
+  designator: j4
+  footprint: pmod_double_male
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_p1_conn_2_54mm_2x20_1_conn_040___
+  designation: conn_040
+  designator: p1
+  footprint: conn_2_54mm_2x20
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_p2_conn_2_54mm_1x03_1_conn_003___
+  designation: conn_003
+  designator: p2
+  footprint: conn_2_54mm_1x03
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_p3_conn_2_54mm_2x03_1_conn_006___
+  designation: conn_006
+  designator: p3
+  footprint: conn_2_54mm_2x03
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/imciner2_pmod_compatible_interface_inteco_crane/version_current/working
 projects_folder: projects_folder/imciner2/PMOD-Compatible_Interface_InTeCo-Crane/version_current/working
 repo:

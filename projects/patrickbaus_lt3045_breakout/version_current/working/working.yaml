@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\patrickbaus_lt3045_breakout\version_current\working
 oomp_key: oomp_projects_flat_patrickbaus_lt3045_breakout
 oomp_key_simple: projects_flat_patrickbaus_lt3045_breakout
+parts_verbose:
+- all: 1_r1_r_0603_1_120k___
+  designation: 120k
+  designator: r1
+  footprint: r_0603
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_r2_r_0603_1_300___
+  designation: '300'
+  designator: r2
+  footprint: r_0603
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u1_dfn_10_1ep_3x3mm_pitch0_5mm_1_lt3045edd___
+  designation: lt3045edd
+  designator: u1
+  footprint: dfn_10_1ep_3x3mm_pitch0_5mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_j1_pin_header_angled_1x03_pitch2_54mm_1_conn_01x03___
+  designation: conn_01x03
+  designator: j1
+  footprint: pin_header_angled_1x03_pitch2_54mm
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_c2,c1,c3_c_0603_3_10u___
+  designation: 10u
+  designator: c2
+  footprint: c_0603
+  id: '5'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 5_c2,c1,c3_c_0603_3_10u___
+  designation: 10u
+  designator: c1
+  footprint: c_0603
+  id: '5'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 5_c2,c1,c3_c_0603_3_10u___
+  designation: 10u
+  designator: c3
+  footprint: c_0603
+  id: '5'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 6_w1_net_tie_0_15mm_1_net_tie___
+  designation: net_tie
+  designator: w1
+  footprint: net_tie_0_15mm
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_r3_r_0402_1_200k___
+  designation: 200k
+  designator: r3
+  footprint: r_0402
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_r4_r_0402_1_5_6k___
+  designation: 5_6k
+  designator: r4
+  footprint: r_0402
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/patrickbaus_lt3045_breakout/version_current/working
 projects_folder: projects_folder/PatrickBaus/LT3045_breakout/version_current/working
 repo:

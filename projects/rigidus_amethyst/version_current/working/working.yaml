@@ -13,6 +13,35 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\rigidus_amethyst\version_current\working
 oomp_key: oomp_projects_flat_rigidus_amethyst
 oomp_key_simple: projects_flat_rigidus_amethyst
+parts_verbose:
+- all: 1_j1_conn_1x06_p2_54mm_horizontal_smd_1_conn_01x06___
+  designation: conn_01x06
+  designator: j1
+  footprint: conn_1x06_p2_54mm_horizontal_smd
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_c1_c_0603_1608metric_1_0_1uf___
+  designation: 0_1uf
+  designator: c1
+  footprint: c_0603_1608metric
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r1_r_0603_1608metric_1_1k___
+  designation: 1k
+  designator: r1
+  footprint: r_0603_1608metric
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_u1_soic_8_3_9x4_9mm_p1_27mm_1_cat250xxx___
+  designation: cat250xxx
+  designator: u1
+  footprint: soic_8_3_9x4_9mm_p1_27mm
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/rigidus_amethyst/version_current/working
 projects_folder: projects_folder/rigidus/Amethyst/version_current/working
 repo:

@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_cncplotter\version_current\working
 oomp_key: oomp_projects_flat_freetronics_cncplotter
 oomp_key_simple: projects_flat_freetronics_cncplotter
+parts_verbose:
+- all: 1_j4_jp1_1_ms1___
+  designation: ms1
+  designator: j4
+  footprint: jp1
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j6_jp1_1_ms3___
+  designation: ms3
+  designator: j6
+  footprint: jp1
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_j1_5pol254_1_z_drive___
+  designation: z_drive
+  designator: j1
+  footprint: 5pol254
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_j5_jp1_1_ms2___
+  designation: ms2
+  designator: j5
+  footprint: jp1
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_j3_4pol254_1_z_motor___
+  designation: z_motor
+  designator: j3
+  footprint: 4pol254
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: "6_c1_e2,5_6_1_100\xE2\xB5f___"
+  designation: "100\xE2\xB5f"
+  designator: c1
+  footprint: e2,5_6
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_j2_a4988breakout_1_a4988breakout___
+  designation: a4988breakout
+  designator: j2
+  footprint: a4988breakout
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_cncplotter/version_current/working
 projects_folder: projects_folder/freetronics/CNCPlotter/version_current/working
 repo:

@@ -13,6 +13,35 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\solderparty_lipo_disconnector_hw\version_current\working
 oomp_key: oomp_projects_flat_solderparty_lipo_disconnector_hw
 oomp_key_simple: projects_flat_solderparty_lipo_disconnector_hw
+parts_verbose:
+- all: 1_j3_pinheader_1x02_p2_54mm_vertical_1_conn_jumper___
+  designation: conn_jumper
+  designator: j3
+  footprint: pinheader_1x02_p2_54mm_vertical
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j1_jst_ph_s2b_ph_sm4_tb_1x02_1mp_p2_00mm_horizontal_1_conn_batt1___
+  designation: conn_batt1
+  designator: j1
+  footprint: jst_ph_s2b_ph_sm4_tb_1x02_1mp_p2_00mm_horizontal
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_g__solderparty_new_logo_3x2_5mm_silkscreen_1_logo___
+  designation: logo
+  designator: g_
+  footprint: solderparty_new_logo_3x2_5mm_silkscreen
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_j2_jst_ph_s2b_ph_sm4_tb_1x02_1mp_p2_00mm_horizontal_1_conn_batt2___
+  designation: conn_batt2
+  designator: j2
+  footprint: jst_ph_s2b_ph_sm4_tb_1x02_1mp_p2_00mm_horizontal
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/solderparty_lipo_disconnector_hw/version_current/working
 projects_folder: projects_folder/solderparty/lipo_disconnector_hw/version_current/working
 repo:

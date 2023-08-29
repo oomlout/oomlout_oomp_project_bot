@@ -13,6 +13,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_wifiled\version_current\working
 oomp_key: oomp_projects_flat_freetronics_wifiled
 oomp_key_simple: projects_flat_freetronics_wifiled
+parts_verbose:
+- all: 1_r1,r6_0603_2_22k___
+  designation: 22k
+  designator: r1
+  footprint: '0603'
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_r1,r6_0603_2_22k___
+  designation: 22k
+  designator: r6
+  footprint: '0603'
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_sw2_tactile_switch_smd_2pin_tiny_1_reflash___
+  designation: reflash
+  designator: sw2
+  footprint: tactile_switch_smd_2pin_tiny
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_led1_led_0603_1_blue___
+  designation: blue
+  designator: led1
+  footprint: led_0603
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_j9_esp01_1_esp01___
+  designation: esp01
+  designator: j9
+  footprint: esp01
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_r2,r5_0603_2_1k___
+  designation: 1k
+  designator: r2
+  footprint: '0603'
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_r2,r5_0603_2_1k___
+  designation: 1k
+  designator: r5
+  footprint: '0603'
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_j2_1x06_1_ftdi___
+  designation: ftdi
+  designator: j2
+  footprint: 1x06
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_sw1_tactile_switch_smd_2pin_tiny_1_reset___
+  designation: reset
+  designator: sw1
+  footprint: tactile_switch_smd_2pin_tiny
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_q1_sot32_3_1_2n7002_sot_323___
+  designation: 2n7002_sot_323
+  designator: q1
+  footprint: sot32_3
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 9_jp1_1x02_1____
+  designation: ''
+  designator: jp1
+  footprint: 1x02
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_wifiled/version_current/working
 projects_folder: projects_folder/freetronics/WIFILED/version_current/working
 repo:

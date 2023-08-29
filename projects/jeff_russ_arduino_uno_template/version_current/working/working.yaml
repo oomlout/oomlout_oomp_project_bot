@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jeff_russ_arduino_uno_template\version_current\working
 oomp_key: oomp_projects_flat_jeff_russ_arduino_uno_template
 oomp_key_simple: projects_flat_jeff_russ_arduino_uno_template
+parts_verbose:
+- all: 1_p1_socket_strip_arduino_1x08_1_power___
+  designation: power
+  designator: p1
+  footprint: socket_strip_arduino_1x08
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_p2_socket_strip_arduino_1x06_1_analog___
+  designation: analog
+  designator: p2
+  footprint: socket_strip_arduino_1x06
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_p3_socket_strip_arduino_1x10_1_digital___
+  designation: digital
+  designator: p3
+  footprint: socket_strip_arduino_1x10
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_p4_socket_strip_arduino_1x08_1_digital___
+  designation: digital
+  designator: p4
+  footprint: socket_strip_arduino_1x08
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_p5,p6,p7,p8_arduino_1pin_4_conn_01x01___
+  designation: conn_01x01
+  designator: p5
+  footprint: arduino_1pin
+  id: '5'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 5_p5,p6,p7,p8_arduino_1pin_4_conn_01x01___
+  designation: conn_01x01
+  designator: p6
+  footprint: arduino_1pin
+  id: '5'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 5_p5,p6,p7,p8_arduino_1pin_4_conn_01x01___
+  designation: conn_01x01
+  designator: p7
+  footprint: arduino_1pin
+  id: '5'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 5_p5,p6,p7,p8_arduino_1pin_4_conn_01x01___
+  designation: conn_01x01
+  designator: p8
+  footprint: arduino_1pin
+  id: '5'
+  quantity: '4'
+  supplier_and_ref: ''
 projects_flat: projects_flat/jeff_russ_arduino_uno_template/version_current/working
 projects_folder: projects_folder/Jeff-Russ/Arduino_Uno_Template/version_current/working
 repo:

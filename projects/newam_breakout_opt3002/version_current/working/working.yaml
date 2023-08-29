@@ -13,6 +13,28 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\newam_breakout_opt3002\version_current\working
 oomp_key: oomp_projects_flat_newam_breakout_opt3002
 oomp_key_simple: projects_flat_newam_breakout_opt3002
+parts_verbose:
+- all: 1_u1_dfn_6_1ep_2x2mm_pitch0_65mm_1_opt3002___
+  designation: opt3002
+  designator: u1
+  footprint: dfn_6_1ep_2x2mm_pitch0_65mm
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_x1,x2_pin_header_straight_1x03_pitch2_54mm_2_conn_01x03___
+  designation: conn_01x03
+  designator: x1
+  footprint: pin_header_straight_1x03_pitch2_54mm
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_x1,x2_pin_header_straight_1x03_pitch2_54mm_2_conn_01x03___
+  designation: conn_01x03
+  designator: x2
+  footprint: pin_header_straight_1x03_pitch2_54mm
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/newam_breakout_opt3002/version_current/working
 projects_folder: projects_folder/newAM/Breakout_OPT3002/version_current/working
 repo:

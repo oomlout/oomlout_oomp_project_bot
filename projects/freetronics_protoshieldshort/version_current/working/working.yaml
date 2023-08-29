@@ -13,6 +13,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_protoshieldshort\version_current\working
 oomp_key: oomp_projects_flat_freetronics_protoshieldshort
 oomp_key_simple: projects_flat_freetronics_protoshieldshort
+parts_verbose:
+- all: 1_j3,sl3_1x10_2_digital_8_13___
+  designation: digital_8_13
+  designator: j3
+  footprint: 1x10
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_j3,sl3_1x10_2_digital_8_13___
+  designation: digital_8_13
+  designator: sl3
+  footprint: 1x10
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_sl1,j1_1x08_2_digital_0_7___
+  designation: digital_0_7
+  designator: sl1
+  footprint: 1x08
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_sl1,j1_1x08_2_digital_0_7___
+  designation: digital_0_7
+  designator: j1
+  footprint: 1x08
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_power0,slp0_1x08_2_power___
+  designation: power
+  designator: power0
+  footprint: 1x08
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_power0,slp0_1x08_2_power___
+  designation: power
+  designator: slp0
+  footprint: 1x08
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_j2,sl2_1x06_2_analog___
+  designation: analog
+  designator: j2
+  footprint: 1x06
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_j2,sl2_1x06_2_analog___
+  designation: analog
+  designator: sl2
+  footprint: 1x06
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_s1_tactile_pth_1_reset___
+  designation: reset
+  designator: s1
+  footprint: tactile_pth
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_pads_gnd0,pads_5v0_1x16_2_m16pth___
+  designation: m16pth
+  designator: pads_gnd0
+  footprint: 1x16
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_pads_gnd0,pads_5v0_1x16_2_m16pth___
+  designation: m16pth
+  designator: pads_5v0
+  footprint: 1x16
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_protoshieldshort/version_current/working
 projects_folder: projects_folder/freetronics/ProtoShieldShort/version_current/working
 repo:

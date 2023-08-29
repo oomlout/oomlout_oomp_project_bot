@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\nppc_slimlightled\version_current\working
 oomp_key: oomp_projects_flat_nppc_slimlightled
 oomp_key_simple: projects_flat_nppc_slimlightled
+parts_verbose:
+- all: 1_r1,r2_r_0402_nosilk_2_15_20___
+  designation: '15_20'
+  designator: r1
+  footprint: r_0402_nosilk
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_r1,r2_r_0402_nosilk_2_15_20___
+  designation: '15_20'
+  designator: r2
+  footprint: r_0402_nosilk
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_d1,d2_5730_2_led___
+  designation: led
+  designator: d1
+  footprint: '5730'
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_d1,d2_5730_2_led___
+  designation: led
+  designator: d2
+  footprint: '5730'
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_ic1,ic2_bcr402_2_bcr402w___
+  designation: bcr402w
+  designator: ic1
+  footprint: bcr402
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_ic1,ic2_bcr402_2_bcr402w___
+  designation: bcr402w
+  designator: ic2
+  footprint: bcr402
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_j2_vcc_pad_1_c_vcc___
+  designation: c_vcc
+  designator: j2
+  footprint: vcc_pad
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_j1_vcc_pad_1_c_gnd___
+  designation: c_gnd
+  designator: j1
+  footprint: vcc_pad
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_j3_light_pad_1_c_gnd___
+  designation: c_gnd
+  designator: j3
+  footprint: light_pad
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_j4_light_pad_1_c_vcc___
+  designation: c_vcc
+  designator: j4
+  footprint: light_pad
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/nppc_slimlightled/version_current/working
 projects_folder: projects_folder/nppc/SlimLightLED/version_current/working
 repo:

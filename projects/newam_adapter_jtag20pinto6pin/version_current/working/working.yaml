@@ -13,6 +13,21 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\newam_adapter_jtag20pinto6pin\version_current\working
 oomp_key: oomp_projects_flat_newam_adapter_jtag20pinto6pin
 oomp_key_simple: projects_flat_newam_adapter_jtag20pinto6pin
+parts_verbose:
+- all: 1_x1_pin_header_straight_2x10_pitch2_54mm_1_socket_2x10___
+  designation: socket_2x10
+  designator: x1
+  footprint: pin_header_straight_2x10_pitch2_54mm
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_x2_pin_header_straight_1x06_pitch2_54mm_1_header_1x6___
+  designation: header_1x6
+  designator: x2
+  footprint: pin_header_straight_1x06_pitch2_54mm
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/newam_adapter_jtag20pinto6pin/version_current/working
 projects_folder: projects_folder/newAM/Adapter_JTAG20PinTo6Pin/version_current/working
 repo:

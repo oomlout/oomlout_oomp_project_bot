@@ -13,6 +13,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_beesp12\version_current\working
 oomp_key: oomp_projects_flat_freetronics_beesp12
 oomp_key_simple: projects_flat_freetronics_beesp12
+parts_verbose:
+- all: 1_c1_0603_1_100nf___
+  designation: 100nf
+  designator: c1
+  footprint: '0603'
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_r1,r4,r5,r3_0603_4_22k___
+  designation: 22k
+  designator: r1
+  footprint: '0603'
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_r1,r4,r5,r3_0603_4_22k___
+  designation: 22k
+  designator: r4
+  footprint: '0603'
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_r1,r4,r5,r3_0603_4_22k___
+  designation: 22k
+  designator: r5
+  footprint: '0603'
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_r1,r4,r5,r3_0603_4_22k___
+  designation: 22k
+  designator: r3
+  footprint: '0603'
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_r2_0603_1_22k___
+  designation: 22k
+  designator: r2
+  footprint: '0603'
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_s1_tactile_switch_smd_2pin_tiny_1_reset___
+  designation: reset
+  designator: s1
+  footprint: tactile_switch_smd_2pin_tiny
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_s2_tactile_switch_smd_2pin_tiny_1_program___
+  designation: program
+  designator: s2
+  footprint: tactile_switch_smd_2pin_tiny
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_xb1_xbee_pro_1_xbee_pro___
+  designation: xbee_pro
+  designator: xb1
+  footprint: xbee_pro
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_ic1_esp12_1_esp12___
+  designation: esp12
+  designator: ic1
+  footprint: esp12
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_sj2_sjc_1_reset_link___
+  designation: reset_link
+  designator: sj2
+  footprint: sjc
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_beesp12/version_current/working
 projects_folder: projects_folder/freetronics/BEESP12/version_current/working
 repo:

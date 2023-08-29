@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_pbase170\version_current\working
 oomp_key: oomp_projects_flat_freetronics_pbase170
 oomp_key_simple: projects_flat_freetronics_pbase170
+parts_verbose:
+- all: 1_led1_led_0603_1_blue___
+  designation: blue
+  designator: led1
+  footprint: led_0603
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0,@hole3,@hole2__4____
+  designation: ''
+  designator: '@hole1'
+  footprint: ''
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0,@hole3,@hole2__4____
+  designation: ''
+  designator: '@hole0'
+  footprint: ''
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0,@hole3,@hole2__4____
+  designation: ''
+  designator: '@hole3'
+  footprint: ''
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0,@hole3,@hole2__4____
+  designation: ''
+  designator: '@hole2'
+  footprint: ''
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_r1_0603_1_2k2___
+  designation: 2k2
+  designator: r1
+  footprint: '0603'
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_j2,j1_1x02_2____
+  designation: ''
+  designator: j2
+  footprint: 1x02
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_j2,j1_1x02_2____
+  designation: ''
+  designator: j1
+  footprint: 1x02
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_p1_usb_microb_mb05pmxx_1_usb_6psmt___
+  designation: usb_6psmt
+  designator: p1
+  footprint: usb_microb_mb05pmxx
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_pbase170/version_current/working
 projects_folder: projects_folder/freetronics/PBASE170/version_current/working
 repo:

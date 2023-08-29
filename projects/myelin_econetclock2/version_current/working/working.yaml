@@ -13,6 +13,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\myelin_econetclock2\version_current\working
 oomp_key: oomp_projects_flat_myelin_econetclock2
 oomp_key_simple: projects_flat_myelin_econetclock2
+parts_verbose:
+- all: 1_sv2_ma05_1_1_ext_din_header_2___
+  designation: ext_din_header_2
+  designator: sv2
+  footprint: ma05_1
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_dcjack1_pj_102a_1_5v_in___
+  designation: 5v_in
+  designator: dcjack1
+  footprint: pj_102a
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_sv1_ma05_1_1_ext_din_header_1___
+  designation: ext_din_header_1
+  designator: sv1
+  footprint: ma05_1
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_r1_0204_7_1_10k___
+  designation: 10k
+  designator: r1
+  footprint: '0204_7'
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_c1_c050_025x075_1_100nf___
+  designation: 100nf
+  designator: c1
+  footprint: c050_025x075
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_ic1_dil08_1_attiny45_20pu___
+  designation: attiny45_20pu
+  designator: ic1
+  footprint: dil08
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_sv5_ma03_1_1_5v_dc_in___
+  designation: 5v_dc_in
+  designator: sv5
+  footprint: ma03_1
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_sw1_edg_04_1_clock_speed___
+  designation: clock_speed
+  designator: sw1
+  footprint: edg_04
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 9_sv4,sv3_cp_2350_2_midijack___
+  designation: midijack
+  designator: sv4
+  footprint: cp_2350
+  id: '9'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 9_sv4,sv3_cp_2350_2_midijack___
+  designation: midijack
+  designator: sv3
+  footprint: cp_2350
+  id: '9'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 10_isp1_avrisp_1_avrisp_6___
+  designation: avrisp_6
+  designator: isp1
+  footprint: avrisp
+  id: '10'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/myelin_econetclock2/version_current/working
 projects_folder: projects_folder/myelin/EconetClock2/version_current/working
 repo:

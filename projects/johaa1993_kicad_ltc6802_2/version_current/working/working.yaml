@@ -15,6 +15,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\johaa1993_kicad_ltc6802_2\version_current\working
 oomp_key: oomp_projects_flat_johaa1993_kicad_ltc6802_2
 oomp_key_simple: projects_flat_johaa1993_kicad_ltc6802_2
+parts_verbose:
+- all: 1_p1_pin_header_straight_1x13_1_conn_01x13___
+  designation: conn_01x13
+  designator: p1
+  footprint: pin_header_straight_1x13
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_p2,p3_pin_header_straight_1x04_2_conn_01x04___
+  designation: conn_01x04
+  designator: p2
+  footprint: pin_header_straight_1x04
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_p2,p3_pin_header_straight_1x04_2_conn_01x04___
+  designation: conn_01x04
+  designator: p3
+  footprint: pin_header_straight_1x04
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_p4_pin_header_straight_1x06_1_conn_01x06___
+  designation: conn_01x06
+  designator: p4
+  footprint: pin_header_straight_1x06
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_u1_ssop_44_1_ltc6802_2___
+  designation: ltc6802_2
+  designator: u1
+  footprint: ssop_44
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_c1,c2_c_0805_2_c___
+  designation: c
+  designator: c1
+  footprint: c_0805
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_c1,c2_c_0805_2_c___
+  designation: c
+  designator: c2
+  footprint: c_0805
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_r1,r2_r_0805_2_r___
+  designation: r
+  designator: r1
+  footprint: r_0805
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_r1,r2_r_0805_2_r___
+  designation: r
+  designator: r2
+  footprint: r_0805
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/johaa1993_kicad_ltc6802_2/version_current/working
 projects_folder: projects_folder/johaa1993/KiCad-LTC6802-2/version_current/working
 repo:
