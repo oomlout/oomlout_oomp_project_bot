@@ -15,6 +15,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electrolama_tpm_modules\version_current\working
 oomp_key: oomp_projects_flat_electrolama_tpm_modules
 oomp_key_simple: projects_flat_electrolama_tpm_modules
+parts_verbose:
+- all: 1_c5,c4,c2,c3,c6_c_0402_1005metric_5_100n___
+  designation: 100n
+  designator: c5
+  footprint: c_0402_1005metric
+  id: '1'
+  quantity: '5'
+  supplier_and_ref: ''
+- all: 1_c5,c4,c2,c3,c6_c_0402_1005metric_5_100n___
+  designation: 100n
+  designator: c4
+  footprint: c_0402_1005metric
+  id: '1'
+  quantity: '5'
+  supplier_and_ref: ''
+- all: 1_c5,c4,c2,c3,c6_c_0402_1005metric_5_100n___
+  designation: 100n
+  designator: c2
+  footprint: c_0402_1005metric
+  id: '1'
+  quantity: '5'
+  supplier_and_ref: ''
+- all: 1_c5,c4,c2,c3,c6_c_0402_1005metric_5_100n___
+  designation: 100n
+  designator: c3
+  footprint: c_0402_1005metric
+  id: '1'
+  quantity: '5'
+  supplier_and_ref: ''
+- all: 1_c5,c4,c2,c3,c6_c_0402_1005metric_5_100n___
+  designation: 100n
+  designator: c6
+  footprint: c_0402_1005metric
+  id: '1'
+  quantity: '5'
+  supplier_and_ref: ''
+- all: 2_c1_c_0402_1005metric_1_4u7___
+  designation: 4u7
+  designator: c1
+  footprint: c_0402_1005metric
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r2,r1_r_0402_1005metric_2_10k___
+  designation: 10k
+  designator: r2
+  footprint: r_0402_1005metric
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_r2,r1_r_0402_1005metric_2_10k___
+  designation: 10k
+  designator: r1
+  footprint: r_0402_1005metric
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_ic1_qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm_1_infineon_slb9665___
+  designation: infineon_slb9665
+  designator: ic1
+  footprint: qfn_32_1ep_5x5mm_p0_5mm_ep3_1x3_1mm
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_j1_pinsocket_2x07_p2_54mm_horizontal_1_conn_02x07___
+  designation: conn_02x07
+  designator: j1
+  footprint: pinsocket_2x07_p2_54mm_horizontal
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/electrolama_tpm_modules/version_current/working
 projects_flat_folder: projects_flat_folder/electrolama_tpm_modules/version_current/working
 projects_folder: projects_folder/electrolama/tpm-modules/version_current/working

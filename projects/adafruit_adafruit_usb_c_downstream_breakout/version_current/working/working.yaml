@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_usb_c_downstream_breakout\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_usb_c_downstream_breakout
 oomp_key_simple: projects_flat_adafruit_adafruit_usb_c_downstream_breakout
+parts_verbose:
+- all: 1_fid2,fid1_fiducial_1mm_2_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: fid2
+  footprint: fiducial_1mm
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_fid2,fid1_fiducial_1mm_2_fiducial_1mm___
+  designation: fiducial_1mm
+  designator: fid1
+  footprint: fiducial_1mm
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_u$2,u$1_mountinghole_2_5_plated_2_mountinghole2_5___
+  designation: mountinghole2_5
+  designator: u$2
+  footprint: mountinghole_2_5_plated
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_u$2,u$1_mountinghole_2_5_plated_2_mountinghole2_5___
+  designation: mountinghole2_5
+  designator: u$1
+  footprint: mountinghole_2_5_plated
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_u$3_adafruit_2_5mm_1____
+  designation: ''
+  designator: u$3
+  footprint: adafruit_2_5mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_r2,r1_0603_no_2_5_1k___
+  designation: 5_1k
+  designator: r2
+  footprint: 0603_no
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_r2,r1_0603_no_2_5_1k___
+  designation: 5_1k
+  designator: r1
+  footprint: 0603_no
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_jp1_1x08_round_76_1____
+  designation: ''
+  designator: jp1
+  footprint: 1x08_round_76
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_x1_usb_c_cusb31_cfm2ax_01_x_1____
+  designation: ''
+  designator: x1
+  footprint: usb_c_cusb31_cfm2ax_01_x
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_u$8_pcbfeat_rev_040_1____
+  designation: ''
+  designator: u$8
+  footprint: pcbfeat_rev_040
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_usb_c_downstream_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_usb_c_downstream_breakout/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-USB-C-Downstream-Breakout/version_current/working

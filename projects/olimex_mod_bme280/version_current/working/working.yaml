@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\olimex_mod_bme280\version_current\working
 oomp_key: oomp_projects_flat_olimex_mod_bme280
 oomp_key_simple: projects_flat_olimex_mod_bme280
+parts_verbose:
+- all: 1_p1_gbh_254_smt_10_smaller_1_conn_02x05_odd_even___
+  designation: conn_02x05_odd_even
+  designator: p1
+  footprint: gbh_254_smt_10_smaller
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u1_bme280_1_bme280___
+  designation: bme280
+  designator: u1
+  footprint: bme280
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3__logo_pbfree_1____
+  designation: ''
+  designator: ''
+  footprint: logo_pbfree
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_p2_sip4_smd_1_conn_01x04___
+  designation: conn_01x04
+  designator: p2
+  footprint: sip4_smd
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5__olimex_logo_tb_1____
+  designation: ''
+  designator: ''
+  footprint: olimex_logo_tb
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_c1,c2_c_0603_5mil_dws_2_100nf___
+  designation: 100nf
+  designator: c1
+  footprint: c_0603_5mil_dws
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_c1,c2_c_0603_5mil_dws_2_100nf___
+  designation: 100nf
+  designator: c2
+  footprint: c_0603_5mil_dws
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 7_r1,r2_r_0603_5mil_dws_2_4_7k___
+  designation: 4_7k
+  designator: r1
+  footprint: r_0603_5mil_dws
+  id: '7'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 7_r1,r2_r_0603_5mil_dws_2_4_7k___
+  designation: 4_7k
+  designator: r2
+  footprint: r_0603_5mil_dws
+  id: '7'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 8_sj1_sj_2_small_12_tied_1_sj2w_closed(1_2)___
+  designation: sj2w_closed(1_2)
+  designator: sj1
+  footprint: sj_2_small_12_tied
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/olimex_mod_bme280/version_current/working
 projects_folder: projects_folder/OLIMEX/MOD-BME280/version_current/working
 repo:

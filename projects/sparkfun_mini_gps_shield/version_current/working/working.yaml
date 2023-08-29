@@ -15,6 +15,68 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_mini_gps_shield\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_mini_gps_shield
 oomp_key_simple: projects_flat_sparkfun_mini_gps_shield
+parts_verbose:
+- all: 1,,1_0uf_25v_80_20(0805){dblquote},c5,1_0uf,0805_cap,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 1,,1_0uf_25v_80_20(0805){dblquote},c5,1_0uf,0805_cap,1,_,,
+- all: 2,,2_2uf_10v_20%(0603),c6,2_2uf,0603_cap,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 2,,2_2uf_10v_20%(0603),c6,2_2uf,0603_cap,1,_,,
+- all: 3,,led_blue0603,d1,blue,led_0603,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 3,,led_blue0603,d1,blue,led_0603,1,_,,
+- all: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,,
+- all: 5,,m021x02_no_silk,j5,m021x02_no_silk,1x02_no_silk,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 5,,m021x02_no_silk,j5,m021x02_no_silk,1x02_no_silk,1,_,,
+- all: 6,,m06no_silk_female_pth,j4,m06no_silk_female_pth,1x06_no_silk,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 6,,m06no_silk_female_pth,j4,m06no_silk_female_pth,1x06_no_silk,1,_,,
+- all: 7,,m12no_silk,j2_j3,m12no_silk,1x12_no_silk,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 7,,m12no_silk,j2_j3,m12no_silk,1x12_no_silk,2,_,,
+- all: 8,,microsd_tiny,j1,microsd_tiny,microsd_tiny,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 8,,microsd_tiny,j1,microsd_tiny,microsd_tiny,1,_,,
+- all: 9,,oshw_logos,logo1,oshw_logos,oshw_logo_s,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 9,,oshw_logos,logo1,oshw_logos,oshw_logo_s,1,_,,
+- all: 10,,sfe_logo_flame_1_inch,logo3,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 10,,sfe_logo_flame_1_inch,logo3,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,,
+- all: 11,,sfe_logo_name_1_inch,logo4,sfe_logo_name_1_inch,sfe_logo_name_1,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 11,,sfe_logo_name_1_inch,logo4,sfe_logo_name_1_inch,sfe_logo_name_1,1,_,,
+- all: 12,,470ohm1_10w1%(0603),r1,470,0603_res,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 12,,470ohm1_10w1%(0603),r1,470,0603_res,1,_,,
+- all: 13,,switch_dpdtayz0202,s1,dpdt,ayz0202,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 13,,switch_dpdtayz0202,s1,dpdt,ayz0202,1,_,,
+- all: 14,,gp735,u1,gp735,gp735,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 14,,gp735,u1,gp735,gp735,1,_,,
+- all: 15,,txb0108,u2,txb0108,ufdfn_20,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 15,,txb0108,u2,txb0108,ufdfn_20,1,_,,
+- all: 16,,v_reg_ldosmd,u3,v_reg_ldosmd,sot23_5,1,_,,vreg_12457_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: 16,,v_reg_ldosmd,u3,v_reg_ldosmd,sot23_5,1,_,,vreg_12457
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: revision_,
+- all: date_,2023_08_06_12_56_08_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: date_,2023_08_06_12_56_08
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: statistics_
+- all: component_groups_,16_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_groups_,16
+- all: component_count_,17_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: component_count_,17_(0_smd_0_tht)
+- all: fitted_components_,17_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: fitted_components_,17_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: number_of_pcbs_,1
+- all: total_components_,17_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id: total_components_,17
 projects_flat: projects_flat/sparkfun_mini_gps_shield/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_mini_gps_shield/version_current/working
 projects_folder: projects_folder/sparkfun/Mini_GPS_Shield/version_current/working

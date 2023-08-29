@@ -13,6 +13,21 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_templatenodemcu\version_current\working
 oomp_key: oomp_projects_flat_electroniccats_templatenodemcu
 oomp_key_simple: projects_flat_electroniccats_templatenodemcu
+parts_verbose:
+- all: 1_p1,p8_pin_header_straight_1x15_2_conn_01x15___
+  designation: conn_01x15
+  designator: p1
+  footprint: pin_header_straight_1x15
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_p1,p8_pin_header_straight_1x15_2_conn_01x15___
+  designation: conn_01x15
+  designator: p8
+  footprint: pin_header_straight_1x15
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/electroniccats_templatenodemcu/version_current/working
 projects_folder: projects_folder/ElectronicCats/templateNodeMCU/version_current/working
 repo:

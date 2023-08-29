@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\imrehg_hashlets\version_current\working
 oomp_key: oomp_projects_flat_imrehg_hashlets
 oomp_key_simple: projects_flat_imrehg_hashlets
+parts_verbose:
+- all: 1_p2_pin_array_4x1_1_conn_4___
+  designation: conn_4
+  designator: p2
+  footprint: pin_array_4x1
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_pin_array_1_pin_array_1_1_val____
+  designation: val_
+  designator: pin_array_1
+  footprint: pin_array_1
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u1_so_8_1_atsha204a___
+  designation: atsha204a
+  designator: u1
+  footprint: so_8
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_p1_pin_array_2mm_7x2_1_conn_7x2___
+  designation: conn_7x2
+  designator: p1
+  footprint: pin_array_2mm_7x2
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_g__logo_1_logo___
+  designation: logo
+  designator: g_
+  footprint: logo
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_g__oshw_1_logo___
+  designation: logo
+  designator: g_
+  footprint: oshw
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/imrehg_hashlets/version_current/working
 projects_folder: projects_folder/imrehg/hashlets/version_current/working
 repo:

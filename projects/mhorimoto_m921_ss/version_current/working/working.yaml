@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mhorimoto_m921_ss\version_current\working
 oomp_key: oomp_projects_flat_mhorimoto_m921_ss
 oomp_key_simple: projects_flat_mhorimoto_m921_ss
+parts_verbose:
+- all: 1_j2_jst_xh_b4b_xh_a_1x04_p2_50mm_vertical_1_a_d_conv___
+  designation: a_d_conv
+  designator: j2
+  footprint: jst_xh_b4b_xh_a_1x04_p2_50mm_vertical
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j1_jst_xh_b6b_xh_a_1x06_p2_50mm_vertical_1_piezzo___
+  designation: piezzo
+  designator: j1
+  footprint: jst_xh_b6b_xh_a_1x06_p2_50mm_vertical
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_d3,d2,d1_mb10m_3_mb10m___
+  designation: mb10m
+  designator: d3
+  footprint: mb10m
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_d3,d2,d1_mb10m_3_mb10m___
+  designation: mb10m
+  designator: d2
+  footprint: mb10m
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_d3,d2,d1_mb10m_3_mb10m___
+  designation: mb10m
+  designator: d1
+  footprint: mb10m
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 4_c3,c2,c1_cp_radial_d5_0mm_p2_00mm_3_10uf_50v___
+  designation: 10uf_50v
+  designator: c3
+  footprint: cp_radial_d5_0mm_p2_00mm
+  id: '4'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 4_c3,c2,c1_cp_radial_d5_0mm_p2_00mm_3_10uf_50v___
+  designation: 10uf_50v
+  designator: c2
+  footprint: cp_radial_d5_0mm_p2_00mm
+  id: '4'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 4_c3,c2,c1_cp_radial_d5_0mm_p2_00mm_3_10uf_50v___
+  designation: 10uf_50v
+  designator: c1
+  footprint: cp_radial_d5_0mm_p2_00mm
+  id: '4'
+  quantity: '3'
+  supplier_and_ref: ''
 projects_flat: projects_flat/mhorimoto_m921_ss/version_current/working
 projects_folder: projects_folder/mhorimoto/M921-SS/version_current/working
 repo:

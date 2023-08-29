@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\garrettsworkshop_gw28r8128\version_current\working
 oomp_key: oomp_projects_flat_garrettsworkshop_gw28r8128
 oomp_key_simple: projects_flat_garrettsworkshop_gw28r8128
+parts_verbose:
+- all: 1_u1_plcc_32_1_39sf010___
+  designation: 39sf010
+  designator: u1
+  footprint: plcc_32
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_c1_c_0805_1_100n___
+  designation: 100n
+  designator: c1
+  footprint: c_0805
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r1,r2_r_0805_2_22k___
+  designation: 22k
+  designator: r1
+  footprint: r_0805
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_r1,r2_r_0805_2_22k___
+  designation: 22k
+  designator: r2
+  footprint: r_0805
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_j1_dip_28_w15_24mm_socket_inverse_forked_1_socket___
+  designation: socket
+  designator: j1
+  footprint: dip_28_w15_24mm_socket_inverse_forked
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_tp1_tyco_rcu_0603_paste_1_~{oe}___
+  designation: ~{oe}
+  designator: tp1
+  footprint: tyco_rcu_0603_paste
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_tp2_tyco_rcu_0603_paste_1_~{we}___
+  designation: ~{we}
+  designator: tp2
+  footprint: tyco_rcu_0603_paste
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/garrettsworkshop_gw28r8128/version_current/working
 projects_folder: projects_folder/garrettsworkshop/GW28R8128/version_current/working
 repo:

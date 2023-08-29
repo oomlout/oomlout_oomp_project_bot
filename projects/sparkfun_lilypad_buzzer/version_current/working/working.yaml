@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lilypad_buzzer\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lilypad_buzzer
 oomp_key_simple: projects_flat_sparkfun_lilypad_buzzer
+parts_verbose:
+- all: 1_u$1,u$4,u$6,u$7_petal_nohole_2side_4_sewtap_nohole2___
+  designation: sewtap_nohole2
+  designator: u$1
+  footprint: petal_nohole_2side
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_u$1,u$4,u$6,u$7_petal_nohole_2side_4_sewtap_nohole2___
+  designation: sewtap_nohole2
+  designator: u$4
+  footprint: petal_nohole_2side
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_u$1,u$4,u$6,u$7_petal_nohole_2side_4_sewtap_nohole2___
+  designation: sewtap_nohole2
+  designator: u$6
+  footprint: petal_nohole_2side
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_u$1,u$4,u$6,u$7_petal_nohole_2side_4_sewtap_nohole2___
+  designation: sewtap_nohole2
+  designator: u$7
+  footprint: petal_nohole_2side
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_u$9,u$8_petal_small_2side_2_sewtap6___
+  designation: sewtap6
+  designator: u$9
+  footprint: petal_small_2side
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_u$9,u$8_petal_small_2side_2_sewtap6___
+  designation: sewtap6
+  designator: u$8
+  footprint: petal_small_2side
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_b1_buzzer_ccv_1_buzzer___
+  designation: buzzer
+  designator: b1
+  footprint: buzzer_ccv
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_u$2_logo_lilypad_1_logo_lplp___
+  designation: logo_lplp
+  designator: u$2
+  footprint: logo_lilypad
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_lilypad_buzzer/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lilypad_buzzer/version_current/working
 projects_folder: projects_folder/sparkfun/LilyPad_Buzzer/version_current/working

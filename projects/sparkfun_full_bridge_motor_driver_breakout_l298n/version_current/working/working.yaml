@@ -13,6 +13,42 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_full_bridge_motor_driver_breakout_l298n\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_full_bridge_motor_driver_breakout_l298n
 oomp_key_simple: projects_flat_sparkfun_full_bridge_motor_driver_breakout_l298n
+parts_verbose:
+- all: 1_jp1_1x15_1_m15___
+  designation: m15
+  designator: jp1
+  footprint: 1x15
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_jp3,jp2_stand_off_2_stand_off___
+  designation: stand_off
+  designator: jp3
+  footprint: stand_off
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_jp3,jp2_stand_off_2_stand_off___
+  designation: stand_off
+  designator: jp2
+  footprint: stand_off
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_l298n0_multiwatt15_6400bgheatsink_1_l298heatsink___
+  designation: l298heatsink
+  designator: l298n0
+  footprint: multiwatt15_6400bgheatsink
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_jp4_sfe_new_weblogo_1_logo_sfenew___
+  designation: logo_sfenew
+  designator: jp4
+  footprint: sfe_new_weblogo
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_full_bridge_motor_driver_breakout_l298n/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_full_bridge_motor_driver_breakout_l298n/version_current/working
 projects_folder: projects_folder/sparkfun/Full_Bridge_Motor_Driver_Breakout-L298N/version_current/working

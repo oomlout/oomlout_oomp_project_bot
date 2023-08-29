@@ -13,6 +13,28 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_led_sequin_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_led_sequin_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_led_sequin_pcb
+parts_verbose:
+- all: 1_led1_1206_1____
+  designation: ''
+  designator: led1
+  footprint: '1206'
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_r1_r0603_1____
+  designation: ''
+  designator: r1
+  footprint: r0603
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u$1_adafruit_2_5mm_1____
+  designation: ''
+  designator: u$1
+  footprint: adafruit_2_5mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_led_sequin_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_led_sequin_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-LED-Sequin-PCB/version_current/working

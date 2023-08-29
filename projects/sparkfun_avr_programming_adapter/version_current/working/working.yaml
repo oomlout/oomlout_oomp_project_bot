@@ -15,6 +15,35 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_avr_programming_adapter\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_avr_programming_adapter
 oomp_key_simple: projects_flat_sparkfun_avr_programming_adapter
+parts_verbose:
+- all: 1_sl1_1x06_1____
+  designation: ''
+  designator: sl1
+  footprint: 1x06
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u$1_avr_icsp_1_avr_spi_prog___
+  designation: avr_spi_prog
+  designator: u$1
+  footprint: avr_icsp
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u$2_2x3_1_avr_spi_prg_6pth___
+  designation: avr_spi_prg_6pth
+  designator: u$2
+  footprint: 2x3
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_u$3_sfe_new_weblogo_1_logo_sfenew___
+  designation: logo_sfenew
+  designator: u$3
+  footprint: sfe_new_weblogo
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_avr_programming_adapter/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_avr_programming_adapter/version_current/working
 projects_folder: projects_folder/sparkfun/AVR_Programming_Adapter/version_current/working

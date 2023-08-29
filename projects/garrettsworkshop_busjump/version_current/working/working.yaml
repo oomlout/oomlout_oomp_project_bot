@@ -13,6 +13,42 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\garrettsworkshop_busjump\version_current\working
 oomp_key: oomp_projects_flat_garrettsworkshop_busjump
 oomp_key_simple: projects_flat_garrettsworkshop_busjump
+parts_verbose:
+- all: 1_fid1,fid3,fid2,fid4_fiducial_4_fiducial___
+  designation: fiducial
+  designator: fid1
+  footprint: fiducial
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_fid1,fid3,fid2,fid4_fiducial_4_fiducial___
+  designation: fiducial
+  designator: fid3
+  footprint: fiducial
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_fid1,fid3,fid2,fid4_fiducial_4_fiducial___
+  designation: fiducial
+  designator: fid2
+  footprint: fiducial
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_fid1,fid3,fid2,fid4_fiducial_4_fiducial___
+  designation: fiducial
+  designator: fid4
+  footprint: fiducial
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_c1_c_0805_1_100n___
+  designation: 100n
+  designator: c1
+  footprint: c_0805
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/garrettsworkshop_busjump/version_current/working
 projects_folder: projects_folder/garrettsworkshop/BUSJUMP/version_current/working
 repo:

@@ -13,6 +13,52 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\asukiaaa_mcp25625_breakout\version_current\working
 oomp_key: oomp_projects_flat_asukiaaa_mcp25625_breakout
 oomp_key_simple: projects_flat_asukiaaa_mcp25625_breakout
+parts_verbose:
+- all: 1,unpolarized_capacitor,c,c3_c4,22pf,c_0402_1005metric,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,unpolarized_capacitor,c,c3_c4,22pf,c_0402_1005metric,2,_,~
+- all: 2,unpolarized_capacitor,c,c1_c2,0_1u,c_0402_1005metric,2,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,unpolarized_capacitor,c,c1_c2,0_1u,c_0402_1005metric,2,_,~
+- all: 3,_generic_connector,_single_row,_01x11,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x11,j1,conn_01x11,pinheader_1x11_p2_54mm_vertical_witout_silk,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,_generic_connector,_single_row,_01x11,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x11,j1,conn_01x11,pinheader_1x11_p2_54mm_vertical_witout_silk,1,_,~
+- all: 4,resistor,r,r1,120,r_0402_1005metric,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,resistor,r,r1,120,r_0402_1005metric,1,_,~
+- all: 5,resistor,r,r2,10k,r_0402_1005metric,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,resistor,r,r2,10k,r_0402_1005metric,1,_,~
+- all: 6,_switch,_single_pole_double_throw_,sw_slide_with_cover,sw1,sw_slide_with_cover,slide_switch_smd,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,_switch,_single_pole_double_throw_,sw_slide_with_cover,sw1,sw_slide_with_cover,slide_switch_smd,1,_,~
+- all: 7,_stand_alone_can_controller_with_spi_interface_and_integated_transceiver,_ssop_28_,mcp25625_x_ss,u1,mcp25625_x_ss,ssop_28_5_3x10_2mm_p0_65mm,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20005282b_pdf_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,_stand_alone_can_controller_with_spi_interface_and_integated_transceiver,_ssop_28_,mcp25625_x_ss,u1,mcp25625_x_ss,ssop_28_5_3x10_2mm_p0_65mm,1,_,http_ww1_microchip_com_downloads_en_devicedoc_20005282b_pdf
+- all: 8,_four_pin_crystal,_gnd_on_pins_2_and_4_,crystal_gnd24,y1,crystal_gnd24_16mhz,crystal_smd_seikoepson_fa238_4pin_3_2x2_5mm,1,_,~_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,_four_pin_crystal,_gnd_on_pins_2_and_4_,crystal_gnd24,y1,crystal_gnd24_16mhz,crystal_smd_seikoepson_fa238_4pin_3_2x2_5mm,1,_,~
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_02_17_08_42_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_02_17_08_42
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,8_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,8
+- all: component_count_,10_(8_smd_2_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,10_(8_smd_2_tht)
+- all: fitted_components_,10_(8_smd_2_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,10_(8_smd_2_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,10_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,10
 projects_flat: projects_flat/asukiaaa_mcp25625_breakout/version_current/working
 projects_folder: projects_folder/asukiaaa/MCP25625-breakout/version_current/working
 repo:

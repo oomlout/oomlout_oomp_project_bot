@@ -13,6 +13,184 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\acheronproject_sharkpcb\version_current\working
 oomp_key: oomp_projects_flat_acheronproject_sharkpcb
 oomp_key_simple: projects_flat_acheronproject_sharkpcb
+parts_verbose:
+- all: "1,_unpolarized_capacitor,_small_symbol_,c_small,c7_c8,15p,c_0402_1005metric,2,_,~,c0402,guangdong_fenghua_advanced_tech,0402cg150j500nt,lcsc_c1548,50v_15pf_c0g_\xE2\
+    \xB15%_0402_mlcc,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "1,_unpolarized_capacitor,_small_symbol_,c_small,c7_c8,15p,c_0402_1005metric,2,_,~,c0402,guangdong_fenghua_advanced_tech,0402cg150j500nt,lcsc_c1548,50v_15pf_c0g_\xE2\
+    \xB15%_0402_mlcc,,"
+- all: "2,_unpolarized_capacitor,_small_symbol_,c_small,c10_c18,10n,c_0402_1005metric,2,_,~,c0402,samsung,cl05b103kb5nnnc,lcsc_c15195,50v_10nf_x7r_\xE2\
+    \xB110%_0402_mlcc,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "2,_unpolarized_capacitor,_small_symbol_,c_small,c10_c18,10n,c_0402_1005metric,2,_,~,c0402,samsung,cl05b103kb5nnnc,lcsc_c15195,50v_10nf_x7r_\xE2\
+    \xB110%_0402_mlcc,,"
+- all: "3,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c3_c4_c5_c11_c13_c15_c19_c20_c21_c22_c23_c24_c25_c26_c27_c28_c29_c30_c31_c32_c33_c34_c35_c36_c37_c38_c39_c40_c41_c42_c43_c44,100n,c_0402_1005metric,34,_,~,c0402,samsung,cl05b104kb54pnc,lcsc_c307331,50v_100nf_x7r_\xE2\
+    \xB110%_0402_mlcc,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "3,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2_c3_c4_c5_c11_c13_c15_c19_c20_c21_c22_c23_c24_c25_c26_c27_c28_c29_c30_c31_c32_c33_c34_c35_c36_c37_c38_c39_c40_c41_c42_c43_c44,100n,c_0402_1005metric,34,_,~,c0402,samsung,cl05b104kb54pnc,lcsc_c307331,50v_100nf_x7r_\xE2\
+    \xB110%_0402_mlcc,,"
+- all: "4,unpolarized_capacitor,c,c16_c17,1u,c_0805_2012metric,2,_,~,c0805,guangdong_fenghua_advanced_tech,0805b105k500nt,lcsc_c215803,50v_1uf_x7r_\xE2\
+    \xB110%_0805_mlcc,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "4,unpolarized_capacitor,c,c16_c17,1u,c_0805_2012metric,2,_,~,c0805,guangdong_fenghua_advanced_tech,0805b105k500nt,lcsc_c215803,50v_1uf_x7r_\xE2\
+    \xB110%_0805_mlcc,,"
+- all: "5,_unpolarized_capacitor,_small_symbol_,c_small,c9_c12,4_7u,c_0402_1005metric,2,_,~,c0402,samsung,cl05a475mp5nrnc,lcsc_c23733,10v_4_7uf_x5r_\xE2\
+    \xB120%_0402_mlcc,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "5,_unpolarized_capacitor,_small_symbol_,c_small,c9_c12,4_7u,c_0402_1005metric,2,_,~,c0402,samsung,cl05a475mp5nrnc,lcsc_c23733,10v_4_7uf_x5r_\xE2\
+    \xB120%_0402_mlcc,,"
+- all: "6,_unpolarized_capacitor,_small_symbol_,c_small,c14,10u,c_0402_1005metric,1,_,~,c0402,samsung,cl05a106mq5nunc,lcsc_c15525,6_3v_10uf_x5r_\xE2\
+    \xB120%_0402_mlcc,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "6,_unpolarized_capacitor,_small_symbol_,c_small,c14,10u,c_0402_1005metric,1,_,~,c0402,samsung,cl05a106mq5nunc,lcsc_c15525,6_3v_10uf_x5r_\xE2\
+    \xB120%_0402_mlcc,,"
+- all: 7,_polarized_capacitor,_us_symbol_,cp1,c6,10u,cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder,1,_,~,c3216_(case_a),avx,taja106k016rnj,lcsc_c7171,16v_10uf_tantallum,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 7,_polarized_capacitor,_us_symbol_,cp1,c6,10u,cp_eia_3216_10_kemet_i_pad1_58x1_35mm_handsolder,1,_,~,c3216_(case_a),avx,taja106k016rnj,lcsc_c7171,16v_10uf_tantallum,,
+- all: 8,diode,d,d1_d27_d28_d29_d30_d31_d32_d33_d34_d35_d36_d37_d38_d39_d40_d41_d42_d43_d44_d45_d46_d47_d48_d49_d50_d51_d52_d53_d54_d55_d56_d57_d58_d59_d60_d61_d62_d63_d64_d65_d66_d67_d68_d69_d70_d71_d72_d73_d74,1n4148w,d_sod_123,49,_,~,sod_123,semtech,1n4148w,lcsc_c81598,small_signal_switching_diodes,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 8,diode,d,d1_d27_d28_d29_d30_d31_d32_d33_d34_d35_d36_d37_d38_d39_d40_d41_d42_d43_d44_d45_d46_d47_d48_d49_d50_d51_d52_d53_d54_d55_d56_d57_d58_d59_d60_d61_d62_d63_d64_d65_d66_d67_d68_d69_d70_d71_d72_d73_d74,1n4148w,d_sod_123,49,_,~,sod_123,semtech,1n4148w,lcsc_c81598,small_signal_switching_diodes,,
+- all: 9,schottky_diode,d_schottky,d2,b5819w_sl,d_sod_123,1,_,~,sod_123,changjiang_electronics_tech,b5819w_sl,lcsc_c8598,1a_sod_123_schottky_barrier_diodes,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 9,schottky_diode,d_schottky,d2,b5819w_sl,d_sod_123,1,_,~,sod_123,changjiang_electronics_tech,b5819w_sl,lcsc_c8598,1a_sod_123_schottky_barrier_diodes,,
+- all: 10,_intelligent_control_rgb_led_integrated_light_source,_3_5x3_5mm_package_,ws2812b_2020,d3_d4_d5_d6_d7_d8_d9_d10_d11_d12_d13_d14_d15_d16_d17_d18_d19_d20_d21_d22_d23_d24_d25_d26,ws2812c_2020,led_ws2812_2020,24,_,http_www_world_semi_com_downloadfile_112,2020,worldsemi,ws2812c_2020,lcsc_c965556,integrated_controller_serial_rgb_led_2020_package,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 10,_intelligent_control_rgb_led_integrated_light_source,_3_5x3_5mm_package_,ws2812b_2020,d3_d4_d5_d6_d7_d8_d9_d10_d11_d12_d13_d14_d15_d16_d17_d18_d19_d20_d21_d22_d23_d24_d25_d26,ws2812c_2020,led_ws2812_2020,24,_,http_www_world_semi_com_downloadfile_112,2020,worldsemi,ws2812c_2020,lcsc_c965556,integrated_controller_serial_rgb_led_2020_package,,
+- all: 11,fuse,fuse,f1,nsmd100_16v,fuse_1206_3216metric,1,_,~,f1206,techfuse,nsmd100_16v,lcsc_c70082,_1a_hold,_1_8a_trip_ptc_resettable_fuse_,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 11,fuse,fuse,f1,nsmd100_16v,fuse_1206_3216metric,1,_,~,f1206,techfuse,nsmd100_16v,lcsc_c70082,_1a_hold,_1_8a_trip_ptc_resettable_fuse_,,
+- all: 12,_ferrite_bead,_small_symbol_,ferrite_bead_small,fb1_fb2,gz2012d601tf,l_0805_2012metric,2,_,~,l0805,sunlord,gz2012d601tf,lcsc_c1017,600r_@_100mhz_ferrite_bead,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 12,_ferrite_bead,_small_symbol_,ferrite_bead_small,fb1_fb2,gz2012d601tf,l_0805_2012metric,2,_,~,l0805,sunlord,gz2012d601tf,lcsc_c1017,600r_@_100mhz_ferrite_bead,,
+- all: 13,16_pin_usb_type_c_(usb_2_0)_connector,usb_c_16_pin,j1,type_c_31_m12,type_c_31_m_12,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,8_94x7_3mm,korean_hroparts,type_c_31_m_12,lcsc_c165948,16_pin_usb_2_0_type_c_connector,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 13,16_pin_usb_type_c_(usb_2_0)_connector,usb_c_16_pin,j1,type_c_31_m12,type_c_31_m_12,1,_,https_www_usb_org_sites_default_files_documents_usb_type_c_zip,8_94x7_3mm,korean_hroparts,type_c_31_m_12,lcsc_c165948,16_pin_usb_2_0_type_c_connector,,
+- all: 14,_0_115a_id,_60v_vds,_n_channel_mosfet,_sot_23_,2n7002,q1_q2_q4,2n7002,sot_23,3,_,https_www_onsemi_com_pub_collateral_nds7002a_d_pdf,sot_23,changjiang_electronics_tech,2n7002,lcsc_c8545,n_channel_signal_mosfet_transistor,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 14,_0_115a_id,_60v_vds,_n_channel_mosfet,_sot_23_,2n7002,q1_q2_q4,2n7002,sot_23,3,_,https_www_onsemi_com_pub_collateral_nds7002a_d_pdf,sot_23,changjiang_electronics_tech,2n7002,lcsc_c8545,n_channel_signal_mosfet_transistor,,
+- all: 15,_4_0a_id,_30v_vds,_p_channel_mosfet,_sot_23_,ao3401a,q3,ao3401a,sot_23,1,_,http_www_aosmd_com_pdfs_datasheet_ao3401a_pdf,sot_23,ao3401a,alpha_&_omega_semicon,lcsc_c15127,p_channel_power_mosfet_transistor,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 15,_4_0a_id,_30v_vds,_p_channel_mosfet,_sot_23_,ao3401a,q3,ao3401a,sot_23,1,_,http_www_aosmd_com_pdfs_datasheet_ao3401a_pdf,sot_23,ao3401a,alpha_&_omega_semicon,lcsc_c15127,p_channel_power_mosfet_transistor,,
+- all: "16,_resistor,_small_symbol_,r_small,r16_r17_r18_r19_r20_r21_r22_r23_r24_r25_r26_r27_r28_r29_r30_r31_r32_r33_r34_r35_r36_r37_r38_r39,5_1r,r_0402_1005metric,24,_,~,r0402,uniroyal,0402wgj033jtce,lcsc_c25165,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0805,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "16,_resistor,_small_symbol_,r_small,r16_r17_r18_r19_r20_r21_r22_r23_r24_r25_r26_r27_r28_r29_r30_r31_r32_r33_r34_r35_r36_r37_r38_r39,5_1r,r_0402_1005metric,24,_,~,r0402,uniroyal,0402wgj033jtce,lcsc_c25165,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0805,,"
+- all: "17,_resistor,_small_symbol_,r_small,r8_r9_r10_r42_r43,100r,r_0402_1005metric,5,_,~,r0402,uniroyal,0402wgf1000tce,lcsc_c25076,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "17,_resistor,_small_symbol_,r_small,r8_r9_r10_r42_r43,100r,r_0402_1005metric,5,_,~,r0402,uniroyal,0402wgf1000tce,lcsc_c25076,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,"
+- all: "18,_resistor,_small_symbol_,r_small,r45_r46_r47_r48_r49_r50_r51_r52_r53_r54_r55_r56_r59_r60_r61_r62_r63_r64_r65_r66_r68_r71_r72_r73_r74_r75_r76_r77_r78_r80_r81_r88_r89_r90_r91_r92,1k,r_0805_2012metric,36,_,~,r0805,uniroyal,0805w8f1001t5e,lcsc_c17513,\xE2\
+    \xB11%_125mw_thick_film_resistors_150v_0805,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "18,_resistor,_small_symbol_,r_small,r45_r46_r47_r48_r49_r50_r51_r52_r53_r54_r55_r56_r59_r60_r61_r62_r63_r64_r65_r66_r68_r71_r72_r73_r74_r75_r76_r77_r78_r80_r81_r88_r89_r90_r91_r92,1k,r_0805_2012metric,36,_,~,r0805,uniroyal,0805w8f1001t5e,lcsc_c17513,\xE2\
+    \xB11%_125mw_thick_film_resistors_150v_0805,,"
+- all: 19,_resistor,_small_symbol_,r_small,r57_r58_r67_r69_r70_r79_r82_r83_r84_r85_r86_r87,1k,r_0402_1005metric,12,_,~,r0402,uniroyal,0402wgf1001tce,lcsc_c11702,1%_125mw_thick_film_resistors_150v_0805,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 19,_resistor,_small_symbol_,r_small,r57_r58_r67_r69_r70_r79_r82_r83_r84_r85_r86_r87,1k,r_0402_1005metric,12,_,~,r0402,uniroyal,0402wgf1001tce,lcsc_c11702,1%_125mw_thick_film_resistors_150v_0805,,
+- all: "20,_resistor,_small_symbol_,r_small,r4,1_5k,r_0402_1005metric,1,_,~,r0402,uniroyal,0402wgf1501tce,lcsc_c25867,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "20,_resistor,_small_symbol_,r_small,r4,1_5k,r_0402_1005metric,1,_,~,r0402,uniroyal,0402wgf1501tce,lcsc_c25867,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,"
+- all: "21,_resistor,_small_symbol_,r_small,r1_r2,4_7k,r_0402_1005metric,2,_,~,r0402,uniroyal,0402wgf4701tce,lcsc_c25900,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "21,_resistor,_small_symbol_,r_small,r1_r2,4_7k,r_0402_1005metric,2,_,~,r0402,uniroyal,0402wgf4701tce,lcsc_c25900,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,"
+- all: "22,_resistor,_small_symbol_,r_small,r11_r15,5_1k,r_0402_1005metric,2,_,~,r0402,uniroyal,0402wgf5101tce,lcsc_c25905,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0805,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "22,_resistor,_small_symbol_,r_small,r11_r15,5_1k,r_0402_1005metric,2,_,~,r0402,uniroyal,0402wgf5101tce,lcsc_c25905,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0805,,"
+- all: "23,_resistor,_small_symbol_,r_small,r7_r14_r40_r41_r44,10k,r_0402_1005metric,5,_,~,r0402,uniroyal,0402wgf1002tce,lcsc_c25744,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "23,_resistor,_small_symbol_,r_small,r7_r14_r40_r41_r44,10k,r_0402_1005metric,5,_,~,r0402,uniroyal,0402wgf1002tce,lcsc_c25744,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,"
+- all: "24,_resistor,_small_symbol_,r_small,r3,10k,r_0805_2012metric,1,_,~,r0805,uniroyal,0805w8f1002t5e,lcsc_c17414,\xE2\
+    \xB11%_1_8w_thick_film_resistors_150v_0805,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "24,_resistor,_small_symbol_,r_small,r3,10k,r_0805_2012metric,1,_,~,r0805,uniroyal,0805w8f1002t5e,lcsc_c17414,\xE2\
+    \xB11%_1_8w_thick_film_resistors_150v_0805,,"
+- all: "25,resistor,r,r12_r13,100k,r_0805_2012metric,2,_,~,r0805,uniroyal,0805w8f1003t5e,lcsc_c149504,\xE2\
+    \xB11%_125mw_thick_film_r0805_resistors,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "25,resistor,r,r12_r13,100k,r_0805_2012metric,2,_,~,r0805,uniroyal,0805w8f1003t5e,lcsc_c149504,\xE2\
+    \xB11%_125mw_thick_film_r0805_resistors,,"
+- all: "26,_resistor,_small_symbol_,r_small,r5,330k,r_0402_1005metric,1,_,~,r0402,uniroyal,0402wgf3303tce,lcsc_c25778,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "26,_resistor,_small_symbol_,r_small,r5,330k,r_0402_1005metric,1,_,~,r0402,uniroyal,0402wgf3303tce,lcsc_c25778,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,"
+- all: "27,_resistor,_small_symbol_,r_small,r6,1m,r_0402_1005metric,1,_,~,r0402,uniroyal,0402wgf1004tce,lcsc_c26083,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,_"
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : "27,_resistor,_small_symbol_,r_small,r6,1m,r_0402_1005metric,1,_,~,r0402,uniroyal,0402wgf1004tce,lcsc_c26083,\xE2\
+    \xB11%_1_16w_thick_film_resistors_50v_0402,,"
+- all: 28,single_pole_single_throw_(spst)_switch,sw_spst,sw2,k2_1187sq_a4sw_06,k2_1187sq_a4sw_06,1,_,~,5_0x5_0mm,korean_hroparts,k2_1187sq_a4sw_06,lcsc_c92584,5_2mm_1_5mm_round_button_spst,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 28,single_pole_single_throw_(spst)_switch,sw_spst,sw2,k2_1187sq_a4sw_06,k2_1187sq_a4sw_06,1,_,~,5_0x5_0mm,korean_hroparts,k2_1187sq_a4sw_06,lcsc_c92584,5_2mm_1_5mm_round_button_spst,,
+- all: 29,_i2c_serial_eeprom,_256kb,_dip_8_soic_8_tssop_8_dfn_8_,24lc256,u3,at24c256c_sshl_t,soic_8,1,_,https_datasheet_lcsc_com_lcsc_1809151932_microchip_tech_at24c256c_sshl_t_c6482_pdf,soic_8,microchip,at24c256c_sshl_t,lcsc_c6482,soic_8_non_volatile_256kb_(32k_x_8)_i2c_eeprom,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 29,_i2c_serial_eeprom,_256kb,_dip_8_soic_8_tssop_8_dfn_8_,24lc256,u3,at24c256c_sshl_t,soic_8,1,_,https_datasheet_lcsc_com_lcsc_1809151932_microchip_tech_at24c256c_sshl_t_c6482_pdf,soic_8,microchip,at24c256c_sshl_t,lcsc_c6482,soic_8_non_volatile_256kb_(32k_x_8)_i2c_eeprom,,
+- all: 30,_300ma,_low_power,_low_dropout_linear_regulators_,sgm2036,u4,sgm2007_3_3xn5_tr,sot_23_5,1,_,https_datasheet_lcsc_com_lcsc_1810010521_sgmicro_sgm2036_3_3yn5g_tr_c92402_pdf,sot_23_5,sgmicro,sgm2007_3_3xn5_tr,lcsc_c193687,fixed_5_5v_3_3v_300mv_@_300ma_sot_23_5_low_dropout_regulator,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 30,_300ma,_low_power,_low_dropout_linear_regulators_,sgm2036,u4,sgm2007_3_3xn5_tr,sot_23_5,1,_,https_datasheet_lcsc_com_lcsc_1810010521_sgmicro_sgm2036_3_3yn5g_tr_c92402_pdf,sot_23_5,sgmicro,sgm2007_3_3xn5_tr,lcsc_c193687,fixed_5_5v_3_3v_300mv_@_300ma_sot_23_5_low_dropout_regulator,,
+- all: 31,32_bit_arm_cortex_m0_128kbytes_flash_microcontroller,stm32f411_48,u1,stm32f411ceu6,stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs,1,_,https_www_st_com_resource_en_datasheet_stm32f411ce_pdf,ufqfpn_48,stmicroelectronics,stm32f411,lcsc_c60420_(https_lcsc_com_product_detail_st_microelectronics_stmicroelectronics_stm32f411ceu6_c60420_html),,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 31,32_bit_arm_cortex_m0_128kbytes_flash_microcontroller,stm32f411_48,u1,stm32f411ceu6,stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering_thermalreliefs,1,_,https_www_st_com_resource_en_datasheet_stm32f411ce_pdf,ufqfpn_48,stmicroelectronics,stm32f411,lcsc_c60420_(https_lcsc_com_product_detail_st_microelectronics_stmicroelectronics_stm32f411ceu6_c60420_html),,,
+- all: 32,1_bit_bidirectional_level_shifting_voltage_level_translator,txs0101,u5,txs0101drlr,sot_563,1,_,,sot_563,texas_instruments,txs0101drlr,lcsc_c131928,1_bit_bidirectional_logic_voltage_level_translator,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 32,1_bit_bidirectional_level_shifting_voltage_level_translator,txs0101,u5,txs0101drlr,sot_563,1,_,,sot_563,texas_instruments,txs0101drlr,lcsc_c131928,1_bit_bidirectional_logic_voltage_level_translator,,
+- all: 33,_very_low_capacitance_esd_protection_diode,_2_data_line,_sot_23_6_,usblc6_2sc6,u2,usblc6_2sc6,sot_23_6,1,_,https_www_st_com_resource_en_datasheet_usblc6_2_pdf,sot_23_6,stmicroelectronics,usblc6_2sc6,lcsc_c7519,unidirectional_esd_tvs_diode,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 33,_very_low_capacitance_esd_protection_diode,_2_data_line,_sot_23_6_,usblc6_2sc6,u2,usblc6_2sc6,sot_23_6,1,_,https_www_st_com_resource_en_datasheet_usblc6_2_pdf,sot_23_6,stmicroelectronics,usblc6_2sc6,lcsc_c7519,unidirectional_esd_tvs_diode,,
+- all: 34,_four_pin_crystal,_gnd_on_pins_2_and_4_,crystal_gnd24,y1,taxm8m4rfdcet2t,crystal_smd_3225_4pin_3_2x2_5mm,1,_,~,y3225_4p,tae,taxm8m4rfdcet2t,lcsc_c403948,8mhz_3225_4p_oscillator_crystal,,_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : 34,_four_pin_crystal,_gnd_on_pins_2_and_4_,crystal_gnd24,y1,taxm8m4rfdcet2t,crystal_smd_3225_4pin_3_2x2_5mm,1,_,~,y3225_4p,tae,taxm8m4rfdcet2t,lcsc_c403948,8mhz_3225_4p_oscillator_crystal,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : project_info_
+- all: schematic_,working_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : schematic_,working
+- all: variant_,default_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : variant_,default
+- all: revision_,v2_1_1_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : revision_,v2_1_1
+- all: date_,2022_02_04_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : date_,2022_02_04
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : statistics_
+- all: component_groups_,34_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : component_groups_,34
+- all: component_count_,225_(224_smd_1_tht)_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : component_count_,225_(224_smd_1_tht)
+- all: fitted_components_,225_(224_smd_1_tht)_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : fitted_components_,225_(224_smd_1_tht)
+- all: number_of_pcbs_,1_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : number_of_pcbs_,1
+- all: total_components_,225_
+  ? row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,package,manufacturer,manufacturer_part_number,vendor_part_number,specification,keycode,lcsc_part_number
+  : total_components_,225
 projects_flat: projects_flat/acheronproject_sharkpcb/version_current/working
 projects_folder: projects_folder/AcheronProject/SharkPCB/version_current/working
 repo:

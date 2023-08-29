@@ -15,6 +15,54 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dragonmux_headphoneamp\version_current\working
 oomp_key: oomp_projects_flat_dragonmux_headphoneamp
 oomp_key_simple: projects_flat_dragonmux_headphoneamp
+parts_verbose:
+- all: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2,500n,c0603,2,_,http_www_passivecomponent_com_wp_content_uploads_datasheet_wtc_mlcc_general_purpose_pdf,walsin,0603b474k250ct,1292_1452_1_nd,https_www_digikey_com_en_products_detail_walsin_technology_corporation_0603b474k250ct_9354949_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: 1,_unpolarized_capacitor,_small_symbol_,c_small,c1_c2,500n,c0603,2,_,http_www_passivecomponent_com_wp_content_uploads_datasheet_wtc_mlcc_general_purpose_pdf,walsin,0603b474k250ct,1292_1452_1_nd,https_www_digikey_com_en_products_detail_walsin_technology_corporation_0603b474k250ct_9354949
+- all: 2,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02,j2_j3_j4_j5,ext_r,pinheader_1x02_p2_54mm_vertical,4,_,~,,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: 2,_generic_connector,_single_row,_01x02,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x02,j2_j3_j4_j5,ext_r,pinheader_1x02_p2_54mm_vertical,4,_,~,,,,
+- all: 3,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03,j1_j6,src_control,pinheader_1x03_p2_54mm_vertical,2,_,~,,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: 3,_generic_connector,_single_row,_01x03,_script_generated_(kicad_library_utils_schlib_autogen_connector_)_,conn_01x03,j1_j6,src_control,pinheader_1x03_p2_54mm_vertical,2,_,~,,,,
+- all: 4,_general_purpose_signal_relay,_kemet_ec2_series,_dpdt_(2_form_c),_double_coil_latching,_through_hole,_60w_125va,_220vdc_250vac,_2a,_12v_dc_coil_,ec2_12tnu,k1,ec2_12tnu,relay_dpdt_kemet_ec2_doublecoil,1,_,https_content_kemet_com_datasheets_kem_r7002_ec2_ee2_pdf,kemet,ec2_12tnu,399_11031_5_nd,https_www_digikey_com_en_products_detail_kemet_ec2_12tnu_4291097_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: 4,_general_purpose_signal_relay,_kemet_ec2_series,_dpdt_(2_form_c),_double_coil_latching,_through_hole,_60w_125va,_220vdc_250vac,_2a,_12v_dc_coil_,ec2_12tnu,k1,ec2_12tnu,relay_dpdt_kemet_ec2_doublecoil,1,_,https_content_kemet_com_datasheets_kem_r7002_ec2_ee2_pdf,kemet,ec2_12tnu,399_11031_5_nd,https_www_digikey_com_en_products_detail_kemet_ec2_12tnu_4291097
+- all: 5,_n_mosfet_transistor,_gate_source_drain_,q_nmos_gsd,q1_q2_q3_q5_q6_q8_q9_q10,dmn65d8l,sot_23,8,_,https_www_diodes_com_assets_datasheets_dmn65d8l_pdf,diodes_inc,dmn65d8l_7,dmn65d8l_7dict_nd,https_www_digikey_com_en_products_detail_diodes_incorporated_dmn65d8l_7_3678136_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: 5,_n_mosfet_transistor,_gate_source_drain_,q_nmos_gsd,q1_q2_q3_q5_q6_q8_q9_q10,dmn65d8l,sot_23,8,_,https_www_diodes_com_assets_datasheets_dmn65d8l_pdf,diodes_inc,dmn65d8l_7,dmn65d8l_7dict_nd,https_www_digikey_com_en_products_detail_diodes_incorporated_dmn65d8l_7_3678136
+- all: 6,_p_mosfet_transistor,_gate_source_drain_,q_pmos_gsd,q4_q7,dmp32d4s,sot_23,2,_,https_www_diodes_com_assets_datasheets_dmp32d4s_pdf,diodes_inc,dmp32d4s_7,dmp32d4s_7dict_nd,https_www_digikey_com_en_products_detail_diodes_incorporated_dmp32d4s_7_4471076_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: 6,_p_mosfet_transistor,_gate_source_drain_,q_pmos_gsd,q4_q7,dmp32d4s,sot_23,2,_,https_www_diodes_com_assets_datasheets_dmp32d4s_pdf,diodes_inc,dmp32d4s_7,dmp32d4s_7dict_nd,https_www_digikey_com_en_products_detail_diodes_incorporated_dmp32d4s_7_4471076
+- all: 7,_resistor,_small_symbol_,r_small,r3,10k,r0603,1,_,https_www_vishay_com_docs_20035_dcrcwe3_pdf,vishay_dale,crcw060310k0fkea,541_10_0khct_nd,https_www_digikey_com_en_products_detail_vishay_dale_crcw060310k0fkea_1174782_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: 7,_resistor,_small_symbol_,r_small,r3,10k,r0603,1,_,https_www_vishay_com_docs_20035_dcrcwe3_pdf,vishay_dale,crcw060310k0fkea,541_10_0khct_nd,https_www_digikey_com_en_products_detail_vishay_dale_crcw060310k0fkea_1174782
+- all: 8,_resistor,_small_symbol_,r_small,r1_r7,80k,r0603,2,_,https_www_vishay_com_docs_20035_dcrcwe3_pdf,vishay_dale,crcw060380k6fkea,541_80_6khct_nd,https_www_digikey_com_en_products_detail_vishay_dale_crcw060380k6fkea_1174885_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: 8,_resistor,_small_symbol_,r_small,r1_r7,80k,r0603,2,_,https_www_vishay_com_docs_20035_dcrcwe3_pdf,vishay_dale,crcw060380k6fkea,541_80_6khct_nd,https_www_digikey_com_en_products_detail_vishay_dale_crcw060380k6fkea_1174885
+- all: 9,_resistor,_small_symbol_,r_small,r2_r4_r5_r6,120k,r0603,4,_,https_www_vishay_com_docs_20035_dcrcwe3_pdf,vishay_dale,crcw0603120kfkea,541_120khct_nd,https_www_digikey_com_en_products_detail_vishay_dale_crcw0603120kfkea_1174904_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: 9,_resistor,_small_symbol_,r_small,r2_r4_r5_r6,120k,r0603,4,_,https_www_vishay_com_docs_20035_dcrcwe3_pdf,vishay_dale,crcw0603120kfkea,541_120khct_nd,https_www_digikey_com_en_products_detail_vishay_dale_crcw0603120kfkea_1174904
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: revision_,
+- all: date_,2023_08_02_17_08_53_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: date_,2023_08_02_17_08_53
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: statistics_
+- all: component_groups_,9_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: component_groups_,9
+- all: component_count_,26_(19_smd_7_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: component_count_,26_(19_smd_7_tht)
+- all: fitted_components_,26_(19_smd_7_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: fitted_components_,26_(19_smd_7_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: number_of_pcbs_,1
+- all: total_components_,26_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,mfr,mpn,oc_digikey,url_digikey: total_components_,26
 projects_flat: projects_flat/dragonmux_headphoneamp/version_current/working
 projects_folder: projects_folder/dragonmux/HeadphoneAmp/version_current/working
 repo:

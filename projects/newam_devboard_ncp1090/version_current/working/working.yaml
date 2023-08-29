@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\newam_devboard_ncp1090\version_current\working
 oomp_key: oomp_projects_flat_newam_devboard_ncp1090
 oomp_key_simple: projects_flat_newam_devboard_ncp1090
+parts_verbose:
+- all: 1_u1_soic_8_3_9x4_9mm_pitch1_27mm_1_ncp1090___
+  designation: ncp1090
+  designator: u1
+  footprint: soic_8_3_9x4_9mm_pitch1_27mm
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_x1_pin_header_straight_1x04_pitch2_54mm_1_conn_01x04___
+  designation: conn_01x04
+  designator: x1
+  footprint: pin_header_straight_1x04_pitch2_54mm
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_c1_c_0805_1_100n___
+  designation: 100n
+  designator: c1
+  footprint: c_0805
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_d1,d2_micro_dip_4_2_mdb6s___
+  designation: mdb6s
+  designator: d1
+  footprint: micro_dip_4
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_d1,d2_micro_dip_4_2_mdb6s___
+  designation: mdb6s
+  designator: d2
+  footprint: micro_dip_4
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_d3_d_sma_1_smaj58a___
+  designation: smaj58a
+  designator: d3
+  footprint: d_sma
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_r1_r_0805_1_24_9k___
+  designation: 24_9k
+  designator: r1
+  footprint: r_0805
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_r2_r_0805_1_178k___
+  designation: 178k
+  designator: r2
+  footprint: r_0805
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_r3_r_0805_1_4420___
+  designation: '4420'
+  designator: r3
+  footprint: r_0805
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 9_x2_pin_header_straight_1x03_pitch2_54mm_1_conn_01x03___
+  designation: conn_01x03
+  designator: x2
+  footprint: pin_header_straight_1x03_pitch2_54mm
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/newam_devboard_ncp1090/version_current/working
 projects_folder: projects_folder/newAM/DevBoard_NCP1090/version_current/working
 repo:

@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_ds1307_breakout_board\version_current\working
 oomp_key: oomp_projects_flat_adafruit_ds1307_breakout_board
 oomp_key_simple: projects_flat_adafruit_ds1307_breakout_board
+parts_verbose:
+- all: 1_ic3_dil08_1_ds1307___
+  designation: ds1307
+  designator: ic3
+  footprint: dil08
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_q1_tc38h_1_32_768___
+  designation: '32_768'
+  designator: q1
+  footprint: tc38h
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r1_0207_10_1_2_2k___
+  designation: 2_2k
+  designator: r1
+  footprint: '0207_10'
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_@hole0,@hole1__2____
+  designation: ''
+  designator: '@hole0'
+  footprint: ''
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_@hole0,@hole1__2____
+  designation: ''
+  designator: '@hole1'
+  footprint: ''
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_c1_c025_025x050_1_0_1uf___
+  designation: 0_1uf
+  designator: c1
+  footprint: c025_025x050
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_bat0_cr1220_thm_1_cr1220___
+  designation: cr1220
+  designator: bat0
+  footprint: cr1220_thm
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_u$1_adafruit200mil_1____
+  designation: ''
+  designator: u$1
+  footprint: adafruit200mil
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_r2_0207_10_1_2_2k___
+  designation: 2_2k
+  designator: r2
+  footprint: '0207_10'
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 9_jp2_1x05_1____
+  designation: ''
+  designator: jp2
+  footprint: 1x05
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_ds1307_breakout_board/version_current/working
 projects_folder: projects_folder/adafruit/DS1307-breakout-board/version_current/working
 repo:

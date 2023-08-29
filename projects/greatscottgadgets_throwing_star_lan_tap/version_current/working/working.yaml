@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\greatscottgadgets_throwing_star_lan_tap\version_current\working
 oomp_key: oomp_projects_flat_greatscottgadgets_throwing_star_lan_tap
 oomp_key_simple: projects_flat_greatscottgadgets_throwing_star_lan_tap
+parts_verbose:
+- all: 1_j4,j2,j1,j3_rj45_amphenol_rjhse538x_tslt_4_rj45_shielded___
+  designation: rj45_shielded
+  designator: j4
+  footprint: rj45_amphenol_rjhse538x_tslt
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_j4,j2,j1,j3_rj45_amphenol_rjhse538x_tslt_4_rj45_shielded___
+  designation: rj45_shielded
+  designator: j2
+  footprint: rj45_amphenol_rjhse538x_tslt
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_j4,j2,j1,j3_rj45_amphenol_rjhse538x_tslt_4_rj45_shielded___
+  designation: rj45_shielded
+  designator: j1
+  footprint: rj45_amphenol_rjhse538x_tslt
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_j4,j2,j1,j3_rj45_amphenol_rjhse538x_tslt_4_rj45_shielded___
+  designation: rj45_shielded
+  designator: j3
+  footprint: rj45_amphenol_rjhse538x_tslt
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_c1,c2_c_disc_d5_0mm_w2_5mm_p2_50mm_2_220pf___
+  designation: 220pf
+  designator: c1
+  footprint: c_disc_d5_0mm_w2_5mm_p2_50mm
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_c1,c2_c_disc_d5_0mm_w2_5mm_p2_50mm_2_220pf___
+  designation: 220pf
+  designator: c2
+  footprint: c_disc_d5_0mm_w2_5mm_p2_50mm
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/greatscottgadgets_throwing_star_lan_tap/version_current/working
 projects_folder: projects_folder/greatscottgadgets/throwing-star-lan-tap/version_current/working
 repo:

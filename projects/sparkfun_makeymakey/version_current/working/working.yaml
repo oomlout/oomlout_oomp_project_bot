@@ -15,6 +15,80 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_makeymakey\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_makeymakey
 oomp_key_simple: projects_flat_sparkfun_makeymakey
+parts_verbose:
+- all: 1,,cap0603_cap,c3_c4,22pf,0603_cap,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,cap0603_cap,c3_c4,22pf,0603_cap,2,_,
+- all: 2,,cap0603_cap,c1_c5_c8,0_1uf,0603_cap,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,cap0603_cap,c1_c5_c8,0_1uf,0603_cap,3,_,
+- all: 3,,cap0603_cap,c2_c6,1uf,0603_cap,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,cap0603_cap,c2_c6,1uf,0603_cap,2,_,
+- all: 4,,cap_pol1206,c7,10uf,eia3216,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,cap_pol1206,c7,10uf,eia3216,1,_,
+- all: 5,,m01alligator_3mm,click0_down0_jp5_jp6_jp7_jp8_jp10_jp11_left0_right0_space0_up0,m01alligator_3mm,1x01_alligator_3mm,12,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,m01alligator_3mm,click0_down0_jp5_jp6_jp7_jp8_jp10_jp11_left0_right0_space0_up0,m01alligator_3mm,1x01_alligator_3mm,12,_,
+- all: 6,,ptcsmd_w,f1,ptcsmd_w,ptc_1206_wide,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,ptcsmd_w,f1,ptcsmd_w,ptc_1206_wide,1,_,
+- all: 7,,logo_sfenew,jp9,logo_sfenew,sfe_new_weblogo,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,logo_sfenew,jp9,logo_sfenew,sfe_new_weblogo,1,_,
+- all: 8,,m06smd_straight_combo,jp3_jp12_jp13_jp14,m06smd_straight_combo,1x06_smd_straight_combo,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,m06smd_straight_combo,jp3_jp12_jp13_jp14,m06smd_straight_combo,1x06_smd_straight_combo,4,_,
+- all: 9,,led1206_bottom,led1_led2_led3_led4_led5_led6,green,led_1206_bottom,6,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,led1206_bottom,led1_led2_led3_led4_led5_led6,green,led_1206_bottom,6,_,
+- all: 10,,sparkfun_led_led0603,led8_led9,green,led_0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,sparkfun_led_led0603,led8_led9,green,led_0603,2,_,
+- all: 11,,sparkfun_led_led0603,led10_led11,red,led_0603,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,sparkfun_led_led0603,led10_led11,red,led_0603,2,_,
+- all: 12,,led0603,led7,red,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,led0603,led7,red,led_0603,1,_,
+- all: 13,,resistor0603_res,r1_r2,22,0603_res,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,resistor0603_res,r1_r2,22,0603_res,2,_,
+- all: 14,,sparkfun_passives_resistor0603_res,r17_r18_r20_r21_r22,330,0603_res,5,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,sparkfun_passives_resistor0603_res,r17_r18_r20_r21_r22,330,0603_res,5,_,
+- all: 15,,sparkfun_passives_resistor0603_res,r16_r19,1k,0603_res,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,sparkfun_passives_resistor0603_res,r16_r19,1k,0603_res,2,_,
+- all: 16,,resistor0603_res,r23,1k,0603_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,resistor0603_res,r23,1k,0603_res,1,_,
+- all: 17,,resistor0603_res,r3,10k,0603_res,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,resistor0603_res,r3,10k,0603_res,1,_,
+- all: 18,,resistor0603_res,r4_r5_r6_r7_r8_r9_r10_r11_r12_r13_r14_r15_r24_r25_r26_r27_r28_r29,22m,0603_res,18,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,resistor0603_res,r4_r5_r6_r7_r8_r9_r10_r11_r12_r13_r14_r15_r24_r25_r26_r27_r28_r29,22m,0603_res,18,_,
+- all: 19,,atmega32u4tqfp,u1,atmega32u4tqfp,tqfp44,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,atmega32u4tqfp,u1,atmega32u4tqfp,tqfp44,1,_,
+- all: 20,,oshw_logom,u$1,oshw_logom,oshw_logo_m,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,oshw_logom,u$1,oshw_logom,oshw_logo_m,1,_,
+- all: 21,,usbsmd,x1,usbsmd,usb_minib,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,usbsmd,x1,usbsmd,usb_minib,1,_,
+- all: 22,,crystal5x3,y1,16mhz,crystal_smd_5x3,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 22,,crystal5x3,y1,16mhz,crystal_smd_5x3,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_06_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_06
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,22_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,22
+- all: component_count_,70_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,70_(0_smd_0_tht)
+- all: fitted_components_,70_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,70_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,70_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,70
 projects_flat: projects_flat/sparkfun_makeymakey/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_makeymakey/version_current/working
 projects_folder: projects_folder/sparkfun/MaKeyMaKey/version_current/working

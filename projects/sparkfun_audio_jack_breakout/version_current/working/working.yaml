@@ -15,6 +15,28 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_audio_jack_breakout\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_audio_jack_breakout
 oomp_key_simple: projects_flat_sparkfun_audio_jack_breakout
+parts_verbose:
+- all: 1_jp1_1x05_1____
+  designation: ''
+  designator: jp1
+  footprint: 1x05
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u1_audio_jack_1_audio_jack___
+  designation: audio_jack
+  designator: u1
+  footprint: audio_jack
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u$1_sfe_logo_flame_1_logo_sfesk___
+  designation: logo_sfesk
+  designator: u$1
+  footprint: sfe_logo_flame
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_audio_jack_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_audio_jack_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/Audio_Jack_Breakout/version_current/working

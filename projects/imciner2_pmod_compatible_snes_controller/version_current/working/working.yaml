@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\imciner2_pmod_compatible_snes_controller\version_current\working
 oomp_key: oomp_projects_flat_imciner2_pmod_compatible_snes_controller
 oomp_key_simple: projects_flat_imciner2_pmod_compatible_snes_controller
+parts_verbose:
+- all: 1_j1_pmod_single_male_1_pmod_single___
+  designation: pmod_single
+  designator: j1
+  footprint: pmod_single_male
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_tp1,tp2,tp3,tp4_testpoint_063_4_test_point___
+  designation: test_point
+  designator: tp1
+  footprint: testpoint_063
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_tp1,tp2,tp3,tp4_testpoint_063_4_test_point___
+  designation: test_point
+  designator: tp2
+  footprint: testpoint_063
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_tp1,tp2,tp3,tp4_testpoint_063_4_test_point___
+  designation: test_point
+  designator: tp3
+  footprint: testpoint_063
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_tp1,tp2,tp3,tp4_testpoint_063_4_test_point___
+  designation: test_point
+  designator: tp4
+  footprint: testpoint_063
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_p1_gaming_snes_1_conn_1x7___
+  designation: conn_1x7
+  designator: p1
+  footprint: gaming_snes
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/imciner2_pmod_compatible_snes_controller/version_current/working
 projects_folder: projects_folder/imciner2/PMOD-Compatible_SNES_Controller/version_current/working
 repo:

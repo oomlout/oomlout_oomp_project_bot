@@ -13,6 +13,28 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\gigahawk_headphone_breakout_4th_gen\version_current\working
 oomp_key: oomp_projects_flat_gigahawk_headphone_breakout_4th_gen
 oomp_key_simple: projects_flat_gigahawk_headphone_breakout_4th_gen
+parts_verbose:
+- all: 1_j3_pinheader_1x04_p2_54mm_vertical_1_conn_01x04___
+  designation: conn_01x04
+  designator: j3
+  footprint: pinheader_1x04_p2_54mm_vertical
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j2_pinheader_2x04_p2_54mm_vertical_1_conn_02x04_odd_even___
+  designation: conn_02x04_odd_even
+  designator: j2
+  footprint: pinheader_2x04_p2_54mm_vertical
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_j1_ipod_4th_remote_1_conn_01x04___
+  designation: conn_01x04
+  designator: j1
+  footprint: ipod_4th_remote
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/gigahawk_headphone_breakout_4th_gen/version_current/working
 projects_folder: projects_folder/Gigahawk/headphone_breakout_4th_gen/version_current/working
 repo:

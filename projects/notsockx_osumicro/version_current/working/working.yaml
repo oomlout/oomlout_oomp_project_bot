@@ -13,6 +13,28 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\notsockx_osumicro\version_current\working
 oomp_key: oomp_projects_flat_notsockx_osumicro
 oomp_key_simple: projects_flat_notsockx_osumicro
+parts_verbose:
+- all: 1_sw2,sw1_kailh_socket_mx_optional_2_sw_push___
+  designation: sw_push
+  designator: sw2
+  footprint: kailh_socket_mx_optional
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_sw2,sw1_kailh_socket_mx_optional_2_sw_push___
+  designation: sw_push
+  designator: sw1
+  footprint: kailh_socket_mx_optional
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_u1_sparkfun_pro_micro_1_sparkfun_pro_micro___
+  designation: sparkfun_pro_micro
+  designator: u1
+  footprint: sparkfun_pro_micro
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/notsockx_osumicro/version_current/working
 projects_folder: projects_folder/notsockx/osumicro/version_current/working
 repo:

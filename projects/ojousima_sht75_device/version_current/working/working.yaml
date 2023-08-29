@@ -15,6 +15,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ojousima_sht75_device\version_current\working
 oomp_key: oomp_projects_flat_ojousima_sht75_device
 oomp_key_simple: projects_flat_ojousima_sht75_device
+parts_verbose:
+- all: 1_p1,p3,p4_pin_header_straight_1x02_3_conn_01x02___
+  designation: conn_01x02
+  designator: p1
+  footprint: pin_header_straight_1x02
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_p1,p3,p4_pin_header_straight_1x02_3_conn_01x02___
+  designation: conn_01x02
+  designator: p3
+  footprint: pin_header_straight_1x02
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_p1,p3,p4_pin_header_straight_1x02_3_conn_01x02___
+  designation: conn_01x02
+  designator: p4
+  footprint: pin_header_straight_1x02
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_p2_pin_header_straight_1x03_1_conn_01x03___
+  designation: conn_01x03
+  designator: p2
+  footprint: pin_header_straight_1x03
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_p5,p6_pin_header_straight_1x15_2_conn_01x15___
+  designation: conn_01x15
+  designator: p5
+  footprint: pin_header_straight_1x15
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_p5,p6_pin_header_straight_1x15_2_conn_01x15___
+  designation: conn_01x15
+  designator: p6
+  footprint: pin_header_straight_1x15
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_p7,p8,p10,p11_pin_header_angled_1x04_4_conn_01x04___
+  designation: conn_01x04
+  designator: p7
+  footprint: pin_header_angled_1x04
+  id: '4'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 4_p7,p8,p10,p11_pin_header_angled_1x04_4_conn_01x04___
+  designation: conn_01x04
+  designator: p8
+  footprint: pin_header_angled_1x04
+  id: '4'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 4_p7,p8,p10,p11_pin_header_angled_1x04_4_conn_01x04___
+  designation: conn_01x04
+  designator: p10
+  footprint: pin_header_angled_1x04
+  id: '4'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 4_p7,p8,p10,p11_pin_header_angled_1x04_4_conn_01x04___
+  designation: conn_01x04
+  designator: p11
+  footprint: pin_header_angled_1x04
+  id: '4'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 5_p9_pin_header_straight_1x10_1_conn_01x10___
+  designation: conn_01x10
+  designator: p9
+  footprint: pin_header_straight_1x10
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/ojousima_sht75_device/version_current/working
 projects_folder: projects_folder/ojousima/SHT75-device/version_current/working
 repo:

@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\russellmcc_switch_vca\version_current\working
 oomp_key: oomp_projects_flat_russellmcc_switch_vca
 oomp_key_simple: projects_flat_russellmcc_switch_vca
+parts_verbose:
+- all: 1_j1_avr_icsp_1_m05x2pth___
+  designation: m05x2pth
+  designator: j1
+  footprint: avr_icsp
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_p_cv0,p_gain0_pdb12_2_100kb___
+  designation: 100kb
+  designator: p_cv0
+  footprint: pdb12
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_p_cv0,p_gain0_pdb12_2_100kb___
+  designation: 100kb
+  designator: p_gain0
+  footprint: pdb12
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_cv_jack0,out_jack0,in_jack0_erthenvar_jack_3_audio_jackerthenvar___
+  designation: audio_jackerthenvar
+  designator: cv_jack0
+  footprint: erthenvar_jack
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_cv_jack0,out_jack0,in_jack0_erthenvar_jack_3_audio_jackerthenvar___
+  designation: audio_jackerthenvar
+  designator: out_jack0
+  footprint: erthenvar_jack
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_cv_jack0,out_jack0,in_jack0_erthenvar_jack_3_audio_jackerthenvar___
+  designation: audio_jackerthenvar
+  designator: in_jack0
+  footprint: erthenvar_jack
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 4_u$1_mountain_10sl005_1_dpdt___
+  designation: dpdt
+  designator: u$1
+  footprint: mountain_10sl005
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/russellmcc_switch_vca/version_current/working
 projects_folder: projects_folder/russellmcc/switch_vca/version_current/working
 repo:

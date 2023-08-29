@@ -15,6 +15,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\hormigaazul_i2c_logic_level_converter\version_current\working
 oomp_key: oomp_projects_flat_hormigaazul_i2c_logic_level_converter
 oomp_key_simple: projects_flat_hormigaazul_i2c_logic_level_converter
+parts_verbose:
+- all: 1_j1,j2_pinheader_1x04_p2_54mm_vertical_2_conn_01x04_male___
+  designation: conn_01x04_male
+  designator: j1
+  footprint: pinheader_1x04_p2_54mm_vertical
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_j1,j2_pinheader_1x04_p2_54mm_vertical_2_conn_01x04_male___
+  designation: conn_01x04_male
+  designator: j2
+  footprint: pinheader_1x04_p2_54mm_vertical
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_r1,r2,r3,r4_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal_4_2k2___
+  designation: 2k2
+  designator: r1
+  footprint: r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_r1,r2,r3,r4_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal_4_2k2___
+  designation: 2k2
+  designator: r2
+  footprint: r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_r1,r2,r3,r4_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal_4_2k2___
+  designation: 2k2
+  designator: r3
+  footprint: r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_r1,r2,r3,r4_r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal_4_2k2___
+  designation: 2k2
+  designator: r4
+  footprint: r_axial_din0207_l6_3mm_d2_5mm_p7_62mm_horizontal
+  id: '2'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_q1,q2_to_92_wide_2_2n7000___
+  designation: 2n7000
+  designator: q1
+  footprint: to_92_wide
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_q1,q2_to_92_wide_2_2n7000___
+  designation: 2n7000
+  designator: q2
+  footprint: to_92_wide
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/hormigaazul_i2c_logic_level_converter/version_current/working
 projects_folder: projects_folder/hormigaAzul/i2c-logic-level-converter/version_current/working
 repo:

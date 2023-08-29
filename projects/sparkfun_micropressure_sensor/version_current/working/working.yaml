@@ -15,6 +15,68 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_micropressure_sensor\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_micropressure_sensor
 oomp_key_simple: projects_flat_sparkfun_micropressure_sensor
+parts_verbose:
+- all: 1,,1_0nf_1000pf_0603_50v_10%,c2,1nf,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,1_0nf_1000pf_0603_50v_10%,c2,1nf,0603,1,_,
+- all: 2,,0_1uf_0603_25v_(_80_20%),c1,0_1uf_0603_25v_(_80_20%),0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,0_1uf_0603_25v_(_80_20%),c1,0_1uf_0603_25v_(_80_20%),0603,1,_,
+- all: 3,,led_red0603,d1,red,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,led_red0603,d1,red,led_0603,1,_,
+- all: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 5,,stand_off,h1_h2_h3_h4,stand_off,stand_off,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,stand_off,h1_h2_h3_h4,stand_off,stand_off,4,_,
+- all: 6,,jumper_smt_3_2_nc_trace_silk,i2c0,jumper_smt_3_2_nc_trace_silk,smt_jumper_3_2_nc_trace_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,jumper_smt_3_2_nc_trace_silk,i2c0,jumper_smt_3_2_nc_trace_silk,smt_jumper_3_2_nc_trace_silk,1,_,
+- all: 7,,conn_021x02_no_silk,j4,conn_021x02_no_silk,1x02_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,conn_021x02_no_silk,j4,conn_021x02_no_silk,1x02_no_silk,1,_,
+- all: 8,,i2c_standard_no_silk,j3,i2c_standard_no_silk,1x04_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,i2c_standard_no_silk,j3,i2c_standard_no_silk,1x04_no_silk,1,_,
+- all: 9,,i2c_standardqwiic,j1_j2,qwiic,jst04_1mm_ra,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,i2c_standardqwiic,j1_j2,qwiic,jst04_1mm_ra,2,_,
+- all: 10,,oshw_logos,logo2,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,oshw_logos,logo2,oshw_logos,oshw_logo_s,1,_,
+- all: 11,,qwiic_logo_5mm,logo1,qwiic_logo_5mm,qwiic_5mm,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,qwiic_logo_5mm,logo1,qwiic_logo_5mm,qwiic_5mm,1,_,
+- all: 12,,sfe_logo_name_flame_1_inch,logo3,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,sfe_logo_name_flame_1_inch,logo3,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,
+- all: 13,,jumper_smt_2_nc_trace_silk,pwr0,jumper_smt_2_nc_trace_silk,smt_jumper_2_nc_trace_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,jumper_smt_2_nc_trace_silk,pwr0,jumper_smt_2_nc_trace_silk,smt_jumper_2_nc_trace_silk,1,_,
+- all: 14,,1kohm_0603_1_10w_1%,r3,1kohm_0603_1_10w_1%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,1kohm_0603_1_10w_1%,r3,1kohm_0603_1_10w_1%,0603,1,_,
+- all: 15,,2_2kohm_0603_1_10w_1%,r1_r2_r4,2_2kohm_0603_1_10w_1%,0603,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,2_2kohm_0603_1_10w_1%,r1_r2_r4,2_2kohm_0603_1_10w_1%,0603,3,_,
+- all: 16,,mpr_series_pressure_i2c,u1,mpr_series,mpr_series_pressure_i2c,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,mpr_series_pressure_i2c,u1,mpr_series,mpr_series_pressure_i2c,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_08_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_08
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,16_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,16
+- all: component_count_,22_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,22_(0_smd_0_tht)
+- all: fitted_components_,22_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,22_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,22_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,22
 projects_flat: projects_flat/sparkfun_micropressure_sensor/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_micropressure_sensor/version_current/working
 projects_folder: projects_folder/sparkfun/MicroPressure_Sensor/version_current/working

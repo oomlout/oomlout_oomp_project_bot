@@ -13,6 +13,78 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_esp8266_wifi_ir_blaster\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_esp8266_wifi_ir_blaster
 oomp_key_simple: projects_flat_sparkfun_esp8266_wifi_ir_blaster
+parts_verbose:
+- all: 1,,1_0uf_0603_16v_10%,c1_c2_c3,1_0uf_0603_16v_10%,0603,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 1,,1_0uf_0603_16v_10%,c1_c2_c3,1_0uf_0603_16v_10%,0603,3,_,
+- all: 2,,2_2uf_0603_10v_20%,c4,2_2uf_0603_10v_20%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 2,,2_2uf_0603_10v_20%,c4,2_2uf_0603_10v_20%,0603,1,_,
+- all: 3,,diode_bas16j,d3,diode_bas16j,sod_323,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 3,,diode_bas16j,d3,diode_bas16j,sod_323,1,_,
+- all: 4,,led_green0603,d2,green,led_0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 4,,led_green0603,d2,green,led_0603,1,_,
+- all: 5,,led_irside_emitter,d1,led_irside_emitter,lte_302,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 5,,led_irside_emitter,d1,led_irside_emitter,lte_302,1,_,
+- all: 6,,frame_letter,frame1,frame_letter,creative_commons,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 6,,frame_letter,frame1,frame_letter,creative_commons,1,_,
+- all: 7,,stand_off,h1_h2,stand_off,stand_off,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 7,,stand_off,h1_h2,stand_off,stand_off,2,_,
+- all: 8,,6_pin_serial_targetno_silk,j1,6_pin_serial_targetno_silk,1x06_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 8,,6_pin_serial_targetno_silk,j1,6_pin_serial_targetno_silk,1x06_no_silk,1,_,
+- all: 9,,conn_08no_silk_female_pth,j2,conn_08no_silk_female_pth,1x08_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 9,,conn_08no_silk_female_pth,j2,conn_08no_silk_female_pth,1x08_no_silk,1,_,
+- all: 10,,jumper_smt_2_no_no_silk,jp1,jumper_smt_2_no_no_silk,smt_jumper_2_no_no_silk,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 10,,jumper_smt_2_no_no_silk,jp1,jumper_smt_2_no_no_silk,smt_jumper_2_no_no_silk,1,_,
+- all: 11,,oshw_logos,logo1,oshw_logos,oshw_logo_s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 11,,oshw_logos,logo1,oshw_logos,oshw_logo_s,1,_,
+- all: 12,,revision,logo3,revision,revision,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 12,,revision,logo3,revision,revision,1,_,
+- all: 13,,sfe_logo_name_flame_1_inch,logo2,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 13,,sfe_logo_name_flame_1_inch,logo2,sfe_logo_name_flame_1_inch,sfe_logo_name_flame_1,1,_,
+- all: 14,,trans_npn_mmbt2222al,q1,trans_npn_mmbt2222al,sot23_3,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 14,,trans_npn_mmbt2222al,q1,trans_npn_mmbt2222al,sot23_3,1,_,
+- all: 15,,10kohm_0603_1_10w_1%,r1_r2_r4_r8,10kohm_0603_1_10w_1%,0603,4,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 15,,10kohm_0603_1_10w_1%,r1_r2_r4_r8,10kohm_0603_1_10w_1%,0603,4,_,
+- all: 16,,1kohm_0603_1_10w_1%,r3_r5_r7,1kohm_0603_1_10w_1%,0603,3,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 16,,1kohm_0603_1_10w_1%,r3_r5_r7,1kohm_0603_1_10w_1%,0603,3,_,
+- all: 17,,20ohm_0603_1_10w_1%,r6,20ohm_0603_1_10w_1%,0603,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 17,,20ohm_0603_1_10w_1%,r6,20ohm_0603_1_10w_1%,0603,1,_,
+- all: 18,,momentary_switch_spst_smd_4_6x2_8mm,s1_s2,momentary_switch_spst_smd_4_6x2_8mm,tactile_switch_smd_4_6x2_8mm,2,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 18,,momentary_switch_spst_smd_4_6x2_8mm,s1_s2,momentary_switch_spst_smd_4_6x2_8mm,tactile_switch_smd_4_6x2_8mm,2,_,
+- all: 19,,esp_12s,u1,esp_12s,esp_12s,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 19,,esp_12s,u1,esp_12s,esp_12s,1,_,
+- all: 20,,tsop38238,u2,tsop38238,tsop382,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 20,,tsop38238,u2,tsop38238,tsop382,1,_,
+- all: 21,,v_reg_ap2112k_3_3v,u3,v_reg_ap2112k_3_3v,sot23_5,1,_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: 21,,v_reg_ap2112k_3_3v,u3,v_reg_ap2112k_3_3v,sot23_5,1,_,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: revision_,
+- all: date_,2023_08_06_12_56_02_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: date_,2023_08_06_12_56_02
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: statistics_
+- all: component_groups_,21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_groups_,21
+- all: component_count_,30_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: component_count_,30_(0_smd_0_tht)
+- all: fitted_components_,30_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: fitted_components_,30_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: number_of_pcbs_,1
+- all: total_components_,30_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet: total_components_,30
 projects_flat: projects_flat/sparkfun_esp8266_wifi_ir_blaster/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_esp8266_wifi_ir_blaster/version_current/working
 projects_folder: projects_folder/sparkfun/ESP8266_WiFi_IR_Blaster/version_current/working

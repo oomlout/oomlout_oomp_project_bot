@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_joystick_shield_kit\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_joystick_shield_kit
 oomp_key_simple: projects_flat_sparkfun_joystick_shield_kit
+parts_verbose:
+- all: 1_s1,s4,s2,s3_tactile_pth_12mm_4____
+  designation: ''
+  designator: s1
+  footprint: tactile_pth_12mm
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_s1,s4,s2,s3_tactile_pth_12mm_4____
+  designation: ''
+  designator: s4
+  footprint: tactile_pth_12mm
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_s1,s4,s2,s3_tactile_pth_12mm_4____
+  designation: ''
+  designator: s2
+  footprint: tactile_pth_12mm
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 1_s1,s4,s2,s3_tactile_pth_12mm_4____
+  designation: ''
+  designator: s3
+  footprint: tactile_pth_12mm
+  id: '1'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 2_u1_duemilanove_shield_1_arduino_shield___
+  designation: arduino_shield
+  designator: u1
+  footprint: duemilanove_shield
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u2_joystick_1_joystick___
+  designation: joystick
+  designator: u2
+  footprint: joystick
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_jp1_sfe_new_weblogo_1_logo_sfenew___
+  designation: logo_sfenew
+  designator: jp1
+  footprint: sfe_new_weblogo
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_s6_tactile_pth_1_reset___
+  designation: reset
+  designator: s6
+  footprint: tactile_pth
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_u$3_creative_commons_1_creative_commons___
+  designation: creative_commons
+  designator: u$3
+  footprint: creative_commons
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_joystick_shield_kit/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_joystick_shield_kit/version_current/working
 projects_folder: projects_folder/sparkfun/Joystick_Shield_Kit/version_current/working

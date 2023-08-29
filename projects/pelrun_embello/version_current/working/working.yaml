@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\pelrun_embello\version_current\working
 oomp_key: oomp_projects_flat_pelrun_embello
 oomp_key_simple: projects_flat_pelrun_embello
+parts_verbose:
+- all: 1_jp2,jp3_1x10_no_silk_2_m10no_silk_pth_female___
+  designation: m10no_silk_pth_female
+  designator: jp2
+  footprint: 1x10_no_silk
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_jp2,jp3_1x10_no_silk_2_m10no_silk_pth_female___
+  designation: m10no_silk_pth_female
+  designator: jp3
+  footprint: 1x10_no_silk
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_jp1_1x06_longpads_1____
+  designation: ''
+  designator: jp1
+  footprint: 1x06_longpads
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u$3_tssop20_1_lpc824m201jdh20___
+  designation: lpc824m201jdh20
+  designator: u$3
+  footprint: tssop20
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: "4_c2_c0603k_1_1\xE2\xB5___"
+  designation: "1\xE2\xB5"
+  designator: c2
+  footprint: c0603k
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_sj1_sj_2s_trace_1_solderjumpertrace___
+  designation: solderjumpertrace
+  designator: sj1
+  footprint: sj_2s_trace
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: "6_c3_c0805k_1_10\xE2\xB5___"
+  designation: "10\xE2\xB5"
+  designator: c3
+  footprint: c0805k
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_ic1_sot23_dbv_1_tps78233___
+  designation: tps78233
+  designator: ic1
+  footprint: sot23_dbv
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: "8_c1_c0603k_1_0_1\xE2\xB5___"
+  designation: "0_1\xE2\xB5"
+  designator: c1
+  footprint: c0603k
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/pelrun_embello/version_current/working
 projects_folder: projects_folder/pelrun/embello/version_current/working
 repo:

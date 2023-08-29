@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\johslarsen_mun12ad_78xx\version_current\working
 oomp_key: oomp_projects_flat_johslarsen_mun12ad_78xx
 oomp_key_simple: projects_flat_johslarsen_mun12ad_78xx
+parts_verbose:
+- all: 1_j1_pin_header_straight_1x03_pitch2_54mm_1_conn_01x03___
+  designation: conn_01x03
+  designator: j1
+  footprint: pin_header_straight_1x03_pitch2_54mm
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_d1_led_0603_1_led___
+  designation: led
+  designator: d1
+  footprint: led_0603
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_c3_resistor_smduniversal_0805to1206_handsoldering_1_47u___
+  designation: 47u
+  designator: c3
+  footprint: resistor_smduniversal_0805to1206_handsoldering
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_c2_resistor_smduniversal_0805to1206_handsoldering_1_22u___
+  designation: 22u
+  designator: c2
+  footprint: resistor_smduniversal_0805to1206_handsoldering
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_a1_qfn_8_3ep_3_4x3_4x1_4mm_p0_8mm_cyntec_mun12ad03_sh_1_mun12ad03_sh___
+  designation: mun12ad03_sh
+  designator: a1
+  footprint: qfn_8_3ep_3_4x3_4x1_4mm_p0_8mm_cyntec_mun12ad03_sh
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_c1_c_0603_1_open___
+  designation: open
+  designator: c1
+  footprint: c_0603
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_r1,r3,r4_r_0603_3_100k___
+  designation: 100k
+  designator: r1
+  footprint: r_0603
+  id: '7'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 7_r1,r3,r4_r_0603_3_100k___
+  designation: 100k
+  designator: r3
+  footprint: r_0603
+  id: '7'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 7_r1,r3,r4_r_0603_3_100k___
+  designation: 100k
+  designator: r4
+  footprint: r_0603
+  id: '7'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 8_r2_r_0603_1_13k7___
+  designation: 13k7
+  designator: r2
+  footprint: r_0603
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/johslarsen_mun12ad_78xx/version_current/working
 projects_folder: projects_folder/johslarsen/mun12ad_78xx/version_current/working
 repo:

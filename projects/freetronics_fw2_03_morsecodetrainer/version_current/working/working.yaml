@@ -13,6 +13,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_fw2_03_morsecodetrainer\version_current\working
 oomp_key: oomp_projects_flat_freetronics_fw2_03_morsecodetrainer
 oomp_key_simple: projects_flat_freetronics_fw2_03_morsecodetrainer
+parts_verbose:
+- all: 1_jp3_1x01_1_spkr____
+  designation: spkr_
+  designator: jp3
+  footprint: 1x01
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_t1_trans350mw_1_1k_8_ohm___
+  designation: 1k_8_ohm
+  designator: t1
+  footprint: trans350mw
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_jp2_1x01_1_pwr____
+  designation: pwr_
+  designator: jp2
+  footprint: 1x01
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_c1_cap_pth_small_1_0_15uf___
+  designation: 0_15uf
+  designator: c1
+  footprint: cap_pth_small
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_r2_freetronics_axial_0_4_1_1k___
+  designation: 1k
+  designator: r2
+  footprint: freetronics_axial_0_4
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_r1_freetronics_axial_0_4_1_27k___
+  designation: 27k
+  designator: r1
+  footprint: freetronics_axial_0_4
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_q1_to_92_1_bc547___
+  designation: bc547
+  designator: q1
+  footprint: to_92
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_jp6,jp5,jp1_1x01_3_pwr____
+  designation: pwr_
+  designator: jp6
+  footprint: 1x01
+  id: '8'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 8_jp6,jp5,jp1_1x01_3_pwr____
+  designation: pwr_
+  designator: jp5
+  footprint: 1x01
+  id: '8'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 8_jp6,jp5,jp1_1x01_3_pwr____
+  designation: pwr_
+  designator: jp1
+  footprint: 1x01
+  id: '8'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 9_jp4_1x01_1_spkr____
+  designation: spkr_
+  designator: jp4
+  footprint: 1x01
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_fw2_03_morsecodetrainer/version_current/working
 projects_folder: projects_folder/freetronics/FW2-03-MorseCodeTrainer/version_current/working
 repo:

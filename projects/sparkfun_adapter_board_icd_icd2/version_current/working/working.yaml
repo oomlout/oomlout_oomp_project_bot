@@ -15,6 +15,35 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_adapter_board_icd_icd2\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_adapter_board_icd_icd2
 oomp_key_simple: projects_flat_sparkfun_adapter_board_icd_icd2
+parts_verbose:
+- all: 1_rj11_rj11_6_1_rj11_6pth___
+  designation: rj11_6pth
+  designator: rj11
+  footprint: rj11_6
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_frame1_dummy_1____
+  designation: ''
+  designator: frame1
+  footprint: dummy
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_headers0_molex_1x6_1____
+  designation: ''
+  designator: headers0
+  footprint: molex_1x6
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_jp1_sfe_logo_flame_1_logo_sfesk___
+  designation: logo_sfesk
+  designator: jp1
+  footprint: sfe_logo_flame
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_adapter_board_icd_icd2/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_adapter_board_icd_icd2/version_current/working
 projects_folder: projects_folder/sparkfun/Adapter_Board-ICD_ICD2/version_current/working

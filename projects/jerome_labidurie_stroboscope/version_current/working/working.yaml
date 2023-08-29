@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jerome_labidurie_stroboscope\version_current\working
 oomp_key: oomp_projects_flat_jerome_labidurie_stroboscope
 oomp_key_simple: projects_flat_jerome_labidurie_stroboscope
+parts_verbose:
+- all: 1_p1_socket_strip_arduino_1x15_1_digital___
+  designation: digital
+  designator: p1
+  footprint: socket_strip_arduino_1x15
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_p2_socket_strip_arduino_1x15_1_analog___
+  designation: analog
+  designator: p2
+  footprint: socket_strip_arduino_1x15
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_p3,p4,p5,p6_1pin_nano_4_conn_01x01___
+  designation: conn_01x01
+  designator: p3
+  footprint: 1pin_nano
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_p3,p4,p5,p6_1pin_nano_4_conn_01x01___
+  designation: conn_01x01
+  designator: p4
+  footprint: 1pin_nano
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_p3,p4,p5,p6_1pin_nano_4_conn_01x01___
+  designation: conn_01x01
+  designator: p5
+  footprint: 1pin_nano
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_p3,p4,p5,p6_1pin_nano_4_conn_01x01___
+  designation: conn_01x01
+  designator: p6
+  footprint: 1pin_nano
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
 projects_flat: projects_flat/jerome_labidurie_stroboscope/version_current/working
 projects_folder: projects_folder/jerome-labidurie/Stroboscope/version_current/working
 repo:

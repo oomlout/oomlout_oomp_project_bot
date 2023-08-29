@@ -13,6 +13,42 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\solderparty_keyboard_featherwing_pico_adapter\version_current\working
 oomp_key: oomp_projects_flat_solderparty_keyboard_featherwing_pico_adapter
 oomp_key_simple: projects_flat_solderparty_keyboard_featherwing_pico_adapter
+parts_verbose:
+- all: 1_j2_pinheader_2x16_p2_54mm_vertical_1_conn_left___
+  designation: conn_left
+  designator: j2
+  footprint: pinheader_2x16_p2_54mm_vertical
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j3_pinheader_2x12_p2_54mm_vertical_1_conn_right___
+  designation: conn_right
+  designator: j3
+  footprint: pinheader_2x12_p2_54mm_vertical
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_g__solderparty_new_logo_15x12_7mm_silkscreen_1_logo___
+  designation: logo
+  designator: g_
+  footprint: solderparty_new_logo_15x12_7mm_silkscreen
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_u1_raspberrypi_pico_1_raspberrypi_pico___
+  designation: raspberrypi_pico
+  designator: u1
+  footprint: raspberrypi_pico
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_g__solderparty_new_logo_7_5x6_4mm_silkscreen_1_logo___
+  designation: logo
+  designator: g_
+  footprint: solderparty_new_logo_7_5x6_4mm_silkscreen
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/solderparty_keyboard_featherwing_pico_adapter/version_current/working
 projects_folder: projects_folder/solderparty/keyboard_featherwing_pico_adapter/version_current/working
 repo:

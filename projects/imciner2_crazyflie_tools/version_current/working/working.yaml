@@ -13,6 +13,35 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\imciner2_crazyflie_tools\version_current\working
 oomp_key: oomp_projects_flat_imciner2_crazyflie_tools
 oomp_key_simple: projects_flat_imciner2_crazyflie_tools
+parts_verbose:
+- all: 1_p1_conn_2_54mm_1x3_1_conn_1x3___
+  designation: conn_1x3
+  designator: p1
+  footprint: conn_2_54mm_1x3
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_r1_smd_0805_1_470___
+  designation: '470'
+  designator: r1
+  footprint: smd_0805
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_c1_smd_0805_1_0_1u___
+  designation: 0_1u
+  designator: c1
+  footprint: smd_0805
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_mt1_sharp_gp1a57hrj00f_1_gp1a57hrj00f___
+  designation: gp1a57hrj00f
+  designator: mt1
+  footprint: sharp_gp1a57hrj00f
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/imciner2_crazyflie_tools/version_current/working
 projects_folder: projects_folder/imciner2/Crazyflie_Tools/version_current/working
 repo:

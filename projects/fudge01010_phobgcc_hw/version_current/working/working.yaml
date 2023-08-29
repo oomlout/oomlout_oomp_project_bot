@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\fudge01010_phobgcc_hw\version_current\working
 oomp_key: oomp_projects_flat_fudge01010_phobgcc_hw
 oomp_key_simple: projects_flat_fudge01010_phobgcc_hw
+parts_verbose:
+- all: 1_h2_breakaway_mousebites_double_1_mousebitera___
+  designation: mousebitera
+  designator: h2
+  footprint: breakaway_mousebites_double
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_sw2_trigger_contact_1_r___
+  designation: r
+  designator: sw2
+  footprint: trigger_contact
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_sw1_trigger_contact_1_l___
+  designation: l
+  designator: sw1
+  footprint: trigger_contact
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_h1_breakaway_mousebites_double_1_mousebitela___
+  designation: mousebitela
+  designator: h1
+  footprint: breakaway_mousebites_double
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_j2_pin_header_straight_1x02_pitch2_54mm_1_r___
+  designation: r
+  designator: j2
+  footprint: pin_header_straight_1x02_pitch2_54mm
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_j1_pin_header_straight_1x02_pitch2_54mm_1_l___
+  designation: l
+  designator: j1
+  footprint: pin_header_straight_1x02_pitch2_54mm
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/fudge01010_phobgcc_hw/version_current/working
 projects_folder: projects_folder/fudge01010/PhobGCC-HW/version_current/working
 repo:

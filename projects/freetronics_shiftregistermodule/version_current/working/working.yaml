@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_shiftregistermodule\version_current\working
 oomp_key: oomp_projects_flat_freetronics_shiftregistermodule
 oomp_key_simple: projects_flat_freetronics_shiftregistermodule
+parts_verbose:
+- all: 1_jp1_1x08_1_outputs___
+  designation: outputs
+  designator: jp1
+  footprint: 1x08
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_r1_0603_1_2k2___
+  designation: 2k2
+  designator: r1
+  footprint: '0603'
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_c1_0603_1_100nf___
+  designation: 100nf
+  designator: c1
+  footprint: '0603'
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_ic1_tssop16_1_74595___
+  designation: '74595'
+  designator: ic1
+  footprint: tssop16
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_jp2_1x08_1_inputs___
+  designation: inputs
+  designator: jp2
+  footprint: 1x08
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_led1_led_0603_1_blue___
+  designation: blue
+  designator: led1
+  footprint: led_0603
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_shiftregistermodule/version_current/working
 projects_folder: projects_folder/freetronics/ShiftRegisterModule/version_current/working
 repo:

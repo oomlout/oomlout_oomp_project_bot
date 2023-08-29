@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\libresolar_uext_esp32\version_current\working
 oomp_key: oomp_projects_flat_libresolar_uext_esp32
 oomp_key_simple: projects_flat_libresolar_uext_esp32
+parts_verbose:
+- all: 1_j1_pinsocket_2x05_p2_54mm_vertical_1_uext___
+  designation: uext
+  designator: j1
+  footprint: pinsocket_2x05_p2_54mm_vertical
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j2_pinheader_1x06_p2_54mm_vertical_1_conn_01x06___
+  designation: conn_01x06
+  designator: j2
+  footprint: pinheader_1x06_p2_54mm_vertical
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r2,r1_r_0603_1608_2_10k___
+  designation: 10k
+  designator: r2
+  footprint: r_0603_1608
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_r2,r1_r_0603_1608_2_10k___
+  designation: 10k
+  designator: r1
+  footprint: r_0603_1608
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_q2,q1_sot_23_2_mmbt3904___
+  designation: mmbt3904
+  designator: q2
+  footprint: sot_23
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_q2,q1_sot_23_2_mmbt3904___
+  designation: mmbt3904
+  designator: q1
+  footprint: sot_23
+  id: '4'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_logo1_libresolar_logo_1_libresolar_logo___
+  designation: libresolar_logo
+  designator: logo1
+  footprint: libresolar_logo
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_u1_esp32_wroom_32_1_esp32_wroom_32d___
+  designation: esp32_wroom_32d
+  designator: u1
+  footprint: esp32_wroom_32
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_c1_c_0805_2012_1_10uf___
+  designation: 10uf
+  designator: c1
+  footprint: c_0805_2012
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/libresolar_uext_esp32/version_current/working
 projects_folder: projects_folder/LibreSolar/uext-esp32/version_current/working
 repo:

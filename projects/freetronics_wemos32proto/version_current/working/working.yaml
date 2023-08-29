@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_wemos32proto\version_current\working
 oomp_key: oomp_projects_flat_freetronics_wemos32proto
 oomp_key_simple: projects_flat_freetronics_wemos32proto
+parts_verbose:
+- all: 1_jp1,jp2_1x16_2_m16pth___
+  designation: m16pth
+  designator: jp1
+  footprint: 1x16
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_jp1,jp2_1x16_2_m16pth___
+  designation: m16pth
+  designator: jp2
+  footprint: 1x16
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_j1,j3_1x10_2_digital_8_13___
+  designation: digital_8_13
+  designator: j1
+  footprint: 1x10
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_j1,j3_1x10_2_digital_8_13___
+  designation: digital_8_13
+  designator: j3
+  footprint: 1x10
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_@hole0,@hole2,@hole3,@hole1__4____
+  designation: ''
+  designator: '@hole0'
+  footprint: ''
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_@hole0,@hole2,@hole3,@hole1__4____
+  designation: ''
+  designator: '@hole2'
+  footprint: ''
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_@hole0,@hole2,@hole3,@hole1__4____
+  designation: ''
+  designator: '@hole3'
+  footprint: ''
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_@hole0,@hole2,@hole3,@hole1__4____
+  designation: ''
+  designator: '@hole1'
+  footprint: ''
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_wemos32proto/version_current/working
 projects_folder: projects_folder/freetronics/WeMos32Proto/version_current/working
 repo:

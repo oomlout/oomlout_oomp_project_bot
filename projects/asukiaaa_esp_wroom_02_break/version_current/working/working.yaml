@@ -13,6 +13,35 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\asukiaaa_esp_wroom_02_break\version_current\working
 oomp_key: oomp_projects_flat_asukiaaa_esp_wroom_02_break
 oomp_key_simple: projects_flat_asukiaaa_esp_wroom_02_break
+parts_verbose:
+- all: 1_u1_esp_13_wroom_02_1_esp_13_wroom_02___
+  designation: esp_13_wroom_02
+  designator: u1
+  footprint: esp_13_wroom_02
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j1,j2_pin_header_straight_1x08_small_2_header_8___
+  designation: header_8
+  designator: j1
+  footprint: pin_header_straight_1x08_small
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_j1,j2_pin_header_straight_1x08_small_2_header_8___
+  designation: header_8
+  designator: j2
+  footprint: pin_header_straight_1x08_small
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_g__oshw_3p4mm_1_logo___
+  designation: logo
+  designator: g_
+  footprint: oshw_3p4mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/asukiaaa_esp_wroom_02_break/version_current/working
 projects_folder: projects_folder/asukiaaa/esp-wroom-02-break/version_current/working
 repo:

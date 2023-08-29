@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ojousima_connector\version_current\working
 oomp_key: oomp_projects_flat_ojousima_connector
 oomp_key_simple: projects_flat_ojousima_connector
+parts_verbose:
+- all: 1_g__eyesilk2mm_1_eyesilk2mm___
+  designation: eyesilk2mm
+  designator: g_
+  footprint: eyesilk2mm
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j3,j2_ruuvi_connector_8pin_header_2_ruuvi_connector_pin_header___
+  designation: ruuvi_connector_pin_header
+  designator: j3
+  footprint: ruuvi_connector_8pin_header
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_j3,j2_ruuvi_connector_8pin_header_2_ruuvi_connector_pin_header___
+  designation: ruuvi_connector_pin_header
+  designator: j2
+  footprint: ruuvi_connector_8pin_header
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_h4,h3_breakoutholes_2_27_x_0_4mm_npth___
+  designation: 27_x_0_4mm_npth
+  designator: h4
+  footprint: breakoutholes
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_h4,h3_breakoutholes_2_27_x_0_4mm_npth___
+  designation: 27_x_0_4mm_npth
+  designator: h3
+  footprint: breakoutholes
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_c1_capc160x80x35l25n_1_100n___
+  designation: 100n
+  designator: c1
+  footprint: capc160x80x35l25n
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_r1,r2_capc160x80x35l25n_2_10k___
+  designation: 10k
+  designator: r1
+  footprint: capc160x80x35l25n
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_r1,r2_capc160x80x35l25n_2_10k___
+  designation: 10k
+  designator: r2
+  footprint: capc160x80x35l25n
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_u1_soic_14w_7_5x9mm_p1_27mm_1_npa_700___
+  designation: npa_700
+  designator: u1
+  footprint: soic_14w_7_5x9mm_p1_27mm
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_j4_ruuvi_connector_ffc_1_ruuvi_connector_horizontal___
+  designation: ruuvi_connector_horizontal
+  designator: j4
+  footprint: ruuvi_connector_ffc
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/ojousima_connector/version_current/working
 projects_folder: projects_folder/ojousima/connector/version_current/working
 repo:

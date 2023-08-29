@@ -15,6 +15,42 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lilypad_button_board\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lilypad_button_board
 oomp_key_simple: projects_flat_sparkfun_lilypad_button_board
+parts_verbose:
+- all: 1_button_0,buttons0_petal_medium_2side_2_sewtap8___
+  designation: sewtap8
+  designator: button_0
+  footprint: petal_medium_2side
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_button_0,buttons0_petal_medium_2side_2_sewtap8___
+  designation: sewtap8
+  designator: buttons0
+  footprint: petal_medium_2side
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_s1_tactile_switch_smd_1____
+  designation: ''
+  designator: s1
+  footprint: tactile_switch_smd
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u$1_creative_commons_1_creative_commons___
+  designation: creative_commons
+  designator: u$1
+  footprint: creative_commons
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_logo1_logo_l_1_logo_lpl___
+  designation: logo_lpl
+  designator: logo1
+  footprint: logo_l
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_lilypad_button_board/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lilypad_button_board/version_current/working
 projects_folder: projects_folder/sparkfun/LilyPad_Button_Board/version_current/working

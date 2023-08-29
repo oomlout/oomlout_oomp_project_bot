@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_adg801inline\version_current\working
 oomp_key: oomp_projects_flat_freetronics_adg801inline
 oomp_key_simple: projects_flat_freetronics_adg801inline
+parts_verbose:
+- all: 1_@hole0,@hole1__2____
+  designation: ''
+  designator: '@hole0'
+  footprint: ''
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_@hole0,@hole1__2____
+  designation: ''
+  designator: '@hole1'
+  footprint: ''
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_r1_0402_1_10k_0402___
+  designation: 10k_0402
+  designator: r1
+  footprint: '0402'
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_jp1,jp2_1x3_2mm_2____
+  designation: ''
+  designator: jp1
+  footprint: 1x3_2mm
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_jp1,jp2_1x3_2mm_2____
+  designation: ''
+  designator: jp2
+  footprint: 1x3_2mm
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_sw1_sot23_6_1_adg801_sot23_6___
+  designation: adg801_sot23_6
+  designator: sw1
+  footprint: sot23_6
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_r2_0402_1_15k_0402___
+  designation: 15k_0402
+  designator: r2
+  footprint: '0402'
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_adg801inline/version_current/working
 projects_folder: projects_folder/freetronics/ADG801Inline/version_current/working
 repo:

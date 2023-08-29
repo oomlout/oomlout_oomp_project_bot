@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\libresolar_cortex_stlink_adapter\version_current\working
 oomp_key: oomp_projects_flat_libresolar_cortex_stlink_adapter
 oomp_key_simple: projects_flat_libresolar_cortex_stlink_adapter
+parts_verbose:
+- all: 1_c1_c0805_1_0_1u___
+  designation: 0_1u
+  designator: c1
+  footprint: c0805
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_r1_r0805_1_4_7k___
+  designation: 4_7k
+  designator: r1
+  footprint: r0805
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_swd0_1x06_1____
+  designation: ''
+  designator: swd0
+  footprint: 1x06
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_cortex0_2x5_pth_1_27mm_1_cortex_debugpth___
+  designation: cortex_debugpth
+  designator: cortex0
+  footprint: 2x5_pth_1_27mm
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_uart0,jp1_1x02_2_m02pth___
+  designation: m02pth
+  designator: uart0
+  footprint: 1x02
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_uart0,jp1_1x02_2_m02pth___
+  designation: m02pth
+  designator: jp1
+  footprint: 1x02
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/libresolar_cortex_stlink_adapter/version_current/working
 projects_folder: projects_folder/LibreSolar/cortex-stlink-adapter/version_current/working
 repo:

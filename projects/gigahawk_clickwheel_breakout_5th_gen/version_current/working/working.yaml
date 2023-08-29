@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\gigahawk_clickwheel_breakout_5th_gen\version_current\working
 oomp_key: oomp_projects_flat_gigahawk_clickwheel_breakout_5th_gen
 oomp_key_simple: projects_flat_gigahawk_clickwheel_breakout_5th_gen
+parts_verbose:
+- all: 1_j3_pinheader_2x13_p2_54mm_vertical_1_conn_02x13_odd_even___
+  designation: conn_02x13_odd_even
+  designator: j3
+  footprint: pinheader_2x13_p2_54mm_vertical
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_tp1_clickwheel_1_clickwheel_ground_pad___
+  designation: clickwheel_ground_pad
+  designator: tp1
+  footprint: clickwheel
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_sw5_sw_push_6mm_h4_3mm_1_enter___
+  designation: enter
+  designator: sw5
+  footprint: sw_push_6mm_h4_3mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: "4_sw4_sw_push_6mm_h4_3mm_1_\xE2\u2013\xB6\xE2\u2013\xB6____"
+  designation: "\xE2\u2013\xB6\xE2\u2013\xB6_"
+  designator: sw4
+  footprint: sw_push_6mm_h4_3mm
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: "5_sw3_sw_push_6mm_h4_3mm_1__\xE2\u2014\u20AC\xE2\u2014\u20AC___"
+  designation: "_\xE2\u2014\u20AC\xE2\u2014\u20AC"
+  designator: sw3
+  footprint: sw_push_6mm_h4_3mm
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: "6_sw2_sw_push_6mm_h4_3mm_1_\xE2\u2013\xB6____"
+  designation: "\xE2\u2013\xB6_"
+  designator: sw2
+  footprint: sw_push_6mm_h4_3mm
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_sw1_sw_push_6mm_1_menu___
+  designation: menu
+  designator: sw1
+  footprint: sw_push_6mm
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_j2,j1_123287243_2_1_2328724_3___
+  designation: '1_2328724_3'
+  designator: j2
+  footprint: '123287243'
+  id: '8'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 8_j2,j1_123287243_2_1_2328724_3___
+  designation: '1_2328724_3'
+  designator: j1
+  footprint: '123287243'
+  id: '8'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/gigahawk_clickwheel_breakout_5th_gen/version_current/working
 projects_folder: projects_folder/Gigahawk/clickwheel_breakout_5th_gen/version_current/working
 repo:

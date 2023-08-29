@@ -13,6 +13,35 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\madworm_sot89_5_dip\version_current\working
 oomp_key: oomp_projects_flat_madworm_sot89_5_dip
 oomp_key_simple: projects_flat_madworm_sot89_5_dip
+parts_verbose:
+- all: 1_g1__1_logo___
+  designation: logo
+  designator: g1
+  footprint: ''
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_g2_logo_1_logo___
+  designation: logo
+  designator: g2
+  footprint: logo
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_p1_dip_6_300_1_dil6___
+  designation: dil6
+  designator: p1
+  footprint: dip_6_300
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_u1_madw_sot89_5_1_madw_pt4115_sot89_5___
+  designation: madw_pt4115_sot89_5
+  designator: u1
+  footprint: madw_sot89_5
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/madworm_sot89_5_dip/version_current/working
 projects_folder: projects_folder/madworm/SOT89-5_DIP/version_current/working
 repo:

@@ -13,6 +13,49 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_low_profile_microsd_to_sd_adapter_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_low_profile_microsd_to_sd_adapter_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_low_profile_microsd_to_sd_adapter_pcb
+parts_verbose:
+- all: 1_fid2,fid1_fiducial_1x2_5_2_fiducial1x2_5___
+  designation: fiducial1x2_5
+  designator: fid2
+  footprint: fiducial_1x2_5
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_fid2,fid1_fiducial_1x2_5_2_fiducial1x2_5___
+  designation: fiducial1x2_5
+  designator: fid1
+  footprint: fiducial_1x2_5
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_cn1_microsd_1____
+  designation: ''
+  designator: cn1
+  footprint: microsd
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u$5_adafruit_3_5mm_1____
+  designation: ''
+  designator: u$5
+  footprint: adafruit_3_5mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_u$6_adafruit_text_20mm_1____
+  designation: ''
+  designator: u$6
+  footprint: adafruit_text_20mm
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_u$2_sdcard_pcbcarrier_docu_1_sdcard_pcbcarriertdocu___
+  designation: sdcard_pcbcarriertdocu
+  designator: u$2
+  footprint: sdcard_pcbcarrier_docu
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_low_profile_microsd_to_sd_adapter_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_low_profile_microsd_to_sd_adapter_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB/version_current/working

@@ -13,6 +13,28 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\natsfr_kicad_components\version_current\working
 oomp_key: oomp_projects_flat_natsfr_kicad_components
 oomp_key_simple: projects_flat_natsfr_kicad_components
+parts_verbose:
+- all: 1_p103_pin_array_2x1_1_conn_01x02___
+  designation: conn_01x02
+  designator: p103
+  footprint: pin_array_2x1
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_p101,p102_test_01x02_05mm_2_conn_01x02___
+  designation: conn_01x02
+  designator: p101
+  footprint: test_01x02_05mm
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_p101,p102_test_01x02_05mm_2_conn_01x02___
+  designation: conn_01x02
+  designator: p102
+  footprint: test_01x02_05mm
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/natsfr_kicad_components/version_current/working
 projects_folder: projects_folder/natsfr/kicad-components/version_current/working
 repo:

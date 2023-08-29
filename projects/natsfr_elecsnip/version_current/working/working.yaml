@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\natsfr_elecsnip\version_current\working
 oomp_key: oomp_projects_flat_natsfr_elecsnip
 oomp_key_simple: projects_flat_natsfr_elecsnip
+parts_verbose:
+- all: 1_c101_c_0805_handsoldering_1_1u___
+  designation: 1u
+  designator: c101
+  footprint: c_0805_handsoldering
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_c102_c_0805_handsoldering_1_100n___
+  designation: 100n
+  designator: c102
+  footprint: c_0805_handsoldering
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_j101,j102_pin_header_straight_1x05_pitch2_54mm_2_conn_01x05___
+  designation: conn_01x05
+  designator: j101
+  footprint: pin_header_straight_1x05_pitch2_54mm
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_j101,j102_pin_header_straight_1x05_pitch2_54mm_2_conn_01x05___
+  designation: conn_01x05
+  designator: j102
+  footprint: pin_header_straight_1x05_pitch2_54mm
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_mic101_sph0641lu4h_1_1_sph0641lu4h_1___
+  designation: sph0641lu4h_1
+  designator: mic101
+  footprint: sph0641lu4h_1
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_r101,r102,r103_r_0603_handsoldering_3_r___
+  designation: r
+  designator: r101
+  footprint: r_0603_handsoldering
+  id: '5'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 5_r101,r102,r103_r_0603_handsoldering_3_r___
+  designation: r
+  designator: r102
+  footprint: r_0603_handsoldering
+  id: '5'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 5_r101,r102,r103_r_0603_handsoldering_3_r___
+  designation: r
+  designator: r103
+  footprint: r_0603_handsoldering
+  id: '5'
+  quantity: '3'
+  supplier_and_ref: ''
 projects_flat: projects_flat/natsfr_elecsnip/version_current/working
 projects_folder: projects_folder/natsfr/ElecSnip/version_current/working
 repo:

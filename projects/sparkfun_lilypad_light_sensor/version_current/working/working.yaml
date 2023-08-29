@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lilypad_light_sensor\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lilypad_light_sensor
 oomp_key_simple: projects_flat_sparkfun_lilypad_light_sensor
+parts_verbose:
+- all: 1_r1_0402_res_1_10k___
+  designation: 10k
+  designator: r1
+  footprint: 0402_res
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_light_0,lights0,light_0_petal_small_2side_3_sewtap6___
+  designation: sewtap6
+  designator: light_0
+  footprint: petal_small_2side
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_light_0,lights0,light_0_petal_small_2side_3_sewtap6___
+  designation: sewtap6
+  designator: lights0
+  footprint: petal_small_2side
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_light_0,lights0,light_0_petal_small_2side_3_sewtap6___
+  designation: sewtap6
+  designator: light_0
+  footprint: petal_small_2side
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_light2,light1,light3_petal_nohole_2side_3_sewtap_nohole2___
+  designation: sewtap_nohole2
+  designator: light2
+  footprint: petal_nohole_2side
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_light2,light1,light3_petal_nohole_2side_3_sewtap_nohole2___
+  designation: sewtap_nohole2
+  designator: light1
+  footprint: petal_nohole_2side
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_light2,light1,light3_petal_nohole_2side_3_sewtap_nohole2___
+  designation: sewtap_nohole2
+  designator: light3
+  footprint: petal_nohole_2side
+  id: '3'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 4_u1_temt6000_sen_1_temt6000___
+  designation: temt6000
+  designator: u1
+  footprint: temt6000_sen
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_u$2_logo_lilypad_1_logo_lplp___
+  designation: logo_lplp
+  designator: u$2
+  footprint: logo_lilypad
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_lilypad_light_sensor/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lilypad_light_sensor/version_current/working
 projects_folder: projects_folder/sparkfun/LilyPad_Light_Sensor/version_current/working

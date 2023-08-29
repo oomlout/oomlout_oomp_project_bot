@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\myelin_breakout_boards\version_current\working
 oomp_key: oomp_projects_flat_myelin_breakout_boards
 oomp_key_simple: projects_flat_myelin_breakout_boards
+parts_verbose:
+- all: 1_c1,c2_sm0805_nosilkscreen_2_10u___
+  designation: 10u
+  designator: c1
+  footprint: sm0805_nosilkscreen
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 1_c1,c2_sm0805_nosilkscreen_2_10u___
+  designation: 10u
+  designator: c2
+  footprint: sm0805_nosilkscreen
+  id: '1'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_con1_usb_a_thru_hole_1_usb_plug___
+  designation: usb_plug
+  designator: con1
+  footprint: usb_a_thru_hole
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_con2_micro_usb_b_smd_bottom_mount_1_micro_usb_socket___
+  designation: micro_usb_socket
+  designator: con2
+  footprint: micro_usb_b_smd_bottom_mount
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_p1_socket_strip_straight_2x02_1_5v___
+  designation: 5v
+  designator: p1
+  footprint: socket_strip_straight_2x02
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_p2_socket_strip_straight_2x02_1_3_3v___
+  designation: 3_3v
+  designator: p2
+  footprint: socket_strip_straight_2x02
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_p3_socket_strip_straight_2x02_1_gnd___
+  designation: gnd
+  designator: p3
+  footprint: socket_strip_straight_2x02
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_u1_sot_223_ldo_1117lv_1_ncp1117st33t3g___
+  designation: ncp1117st33t3g
+  designator: u1
+  footprint: sot_223_ldo_1117lv
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_p4_socket_strip_straight_1x01_1_5v___
+  designation: 5v
+  designator: p4
+  footprint: socket_strip_straight_1x01
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 9_p5_socket_strip_straight_1x01_1_gnd___
+  designation: gnd
+  designator: p5
+  footprint: socket_strip_straight_1x01
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/myelin_breakout_boards/version_current/working
 projects_folder: projects_folder/myelin/breakout-boards/version_current/working
 repo:

@@ -13,6 +13,66 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lp55231_breakout\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lp55231_breakout
 oomp_key_simple: projects_flat_sparkfun_lp55231_breakout
+parts_verbose:
+- all: 1,,cap0603_cap,c2_c3,0_47uf,0603_cap,2,_,,cap_13216,battery_babysitter_battery_bayasitter_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 1,,cap0603_cap,c2_c3,0_47uf,0603_cap,2,_,,cap_13216,battery_babysitter_battery_bayasitter
+- all: 2,,1_0uf_16v_10%(0603),c1_c4,1_0uf,0603_cap,2,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 2,,1_0uf_16v_10%(0603),c1_c4,1_0uf,0603_cap,2,_,,,
+- all: 3,,frame_letter,frame1,frame_letter,creative_commons,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 3,,frame_letter,frame1,frame_letter,creative_commons,1,_,,,
+- all: 4,,m08no_silk_female_pth,j1,to_micro,1x08_no_silk,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 4,,m08no_silk_female_pth,j1,to_micro,1x08_no_silk,1,_,,,
+- all: 5,,m04no_silk_all_round,j2_j3_j4,user_led,1x04_no_silk_all_round,3,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 5,,m04no_silk_all_round,j2_j3_j4,user_led,1x04_no_silk_all_round,3,_,,,
+- all: 6,,jumper_pad_3_nc_by_trace,jp3,i2c_pullups,pad_jumper_3_3of3_nc_by_trace_yes_silk_full_box,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 6,,jumper_pad_3_nc_by_trace,jp3,i2c_pullups,pad_jumper_3_3of3_nc_by_trace_yes_silk_full_box,1,_,,,
+- all: 7,,jumper_pad_2_nc_by_traceno_silk,jp4_jp5_jp6,jumper_pad_2_nc_by_traceno_silk,pad_jumper_2_nc_by_trace_no_silk,3,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 7,,jumper_pad_2_nc_by_traceno_silk,jp4_jp5_jp6,jumper_pad_2_nc_by_traceno_silk,pad_jumper_2_nc_by_trace_no_silk,3,_,,,
+- all: 8,,jumper_pad_3_2of3_nc_by_trace_small,jp1_jp2,jumper_pad_3_2of3_nc_by_trace_small,pad_jumper_3_2of3_nc_by_trace_yes_silk_full_box,2,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 8,,jumper_pad_3_2of3_nc_by_trace_small,jp1_jp2,jumper_pad_3_2of3_nc_by_trace_small,pad_jumper_3_2of3_nc_by_trace_yes_silk_full_box,2,_,,,
+- all: 9,,led_tricolor_5050no_ic,led1_led2_led3,led_tricolor_5050no_ic,led_tricolor_5050,3,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 9,,led_tricolor_5050no_ic,led1_led2_led3,led_tricolor_5050no_ic,led_tricolor_5050,3,_,,,
+- all: 10,,oshw_logos,logo3,oshw_logos,oshw_logo_s,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 10,,oshw_logos,logo3,oshw_logos,oshw_logo_s,1,_,,,
+- all: 11,,sfe_logo_flame_1_inch,logo1,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 11,,sfe_logo_flame_1_inch,logo1,sfe_logo_flame_1_inch,sfe_logo_flame_1,1,_,,,
+- all: 12,,sfe_logo_name_1_inch,logo2,sfe_logo_name_1_inch,sfe_logo_name_1,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 12,,sfe_logo_name_1_inch,logo2,sfe_logo_name_1_inch,sfe_logo_name_1,1,_,,,
+- all: 13,,4_7kohm_1_10w_1%(0603),r4_r5,4_7k,0603_res,2,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 13,,4_7kohm_1_10w_1%(0603),r4_r5,4_7k,0603_res,2,_,,,
+- all: 14,,150kohm1_10w1%(0603),r1_r2_r3,150k,0603_res,3,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 14,,150kohm1_10w1%(0603),r1_r2_r3,150k,0603_res,3,_,,,
+- all: 15,,lp55231wqfn,u1,lp55231wqfn,wqfn_24,1,_,,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: 15,,lp55231wqfn,u1,lp55231wqfn,wqfn_24,1,_,,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: revision_,
+- all: date_,2023_08_06_12_56_05_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: date_,2023_08_06_12_56_05
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: statistics_
+- all: component_groups_,15_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: component_groups_,15
+- all: component_count_,27_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: component_count_,27_(0_smd_0_tht)
+- all: fitted_components_,27_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: fitted_components_,27_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: number_of_pcbs_,1
+- all: total_components_,27_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,prod_id,see_also: total_components_,27
 projects_flat: projects_flat/sparkfun_lp55231_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lp55231_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/LP55231_Breakout/version_current/working

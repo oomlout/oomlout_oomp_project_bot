@@ -13,6 +13,78 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_feather_esp32_s2_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_feather_esp32_s2_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_feather_esp32_s2_pcb
+parts_verbose:
+- all: 1,,cap_ceramic0603_no,c4_c5_c10_c11,1uf,0603_no,4,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 1,,cap_ceramic0603_no,c4_c5_c10_c11,1uf,0603_no,4,_,,
+- all: 2,,cap_ceramic0805_nooutline,c1_c2_c3_c6_c7_c8_c9,10uf,0805_no,7,_,,b_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 2,,cap_ceramic0805_nooutline,c1_c2_c3_c6_c7_c8_c9,10uf,0805_no,7,_,,b
+- all: 3,,led0603_nooutline,chg0,orange,chipled_0603_nooutline,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 3,,led0603_nooutline,chg0,orange,chipled_0603_nooutline,1,_,,
+- all: 4,,stemma_i2c_qtra,conn1,stemma_i2c_qtra,jst_sh4_ra,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 4,,stemma_i2c_qtra,conn1,stemma_i2c_qtra,jst_sh4_ra,1,_,,
+- all: 5,,diode_schottkysod_123,d4,mbr540,sod_123,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 5,,diode_schottkysod_123,d4,mbr540,sod_123,1,_,,
+- all: 6,,led0603_nooutline,d3,red,chipled_0603_nooutline,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 6,,led0603_nooutline,d3,red,chipled_0603_nooutline,1,_,,
+- all: 7,,lc709203f_mh,ic1,lc709203f_mh,wlcsp9,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 7,,lc709203f_mh,ic1,lc709203f_mh,wlcsp9,1,_,,
+- all: 8,,header_1x12,jp3,header_1x12,1x12_round,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 8,,header_1x12,jp3,header_1x12,1x12_round,1,_,,
+- all: 9,,header_1x16round,jp1,header_1x16round,1x16_round,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 9,,header_1x16round,jp1,header_1x16round,1x16_round,1,_,,
+- all: 10,,ws2812b_sk6805_1515,led1,ws2812b_sk6805_1515,sk6805_1515,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 10,,ws2812b_sk6805_1515,led1,ws2812b_sk6805_1515,sk6805_1515,1,_,,
+- all: 11,,mosfet_p,q1_q3,dmg3415u,sot23_r,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 11,,mosfet_p,q1_q3,dmg3415u,sot23_r,2,_,,
+- all: 12,,resistor_0603_noout,r1_r2_r3_r4_r5_r6_r8_r10,5_1k,0603_no,8,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 12,,resistor_0603_noout,r1_r2_r3_r4_r5_r6_r8_r10,5_1k,0603_no,8,_,,
+- all: 13,,resistor_0603_noout,r7_r9_r12,100k,0603_no,3,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 13,,resistor_0603_noout,r7_r9_r12,100k,0603_no,3,_,,
+- all: 14,,resistor_0603_noout,r17,1meg,0603_no,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 14,,resistor_0603_noout,r17,1meg,0603_no,1,_,,
+- all: 15,,switch_tact_smt4_6x2_8,sw1_sw2,kmr2,btn_kmr2_4_6x2_8,2,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 15,,switch_tact_smt4_6x2_8,sw1_sw2,kmr2,btn_kmr2_4_6x2_8,2,_,,
+- all: 16,,vreg_sot23_5,u2,ap2112_rt9080_3_3,sot23_5,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 16,,vreg_sot23_5,u2,ap2112_rt9080_3_3,sot23_5,1,_,,
+- all: 17,,bme280,u4,bme280,bme280,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 17,,bme280,u4,bme280,bme280,1,_,,
+- all: 18,,esp32_s2_module_mini,u1,esp32_s2_module_mini,qfn60_esp32_s2_mini_1_exp,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 18,,esp32_s2_module_mini,u1,esp32_s2_module_mini,qfn60_esp32_s2_mini_1_exp,1,_,,
+- all: 19,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 19,,mcp73831_2,u3,mcp73831t_2aci_ot,sot23_5,1,_,,
+- all: 20,,con_jst_ph_2pin_mt_batt,x1,con_jst_ph_2pin_mt_batt,jstph2_batt,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 20,,con_jst_ph_2pin_mt_batt,x1,con_jst_ph_2pin_mt_batt,jstph2_batt,1,_,,
+- all: 21,,usb_c,x3,usb_c,usb_c_cusb31_cfm2ax_01_x,1,_,,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: 21,,usb_c,x3,usb_c,usb_c_cusb31_cfm2ax_01_x,1,_,,
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: ''
+- all: project_info__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: project_info_
+- all: schematic_,working_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: schematic_,working
+- all: variant_,default_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: variant_,default
+- all: revision_,_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: revision_,
+- all: date_,2023_08_02_17_08_33_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: date_,2023_08_02_17_08_33
+- all: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: kicad_version_,7_0_6_7_0_6~ubuntu22_04_1
+- all: statistics__
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: statistics_
+- all: component_groups_,21_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: component_groups_,21
+- all: component_count_,41_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: component_count_,41_(0_smd_0_tht)
+- all: fitted_components_,41_(0_smd_0_tht)_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: fitted_components_,41_(0_smd_0_tht)
+- all: number_of_pcbs_,1_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: number_of_pcbs_,1
+- all: total_components_,41_
+  row,description,part,references,value,footprint,quantity_per_pcb,status,datasheet,rev: total_components_,41
 projects_flat: projects_flat/adafruit_adafruit_feather_esp32_s2_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_feather_esp32_s2_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Feather-ESP32-S2-PCB/version_current/working

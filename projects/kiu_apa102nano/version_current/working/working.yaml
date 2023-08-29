@@ -13,6 +13,42 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\kiu_apa102nano\version_current\working
 oomp_key: oomp_projects_flat_kiu_apa102nano
 oomp_key_simple: projects_flat_kiu_apa102nano
+parts_verbose:
+- all: 1_c2_c_0805_handsoldering_1_100nf___
+  designation: 100nf
+  designator: c2
+  footprint: c_0805_handsoldering
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_a1_arduino_nano_1_arduino_nano_v3_x___
+  designation: arduino_nano_v3_x
+  designator: a1
+  footprint: arduino_nano
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_j1_terminalblock_bornier_2_p5_08mm_1_screw_terminal_01x02___
+  designation: screw_terminal_01x02
+  designator: j1
+  footprint: terminalblock_bornier_2_p5_08mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_c1_cp_tantalum_case_d_eia_7343_31_hand_1_470uf___
+  designation: 470uf
+  designator: c1
+  footprint: cp_tantalum_case_d_eia_7343_31_hand
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_j2_terminalblock_bornier_4_p5_08mm_1_screw_terminal_01x04___
+  designation: screw_terminal_01x04
+  designator: j2
+  footprint: terminalblock_bornier_4_p5_08mm
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/kiu_apa102nano/version_current/working
 projects_folder: projects_folder/kiu/apa102nano/version_current/working
 repo:

@@ -13,6 +13,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\natsfr_si1102_breakout\version_current\working
 oomp_key: oomp_projects_flat_natsfr_si1102_breakout
 oomp_key_simple: projects_flat_natsfr_si1102_breakout
+parts_verbose:
+- all: 1_c101,c102,c103_sm0805_3_cap_0805___
+  designation: cap_0805
+  designator: c101
+  footprint: sm0805
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_c101,c102,c103_sm0805_3_cap_0805___
+  designation: cap_0805
+  designator: c102
+  footprint: sm0805
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 1_c101,c102,c103_sm0805_3_cap_0805___
+  designation: cap_0805
+  designator: c103
+  footprint: sm0805
+  id: '1'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_r101,r102,r103_sm0603_3_res_0603___
+  designation: res_0603
+  designator: r101
+  footprint: sm0603
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_r101,r102,r103_sm0603_3_res_0603___
+  designation: res_0603
+  designator: r102
+  footprint: sm0603
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 2_r101,r102,r103_sm0603_3_res_0603___
+  designation: res_0603
+  designator: r103
+  footprint: sm0603
+  id: '2'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 3_u101_odfn_8_3x3_1_si1102___
+  designation: si1102
+  designator: u101
+  footprint: odfn_8_3x3
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_p101_pin_array_4x2_1_conn_02x04___
+  designation: conn_02x04
+  designator: p101
+  footprint: pin_array_4x2
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_d101_sm1206_1_led_small___
+  designation: led_small
+  designator: d101
+  footprint: sm1206
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_ref_,ref__0_8mm_plated_hole_2_0_8mm_plated_hole___
+  designation: 0_8mm_plated_hole
+  designator: ref_
+  footprint: 0_8mm_plated_hole
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_ref_,ref__0_8mm_plated_hole_2_0_8mm_plated_hole___
+  designation: 0_8mm_plated_hole
+  designator: ref_
+  footprint: 0_8mm_plated_hole
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/natsfr_si1102_breakout/version_current/working
 projects_folder: projects_folder/natsfr/SI1102_Breakout/version_current/working
 repo:

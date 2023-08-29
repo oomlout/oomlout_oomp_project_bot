@@ -13,6 +13,84 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mitarothanken_plain60_c\version_current\working
 oomp_key: oomp_projects_flat_mitarothanken_plain60_c
 oomp_key_simple: projects_flat_mitarothanken_plain60_c
+parts_verbose:
+- all: 1_g__logo_1_logo___
+  designation: logo
+  designator: g_
+  footprint: logo
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_s4,s5_10x5_7x2_5mm_2_screw___
+  designation: screw
+  designator: s4
+  footprint: 10x5_7x2_5mm
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_s4,s5_10x5_7x2_5mm_2_screw___
+  designation: screw
+  designator: s5
+  footprint: 10x5_7x2_5mm
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_s1,s2,s3,s6_5_5_5x2_5mm_4_screw___
+  designation: screw
+  designator: s1
+  footprint: 5_5_5x2_5mm
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_s1,s2,s3,s6_5_5_5x2_5mm_4_screw___
+  designation: screw
+  designator: s2
+  footprint: 5_5_5x2_5mm
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_s1,s2,s3,s6_5_5_5x2_5mm_4_screw___
+  designation: screw
+  designator: s3
+  footprint: 5_5_5x2_5mm
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_s1,s2,s3,s6_5_5_5x2_5mm_4_screw___
+  designation: screw
+  designator: s6
+  footprint: 5_5_5x2_5mm
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 4_g__oshw_1_logo___
+  designation: logo
+  designator: g_
+  footprint: oshw
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_s7,s8,s9_5_5_5x2_5mm_3_tofu_screw___
+  designation: tofu_screw
+  designator: s7
+  footprint: 5_5_5x2_5mm
+  id: '5'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 5_s7,s8,s9_5_5_5x2_5mm_3_tofu_screw___
+  designation: tofu_screw
+  designator: s8
+  footprint: 5_5_5x2_5mm
+  id: '5'
+  quantity: '3'
+  supplier_and_ref: ''
+- all: 5_s7,s8,s9_5_5_5x2_5mm_3_tofu_screw___
+  designation: tofu_screw
+  designator: s9
+  footprint: 5_5_5x2_5mm
+  id: '5'
+  quantity: '3'
+  supplier_and_ref: ''
 projects_flat: projects_flat/mitarothanken_plain60_c/version_current/working
 projects_folder: projects_folder/mitaroThanken/plain60-c/version_current/working
 repo:

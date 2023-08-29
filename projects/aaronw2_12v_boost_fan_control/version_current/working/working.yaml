@@ -84,7 +84,7 @@ parts_oomp:
   designator: j2
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id001
+  part_verbose:
     all: 1_j2_pinheader_1x03_p2_54mm_horizontal_1_conn_01x03___
     designation: conn_01x03
     designator: j2
@@ -96,7 +96,7 @@ parts_oomp:
   designator: j1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id002
+  part_verbose:
     all: 2_j1_pinheader_1x04_p2_54mm_horizontal_1_conn_01x04___
     designation: conn_01x04
     designator: j1
@@ -108,7 +108,7 @@ parts_oomp:
   designator: u1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id003
+  part_verbose:
     all: 3_u1_qfn_16_1ep_3x3mm_p0_5mm_ep2_7x2_7mm_thermalvias_1_tps55340_q1___
     designation: tps55340_q1
     designator: u1
@@ -120,7 +120,7 @@ parts_oomp:
   designator: d1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id004
+  part_verbose:
     all: 4_d1_d_sod_123f_1_d_schottky___
     designation: d_schottky
     designator: d1
@@ -132,7 +132,7 @@ parts_oomp:
   designator: l1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id005
+  part_verbose:
     all: 5_l1_l_vishay_ihlp_1212_1_3_3uh___
     designation: 3_3uh
     designator: l1
@@ -144,7 +144,7 @@ parts_oomp:
   designator: q1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id006
+  part_verbose:
     all: 6_q1_sot_323_sc_70_1_bss214nw___
     designation: bss214nw
     designator: q1
@@ -156,7 +156,7 @@ parts_oomp:
   designator: r5
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id007
+  part_verbose:
     all: 7_r5_r_0603_1608metric_1_100k___
     designation: 100k
     designator: r5
@@ -168,7 +168,7 @@ parts_oomp:
   designator: c7
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id008
+  part_verbose:
     all: 8_c7_c_0603_1608metric_1_47nf___
     designation: 47nf
     designator: c7
@@ -180,7 +180,7 @@ parts_oomp:
   designator: c6
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id009
+  part_verbose:
     all: 9_c6_c_0603_1608metric_1_820pf___
     designation: 820pf
     designator: c6
@@ -192,7 +192,7 @@ parts_oomp:
   designator: c5
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id010
+  part_verbose:
     all: 10_c5_c_0603_1608metric_1_22nf___
     designation: 22nf
     designator: c5
@@ -204,7 +204,7 @@ parts_oomp:
   designator: c4
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id011
+  part_verbose:
     all: 11_c4_c_0603_1608metric_1_1uf___
     designation: 1uf
     designator: c4
@@ -216,7 +216,7 @@ parts_oomp:
   designator: c2
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id012
+  part_verbose:
     all: 12_c2_c_0603_1608metric_1_100nf___
     designation: 100nf
     designator: c2
@@ -228,7 +228,7 @@ parts_oomp:
   designator: c1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id013
+  part_verbose:
     all: 13_c1_c_0603_1608metric_1_6_8uf___
     designation: 6_8uf
     designator: c1
@@ -240,7 +240,7 @@ parts_oomp:
   designator: c3
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id014
+  part_verbose:
     all: 14_c3_c_1210_3225metric_1_22uf___
     designation: 22uf
     designator: c3
@@ -252,7 +252,7 @@ parts_oomp:
   designator: r4
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id015
+  part_verbose:
     all: 15_r4_r_0603_1608metric_1_10k___
     designation: 10k
     designator: r4
@@ -264,7 +264,7 @@ parts_oomp:
   designator: r3
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id016
+  part_verbose:
     all: 16_r3_r_0603_1608metric_1_1_69k___
     designation: 1_69k
     designator: r3
@@ -276,7 +276,7 @@ parts_oomp:
   designator: r2
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id017
+  part_verbose:
     all: 17_r2_r_0603_1608metric_1_18_2k___
     designation: 18_2k
     designator: r2
@@ -288,7 +288,7 @@ parts_oomp:
   designator: r1
   name: unmatched
   oomp_part_id: unmatched
-  part_verbose: &id018
+  part_verbose:
     all: 18_r1_r_0603_1608metric_1_86_6k___
     designation: 86_6k
     designator: r1
@@ -297,24 +297,132 @@ parts_oomp:
     quantity: '1'
     supplier_and_ref: ''
 parts_verbose:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- *id008
-- *id009
-- *id010
-- *id011
-- *id012
-- *id013
-- *id014
-- *id015
-- *id016
-- *id017
-- *id018
+- all: 1_j2_pinheader_1x03_p2_54mm_horizontal_1_conn_01x03___
+  designation: conn_01x03
+  designator: j2
+  footprint: pinheader_1x03_p2_54mm_horizontal
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j1_pinheader_1x04_p2_54mm_horizontal_1_conn_01x04___
+  designation: conn_01x04
+  designator: j1
+  footprint: pinheader_1x04_p2_54mm_horizontal
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_u1_qfn_16_1ep_3x3mm_p0_5mm_ep2_7x2_7mm_thermalvias_1_tps55340_q1___
+  designation: tps55340_q1
+  designator: u1
+  footprint: qfn_16_1ep_3x3mm_p0_5mm_ep2_7x2_7mm_thermalvias
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_d1_d_sod_123f_1_d_schottky___
+  designation: d_schottky
+  designator: d1
+  footprint: d_sod_123f
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_l1_l_vishay_ihlp_1212_1_3_3uh___
+  designation: 3_3uh
+  designator: l1
+  footprint: l_vishay_ihlp_1212
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_q1_sot_323_sc_70_1_bss214nw___
+  designation: bss214nw
+  designator: q1
+  footprint: sot_323_sc_70
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_r5_r_0603_1608metric_1_100k___
+  designation: 100k
+  designator: r5
+  footprint: r_0603_1608metric
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_c7_c_0603_1608metric_1_47nf___
+  designation: 47nf
+  designator: c7
+  footprint: c_0603_1608metric
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 9_c6_c_0603_1608metric_1_820pf___
+  designation: 820pf
+  designator: c6
+  footprint: c_0603_1608metric
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 10_c5_c_0603_1608metric_1_22nf___
+  designation: 22nf
+  designator: c5
+  footprint: c_0603_1608metric
+  id: '10'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 11_c4_c_0603_1608metric_1_1uf___
+  designation: 1uf
+  designator: c4
+  footprint: c_0603_1608metric
+  id: '11'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 12_c2_c_0603_1608metric_1_100nf___
+  designation: 100nf
+  designator: c2
+  footprint: c_0603_1608metric
+  id: '12'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 13_c1_c_0603_1608metric_1_6_8uf___
+  designation: 6_8uf
+  designator: c1
+  footprint: c_0603_1608metric
+  id: '13'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 14_c3_c_1210_3225metric_1_22uf___
+  designation: 22uf
+  designator: c3
+  footprint: c_1210_3225metric
+  id: '14'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 15_r4_r_0603_1608metric_1_10k___
+  designation: 10k
+  designator: r4
+  footprint: r_0603_1608metric
+  id: '15'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 16_r3_r_0603_1608metric_1_1_69k___
+  designation: 1_69k
+  designator: r3
+  footprint: r_0603_1608metric
+  id: '16'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 17_r2_r_0603_1608metric_1_18_2k___
+  designation: 18_2k
+  designator: r2
+  footprint: r_0603_1608metric
+  id: '17'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 18_r1_r_0603_1608metric_1_86_6k___
+  designation: 86_6k
+  designator: r1
+  footprint: r_0603_1608metric
+  id: '18'
+  quantity: '1'
+  supplier_and_ref: ''
 private: false
 projects_flat: projects_flat/aaronw2_12v_boost_fan_control/version_current/working
 projects_folder: projects_folder/aaronw2/12v-Boost-Fan-Control/version_current/working

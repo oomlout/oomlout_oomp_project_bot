@@ -13,6 +13,56 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\contextualelectronics_gettingtoblinky\version_current\working
 oomp_key: oomp_projects_flat_contextualelectronics_gettingtoblinky
 oomp_key_simple: projects_flat_contextualelectronics_gettingtoblinky
+parts_verbose:
+- all: 1_u1_so8n_1_7555___
+  designation: '7555'
+  designator: u1
+  footprint: so8n
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_c1_sm1206_1_1u___
+  designation: 1u
+  designator: c1
+  footprint: sm1206
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_r1_sm1206_1_470k___
+  designation: 470k
+  designator: r1
+  footprint: sm1206
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_r2_sm1206_1_1k___
+  designation: 1k
+  designator: r2
+  footprint: sm1206
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_vr1_r1_1_ldr___
+  designation: ldr
+  designator: vr1
+  footprint: r1
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_d1_led_1206_1_led___
+  designation: led
+  designator: d1
+  footprint: led_1206
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_bt1_cr2032_1_cr2032___
+  designation: cr2032
+  designator: bt1
+  footprint: cr2032
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/contextualelectronics_gettingtoblinky/version_current/working
 projects_folder: projects_folder/ContextualElectronics/GettingToBlinky/version_current/working
 repo:

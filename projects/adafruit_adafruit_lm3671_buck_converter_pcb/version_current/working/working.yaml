@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_lm3671_buck_converter_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_lm3671_buck_converter_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_lm3671_buck_converter_pcb
+parts_verbose:
+- all: 1_c2_0805_no_1_10uf___
+  designation: 10uf
+  designator: c2
+  footprint: 0805_no
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u1_sot23_5_1_lm3671mf_3_3_nopb___
+  designation: lm3671mf_3_3_nopb
+  designator: u1
+  footprint: sot23_5
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_jp1_1x04_round_1____
+  designation: ''
+  designator: jp1
+  footprint: 1x04_round
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_u$9_mountinghole_2_5_plated_1_mountinghole2_5___
+  designation: mountinghole2_5
+  designator: u$9
+  footprint: mountinghole_2_5_plated
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_u$11_adafruit_2_5mm_1____
+  designation: ''
+  designator: u$11
+  footprint: adafruit_2_5mm
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_l1_inductor_taiyoyuden_nrh2412t_1_2_2uh_nrh2412t2r2mngh___
+  designation: 2_2uh_nrh2412t2r2mngh
+  designator: l1
+  footprint: inductor_taiyoyuden_nrh2412t
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_c1_0805_no_1_22uf___
+  designation: 22uf
+  designator: c1
+  footprint: 0805_no
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_fid1_fiducial_1mm_1_fiducial____
+  designation: fiducial_
+  designator: fid1
+  footprint: fiducial_1mm
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 9_r1_0805_no_1_100k___
+  designation: 100k
+  designator: r1
+  footprint: 0805_no
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 10_u$10_pcbfeat_rev_040_1____
+  designation: ''
+  designator: u$10
+  footprint: pcbfeat_rev_040
+  id: '10'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_lm3671_buck_converter_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_lm3671_buck_converter_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-LM3671-Buck-Converter-PCB/version_current/working

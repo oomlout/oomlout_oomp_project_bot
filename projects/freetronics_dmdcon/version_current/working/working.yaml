@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_dmdcon\version_current\working
 oomp_key: oomp_projects_flat_freetronics_dmdcon
 oomp_key_simple: projects_flat_freetronics_dmdcon
+parts_verbose:
+- all: 1_dmd0_2x8_smallerpads_1_m08x2___
+  designation: m08x2
+  designator: dmd0
+  footprint: 2x8_smallerpads
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_d7,g0,d0,c0,d6_1x01_5_m01pth___
+  designation: m01pth
+  designator: d7
+  footprint: 1x01
+  id: '2'
+  quantity: '5'
+  supplier_and_ref: ''
+- all: 2_d7,g0,d0,c0,d6_1x01_5_m01pth___
+  designation: m01pth
+  designator: g0
+  footprint: 1x01
+  id: '2'
+  quantity: '5'
+  supplier_and_ref: ''
+- all: 2_d7,g0,d0,c0,d6_1x01_5_m01pth___
+  designation: m01pth
+  designator: d0
+  footprint: 1x01
+  id: '2'
+  quantity: '5'
+  supplier_and_ref: ''
+- all: 2_d7,g0,d0,c0,d6_1x01_5_m01pth___
+  designation: m01pth
+  designator: c0
+  footprint: 1x01
+  id: '2'
+  quantity: '5'
+  supplier_and_ref: ''
+- all: 2_d7,g0,d0,c0,d6_1x01_5_m01pth___
+  designation: m01pth
+  designator: d6
+  footprint: 1x01
+  id: '2'
+  quantity: '5'
+  supplier_and_ref: ''
+- all: 3_r1_0805_1_10k___
+  designation: 10k
+  designator: r1
+  footprint: 0805
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_h1_1x08_1_digital_8_13___
+  designation: digital_8_13
+  designator: h1
+  footprint: 1x08
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/freetronics_dmdcon/version_current/working
 projects_folder: projects_folder/freetronics/DMDCon/version_current/working
 repo:

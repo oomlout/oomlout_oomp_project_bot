@@ -15,6 +15,42 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lmd1820x_breakout\version_current\working
 oomp_key: oomp_projects_flat_sparkfun_lmd1820x_breakout
 oomp_key_simple: projects_flat_sparkfun_lmd1820x_breakout
+parts_verbose:
+- all: 1_jp1_1x11_1_m11pth___
+  designation: m11pth
+  designator: jp1
+  footprint: 1x11
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_u$1_to_220_11lead_1_lmd1820x___
+  designation: lmd1820x
+  designator: u$1
+  footprint: to_220_11lead
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_jp2,jp3_stand_off_2_stand_off___
+  designation: stand_off
+  designator: jp2
+  footprint: stand_off
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_jp2,jp3_stand_off_2_stand_off___
+  designation: stand_off
+  designator: jp3
+  footprint: stand_off
+  id: '3'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 4_jp5_sfe_new_weblogo_1_logo_sfenew___
+  designation: logo_sfenew
+  designator: jp5
+  footprint: sfe_new_weblogo
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/sparkfun_lmd1820x_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lmd1820x_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/LMD1820x_Breakout/version_current/working

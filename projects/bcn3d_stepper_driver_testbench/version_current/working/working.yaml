@@ -13,6 +13,63 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\bcn3d_stepper_driver_testbench\version_current\working
 oomp_key: oomp_projects_flat_bcn3d_stepper_driver_testbench
 oomp_key_simple: projects_flat_bcn3d_stepper_driver_testbench
+parts_verbose:
+- all: 1_e$6_fcim_logo_1____
+  designation: ''
+  designator: e$6
+  footprint: fcim_logo
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0__2____
+  designation: ''
+  designator: '@hole1'
+  footprint: ''
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 2_@hole1,@hole0__2____
+  designation: ''
+  designator: '@hole0'
+  footprint: ''
+  id: '2'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 3_e$4,e$1,e$2,e$3_stand_off_4____
+  designation: ''
+  designator: e$4
+  footprint: stand_off
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_e$4,e$1,e$2,e$3_stand_off_4____
+  designation: ''
+  designator: e$1
+  footprint: stand_off
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_e$4,e$1,e$2,e$3_stand_off_4____
+  designation: ''
+  designator: e$2
+  footprint: stand_off
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 3_e$4,e$1,e$2,e$3_stand_off_4____
+  designation: ''
+  designator: e$3
+  footprint: stand_off
+  id: '3'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 4_e$5_bcn3d_logo_1____
+  designation: ''
+  designator: e$5
+  footprint: bcn3d_logo
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/bcn3d_stepper_driver_testbench/version_current/working
 projects_folder: projects_folder/BCN3D/Stepper-Driver-testbench/version_current/working
 repo:

@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\nightmechanic_kenwood_a701a_control_pcb\version_current\working
 oomp_key: oomp_projects_flat_nightmechanic_kenwood_a701a_control_pcb
 oomp_key_simple: projects_flat_nightmechanic_kenwood_a701a_control_pcb
+parts_verbose:
+- all: 1_r2_xicon_cr25_1_470r_25w___
+  designation: 470r_25w
+  designator: r2
+  footprint: xicon_cr25
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_r3_ddr_15w_1_450r_15w_ddr___
+  designation: 450r_15w_ddr
+  designator: r3
+  footprint: ddr_15w
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_l1_epcos_b82111ec22_1_22uh_3a_choke___
+  designation: 22uh_3a_choke
+  designator: l1
+  footprint: epcos_b82111ec22
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_c1_kemet_pme271m615k_1_0_15uf_275v_x2_film___
+  designation: 0_15uf_275v_x2_film
+  designator: c1
+  footprint: kemet_pme271m615k
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_p1,p2_phoenix_terminal_pts1_5_2_5_0_h_2_conn_2___
+  designation: conn_2
+  designator: p1
+  footprint: phoenix_terminal_pts1_5_2_5_0_h
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 5_p1,p2_phoenix_terminal_pts1_5_2_5_0_h_2_conn_2___
+  designation: conn_2
+  designator: p2
+  footprint: phoenix_terminal_pts1_5_2_5_0_h
+  id: '5'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_r1_vishay_pr02_1_10k_2w___
+  designation: 10k_2w
+  designator: r1
+  footprint: vishay_pr02
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_r4_vishay_pr02_1_50r_2w___
+  designation: 50r_2w
+  designator: r4
+  footprint: vishay_pr02
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_val_gears_f_silks_8mm_1_ref___
+  designation: ref
+  designator: val
+  footprint: gears_f_silks_8mm
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 9_val_oshw_f_silks_8mm_1_ref___
+  designation: ref
+  designator: val
+  footprint: oshw_f_silks_8mm
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/nightmechanic_kenwood_a701a_control_pcb/version_current/working
 projects_folder: projects_folder/nightmechanic/Kenwood_A701A_control_pcb/version_current/working
 repo:

@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\johslarsen_usb_ht73xx\version_current\working
 oomp_key: oomp_projects_flat_johslarsen_usb_ht73xx
 oomp_key_simple: projects_flat_johslarsen_usb_ht73xx
+parts_verbose:
+- all: 1_j1_usb_micro_b_female_wellco_ausb_1011_05s2_1_usb_b_micro___
+  designation: usb_b_micro
+  designator: j1
+  footprint: usb_micro_b_female_wellco_ausb_1011_05s2
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_j3_edge_2x03_1_conn_02x03_odd_even___
+  designation: conn_02x03_odd_even
+  designator: j3
+  footprint: edge_2x03
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_j2_pin_header_straight_2x03_pitch2_54mm_1_conn_02x03_odd_even___
+  designation: conn_02x03_odd_even
+  designator: j2
+  footprint: pin_header_straight_2x03_pitch2_54mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_r4,r2,r1,r3_r_0603_4_r___
+  designation: r
+  designator: r4
+  footprint: r_0603
+  id: '4'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 4_r4,r2,r1,r3_r_0603_4_r___
+  designation: r
+  designator: r2
+  footprint: r_0603
+  id: '4'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 4_r4,r2,r1,r3_r_0603_4_r___
+  designation: r
+  designator: r1
+  footprint: r_0603
+  id: '4'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 4_r4,r2,r1,r3_r_0603_4_r___
+  designation: r
+  designator: r3
+  footprint: r_0603
+  id: '4'
+  quantity: '4'
+  supplier_and_ref: ''
+- all: 5_u1_sot_89_3_1_ht7333___
+  designation: ht7333
+  designator: u1
+  footprint: sot_89_3
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_c2,c1_c_0805_handsoldering_2_10uf___
+  designation: 10uf
+  designator: c2
+  footprint: c_0805_handsoldering
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 6_c2,c1_c_0805_handsoldering_2_10uf___
+  designation: 10uf
+  designator: c1
+  footprint: c_0805_handsoldering
+  id: '6'
+  quantity: '2'
+  supplier_and_ref: ''
 projects_flat: projects_flat/johslarsen_usb_ht73xx/version_current/working
 projects_folder: projects_folder/johslarsen/usb_ht73xx/version_current/working
 repo:

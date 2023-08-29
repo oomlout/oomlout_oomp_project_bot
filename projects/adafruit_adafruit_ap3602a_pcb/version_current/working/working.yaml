@@ -13,6 +13,77 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_ap3602a_pcb\version_current\working
 oomp_key: oomp_projects_flat_adafruit_adafruit_ap3602a_pcb
 oomp_key_simple: projects_flat_adafruit_adafruit_ap3602a_pcb
+parts_verbose:
+- all: 1_u$11_adafruit_2_5mm_1____
+  designation: ''
+  designator: u$11
+  footprint: adafruit_2_5mm
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_c3_0805_no_1_1uf___
+  designation: 1uf
+  designator: c3
+  footprint: 0805_no
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_fid1_fiducial_1mm_1_fiducial____
+  designation: fiducial_
+  designator: fid1
+  footprint: fiducial_1mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_ic1_sot23_6_1_ap3602___
+  designation: ap3602
+  designator: ic1
+  footprint: sot23_6
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_jp1_1x04_round_1____
+  designation: ''
+  designator: jp1
+  footprint: 1x04_round
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_u$9_mountinghole_2_5_plated_1_mountinghole2_5___
+  designation: mountinghole2_5
+  designator: u$9
+  footprint: mountinghole_2_5_plated
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_r1_0805_no_1_100k___
+  designation: 100k
+  designator: r1
+  footprint: 0805_no
+  id: '7'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 8_c2,c1_0805_no_2_10uf___
+  designation: 10uf
+  designator: c2
+  footprint: 0805_no
+  id: '8'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 8_c2,c1_0805_no_2_10uf___
+  designation: 10uf
+  designator: c1
+  footprint: 0805_no
+  id: '8'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 9_u$10_pcbfeat_rev_040_1____
+  designation: ''
+  designator: u$10
+  footprint: pcbfeat_rev_040
+  id: '9'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/adafruit_adafruit_ap3602a_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_ap3602a_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-AP3602A-PCB/version_current/working

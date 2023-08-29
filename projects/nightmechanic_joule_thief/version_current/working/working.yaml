@@ -13,6 +13,70 @@ links:
   oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\nightmechanic_joule_thief\version_current\working
 oomp_key: oomp_projects_flat_nightmechanic_joule_thief
 oomp_key_simple: projects_flat_nightmechanic_joule_thief
+parts_verbose:
+- all: 1_d1_led_5mm_1_led___
+  designation: led
+  designator: d1
+  footprint: led_5mm
+  id: '1'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 2_d2_led_plcc_2_heatpad_1_led___
+  designation: led
+  designator: d2
+  footprint: led_plcc_2_heatpad
+  id: '2'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 3_p1_conn_2_5mm_1_conn_01x02___
+  designation: conn_01x02
+  designator: p1
+  footprint: conn_2_5mm
+  id: '3'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 4_q1_sot_23_1_mmbt3904___
+  designation: mmbt3904
+  designator: q1
+  footprint: sot_23
+  id: '4'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 5_r1_r_0805_handsoldering_1_r___
+  designation: r
+  designator: r1
+  footprint: r_0805_handsoldering
+  id: '5'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 6_t1_transformer_22x10_1_transformer___
+  designation: transformer
+  designator: t1
+  footprint: transformer_22x10
+  id: '6'
+  quantity: '1'
+  supplier_and_ref: ''
+- all: 7_tp1,tp2_test_point_glass_1_32_2_test_point_loop_1_32mm___
+  designation: test_point_loop_1_32mm
+  designator: tp1
+  footprint: test_point_glass_1_32
+  id: '7'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 7_tp1,tp2_test_point_glass_1_32_2_test_point_loop_1_32mm___
+  designation: test_point_loop_1_32mm
+  designator: tp2
+  footprint: test_point_glass_1_32
+  id: '7'
+  quantity: '2'
+  supplier_and_ref: ''
+- all: 8_val_gears_f_silks_10mm_flipped_1_ref___
+  designation: ref
+  designator: val
+  footprint: gears_f_silks_10mm_flipped
+  id: '8'
+  quantity: '1'
+  supplier_and_ref: ''
 projects_flat: projects_flat/nightmechanic_joule_thief/version_current/working
 projects_folder: projects_folder/nightmechanic/Joule_Thief/version_current/working
 repo:
