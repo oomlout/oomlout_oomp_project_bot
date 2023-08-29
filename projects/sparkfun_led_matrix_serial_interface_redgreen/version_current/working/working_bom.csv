@@ -1,30 +1,17 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP0402,C3 C4 C5 C6,.1uf,C0402,4, ,
-2,,CAP_POL1206,C8 C9,10uF,EIA3216,2, ,
-3,,CAP_POL3528,C7,47uF,EIA3528,1, ,
-4,,74595D,IC1 IC2,74595D,SO16,2, ,
-5,,AVR-MEGA8-AI,IC3,AVR-MEGA8-AI,TQFP32-08,1, ,
-6,,M06SIP,JP4,M06SIP,1X06,1, ,
-7,,M06SMD,JP3,M06SMD,1X06-SMD,1, ,
-8,,M12PTH,JP1 JP2,M12PTH,1X12,2, ,
-9,,RESISTOR0402,R1,10K,C0402,1, ,
-10,,AVR_SPI_PRG_6PTH,U2,AVR_SPI_PRG_6PTH,2X3,1, ,
-11,,RESONATORSMD,U3,RESONATORSMD,RESONATOR-SMD,1, ,
-12,,ULN2803SOICW,ULN1,uln2803,SO18L,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-06_12-56-04
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,12
-Component Count:,18 (0 SMD/ 0 THT)
-Fitted Components:,18 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,18
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"2X3";1;"AVR_SPI_PRG_6PTH";;;
+2;"U3";"RESONATOR-SMD";1;"16MHz";;;
+3;"JP2,JP1";"1X12";2;"M12PTH";;;
+4;"R1";"C0402";1;"10K";;;
+5;"ULN1";"SO18L";1;"uln2803";;;
+6;"IC3";"TQFP32-08";1;"AVR-MEGA8-AI";;;
+7;"C6,C4";"C0402";2;"0.1uf";;;
+8;"JP3";"1X06-SMD";1;"";;;
+9;"C3";"C0402";1;".1uf";;;
+10;"C5";"C0402";1;"0.1uF";;;
+11;"IC2,IC1";"SO16";2;"74LS595D";;;
+12;"C7";"EIA3528";1;"47uF";;;
+13;"C9,C8";"EIA3216";2;"10uF";;;
+14;"U$8";"SFE-NEW-WEBLOGO";1;"";;;
+15;"JP4";"1X06";1;"";;;
+16;"U$3,U$1";"FIDUCIAL-1X2";2;"FIDUCIAL1X2";;;

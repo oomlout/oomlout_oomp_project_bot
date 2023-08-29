@@ -1,28 +1,12 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP0402-CAP,C6,10nF,0402-CAP,1, ,
-2,,CAP0402-CAP,C3 C7 C8,0.1uF,0402-CAP,3, ,
-3,,CAP0402-CAP,C5,470nF,0402-CAP,1, ,
-4,,CAP_POL1206,C4,10uF,EIA3216,1, ,
-5,,M05PTH,JP1 JP2,M05PTH,1X05,2, ,
-6,,RESISTOR0402-RES,R9 R10,0 ohm,0402-RES,2, ,
-7,,RESISTOR0402-RES,R1 R2 R3 R4,10K,0402-RES,4, ,
-8,,RESISTOR0402-RES,R6 R7,33K,0402-RES,2, ,
-9,,ST-GYRO-PYSMD,U1,ST-GYRO-PYSMD,ST-GYRO,1, ,
-10,,LOGO-SFESK,U$1,LOGO-SFESK,SFE-LOGO-FLAME,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-06_12-56-03
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,11
-Component Count:,20 (0 SMD/ 0 THT)
-Fitted Components:,18 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,18
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R3,R4,R2,R1";"0402-RES";4;"10K";;;
+2;"R7,R6";"0402-RES";2;"33K";;;
+3;"C6";"0402-CAP";1;"10nF";;;
+4;"R10,R9";"0402-RES";2;"0 ohm";;;
+5;"U1";"ST-GYRO";1;"LPY5XXX";;;
+6;"C3,C7,C8";"0402-CAP";3;"0.1uF";;;
+7;"C5";"0402-CAP";1;"470nF";;;
+8;"C4";"EIA3216";1;"10uF";;;
+9;"JP1,JP2";"1X05";2;"";;;
+10;"R8,R5";"0402-RES";2;"DNP";;;
+11;"U$1";"SFE-LOGO-FLAME";1;"LOGO-SFESK";;;
