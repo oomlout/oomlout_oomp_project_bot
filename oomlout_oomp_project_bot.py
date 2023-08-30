@@ -49,7 +49,7 @@ def load_projects_from_yaml(**kwargs):
     #start so we can print the elapsed time at the end
     import time
     start = time.time()
-    yaml_file = kwargs.get("yaml_file", "projects.yaml")
+    yaml_file = kwargs.get("yaml_file", "tmp/projects.yaml")
     print(f"loading projects from yaml {yaml_file}")
     #load from yaml
     import yaml
@@ -117,7 +117,7 @@ def save_projects_to_yaml(**kwargs):
                     pass
     print("saving projects to yaml")
     import yaml
-    with open("projects.yaml", "w") as outfile:
+    with open("tmp/projects.yaml", "w") as outfile:
         yaml.dump(projects, outfile, indent=4)
     print(f"saved {count} projects to yaml")
 
