@@ -246,7 +246,7 @@ def make_readme(**kwargs):
                 match_split = match2.split(";")
                 new_value = []
                 new_value.append(match_split[0])
-                new_value.append(f"https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/{match_split[0]}/version_current/working")
+                new_value.append(f"[link](https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/{match_split[0]}/version_current/working)")
                 new_value.append(match_split[1])
                 #new_value = {}
                 #new_value["project_id"] = match_split[0]
