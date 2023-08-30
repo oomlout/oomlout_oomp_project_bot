@@ -4,9 +4,9 @@ import oomlout_oomp_project_bot
 oomp_parts = {}
 matched = 0
 matches = ["project_id;all;"]
-#searches = ["mosfet","atmega328","bme280","c_0402", "c_0603","c_0805", "c_1203", "c0603", "c0402", "c0805", "c1206", "ch340c","ch340g","ch340e","ch340x","ch340t","ch340n","ch340k","ch340b"]
-searches = ["mosfet"]
-searches = ["bme280"]
+searches = ["mosfet","atmega328","bme280","c_0402", "c_0603","c_0805", "c_1203", "c0603", "c0402", "c0805", "c1206", "ch340c","ch340g","ch340e","ch340x","ch340t","ch340n","ch340k","ch340b","bme280"]
+#searches = ["mosfet"]
+#searches = ["bme280"]
 
 def main(**kwargs):
     global oomp_parts    
@@ -227,14 +227,92 @@ def all_match(**kwargs):
     return True
 
 
+def make_readme(**kwargs):
+    master_match_list = kwargs.get("master_match_list",[])
+    
+    dict_data = []
+
+    for match in master_match_list:
+        element = {}
+        search_terms = match["search_terms"]
+        matched = match["matched"]
+        matches = match["matches"] 
+        match_table = ""
+        ### go through and get a table for each set
+        #match_list = {}
+        match_list = []
+        for match2 in matches:
+            if match2 != 'project_id;all;':
+                match_split = match2.split(";")
+                new_value = []
+                new_value.append(match_split[0])
+                new_value.append(f"https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/{match_split[0]}/version_current/working")
+                new_value.append(match_split[1])
+                #new_value = {}
+                #new_value["project_id"] = match_split[0]
+                #new_value["link"] = f"https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/{match_split[0]}/version_current/working"
+                #new_value["all"] = match_split[1]
+                #match_list[match_split[0]] = new_value
+                match_list.append(new_value)
+        import oom_markdown
+        ###### remove duplicates of [0] index value
+        match_list2 = []
+        for match in match_list:
+            #make sure match[0] not in any element of any element of match_list2
+            found = False
+            for match2 in match_list2:
+                if match[0] == match2[0]:
+                    found = True
+            if not found:
+                match_list2.append(match)
+            
+        match_list = match_list2
+        match_table = oom_markdown.get_table(data=match_list)
+            
+
+
+
+        element["search_terms"] = search_terms
+        element["matched"] = matched
+        element["matched_projects"] = len(match_list)
+        
+        element["matches"] = matches
+        element["match_table"] = match_table    
+
+        dict_data.append(element)
+    
+    
+    file_template = "templates/matches.md.j2"
+    file_output = "matches.md"
+    dict_data = dict_data
+    import oom_markdown
+    oom_markdown.get_jinja2_template(template_file=file_template, output_file=file_output, dict_data=dict_data)
+
+
+
+
+
+
 if __name__ == "__main__":
     #oomlout_oomp_project_bot.save_projects_to_yaml()
     #projects = oomlout_oomp_project_bot.load_projects_from_yaml()
     projects = oomlout_oomp_project_bot.load_projects_from_pickle()
+    master_match_list = []
     for search_terms in searches:
         print(f"searching for {search_terms}")
         matches = ["project_id;all;"]
         matched = 0
         
         main(search_terms=search_terms, projects=projects)
+        import copy
+        match_summary = {}
+        match_summary["search_terms"] = search_terms        
+        match_summary["matched"] = matched
+        match_summary["matches"] = copy.deepcopy(matches)
+        master_match_list.append(match_summary)
+    
+    make_readme(master_match_list=master_match_list)
+
+
+
     

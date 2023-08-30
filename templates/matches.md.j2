@@ -1,0 +1,9 @@
+# matches_summary
+
+{% for match in p %}
+## {{ match.search_terms}}  
+found {{ match.matched }} occurences in {{ match.matched_projects }} projects
+{{ match.match_table }}
+
+
+{% endfor %}
