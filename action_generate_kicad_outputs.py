@@ -7,7 +7,7 @@ def go_through_directories():
     for root, dirs, files in os.walk("projects"):
         #go through all files
         for file in files:
-            #check for a brd file
+            #check for a br6d file
             
             filename = os.path.join(root, file)
             filter = ["sparkfun","adafruit","omerk"]
@@ -16,11 +16,15 @@ def go_through_directories():
             #if any of filter is in filename
             if any(x in filename for x in filter):
                 if file.endswith(".kicad_pcb"):
-                    count += oom_kicad.generate_outputs(filename=filename, computer="surface")
+
+                    counter = oom_kicad.generate_outputs(filename=filename, computer="surface")
+                    if counter == None:
+                        counter = 0
+                    count += counter
                     pass
                 #commit to git every 1
-                    if count % 1 == 0:
-                        oom_kicad.push_to_git(count = count)
+                    if count % 100 == 0:
+                        oom_kicad.push_to_git(copppunt = count)
                         pass    
     
 

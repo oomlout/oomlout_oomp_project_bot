@@ -1,36 +1,25 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C1,220pF,C0402E,1, ,
-2,,C,C4,100nF,C0603F,1, ,
-3,,C,C3,1uF,C0603F,1, ,
-4,,C,C5 C6,1µF,C0603E,2, ,
-5,,C,C2,10uF,C0805E,1, ,
-6,,CP1,C7,100µF,3528-21,1, ,
-7,,LED,D1,BLUE,D0603F,1, ,
-8,,LED,D2,GREEN,D0603F,1, ,
-9,,INDUCTOR,L1,FB-2,R0603E,1, ,
-10,Connector 01x02,CONN_01X02,P3,BOOT,SolderJumper,1, ,
-11,,CON-SENSOR2,P1,CON-SENSOR2,CON-SENSOR2,1, ,
-12,Connector 01x01,CONN_01X01,P2,DEBUG,DEBUG_PAD,1, ,
-13,,JST_GHR_6,P4,JST_GHR_6,JST_GHR_6,1, ,
-14,,R,R1,1k,R0603E,1, ,
-15,4 resistors Pack,R_PACK4,RP2 RP3,1k,4X0603,2, ,
-16,4 resistors Pack,R_PACK4,RP1,82,4X0402,1, ,
-17,,DRILL,U2 U3 U4 U5,DRILL,DRILL_NP,4, ,
-18,,XMC1XXX24,U1,XMC1100,QFN24-4x4mm-0.5mm,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,2.0
-Date:,2023-01-27
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,18
-Component Count:,23 (13 SMD/ 10 THT)
-Fitted Components:,23 (13 SMD/ 10 THT)
-Number of PCBs:,1
-Total Components:,23
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C0402E";1;"220pF";;;
+2;"C4";"C0603F";1;"100nF";;;
+3;"C5,C6";"C0603E";2;"1µF";;;
+4;"C7";"3528-21";1;"100µF";;;
+5;"D1";"D0603F";1;"BLUE";;;
+6;"P1";"CON-SENSOR2";1;"CON-SENSOR2";;;
+7;"P2";"DEBUG_PAD";1;"DEBUG";;;
+8;"P3";"SolderJumper";1;"BOOT";;;
+9;"P4";"JST_GHR_6";1;"JST_GHR_6";;;
+10;"RP2,RP3";"4X0603";2;"1k";;;
+11;"U1";"QFN24-4x4mm-0.5mm";1;"XMC1100";;;
+12;"D2";"D0603F";1;"GREEN";;;
+13;"R1";"R0603E";1;"1k";;;
+14;"U2,U3,U4,U5";"DRILL_NP";4;"DRILL";;;
+15;"VAL";"WEEE_7mm";1;"WEEE_7mm";;;
+16;"G***";"Logo_CoMCU";1;"LOGO";;;
+17;"G***";"Logo_31x31";1;"Logo_31x31";;;
+18;"VAL";"CE_5mm";1;"CE_5mm";;;
+19;"C2";"C0805E";1;"10uF";;;
+20;"C3";"C0603F";1;"1uF";;;
+21;"L1";"R0603E";1;"FB-2";;;
+22;"RP1";"4X0402";1;"82";;;
+23;"Fiducial_Mark,Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";3;"VAL**";;;
+24;"REF**";"Lidar_Light";1;"Lidar_Light";;;

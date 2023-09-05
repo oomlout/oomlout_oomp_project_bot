@@ -1,36 +1,24 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C2,220pF,C0402F,1, ,
-2,,C,C4,100nF,C0603F,1, ,
-3,,C,C1,1uF,C0603F,1, ,
-4,,C,C3,10uF,C0805,1, ,
-5,,LED,D1 D2 D5,blue,D0603F,3, ,
-6,Connector 01x02,CONN_01X02,P4,Boot,SolderJumper,1, ,
-7,,CON-SENSOR2,P1,CON-SENSOR,CON-SENSOR2,1, ,
-8,Connector 01x01,CONN_01X01,P3,Debug,DEBUG_PAD,1, ,
-9,,CONN_8,P2,Digital Output,OQ_8P_230V,1, ,
-10,,R,R5,1k,R0603F,1, ,
-11,,Varistor,R1 R4,MOV-10D391KTR,VAR_10mm,2, ,
-12,4 resistors Pack,R_PACK4,RP4,10k,0603X4,1, ,
-13,4 resistors Pack,R_PACK4,RP1,150,0603X4,1, ,
-14,4 resistors Pack,R_PACK4,RP3,1k,0603X4,1, ,
-15,4 resistors Pack,R_PACK4,RP2,82,4X0402,1, ,
-16,,AQ-H,U2 U5,AQH3213AX,AQ-H,2, ,
-17,,DRILL,U7 U8 U9 Ue1,DRILL,DRILL_NP,4, ,
-18,,XMC1XXX24,U1,XMC1100,QFN24-4x4mm-0.5mm,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,1.2
-Date:,2023-01-25
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,18
-Component Count:,25 (12 SMD/ 9 THT)
-Fitted Components:,25 (12 SMD/ 9 THT)
-Number of PCBs:,1
-Total Components:,25
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"P3";"DEBUG_PAD";1;"Debug";;;
+2;"P4";"SolderJumper";1;"Boot";;;
+3;"RP2";"4X0402";1;"82";;;
+4;"C1";"C0603F";1;"1uF";;;
+5;"C2";"C0402F";1;"220pF";;;
+6;"C3";"C0805";1;"10uF";;;
+7;"C4";"C0603F";1;"100nF";;;
+8;"D1,D5,D2";"D0603F";3;"blue";;;
+9;"P1";"CON-SENSOR2";1;"CON-SENSOR";;;
+10;"P2";"OQ_8P_230V";1;"Digital Output";;;
+11;"R5";"R0603F";1;"1k";;;
+12;"RP1";"0603X4";1;"150";;;
+13;"RP3";"0603X4";1;"1k";;;
+14;"Ue1,U7,U8,U9";"DRILL_NP";4;"DRILL";;;
+15;"R4,R1";"VAR_10mm";2;"MOV-10D391KTR";;;
+16;"RP4";"0603X4";1;"10k";;;
+17;"U5,U2";"AQ-H";2;"AQH3213AX";;;
+18;"U1";"QFN24-4x4mm-0.5mm";1;"XMC1100";;;
+19;"G***";"Logo_31x31";1;"LOGO";;;
+20;"Fiducial_Mark,Fiducial_Mark,Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";4;"VAL**";;;
+21;"VAL";"WEEE_7mm";1;"WEEE_7mm";;;
+22;"VAL";"CE_5mm";1;"CE_5mm";;;
+23;"G***";"Logo_CoMCU";1;"LOGO";;;

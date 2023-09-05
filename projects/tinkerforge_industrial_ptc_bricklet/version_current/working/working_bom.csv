@@ -1,38 +1,26 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C1,220pF,C0402F,1, ,
-2,,C,C7,10nF,C0603F,1, ,
-3,,C,C3 C4 C5 C6 C8,100nF,C0603F,5, ,
-4,,C,C2,10uF,C0805,1, ,
-5,,LED,D1,blue,D0603F,1, ,
-6,,INDUCT,FB1 FB2,FB,R0603F,2, ,
-7,Connector 01x02,CONN_01X02,P3,Boot,SolderJumper,1, ,
-8,,CON-SENSOR2,P1,CON-SENSOR,CON-SENSOR2,1, ,
-9,Connector 01x08,CONN_01X08,P4,CONN_01X08,OQ_8P,1, ,
-10,Connector 01x01,CONN_01X01,P2,Debug,DEBUG_PAD,1, ,
-11,,R,R2,390 0.1%,R0603F,1, ,
-12,,R,R1,1k,R0603F,1, ,
-13,,R,R3,3k9 0.1%,R0603F,1, ,
-14,,R,R4,10M,R0603F,1, ,
-15,4 resistors Pack,R_PACK4,RP2,100,0603X4,1, ,
-16,4 resistors Pack,R_PACK4,RP1,82,4X0402,1, ,
-17,,SW_DIP_4,SW1 SW2,SW_DIP_4,SW_DIP_4_THT,2, ,
-18,,DRILL,U3 U4 U5 U6,DRILL,DRILL_NP,4, ,
-19,,MAX31865,U2,MAX31865,QFN-20-5x5,1, ,
-20,,XMC1XXX24,U1,XMC1100,QFN24-4x4mm-0.5mm,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,1.1
-Date:,2022-12-12
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,20
-Component Count:,29 (17 SMD/ 12 THT)
-Fitted Components:,29 (17 SMD/ 12 THT)
-Number of PCBs:,1
-Total Components:,29
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"G***";"Logo_31x31";1;"Logo_31x31";;;
+2;"Fiducial_Mark,Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";3;"VAL**";;;
+3;"P2";"DEBUG_PAD";1;"Debug";;;
+4;"P3";"SolderJumper";1;"Boot";;;
+5;"RP1";"4X0402";1;"82";;;
+6;"U1";"QFN24-4x4mm-0.5mm";1;"XMC1100";;;
+7;"C1";"C0402F";1;"220pF";;;
+8;"C2";"C0805";1;"10uF";;;
+9;"C3,C4,C5,C6,C8";"C0603F";5;"100nF";;;
+10;"C7";"C0603F";1;"10nF";;;
+11;"D1";"D0603F";1;"blue";;;
+12;"FB2,FB1";"R0603F";2;"FB";;;
+13;"P1";"CON-SENSOR2";1;"CON-SENSOR";;;
+14;"R1";"R0603F";1;"1k";;;
+15;"R2";"R0603F";1;"390 0.1%";;;
+16;"R3";"R0603F";1;"3k9 0.1%";;;
+17;"RP2";"0603X4";1;"100";;;
+18;"U2";"QFN-20-5x5";1;"MAX31865";;;
+19;"U3,U4,U5,U6";"DRILL_NP";4;"DRILL";;;
+20;"P4";"OQ_8P";1;"CONN_01X08";;;
+21;"SW1,SW2";"SW_DIP_4_THT";2;"SW_DIP_4";;;
+22;"R4";"R0603F";1;"10M";;;
+23;"VAL";"CE_5mm";1;"CE_5mm";;;
+24;"VAL";"WEEE_7mm";1;"WEEE_7mm";;;
+25;"G***";"Logo_CoMCU";1;"LOGO";;;

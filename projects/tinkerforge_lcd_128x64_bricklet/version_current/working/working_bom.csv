@@ -1,41 +1,29 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C1,220pF,C0402F,1, ,
-2,,C,C4 C6 C11,100n,C0603F,3, ,
-3,,C,C3,1uF,C0603F,1, ,
-4,,C,C2 C5 C12,10uF,C0805,3, ,
-5,,C,C9 C10,"2,2uF",C0603F,2, ,
-6,,C,C7,"0,33uF",R0603F,1, ,
-7,,CP1,C8,100µF/6.3V,3528-21,1, ,
-8,,LED,D1,blue,D0603E,1, ,
-9,,LED,D2,green,D0603E,1, ,
-10,,CONN_01X02,P3,BOOT,SolderJumper,1, ,
-11,,CON-SENSOR2,P1,CON-SENSOR2,CON-SENSOR2,1, ,
-12,,CON_4Wire_ER-TP028-1,P4,CON_4Wire_ER-TP028-1,ER-CON04HB-2,1, ,
-13,,CONN_01X01,P2,Debug,DEBUG_PAD,1, ,
-14,,MOSFET_N_CH,Q1,2N7002,SOT23GDS,1, ,
-15,,R,R9,27,R1206,1, ,
-16,,R,R7,82,R0402F,1, ,
-17,,R,R1 R8,1k,R0603F,2, ,
-18,,R,R6,10M,R0603F,1, ,
-19,,R_PACK4,RP1 RP2,82,4X0402,2, ,
-20,,DRILL,U4 U5 U6 U7,DRILL,DRILL_NP,4, ,
-21,,LCD-ERC12864,U3,LCD-ERC12864,ERC12864-655_128x64,1, ,
-22,,TSC2046E,U2,TSC2046E,TSSOP16,1, ,
-23,,XMC1XXX24,U1,XMC130024,QFN24-4x4mm-0.5mm,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,1.0
-Date:,2018-03-27
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,23
-Component Count:,33 (21 SMD/ 12 THT)
-Fitted Components:,33 (21 SMD/ 12 THT)
-Number of PCBs:,1
-Total Components:,33
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"TSSOP16";1;"TSC2046E";;;
+2;"RP2,RP1";"4X0402";2;"82";;;
+3;"C1";"C0402F";1;"220pF";;;
+4;"C2,C12,C5";"C0805";3;"10uF";;;
+5;"C3";"C0603F";1;"1uF";;;
+6;"C4,C6,C11";"C0603F";3;"100n";;;
+7;"C7";"R0603F";1;"0,33uF";;;
+8;"C8";"3528-21";1;"100µF/6.3V";;;
+9;"C9,C10";"C0603F";2;"2,2uF";;;
+10;"D1";"D0603E";1;"blue";;;
+11;"P1";"CON-SENSOR2";1;"CON-SENSOR2";;;
+12;"P2";"DEBUG_PAD";1;"Debug";;;
+13;"P3";"SolderJumper";1;"BOOT";;;
+14;"Q1";"SOT23GDS";1;"2N7002";;;
+15;"R1,R8";"R0603F";2;"1k";;;
+16;"R6";"R0603F";1;"10M";;;
+17;"R7";"R0402F";1;"82";;;
+18;"U1";"QFN24-4x4mm-0.5mm";1;"XMC130024";;;
+19;"U4,U5,U6,U7";"DRILL_NP";4;"DRILL";;;
+20;"G***";"Logo_31x31";1;"Logo_31x31";;;
+21;"VAL";"WEEE_7mm";1;"WEEE_7mm";;;
+22;"G***";"Logo_CoMCU";1;"LOGO";;;
+23;"VAL";"CE_5mm";1;"CE_5mm";;;
+24;"Fiducial_Mark,Fiducial_Mark,Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";4;"VAL**";;;
+25;"D2";"D0603E";1;"green";;;
+26;"R9";"R1206";1;"27";;;
+27;"P4";"ER-CON04HB-2";1;"CON_4Wire_ER-TP028-1";;;
+28;"U3";"ERC12864-655_128x64";1;"LCD-ERC12864";;;

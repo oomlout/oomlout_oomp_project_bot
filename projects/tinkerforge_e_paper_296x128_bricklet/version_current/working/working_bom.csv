@@ -1,44 +1,33 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C1,220pF,C0402F,1, ,
-2,,C,C6 C12 C13,100nF,C0603F,3, ,
-3,,C,C14,220nF,C0603F,1, ,
-4,,C,C2 C4 C5 C9 C17,1uF,C0603F,5, ,
-5,,C,C18,10uF,C0805E,1, ,
-6,,C,C3,10uF,C0805,1, ,
-7,,C,C16,"0,47uF/25V",C0603F,1, ,
-8,,C,C7,1uF/10V,C0603F,1, ,
-9,,C,C10 C11 C15,1uF/25V,C0603F,3, ,
-10,,C,C8,"4,7uF/10V",C0603F,1, ,
-11,,DIODESCH,D2 D3 D4,B0520LW,SOD-123,3, ,
-12,,LED,D1,blue,D0603F,1, ,
-13,,INDUCTOR,L2,FB,R0603F,1, ,
-14,,INDUCTOR,L1,NR3015T4R7M,NRH3015,1, ,
-15,,CONN_01X02,P4,BOOT,SolderJumper,1, ,
-16,,CON-SENSOR2,P1,CON-SENSOR,CON-SENSOR2,1, ,
-17,,CONN_01X01,P5,DEBUG,DEBUG_PAD,1, ,
-18,,MOSFET_N_CH,Q1,2N7002P,SOT23GDS,1, ,
-19,,R,R1,"2,2",R0603F,1, ,
-20,,R,R2,1k,R0603F,1, ,
-21,,R_PACK4,RP101,220,4X0402,1, ,
-22,,R_PACK4,RP2,"4,7k",4X0402,1, ,
-23,,R_PACK4,RP1,82,4X0402,1, ,
-24,,Con24HT,U2,Con24HT,ER-CON24HT-1,1, ,
-25,,DRILL,U4 U5 U6 U7,DRILL,DRILL_NP,4, ,
-26,,XMC1XXX48,U1,XMC1404,QFN48-EP2,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,1.0
-Date:,2018-09-28
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,26
-Component Count:,39 (29 SMD/ 10 THT)
-Fitted Components:,39 (29 SMD/ 10 THT)
-Number of PCBs:,1
-Total Components:,39
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C0402F";1;"220pF";;;
+2;"C2,C4,C5,C17,C9";"C0603F";5;"1uF";;;
+3;"C3";"C0805";1;"10uF";;;
+4;"C6,C13,C12";"C0603F";3;"100nF";;;
+5;"C7";"C0603F";1;"1uF/10V";;;
+6;"C8";"C0603F";1;"4,7uF/10V";;;
+7;"C10,C11,C15";"C0603F";3;"1uF/25V";;;
+8;"C16";"C0603F";1;"0,47uF/25V";;;
+9;"D1";"D0603F";1;"blue";;;
+10;"D2,D3,D4";"SOD-123";3;"B0520LW";;;
+11;"L1";"NRH3015";1;"NR3015T4R7M";;;
+12;"P1";"CON-SENSOR2";1;"CON-SENSOR";;;
+13;"P5";"DEBUG_PAD";1;"DEBUG";;;
+14;"Q1";"SOT23GDS";1;"2N7002P";;;
+15;"R1";"R0603F";1;"2,2";;;
+16;"R2";"R0603F";1;"1k";;;
+17;"RP1";"4X0402";1;"82";;;
+18;"RP2";"4X0402";1;"4,7k";;;
+19;"U1";"QFN48-EP2";1;"XMC1404";;;
+20;"U4,U5,U6,U7";"DRILL_NP";4;"DRILL";;;
+21;"U2";"ER-CON24HT-1";1;"Con24HT";;;
+22;"C14";"C0603F";1;"220nF";;;
+23;"L2";"R0603F";1;"FB";;;
+24;"VAL";"CE_5mm";1;"CE_5mm";;;
+25;"C18";"C0805E";1;"10uF";;;
+26;"P4";"SolderJumper";1;"BOOT";;;
+27;"VAL";"WEEE_7mm";1;"WEEE_7mm";;;
+28;"G***";"Logo_CoMCU";1;"LOGO";;;
+29;"RP101";"4X0402";1;"220";;;
+30;"Fiducial_Mark,Fiducial_Mark,Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";4;"VAL**";;;
+31;"G***,G***";"Logo_31x31";2;"Logo_31x31";;;
+32;"REF**";"E-Paper-296x128";1;"E-Paper-296x128";;;

@@ -1,35 +1,23 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C1,220pF,C0402F,1, ,
-2,,C,C4,100nF,C0603F,1, ,
-3,,C,C3,1uF,C0603F,1, ,
-4,,C,C2,10uF,C0805E,1, ,
-5,,DIODE,D115 D116,1N4007,DO-41,2, ,
-6,,LED,D1 D2 D3,blue,D0603E,3, ,
-7,,DRILL,Drill1 Drill2 Drill3 Drill4,DRILL,DRILL_NP,4, ,
-8,Connector 01x02,CONN_01X02,P2,BOOT,SolderJumper,1, ,
-9,,CON-SENSOR2,P1,CON-SENSOR2,CON-SENSOR2,1, ,
-10,Connector 01x01,CONN_01X01,P3,Debug,DEBUG_PAD,1, ,
-11,Connector 01x08,CONN_01X08,P4,Input,OQ_8P_230V,1, ,
-12,,R,R1 R2 R3,1k,R0603F,3, ,
-13,,R,R116 R118,RNF12FTD249K,RNF12-2,2, ,
-14,4 resistors Pack,R_PACK4,RP105,10k,4X0603,1, ,
-15,4 resistors Pack,R_PACK4,RP1,82,4X0402,1, ,
-16,,HCPL-2731-000E,U109,HCPL2731,DIP-8,1, ,
-17,,XMC1XXX24,U1,XMC1100,QFN24-4x4mm-0.5mm,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,1.0
-Date:,2022-11-15
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,17
-Component Count:,26 (11 SMD/ 15 THT)
-Fitted Components:,26 (11 SMD/ 15 THT)
-Number of PCBs:,1
-Total Components:,26
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D1,D3,D2";"D0603E";3;"blue";;;
+2;"R2,R3,R1";"R0603F";3;"1k";;;
+3;"P3";"DEBUG_PAD";1;"Debug";;;
+4;"U1";"QFN24-4x4mm-0.5mm";1;"XMC1100";;;
+5;"Fiducial_Mark,Fiducial_Mark,Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";4;"VAL**";;;
+6;"D116,D115";"DO-41";2;"1N4007";;;
+7;"Drill3,Drill4,Drill2,Drill1";"DRILL_NP";4;"DRILL";;;
+8;"P4";"OQ_8P_230V";1;"Input";;;
+9;"C3";"C0603F";1;"1uF";;;
+10;"U109";"DIP-8";1;"HCPL2731";;;
+11;"P2";"SolderJumper";1;"BOOT";;;
+12;"G***";"Logo_31x31";1;"LOGO";;;
+13;"R118,R116";"RNF12-2";2;"RNF12FTD249K";;;
+14;"RP105";"4X0603";1;"10k";;;
+15;"C2";"C0805E";1;"10uF";;;
+16;"C4";"C0603F";1;"100nF";;;
+17;"RP1";"4X0402";1;"82";;;
+18;"P1";"CON-SENSOR2";1;"CON-SENSOR2";;;
+19;"C1";"C0402F";1;"220pF";;;
+20;"VAL";"WEEE_7mm";1;"WEEE_7mm";;;
+21;"G***";"Logo_CoMCU";1;"LOGO";;;
+22;"VAL";"CE_5mm";1;"CE_5mm";;;

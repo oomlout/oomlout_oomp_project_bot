@@ -1,49 +1,38 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C10,100pF,C0603F,1, ,
-2,,C,C12,220pF,C0402F,1, ,
-3,,C,C4,270pF,C0603F,1, ,
-4,,C,C11,1nF,C0603F,1, ,
-5,,C,C6 C8 C9 C14,100nF,C0603F,4, ,
-6,,C,C13,1uF,C0603F,1, ,
-7,,C,C1 C2 C5 C7,4.7µF,C0805,4, ,
-8,,C,C3,10uF,C0805,1, ,
-9,,DIODESCH,D1,B0520LW,SOD-123,1, ,
-10,,TVS,D4,CDSOD323-T15SC,SOD-323,1, ,
-11,,TVS2,D2 D3,DESD1P0RFW,SOT23-3,2, ,
-12,,LED,D5 D6,blue,D0603F,2, ,
-13,,FUSE,F1,OZCJ0035FF2G,C1206,1, ,
-14,,INDUCTOR,L2,10µH,NR3030,1, ,
-15,,INDUCT,L1 L3 L4,FB,R0603F,3, ,
-16,Connector 01x02,CONN_01X02,P4,BOOT,SolderJumper,1, ,
-17,,CON-SENSOR2,P1,CON-SENSOR2,CON-SENSOR2,1, ,
-18,,CONN_8,P2,CONN_8,OQ_8P,1, ,
-19,Connector 01x01,CONN_01X01,P3,DEBUG,DEBUG_PAD,1, ,
-20,,R,R8,10,R0603F,1, ,
-21,,R,R6 R7,15,R0603F,2, ,
-22,,R,R4,10k,R0603F,1, ,
-23,,R,R2,13.3k,R0603F,1, ,
-24,,R,R3,118k,R0603F,1, ,
-25,,R,R1,1M,R0603F,1, ,
-26,4 resistors Pack,R_PACK4,RP3,1k,4X0603,1, ,
-27,4 resistors Pack,R_PACK4,RP1 RP2,82,4X0402,2, ,
-28,,DACX760,U3,DACX760,TSSOP24-44-PWR,1, ,
-29,,DRILL,U4 U5 U6 U7,DRILL,DRILL_NP,4, ,
-30,,LMR62014X,U1,LMR62014X,SOT23-5,1, ,
-31,,XMC1XXX24,U2,XMC1100,QFN24-4x4mm-0.5mm,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,2.0
-Date:,2023-01-25
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,32
-Component Count:,47 (34 SMD/ 13 THT)
-Fitted Components:,46 (33 SMD/ 13 THT)
-Number of PCBs:,1
-Total Components:,46
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"Fiducial_Mark,Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";3;"VAL**";;;
+2;"G***";"Logo_31x31";1;"Logo_31x31";;;
+3;"D1";"SOD-123";1;"B0520LW";;;
+4;"D2,D3";"SOT23-3";2;"DESD1P0RFW";;;
+5;"D4";"SOD-323";1;"CDSOD323-T15SC";;;
+6;"P2";"OQ_8P";1;"CONN_8";;;
+7;"U3";"TSSOP24-44-PWR";1;"DACX760";;;
+8;"U4,U5,U6,U7";"DRILL_NP";4;"DRILL";;;
+9;"U1";"SOT23-5";1;"LMR62014X";;;
+10;"L2";"NR3030";1;"10µH";;;
+11;"C1,C2,C5,C7";"C0805";4;"4.7µF";;;
+12;"F1";"C1206";1;"OZCJ0035FF2G";;;
+13;"C3";"C0805";1;"10uF";;;
+14;"C13";"C0603F";1;"1uF";;;
+15;"C14,C6,C8,C9";"C0603F";4;"100nF";;;
+16;"D5,D6";"D0603F";2;"blue";;;
+17;"P1";"CON-SENSOR2";1;"CON-SENSOR2";;;
+18;"P3";"DEBUG_PAD";1;"DEBUG";;;
+19;"P4";"SolderJumper";1;"BOOT";;;
+20;"RP1,RP2";"4X0402";2;"82";;;
+21;"U2";"QFN24-4x4mm-0.5mm";1;"XMC1100";;;
+22;"C4";"C0603F";1;"270pF";;;
+23;"C10";"C0603F";1;"100pF";;;
+24;"C11";"C0603F";1;"1nF";;;
+25;"R1";"R0603F";1;"1M";;;
+26;"R2";"R0603F";1;"13.3k";;;
+27;"R3";"R0603F";1;"118k";;;
+28;"R4";"R0603F";1;"10k";;;
+29;"R5";"R0603F";1;"DNP";;;
+30;"R6,R7";"R0603F";2;"15";;;
+31;"R8";"R0603F";1;"10";;;
+32;"RP3";"4X0603";1;"1k";;;
+33;"C12";"C0402F";1;"220pF";;;
+34;"L1,L3,L4";"R0603F";3;"FB";;;
+35;"VAL";"WEEE_7mm";1;"WEEE_7mm_back";;;
+36;"VAL";"CE_5mm";1;"CE_5mm";;;
+37;"G***";"Logo_CoMCU";1;"LOGO";;;

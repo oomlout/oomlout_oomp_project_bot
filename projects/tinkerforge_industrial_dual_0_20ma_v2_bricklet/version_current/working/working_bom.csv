@@ -1,40 +1,29 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C3,220pF,C0402F,1, ,
-2,,C,C4 C5 C6 C8,100nF,C0603F,4, ,
-3,,C,C2 C7,1µF,C0603F,2, ,
-4,,C,C1,10uF,C0805,1, ,
-5,Diode zener,ZENER,D1,Z12V,MiniMelf,1, ,
-6,,LED,D2 D3 D4,blue,D0603F,3, ,
-7,,INDUCT,FB1 FB2,FB,C0603F,2, ,
-8,Connector 01x02,CONN_01X02,P3,BOOT,SolderJumper,1, ,
-9,,CON-SENSOR2,P1,CON-SENSOR2,CON-SENSOR2,1, ,
-10,Connector 01x01,CONN_01X01,P2,DEBUG,DEBUG_PAD,1, ,
-11,Connector 01x08,CONN_01X08,P4,P-PWR-8GN,OQ_8P,1, ,
-12,"Transistor P-MOSFET, collector connected to mounting plane (general)",MOSFET_N_CH,Q1,FDN5630,SOT23GDS,1, ,
-13,,R,R6 R7,91/25ppm,R0805,2, ,
-14,,R,R1 R4 R5,1k,R0603F,3, ,
-15,,R,R2,6k8,R0603F,1, ,
-16,,R,R8,100k,R0603F,1, ,
-17,4 resistors Pack,R_PACK4,RP2,1k,4X0603,1, ,
-18,4 resistors Pack,R_PACK4,RP101,2k2,4X0603,1, ,
-19,4 resistors Pack,R_PACK4,RP1,82,4X0402,1, ,
-20,,DRILL,U4 U5 U6 U7,DRILL,DRILL_NP,4, ,
-21,,MCP3423,U3,MCP3423,MSOP10-0.5,1, ,
-22,,XMC1XXX24,U1,XMC1100,QFN24-4x4mm-0.5mm,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,2.0
-Date:,2023-01-27
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,22
-Component Count:,35 (23 SMD/ 12 THT)
-Fitted Components:,35 (23 SMD/ 12 THT)
-Number of PCBs:,1
-Total Components:,35
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"G***";"Logo_31x31";1;"Logo_31x31";;;
+2;"Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";2;"VAL**";;;
+3;"P2";"DEBUG_PAD";1;"DEBUG";;;
+4;"P3";"SolderJumper";1;"BOOT";;;
+5;"U1";"QFN24-4x4mm-0.5mm";1;"XMC1100";;;
+6;"C1";"C0805";1;"10uF";;;
+7;"C7";"C0603F";1;"1uF";;;
+8;"C8,C4,C5,C6";"C0603F";4;"100nF";;;
+9;"D1";"MiniMelf";1;"Z12V";;;
+10;"D2,D3,D4";"D0603F";3;"blue";;;
+11;"P1";"CON-SENSOR2";1;"CON-SENSOR2";;;
+12;"P4";"OQ_8P";1;"P-PWR-8GN";;;
+13;"Q1";"SOT23GDS";1;"FDN5630";;;
+14;"R6,R7";"R0805";2;"91/25ppm";;;
+15;"RP1";"4X0402";1;"82";;;
+16;"RP2";"4X0603";1;"1k";;;
+17;"U3";"MSOP10-0.5";1;"MCP3423";;;
+18;"U4,U5,U6,U7";"DRILL_NP";4;"DRILL";;;
+19;"RP101";"4X0603";1;"2k2";;;
+20;"C2";"C0603F";1;"1µF";;;
+21;"C3";"C0402F";1;"220pF";;;
+22;"FB1,FB2";"C0603F";2;"FB";;;
+23;"R1,R4,R5";"R0603F";3;"1k";;;
+24;"R2";"R0603F";1;"6k8";;;
+25;"R8";"R0603F";1;"100k";;;
+26;"VAL";"CE_5mm";1;"CE_5mm";;;
+27;"VAL";"WEEE_7mm";1;"WEEE_7mm";;;
+28;"G***";"Logo_CoMCU";1;"LOGO";;;

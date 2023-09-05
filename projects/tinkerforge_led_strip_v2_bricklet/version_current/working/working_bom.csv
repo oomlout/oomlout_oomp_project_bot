@@ -1,38 +1,27 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C1,220pF,C0402F,1, ,
-2,,C,C3 C4 C5 C8 C9,100nF,C0603F,5, ,
-3,,C,C2,10uF,C0805E,1, ,
-4,,TVS,D1 D2,ESD5V0D3B-TP,SOD-323,2, ,
-5,,LED,D3,blue,D0603F,1, ,
-6,,AKL_5_2,J1 J2 J3,AKL_5_2,AKL_5_2,3, ,~
-7,,INDUCTOR,L1,0,R0603F,1, ,
-8,,INDUCTOR,L2,FB,R0603F,1, ,
-9,Connector 01x02,CONN_01X02,P8,Boot,SolderJumper,1, ,
-10,,CON-SENSOR2,P1,CON-SENSOR,CON-SENSOR2,1, ,
-11,Connector 01x01,CONN_01X01,P9,Debug,DEBUG_PAD,1, ,
-12,Connector 01x01,CONN_01X01,P2 P3 P4 P5 P6 P7,TST,SOLDER_PAD2,6, ,
-13,,R,R6 R7,100,R0603F,2, ,
-14,,R,R4 R5,470,R0603F,2, ,
-15,,R,R1 R3,1k,R0603F,2, ,
-16,,R,R2,10k,R0603F,1, ,
-17,4 resistors Pack,R_PACK4,RP1,82,4X0402,1, ,
-18,buffer with Schmitt trigger.,74LVC1G17,U6 U7,74LVC1G17,SOT23-5,2, ,
-19,,DRILL,U2 U3 U4 U5,DRILL,DRILL_NP,4, ,
-20,,XMC1XXX24,U1,XMC1302,QFN24-4x4mm-0.5mm,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,2.2
-Date:,2023-01-25
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,21
-Component Count:,41 (22 SMD/ 19 THT)
-Fitted Components:,39 (20 SMD/ 19 THT)
-Number of PCBs:,1
-Total Components:,39
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"Fiducial_Mark,Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";3;"VAL**";;;
+2;"J1,J2,J3";"AKL_5_2";3;"AKL_5_2";;;
+3;"P2,P3,P4,P5,P6,P7";"SOLDER_PAD2";6;"TST";;;
+4;"U2,U3,U4,U5";"DRILL_NP";4;"DRILL";;;
+5;"D1,D2";"SOD-323";2;"ESD5V0D3B-TP";;;
+6;"C2";"C0805E";1;"10uF";;;
+7;"C3,C4,C5,C8,C9";"C0603F";5;"100nF";;;
+8;"L1";"R0603F";1;"0";;;
+9;"P1";"CON-SENSOR2";1;"CON-SENSOR";;;
+10;"R1,R3";"R0603F";2;"1k";;;
+11;"R2";"R0603F";1;"10k";;;
+12;"RP1";"4X0402";1;"82";;;
+13;"U1";"QFN24-4x4mm-0.5mm";1;"XMC1302";;;
+14;"P8";"SolderJumper";1;"Boot";;;
+15;"P9";"DEBUG_PAD";1;"Debug";;;
+16;"R4,R5";"R0603F";2;"470";;;
+17;"C1";"C0402F";1;"220pF";;;
+18;"D3";"D0603F";1;"blue";;;
+19;"C6,C7";"C0603F";2;"DNP";;;
+20;"R6,R7";"R0603F";2;"100";;;
+21;"U6,U7";"SOT23-5";2;"74LVC1G17";;;
+22;"L2";"R0603F";1;"FB";;;
+23;"G***";"Logo_31x31";1;"LOGO";;;
+24;"VAL";"CE_5mm";1;"CE_5mm";;;
+25;"VAL";"WEEE_7mm";1;"WEEE_7mm";;;
+26;"G***";"Logo_CoMCU";1;"LOGO";;;

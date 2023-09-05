@@ -1,36 +1,21 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC,LCSC2
-1,Unpolarized capacitor,C,C3 C4,15p,C_0402_1005Metric,2, ,~,C1548,
-2,Unpolarized capacitor,C,C7 C8 C9 C10 C11 C12 C13 C14,100n,C_0402_1005Metric,8, ,~,C1525,
-3,Unpolarized capacitor,C,C1 C2,1µ,C_0603_1608Metric,2, ,~,C19666,
-4,Unpolarized capacitor,C,C5 C6,1µ,C_0402_1005Metric,2, ,~,C52923,
-5,Schottky diode,D_Schottky,D2,B5817,D_SOD-323,1, ,~,C123899,
-6,Light emitting diode,LED,D1,LED,LED_0402_1005Metric,1, ,~,C130719,
-7,"Resettable fuse, polymeric positive temperature coefficient",Polyfuse,F1,Polyfuse,Fuse_0603_1608Metric,1, ,~,C69679,
-8,"Ferrite bead, small symbol",FerriteBead_Small,FB1,FerriteBead_Small,L_0603_1608Metric,1, ,~,C98288,
-9,USB 2.0-only Type-C Receptacle connector,USB_C_Receptacle_USB2.0,J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-13B,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,C2848619,
-10,Resistor,R,R6 R7,27,R_0402_1005Metric,2, ,~,C25100,
-11,Resistor,R,R1 R3 R8,1k,R_0402_1005Metric,3, ,~,C11702,
-12,Resistor,R,R4 R5 R10,5.1k,R_0402_1005Metric,3, ,~,C25905,
-13,Resistor,R,R2 R9 R11,10k,R_0402_1005Metric,3, ,~,C25744,
-14,"Push button switch, generic, two pins",SW_Push,SW1 SW2,SW_Push,SW_SPST_CK_KXT3,2, ,~,C319433,
-15,"32Mb Serial Flash Memory, Standard/Dual/Quad SPI, DFN-8",W25Q32JVZP,U2,GD25Q80CEIGR,USON-8-1EP_3x2mm_P0.5mm_EP0.25x1.65mm,1, ,,C395484,
-16,,RP2040,U1,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1, ,,C2040,
-17,"300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 3.3V fixed positive output, SOT-23-5",AP2127K-3.3,U3,XC6210B332MR-G,SOT-23-5,1, ,,C82942,C47719
-18,"Four pin crystal, GND on pins 2 and 4",Crystal_GND24,Y1,Crystal_GND24,Crystal_SMD_2520-4Pin_2.5x2.0mm,1, ,~,C2149204,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,2
-Date:,2023-08-02_17-09-07
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,18
-Component Count:,36 (36 SMD/ 0 THT)
-Fitted Components:,36 (36 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,36
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C14,C9,C12,C13,C8,C11,C10,C7";"C_0402_1005Metric";8;"100n";;;
+2;"R10,R5,R4";"R_0402_1005Metric";3;"5.1k";;;
+3;"C5,C6";"C_0402_1005Metric";2;"1µ";;;
+4;"D2";"D_SOD-323";1;"B5817";;;
+5;"R8,R1,R3";"R_0402_1005Metric";3;"1k";;;
+6;"U3";"SOT-23-5";1;"XC6210B332MR-G";;;
+7;"R6,R7";"R_0402_1005Metric";2;"27";;;
+8;"F1";"Fuse_0603_1608Metric";1;"Polyfuse";;;
+9;"SW2,SW1";"SW_SPST_CK_KXT3";2;"SW_Push";;;
+10;"U2";"USON-8-1EP_3x2mm_P0.5mm_EP0.25x1.65mm";1;"GD25Q80CEIGR";;;
+11;"J1";"USB_C_Receptacle_HRO_TYPE-C-31-M-13B";1;"USB_C_Receptacle_USB2.0";;;
+12;"R2,R11,R9";"R_0402_1005Metric";3;"10k";;;
+13;"Y1";"Crystal_SMD_2520-4Pin_2.5x2.0mm";1;"Crystal_GND24";;;
+14;"C4,C3";"C_0402_1005Metric";2;"15p";;;
+15;"FB1";"L_0603_1608Metric";1;"FerriteBead_Small";;;
+16;"D1";"LED_0402_1005Metric";1;"LED";;;
+17;"C2,C1";"C_0603_1608Metric";2;"1µ";;;
+18;"U1";"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";1;"RP2040";;;
+19;"splinky";"splinky";1;"G*****";;;
+20;"rb_cake";"rb_cake";1;"G*****";;;

@@ -1,33 +1,21 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C2,220pF,C0402F,1, ,
-2,,C,C1 C4,100nF,C0603F,2, ,
-3,,C,C3,10uF,C0805,1, ,
-4,,LED,D1 D2 D3 D4 D5,blue,D0603F,5, ,
-5,Connector 01x02,CONN_01X02,P4,Boot,SolderJumper,1, ,
-6,,CON-SENSOR2,P1,CON-SENSOR,CON-SENSOR2,1, ,
-7,Connector 01x01,CONN_01X01,P3,Debug,DEBUG_PAD,1, ,
-8,,CONN_8,P2,Digital Output,OQ_8P,1, ,
-9,,R,R5,1k,R0603F,1, ,
-10,,Varistor,R1 R2 R3 R4,VJ13PC0300KBA,R1210,4, ,
-11,4 resistors Pack,R_PACK4,RP1 RP3,1k,0603X4,2, ,
-12,4 resistors Pack,R_PACK4,RP2,82,4X0402,1, ,
-13,,OPTO-TRANSISTOR_MOSFET,U2 U3 U4 U5,CPC1002N,SOP4-WIDE,4, ,
-14,,DRILL,U6 U7 U8 U9,DRILL,DRILL_NP,4, ,
-15,,XMC1XXX24,U1,XMC1100,QFN24-4x4mm-0.5mm,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,2.1
-Date:,2021-12-03
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,15
-Component Count:,30 (17 SMD/ 13 THT)
-Fitted Components:,30 (17 SMD/ 13 THT)
-Number of PCBs:,1
-Total Components:,30
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";2;"VAL**";;;
+2;"G***";"Logo_31x31";1;"Logo_31x31";;;
+3;"P3";"DEBUG_PAD";1;"Debug";;;
+4;"P4";"SolderJumper";1;"Boot";;;
+5;"RP2";"4X0402";1;"82";;;
+6;"U1";"QFN24-4x4mm-0.5mm";1;"XMC1100";;;
+7;"C1,C4";"C0603F";2;"100nF";;;
+8;"C2";"C0402F";1;"220pF";;;
+9;"C3";"C0805";1;"10uF";;;
+10;"D1,D2,D3,D4,D5";"D0603F";5;"blue";;;
+11;"P1";"CON-SENSOR2";1;"CON-SENSOR";;;
+12;"P2";"OQ_8P";1;"Digital Output";;;
+13;"R1,R2,R3,R4";"R1210";4;"VJ13PC0300KBA";;;
+14;"R5";"R0603F";1;"1k";;;
+15;"RP1,RP3";"0603X4";2;"1k";;;
+16;"U2,U3,U4,U5";"SOP4-WIDE";4;"CPC1002N";;;
+17;"U6,U7,U8,U9";"DRILL_NP";4;"DRILL";;;
+18;"VAL";"WEEE_7mm";1;"WEEE_7mm";;;
+19;"VAL";"CE_5mm";1;"CE_5mm";;;
+20;"G***";"Logo_CoMCU";1;"LOGO";;;

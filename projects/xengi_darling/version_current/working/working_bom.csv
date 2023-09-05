@@ -1,31 +1,14 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,Unpolarized capacitor,C,C5 C6,47pF,C_0402_1005Metric,2, ,~
-2,"Unpolarized capacitor, small symbol",C_Small,C1,10nF,C_0402_1005Metric,1, ,~
-3,Unpolarized capacitor,C,C2 C4,100nF,C_0402_1005Metric,2, ,~
-4,,CP-Device,C3,4.7uF,C_0402_1005Metric,1, ,~
-5,Light emitting diode,LED,D1,RXLED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~
-6,Light emitting diode,LED,D2,TXLED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1, ,~
-7,,Ferrite_Bead-Device,FB1,Ferrite_Bead,L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1, ,~
-8,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05,J2,Conn_01x05,PinHeader_1x05_P2.54mm_Horizontal,1, ,~
-9,,USB_C_Receptacle_USB2.0-Connector,J1,USB_C_Receptacle_USB2.0,CX70M-24P1,1, ,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
-10,Resistor,R,R1 R2,27R,R_0402_1005Metric,2, ,~
-11,Resistor,R,R3 R4,270R,R_0402_1005Metric,2, ,~
-12,"Resistor, small symbol",R_Small,R5 R6,5k1,R_0402_1005Metric,2, ,~
-13,"Full Speed USB to Basic UART, QFN-16",FT230XQ,U1,FT230XQ,QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm,1, ,http://www.ftdichip.com/Products/ICs/FT230X.html
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-02_17-09-08
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,13
-Component Count:,18 (17 SMD/ 1 THT)
-Fitted Components:,18 (17 SMD/ 1 THT)
-Number of PCBs:,1
-Total Components:,18
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D2";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"TXLED";;;
+2;"FB1";"L_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"Ferrite_Bead";;;
+3;"U1";"QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm";1;"FT230XQ";;;
+4;"J2";"PinHeader_1x05_P2.54mm_Horizontal";1;"Conn_01x05";;;
+5;"R4,R3";"R_0402_1005Metric";2;"270R";;;
+6;"R2,R1";"R_0402_1005Metric";2;"27R";;;
+7;"C5,C6";"C_0402_1005Metric";2;"47pF";;;
+8;"J1";"CX70M-24P1";1;"USB_C_Receptacle_USB2.0";;;
+9;"C3";"C_0402_1005Metric";1;"4.7uF";;;
+10;"C4,C2";"C_0402_1005Metric";2;"100nF";;;
+11;"D1";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"RXLED";;;
+12;"R5,R6";"R_0402_1005Metric";2;"5k1";;;
+13;"C1";"C_0402_1005Metric";1;"10nF";;;

@@ -1,32 +1,20 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,C,C102,220pF,C0402F,1, ,
-2,,C,C104 C105,100nF,C0603F,2, ,
-3,,C,C103,1uF,C0603F,1, ,
-4,,C,C101,10uF,C0805,1, ,
-5,,LED,D101,blue,D0603F,1, ,
-6,Connector 01x02,CONN_01X02,P103,BOOT,SolderJumper,1, ,
-7,,CON-SENSOR2,P101,CON-SENSOR2,CON-SENSOR2,1, ,
-8,Connector 01x01,CONN_01X01,P102,DEBUG,DEBUG_PAD,1, ,
-9,,R,R101,1k,R0603F,1, ,
-10,4 resistors Pack,R_PACK4,RP102,4k7,0603X4,1, ,
-11,4 resistors Pack,R_PACK4,RP101,82,4X0402,1, ,
-12,,DRILL,U103 U104 U105 U106,DRILL,DRILL_NP,4, ,
-13,,HDC1080,U102,HDC1080,DFN6-30x30_humidity,1, ,
-14,,XMC1XXX24,U101,XMC1100-16,QFN24-4x4mm-0.5mm,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,2.0
-Date:,2023-01-27
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,14
-Component Count:,18 (10 SMD/ 8 THT)
-Fitted Components:,18 (10 SMD/ 8 THT)
-Number of PCBs:,1
-Total Components:,18
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U101";"QFN24-4x4mm-0.5mm";1;"XMC1100-16";;;
+2;"G***";"Logo_31x31";1;"Logo_31x31";;;
+3;"P102";"DEBUG_PAD";1;"DEBUG";;;
+4;"P103";"SolderJumper";1;"BOOT";;;
+5;"Fiducial_Mark,Fiducial_Mark";"Fiducial_Mark";2;"VAL**";;;
+6;"U102";"DFN6-30x30_humidity";1;"HDC1080";;;
+7;"C101";"C0805";1;"10uF";;;
+8;"C102";"C0402F";1;"220pF";;;
+9;"C103";"C0603F";1;"1uF";;;
+10;"C104,C105";"C0603F";2;"100nF";;;
+11;"D101";"D0603F";1;"blue";;;
+12;"P101";"CON-SENSOR2";1;"CON-SENSOR2";;;
+13;"R101";"R0603F";1;"1k";;;
+14;"RP101";"4X0402";1;"82";;;
+15;"RP102";"0603X4";1;"4k7";;;
+16;"U103,U104,U105,U106";"DRILL_NP";4;"DRILL";;;
+17;"G***";"Logo_CoMCU";1;"LOGO";;;
+18;"G***";"WEEE_7mm";1;"LOGO";;;
+19;"VAL";"CE_5mm";1;"CE_5mm";;;

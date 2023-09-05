@@ -1,28 +1,13 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP0402,C4 C5,22pf,C0402,2, ,
-2,,CAP0402,C1 C2 C3 C8,0.1uF,C0402,4, ,
-3,,CAP_POL3528,C6 C7,47uF,EIA3528,2, ,
-4,,POWER_JACKRCA_LOCK,J1 J2,POWER_JACKRCA_LOCK,RCA_LOCK,2, ,
-5,,M11PTH,JP1,M11PTH,1X11,1, ,
-6,,RESISTOR0402,R1 R2,75,C0402,2, ,
-7,,MAX7456,U3,MAX7456,TSSOP28,1, ,
-8,,LOGO-SFENEW,U$8,LOGO-SFENEW,SFE-NEW-WEBLOGO,1, ,
-9,,STAND-OFF,U$2 U$12 U$13 U$14,STAND-OFF,STAND-OFF,4, ,
-10,,CRYSTAL5X3,Y2,27MHz,CRYSTAL-SMD-5X3,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-06_12-56-11
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,10
-Component Count:,20 (0 SMD/ 0 THT)
-Fitted Components:,20 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,20
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U$10,U$9";"FIDUCIAL-1X2";2;"FIDUCIAL1X2";;;
+2;"C6,C7";"EIA3528";2;"47uF";;;
+3;"Y2";"CRYSTAL-SMD-5X3";1;"27MHz";;;
+4;"C4,C5";"C0402";2;"22pf";;;
+5;"C3,C2,C8,C1";"C0402";4;"0.1uF";;;
+6;"U3";"TSSOP28";1;"MAX7456";;;
+7;"J1,J2";"RCA_LOCK";2;"POWER_JACKRCA_LOCK";;;
+8;"R1,R2";"C0402";2;"75";;;
+9;"U$13,U$14,U$12,U$2";"STAND-OFF";4;"STAND-OFF";;;
+10;"JP1";"1X11";1;"M11PTH";;;
+11;"V_IN0,V_OUT0";"PAD.03X.05";2;"TEST-POINT3X5";;;
+12;"U$8";"SFE-NEW-WEBLOGO";1;"LOGO-SFENEW";;;

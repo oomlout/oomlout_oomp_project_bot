@@ -1,32 +1,15 @@
-Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
-1,,CAP0402-CAP,C6 C7,1.0pF,0402-CAP,2, ,
-2,,CAP0402-CAP,C1 C2 C5,22pF,0402-CAP,3, ,
-3,,CAP0402-CAP,C9,1nF,0402-CAP,1, ,
-4,,CAP0402-CAP,C4,2.2nF,0402-CAP,1, ,
-5,,CAP0402-CAP,C8,10nF,0402-CAP,1, ,
-6,,CAP0402-CAP,C3,33nF,0402-CAP,1, ,
-7,,M07,JP1,M07,1X07,1, ,
-8,,INDUCTOR0402,L1,3.3nH,C0402,1, ,
-9,,INDUCTOR0402,L2,33nH,C0402,1, ,
-10,,CRYSTAL5X3,Q1,16MHz,CRYSTAL-SMD-5X3,1, ,
-11,,RESISTOR0402-RES,R2,22K,0402-RES,1, ,
-12,,RESISTOR0402-RES,R1,1M,0402-RES,1, ,
-13,,NRF2401ASMD,U1,NRF2401ASMD,MLP-24,1, ,
-14,,LOGO-SFESK,U$1,LOGO-SFESK,SFE-LOGO-FLAME,1, ,
-
-
-
-
-
-Project info:
-Schematic:,working
-Variant:,default
-Revision:,
-Date:,2023-08-06_12-56-10
-KiCad Version:,7.0.6-7.0.6~ubuntu22.04.1
-Statistics:
-Component Groups:,14
-Component Count:,17 (0 SMD/ 0 THT)
-Fitted Components:,17 (0 SMD/ 0 THT)
-Number of PCBs:,1
-Total Components:,17
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"L1";"C0402";1;"3.3nH";;;
+2;"JP1";"1X07";1;"";;;
+3;"C2,C5,C1";"0402-CAP";3;"22pF";;;
+4;"L2";"C0402";1;"33nH";;;
+5;"Q1";"CRYSTAL-SMD-5X3";1;"16MHz";;;
+6;"C8";"0402-CAP";1;"10nF";;;
+7;"C7,C6";"0402-CAP";2;"1.0pF";;;
+8;"R1";"0402-RES";1;"1M";;;
+9;"C4";"0402-CAP";1;"2.2nF";;;
+10;"C9";"0402-CAP";1;"1nF";;;
+11;"U1";"MLP-24";1;"NRF2401ASMD";;;
+12;"C3";"0402-CAP";1;"33nF";;;
+13;"R2";"0402-RES";1;"22K";;;
+14;"U$1";"SFE-LOGO-FLAME";1;"LOGO-SFESK";;;
